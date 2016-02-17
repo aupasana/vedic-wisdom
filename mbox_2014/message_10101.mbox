@@ -1,0 +1,526 @@
+From ashish_tank@...  Wed Feb 17 11:07:36 2016
+Return-Path: <ashish_tank@...>
+X-Sender: ashish_tank@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 40349 invoked by uid 102); 12 Feb 2014 16:39:56 -0000
+X-Received: from unknown (HELO mtaq2.grp.bf1.yahoo.com) (10.193.84.33)
+  by m16.grp.bf1.yahoo.com with SMTP; 12 Feb 2014 16:39:56 -0000
+X-Received: (qmail 11022 invoked from network); 12 Feb 2014 16:39:56 -0000
+X-Received: from unknown (HELO nm44.bullet.mail.ne1.yahoo.com) (98.138.120.51)
+  by mtaq2.grp.bf1.yahoo.com with SMTP; 12 Feb 2014 16:39:56 -0000
+X-Received: from [127.0.0.1] by nm44.bullet.mail.ne1.yahoo.com with NNFMP; 12 Feb 2014 16:39:56 -0000
+X-Received: from [98.138.100.102] by nm44.bullet.mail.ne1.yahoo.com with NNFMP; 12 Feb 2014 16:39:44 -0000
+X-Received: from [106.10.166.121] by tm101.bullet.mail.ne1.yahoo.com with NNFMP; 12 Feb 2014 16:39:43 -0000
+X-Received: from [106.10.151.138] by tm10.bullet.mail.sg3.yahoo.com with NNFMP; 12 Feb 2014 16:39:43 -0000
+X-Received: from [127.0.0.1] by omp1006.mail.sg3.yahoo.com with NNFMP; 12 Feb 2014 16:39:43 -0000
+X-Yahoo-Newman-Property: ymail-4
+X-Yahoo-Newman-Id: 356585.92250.bm@...
+X-Received: (qmail 4789 invoked by uid 60001); 12 Feb 2014 16:39:43 -0000
+X-YMail-OSG: iMR62GAVM1mOnau_SY1d3ghodaSu3mnvSIdO_WXPc9bVM5r
+ xOTKnQxPuNRfdE947fDHLHSP.B0dr4I7stGMPfBcjaxZgGcL78wILmu9EoZx
+ iuXpytWniZ9ppIoBzFhIgyWcn73.3b.0gpBq92adNk1u6YXQrY51BYOLbBoC
+ Cyzj43rBFZUYPWAIYUy.UWJIT36W2oe7EI2qai9KXePHA3wqAMXAhDqUFRZI
+ KRDKY6B8WZLkPu.LdgP9bCOOTx3udt1tb2IGZHTy21AQeOTeB2Ip51xebj5h
+ DfEEeeM7KOAzxfKysvclol2G.rCt4RB9SWrkZdloNi7oF2SqgYQs3a1jL84s
+ 2zaV59IgBdjy9EBCTMSWz8BVQuD0iYhxeDH4jrhWR3TJLb0QCmoj1DkdUGQr
+ 7eQAgTd5owb3gz_c.i7i9NrarLYV0A2CEaTgfuD6hsjqzs_m3.mXBSUlimpq
+ Bdxip5qx9CnmIQfADPlbxjpVg7aYP.ZYKU.BvUUN0AozE4KTDn14AM9QUjM0
+ ndob1i5fwFWvVVND9l6bErIHFNJzZf6XGV7hMyW.7LKnz7NbghF2gVhdjBkL
+ GPjcO3ilMpUiOg_zNdQXTrupSvaI.NLLgzbtqK2aDYRKz0i9CYbIS2MCsFRR
+ kvndkg9tiG5Sq5H0RzOApo6gaJYwy981T3bZdNdfSlfDX7PHJiB1Ha5SMFEK
+ G_Cw83EhL3jzQVvQfhGehqDfyBDfV.xcQst4HBqX2f6HzUar67FJuEN.FX0U
+ EASU1g1hMFN0j8hFtD.CHx.Jp7H6zNBZ2ZTybAFe5DVSjQJ9kLJsEKdkuTBw
+ .lvNQJPhO31xCH6kwEuo2DRaN2Il_mpDeo2HyCP8tObRGWIR4komNUfpvHzH
+ NRcyByWSEdSI.aLik5J.766q_OX3aWhIyQEmA.9QZgdRee9ezMuqyPJOGvXv
+ vJD7cq_uX9_jM4sjL_nH27NYuTMVRSN2w5I.XcNcMUz4Yhc8HMe81GXIvo0.
+ 7cH4Oz_ABtU7wovwZ.E.t5zrAexHKtZXXpnsqotXFqhkjWrBRJFkMayk3irJ
+ y9_EFjX7XNbgNcGfZSaeg0Up7OFzXFDMjl1DLmLpUG6Fz4EjFoxWxYNWxmDZ
+ mRwuLNXEJJ0PehknrBVRzB9pLpRDgrAOfG65SYXo5F6kdEWY8Pq8Ic.C7NcR
+ t8WvMZ604MJY334uoeuEB.0v0drNDkCD0PoevqTsJI4Wq60rboHU1_ufFwdC
+ EgHYkXHy8Z8gwEhFnz3wttCjlwZVYu4tTBxHfIwWZfUimtjr2SWEAKz40Czi
+ XBs0cmd2HOHN2n78sPw75bJVg1FXCkfKUeMAzS6VcHYv9BahrNkkR2CfWKbU
+ UBkR4cqvZG7mGzb_hRSNLL73N6WPiDtsGIwPTy6ILZw5xlAM8mDV.pn9oR7d
+ paW66pQZ2YNNOhq.HEMpzeuOGIxH42nXiXdhN4S36ebBhYPun0e6VuXybtJd
+ 9pm33yMUu5dFLwDfXv3VDCVMPTy87vY_JAbdx2kkKaP2XfAdnuLxN9OV7qeR
+ ngg2xMxgnsEcSUGwlDbXNtqvjg49lGgX0efFgNA6EdnDjbXBEzB5IjtdHsaj
+ 9xNMZwExxzvBAT9w.m4S58xv3kjyntkbfTN0oWF0.yhcr7UfXz2OxH8sfQhD
+ UJvqjslEZZ9n.thJu8C0ZnWqLwvwl7wI1_Y.RJuY3IZ4LK3GwJ54PjiV9Q7i
+ jBbHQR9RXM.HXAUHdFShuONtCtJXCm90blCs_d2tnZ2i4os6yLmO00pwBONl
+ tK4DP74h8FK2jUyI.0cEyOWyeIGs7JNmkg5PdBNVF_TEoTQNoFMAoek5NKNg
+ RjFxo0hAbFZVPp2_CDAneg6prxNifa3xv_tmhRrUYEJyDxz94gZWLeUp7put
+ tBo_qjICWs38hKoT5Qi1fBTW_j6p1ULc4njlzxRpdxP_1iE86q8w2v1oQexH
+ 2mJg3VebBw.AIgxYVFixpQi5Jx78iJK0Zo9IczDs3ITaAqY1E0NLgGZqXy0B
+ RSIkU.iSSK_Tv315XXzsr2Ti5IIT0TAd2qNO5A.Xxoz5hYOMNtCaIHqPV9_Z
+ nrLemqUvaNXW8l22DKPyHcCIpozt288h1ua1UUUZpUp99rSy0Bvpo7Al4NC7
+ FSFwVjrXITfzbV3Q.Io5uL24l0oBIod.HmwS2czqVVzwCFF7mlFLfWUUrJbm
+ CNBWJw1de0lU0QCcCguLeWan83yQc.jz8C92_J50zZ_2ns7Y-
+X-Received: from [219.91.177.250] by web193206.mail.sg3.yahoo.com via HTTP; Thu, 13 Feb 2014 00:39:42 SGT
+X-Rocket-MIMEInfo: 002.001,VGhlcmUgYXJlIHR3byB0eXBlcyBvZiBtb3RpdmF0aW9uIHRvIGRvIGthcm1hIDEpIGNvZXJjaW9uIDIpIHBhc3Npb24KCgoKCgpPbiBUdWVzZGF5LCAxMSBGZWJydWFyeSAyMDE0IDI6NDIgQU0sIEthbm5hbiBJeWVuZ2FyIDxwcm9mLmthbm5hbi5peWVuZ2FyQGdtYWlsLmNvbT4gd3JvdGU6CiAKwqAgCk5hbWFzdHRheSwKMS7CoMKgwqDCoMKgwqAgQmVjYXVzZSBhIExhdyBpcyBvbmUgd2hpY2ggaXMgYWx3YXlzIHRydWUuIFNvbWV0aGluZyB3aGljaCBpcwp0cnVlIGF0IG9uZSB0aW1lIGFuZCBmYWxzZSBhdCABMAEBAQE-
+X-Mailer: YahooMailWebService/0.8.176.634
+References: <lb0plt+l1urd4@...> <52f940ad.a7dd420a.3568.ffffa0e6@...>
+Message-ID: <1392223182.95249.YahooMailNeo@...>
+Date: Thu, 13 Feb 2014 00:39:42 +0800 (SGT)
+To: "vedic-wisdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com>
+In-Reply-To: <52f940ad.a7dd420a.3568.ffffa0e6@...>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="730575183-1021602514-1392223182=:95249"
+X-Originating-IP: 10.193.84.33
+X-eGroups-Msg-Info: 1:12:0:0:0
+From: Ashish Tank <ashish_tank@...>
+Reply-To: Ashish Tank <ashish_tank@...>
+Subject: Re: [vedic-wisdom] Karma
+X-Yahoo-Group-Post: member; u=392701165; y=Euj2uFz2bUXM2KyBvNnTkplBgC7PZb10lyRnqlWThgqXvMvV5deRgYgSQH7nzUsv
+X-Yahoo-Profile: ashish_tank@...
+
+
+--730575183-1021602514-1392223182=:95249
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+There are two types of motivation to do karma 1) coercion 2) passion
+
+
+
+
+
+O=
+n Tuesday, 11 February 2014 2:42 AM, Kannan Iyengar <prof.kannan.iyengar@gm=
+ail.com> wrote:
+ 
+=C2=A0 
+Namasttay,
+1.=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=
+ Because a Law is one which is always true. Something which is
+true at one =
+time and false at other time cannot be a Law.
+2.=C2=A0=C2=A0=C2=A0=C2=A0=C2=
+=A0=C2=A0 Karma is eternal and no one can stop doing karma, as Shri
+Krishna=
+ verily admits that He himself cannot stop avoiding doing karma(action).
+Si=
+nce karma(action) is eternal and can never be avoided even by Naraayana
+Him=
+self, Shri Krishna beautifully teaches the art of Karma-Yoga for Moksha. Oh=
+
+What=C2=A0 a Genius Treatise!!! Om Namo Naaraayanaaya!
+=C2=A0
+With Kind Re=
+gards,
+Kannan
+=C2=A0
+From:vedic-wisdom@yahoogroups.com [mailto:vedic-wisdom=
+@yahoogroups.com] On Behalf
+Of banerjeerajarshi@...
+Sent: Monday=
+, January 13, 2014 6:58 PM
+To: vedic-wisdom@yahoogroups.com
+Subject: [vedic=
+-wisdom] Karma
+=C2=A0
+=C2=A0 
+Why does the law of Karma always hold true? W=
+hat drives Karma?
+
+--730575183-1021602514-1392223182=:95249
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"color:#000; background-color:#fff; font-family:ti=
+mes new roman, new york, times, serif;font-size:12pt">There are two types o=
+f motivation to do karma 1) coercion 2) passion<br><div><span><br></span></=
+div><div style=3D"display: block;" class=3D"yahoo_quoted"> <br> <br> <div s=
+tyle=3D"font-family: times new roman, new york, times, serif; font-size: 12=
+pt;"> <div style=3D"font-family: times new roman, new york, times, serif; f=
+ont-size: 12pt;"> <div dir=3D"ltr"> <font face=3D"Arial" size=3D"2"> On Tue=
+sday, 11 February 2014 2:42 AM, Kannan Iyengar <prof.kannan.iyengar@gmai=
+l.com> wrote:<br> </font> </div>  <div class=3D"y_msg_container"><div id=
+=3D"yiv1841842515"><div>
+<span style=3D"display:none;"> </span>
+
+
+<div=
+ id=3D"yiv1841842515ygrp-mlmsg" style=3D"">
+  <div id=3D"yiv1841842515ygrp-=
+msg" style=3D"">
+
+
+    <div id=3D"yiv1841842515ygrp-text">
+      
+      
+  =
+    <div>
+
+
+
+
+
+</div><div class=3D"yiv1841842515Section1">
+
+<div class=3D"y=
+iv1841842515MsoNormal"><span style=3D"font-size:10.5pt;">Namasttay,</span><=
+/div> 
+
+<div class=3D"yiv1841842515MsoListParagraph"><span style=3D"font-si=
+ze:10.5pt;"><span>1.<span style=3D"font:7.0pt;">    &nb=
+sp; 
+</span></span></span><span style=3D"font-size:10.5pt;">Because a =
+Law is one which is always true. Something which is
+true at one time and fa=
+lse at other time cannot be a Law.</span></div> 
+
+<div class=3D"yiv18418425=
+15MsoListParagraph"><span style=3D"font-size:10.5pt;"><span>2.<span style=
+=3D"font:7.0pt;">      
+</span></span></span>=
+<span style=3D"font-size:10.5pt;">Karma is eternal and no one can stop doin=
+g karma, as Shri
+Krishna verily admits that He himself cannot stop avoiding=
+ doing karma(action).
+Since karma(action) is eternal and can never be avoid=
+ed even by Naraayana
+Himself, Shri Krishna beautifully teaches the art of K=
+arma-Yoga for Moksha. Oh
+What  a Genius Treatise!!! Om Namo Naaraayana=
+aya!</span></div> 
+
+<div class=3D"yiv1841842515MsoNormal"><span style=3D"fo=
+nt-size:10.5pt;">  </span></div> 
+
+<div class=3D"yiv1841842515MsoNorma=
+l"><span style=3D"font-size:10.5pt;">With Kind Regards,</span></div> 
+
+<div=
+ class=3D"yiv1841842515MsoNormal"><span style=3D"font-size:10.5pt;">Kannan<=
+/span></div> 
+
+<div class=3D"yiv1841842515MsoNormal"><span style=3D"font-si=
+ze:10.5pt;">  </span></div> 
+
+<div class=3D"yiv1841842515yqt6711106006=
+" id=3D"yiv1841842515yqt19117"><div>
+
+<div style=3D"border-top:solid #B5C4D=
+F 1.0pt;">
+
+<div class=3D"yiv1841842515MsoNormal"><b><span style=3D"font-si=
+ze:10.0pt;">From:</span></b><span style=3D"font-size:10.0pt;">
+vedic-wisdom=
+@yahoogroups.com [mailto:vedic-wisdom@yahoogroups.com] <b>On Behalf
+Of </b>=
+banerjeerajarshi@...<br clear=3D"none">
+<b>Sent:</b> Monday, Jan=
+uary 13, 2014 6:58 PM<br clear=3D"none">
+<b>To:</b> vedic-wisdom@yahoogroup=
+s.com<br clear=3D"none">
+<b>Subject:</b> [vedic-wisdom] Karma</span></div> =
+
+
+</div>
+
+</div>
+
+<div class=3D"yiv1841842515MsoNormal">  </div> 
+
+<di=
+v class=3D"yiv1841842515MsoNormal">  </div> 
+
+<div id=3D"yiv1841842515=
+ygrp-mlmsg">
+
+<div id=3D"yiv1841842515ygrp-msg">
+
+<div id=3D"yiv1841842515y=
+grp-text">
+
+<div>Why does the law of Karma always hold true? What drives Ka=
+rma?</div> 
+
+</div>
+
+<div>
+
+<div class=3D"yiv1841842515MsoNormal"><span sty=
+le=3D"color:white;"></span></div> 
+
+</div>
+
+</div>
+
+
+
+
+</div></div></div>
+
+=
+    </div>
+     
+
+    
+    <div class=3D"yiv1841842515yqt6711106006" id=3D"=
+yiv1841842515yqt76701"><div style=3D"color:#fff;height:0;"></div></div>
+
+
+<=
+/div><div class=3D"yiv1841842515yqt6711106006" id=3D"yiv1841842515yqt10539"=
+><style type=3D"text/css">
+#yiv1841842515 #yiv1841842515 --
+  #yiv184184251=
+5ygrp-mkp {
+border:1px solid #d8d8d8;font-family:Arial;margin:10px 0;paddin=
+g:0 10px;}
+
+#yiv1841842515 #yiv1841842515ygrp-mkp hr {
+border:1px solid #d8=
+d8d8;}
+
+#yiv1841842515 #yiv1841842515ygrp-mkp #yiv1841842515hd {
+color:#628=
+c2a;font-size:85%;font-weight:700;line-height:122%;margin:10px 0;}
+
+#yiv184=
+1842515 #yiv1841842515ygrp-mkp #yiv1841842515ads {
+margin-bottom:10px;}
+
+#y=
+iv1841842515 #yiv1841842515ygrp-mkp .yiv1841842515ad {
+padding:0 0;}
+
+#yiv1=
+841842515 #yiv1841842515ygrp-mkp .yiv1841842515ad p {
+margin:0;}
+
+#yiv18418=
+42515 #yiv1841842515ygrp-mkp .yiv1841842515ad a {
+color:#0000ff;text-decora=
+tion:none;}
+#yiv1841842515 #yiv1841842515ygrp-sponsor #yiv1841842515ygrp-lc=
+ {
+font-family:Arial;}
+
+#yiv1841842515 #yiv1841842515ygrp-sponsor #yiv18418=
+42515ygrp-lc #yiv1841842515hd {
+margin:10px 0px;font-weight:700;font-size:7=
+8%;line-height:122%;}
+
+#yiv1841842515 #yiv1841842515ygrp-sponsor #yiv184184=
+2515ygrp-lc .yiv1841842515ad {
+margin-bottom:10px;padding:0 0;}
+
+#yiv184184=
+2515 #yiv1841842515actions {
+font-family:Verdana;font-size:11px;padding:10p=
+x 0;}
+
+#yiv1841842515 #yiv1841842515activity {
+background-color:#e0ecee;flo=
+at:left;font-family:Verdana;font-size:10px;padding:10px;}
+
+#yiv1841842515 #=
+yiv1841842515activity span {
+font-weight:700;}
+
+#yiv1841842515 #yiv18418425=
+15activity span:first-child {
+text-transform:uppercase;}
+
+#yiv1841842515 #y=
+iv1841842515activity span a {
+color:#5085b6;text-decoration:none;}
+
+#yiv184=
+1842515 #yiv1841842515activity span span {
+color:#ff7900;}
+
+#yiv1841842515 =
+#yiv1841842515activity span .yiv1841842515underline {
+text-decoration:under=
+line;}
+
+#yiv1841842515 .yiv1841842515attach {
+clear:both;display:table;font=
+-family:Arial;font-size:12px;padding:10px 0;width:400px;}
+
+#yiv1841842515 .=
+yiv1841842515attach div a {
+text-decoration:none;}
+
+#yiv1841842515 .yiv1841=
+842515attach img {
+border:none;padding-right:5px;}
+
+#yiv1841842515 .yiv1841=
+842515attach label {
+display:block;margin-bottom:5px;}
+
+#yiv1841842515 .yiv=
+1841842515attach label a {
+text-decoration:none;}
+
+#yiv1841842515 blockquot=
+e {
+margin:0 0 0 4px;}
+
+#yiv1841842515 .yiv1841842515bold {
+font-family:Ari=
+al;font-size:13px;font-weight:700;}
+
+#yiv1841842515 .yiv1841842515bold a {
+=
+text-decoration:none;}
+
+#yiv1841842515 dd.yiv1841842515last p a {
+font-fami=
+ly:Verdana;font-weight:700;}
+
+#yiv1841842515 dd.yiv1841842515last p span {
+=
+margin-right:10px;font-family:Verdana;font-weight:700;}
+
+#yiv1841842515 dd.=
+yiv1841842515last p span.yiv1841842515yshortcuts {
+margin-right:0;}
+
+#yiv18=
+41842515 div.yiv1841842515attach-table div div a {
+text-decoration:none;}
+
+=
+#yiv1841842515 div.yiv1841842515attach-table {
+width:400px;}
+
+#yiv184184251=
+5 div.yiv1841842515file-title a, #yiv1841842515 div.yiv1841842515file-title=
+ a:active, #yiv1841842515 div.yiv1841842515file-title a:hover, #yiv18418425=
+15 div.yiv1841842515file-title a:visited {
+text-decoration:none;}
+
+#yiv1841=
+842515 div.yiv1841842515photo-title a, #yiv1841842515 div.yiv1841842515phot=
+o-title a:active, #yiv1841842515 div.yiv1841842515photo-title a:hover, #yiv=
+1841842515 div.yiv1841842515photo-title a:visited {
+text-decoration:none;}
+=
+
+#yiv1841842515 div#yiv1841842515ygrp-mlmsg #yiv1841842515ygrp-msg p a span=
+.yiv1841842515yshortcuts {
+font-family:Verdana;font-size:10px;font-weight:n=
+ormal;}
+
+#yiv1841842515 .yiv1841842515green {
+color:#628c2a;}
+
+#yiv18418425=
+15 .yiv1841842515MsoNormal {
+margin:0 0 0 0;}
+
+#yiv1841842515 o {
+font-size=
+:0;}
+
+#yiv1841842515 #yiv1841842515photos div {
+float:left;width:72px;}
+
+#y=
+iv1841842515 #yiv1841842515photos div div {
+border:1px solid #666666;height=
+:62px;overflow:hidden;width:62px;}
+
+#yiv1841842515 #yiv1841842515photos div=
+ label {
+color:#666666;font-size:10px;overflow:hidden;text-align:center;whi=
+te-space:nowrap;width:64px;}
+
+#yiv1841842515 #yiv1841842515reco-category {
+=
+font-size:77%;}
+
+#yiv1841842515 #yiv1841842515reco-desc {
+font-size:77%;}
+
+=
+#yiv1841842515 .yiv1841842515replbq {
+margin:4px;}
+
+#yiv1841842515 #yiv1841=
+842515ygrp-actbar div a:first-child {
+margin-right:2px;padding-right:5px;}
+=
+
+#yiv1841842515 #yiv1841842515ygrp-mlmsg {
+font-size:13px;font-family:Arial=
+, helvetica, clean, sans-serif;}
+
+#yiv1841842515 #yiv1841842515ygrp-mlmsg t=
+able {
+font-size:inherit;font:100%;}
+
+#yiv1841842515 #yiv1841842515ygrp-mlm=
+sg select, #yiv1841842515 input, #yiv1841842515 textarea {
+font:99% Arial, =
+Helvetica, clean, sans-serif;}
+
+#yiv1841842515 #yiv1841842515ygrp-mlmsg pre=
+, #yiv1841842515 code {
+font:115% monospace;}
+
+#yiv1841842515 #yiv184184251=
+5ygrp-mlmsg * {
+line-height:1.22em;}
+
+#yiv1841842515 #yiv1841842515ygrp-mlm=
+sg #yiv1841842515logo {
+padding-bottom:10px;}
+
+
+#yiv1841842515 #yiv18418425=
+15ygrp-msg p a {
+font-family:Verdana;}
+
+#yiv1841842515 #yiv1841842515ygrp-m=
+sg p#yiv1841842515attach-count span {
+color:#1E66AE;font-weight:700;}
+
+#yiv=
+1841842515 #yiv1841842515ygrp-reco #yiv1841842515reco-head {
+color:#ff7900;=
+font-weight:700;}
+
+#yiv1841842515 #yiv1841842515ygrp-reco {
+margin-bottom:2=
+0px;padding:0px;}
+
+#yiv1841842515 #yiv1841842515ygrp-sponsor #yiv1841842515=
+ov li a {
+font-size:130%;text-decoration:none;}
+
+#yiv1841842515 #yiv1841842=
+515ygrp-sponsor #yiv1841842515ov li {
+font-size:77%;list-style-type:square;=
+padding:6px 0;}
+
+#yiv1841842515 #yiv1841842515ygrp-sponsor #yiv1841842515ov=
+ ul {
+margin:0;padding:0 0 0 8px;}
+
+#yiv1841842515 #yiv1841842515ygrp-text =
+{
+font-family:Georgia;}
+
+#yiv1841842515 #yiv1841842515ygrp-text p {
+margin:=
+0 0 1em 0;}
+
+#yiv1841842515 #yiv1841842515ygrp-text tt {
+font-size:120%;}
+
+=
+#yiv1841842515 #yiv1841842515ygrp-vital ul li:last-child {
+border-right:non=
+e !important;
+}
+#yiv1841842515 
+</style></div></div><br><br></div>  </div> =
+</div>  </div> </div></body></html>
+--730575183-1021602514-1392223182=:95249--
+
+

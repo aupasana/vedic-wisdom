@@ -1,0 +1,471 @@
+From pvr108@...  Wed Feb 17 11:07:39 2016
+Return-Path: <pvr108@...>
+X-Sender: pvr108@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 51377 invoked by uid 102); 10 Apr 2014 12:33:53 -0000
+X-Received: from unknown (HELO mtaq4.grp.bf1.yahoo.com) (10.193.84.143)
+  by m6.grp.bf1.yahoo.com with SMTP; 10 Apr 2014 12:33:53 -0000
+X-Received: (qmail 9062 invoked from network); 10 Apr 2014 12:33:53 -0000
+X-Received: from unknown (HELO nm17-vm2.bullet.mail.ne1.yahoo.com) (98.138.91.93)
+  by mtaq4.grp.bf1.yahoo.com with SMTP; 10 Apr 2014 12:33:53 -0000
+X-Received: from [98.138.100.118] by nm17.bullet.mail.ne1.yahoo.com with NNFMP; 10 Apr 2014 12:33:52 -0000
+X-Received: from [98.138.89.160] by tm109.bullet.mail.ne1.yahoo.com with NNFMP; 10 Apr 2014 12:33:52 -0000
+X-Received: from [127.0.0.1] by omp1016.mail.ne1.yahoo.com with NNFMP; 10 Apr 2014 12:33:52 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 756327.10292.bm@...
+X-Received: (qmail 38520 invoked by uid 60001); 10 Apr 2014 12:33:52 -0000
+X-YMail-OSG: zwzuwVoVM1nRovTcNbQQ5qt7MtmIrraq5vm1WOfpZZN1Dv3
+ _iQOcL7y_gzn7xcOZRrB3YFm.R3JvYybuqHX_JbkY1Zazxuixgak4T5ghaTq
+ .yDvn4p6visAwPGwwe07SEyZw1vavWN3d1AChg1jZBkMwXozXJ_KgxgNSEsO
+ hY2J87Jz8V5pxefCSQGjvWFMHqYigwC9FWXnuyh.2Z1d_7ntbZCRu1P10HPK
+ zMzBR6J4hQ3V1JQ98HFHwPa0goV.pPlpmFRpnCGp1flrNCoD1bRFh5BSDpFZ
+ MEkJPf9ovJzoDgW798PqasekwAXnt3Rpqb88OcX500LFlTz1aaP5G9r1Q_xb
+ dKmj_iN_n7wMuD89lHbo37_YCgqJzKSPbzEV_zy_oqywHJuPPzdOf29qp8Hh
+ iODmXBjqbz0PsU1j8kRcKyfP1UwgkTlCU.VWr1ZZeif4QOgd1qp.38VtfCFE
+ a3VpGqTujPqy4aLCuKMLrYr.132YZ80pVkBbSQb4o.vNIGRzyURB.aP8NfPF
+ 3pMKJkhLIwDa6aMzfnvAptuuPUNOeGbEPjvqooOw4Y4V9alq7AOkO3KICRB3
+ Uk722E4NYkb4wZfodOqknC_sVs3VrMcnSgGAOdCScVahOaO4FwYHkX3ux57c
+ 3Tg7UvTQvVhXiSvvTFqj0.su8iyt9QTaofC_cudeE_A915_FT2HrQg2IPNdK
+ BZPhRCwm2c9INwAwRyRGK9L0i6YlCUEGQxN_7aof5kvCyaaF0QL004TrzKJj
+ XtSFP82T_OqYbNJtRg.2I1BKcPN.UvlP6XGDy1gyETXcTgejz.3cPVLbyNiH
+ TQHk1GsjC5Pbh_Euu5jg1xtLbkE7LJgly.46On2MbaCstSWzZ38hRCJvgJCU
+ SPS1xXNhkoZYpfxs8lP9dGlzZFm5_rzinWNdNQkgkbKtGB.47hfJWU3loPNl
+ U489zUDPap.CyNI.kNjUOQ.J9RfKgYWxx4yE1vDtVIQcts63Ve1_VeMw4tz5
+ Sw8mzkPZYZjvA06S4ODe_8RtZz7.OWx_AArwPBr6fqJJ.Hof0Tdo38h7cEHF
+ kfyHx5zyd9WZVAo_bSqyMfQbUf6BsltECsHAKYdG6xpdWOZApeetXFgv2a2S
+ 8dWDX18HkrgPaxkOilmILrQa0SJ9HpH7guff4Fx7WzWtVl7jXoNtn5hVOxU5
+ d5SGHo57b9GVF2ooGNtg1bp0Jv9tNUlHBVAtht5D8EnVva3J5xRkCVqEHXPm
+ pt4XzWgd41aDRjpNPBSmOfjwas05akDL59NWws2YvSjgfw6J7vagC8WM_dQb
+ frzPJh2MtWAG_vl0u3IQyYiDkDivaLiclBJ86ElMAiqHjdgKUw.c8Uo2OKwr
+ ZNNaRXH.PUIbMYzXSULGJHHjxXJOEJKoJFNMlMXE4.hWZKxjzS3WPetWCjw7
+ lvxDFGJrpbTNBLT.wo5i3qs491J_5z7dKcbdqKsvN7xEnu9BeGvOkenkIDvM
+ 7VdyOq6p2gw9UxgTrYOk_vXUoKuvZsnCp8x5OK.WqlP72dzP.1pKqgTHLZ6n
+ Hqo7iv_zlYbwrs1ChzBVfVWACcNSGUc1_cRtz.r0PigfzUHEEgnuOLXmqNNU
+ C3PQ.zVThxirYD2Gq9AMB2MEZqolzophrFKf.3k.XaKHWc2pkZBYA0Gfso8d
+ Qac317YpLFFd9DIu1xtv0T7nRvFEIL8oVT0PDUKhOTgB1UVx_n6bS0I1B0Yt
+ M8foH.oG8M8SgJ2cwzftU63QgOhDxk8ouEj3EyVWDvv33ZZarGD.YFuCkTDz
+ rxRGjdPCQX1vQJAimVkwtjIUEN73UCoy8kAan9BXrDATqYXUcSEhIffI-
+X-Received: from [173.48.58.98] by web122103.mail.ne1.yahoo.com via HTTP; Thu, 10 Apr 2014 05:33:52 PDT
+X-Rocket-MIMEInfo: 002.001,TGFkaWVzIGFuZCBnZW50bGVtZW4sCgpUaGlzIG1ha2VzIGl0IDMgbWFpbHMgdGhhdCBhcmUgdG90YWxseSBpcnJlbGV2YW50IHRvIHRoZSBjaGFydGVyIG9mIHRoZSBsaXN0LCB3aGljaCBjbGVhcmx5IHNheXMgdGhpcyBpcyBub3QgYW4gYXN0cm9sb2d5IGxpc3QgZm9yIGRpc2N1c3NpbmcgeW91ciBob3Jvc2NvcGVzLgoKRmlyc3Qgb2YgYWxsLCBJIG1heSBzaW1wbHkgcmVtb3ZlIGFueWJvZHkgd2hvIHBvc3RzIGlycmVsZXZhbnQgdGhpbmdzLCBhdCBteSBkaXNjcmV0aW9uLiBJIGp1c3QgZG8gaXQgYmVoaW4BMAEBAQE-
+X-Mailer: YahooMailWebService/0.8.182.648
+References: <li431g+147a3og@...>	<1397105733.14073.YahooMailNeo@...> <li5ojp+l3hs6a@...>
+Message-ID: <1397133232.86063.YahooMailNeo@...>
+Date: Thu, 10 Apr 2014 05:33:52 -0700 (PDT)
+To: "vedic-wisdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com>
+In-Reply-To: <li5ojp+l3hs6a@...>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="1287737115-491032770-1397133232=:86063"
+X-Originating-IP: 10.193.84.143
+X-eGroups-Msg-Info: 1:12:0:0:0
+From: "Narasimha P.V.R. Rao" <pvr108@...>
+Reply-To: "Narasimha P.V.R. Rao" <pvr108@...>
+Subject: ADMIN: Stick to discussions on spirituality
+X-Yahoo-Group-Post: member; u=77866142; y=VsktaGdzN3bSkjXGd2h_cELLQArRCf2kEAHnuwwZjB4o
+X-Yahoo-Profile: pvr108
+
+
+--1287737115-491032770-1397133232=:86063
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Ladies and gentlemen,
+
+This makes it 3 mails that are totally irrelevant to=
+ the charter of the list, which clearly says this is not an astrology list =
+for discussing your horoscopes.
+
+First of all, I may simply remove anybody =
+who posts irrelevant things, at my discretion. I just do it behind the scen=
+e tains and you don't see any mail from me announcing it on the list. This =
+happened a few times before.
+
+
+Secondly, if someone posts something irrelev=
+ant, just ignore it and leave it to me to handle it when I get time. There =
+is NO need to send ANOTHER mail to the entire list informing the person his=
+ post is unwelcome. If you want to tell the person, use private mail or jus=
+t ignore.
+
+
+Please stick the charter and discuss things related to spiritua=
+lity only. Minimize the wastage of people's time and bandwidth.
+
+
+Best rega=
+rds,
+Narasimha
+--------
+Astrology & Spirituality Resources: http://www.Vedi=
+cAstrologer.org
+--------
+
+
+
+
+>________________________________
+> From: "njr=
+aman66@..." <njraman66@...>
+>To: vedic-wisdom@yahoogroups.c=
+om 
+>Sent: Thursday, April 10, 2014 5:34 AM
+>Subject: Re: [vedic-wisdom] Ca=
+n any one in this forum predict my career
+> 
+>
+>
+>=C2=A0 
+>Dear Mr.Ganesh,
+=
+>=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0 Thank you for your mail. I will=
+ post it in vedic-astrology forum.
+>
+>With regards,
+>RAM
+>
+>
+>
+--1287737115-491032770-1397133232=:86063
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"color:#000; background-color:#fff; font-family:ar=
+ial, helvetica, sans-serif;font-size:10pt">Ladies and gentlemen,<div><br><s=
+pan></span></div><div style=3D"color: rgb(0, 0, 0); font-size: 13.3333px; f=
+ont-family: arial,helvetica,sans-serif; background-color: transparent; font=
+-style: normal;"><span>This makes it 3 mails that are totally irrelevant to=
+ the charter of the list, which clearly says this is not an astrology list =
+for discussing your horoscopes.</span></div><div style=3D"color: rgb(0, 0, =
+0); font-size: 13.3333px; font-family: arial,helvetica,sans-serif; backgrou=
+nd-color: transparent; font-style: normal;"><br><span></span></div><div sty=
+le=3D"color: rgb(0, 0, 0); font-size: 13.3333px; font-family: arial,helveti=
+ca,sans-serif; background-color: transparent; font-style: normal;"><span>Fi=
+rst of all, I may simply remove anybody who posts irrelevant things, at my =
+discretion. I just do it behind the scene tains and you don't see any mail
+=
+ from me announcing it on the list. This happened a few times before.<br></=
+span></div><div style=3D"color: rgb(0, 0, 0); font-size: 13.3333px; font-fa=
+mily: arial,helvetica,sans-serif; background-color: transparent; font-style=
+: normal;"><span><br></span></div><div style=3D"color: rgb(0, 0, 0); font-s=
+ize: 13.3333px; font-family: arial,helvetica,sans-serif; background-color: =
+transparent; font-style: normal;"><span>Secondly, if someone posts somethin=
+g irrelevant, just ignore it and leave it to me to handle it when I get tim=
+e. There is NO need to send ANOTHER mail to the entire list informing the p=
+erson his post is unwelcome. If you want to tell the person, use private ma=
+il or just ignore.<br></span></div><div style=3D"color: rgb(0, 0, 0); font-=
+size: 13.3333px; font-family: arial,helvetica,sans-serif; background-color:=
+ transparent; font-style: normal;"><br><span></span></div><div style=3D"col=
+or: rgb(0, 0, 0); font-size: 13.3333px; font-family:
+ arial,helvetica,sans-=
+serif; background-color: transparent; font-style: normal;"><span>Please sti=
+ck the charter and discuss things related to spirituality only. Minimize th=
+e wastage of people's time and bandwidth.</span></div><div style=3D"color: =
+rgb(0, 0, 0); font-size: 13.3333px; font-family: arial,helvetica,sans-serif=
+; background-color: transparent; font-style: normal;"><br><span></span></di=
+v><div style=3D"color:rgb(0, 0, 0);font-size:13px;font-family:arial, helvet=
+ica, clean, sans-serif;background-color:transparent;font-style:normal;">Bes=
+t regards,<br>Narasimha<br>--------<br>Astrology & Spirituality Resourc=
+es: <a rel=3D"nofollow" target=3D"_blank" href=3D"http://www.vedicastrologe=
+r.org/">http://www.VedicAstrologer.org</a></div><div style=3D"color:rgb(0, =
+0, 0);font-size:13px;font-family:arial, helvetica, clean, sans-serif;backgr=
+ound-color:transparent;font-style:normal;">--------<br></div><div><br><bloc=
+kquote style=3D"border-left: 2px solid rgb(16, 16, 255);
+ margin-left: 5px;=
+ margin-top: 5px; padding-left: 5px;">  <div style=3D"font-family: arial, h=
+elvetica, sans-serif; font-size: 10pt;"> <div style=3D"font-family: times n=
+ew roman, new york, times, serif; font-size: 12pt;"> <div dir=3D"ltr"> <hr =
+size=3D"1">  <font face=3D"Arial" size=3D"2"> <b><span style=3D"font-weight=
+:bold;">From:</span></b> "njraman66@..." <njraman66@...&=
+gt;<br> <b><span style=3D"font-weight: bold;">To:</span></b> vedic-wisdom@y=
+ahoogroups.com <br> <b><span style=3D"font-weight: bold;">Sent:</span></b> =
+Thursday, April 10, 2014 5:34 AM<br> <b><span style=3D"font-weight: bold;">=
+Subject:</span></b> Re: [vedic-wisdom] Can any one in this forum predict my=
+ career<br> </font> </div> <div class=3D"y_msg_container"><br><div id=3D"yi=
+v0211148706"><div>
+<span style=3D"display:none;"> </span>
+
+
+<div id=3D=
+"yiv0211148706ygrp-mlmsg" style=3D"">
+  <div id=3D"yiv0211148706ygrp-msg" s=
+tyle=3D"">
+
+
+    <div id=3D"yiv0211148706ygrp-text">
+      
+      
+      <d=
+iv>Dear Mr.Ganesh,<br clear=3D"none">      &n=
+bsp; Thank you for your mail. I will post it in vedic-astrology forum.<br c=
+lear=3D"none"><br clear=3D"none">With regards,<br clear=3D"none">RAM</div>
+=
+
+    </div>
+     
+
+    
+    <div style=3D"color:#fff;height:0;"></div></div=
+>
+
+
+</div><style type=3D"text/css">
+#yiv0211148706 #yiv0211148706 --
+  #yiv=
+0211148706ygrp-mkp {
+border:1px solid #d8d8d8;font-family:Arial;margin:10px=
+ 0;padding:0 10px;}
+
+#yiv0211148706 #yiv0211148706ygrp-mkp hr {
+border:1px =
+solid #d8d8d8;}
+
+#yiv0211148706 #yiv0211148706ygrp-mkp #yiv0211148706hd {
+c=
+olor:#628c2a;font-size:85%;font-weight:700;line-height:122%;margin:10px 0;}=
+
+
+#yiv0211148706 #yiv0211148706ygrp-mkp #yiv0211148706ads {
+margin-bottom:1=
+0px;}
+
+#yiv0211148706 #yiv0211148706ygrp-mkp .yiv0211148706ad {
+padding:0 0=
+;}
+
+#yiv0211148706 #yiv0211148706ygrp-mkp .yiv0211148706ad p {
+margin:0;}
+
+=
+#yiv0211148706 #yiv0211148706ygrp-mkp .yiv0211148706ad a {
+color:#0000ff;te=
+xt-decoration:none;}
+#yiv0211148706 #yiv0211148706ygrp-sponsor #yiv02111487=
+06ygrp-lc {
+font-family:Arial;}
+
+#yiv0211148706 #yiv0211148706ygrp-sponsor =
+#yiv0211148706ygrp-lc #yiv0211148706hd {
+margin:10px 0px;font-weight:700;fo=
+nt-size:78%;line-height:122%;}
+
+#yiv0211148706 #yiv0211148706ygrp-sponsor #=
+yiv0211148706ygrp-lc .yiv0211148706ad {
+margin-bottom:10px;padding:0 0;}
+
+#=
+yiv0211148706 #yiv0211148706actions {
+font-family:Verdana;font-size:11px;pa=
+dding:10px 0;}
+
+#yiv0211148706 #yiv0211148706activity {
+background-color:#e=
+0ecee;float:left;font-family:Verdana;font-size:10px;padding:10px;}
+
+#yiv021=
+1148706 #yiv0211148706activity span {
+font-weight:700;}
+
+#yiv0211148706 #yi=
+v0211148706activity span:first-child {
+text-transform:uppercase;}
+
+#yiv0211=
+148706 #yiv0211148706activity span a {
+color:#5085b6;text-decoration:none;}=
+
+
+#yiv0211148706 #yiv0211148706activity span span {
+color:#ff7900;}
+
+#yiv02=
+11148706 #yiv0211148706activity span .yiv0211148706underline {
+text-decorat=
+ion:underline;}
+
+#yiv0211148706 .yiv0211148706attach {
+clear:both;display:t=
+able;font-family:Arial;font-size:12px;padding:10px 0;width:400px;}
+
+#yiv021=
+1148706 .yiv0211148706attach div a {
+text-decoration:none;}
+
+#yiv0211148706=
+ .yiv0211148706attach img {
+border:none;padding-right:5px;}
+
+#yiv0211148706=
+ .yiv0211148706attach label {
+display:block;margin-bottom:5px;}
+
+#yiv021114=
+8706 .yiv0211148706attach label a {
+text-decoration:none;}
+
+#yiv0211148706 =
+blockquote {
+margin:0 0 0 4px;}
+
+#yiv0211148706 .yiv0211148706bold {
+font-f=
+amily:Arial;font-size:13px;font-weight:700;}
+
+#yiv0211148706 .yiv0211148706=
+bold a {
+text-decoration:none;}
+
+#yiv0211148706 dd.yiv0211148706last p a {
+=
+font-family:Verdana;font-weight:700;}
+
+#yiv0211148706 dd.yiv0211148706last =
+p span {
+margin-right:10px;font-family:Verdana;font-weight:700;}
+
+#yiv02111=
+48706 dd.yiv0211148706last p span.yiv0211148706yshortcuts {
+margin-right:0;=
+}
+
+#yiv0211148706 div.yiv0211148706attach-table div div a {
+text-decoration=
+:none;}
+
+#yiv0211148706 div.yiv0211148706attach-table {
+width:400px;}
+
+#yiv=
+0211148706 div.yiv0211148706file-title a, #yiv0211148706 div.yiv0211148706f=
+ile-title a:active, #yiv0211148706 div.yiv0211148706file-title a:hover, #yi=
+v0211148706 div.yiv0211148706file-title a:visited {
+text-decoration:none;}
+=
+
+#yiv0211148706 div.yiv0211148706photo-title a, #yiv0211148706 div.yiv02111=
+48706photo-title a:active, #yiv0211148706 div.yiv0211148706photo-title a:ho=
+ver, #yiv0211148706 div.yiv0211148706photo-title a:visited {
+text-decoratio=
+n:none;}
+
+#yiv0211148706 div#yiv0211148706ygrp-mlmsg #yiv0211148706ygrp-msg=
+ p a span.yiv0211148706yshortcuts {
+font-family:Verdana;font-size:10px;font=
+-weight:normal;}
+
+#yiv0211148706 .yiv0211148706green {
+color:#628c2a;}
+
+#yi=
+v0211148706 .yiv0211148706MsoNormal {
+margin:0 0 0 0;}
+
+#yiv0211148706 o {
+=
+font-size:0;}
+
+#yiv0211148706 #yiv0211148706photos div {
+float:left;width:7=
+2px;}
+
+#yiv0211148706 #yiv0211148706photos div div {
+border:1px solid #6666=
+66;height:62px;overflow:hidden;width:62px;}
+
+#yiv0211148706 #yiv0211148706p=
+hotos div label {
+color:#666666;font-size:10px;overflow:hidden;text-align:c=
+enter;white-space:nowrap;width:64px;}
+
+#yiv0211148706 #yiv0211148706reco-ca=
+tegory {
+font-size:77%;}
+
+#yiv0211148706 #yiv0211148706reco-desc {
+font-siz=
+e:77%;}
+
+#yiv0211148706 .yiv0211148706replbq {
+margin:4px;}
+
+#yiv0211148706=
+ #yiv0211148706ygrp-actbar div a:first-child {
+margin-right:2px;padding-rig=
+ht:5px;}
+
+#yiv0211148706 #yiv0211148706ygrp-mlmsg {
+font-size:13px;font-fam=
+ily:Arial, helvetica, clean, sans-serif;}
+
+#yiv0211148706 #yiv0211148706ygr=
+p-mlmsg table {
+font-size:inherit;font:100%;}
+
+#yiv0211148706 #yiv021114870=
+6ygrp-mlmsg select, #yiv0211148706 input, #yiv0211148706 textarea {
+font:99=
+% Arial, Helvetica, clean, sans-serif;}
+
+#yiv0211148706 #yiv0211148706ygrp-=
+mlmsg pre, #yiv0211148706 code {
+font:115% monospace;}
+
+#yiv0211148706 #yiv=
+0211148706ygrp-mlmsg * {
+line-height:1.22em;}
+
+#yiv0211148706 #yiv021114870=
+6ygrp-mlmsg #yiv0211148706logo {
+padding-bottom:10px;}
+
+
+#yiv0211148706 #yi=
+v0211148706ygrp-msg p a {
+font-family:Verdana;}
+
+#yiv0211148706 #yiv0211148=
+706ygrp-msg p#yiv0211148706attach-count span {
+color:#1E66AE;font-weight:70=
+0;}
+
+#yiv0211148706 #yiv0211148706ygrp-reco #yiv0211148706reco-head {
+color=
+:#ff7900;font-weight:700;}
+
+#yiv0211148706 #yiv0211148706ygrp-reco {
+margin=
+-bottom:20px;padding:0px;}
+
+#yiv0211148706 #yiv0211148706ygrp-sponsor #yiv0=
+211148706ov li a {
+font-size:130%;text-decoration:none;}
+
+#yiv0211148706 #y=
+iv0211148706ygrp-sponsor #yiv0211148706ov li {
+font-size:77%;list-style-typ=
+e:square;padding:6px 0;}
+
+#yiv0211148706 #yiv0211148706ygrp-sponsor #yiv021=
+1148706ov ul {
+margin:0;padding:0 0 0 8px;}
+
+#yiv0211148706 #yiv0211148706y=
+grp-text {
+font-family:Georgia;}
+
+#yiv0211148706 #yiv0211148706ygrp-text p =
+{
+margin:0 0 1em 0;}
+
+#yiv0211148706 #yiv0211148706ygrp-text tt {
+font-size=
+:120%;}
+
+#yiv0211148706 #yiv0211148706ygrp-vital ul li:last-child {
+border-=
+right:none !important;
+}
+#yiv0211148706 
+</style></div><br><br></div> </div=
+> </div> </blockquote></div>   </div></body></html>
+--1287737115-491032770-1397133232=:86063--
+
+

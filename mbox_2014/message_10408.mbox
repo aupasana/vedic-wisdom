@@ -1,0 +1,602 @@
+From nathan.nature@...  Wed Feb 17 11:07:42 2016
+Return-Path: <nathan.nature@...>
+X-Sender: nathan.nature@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 1463 invoked by uid 102); 8 Sep 2014 12:57:23 -0000
+X-Received: from unknown (HELO mtaq1.grp.bf1.yahoo.com) (10.193.84.32)
+  by m9.grp.bf1.yahoo.com with SMTP; 8 Sep 2014 12:57:23 -0000
+X-Received: (qmail 20872 invoked from network); 8 Sep 2014 12:57:22 -0000
+X-Received: from unknown (HELO nm24-vm5.bullet.mail.ne1.yahoo.com) (98.138.215.83)
+  by mtaq1.grp.bf1.yahoo.com with SMTP; 8 Sep 2014 12:57:22 -0000
+X-Received: from [98.138.226.178] by nm24.bullet.mail.ne1.yahoo.com with NNFMP; 08 Sep 2014 12:57:21 -0000
+X-Received: from [98.138.87.3] by tm13.bullet.mail.ne1.yahoo.com with NNFMP; 08 Sep 2014 12:57:21 -0000
+X-Received: from [127.0.0.1] by omp1003.mail.ne1.yahoo.com with NNFMP; 08 Sep 2014 12:57:21 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 862186.25829.bm@...
+X-Received: (qmail 12460 invoked by uid 60001); 8 Sep 2014 12:57:21 -0000
+X-YMail-OSG: fEdJmHcVM1lNhD_ee.EKHj_e1G1fsnSieSaobqDVHYcwkuo
+ m_v9qs9_mMvhhiteDhLj19kPQRe.h5Hg5kHkUKu3Y_rauviaMnefMoeiR9xE
+ tmi9rCSGZR6vrTN_WbjzRiDZSP8Kgoi8mzl1uIeTJc67r56avZt9rk.XLgUI
+ hoFpDEU2.3ckrK7RHjuOmSDB1gFnivON.OP4t1jjDXZMTcDpF09MmJW8qMHM
+ zj9TgB7qsO26GoqdK9M3CJdQt7_TzZR69IzFBoNiysihP79I14dXKhU4_mTe
+ PnfpqwgorIwneD5AI4NrIA0bfv3Qxxa5bgXheUP252U6_B3tcWzTRPb1Zvvu
+ XdY0_wXyUe2lM4I1h5IlsDLN0KkbLCCZqCxNrlb_Qa8EIllwydnn_NlnE0Bv
+ AcEi0PFVCah0gAQBmp7cqjgfk1RjXm.Nfi.h9mcSphsJgAGKMHSscGgHX3H3
+ htbwAOimJdOmyKj3IAG8ni.TZL_OBEc4YzDCU5CHABpd_SwyrAtsfipgLLOM
+ Nv6zDXQK.2QwXuSl7yNciouQaWlGl9cn0p4ok6a0EtSUeDU6wT0M0_VHsZCQ
+ zXvMf_1Ay7KXxmKBESxU2Cv_aIkO3yWPI9nAC3eQGzUAXbfR7u5laXJIauft
+ oJKv.QJeQ9CtQOh9LoieZzzRabVHj.qONE4._9HwG0gZKERsL_rztzN6fKxw
+ yXbE3hTV9M8csrsLOhyU84tURuR_kZ6zEiHAeSXgwKSELi46XGgjkObkVQhj
+ imX4N35ZZ6Qbd_jT3LtRowB3OlDyj_FMBRIvgcvVdjyfMaWCT42oLuUgxg8N
+ _wl1X12My.zJJcvg.G0cK_nbiY4VSbGCVxJzGTkKeMgNeYrOFfzMHcmTp8hW
+ aBSRBIzbJ3SI5Mdu4LxZFX3EMThVC161HlGCPQzwsoYBnMPWsnZ3aczHSAvl
+ TmgcZ0p_2aPylMgd0WRFD3SgUkVXIjJo4I3Ls.ivcQIhh2w8s_eisKvv_rqi
+ YeulkDkhRY.KrrWan7FRzlDPsV0GJ3POd963xNSARLPeJLJ94F0RW0NVQEbq
+ u2F2K43XnoJCKPm6kxkxpk2dDTjwrR2fSOa7q7Ln5dfybJRMN7nFFllRn.J0
+ SoJaB4aF5XLtJwXT1O472g_s.HFaQKPlM9I_7aQ3JuSgJYpla4zS2dKNlgO2
+ Ve_6e5lnbzaTzfEn4TkUqF2iCSBaoj1lIquBes2GK2OEOe0DEUCAsYH5ZVor
+ ENk53wgVRU6uGBZsKEuLZl5lTGfOUFjP5I4rPnCfjkpHCeQkUXlghIl6SP6x
+ v24bR0BhVTEP7JhOjWR.jgDLkwboQ.TJB_6FxfOLQzsTlOiqiyIXRHni2ZN5
+ xSCs.Mdlg2adAP6.0iWkZO5tRBMIa9.dveXOdID0FsnCpPC6OO5bRRi43l5P
+ if7SJb4kYK2KFVHDQSF2mZHRTgmpz2A--
+X-Received: from [117.222.41.65] by web125306.mail.ne1.yahoo.com via HTTP; Mon, 08 Sep 2014 05:57:21 PDT
+X-Rocket-MIMEInfo: 002.001,TmFtYXN0ZSBTaHJpIE5hcmFzaW1oYSBKaSwKCkkgYW0gdGhhbmtmdWwgZm9yIHlvdXIgZ3VpZGFuY2UuIEkgdHJpZWQgdG8gdXBsb2FkIGluIGZpbGVzIHNlY3Rpb24gdGhlIGJvb2sgb2YgImFuYW5kYWxhaGFyaSIgYnV0IHRoZSBtYXhpbXVtIGxpbWl0IG9mIHNpemUgYWxsb3dlZCBpcyAxMCBNQiwgYW5kIHRoZSBib29rJ3Mgc2l6ZSBpcyBvZiAxNiBNQi4KCllvdXJzIHNpbmNlcmVseSwKTmF0aGFuCgoKCk9uIE1vbmRheSwgU2VwdGVtYmVyIDgsIDIwMTQgNjowNSBQTSwgIidOYXJhc2ltaGEgUC5WLlIuIFIBMAEBAQE-
+X-Mailer: YahooMailWebService/0.8.203.696
+References: <1410167988.48808.YahooMailNeo@...> <1410179751.66829.YahooMailNeo@...>
+Message-ID: <1410181041.51810.YahooMailNeo@...>
+Date: Mon, 8 Sep 2014 05:57:21 -0700
+To: "vedic-wisdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com>
+In-Reply-To: <1410179751.66829.YahooMailNeo@...>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="-2016055526-1955157167-1410181041=:51810"
+X-Originating-IP: 98.138.91.246
+X-eGroups-Msg-Info: 1:12:0:0:0
+Reply-To: Nathan Nature <nathan.nature@...>
+Subject: Re: [vedic-wisdom] "Anandalahari" Book as PDF attachment
+X-Yahoo-Group-Post: member; u=561310762; y=MM5cegV_kR6pNctN28Mch6ACsTh4mop2puE1S6qLPD0sUWMg45CX3w
+X-Yahoo-Profile: nathan.nature
+From: Nathan Nature <nathan.nature@...>
+
+
+---2016055526-1955157167-1410181041=:51810
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Namaste Shri Narasimha Ji,
+
+I am thankful for your guidance. I tried to upl=
+oad in files section the book of "anandalahari" but the maximum limit of si=
+ze allowed is 10 MB, and the book's size is of 16 MB.
+
+Yours sincerely,
+Nat=
+han
+
+
+
+On Monday, September 8, 2014 6:05 PM, "'Narasimha P.V.R. Rao' pvr108=
+@... [vedic-wisdom]" <vedic-wisdom@yahoogroups.com> wrote:
+ 
+
+
+  
+Nam=
+aste,
+
+One can upload any files to
+
+https://groups.yahoo.com/neo/groups/ved=
+ic-wisdom/files
+
+
+and also go there to download them. You can upload a file=
+ there and send a link to the list.
+
+This ensures that only those who want =
+it will get it.
+ 
+Best regards,
+Narasimha
+--------
+Astrology & Spirituality=
+ Resources: http://www.VedicAstrologer.org
+--------
+
+
+
+
+>__________________=
+______________
+> From: "Nathan Nature nathan.nature@... [vedic-wisdom=
+]" <vedic-wisdom@yahoogroups.com>
+>To: Vedic Wisdom <vedic-wisdom@yahoogrou=
+ps.com> 
+>Sent: 
+>Subject: [vedic-wisdom] "Anandalahari" Book as PDF attach=
+ment
+> 
+>
+>
+>  
+>Dear Shri Narasimha Ji,
+>
+>
+>Mr Kaushal has asked for "ana=
+ndalahari" book. I have its PDF soft copy of 16 MB size. In group policy, a=
+ttachments are said to be permitted. But when I sent the mail with attachme=
+nt, I got failure  notice stating databytes limit exceeded. It means that t=
+he group has some max limit for a particular mail.
+>
+>
+>Now I want to know =
+the max size fixed for this group, so that I can truncate my mail according=
+ly. Please help us.
+>
+>
+>Yours sincerely,
+>Nathan
+>
+>
+
+---2016055526-1955157167-1410181041=:51810
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"color:#000; background-color:#fff; font-family:He=
+lveticaNeue-Light, Helvetica Neue Light, Helvetica Neue, Helvetica, Arial, =
+Lucida Grande, sans-serif;font-size:10pt"><div><span>Namaste Shri Narasimha=
+ Ji,</span></div><div style=3D"color: rgb(0, 0, 0); font-size: 13.3333px; f=
+ont-family: HelveticaNeue-Light,Helvetica Neue Light,Helvetica Neue,Helveti=
+ca,Arial,Lucida Grande,sans-serif; background-color: transparent; font-styl=
+e: normal;"><br><span></span></div><div style=3D"color: rgb(0, 0, 0); font-=
+size: 13.3333px; font-family: HelveticaNeue-Light,Helvetica Neue Light,Helv=
+etica Neue,Helvetica,Arial,Lucida Grande,sans-serif; background-color: tran=
+sparent; font-style: normal;"><span>I am thankful for your guidance. I trie=
+d to upload in files section the book of "anandalahari" but the maximum lim=
+it of size allowed is 10 MB, and the book's size is of 16 MB.</span></div><=
+div style=3D"color: rgb(0, 0, 0); font-size: 13.3333px; font-family:
+ Helve=
+ticaNeue-Light,Helvetica Neue Light,Helvetica Neue,Helvetica,Arial,Lucida G=
+rande,sans-serif; background-color: transparent; font-style: normal;"><br><=
+span></span></div><div style=3D"color: rgb(0, 0, 0); font-size: 13.3333px; =
+font-family: HelveticaNeue-Light,Helvetica Neue Light,Helvetica Neue,Helvet=
+ica,Arial,Lucida Grande,sans-serif; background-color: transparent; font-sty=
+le: normal;"><span>Yours sincerely,</span></div><div style=3D"color: rgb(0,=
+ 0, 0); font-size: 13.3333px; font-family: HelveticaNeue-Light,Helvetica Ne=
+ue Light,Helvetica Neue,Helvetica,Arial,Lucida Grande,sans-serif; backgroun=
+d-color: transparent; font-style: normal;"><span>Nathan<br></span></div> <d=
+iv class=3D"qtdSeparateBR"><br><br></div><div style=3D"display: block;" cla=
+ss=3D"yahoo_quoted"> <div style=3D"font-family: HelveticaNeue-Light, Helvet=
+ica Neue Light, Helvetica Neue, Helvetica, Arial, Lucida Grande, sans-serif=
+; font-size: 10pt;"> <div style=3D"font-family: HelveticaNeue, Helvetica
+ N=
+eue, Helvetica, Arial, Lucida Grande, sans-serif; font-size: 12pt;"> <div d=
+ir=3D"ltr"> <font face=3D"Arial" size=3D"2"> On Monday, September 8, 2014 6=
+:05 PM, "'Narasimha P.V.R. Rao' pvr108@... [vedic-wisdom]" <vedic-=
+wisdom@yahoogroups.com> wrote:<br> </font> </div>  <br><br> <div class=
+=3D"y_msg_container"><div id=3D"yiv9326259538"><div>
+<span style=3D"display=
+:none;"> </span>
+
+
+<div id=3D"yiv9326259538ygrp-mlmsg" style=3D"">
+  <=
+div id=3D"yiv9326259538ygrp-msg" style=3D"">
+
+
+    <div id=3D"yiv9326259538=
+ygrp-text">
+      
+      
+      <div style=3D"color:#000;background-color:#=
+fff;font-family:HelveticaNeue, Helvetica Neue, Helvetica, Arial, Lucida Gra=
+nde, sans-serif;font-size:10pt;"><div class=3D"yiv9326259538class"><span cl=
+ass=3D"yiv9326259538class">Namaste,</span></div><div class=3D"yiv9326259538=
+class" style=3D"color:rgb(0, 0, 0);font-size:13px;font-family:HelveticaNeue=
+, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif;font-styl=
+e:normal;background-color:transparent;"><span class=3D"yiv9326259538class">=
+<br class=3D"yiv9326259538class" clear=3D"none"></span></div><div class=3D"=
+yiv9326259538class" style=3D"color:rgb(0, 0, 0);font-size:13px;font-family:=
+HelveticaNeue, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-se=
+rif;font-style:normal;background-color:transparent;"><span class=3D"yiv9326=
+259538class">One can upload any files to</span></div><div class=3D"yiv93262=
+59538class" style=3D"color:rgb(0, 0, 0);font-size:13px;font-family:Helvetic=
+aNeue, 'Helvetica Neue', Helvetica, Arial,
+ 'Lucida Grande', sans-serif;fon=
+t-style:normal;background-color:transparent;"><span class=3D"yiv9326259538c=
+lass"><br class=3D"yiv9326259538class" clear=3D"none"></span></div><div cla=
+ss=3D"yiv9326259538class" style=3D"background-color:transparent;"><span cla=
+ss=3D"yiv9326259538class"><a rel=3D"nofollow" shape=3D"rect" class=3D"yiv93=
+26259538class" target=3D"_blank" href=3D"https://groups.yahoo.com/neo/group=
+s/vedic-wisdom/files">https://groups.yahoo.com/neo/groups/vedic-wisdom/file=
+s</a><br class=3D"yiv9326259538class" clear=3D"none"></span></div><div clas=
+s=3D"yiv9326259538class" style=3D"color:rgb(0, 0, 0);font-size:13px;font-fa=
+mily:HelveticaNeue, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sa=
+ns-serif;font-style:normal;background-color:transparent;"><br clear=3D"none=
+"></div><div class=3D"yiv9326259538class" style=3D"color:rgb(0, 0, 0);font-=
+size:13px;font-family:HelveticaNeue, 'Helvetica Neue', Helvetica, Arial, 'L=
+ucida Grande',
+ sans-serif;font-style:normal;background-color:transparent;"=
+>and also go there to download them. You can upload a file there and send a=
+ link to the list.</div><div class=3D"yiv9326259538class" style=3D"color:rg=
+b(0, 0, 0);font-size:13px;font-family:HelveticaNeue, 'Helvetica Neue', Helv=
+etica, Arial, 'Lucida Grande', sans-serif;font-style:normal;background-colo=
+r:transparent;"><br clear=3D"none"></div><div class=3D"yiv9326259538class" =
+style=3D"color:rgb(0, 0, 0);font-size:13px;font-family:HelveticaNeue, 'Helv=
+etica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif;font-style:norma=
+l;background-color:transparent;">This ensures that only those who want it w=
+ill get it.</div><div class=3D"yiv9326259538class"></div><div class=3D"yiv9=
+326259538class"> </div><div class=3D"yiv9326259538class" style=3D"colo=
+r:rgb(0, 0, 0);font-size:13px;font-family:arial, helvetica, clean, sans-ser=
+if;background-color:transparent;font-style:normal;">Best regards,<br class=
+=3D"yiv9326259538class"
+ clear=3D"none">Narasimha<br class=3D"yiv9326259538=
+class" clear=3D"none">--------<br class=3D"yiv9326259538class" clear=3D"non=
+e">Astrology & Spirituality Resources: <a rel=3D"nofollow" shape=3D"rec=
+t" class=3D"yiv9326259538class" target=3D"_blank" href=3D"http://www.vedica=
+strologer.org/">http://www.VedicAstrologer.org</a></div><div class=3D"yiv93=
+26259538class" style=3D"color:rgb(0, 0, 0);font-size:13px;font-family:arial=
+, helvetica, clean, sans-serif;background-color:transparent;font-style:norm=
+al;">--------<br class=3D"yiv9326259538class" clear=3D"none"><br class=3D"y=
+iv9326259538class" clear=3D"none"></div><div class=3D"yiv9326259538class"><=
+br class=3D"yiv9326259538class" clear=3D"none"></div><div class=3D"yiv93262=
+59538yqt3840203353" id=3D"yiv9326259538yqt50826"><blockquote class=3D"yiv93=
+26259538class" style=3D"border-left:2px solid rgb(16, 16, 255);margin-left:=
+5px;margin-top:5px;">  <div class=3D"yiv9326259538class" style=3D"font-fami=
+ly:HelveticaNeue, Helvetica Neue, Helvetica, Arial, Lucida Grande,
+ sans-se=
+rif;font-size:10pt;"> <div class=3D"yiv9326259538class" style=3D"font-famil=
+y:HelveticaNeue, Helvetica Neue, Helvetica, Arial, Lucida Grande, sans-seri=
+f;font-size:12pt;"> <div class=3D"yiv9326259538class" dir=3D"ltr"> <hr clas=
+s=3D"yiv9326259538class" size=3D"1">  <font class=3D"yiv9326259538class" fa=
+ce=3D"Arial" size=3D"2"> <b class=3D"yiv9326259538class"><span class=3D"yiv=
+9326259538class" style=3D"font-weight:bold;">From:</span></b> "Nathan Natur=
+e nathan.nature@... [vedic-wisdom]" <vedic-wisdom@yahoogroups.com&=
+gt;<br class=3D"yiv9326259538class" clear=3D"none"> <b class=3D"yiv93262595=
+38class"><span class=3D"yiv9326259538class" style=3D"font-weight:bold;">To:=
+</span></b> Vedic Wisdom
+ <vedic-wisdom@yahoogroups.com> <br class=3D=
+"yiv9326259538class" clear=3D"none"> <b class=3D"yiv9326259538class"><span =
+class=3D"yiv9326259538class" style=3D"font-weight:bold;">Sent:</span></b> <=
+br class=3D"yiv9326259538class" clear=3D"none"> <b class=3D"yiv9326259538cl=
+ass"><span class=3D"yiv9326259538class" style=3D"font-weight:bold;">Subject=
+:</span></b> [vedic-wisdom] "Anandalahari" Book as PDF attachment<br class=
+=3D"yiv9326259538class" clear=3D"none"> </font> </div> <div class=3D"yiv932=
+6259538class"><br class=3D"yiv9326259538class" clear=3D"none"><div class=3D=
+"yiv9326259538class" id=3D"yiv9326259538"><div class=3D"yiv9326259538class"=
+>
+<span class=3D"yiv9326259538class"> </span>
+
+
+<div class=3D"yiv93262=
+59538class" id=3D"yiv9326259538ygrp-mlmsg">
+  <div class=3D"yiv9326259538cl=
+ass" id=3D"yiv9326259538ygrp-msg">
+
+
+    <div class=3D"yiv9326259538class" =
+id=3D"yiv9326259538ygrp-text">
+      
+      
+      <div class=3D"yiv9326259=
+538class" style=3D"color:#000;background-color:#fff;font-family:HelveticaNe=
+ue-Light, Helvetica Neue Light, Helvetica Neue, Helvetica, Arial, Lucida Gr=
+ande, sans-serif;font-size:10pt;"><div class=3D"yiv9326259538class">Dear Sh=
+ri Narasimha Ji,</div><div class=3D"yiv9326259538class"><br class=3D"yiv932=
+6259538class" clear=3D"none"></div><div class=3D"yiv9326259538class" style=
+=3D"color:rgb(0, 0, 0);font-size:13.3333px;font-family:HelveticaNeue-Light,=
+ Helvetica Neue Light, Helvetica Neue, Helvetica, Arial, Lucida Grande, san=
+s-serif;background-color:transparent;font-style:normal;">Mr Kaushal has ask=
+ed for "anandalahari" book. I have its PDF soft copy of 16 MB size. In grou=
+p policy, attachments are said to be permitted. But when I sent the mail wi=
+th attachment, I got failure  notice stating databytes limit exceeded.=
+ It means that the group has some max limit for a particular mail.</div><di=
+v class=3D"yiv9326259538class" style=3D"color:rgb(0, 0,
+ 0);font-size:13.33=
+33px;font-family:HelveticaNeue-Light, Helvetica Neue Light, Helvetica Neue,=
+ Helvetica, Arial, Lucida Grande, sans-serif;background-color:transparent;f=
+ont-style:normal;"><br class=3D"yiv9326259538class" clear=3D"none"></div><d=
+iv class=3D"yiv9326259538class" style=3D"color:rgb(0, 0, 0);font-size:13.33=
+33px;font-family:HelveticaNeue-Light, Helvetica Neue Light, Helvetica Neue,=
+ Helvetica, Arial, Lucida Grande, sans-serif;background-color:transparent;f=
+ont-style:normal;">Now I want to know the max size fixed for this group, so=
+ that I can truncate my mail accordingly. Please help us.</div><div class=
+=3D"yiv9326259538class" style=3D"color:rgb(0, 0, 0);font-size:13.3333px;fon=
+t-family:HelveticaNeue-Light, Helvetica Neue Light, Helvetica Neue, Helveti=
+ca, Arial, Lucida Grande, sans-serif;background-color:transparent;font-styl=
+e:normal;"><br class=3D"yiv9326259538class" clear=3D"none"></div><div class=
+=3D"yiv9326259538class" style=3D"color:rgb(0, 0,
+ 0);font-size:13.3333px;fo=
+nt-family:HelveticaNeue-Light, Helvetica Neue Light, Helvetica Neue, Helvet=
+ica, Arial, Lucida Grande, sans-serif;background-color:transparent;font-sty=
+le:normal;">Yours sincerely,</div><div class=3D"yiv9326259538class" style=
+=3D"color:rgb(0, 0, 0);font-size:13.3333px;font-family:HelveticaNeue-Light,=
+ Helvetica Neue Light, Helvetica Neue, Helvetica, Arial, Lucida Grande, san=
+s-serif;background-color:transparent;font-style:normal;">Nathan</div></div>=
+
+
+    </div>
+     
+
+    
+    <div class=3D"yiv9326259538class" style=3D"col=
+or:#fff;height:0;"></div></div>
+
+
+</div></div><br class=3D"yiv9326259538cla=
+ss" clear=3D"none"><br class=3D"yiv9326259538class" clear=3D"none"></div> <=
+/div> </div> </div></blockquote></div><div></div>   </div>
+
+    </div>
+    =
+ 
+
+    
+    <div class=3D"yiv9326259538yqt3840203353" id=3D"yiv9326259538yq=
+t05044"><div style=3D"color:#fff;height:0;"></div></div>
+
+
+</div><div class=
+=3D"yiv9326259538yqt3840203353" id=3D"yiv9326259538yqt28561"><style type=3D=
+"text/css">
+#yiv9326259538 #yiv9326259538 --
+  #yiv9326259538ygrp-mkp {
+bor=
+der:1px solid #d8d8d8;font-family:Arial;margin:10px 0;padding:0 10px;}
+
+#yi=
+v9326259538 #yiv9326259538ygrp-mkp hr {
+border:1px solid #d8d8d8;}
+
+#yiv932=
+6259538 #yiv9326259538ygrp-mkp #yiv9326259538hd {
+color:#628c2a;font-size:8=
+5%;font-weight:700;line-height:122%;margin:10px 0;}
+
+#yiv9326259538 #yiv932=
+6259538ygrp-mkp #yiv9326259538ads {
+margin-bottom:10px;}
+
+#yiv9326259538 #y=
+iv9326259538ygrp-mkp .yiv9326259538ad {
+padding:0 0;}
+
+#yiv9326259538 #yiv9=
+326259538ygrp-mkp .yiv9326259538ad p {
+margin:0;}
+
+#yiv9326259538 #yiv93262=
+59538ygrp-mkp .yiv9326259538ad a {
+color:#0000ff;text-decoration:none;}
+#yi=
+v9326259538 #yiv9326259538ygrp-sponsor #yiv9326259538ygrp-lc {
+font-family:=
+Arial;}
+
+#yiv9326259538 #yiv9326259538ygrp-sponsor #yiv9326259538ygrp-lc #y=
+iv9326259538hd {
+margin:10px 0px;font-weight:700;font-size:78%;line-height:=
+122%;}
+
+#yiv9326259538 #yiv9326259538ygrp-sponsor #yiv9326259538ygrp-lc .yi=
+v9326259538ad {
+margin-bottom:10px;padding:0 0;}
+
+#yiv9326259538 #yiv932625=
+9538actions {
+font-family:Verdana;font-size:11px;padding:10px 0;}
+
+#yiv9326=
+259538 #yiv9326259538activity {
+background-color:#e0ecee;float:left;font-fa=
+mily:Verdana;font-size:10px;padding:10px;}
+
+#yiv9326259538 #yiv9326259538ac=
+tivity span {
+font-weight:700;}
+
+#yiv9326259538 #yiv9326259538activity span=
+:first-child {
+text-transform:uppercase;}
+
+#yiv9326259538 #yiv9326259538act=
+ivity span a {
+color:#5085b6;text-decoration:none;}
+
+#yiv9326259538 #yiv932=
+6259538activity span span {
+color:#ff7900;}
+
+#yiv9326259538 #yiv9326259538a=
+ctivity span .yiv9326259538underline {
+text-decoration:underline;}
+
+#yiv932=
+6259538 .yiv9326259538attach {
+clear:both;display:table;font-family:Arial;f=
+ont-size:12px;padding:10px 0;width:400px;}
+
+#yiv9326259538 .yiv9326259538at=
+tach div a {
+text-decoration:none;}
+
+#yiv9326259538 .yiv9326259538attach im=
+g {
+border:none;padding-right:5px;}
+
+#yiv9326259538 .yiv9326259538attach la=
+bel {
+display:block;margin-bottom:5px;}
+
+#yiv9326259538 .yiv9326259538attac=
+h label a {
+text-decoration:none;}
+
+#yiv9326259538 blockquote {
+margin:0 0 =
+0 4px;}
+
+#yiv9326259538 .yiv9326259538bold {
+font-family:Arial;font-size:13=
+px;font-weight:700;}
+
+#yiv9326259538 .yiv9326259538bold a {
+text-decoration=
+:none;}
+
+#yiv9326259538 dd.yiv9326259538last p a {
+font-family:Verdana;font=
+-weight:700;}
+
+#yiv9326259538 dd.yiv9326259538last p span {
+margin-right:10=
+px;font-family:Verdana;font-weight:700;}
+
+#yiv9326259538 dd.yiv9326259538la=
+st p span.yiv9326259538yshortcuts {
+margin-right:0;}
+
+#yiv9326259538 div.yi=
+v9326259538attach-table div div a {
+text-decoration:none;}
+
+#yiv9326259538 =
+div.yiv9326259538attach-table {
+width:400px;}
+
+#yiv9326259538 div.yiv932625=
+9538file-title a, #yiv9326259538 div.yiv9326259538file-title a:active, #yiv=
+9326259538 div.yiv9326259538file-title a:hover, #yiv9326259538 div.yiv93262=
+59538file-title a:visited {
+text-decoration:none;}
+
+#yiv9326259538 div.yiv9=
+326259538photo-title a, #yiv9326259538 div.yiv9326259538photo-title a:activ=
+e, #yiv9326259538 div.yiv9326259538photo-title a:hover, #yiv9326259538 div.=
+yiv9326259538photo-title a:visited {
+text-decoration:none;}
+
+#yiv9326259538=
+ div#yiv9326259538ygrp-mlmsg #yiv9326259538ygrp-msg p a span.yiv9326259538y=
+shortcuts {
+font-family:Verdana;font-size:10px;font-weight:normal;}
+
+#yiv93=
+26259538 .yiv9326259538green {
+color:#628c2a;}
+
+#yiv9326259538 .yiv93262595=
+38MsoNormal {
+margin:0 0 0 0;}
+
+#yiv9326259538 o {
+font-size:0;}
+
+#yiv93262=
+59538 #yiv9326259538photos div {
+float:left;width:72px;}
+
+#yiv9326259538 #y=
+iv9326259538photos div div {
+border:1px solid #666666;height:62px;overflow:=
+hidden;width:62px;}
+
+#yiv9326259538 #yiv9326259538photos div label {
+color:=
+#666666;font-size:10px;overflow:hidden;text-align:center;white-space:nowrap=
+;width:64px;}
+
+#yiv9326259538 #yiv9326259538reco-category {
+font-size:77%;}=
+
+
+#yiv9326259538 #yiv9326259538reco-desc {
+font-size:77%;}
+
+#yiv9326259538 =
+.yiv9326259538replbq {
+margin:4px;}
+
+#yiv9326259538 #yiv9326259538ygrp-actb=
+ar div a:first-child {
+margin-right:2px;padding-right:5px;}
+
+#yiv9326259538=
+ #yiv9326259538ygrp-mlmsg {
+font-size:13px;font-family:Arial, helvetica, cl=
+ean, sans-serif;}
+
+#yiv9326259538 #yiv9326259538ygrp-mlmsg table {
+font-siz=
+e:inherit;font:100%;}
+
+#yiv9326259538 #yiv9326259538ygrp-mlmsg select, #yiv=
+9326259538 input, #yiv9326259538 textarea {
+font:99% Arial, Helvetica, clea=
+n, sans-serif;}
+
+#yiv9326259538 #yiv9326259538ygrp-mlmsg pre, #yiv932625953=
+8 code {
+font:115% monospace;}
+
+#yiv9326259538 #yiv9326259538ygrp-mlmsg * {=
+
+line-height:1.22em;}
+
+#yiv9326259538 #yiv9326259538ygrp-mlmsg #yiv93262595=
+38logo {
+padding-bottom:10px;}
+
+
+#yiv9326259538 #yiv9326259538ygrp-msg p a =
+{
+font-family:Verdana;}
+
+#yiv9326259538 #yiv9326259538ygrp-msg p#yiv9326259=
+538attach-count span {
+color:#1E66AE;font-weight:700;}
+
+#yiv9326259538 #yiv=
+9326259538ygrp-reco #yiv9326259538reco-head {
+color:#ff7900;font-weight:700=
+;}
+
+#yiv9326259538 #yiv9326259538ygrp-reco {
+margin-bottom:20px;padding:0px=
+;}
+
+#yiv9326259538 #yiv9326259538ygrp-sponsor #yiv9326259538ov li a {
+font-=
+size:130%;text-decoration:none;}
+
+#yiv9326259538 #yiv9326259538ygrp-sponsor=
+ #yiv9326259538ov li {
+font-size:77%;list-style-type:square;padding:6px 0;}=
+
+
+#yiv9326259538 #yiv9326259538ygrp-sponsor #yiv9326259538ov ul {
+margin:0;=
+padding:0 0 0 8px;}
+
+#yiv9326259538 #yiv9326259538ygrp-text {
+font-family:G=
+eorgia;}
+
+#yiv9326259538 #yiv9326259538ygrp-text p {
+margin:0 0 1em 0;}
+
+#y=
+iv9326259538 #yiv9326259538ygrp-text tt {
+font-size:120%;}
+
+#yiv9326259538 =
+#yiv9326259538ygrp-vital ul li:last-child {
+border-right:none !important;
+}=
+
+#yiv9326259538 
+</style></div></div><br><br></div>  </div> </div>  </div> =
+</div></body></html>
+---2016055526-1955157167-1410181041=:51810--
+
+

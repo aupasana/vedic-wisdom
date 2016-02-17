@@ -1,0 +1,549 @@
+From rajarshi14@...  Wed Feb 17 11:07:45 2016
+Return-Path: <rajarshi14@...>
+X-Sender: rajarshi14@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 25889 invoked by uid 102); 7 Nov 2014 08:56:34 -0000
+X-Received: from unknown (HELO mtaq6.grp.bf1.yahoo.com) (10.193.84.37)
+  by m4.grp.bf1.yahoo.com with SMTP; 7 Nov 2014 08:56:34 -0000
+X-Received: (qmail 4173 invoked from network); 7 Nov 2014 08:56:33 -0000
+X-Received: from unknown (HELO nm16-vm3.bullet.mail.sg3.yahoo.com) (98.138.100.120)
+  by mtaq6.grp.bf1.yahoo.com with SMTP; 7 Nov 2014 08:56:33 -0000
+X-Received: from [106.10.166.115] by nm16.bullet.mail.sg3.yahoo.com with NNFMP; 07 Nov 2014 08:56:30 -0000
+X-Received: from [106.10.151.203] by tm4.bullet.mail.sg3.yahoo.com with NNFMP; 07 Nov 2014 08:56:30 -0000
+X-Received: from [127.0.0.1] by omp1015.mail.sg3.yahoo.com with NNFMP; 07 Nov 2014 08:56:30 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 424808.76787.bm@...
+X-YMail-OSG: .9PHb_AVM1ni1bv8mcRhd3XdACstVfMW9jk21STazrTFmZ7JK3vskYBV7XHh.4y
+ xyAsBzVbtduLsdpKmhih_V_awxAfhSWzDHMe72o4MPi.NeTwRhC67XNvMR8vzNcwng..dgx6Cn1c
+ iS_HaikSXOy4ImL9gpcIZCkCej1vry8Ht09A3xuIWHjReW404zsAb4G7Tf1vNPprtfSoycLHidSj
+ cmM5Pkqe8xTm6whEvnNY_T0DmMmHjyOxWkxGJYK5uhwg207pr42F_Az.lTBNt2aZ_qgXPOUKLRap
+ aELmCF99.SBJXRU2907IVlJ61mOO4.OQBNW0bxH_Uu2vJLQ63WXL9uS31AZAZufv6Y3SurxYBjCM
+ 1tSB.mOLTc6vvLnf9dx90PylD3RwCUdVbPfj0YMANjfbhq.ZD1WKSXcJVRNfLqiOmxCyTM_wu34a
+ p8LIteCiyz4Fob5KAtxhpg5Rj4Ppa0suK6l9UTIW8npPvClalyJneU2YM.hh_jhzZIkhRGF6dD_u
+ msGZzAumFsrRVmIS2kthbYQaEbvpy0nzRA1PBpshNexoknYoYpyDmoUDsIjDR0oYnrhSBentzUkl
+ OlPnTCM5qNq4MXfxp6_xWVTN8B95RsGs3XkQwb2Cj0QvoRiRwKMXxxVo4vATco6MfQjA67FhHOo1
+ HxUn_A2hHuVsKrLfg7DKVxq9RaVQm.mZVu.m00D7Jk7WXIAssV4tg3tLTs3rS1itaRI5osad_7CO
+ CFBdXW5ax2AY2lt8vSTe1tUrJEWDo7f4HpjxZU7KZVh0SBAc5GPe2ruIWltaVVnMX5l.59xk0rdr
+ OLBdw8GnJRY4ZqUAWgNi5Y2_rDgz0583GF99KM5a0S01wHx_.IOTkkG64HuNaWukdLWdhVm7YuAp
+ u9yGrfTJQyy.ubvk167bOgEhANlPm4NWgMe61QFrN0EIgqOTPLJi3JbmlzqNfy9RoosLcADO1XFH
+ PsomZsmvwFl0x9Aza.Qjnzzr7di2QPgh3lTnOvMcSP2iS0voLkpQhqdZzg3qxt0JwAmMIS.L7J4V
+ a0e7UczzR_MfNRv2nPyjxj9JC6Gz.wwQVUVYpvgQrFIuh0nzh.1Al35y48bHAMtB.8T_KXWNLPB_
+ ryu.32giYio8l7C3mLZiEOtRXqivoedvrPqpgg6S.HZVuyw.q8ictJEX2lDfRp5XeKbhHEfy85g3
+ nVOMpYNKjCAtiekCtuuM28avPJCY8kqbM5CGRmc_.gfeAlJKYYaXwx3SGGEu078egVpC7OdOxHYy
+ FOyapGsrgBFhs1reiJroxhQYaUOGBP2q1DXouieYYSEbfcZ8.q6sgjGmvyvIDLQcGDpSh6NFINZ6
+ POfMll58qDQhXQrnn6EJLNlyOXdaDz0CoDP96aMFWqXRzX7RvM0S5rmPZLD6noRAGPJ3DAoOy306
+ rEPEgU1dO9nds9Sg3n.i7_3apEDHZ2BAK1Jp8oymNp6Bzh3k2PTpjiPB31LvTnBmVLHwJHPx0jfZ
+ drNDe95GtGPLkIA7.Y4UaBayPQPbc1AcQrEjHVTIBYxZIt_ytlosyPIMQIvgvjwEGdFdvPZ2Ka8i
+ wJgOMMW2Tt_l50An3Lot12Vb_Iv4nXKcARmfrJEZTPERE0NJPwD44SCiJL7eMYggk8jqJLRermfY
+ YCprn35hSbcc1TFFLcjQppzGSX_uXpN3LmVj8Vw1VYlJb3KVPGRlzD.XCrFYLEtRZnAJyPgjeOcw
+ DoA4z_86EZb99R2AKzTka3FwhZSxCAD2HzR2_HY4hMWlBZqwUIbCBj12yCdsHbXTbu0RVB.D3uF1
+ pIhacOQSdPcNr2.9ZTiF7yly0NPaZLTFMr5D3FCvlxGeQ1Yu1.S8rGnhn6INFrjIm3MF9vA--
+X-Received: by 106.10.196.90; Fri, 07 Nov 2014 08:56:29 +0000 
+Date: Fri, 7 Nov 2014 08:56:29 +0000 (UTC)
+To: "vedic-wisdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com>
+Message-ID: <876780515.231340.1415350589414.JavaMail.yahoo@...>
+In-Reply-To: <m3hvid+1431bgb@...>
+References: <m3hvid+1431bgb@...>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_231339_1311090745.1415350589402"
+Content-Length: 27561
+X-Originating-IP: 106.10.149.66
+Reply-To: rajarshi nandy <rajarshi14@...>
+Subject: Re: [vedic-wisdom] Mahamaya, Yoganidra
+X-Yahoo-Group-Post: member; u=216162964; y=p1T3gJh2tNGr1t1gVgY9S0YPJAIK9CrDs35OPI0-KizCAC2J3w
+X-Yahoo-Profile: rajarshi14
+From: rajarshi nandy <rajarshi14@...>
+
+
+------=_Part_231339_1311090745.1415350589402
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Namaste,
+I have a different way of lookin at this problem. Firstly the idea=
+ of control or the sense of control is a human terminology that does not wo=
+rk in things beyond human. We says a father controls his son, a boss contro=
+ls his employee etc. And it implies always a stress inherent in the process=
+. Which is natural because life here on this plane is born out of stress an=
+d friction and at every step has to work itself through various opposing fo=
+rces. Therefore we need to use terms like 'control' to make sense of what i=
+s happening.
+But Cosmic Beings and Cosmic Forces like Lord Vishnu or Goddes=
+s Mahamaya are not human at all. They were there before the first human app=
+eared on earth and they will still exist if by some weird accident the whol=
+e human species is wiped off the face of thiis planet. But since we humans =
+are actually extremely puny in a real cosmic sense, so the effective way to=
+ build any relationship with these Beings and Forces is to try and personif=
+y and humanize them. That works fine upto =C2=A0a point but also creates th=
+ese kind of complex questions in our minds, which may not have any real bas=
+is.
+My point is wondering whether Vishnu controls Yogamaya nor Yogamaya con=
+trols Vishnu is like asking whether day controls night or night controls da=
+y. Nothing controls anything in the human sense, they just exist compliment=
+ing each other in a superb balance and harmony without the slightest stress=
+ involved in the whole process. Stress is for us humans, often in a sublimi=
+nal sense. Being stress-free even in complex external acvities is at the he=
+art of spirituality, why?, because then we have learnt to successfully emul=
+ate these Cosmic Beings and Forces who have no conception of human stress. =
+That is all the sadhana is about anyway.
+Hope I have made sense.
+-Regards=
+=C2=A0Rajarshi=C2=A0
+I have a hundred lives before me yet/ To grasp thee in=
+, O spirit ethereal, / Be sure I will with heart insatiate/ Pursue thee lik=
+e a hunter through them all. -Sri Aurobindo
+      From: "vsra_prasad@yahoo.=
+com [vedic-wisdom]" <vedic-wisdom@yahoogroups.com>
+ To: vedic-wisdom@yahoog=
+roups.com 
+ Sent: Friday, 7 November 2014 1:53 PM
+ Subject: Re: [vedic-wisd=
+om] Mahamaya, Yoganidra
+   
+=C2=A0   Namaste.
+Actually I thought of the sam=
+e example before posting to the group. But I thought the example may not be=
+ correct.For me, it is both ways. There are times I control my sleep and th=
+ere are times when I am extremely tired, sleep controls me. But looking at =
+other way, I am on the bed to sleep, but sleep catches up slowly at a time =
+I do not determine. Which is why I wanted to know, if Lord Vishnu and his y=
+oganidra work similarly and I doubt if they do.
+rAma  #yiv4758213900 #yiv47=
+58213900 -- #yiv4758213900ygrp-mkp {border:1px solid #d8d8d8;font-family:Ar=
+ial;margin:10px 0;padding:0 10px;}#yiv4758213900 #yiv4758213900ygrp-mkp hr =
+{border:1px solid #d8d8d8;}#yiv4758213900 #yiv4758213900ygrp-mkp #yiv475821=
+3900hd {color:#628c2a;font-size:85%;font-weight:700;line-height:122%;margin=
+:10px 0;}#yiv4758213900 #yiv4758213900ygrp-mkp #yiv4758213900ads {margin-bo=
+ttom:10px;}#yiv4758213900 #yiv4758213900ygrp-mkp .yiv4758213900ad {padding:=
+0 0;}#yiv4758213900 #yiv4758213900ygrp-mkp .yiv4758213900ad p {margin:0;}#y=
+iv4758213900 #yiv4758213900ygrp-mkp .yiv4758213900ad a {color:#0000ff;text-=
+decoration:none;}#yiv4758213900 #yiv4758213900ygrp-sponsor #yiv4758213900yg=
+rp-lc {font-family:Arial;}#yiv4758213900 #yiv4758213900ygrp-sponsor #yiv475=
+8213900ygrp-lc #yiv4758213900hd {margin:10px 0px;font-weight:700;font-size:=
+78%;line-height:122%;}#yiv4758213900 #yiv4758213900ygrp-sponsor #yiv4758213=
+900ygrp-lc .yiv4758213900ad {margin-bottom:10px;padding:0 0;}#yiv4758213900=
+ #yiv4758213900actions {font-family:Verdana;font-size:11px;padding:10px 0;}=
+#yiv4758213900 #yiv4758213900activity {background-color:#e0ecee;float:left;=
+font-family:Verdana;font-size:10px;padding:10px;}#yiv4758213900 #yiv4758213=
+900activity span {font-weight:700;}#yiv4758213900 #yiv4758213900activity sp=
+an:first-child {text-transform:uppercase;}#yiv4758213900 #yiv4758213900acti=
+vity span a {color:#5085b6;text-decoration:none;}#yiv4758213900 #yiv4758213=
+900activity span span {color:#ff7900;}#yiv4758213900 #yiv4758213900activity=
+ span .yiv4758213900underline {text-decoration:underline;}#yiv4758213900 .y=
+iv4758213900attach {clear:both;display:table;font-family:Arial;font-size:12=
+px;padding:10px 0;width:400px;}#yiv4758213900 .yiv4758213900attach div a {t=
+ext-decoration:none;}#yiv4758213900 .yiv4758213900attach img {border:none;p=
+adding-right:5px;}#yiv4758213900 .yiv4758213900attach label {display:block;=
+margin-bottom:5px;}#yiv4758213900 .yiv4758213900attach label a {text-decora=
+tion:none;}#yiv4758213900 blockquote {margin:0 0 0 4px;}#yiv4758213900 .yiv=
+4758213900bold {font-family:Arial;font-size:13px;font-weight:700;}#yiv47582=
+13900 .yiv4758213900bold a {text-decoration:none;}#yiv4758213900 dd.yiv4758=
+213900last p a {font-family:Verdana;font-weight:700;}#yiv4758213900 dd.yiv4=
+758213900last p span {margin-right:10px;font-family:Verdana;font-weight:700=
+;}#yiv4758213900 dd.yiv4758213900last p span.yiv4758213900yshortcuts {margi=
+n-right:0;}#yiv4758213900 div.yiv4758213900attach-table div div a {text-dec=
+oration:none;}#yiv4758213900 div.yiv4758213900attach-table {width:400px;}#y=
+iv4758213900 div.yiv4758213900file-title a, #yiv4758213900 div.yiv475821390=
+0file-title a:active, #yiv4758213900 div.yiv4758213900file-title a:hover, #=
+yiv4758213900 div.yiv4758213900file-title a:visited {text-decoration:none;}=
+#yiv4758213900 div.yiv4758213900photo-title a, #yiv4758213900 div.yiv475821=
+3900photo-title a:active, #yiv4758213900 div.yiv4758213900photo-title a:hov=
+er, #yiv4758213900 div.yiv4758213900photo-title a:visited {text-decoration:=
+none;}#yiv4758213900 div#yiv4758213900ygrp-mlmsg #yiv4758213900ygrp-msg p a=
+ span.yiv4758213900yshortcuts {font-family:Verdana;font-size:10px;font-weig=
+ht:normal;}#yiv4758213900 .yiv4758213900green {color:#628c2a;}#yiv475821390=
+0 .yiv4758213900MsoNormal {margin:0 0 0 0;}#yiv4758213900 o {font-size:0;}#=
+yiv4758213900 #yiv4758213900photos div {float:left;width:72px;}#yiv47582139=
+00 #yiv4758213900photos div div {border:1px solid #666666;height:62px;overf=
+low:hidden;width:62px;}#yiv4758213900 #yiv4758213900photos div label {color=
+:#666666;font-size:10px;overflow:hidden;text-align:center;white-space:nowra=
+p;width:64px;}#yiv4758213900 #yiv4758213900reco-category {font-size:77%;}#y=
+iv4758213900 #yiv4758213900reco-desc {font-size:77%;}#yiv4758213900 .yiv475=
+8213900replbq {margin:4px;}#yiv4758213900 #yiv4758213900ygrp-actbar div a:f=
+irst-child {margin-right:2px;padding-right:5px;}#yiv4758213900 #yiv47582139=
+00ygrp-mlmsg {font-size:13px;font-family:Arial, helvetica, clean, sans-seri=
+f;}#yiv4758213900 #yiv4758213900ygrp-mlmsg table {font-size:inherit;font:10=
+0%;}#yiv4758213900 #yiv4758213900ygrp-mlmsg select, #yiv4758213900 input, #=
+yiv4758213900 textarea {font:99% Arial, Helvetica, clean, sans-serif;}#yiv4=
+758213900 #yiv4758213900ygrp-mlmsg pre, #yiv4758213900 code {font:115% mono=
+space;}#yiv4758213900 #yiv4758213900ygrp-mlmsg * {line-height:1.22em;}#yiv4=
+758213900 #yiv4758213900ygrp-mlmsg #yiv4758213900logo {padding-bottom:10px;=
+}#yiv4758213900 #yiv4758213900ygrp-msg p a {font-family:Verdana;}#yiv475821=
+3900 #yiv4758213900ygrp-msg p#yiv4758213900attach-count span {color:#1E66AE=
+;font-weight:700;}#yiv4758213900 #yiv4758213900ygrp-reco #yiv4758213900reco=
+-head {color:#ff7900;font-weight:700;}#yiv4758213900 #yiv4758213900ygrp-rec=
+o {margin-bottom:20px;padding:0px;}#yiv4758213900 #yiv4758213900ygrp-sponso=
+r #yiv4758213900ov li a {font-size:130%;text-decoration:none;}#yiv475821390=
+0 #yiv4758213900ygrp-sponsor #yiv4758213900ov li {font-size:77%;list-style-=
+type:square;padding:6px 0;}#yiv4758213900 #yiv4758213900ygrp-sponsor #yiv47=
+58213900ov ul {margin:0;padding:0 0 0 8px;}#yiv4758213900 #yiv4758213900ygr=
+p-text {font-family:Georgia;}#yiv4758213900 #yiv4758213900ygrp-text p {marg=
+in:0 0 1em 0;}#yiv4758213900 #yiv4758213900ygrp-text tt {font-size:120%;}#y=
+iv4758213900 #yiv4758213900ygrp-vital ul li:last-child {border-right:none !=
+important;}#yiv4758213900 
+
+  
+------=_Part_231339_1311090745.1415350589402
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"color:#000; background-color:#fff; font-family:He=
+lveticaNeue, Helvetica Neue, Helvetica, Arial, Lucida Grande, Sans-Serif;fo=
+nt-size:12px"><div dir=3D"ltr">Namaste,</div><div dir=3D"ltr" id=3D"yui_3_1=
+6_0_1_1415350029924_2652"><br></div><div dir=3D"ltr" id=3D"yui_3_16_0_1_141=
+5350029924_2651">I have a different way of lookin at this problem. Firstly =
+the idea of control or the sense of control is a human terminology that doe=
+s not work in things beyond human. We says a father controls his son, a bos=
+s controls his employee etc. And it implies always a stress inherent in the=
+ process. Which is natural because life here on this plane is born out of s=
+tress and friction and at every step has to work itself through various opp=
+osing forces. Therefore we need to use terms like 'control' to make sense o=
+f what is happening.</div><div dir=3D"ltr"><br></div><div dir=3D"ltr" id=3D=
+"yui_3_16_0_1_1415350029924_2650">But Cosmic Beings and Cosmic Forces like =
+Lord Vishnu or Goddess Mahamaya are not human at all. They were there befor=
+e the first human appeared on earth and they will still exist if by some we=
+ird accident the whole human species is wiped off the face of thiis planet.=
+ But since we humans are actually extremely puny in a real cosmic sense, so=
+ the effective way to build any relationship with these Beings and Forces i=
+s to try and personify and humanize them. That works fine upto  a poin=
+t but also creates these kind of complex questions in our minds, which may =
+not have any real basis.</div><div dir=3D"ltr" id=3D"yui_3_16_0_1_141535002=
+9924_2650"><br></div><div dir=3D"ltr" id=3D"yui_3_16_0_1_1415350029924_2650=
+">My point is wondering whether Vishnu controls Yogamaya nor Yogamaya contr=
+ols Vishnu is like asking whether day controls night or night controls day.=
+ Nothing controls anything in the human sense, they just exist complimentin=
+g each other in a superb balance and harmony without the slightest stress i=
+nvolved in the whole process. Stress is for us humans, often in a sublimina=
+l sense. Being stress-free even in complex external acvities is at the hear=
+t of spirituality, why?, because then we have learnt to successfully emulat=
+e these Cosmic Beings and Forces who have no conception of human stress. Th=
+at is all the sadhana is about anyway.</div><div dir=3D"ltr" id=3D"yui_3_16=
+_0_1_1415350029924_2650"><br></div><div dir=3D"ltr" id=3D"yui_3_16_0_1_1415=
+350029924_2650">Hope I have made sense.</div><div dir=3D"ltr" id=3D"yui_3_1=
+6_0_1_1415350029924_2650"><br></div><div dir=3D"ltr" id=3D"yui_3_16_0_1_141=
+5350029924_2650">-Regards</div><div dir=3D"ltr" id=3D"yui_3_16_0_1_14153500=
+29924_2650"> Rajarshi</div><div></div><div id=3D"yui_3_16_0_1_14153500=
+29924_2671"> </div><div class=3D"signature" id=3D"yui_3_16_0_1_1415350=
+029924_2638"><div id=3D"yui_3_16_0_1_1415350029924_2643"><span style=3D"fon=
+t-family:times new roman, new york, times, serif;"><br></span></div><div id=
+=3D"yui_3_16_0_1_1415350029924_2637"><i id=3D"yui_3_16_0_1_1415350029924_26=
+36"><b id=3D"yui_3_16_0_1_1415350029924_2635"><div class=3D"MsoNormal" id=
+=3D"yui_3_16_0_1_1415350029924_2634"><span style=3D"font-family:times new r=
+oman, new york, times, serif;" id=3D"yui_3_16_0_1_1415350029924_2649"><b><s=
+pan class=3D"Apple-style-span" style=3D"font-size:16px;"><b><span class=3D"=
+Apple-style-span" style=3D"color:rgb(153, 153, 153);"></span></b></span></b=
+><span class=3D"yui_3_2_0_2_134243527249950" id=3D"yui_3_16_0_1_14153500299=
+24_2648">I have a hundred lives before me yet/ To grasp thee in, O spirit e=
+thereal, /</span> Be sure I will with heart insatiate/ Pursue thee like a h=
+unter through them all.</span><b id=3D"yui_3_16_0_1_1415350029924_2674"><sp=
+an style=3D"font-family:times new roman, new york, times, serif;" id=3D"yui=
+_3_16_0_1_1415350029924_2673"> -Sri Aurobindo</span><span class=3D"yui_3_2_=
+0_2_134243506227946 yui_3_2_0_2_134243527249952 yui_3_2_0_2_137332740501958=
+" style=3D"FONT-SIZE:10pt;COLOR:navy;FONT-FAMILY:Verdana;"></span></b></div=
+></b></i></div></div><br>  <div style=3D"font-family: HelveticaNeue, Helvet=
+ica Neue, Helvetica, Arial, Lucida Grande, Sans-Serif; font-size: 12px;" id=
+=3D"yui_3_16_0_1_1415350029924_2631"> <div style=3D"font-family: HelveticaN=
+eue, Helvetica Neue, Helvetica, Arial, Lucida Grande, Sans-Serif; font-size=
+: 12px;" id=3D"yui_3_16_0_1_1415350029924_2630"> <div dir=3D"ltr" id=3D"yui=
+_3_16_0_1_1415350029924_2629"> <hr size=3D"1">  <font size=3D"2" face=3D"Ar=
+ial" id=3D"yui_3_16_0_1_1415350029924_2644"> <b><span style=3D"font-weight:=
+bold;">From:</span></b> "vsra_prasad@... [vedic-wisdom]" <vedic-wi=
+sdom@yahoogroups.com><br> <b><span style=3D"font-weight: bold;">To:</spa=
+n></b> vedic-wisdom@yahoogroups.com <br> <b><span style=3D"font-weight: bol=
+d;">Sent:</span></b> Friday, 7 November 2014 1:53 PM<br> <b><span style=3D"=
+font-weight: bold;">Subject:</span></b> Re: [vedic-wisdom] Mahamaya, Yogani=
+dra<br> </font> </div> <div class=3D"y_msg_container"><br><div id=3D"yiv475=
+8213900"><div>
+<span style=3D"display:none;"> </span>
+
+
+<div id=3D"yiv=
+4758213900ygrp-mlmsg" style=3D"">
+  <div id=3D"yiv4758213900ygrp-msg" style=
+=3D"">
+
+
+    <div id=3D"yiv4758213900ygrp-text">
+      
+      
+      <div>N=
+amaste.</div><div><br clear=3D"none"></div><div>Actually I thought of the s=
+ame example before posting to the group. But I thought the example may not =
+be correct.</div><div>For me, it is both ways. There are times I control my=
+ sleep and there are times when I am extremely tired, sleep controls me. Bu=
+t looking at other way, I am on the bed to sleep, but sleep catches up slow=
+ly at a time I do not determine. Which is why I wanted to know, if Lord Vis=
+hnu and his yoganidra work similarly and I doubt if they do.</div><div><br =
+clear=3D"none"></div><div>rAma</div>
+
+    </div>
+     
+
+    
+    <div style=
+=3D"color:#fff;height:0;"></div></div>
+
+
+</div><style type=3D"text/css">
+#y=
+iv4758213900 #yiv4758213900 --
+  #yiv4758213900ygrp-mkp {
+border:1px solid =
+#d8d8d8;font-family:Arial;margin:10px 0;padding:0 10px;}
+
+#yiv4758213900 #y=
+iv4758213900ygrp-mkp hr {
+border:1px solid #d8d8d8;}
+
+#yiv4758213900 #yiv47=
+58213900ygrp-mkp #yiv4758213900hd {
+color:#628c2a;font-size:85%;font-weight=
+:700;line-height:122%;margin:10px 0;}
+
+#yiv4758213900 #yiv4758213900ygrp-mk=
+p #yiv4758213900ads {
+margin-bottom:10px;}
+
+#yiv4758213900 #yiv4758213900yg=
+rp-mkp .yiv4758213900ad {
+padding:0 0;}
+
+#yiv4758213900 #yiv4758213900ygrp-=
+mkp .yiv4758213900ad p {
+margin:0;}
+
+#yiv4758213900 #yiv4758213900ygrp-mkp =
+.yiv4758213900ad a {
+color:#0000ff;text-decoration:none;}
+#yiv4758213900 #y=
+iv4758213900ygrp-sponsor #yiv4758213900ygrp-lc {
+font-family:Arial;}
+
+#yiv4=
+758213900 #yiv4758213900ygrp-sponsor #yiv4758213900ygrp-lc #yiv4758213900hd=
+ {
+margin:10px 0px;font-weight:700;font-size:78%;line-height:122%;}
+
+#yiv47=
+58213900 #yiv4758213900ygrp-sponsor #yiv4758213900ygrp-lc .yiv4758213900ad =
+{
+margin-bottom:10px;padding:0 0;}
+
+#yiv4758213900 #yiv4758213900actions {
+=
+font-family:Verdana;font-size:11px;padding:10px 0;}
+
+#yiv4758213900 #yiv475=
+8213900activity {
+background-color:#e0ecee;float:left;font-family:Verdana;f=
+ont-size:10px;padding:10px;}
+
+#yiv4758213900 #yiv4758213900activity span {
+=
+font-weight:700;}
+
+#yiv4758213900 #yiv4758213900activity span:first-child {=
+
+text-transform:uppercase;}
+
+#yiv4758213900 #yiv4758213900activity span a {=
+
+color:#5085b6;text-decoration:none;}
+
+#yiv4758213900 #yiv4758213900activit=
+y span span {
+color:#ff7900;}
+
+#yiv4758213900 #yiv4758213900activity span .=
+yiv4758213900underline {
+text-decoration:underline;}
+
+#yiv4758213900 .yiv47=
+58213900attach {
+clear:both;display:table;font-family:Arial;font-size:12px;=
+padding:10px 0;width:400px;}
+
+#yiv4758213900 .yiv4758213900attach div a {
+t=
+ext-decoration:none;}
+
+#yiv4758213900 .yiv4758213900attach img {
+border:non=
+e;padding-right:5px;}
+
+#yiv4758213900 .yiv4758213900attach label {
+display:=
+block;margin-bottom:5px;}
+
+#yiv4758213900 .yiv4758213900attach label a {
+te=
+xt-decoration:none;}
+
+#yiv4758213900 blockquote {
+margin:0 0 0 4px;}
+
+#yiv4=
+758213900 .yiv4758213900bold {
+font-family:Arial;font-size:13px;font-weight=
+:700;}
+
+#yiv4758213900 .yiv4758213900bold a {
+text-decoration:none;}
+
+#yiv4=
+758213900 dd.yiv4758213900last p a {
+font-family:Verdana;font-weight:700;}
+=
+
+#yiv4758213900 dd.yiv4758213900last p span {
+margin-right:10px;font-family=
+:Verdana;font-weight:700;}
+
+#yiv4758213900 dd.yiv4758213900last p span.yiv4=
+758213900yshortcuts {
+margin-right:0;}
+
+#yiv4758213900 div.yiv4758213900att=
+ach-table div div a {
+text-decoration:none;}
+
+#yiv4758213900 div.yiv4758213=
+900attach-table {
+width:400px;}
+
+#yiv4758213900 div.yiv4758213900file-title=
+ a, #yiv4758213900 div.yiv4758213900file-title a:active, #yiv4758213900 div=
+.yiv4758213900file-title a:hover, #yiv4758213900 div.yiv4758213900file-titl=
+e a:visited {
+text-decoration:none;}
+
+#yiv4758213900 div.yiv4758213900photo=
+-title a, #yiv4758213900 div.yiv4758213900photo-title a:active, #yiv4758213=
+900 div.yiv4758213900photo-title a:hover, #yiv4758213900 div.yiv4758213900p=
+hoto-title a:visited {
+text-decoration:none;}
+
+#yiv4758213900 div#yiv475821=
+3900ygrp-mlmsg #yiv4758213900ygrp-msg p a span.yiv4758213900yshortcuts {
+fo=
+nt-family:Verdana;font-size:10px;font-weight:normal;}
+
+#yiv4758213900 .yiv4=
+758213900green {
+color:#628c2a;}
+
+#yiv4758213900 .yiv4758213900MsoNormal {
+=
+margin:0 0 0 0;}
+
+#yiv4758213900 o {
+font-size:0;}
+
+#yiv4758213900 #yiv4758=
+213900photos div {
+float:left;width:72px;}
+
+#yiv4758213900 #yiv4758213900ph=
+otos div div {
+border:1px solid #666666;height:62px;overflow:hidden;width:6=
+2px;}
+
+#yiv4758213900 #yiv4758213900photos div label {
+color:#666666;font-s=
+ize:10px;overflow:hidden;text-align:center;white-space:nowrap;width:64px;}
+=
+
+#yiv4758213900 #yiv4758213900reco-category {
+font-size:77%;}
+
+#yiv47582139=
+00 #yiv4758213900reco-desc {
+font-size:77%;}
+
+#yiv4758213900 .yiv4758213900=
+replbq {
+margin:4px;}
+
+#yiv4758213900 #yiv4758213900ygrp-actbar div a:first=
+-child {
+margin-right:2px;padding-right:5px;}
+
+#yiv4758213900 #yiv475821390=
+0ygrp-mlmsg {
+font-size:13px;font-family:Arial, helvetica, clean, sans-seri=
+f;}
+
+#yiv4758213900 #yiv4758213900ygrp-mlmsg table {
+font-size:inherit;font=
+:100%;}
+
+#yiv4758213900 #yiv4758213900ygrp-mlmsg select, #yiv4758213900 inp=
+ut, #yiv4758213900 textarea {
+font:99% Arial, Helvetica, clean, sans-serif;=
+}
+
+#yiv4758213900 #yiv4758213900ygrp-mlmsg pre, #yiv4758213900 code {
+font:=
+115% monospace;}
+
+#yiv4758213900 #yiv4758213900ygrp-mlmsg * {
+line-height:1=
+.22em;}
+
+#yiv4758213900 #yiv4758213900ygrp-mlmsg #yiv4758213900logo {
+paddi=
+ng-bottom:10px;}
+
+
+#yiv4758213900 #yiv4758213900ygrp-msg p a {
+font-family:=
+Verdana;}
+
+#yiv4758213900 #yiv4758213900ygrp-msg p#yiv4758213900attach-coun=
+t span {
+color:#1E66AE;font-weight:700;}
+
+#yiv4758213900 #yiv4758213900ygrp=
+-reco #yiv4758213900reco-head {
+color:#ff7900;font-weight:700;}
+
+#yiv475821=
+3900 #yiv4758213900ygrp-reco {
+margin-bottom:20px;padding:0px;}
+
+#yiv475821=
+3900 #yiv4758213900ygrp-sponsor #yiv4758213900ov li a {
+font-size:130%;text=
+-decoration:none;}
+
+#yiv4758213900 #yiv4758213900ygrp-sponsor #yiv475821390=
+0ov li {
+font-size:77%;list-style-type:square;padding:6px 0;}
+
+#yiv47582139=
+00 #yiv4758213900ygrp-sponsor #yiv4758213900ov ul {
+margin:0;padding:0 0 0 =
+8px;}
+
+#yiv4758213900 #yiv4758213900ygrp-text {
+font-family:Georgia;}
+
+#yiv=
+4758213900 #yiv4758213900ygrp-text p {
+margin:0 0 1em 0;}
+
+#yiv4758213900 #=
+yiv4758213900ygrp-text tt {
+font-size:120%;}
+
+#yiv4758213900 #yiv4758213900=
+ygrp-vital ul li:last-child {
+border-right:none !important;
+}
+#yiv475821390=
+0 
+</style></div><br><br></div> </div> </div>  </div></body></html>
+------=_Part_231339_1311090745.1415350589402--
+
+

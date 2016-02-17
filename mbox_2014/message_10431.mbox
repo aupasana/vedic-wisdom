@@ -1,0 +1,564 @@
+From acharyulug@...  Wed Feb 17 11:07:43 2016
+Return-Path: <acharyulug@...>
+X-Sender: acharyulug@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 25600 invoked by uid 102); 16 Sep 2014 07:17:12 -0000
+X-Received: from unknown (HELO mtaq6.grp.bf1.yahoo.com) (10.193.84.37)
+  by m8.grp.bf1.yahoo.com with SMTP; 16 Sep 2014 07:17:12 -0000
+X-Received: (qmail 4275 invoked from network); 16 Sep 2014 07:17:11 -0000
+X-Received: from unknown (HELO nm25-vm6.bullet.mail.ne1.yahoo.com) (98.138.100.119)
+  by mtaq6.grp.bf1.yahoo.com with SMTP; 16 Sep 2014 07:17:11 -0000
+X-Received: from [98.138.100.118] by nm25.bullet.mail.ne1.yahoo.com with NNFMP; 16 Sep 2014 07:15:40 -0000
+X-Received: from [98.138.88.234] by tm109.bullet.mail.ne1.yahoo.com with NNFMP; 16 Sep 2014 07:15:40 -0000
+X-Received: from [127.0.0.1] by omp1034.mail.ne1.yahoo.com with NNFMP; 16 Sep 2014 07:15:40 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 191396.77547.bm@...
+X-Received: (qmail 26843 invoked by uid 60001); 16 Sep 2014 07:15:40 -0000
+X-YMail-OSG: cej3TzoVM1k33lvxmZBUoh_xFUCxEyMCfJDREymB1JN15T.
+ wkTn4mf_l0K5iGb_udljuwpeE5zPkfKdyKox1sgtimtpoS3nnMHG6_5QaM0v
+ W4Cio49Ddt5cQ98bExs03JUPwV2dh4DYJ8CotNiaKLF1PcyRquWfFc8jJzbd
+ efxGq1aNkXeaVsTqyL3QlgORkA9B44ZYV1sO00..klRkZLMooDOGHYvWfcBY
+ 0tx3rkI6xHefUagAU62ALgqf8CynU0bzNqeYPqrZtbtwSOXof75QPJ.GiFnP
+ LLMJSPByNQM2MUob4C2QmMx5JiSfA.o8ksikYiPkTPQ4fXyvTKMlYs7nhtaF
+ o4GQmuRXnCQkgfpXlu8lZVCQvLXyrIH0MkY4FecFL0MBBGZVKRA2lVDPduTO
+ VAWt9TOGsw5s4JGvHPCNCz3bpOyXdh4bcGUKLs6mN3mr10mteF6QAduDw63n
+ s.jp3Z7Fv7Wcu3kZnGf.wjpFyfypJDKfSxDOcuQWAPGWSbj1fWLcMeeFmO2c
+ dmmmMMHQOTC6v1UfbI5WCHUk_FlTBj.Om_JJuBsXuRN_JHbATk.ldK9t3Lks
+ FVRvB7MeGwdD1n6HMv5oDu2LkTNDiX4FA2zSgEzxA8YnuOk4J4XCdsgDwyTt
+ m0wOqb339ima.2.lNWravC5l8YPCvSlsHifPiycuyaHaRmE_F07OlkPeAYmm
+ AWAPTnTPAjGVQcVh2L_pg0ioXILufyYfPLEI6nLlyUXSH_ZvX6E9h8vPo3EG
+ 0DLgja359jC14Ql6itAVdAIm_L2gNDmgT35xqkJ2SxMOkvFYGjkAcDTI_WgO
+ S2rymF3kFwU6gOHuC8rJjtLcT3NM1GWCJ338Dl07JAovbZ._N0BrKVlBP3UL
+ oUKkD4bk7NK6kJiDI_g5V1BcIFRBnK1E9hDdOy2PdZyeMmmzSL_JJL0v2JNy
+ w2VZDmWR1Vwj6kYrT2Pc207M3nQnakjynzyHbtUZjgbb1p4dLUQzC7CHZP1S
+ bECWRBR3lptdJByO3heYdwKbSxngnYuoUc_JsIYpqN0D6Fc9Cllp6Q6s8ngq
+ yzy2h.tjmQijZpH6IzBuFXWlVKR98wSHeNWG3pSbUqqtY.270rFSQbafF1Yt
+ lRN4PzmsS3mgNjt26KT9FBZk5pGaTGlImc9oQa3.sKltdTWAVeKdxqCYNhzm
+ UOif1LMqRATr2GcLX714Cmo0bwGzzIQWQH1vzhmNJZ9r.7RBYMbQsZfLH6fD
+ lmQV3zJZdso86xUoeYAs9bE2IaubL.oZPvqliy.WpDhp6F_nwMw95ZTjaiyv
+ sYk4bGDUevtLrrYmlf5t1I.WMg7zbOiUBU.c_uiQ0TfdkIrNenGLWmhkOUr8
+ bmsfanmiUQpcFFNet8TYhP28f6s.Eva6wB7a6apZb76sUA9ksRBWzZTUYFPn
+ dHaPm8IioIt3jYjuxY2rVXVpqOznIUy45gkZ.qWcboMzr6f3fmL7vovHODKy
+ sVULwU13Rgq3NPM4GndmwB2C8ahf_b3l4c4.PmAeTVgij5AgQWLol8EKu.Ge
+ rTW4ZgaL__Ttuj4LKo_Y8bFAmnZ4lG1DuUY2.SURDDxOnpMusQ1BwMoTPRk9
+ DBZHUgfU7nl4bX_GlMeJ5ov9sZUmhY9XqVCJx22jgiLK81NjeTnIdwW7xARo
+ 2NjQ7m8dxyoDT.ko2kofoWPmUGXRdsTmHMBuu4kfICNkyTulSTxjPXSgjbBv
+ 3Apce91DuvC_Iq8OkJudrCZ7PBXlgBg.bGGO1JMkgkEHqYARQvXKHmpAyYOU
+ wRhD87xoWXbtx26iIVYpcEzgwG6Fsd40CtvlwCnhpc9JhvRosZXxBj6Hfq69
+ 32cRpsYcJXK.CujGTJF_zBtIYkZBI0ne.ZhjPfadZY4T6SGuhfMGzIw03xXa
+ GYD4ChPnFWuH0ZIaG5U9cia9AQp_B3v_NZCa0Sg18tywFzfaIiT9m.gNy09A
+ CygcwFYeRAxQU457olpYDbRuVeeAtlAn9AE2xp8wX3Q25y503c8w5F00pMFr
+ .
+X-Received: from [59.99.26.5] by web120701.mail.ne1.yahoo.com via HTTP; Tue, 16 Sep 2014 00:15:39 PDT
+X-Rocket-MIMEInfo: 002.001,VGhhbmsgeW91IHZlcnkgbXVjaCBOYXJhc2ltaGEgamkgZm9yIHRoYXQgYmVhdXRpZnVsIGNsYXJpZmljYXRpb24sIGFzIGFsd2F5cy4uLgoKQWNoYXJ5dWx1CgoKT24gTW9uZGF5LCBTZXB0ZW1iZXIgMTUsIDIwMTQgODozMiBQTSwgIidOYXJhc2ltaGEgUC5WLlIuIFJhbycgcHZyMTA4QHlhaG9vLmNvbSBbdmVkaWMtd2lzZG9tXSIgPHZlZGljLXdpc2RvbUB5YWhvb2dyb3Vwcy5jb20.IHdyb3RlOgogCgoKICAKTmFtYXN0ZSBTaXIsCgpNYW55dSBzdGFuZHMgZm9yIGZpZXJjZW5lc3MsIHBhc3Npb24gYW5kIGEBMAEBAQE-
+X-Mailer: YahooMailWebService/0.8.203.696
+References: <1410759341.36174.YahooMailNeo@...> <1410793360.45549.YahooMailNeo@...>
+Message-ID: <1410851739.23761.YahooMailNeo@...>
+Date: Tue, 16 Sep 2014 00:15:39 -0700
+To: "vedic-wisdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com>
+In-Reply-To: <1410793360.45549.YahooMailNeo@...>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="-795196629-679897834-1410851739=:23761"
+X-Originating-IP: 98.138.91.118
+X-eGroups-Msg-Info: 1:12:0:0:0
+Reply-To: Acharyulu <acharyulug@...>
+Subject: Re: [vedic-wisdom] Manyu Suktam -reg
+X-Yahoo-Group-Post: member; u=176368747; y=knV6FpQz8QRg1p4Pr0o7WFEjcXv11VBWQC326R2W06jlPlAmKQ
+X-Yahoo-Profile: acharyulug
+From: Acharyulu <acharyulug@...>
+
+
+---795196629-679897834-1410851739=:23761
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Thank you very much Narasimha ji for that beautiful clarification, as alway=
+s...
+
+Acharyulu
+
+
+On Monday, September 15, 2014 8:32 PM, "'Narasimha P.V.R.=
+ Rao' pvr108@... [vedic-wisdom]" <vedic-wisdom@yahoogroups.com> wrote=
+:
+ 
+
+
+  
+Namaste Sir,
+
+Manyu stands for fierceness, passion and anger. Perh=
+aps represents the state of undivided consciousness that is about to be div=
+ided.
+
+Some consider Manyu to represent Rudras, some as Hanuman etc. Why no=
+t just call Him as Manyu, invite Manyu, do upacharas to Manyu and offer Man=
+yu sooktam in fire to Manyu. That may be better than call him Hanuman or Ru=
+dra.
+
+If you want to do it, please use Vishnu homam as the template and rep=
+lace "viShN" with "many" (i.e. viShNave becomes manyuave, viShNoH becomes m=
+anyoH etc).
+
+However, please be advised that worship of fierce deities can =
+be dicey. You should go to a fierce teacher only if you can handle his/her =
+aggressive ways of teaching and punishments. Of course, it is for your good=
+ only, but you should be able to handle it in the beginning. So is the case=
+ with fierce deities.
+
+Best regards,
+
+Narasimha
+--------
+Astrology & Spirit=
+uality Resources: http://www.VedicAstrologer.org
+--------
+
+
+
+>_____________=
+___________________
+> From: "Acharyulu acharyulug@... [vedic-wisdom]"=
+ <vedic-wisdom@yahoogroups.com>
+>To: "vedic-wisdom@yahoogroups.com" <vedic-=
+wisdom@yahoogroups.com> 
+>Sent: Monday, September 15, 2014 1:35 AM
+>Subject=
+: [vedic-wisdom] Manyu Suktam -reg
+> 
+>
+>
+>  
+>Dear Narasimha Garu,
+>
+>
+>  =
+please advise which homam is more suitable for Manyu Suktam. I am confused =
+from whatever I gleaned from various sources. I am not clear to which deity=
+ this suktam addresses, viz., Hanuman / Narasimha / Rudra / Sani. Best rega=
+rds,
+>
+>
+>Acharyulu
+>
+>
+
+---795196629-679897834-1410851739=:23761
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"color:#000; background-color:#fff; font-family:He=
+lveticaNeue, Helvetica Neue, Helvetica, Arial, Lucida Grande, sans-serif;fo=
+nt-size:12pt"><div><span>Thank you very much Narasimha ji for that beautifu=
+l clarification, as always...</span></div><div style=3D"color: rgb(0, 0, 0)=
+; font-size: 16px; font-family: HelveticaNeue, 'Helvetica Neue', Helvetica,=
+ Arial, 'Lucida Grande', sans-serif; font-style: normal; background-color: =
+transparent;"><span><br></span></div><div style=3D"color: rgb(0, 0, 0); fon=
+t-size: 16px; font-family: HelveticaNeue, 'Helvetica Neue', Helvetica, Aria=
+l, 'Lucida Grande', sans-serif; font-style: normal; background-color: trans=
+parent;">Acharyulu</div> <div class=3D"qtdSeparateBR"><br><br></div><div cl=
+ass=3D"yahoo_quoted" style=3D"display: block;"> <div style=3D"font-family: =
+HelveticaNeue, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-se=
+rif; font-size: 12pt;"> <div style=3D"font-family: HelveticaNeue, 'Helvetic=
+a Neue',
+ Helvetica, Arial, 'Lucida Grande', sans-serif; font-size: 12pt;">=
+ <div dir=3D"ltr"> <font size=3D"2" face=3D"Arial"> On Monday, September 15=
+, 2014 8:32 PM, "'Narasimha P.V.R. Rao' pvr108@... [vedic-wisdom]" &l=
+t;vedic-wisdom@yahoogroups.com> wrote:<br> </font> </div>  <br><br> <div=
+ class=3D"y_msg_container"><div id=3D"yiv4193079371"><div>
+<span style=3D"d=
+isplay:none;"> </span>
+
+
+<div id=3D"yiv4193079371ygrp-mlmsg" style=3D"=
+">
+  <div id=3D"yiv4193079371ygrp-msg" style=3D"">
+
+
+    <div id=3D"yiv4193=
+079371ygrp-text">
+      
+      
+      <div style=3D"color: rgb(0, 0, 0); fo=
+nt-family: HelveticaNeue, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grand=
+e', sans-serif; font-size: 10pt; background-color: rgb(255, 255, 255);"><di=
+v class=3D"yiv4193079371class">Namaste Sir,</div><div class=3D"yiv419307937=
+1class"><br clear=3D"none" class=3D"yiv4193079371class"></div><div class=3D=
+"yiv4193079371class">Manyu stands for fierceness, passion and anger. Perhap=
+s represents the state of undivided consciousness that is about to be divid=
+ed.</div><div class=3D"yiv4193079371class"><br clear=3D"none" class=3D"yiv4=
+193079371class"></div><div class=3D"yiv4193079371class">Some consider Manyu=
+ to represent Rudras, some as Hanuman etc. Why not just call Him as Manyu, =
+invite Manyu, do upacharas to Manyu and offer Manyu sooktam in fire to Many=
+u. That may be better than call him Hanuman or Rudra.</div><div class=3D"yi=
+v4193079371class"><br clear=3D"none" class=3D"yiv4193079371class"></div><di=
+v class=3D"yiv4193079371class">If you want to do it,
+ please use Vishnu hom=
+am as the template and replace "viShN" with "many" (i.e. viShNave becomes m=
+anyuave, viShNoH becomes manyoH etc).</div><div class=3D"yiv4193079371class=
+"><br clear=3D"none" class=3D"yiv4193079371class"></div><div class=3D"yiv41=
+93079371class">However, please be advised that worship of fierce deities ca=
+n be dicey. You should go to a fierce teacher only if you can handle his/he=
+r aggressive ways of teaching and punishments. Of course, it is for your go=
+od only, but you should be able to handle it in the beginning. So is the ca=
+se with fierce deities.</div><div class=3D"yiv4193079371class"><br clear=3D=
+"none" class=3D"yiv4193079371class"></div><div class=3D"yiv4193079371class"=
+><span style=3D"font-family: arial, helvetica, clean, sans-serif; backgroun=
+d-color: transparent;">Best regards,</span><br clear=3D"none"></div><div cl=
+ass=3D"yiv4193079371class" style=3D"color: rgb(0, 0, 0); font-size: 13px; f=
+ont-family: arial, helvetica, clean, sans-serif; font-style: normal;
+ backg=
+round-color: transparent;">Narasimha<br clear=3D"none" class=3D"yiv41930793=
+71class">--------<br clear=3D"none" class=3D"yiv4193079371class">Astrology =
+& Spirituality Resources: <a rel=3D"nofollow" shape=3D"rect" class=3D"y=
+iv4193079371class" target=3D"_blank" href=3D"http://www.vedicastrologer.org=
+/">http://www.VedicAstrologer.org</a></div><div class=3D"yiv4193079371class=
+" style=3D"color: rgb(0, 0, 0); font-size: 13px; font-family: arial, helvet=
+ica, clean, sans-serif; font-style: normal; background-color: transparent;"=
+>--------<br clear=3D"none" class=3D"yiv4193079371class"></div><div class=
+=3D"yiv4193079371class"><br clear=3D"none" class=3D"yiv4193079371class"></d=
+iv><div class=3D"yiv4193079371yqt1735110694" id=3D"yiv4193079371yqt67970"><=
+blockquote class=3D"yiv4193079371class" style=3D"border-left:2px solid rgb(=
+16, 16, 255);margin-left:5px;margin-top:5px;">  <div class=3D"yiv4193079371=
+class" style=3D"font-family: HelveticaNeue, 'Helvetica Neue', Helvetica, Ar=
+ial, 'Lucida Grande', sans-serif;
+ font-size: 10pt;"> <div class=3D"yiv4193=
+079371class" style=3D"font-family: HelveticaNeue, 'Helvetica Neue', Helveti=
+ca, Arial, 'Lucida Grande', sans-serif; font-size: 12pt;"> <div class=3D"yi=
+v4193079371class" dir=3D"ltr"> <hr class=3D"yiv4193079371class" size=3D"1">=
+  <font class=3D"yiv4193079371class" size=3D"2" face=3D"Arial"> <b class=3D=
+"yiv4193079371class"><span class=3D"yiv4193079371class" style=3D"font-weigh=
+t:bold;">From:</span></b> "Acharyulu acharyulug@... [vedic-wisdom]" &=
+lt;vedic-wisdom@yahoogroups.com><br clear=3D"none" class=3D"yiv419307937=
+1class"> <b class=3D"yiv4193079371class"><span class=3D"yiv4193079371class"=
+ style=3D"font-weight:bold;">To:</span></b> "vedic-wisdom@yahoogroups.com" =
+<vedic-wisdom@yahoogroups.com> <br clear=3D"none" class=3D"yiv4193079=
+371class"> <b class=3D"yiv4193079371class"><span class=3D"yiv4193079371clas=
+s" style=3D"font-weight:bold;">Sent:</span></b> Monday, September 15, 2014 =
+1:35 AM<br clear=3D"none" class=3D"yiv4193079371class"> <b
+ class=3D"yiv419=
+3079371class"><span class=3D"yiv4193079371class" style=3D"font-weight:bold;=
+">Subject:</span></b> [vedic-wisdom] Manyu Suktam -reg<br clear=3D"none" cl=
+ass=3D"yiv4193079371class"> </font> </div> <div class=3D"yiv4193079371class=
+"><br clear=3D"none" class=3D"yiv4193079371class"><div class=3D"yiv41930793=
+71class" id=3D"yiv4193079371"><div class=3D"yiv4193079371class">
+<span clas=
+s=3D"yiv4193079371class"> </span>
+
+
+<div class=3D"yiv4193079371class" =
+id=3D"yiv4193079371ygrp-mlmsg">
+  <div class=3D"yiv4193079371class" id=3D"y=
+iv4193079371ygrp-msg">
+
+
+    <div class=3D"yiv4193079371class" id=3D"yiv419=
+3079371ygrp-text">
+      
+      
+      <div class=3D"yiv4193079371class" st=
+yle=3D"color: rgb(0, 0, 0); font-family: HelveticaNeue, 'Helvetica Neue', H=
+elvetica, Arial, 'Lucida Grande', sans-serif; font-size: 12pt; background-c=
+olor: rgb(255, 255, 255);"><div class=3D"yiv4193079371class">Dear Narasimha=
+ Garu,</div><div class=3D"yiv4193079371class"><br clear=3D"none" class=3D"y=
+iv4193079371class"></div><div class=3D"yiv4193079371class" style=3D"color: =
+rgb(0, 0, 0); font-size: 16px; font-family: HelveticaNeue, 'Helvetica Neue'=
+, Helvetica, Arial, 'Lucida Grande', sans-serif; font-style: normal; backgr=
+ound-color: transparent;">  please advise which homam is more suitable=
+ for Manyu Suktam. I am confused from whatever I gleaned from various sourc=
+es. I am not clear to which deity this suktam addresses, viz., Hanuman / Na=
+rasimha / Rudra / Sani. Best regards,</div><div class=3D"yiv4193079371class=
+" style=3D"color: rgb(0, 0, 0); font-size: 16px; font-family: HelveticaNeue=
+, 'Helvetica Neue', Helvetica, Arial, 'Lucida
+ Grande', sans-serif; font-st=
+yle: normal; background-color: transparent;"><br clear=3D"none" class=3D"yi=
+v4193079371class"></div><div class=3D"yiv4193079371class" style=3D"color: r=
+gb(0, 0, 0); font-size: 16px; font-family: HelveticaNeue, 'Helvetica Neue',=
+ Helvetica, Arial, 'Lucida Grande', sans-serif; font-style: normal; backgro=
+und-color: transparent;">Acharyulu</div></div>
+
+    </div>
+     
+
+    
+    =
+<div class=3D"yiv4193079371class" style=3D"color:#fff;height:0;"></div></di=
+v>
+
+
+</div></div><br clear=3D"none" class=3D"yiv4193079371class"><br clear=
+=3D"none" class=3D"yiv4193079371class"></div> </div> </div> </div></blockqu=
+ote></div><div></div>   </div>
+
+    </div>
+     
+
+    
+    <div class=3D"yi=
+v4193079371yqt1735110694" id=3D"yiv4193079371yqt43665"><div style=3D"color:=
+#fff;height:0;"></div></div>
+
+
+</div><div class=3D"yiv4193079371yqt17351106=
+94" id=3D"yiv4193079371yqt64498"><style type=3D"text/css">
+#yiv4193079371 #=
+yiv4193079371 --
+  #yiv4193079371ygrp-mkp {
+border:1px solid #d8d8d8;font-f=
+amily:Arial;margin:10px 0;padding:0 10px;}
+
+#yiv4193079371 #yiv4193079371yg=
+rp-mkp hr {
+border:1px solid #d8d8d8;}
+
+#yiv4193079371 #yiv4193079371ygrp-m=
+kp #yiv4193079371hd {
+color:#628c2a;font-size:85%;font-weight:700;line-heig=
+ht:122%;margin:10px 0;}
+
+#yiv4193079371 #yiv4193079371ygrp-mkp #yiv41930793=
+71ads {
+margin-bottom:10px;}
+
+#yiv4193079371 #yiv4193079371ygrp-mkp .yiv419=
+3079371ad {
+padding:0 0;}
+
+#yiv4193079371 #yiv4193079371ygrp-mkp .yiv419307=
+9371ad p {
+margin:0;}
+
+#yiv4193079371 #yiv4193079371ygrp-mkp .yiv4193079371=
+ad a {
+color:#0000ff;text-decoration:none;}
+#yiv4193079371 #yiv4193079371yg=
+rp-sponsor #yiv4193079371ygrp-lc {
+font-family:Arial;}
+
+#yiv4193079371 #yiv=
+4193079371ygrp-sponsor #yiv4193079371ygrp-lc #yiv4193079371hd {
+margin:10px=
+ 0px;font-weight:700;font-size:78%;line-height:122%;}
+
+#yiv4193079371 #yiv4=
+193079371ygrp-sponsor #yiv4193079371ygrp-lc .yiv4193079371ad {
+margin-botto=
+m:10px;padding:0 0;}
+
+#yiv4193079371 #yiv4193079371actions {
+font-family:Ve=
+rdana;font-size:11px;padding:10px 0;}
+
+#yiv4193079371 #yiv4193079371activit=
+y {
+background-color:#e0ecee;float:left;font-family:Verdana;font-size:10px;=
+padding:10px;}
+
+#yiv4193079371 #yiv4193079371activity span {
+font-weight:70=
+0;}
+
+#yiv4193079371 #yiv4193079371activity span:first-child {
+text-transfor=
+m:uppercase;}
+
+#yiv4193079371 #yiv4193079371activity span a {
+color:#5085b6=
+;text-decoration:none;}
+
+#yiv4193079371 #yiv4193079371activity span span {
+=
+color:#ff7900;}
+
+#yiv4193079371 #yiv4193079371activity span .yiv4193079371u=
+nderline {
+text-decoration:underline;}
+
+#yiv4193079371 .yiv4193079371attach=
+ {
+clear:both;display:table;font-family:Arial;font-size:12px;padding:10px 0=
+;width:400px;}
+
+#yiv4193079371 .yiv4193079371attach div a {
+text-decoration=
+:none;}
+
+#yiv4193079371 .yiv4193079371attach img {
+border:none;padding-righ=
+t:5px;}
+
+#yiv4193079371 .yiv4193079371attach label {
+display:block;margin-b=
+ottom:5px;}
+
+#yiv4193079371 .yiv4193079371attach label a {
+text-decoration:=
+none;}
+
+#yiv4193079371 blockquote {
+margin:0 0 0 4px;}
+
+#yiv4193079371 .yiv=
+4193079371bold {
+font-family:Arial;font-size:13px;font-weight:700;}
+
+#yiv41=
+93079371 .yiv4193079371bold a {
+text-decoration:none;}
+
+#yiv4193079371 dd.y=
+iv4193079371last p a {
+font-family:Verdana;font-weight:700;}
+
+#yiv419307937=
+1 dd.yiv4193079371last p span {
+margin-right:10px;font-family:Verdana;font-=
+weight:700;}
+
+#yiv4193079371 dd.yiv4193079371last p span.yiv4193079371yshor=
+tcuts {
+margin-right:0;}
+
+#yiv4193079371 div.yiv4193079371attach-table div =
+div a {
+text-decoration:none;}
+
+#yiv4193079371 div.yiv4193079371attach-tabl=
+e {
+width:400px;}
+
+#yiv4193079371 div.yiv4193079371file-title a, #yiv419307=
+9371 div.yiv4193079371file-title a:active, #yiv4193079371 div.yiv4193079371=
+file-title a:hover, #yiv4193079371 div.yiv4193079371file-title a:visited {
+=
+text-decoration:none;}
+
+#yiv4193079371 div.yiv4193079371photo-title a, #yiv=
+4193079371 div.yiv4193079371photo-title a:active, #yiv4193079371 div.yiv419=
+3079371photo-title a:hover, #yiv4193079371 div.yiv4193079371photo-title a:v=
+isited {
+text-decoration:none;}
+
+#yiv4193079371 div#yiv4193079371ygrp-mlmsg=
+ #yiv4193079371ygrp-msg p a span.yiv4193079371yshortcuts {
+font-family:Verd=
+ana;font-size:10px;font-weight:normal;}
+
+#yiv4193079371 .yiv4193079371green=
+ {
+color:#628c2a;}
+
+#yiv4193079371 .yiv4193079371MsoNormal {
+margin:0 0 0 0=
+;}
+
+#yiv4193079371 o {
+font-size:0;}
+
+#yiv4193079371 #yiv4193079371photos d=
+iv {
+float:left;width:72px;}
+
+#yiv4193079371 #yiv4193079371photos div div {=
+
+border:1px solid #666666;height:62px;overflow:hidden;width:62px;}
+
+#yiv419=
+3079371 #yiv4193079371photos div label {
+color:#666666;font-size:10px;overf=
+low:hidden;text-align:center;white-space:nowrap;width:64px;}
+
+#yiv419307937=
+1 #yiv4193079371reco-category {
+font-size:77%;}
+
+#yiv4193079371 #yiv4193079=
+371reco-desc {
+font-size:77%;}
+
+#yiv4193079371 .yiv4193079371replbq {
+margi=
+n:4px;}
+
+#yiv4193079371 #yiv4193079371ygrp-actbar div a:first-child {
+margi=
+n-right:2px;padding-right:5px;}
+
+#yiv4193079371 #yiv4193079371ygrp-mlmsg {
+=
+font-size:13px;font-family:Arial, helvetica, clean, sans-serif;}
+
+#yiv41930=
+79371 #yiv4193079371ygrp-mlmsg table {
+font-size:inherit;font:100%;}
+
+#yiv4=
+193079371 #yiv4193079371ygrp-mlmsg select, #yiv4193079371 input, #yiv419307=
+9371 textarea {
+font:99% Arial, Helvetica, clean, sans-serif;}
+
+#yiv4193079=
+371 #yiv4193079371ygrp-mlmsg pre, #yiv4193079371 code {
+font:115% monospace=
+;}
+
+#yiv4193079371 #yiv4193079371ygrp-mlmsg * {
+line-height:1.22em;}
+
+#yiv4=
+193079371 #yiv4193079371ygrp-mlmsg #yiv4193079371logo {
+padding-bottom:10px=
+;}
+
+
+#yiv4193079371 #yiv4193079371ygrp-msg p a {
+font-family:Verdana;}
+
+#yi=
+v4193079371 #yiv4193079371ygrp-msg p#yiv4193079371attach-count span {
+color=
+:#1E66AE;font-weight:700;}
+
+#yiv4193079371 #yiv4193079371ygrp-reco #yiv4193=
+079371reco-head {
+color:#ff7900;font-weight:700;}
+
+#yiv4193079371 #yiv41930=
+79371ygrp-reco {
+margin-bottom:20px;padding:0px;}
+
+#yiv4193079371 #yiv41930=
+79371ygrp-sponsor #yiv4193079371ov li a {
+font-size:130%;text-decoration:no=
+ne;}
+
+#yiv4193079371 #yiv4193079371ygrp-sponsor #yiv4193079371ov li {
+font-=
+size:77%;list-style-type:square;padding:6px 0;}
+
+#yiv4193079371 #yiv4193079=
+371ygrp-sponsor #yiv4193079371ov ul {
+margin:0;padding:0 0 0 8px;}
+
+#yiv419=
+3079371 #yiv4193079371ygrp-text {
+font-family:Georgia;}
+
+#yiv4193079371 #yi=
+v4193079371ygrp-text p {
+margin:0 0 1em 0;}
+
+#yiv4193079371 #yiv4193079371y=
+grp-text tt {
+font-size:120%;}
+
+#yiv4193079371 #yiv4193079371ygrp-vital ul =
+li:last-child {
+border-right:none !important;
+}
+#yiv4193079371 
+</style></d=
+iv></div><br><br></div>  </div> </div>  </div> </div></body></html>
+---795196629-679897834-1410851739=:23761--
+
+

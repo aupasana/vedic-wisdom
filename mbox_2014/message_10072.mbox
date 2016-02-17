@@ -1,0 +1,621 @@
+From ashish_tank@...  Wed Feb 17 11:07:36 2016
+Return-Path: <ashish_tank@...>
+X-Sender: ashish_tank@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 98225 invoked by uid 102); 24 Jan 2014 10:27:25 -0000
+X-Received: from unknown (HELO mtaq1.grp.bf1.yahoo.com) (10.193.84.32)
+  by m1.grp.bf1.yahoo.com with SMTP; 24 Jan 2014 10:27:25 -0000
+X-Received: (qmail 12639 invoked from network); 24 Jan 2014 10:27:25 -0000
+X-Received: from unknown (HELO nm42.bullet.mail.ne1.yahoo.com) (98.138.120.49)
+  by mtaq1.grp.bf1.yahoo.com with SMTP; 24 Jan 2014 10:27:25 -0000
+X-Received: from [127.0.0.1] by nm42.bullet.mail.ne1.yahoo.com with NNFMP; 24 Jan 2014 10:27:25 -0000
+X-Received: from [98.138.100.118] by nm42.bullet.mail.ne1.yahoo.com with NNFMP; 24 Jan 2014 10:24:42 -0000
+X-Received: from [106.10.166.126] by tm109.bullet.mail.ne1.yahoo.com with NNFMP; 24 Jan 2014 10:24:41 -0000
+X-Received: from [106.10.150.26] by tm15.bullet.mail.sg3.yahoo.com with NNFMP; 24 Jan 2014 10:24:41 -0000
+X-Received: from [127.0.0.1] by omp1027.mail.sg3.yahoo.com with NNFMP; 24 Jan 2014 10:24:41 -0000
+X-Yahoo-Newman-Property: ymail-4
+X-Yahoo-Newman-Id: 43219.80973.bm@...
+X-Received: (qmail 50838 invoked by uid 60001); 24 Jan 2014 10:24:40 -0000
+X-YMail-OSG: qSTfqV0VM1nt_l5EYoZuYxZVw6sEO14UZM2qYn3rHRPCit_
+ VhaAd2dRWZfd.vP3oN3jqJLoDj.r7sxLY6AsQjWvvnVTG3Dt9oo.jSwaG0jY
+ .WxLA_LvaNSmELna.KVv6K2rlQwN2mPlsFU2KsF.QnDQRv7m4OFBpRSuI0pl
+ UOJweAMJQ8SiKGVIejI0bs47UkwrvBSyoCcC.69d4jLYhhE50u88JFBsBru5
+ d0OuYmtcaw9xOgBgcnDpGc6cjj2WISlQOK7LDrv.jSwvn4DNa_0ksUeciz1y
+ oQh9UXil9e6UJCqLbnYGHk3F2wLbP9Xn81CccMtc5RtjrX.p0fpeWkpa4zJM
+ hLsaexmncyWR3v9j8s9T8vts92RF5C6DqtqLpLjSXBr8b9rBod4hzauGX5nq
+ AVJdq3HlIQLOkxT2QEWb8VnrOVxgNfIerWP62oCnz.qwUKiVmG7iqEglE9Rt
+ 95IKDs.bbhhrG104MvO06k9EOAI6i2tVnVYkRDvUpcM0uiaRYwPqSENqTvsZ
+ C1yr_bvLvsiO7Xp_k1DBMQCpUmeL.41diXs_mTOoBnq_0Nd1d_qMk3i00qnC
+ A.WfnJofp_8XZBa0xXj9LMeDOziUZch61npWFY_pfHEdeXgk2MFN1aIyDp5e
+ SAHtc2mzoF71e9zNrxbBdllS2ajsGdf4G7cMYDAct7Z9e9cd6mdNjGgz7Xea
+ s5rq4v_m5zsFwSNzMsQYd0hxzXu9EA5saStgEUYRPc.tlqXTAQxYDBRsbN7_
+ ap6tlcSWHXNu5mqXugDkkrcfKK8ds1Osm3ki.w8zkmEYkaXDCx32XRrLzETv
+ r1Rympl_D3jXfZrL.zfawtmycTH.gFlb7pfDrHc4b98xT38t4P_K6mqqmEi3
+ hZjBsaZi1iFXZ.0XC9t0GMsl2vbcvIzObZ52pfjksYPpAU_mXzHD_OwVqpZ9
+ n9QQnvp7j3dyvLvfMyaNOltNF9FrQ2xRR7fwzbG45PlV71xTv9wHd0kk.ZL2
+ T5kUHSYfaxKaWOYk44ul4wbRmdiGnHU6_EIPPMbETy494dIxh846pjYXT4bn
+ j4FXCRBLVNYQJMXJV1b2cgrl4WkeRKqxjzSY_eMUoZa35VLKPVOyhwZbDk6J
+ kAMhusAkz88oX7aQ8eSbnfXtMGVerCGn0LvsNJZG7La1b2c5sqbDmUm92hcN
+ g1FJcq_y4mZVgQe0D9aw90Z4J.ctB9e6gtX7RvgDNmY0pfYyk0FVIOw38iLK
+ tglMls4CZuocITuhbr1nrWxZroTOUXHdbN3iupVsY3G0VBggPaAkVaAsJgT_
+ gHCdnZ4DklKs7to_jYyKrYhX280nTsJviR_1aSSwy8gyLQRwpcRQGF5zSgfp
+ pKmxNyf357EGYo3Rt6_kolei0hyNCCx_xWYcYWcpt8ygQT0fbNs_0OFsqxsR
+ sZu8XA0UeL_K35fDjSJTEwv04LuQ5uZKXSJUahHw1foZQQPWChTnLORmMiZJ
+ kUA0t_akuGgElJSAz4j1sJGCTDsTs93QBQ_ej.HoGevw5PrdOcWiqiqIoHio
+ wT435ZrutBGwJXha3zvZAthHD5zgN6iQpD1RF8nOe3BAszmRQ8vUHWGgi49b
+ 3BgtXIx6M4jehiF3MwLwkriBelSa7qMWff.TIGxKfdOYqHBOWbqg1GtuB_2U
+ 5ZdN0VzvTtUw_hmkFVo8vMUJ5.CDvETM6vkSTh0eHDW3bxJKKYHXVILB141i
+ bJSTlQ.z2wDSlDDigEphiiBBXOZiY5kldh.0oFZHoGFrvqHFK1R1iN18abY4
+ kudp4lc6zjh3Ce_UlKYZV3cjzF4m2p0OdsYd7c3qnJeD4wjG_R_jKRSm3BvJ
+ AYQMDytLUmzWEn_RHZycuaRP_YI1BSj.smdxLASuNpKdrW76UUJ0yLXUZjug
+ irLStqhJIff3CUtV08pBhPhJC8tvN_1STVgtQNL3qURjI3FnhoEDzXyM-
+X-Received: from [49.14.58.147] by web193201.mail.sg3.yahoo.com via HTTP; Fri, 24 Jan 2014 18:24:40 SGT
+X-Rocket-MIMEInfo: 002.001,VGhhbmsgeW91IGFsbCBlc3BlY2lhbGx5IFNocmkgUC5WLlIgbmFyc2ltaGEgcmFvIGZvciB0YWtpbmcgdGltZSBhbmQgZ2l2aW5nIGFkdmljZSwgYWN0dWFsbHkgSSB0b28gZG9uJ3QgYmVsaWV2ZSBpbiBhbGwgdGhpcyBzdHVmZiBidXQgeW91IGtub3cgd2hlbiBzb21ldGhpbmcgaGFwcGVucyBpbiBzZXF1ZW5jZSBpdCBjcmVhdGVzIHN1c3BpY2lvbi4gSSBhbSBsZWFybmluZyBKeW90aXNoIGFuZCBpIHN0YXJ0ZWQgd2F0Y2hpbmcgdmlkZW9zIG1hZGUgYnkgYSByZWFsbHkgZ29vZCBhc3Ryb2xvZ2VyIEthcGkBMAEBAQE-
+X-Mailer: YahooMailWebService/0.8.173.622
+References: <1388914436.25352.YahooMailNeo@...> <1388959221.70800.YahooMailNeo@...> 
+Message-ID: <1390559080.48443.YahooMailNeo@...>
+Date: Fri, 24 Jan 2014 18:24:40 +0800 (SGT)
+To: "vedic-wisdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com>
+In-Reply-To: <1388959221.70800.YahooMailNeo@...>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="-2097401939-2009376021-1390559080=:48443"
+X-Originating-IP: 10.193.84.32
+X-eGroups-Msg-Info: 1:12:0:0:0
+From: Ashish Tank <ashish_tank@...>
+Reply-To: Ashish Tank <ashish_tank@...>
+Subject: Re: [vedic-wisdom] Re: Shivling
+X-Yahoo-Group-Post: member; u=392701165; y=726nWV7gtzJwKK18VVl9Y_C0SjCJnKIPO0rwDnRQPYvFgF1blpgg9XnBMbfLR8SW
+X-Yahoo-Profile: ashish_tank@...
+
+
+---2097401939-2009376021-1390559080=:48443
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Thank you all especially Shri P.V.R narsimha rao for taking time and giving=
+ advice, actually I too don't believe in all this stuff but you know when s=
+omething happens in sequence it creates suspicion. I am learning Jyotish an=
+d i started watching videos made by a really good astrologer Kapiel raaj sh=
+rivastava few months back, in one of his videos he mentioned that being mas=
+onic structure Shivlinga has to be kept in very pure atmosphere other wise =
+it radiates negative energy.
+
+But now my concept is crystal clear.
+
+Kind re=
+gards
+Ashish
+
+
+
+
+
+
+On Monday, 6 January 2014 3:30 AM, Narasimha P.V.R. Rao =
+<pvr108@...> wrote:
+ 
+=C2=A0 
+Namaste friends,
+
+There is so much prid=
+e and fear in religious adherence of this age!
+
+This is kind of like saying=
+, "if you have a piggy bank at your home and don't put money in it every mo=
+nth", your finances will be spoiled. Well, probably my finances ARE spoiled=
+ if I am not putting money in the piggy bank. :-) But not putting money in =
+piggy bank itself will not cause any problems.
+
+Shiva lingas, idols etc are=
+ just like piggy banks that store money. Originally they are just stone/met=
+al/glass/whatever. There is god in them, in the sense that there is god eve=
+rywhere. There is no special/concentrated divine presence. As people revere=
+ntly imagine divine presence in them regularly, slowly a real divine presen=
+ce is formed and grown in them. Over time, a considerable divine presence i=
+s formed, which can actually help one in a time of spiritual need. This is =
+just like how a piggy bank is empty in the beginning and slowly each cent a=
+nd dime and quarter adds up and there is a decent amount of money that can =
+help one in a time of financial need.
+
+Just as one may experience some temp=
+orary physical disturbance if one stops doing a physical exercise that one =
+does regularly, similarly one may experience some temporary spiritual distu=
+rbance if one stops doing a spiritual exercise (sadhana) that one does regu=
+larly. But that is internal. There is no need to fear any "negative energy"=
+ coming from the shiva linga into the house (just as no negative energy com=
+es from a treadmill into the house if one stops walking on it everyday).
+
+
+=
+Having said that, I'll repeat my usual disclaimer in these matters. If one =
+indeed feels some fear or guilt in not doing any pooja to a shiva linga or =
+an idol, that is enough to cause problems. Shame, guilt etc affect one inte=
+rnally and that effect sometimes spills externally. In such a case, better =
+follow the "rules" one fears. Most rules can be dropped as one overcomes fe=
+ar/shame/guilt associated with them and one understands the original purpos=
+e and essence of the rules and feel genuinely comfortable breaking their su=
+perficial parts.
+Best regards,
+
+Narasimha
+--------
+Astrology & Spirituality=
+ Resources: http://www.VedicAstrologer.org
+--------
+
+=C2=A0
+
+
+>____________=
+____________________
+> From: Ashish Tank <ashish_tank@...>
+>To: "vedi=
+c-wisdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com> 
+>Sent: Sunday, Ja=
+nuary 5, 2014 4:33 AM
+>Subject: [vedic-wisdom] Shivling
+> 
+>
+>
+>=C2=A0 
+>Re=
+spected members of the group
+>
+>I have two shiv lings one made of stone and=
+ the other made of glass in my house purchased by the members of my family,=
+ people says that one should not keep shiv lings in house if he/she can't p=
+erform puja=C2=A0 daily otherwise negative energy comes in to house. None o=
+f my family is able to do abhishek or puja of these shiv lings. I don't kno=
+w what to do of these lings. 
+>
+>Should i do visarjan of them or give it aw=
+ay? Please give your valuable advice on this.
+>
+>Regards
+>Ashish
+>
+
+---2097401939-2009376021-1390559080=:48443
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"color:#000; background-color:#fff; font-family:ti=
+mes new roman, new york, times, serif;font-size:12pt"><div id=3D"yiv8483094=
+003"><div><div style=3D"color:#000;background-color:#fff;font-family:times =
+new roman, new york, times, serif;font-size:12pt;"><div id=3D"yiv8483094003=
+yui_3_13_0_ym1_6_1390556434372_25"><span id=3D"yiv8483094003yui_3_13_0_ym1_=
+6_1390556434372_33">Thank you all especially Shri P.V.R narsimha rao for ta=
+king time and giving advice, actually I too don't believe in all this stuff=
+ but you know when something happens in sequence it creates suspicion. I am=
+ learning Jyotish and i started watching videos made by </span><span id=3D"=
+yiv8483094003yui_3_13_0_ym1_6_1390556434372_33"><span id=3D"yiv8483094003yu=
+i_3_13_0_ym1_6_1390556434372_33">a really good astrologer </span>Kapiel raa=
+j shrivastava few months back, in one of his videos he mentioned that being=
+ masonic structure Shivlinga has to be kept in very pure atmosphere other w=
+ise it
+ radiates negative energy.<br><br>But now my concept is crystal clea=
+r.<br><br>Kind regards<br>Ashish<br><br><br clear=3D"none"></span></div><di=
+v class=3D"yiv8483094003yahoo_quoted" id=3D"yiv8483094003yui_3_13_0_ym1_6_1=
+390556434372_27" style=3D"display: block;"> <br clear=3D"none"> <br clear=
+=3D"none"> <div class=3D"yiv8483094003yui_3_13_0_ym1_1_1390556434372_6843" =
+style=3D"font-family:times new roman, new york, times, serif;font-size:12pt=
+;"> <div class=3D"yiv8483094003yui_3_13_0_ym1_1_1390556434372_6844" style=
+=3D"font-family:times new roman, new york, times, serif;font-size:12pt;"> <=
+div class=3D"yiv8483094003yqt0230389131" id=3D"yiv8483094003yqt66988"><div =
+dir=3D"ltr"> <font face=3D"Arial" size=3D"2"> On Monday, 6 January 2014 3:3=
+0 AM, Narasimha P.V.R. Rao <pvr108@...> wrote:<br clear=3D"none=
+"> </font> </div>  <div class=3D"yiv8483094003y_msg_container"><div id=3D"y=
+iv8483094003"><div>
+<span style=3D"display:none;"> </span>
+
+
+<div id=
+=3D"yiv8483094003ygrp-mlmsg" style=3D"">
+  <div id=3D"yiv8483094003ygrp-msg=
+" style=3D"">
+
+
+    <div id=3D"yiv8483094003ygrp-text">
+      
+      
+     =
+ <div class=3D"yiv8483094003yui_3_13_0_ym1_1_1390556434372_6849" style=3D"c=
+olor:#000;background-color:#fff;font-family:arial, helvetica, sans-serif;fo=
+nt-size:10pt;"><div><span>Namaste friends,</span></div><div class=3D"yiv848=
+3094003yui_3_13_0_ym1_1_1390556434372_6850" style=3D"color:rgb(0, 0, 0);fon=
+t-size:13.3333px;font-family:arial, helvetica, sans-serif;background-color:=
+transparent;font-style:normal;"><span><br clear=3D"none"></span></div><div =
+class=3D"yiv8483094003yui_3_13_0_ym1_1_1390556434372_6851" style=3D"color:r=
+gb(0, 0, 0);font-size:13.3333px;font-family:arial, helvetica, sans-serif;ba=
+ckground-color:transparent;font-style:normal;"><span>There is so much pride=
+ and fear in religious adherence of this age!</span></div><div class=3D"yiv=
+8483094003yui_3_13_0_ym1_1_1390556434372_6852" style=3D"color:rgb(0, 0, 0);=
+font-size:13.3333px;font-family:arial, helvetica, sans-serif;background-col=
+or:transparent;font-style:normal;"><span><br clear=3D"none"></span></div><d=
+iv
+ class=3D"yiv8483094003yui_3_13_0_ym1_1_1390556434372_6853" style=3D"col=
+or:rgb(0, 0, 0);font-size:13.3333px;font-family:arial, helvetica, sans-seri=
+f;background-color:transparent;font-style:normal;"><span>This is kind of li=
+ke saying, "if you have a piggy bank at your home and don't put
+ money in i=
+t every month", your finances will be spoiled. Well, probably my finances A=
+RE spoiled if I am not putting money in the piggy bank. :-) But not putting=
+ money in piggy bank itself will not cause any problems.</span></div><div c=
+lass=3D"yiv8483094003yui_3_13_0_ym1_1_1390556434372_6854" style=3D"color:rg=
+b(0, 0, 0);font-size:13.3333px;font-family:arial, helvetica, sans-serif;bac=
+kground-color:transparent;font-style:normal;"><span><br clear=3D"none"></sp=
+an></div><div class=3D"yiv8483094003yui_3_13_0_ym1_1_1390556434372_6855" st=
+yle=3D"color:rgb(0, 0, 0);font-size:13.3333px;font-family:arial, helvetica,=
+ sans-serif;background-color:transparent;font-style:normal;"><span>Shiva li=
+ngas, idols etc are just like piggy banks that store money. Originally they=
+ are just stone/metal/glass/whatever. There is god in them, in the sense th=
+at there is god everywhere. There is no special/concentrated divine presenc=
+e. As people reverently imagine divine presence in them regularly,
+ slowly =
+a real divine
+ presence is formed and grown in them. Over time, a considera=
+ble divine presence is formed,
+ which can actually help one in a time of sp=
+iritual need. This is just like how a piggy bank is empty in the beginning =
+and slowly each cent and dime and quarter adds up and there is a decent amo=
+unt of money that can help one in a time of financial need.</span></div><di=
+v class=3D"yiv8483094003yui_3_13_0_ym1_1_1390556434372_6856" style=3D"color=
+:rgb(0, 0, 0);font-size:13.3333px;font-family:arial, helvetica, sans-serif;=
+background-color:transparent;font-style:normal;"><span><br clear=3D"none"><=
+/span></div><div class=3D"yiv8483094003yui_3_13_0_ym1_1_1390556434372_6857"=
+ style=3D"color:rgb(0, 0, 0);font-size:13.3333px;font-family:arial, helveti=
+ca, sans-serif;background-color:transparent;font-style:normal;"><span>Just =
+as one may experience some temporary physical disturbance if one stops doin=
+g a physical exercise that one does regularly, similarly one may experience=
+ some temporary spiritual disturbance if one stops doing a spiritual exerci=
+se (sadhana) that one does
+ regularly. But that is internal.
+ There is no n=
+eed to fear any "negative energy" coming from the shiva linga into the
+ hou=
+se (just as no negative energy comes from a treadmill into the house if one=
+ stops walking on it everyday).<br clear=3D"none"></span></div><div class=
+=3D"yiv8483094003yui_3_13_0_ym1_1_1390556434372_6858" style=3D"color:rgb(0,=
+ 0, 0);font-size:13.3333px;font-family:arial, helvetica, sans-serif;backgro=
+und-color:transparent;font-style:normal;"><span><br clear=3D"none"></span><=
+/div><div class=3D"yiv8483094003yui_3_13_0_ym1_1_1390556434372_6859" style=
+=3D"color:rgb(0, 0, 0);font-size:13.3333px;font-family:arial, helvetica, sa=
+ns-serif;background-color:transparent;font-style:normal;"><span>Having said=
+ that, I'll repeat my usual disclaimer in these matters. If one indeed feel=
+s some fear or guilt in not doing any pooja to a shiva linga or an idol, th=
+at is enough to cause problems. Shame, guilt etc affect one internally and =
+that effect sometimes spills externally. In such a case, better follow the =
+"rules" one fears. Most rules can be dropped as one overcomes fear/shame/gu=
+ilt
+ associated with them and
+ one understands the original purpose and ess=
+ence of the rules and feel genuinely comfortable breaking
+ their superficia=
+l parts.</span></div><div class=3D"yiv8483094003yui_3_13_0_ym1_1_1390556434=
+372_6860" style=3D"color:rgb(0, 0, 0);font-size:13.3333px;font-family:arial=
+, helvetica, sans-serif;background-color:transparent;font-style:normal;"><s=
+pan><br clear=3D"none"></span></div>Best regards,<br clear=3D"none"><div cl=
+ass=3D"yiv8483094003yui_3_13_0_ym1_1_1390556434372_6861" style=3D"color:rgb=
+(0, 0, 0);font-size:13px;font-family:arial, helvetica, clean, sans-serif;ba=
+ckground-color:transparent;font-style:normal;">Narasimha<br clear=3D"none">=
+--------<br clear=3D"none">Astrology & Spirituality Resources: <a rel=
+=3D"nofollow" shape=3D"rect" target=3D"_blank" href=3D"http://www.vedicastr=
+ologer.org/">http://www.VedicAstrologer.org</a></div><div class=3D"yiv84830=
+94003yqt0797032490" id=3D"yiv8483094003yqt24572"><div class=3D"yiv848309400=
+3yui_3_13_0_ym1_1_1390556434372_6862" style=3D"color:rgb(0, 0, 0);font-size=
+:13px;font-family:arial, helvetica, clean,
+ sans-serif;background-color:tra=
+nsparent;font-style:normal;">--------<br clear=3D"none"></div><div> <b=
+r clear=3D"none"><blockquote style=3D"border-left:2px solid rgb(16, 16, 255=
+);">  <div class=3D"yiv8483094003yui_3_13_0_ym1_1_1390556434372_6864" style=
+=3D"font-family:arial, helvetica, sans-serif;font-size:10pt;"> <div class=
+=3D"yiv8483094003yui_3_13_0_ym1_1_1390556434372_6865" style=3D"font-family:=
+times new roman, new york, times, serif;font-size:12pt;"> <div dir=3D"ltr">=
+ <hr size=3D"1">  <font face=3D"Arial" size=3D"2"> <b><span style=3D"font-w=
+eight:bold;">From:</span></b> Ashish Tank <ashish_tank@...><br =
+clear=3D"none"> <b><span style=3D"font-weight:bold;">To:</span></b> "vedic-=
+wisdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com> <br clear=3D"n=
+one"> <b><span style=3D"font-weight:bold;">Sent:</span></b> Sunday, January=
+ 5, 2014 4:33 AM<br clear=3D"none"> <b><span style=3D"font-weight:bold;">Su=
+bject:</span></b> [vedic-wisdom] Shivling<br clear=3D"none"> </font> </div>=
+
+ <div class=3D"yiv8483094003y_msg_container"><br clear=3D"none"><div id=3D=
+"yiv8483094003"><div>
+<span> </span>
+
+
+<div id=3D"yiv8483094003ygrp-ml=
+msg">
+  <div id=3D"yiv8483094003ygrp-msg">
+
+
+    <div id=3D"yiv8483094003yg=
+rp-text">
+      
+      
+      <div class=3D"yiv8483094003yui_3_13_0_ym1_1_1=
+390556434372_6871" style=3D"color:#000;background-color:#fff;font-family:ti=
+mes new roman, new york, times, serif;font-size:12pt;">Respected members of=
+ the group<br clear=3D"none"><br clear=3D"none">I have two shiv lings one m=
+ade of stone and the other made of glass in my house purchased by the membe=
+rs of my family, people says that one should not keep shiv lings in house i=
+f he/she can't perform puja  daily otherwise negative energy comes in =
+to house. None of my family is able to do abhishek or puja of these shiv li=
+ngs. I don't know what to do of these lings. <br clear=3D"none"><br clear=
+=3D"none">Should i do visarjan of them or give it away? Please give your va=
+luable advice on this.<br clear=3D"none"><br clear=3D"none">Regards<br clea=
+r=3D"none">Ashish<br clear=3D"none"></div></div></div></div></div></div></d=
+iv> </div> </div> </blockquote></div></div>   </div>
+
+    </div>
+     
+
+   =
+ 
+    <div class=3D"yiv8483094003yqt0797032490" id=3D"yiv8483094003yqt22265=
+"><div style=3D"color:#fff;height:0;"></div></div>
+
+
+</div><div class=3D"yi=
+v8483094003yqt0797032490" id=3D"yiv8483094003yqt04475"><style type=3D"text/=
+css">
+#yiv8483094003   --
+  #yiv8483094003ygrp-mkp {
+border:1px solid #d8d8=
+d8;font-family:Arial;margin:10px 0;padding:0 10px;}
+
+#yiv8483094003  #yiv84=
+83094003ygrp-mkp hr {
+border:1px solid #d8d8d8;}
+
+#yiv8483094003  #yiv84830=
+94003ygrp-mkp #yiv8483094003hd {
+color:#628c2a;font-size:85%;font-weight:70=
+0;line-height:122%;margin:10px 0;}
+
+#yiv8483094003  #yiv8483094003ygrp-mkp =
+#yiv8483094003ads {
+margin-bottom:10px;}
+
+#yiv8483094003  #yiv8483094003ygr=
+p-mkp .yiv8483094003ad {
+padding:0 0;}
+
+#yiv8483094003  #yiv8483094003ygrp-=
+mkp .yiv8483094003ad p {
+margin:0;}
+
+#yiv8483094003  #yiv8483094003ygrp-mkp=
+ .yiv8483094003ad a {
+color:#0000ff;text-decoration:none;}
+#yiv8483094003  =
+#yiv8483094003ygrp-sponsor #yiv8483094003ygrp-lc {
+font-family:Arial;}
+
+#yi=
+v8483094003  #yiv8483094003ygrp-sponsor #yiv8483094003ygrp-lc #yiv848309400=
+3hd {
+margin:10px 0px;font-weight:700;font-size:78%;line-height:122%;}
+
+#yi=
+v8483094003  #yiv8483094003ygrp-sponsor #yiv8483094003ygrp-lc .yiv848309400=
+3ad {
+margin-bottom:10px;padding:0 0;}
+
+#yiv8483094003  #yiv8483094003actio=
+ns {
+font-family:Verdana;font-size:11px;padding:10px 0;}
+
+#yiv8483094003  #=
+yiv8483094003activity {
+background-color:#e0ecee;float:left;font-family:Ver=
+dana;font-size:10px;padding:10px;}
+
+#yiv8483094003  #yiv8483094003activity =
+span {
+font-weight:700;}
+
+#yiv8483094003  #yiv8483094003activity span:first=
+-child {
+text-transform:uppercase;}
+
+#yiv8483094003  #yiv8483094003activity=
+ span a {
+color:#5085b6;text-decoration:none;}
+
+#yiv8483094003  #yiv8483094=
+003activity span span {
+color:#ff7900;}
+
+#yiv8483094003  #yiv8483094003acti=
+vity span .yiv8483094003underline {
+text-decoration:underline;}
+
+#yiv848309=
+4003  .yiv8483094003attach {
+clear:both;display:table;font-family:Arial;fon=
+t-size:12px;padding:10px 0;width:400px;}
+
+#yiv8483094003  .yiv8483094003att=
+ach div a {
+text-decoration:none;}
+
+#yiv8483094003  .yiv8483094003attach im=
+g {
+border:none;padding-right:5px;}
+
+#yiv8483094003  .yiv8483094003attach l=
+abel {
+display:block;margin-bottom:5px;}
+
+#yiv8483094003  .yiv8483094003att=
+ach label a {
+text-decoration:none;}
+
+#yiv8483094003  blockquote {
+margin:0=
+ 0 0 4px;}
+
+#yiv8483094003  .yiv8483094003bold {
+font-family:Arial;font-siz=
+e:13px;font-weight:700;}
+
+#yiv8483094003  .yiv8483094003bold a {
+text-decor=
+ation:none;}
+
+#yiv8483094003  dd.yiv8483094003last p a {
+font-family:Verdan=
+a;font-weight:700;}
+
+#yiv8483094003  dd.yiv8483094003last p span {
+margin-r=
+ight:10px;font-family:Verdana;font-weight:700;}
+
+#yiv8483094003  dd.yiv8483=
+094003last p span.yiv8483094003yshortcuts {
+margin-right:0;}
+
+#yiv848309400=
+3  div.yiv8483094003attach-table div div a {
+text-decoration:none;}
+
+#yiv84=
+83094003  div.yiv8483094003attach-table {
+width:400px;}
+
+#yiv8483094003  di=
+v.yiv8483094003file-title a, #yiv8483094003  div.yiv8483094003file-title a:=
+active, #yiv8483094003  div.yiv8483094003file-title a:hover, #yiv8483094003=
+  div.yiv8483094003file-title a:visited {
+text-decoration:none;}
+
+#yiv84830=
+94003  div.yiv8483094003photo-title a, #yiv8483094003  div.yiv8483094003pho=
+to-title a:active, #yiv8483094003  div.yiv8483094003photo-title a:hover, #y=
+iv8483094003  div.yiv8483094003photo-title a:visited {
+text-decoration:none=
+;}
+
+#yiv8483094003  div#yiv8483094003ygrp-mlmsg #yiv8483094003ygrp-msg p a =
+span.yiv8483094003yshortcuts {
+font-family:Verdana;font-size:10px;font-weig=
+ht:normal;}
+
+#yiv8483094003  .yiv8483094003green {
+color:#628c2a;}
+
+#yiv848=
+3094003  .yiv8483094003MsoNormal {
+margin:0 0 0 0;}
+
+#yiv8483094003  o {
+fo=
+nt-size:0;}
+
+#yiv8483094003  #yiv8483094003photos div {
+float:left;width:72=
+px;}
+
+#yiv8483094003  #yiv8483094003photos div div {
+border:1px solid #6666=
+66;height:62px;overflow:hidden;width:62px;}
+
+#yiv8483094003  #yiv8483094003=
+photos div label {
+color:#666666;font-size:10px;overflow:hidden;text-align:=
+center;white-space:nowrap;width:64px;}
+
+#yiv8483094003  #yiv8483094003reco-=
+category {
+font-size:77%;}
+
+#yiv8483094003  #yiv8483094003reco-desc {
+font-=
+size:77%;}
+
+#yiv8483094003  .yiv8483094003replbq {
+margin:4px;}
+
+#yiv848309=
+4003  #yiv8483094003ygrp-actbar div a:first-child {
+margin-right:2px;paddin=
+g-right:5px;}
+
+#yiv8483094003  #yiv8483094003ygrp-mlmsg {
+font-size:13px;fo=
+nt-family:Arial, helvetica, clean, sans-serif;}
+
+#yiv8483094003  #yiv848309=
+4003ygrp-mlmsg table {
+font-size:inherit;font:100%;}
+
+#yiv8483094003  #yiv8=
+483094003ygrp-mlmsg select, #yiv8483094003  input, #yiv8483094003  textarea=
+ {
+font:99% Arial, Helvetica, clean, sans-serif;}
+
+#yiv8483094003  #yiv8483=
+094003ygrp-mlmsg pre, #yiv8483094003  code {
+font:115% monospace;}
+
+#yiv848=
+3094003  #yiv8483094003ygrp-mlmsg * {
+line-height:1.22em;}
+
+#yiv8483094003 =
+ #yiv8483094003ygrp-mlmsg #yiv8483094003logo {
+padding-bottom:10px;}
+
+
+#yiv=
+8483094003  #yiv8483094003ygrp-msg p a {
+font-family:Verdana;}
+
+#yiv8483094=
+003  #yiv8483094003ygrp-msg p#yiv8483094003attach-count span {
+color:#1E66A=
+E;font-weight:700;}
+
+#yiv8483094003  #yiv8483094003ygrp-reco #yiv8483094003=
+reco-head {
+color:#ff7900;font-weight:700;}
+
+#yiv8483094003  #yiv8483094003=
+ygrp-reco {
+margin-bottom:20px;padding:0px;}
+
+#yiv8483094003  #yiv848309400=
+3ygrp-sponsor #yiv8483094003ov li a {
+font-size:130%;text-decoration:none;}=
+
+
+#yiv8483094003  #yiv8483094003ygrp-sponsor #yiv8483094003ov li {
+font-siz=
+e:77%;list-style-type:square;padding:6px 0;}
+
+#yiv8483094003  #yiv848309400=
+3ygrp-sponsor #yiv8483094003ov ul {
+margin:0;padding:0 0 0 8px;}
+
+#yiv84830=
+94003  #yiv8483094003ygrp-text {
+font-family:Georgia;}
+
+#yiv8483094003  #yi=
+v8483094003ygrp-text p {
+margin:0 0 1em 0;}
+
+#yiv8483094003  #yiv8483094003=
+ygrp-text tt {
+font-size:120%;}
+
+#yiv8483094003  #yiv8483094003ygrp-vital u=
+l li:last-child {
+border-right:none !important;}
+#yiv8483094003 </style></d=
+iv></div><br clear=3D"none"><br clear=3D"none"></div></div>  </div> </div> =
+ </div> </div></div></div></div></body></html>
+---2097401939-2009376021-1390559080=:48443--
+
+

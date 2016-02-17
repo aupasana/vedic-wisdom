@@ -1,0 +1,509 @@
+From pvr108@...  Wed Feb 17 11:07:35 2016
+Return-Path: <pvr108@...>
+X-Sender: pvr108@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 60369 invoked by uid 102); 20 Jan 2014 20:42:08 -0000
+X-Received: from unknown (HELO mtaq3.grp.bf1.yahoo.com) (10.193.84.142)
+  by m17.grp.bf1.yahoo.com with SMTP; 20 Jan 2014 20:42:08 -0000
+X-Received: (qmail 2922 invoked from network); 20 Jan 2014 20:42:08 -0000
+X-Received: from unknown (HELO nm7-vm6.bullet.mail.ne1.yahoo.com) (98.138.91.100)
+  by mtaq3.grp.bf1.yahoo.com with SMTP; 20 Jan 2014 20:42:08 -0000
+X-Received: from [98.138.101.130] by nm7.bullet.mail.ne1.yahoo.com with NNFMP; 20 Jan 2014 20:42:08 -0000
+X-Received: from [98.138.89.192] by tm18.bullet.mail.ne1.yahoo.com with NNFMP; 20 Jan 2014 20:42:08 -0000
+X-Received: from [127.0.0.1] by omp1050.mail.ne1.yahoo.com with NNFMP; 20 Jan 2014 20:42:08 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 495240.47582.bm@...
+X-Received: (qmail 13564 invoked by uid 60001); 20 Jan 2014 20:42:08 -0000
+X-YMail-OSG: .dbItVcVM1ntG3xs1LSJsJ6dDLuvW72D6M3SUHGBjH92vSX
+ QBrgA66oTZHvAhjhTJGlpKHqZmGVyE_Oi1YbijrnQOFPyjVlMzoFXykA4Jho
+ xiI1f3VclYRYu8QfxGS1gLYdbW2jBzphgWg7xjj7Hh_swRmtvGHp1rDlZZXd
+ ARDqxlxdgxCKTQ4cKhfn4dqFAAa0y_H5m1MAQSiY2wWrvRAhJ_WSp7EuHEpj
+ ReMx8.65lE4CXW__uVtvtNYpbSefR6qYLX2rCqWS1ErnkcU3Uhj_auv8Wwu3
+ bXVEynoh.GDhfP5ZODxeYCB4v97tdP8dXQvyQYUGXAkxHyCXbLO5V10osEDG
+ xyqt7ArHDEeRZ8eQIOihzqQ48Igj8FcxLj.UyOnlCW6m2VQ.CiCdg3bHRxHf
+ mTP9HP8CgjLl2OPjOahoKZBXC710S79kmhgUMb15P_Sfhd_7sgdAxBkhzrzx
+ 05WEPISkeJKFZPjaXTY_hFzahuZo8q2NPg65UUPSYEAiUhN5Sde_f9Rok_iH
+ XrXr2PpuEdqqmHlhKNcp2atfrfbLh_aZLIqxFxlN2rg0rzlaLLVD9KKbOhPq
+ Sh6lR4n1.NscvBoanbE_on9vdVH8OITWwyA7vTtXIPpxJFVDehxTnfAZrrfR
+ eX1ODi9DgY5yZkJeWw9X6ob6jHxnWOgFd4YQJgaDLHYxqlTfIforT.Tt_dSA
+ l5O.7dKNjBC4PSoXnQWE1l9ZUmjgTZSf_LmwCPu8xLr.VCptIbUqB4.jCSsa
+ 5SuO9TWx6IOJFPqDxWDbZxJN4ICCNB0CX0E80qlBOsjsDxylLPcvTSOaeO25
+ WUzjkug.CxRRBSc3CB9_Ngo4QUyYV3Q2wvjoIVIp0N51c5S_H9nBaN0yU9FY
+ ie6e56aQCZCH_fpRcLwOePz0NHl21Xyvg7NCsPQQIEz.NKxbp84cJQYNTadX
+ o9EJXfPNQpj9gOYTUmWCusHWI_MiMaD3IBQG3NcOSAxGTnc.gEz1lvYHe2DH
+ cNNvk68y08I6udN6KCqYglID.EfVBQrOlWq3qfQzwRAqVJwaYHrsCBKlbiuV
+ sfRt0.lPxt04GEFlrKBGJzOyIw0_zp7mJtlYCI3DIAJCsVlMOQVRc0f0.ucP
+ aYNzPJ7RyI5SM4ASGrnzS18kNepBh5uroK9rjTahTnBTdZ.6QKnTFcstpd22
+ w8L5sCexSfpy7LaiVFxfSwSmtfzjalU6TZtnXBfYyNZwUEygCeqMh20gt2cs
+ 3VC0ZfdKlSov35nOy28Ciel8UtFWW2Wo10QoYAMghHgFtNMvy4X6h51Ubizk
+ 7Yb0LN4ThKHJP85EIPIo5US1ZmgusJrxAcvRRWIFfizNAR1Xly97u4mpWMV6
+ Z.jp78t23zTBFTPpaWdL7os3KivWIFfhFQTuSWStO.vW8nipK4Ls5mXLdK3k
+ wa.8Nzk7vffQ6fBal_Qpfbps2X.MeNP6WOI4bPYoHpnA05p47Mg1Rbwn7iaG
+ mdmpDAA8wFb1PJuMJig8wLnuvyU0pd6P4EjBqH0wHqRTLk6U01MuW7cbvojn
+ 1B65ZNKKUYWr3GcOTtcybPD50nqnNdORMAwmXrA4F8wudrlQGpu1ZugCDmp3
+ CI.cvNR2J0lrNBgeZ1O_5047BLVEo_Ka13AcfVfsz54bgVlxzFO1FvPBe2OA
+ D_cUJSuTM2r06t99Bl147_seqUd20EJiofsesE.jVBHWWJO0u5XpSM2l1nMa
+ Kn8Q4GztSXX86KHwAduZqF_yFzLbv0BLXtn69Qdq6r1sJuZp8vAZtj_vqcY3
+ MVDEDZGS67dXSkc8bmfRy6CymSB1UbyHWhE5ZTn39cfSPcptlPDots.GSCMB
+ SqlbK0E2CO5lrwZDJhzr2HESVo4gw0AAGC.kDA4ZnWB7JtxHO7R8QqZ_sVv_
+ hKvpSioTMiOy8WciPXS2FnI3ezQGRREO0uXgp97mXLjH1YRZUWDTCN4Y.63k
+ 7Qe_48_Q.RB2Yv4ER0SSTH8OrPzRFhr7Kw7MlRpdoVXz3khiRjy3JQ4LFEZF
+ SfofoatZ692yVbBkSUJ5eU6RRVPRoXwLfj5E9FIDP9MezaRqYTecIffdCOAf
+ AZBRcDQLTch.2hsZV0gNl3mXBVL_8FgnwzpqLLzHtIYUDlAcw1X0DVFtFWuz
+ YFYL3CGEFFPLMZa7n4o_wWl3u.uNmGtEo5s9WSSpqA6j2.rA8RVL04qTqxUs
+ avKVJAHIw3.D_E3jjG2RC8DMeRhdINlqbGf5X4vurjVXbFHpvB8yhlOc-
+X-Received: from [216.31.219.19] by web122102.mail.ne1.yahoo.com via HTTP; Mon, 20 Jan 2014 12:42:08 PST
+X-Rocket-MIMEInfo: 002.001,TmFtYXN0ZSBTaXIsCgo8PFRoZSBwYXRoIHRvIGxpYmVyYXRpb24gaXMgbm90IHZpYSBhIGJhbGFuY2Ugb2YgZ29vZCBvciBiYWQga2FybWFzIHBlciBzYXkgYnV0IGJ5IGRldGFjaGluZyBvbmVzZWxmIGZyb20gYWxsIHdvcmxkbHkgYXR0YWNobWVudHMuPj4KCllvdSBnb3QgaXQgcmlnaHQuIEhvd2V2ZXIsIHVudGlsIGRldGFjaG1lbnQgYmVjb21lcyBwZXJmZWN0LCBpdCBpcyB1c2VmdWwgdG8gZW5nYWdlIGluICJnb29kIiBrYXJtYXMsIGkuZS4ga2FybWFzIHRoYXQgZ2l2ZSBoYXBwaW5lc3MgdG8gb3RoZXIBMAEBAQE-
+X-Mailer: YahooMailWebService/0.8.173.622
+References: <lbipo7+19d6kfa@...>	<1390241949.64535.YahooMailNeo@...> <lbjqig+mosnuu@...>
+Message-ID: <1390250528.99670.YahooMailNeo@...>
+Date: Mon, 20 Jan 2014 12:42:08 -0800 (PST)
+To: "vedic-wisdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com>
+In-Reply-To: <lbjqig+mosnuu@...>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="944242502-723990873-1390250528=:99670"
+X-Originating-IP: 10.193.84.142
+X-eGroups-Msg-Info: 1:12:0:0:0
+From: "Narasimha P.V.R. Rao" <pvr108@...>
+Reply-To: "Narasimha P.V.R. Rao" <pvr108@...>
+Subject: Re: GoodKarma, BadKarma and Death
+X-Yahoo-Group-Post: member; u=77866142; y=Bgu339KPhfQ-k_wbu1j9MBIeeS_RDpeDM2ojKwVZOkS4
+X-Yahoo-Profile: pvr108
+
+
+--944242502-723990873-1390250528=:99670
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Namaste Sir,
+
+<<The path to liberation is not via a balance of good or bad =
+karmas per say but by detaching oneself from all worldly attachments.>>
+
+Yo=
+u got it right. However, until detachment becomes perfect, it is useful to =
+engage in "good" karmas, i.e. karmas that give happiness to others or karma=
+s that help others on the journey to liberation.
+
+For example, I am sharing=
+ knowledge related to god, liberation, spiritual sadhana, rituals etc with =
+people. If I fall and have an undesirable rebirth, someone may come who wil=
+l lift me up by giving spiritual knowledge. See, the "good" karmas we do ar=
+e like a safety net or an insurance policy! 
+
+As for horoscope, it shows th=
+e karmas whose phalas are ear-marked for this birth in the mandatory and op=
+tional categories. That's all. Horoscope merely shows the constraints/circu=
+mstances under which you have to operate now. It does not show what you act=
+ually do. Though constraints/circumstances sometimes force certain actions,=
+ often people do have options and choices.
+
+A good spiritual sadhaka will n=
+ot care about horoscope and hone one's will power.
+
+In any case, not only t=
+he interpretive techniques of Jyotish, but even its basic calculations were=
+ corrupted in the last 5,000 years and Jyotish is not really reliable. It s=
+urvives as an art practiced by people with good intuition, rather than as a=
+ science with some objective methods.
+
+
+Best regards,
+Narasimha
+--------
+As=
+trology & Spirituality Resources: http://www.VedicAstrologer.org
+--------
+
+=
+
+
+>________________________________
+> From: "banerjeerajarshi@...=
+m" <banerjeerajarshi@...>
+>To: vedic-wisdom@yahoogroups.com 
+>Se=
+nt: Monday, January 20, 2014 1:55 PM
+>Subject: [vedic-wisdom] Re: GoodKarma=
+, BadKarma and Death
+> 
+>
+>
+>=C2=A0 
+>Dear Narasimhaji,=C2=A0
+>=C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =
+=C2=A0 =C2=A0 =C2=A0 Thank you so much for that explanation! I understand i=
+t now. The path to liberation is not via a balance of good or bad karmas pe=
+r say but by detaching oneself from all worldly attachments. I've been tryi=
+ng to make some sense of it by analyzing my D60 chart to try and understand=
+ how my past life plays a role in my present life but then thats a differen=
+t subject altogether (I'm lousy at jyotisha so it wasn't of much help). A q=
+uick question on that is when we look at planets for our birth charts, are =
+the planets merely placeholders for the gods to indicate what we might face=
+ as a result of our karmas? It is sort of a longshot to say that the actual=
+ physical planet can have an influence on us.=C2=A0
+>
+>
+>Regards
+>
+>
+>Raj
+>=
+
+>
+>
+--944242502-723990873-1390250528=:99670
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"color:#000; background-color:#fff; font-family:ar=
+ial, helvetica, sans-serif;font-size:10pt"><div><span>Namaste Sir,<br><br>&=
+lt;<The path to liberation is not via a balance of good or bad karmas pe=
+r say but by detaching oneself from all worldly attachments.>><br><br=
+>You got it right. However, until detachment becomes perfect, it is useful =
+to engage in "good" karmas, i.e. karmas that give happiness to others or ka=
+rmas that help others on the journey to liberation.<br><br>For example, I a=
+m sharing knowledge related to god, liberation, spiritual sadhana, rituals =
+etc with people. If I fall and have an undesirable rebirth, someone may com=
+e who will lift me up by giving spiritual knowledge. See, the "good" karmas=
+ we do are like a safety net or an insurance policy! <br><br>As for horosco=
+pe, it shows the karmas whose phalas are ear-marked for this birth in the m=
+andatory and optional categories. That's all. Horoscope merely shows
+ the c=
+onstraints/circumstances under which you have to operate now. It does not s=
+how what you actually do. Though constraints/circumstances sometimes force =
+certain actions, often people do have options and choices.<br><br>A good sp=
+iritual sadhaka will not care about horoscope and hone one's will power.<br=
+><br>In any case, not only the interpretive techniques of Jyotish, but even=
+ its basic calculations were corrupted in the last 5,000 years and Jyotish =
+is not really reliable. It survives as an art practiced by people with good=
+ intuition, rather than as a science with some objective methods.</span><br=
+></div><div style=3D"color: rgb(0, 0, 0); font-size: 13.3333px; font-family=
+: arial,helvetica,sans-serif; background-color: transparent; font-style: no=
+rmal;"> <br></div><div style=3D"color:rgb(0, 0, 0);font-size:13px;font-fami=
+ly:arial, helvetica, clean, sans-serif;background-color:transparent;font-st=
+yle:normal;">Best regards,<br>Narasimha<br>--------<br>Astrology
+ & Spi=
+rituality Resources: <a rel=3D"nofollow" target=3D"_blank" href=3D"http://w=
+ww.vedicastrologer.org/">http://www.VedicAstrologer.org</a></div><div style=
+=3D"color:rgb(0, 0, 0);font-size:13px;font-family:arial, helvetica, clean, =
+sans-serif;background-color:transparent;font-style:normal;">--------<br><br=
+></div><div><blockquote style=3D"border-left: 2px solid rgb(16, 16, 255); m=
+argin-left: 5px; margin-top: 5px; padding-left: 5px;">  <div style=3D"font-=
+family: arial, helvetica, sans-serif; font-size: 10pt;"> <div style=3D"font=
+-family: times new roman, new york, times, serif; font-size: 12pt;"> <div d=
+ir=3D"ltr"> <hr size=3D"1">  <font face=3D"Arial" size=3D"2"> <b><span styl=
+e=3D"font-weight:bold;">From:</span></b> "banerjeerajarshi@..." =
+<banerjeerajarshi@...><br> <b><span style=3D"font-weight: =
+bold;">To:</span></b> vedic-wisdom@yahoogroups.com <br> <b><span style=3D"f=
+ont-weight: bold;">Sent:</span></b> Monday, January 20, 2014 1:55 PM<br> <b=
+><span
+ style=3D"font-weight: bold;">Subject:</span></b> [vedic-wisdom] Re:=
+ GoodKarma, BadKarma and Death<br> </font> </div> <div class=3D"y_msg_conta=
+iner"><br><div id=3D"yiv3887770266"><div>
+<span style=3D"display:none;">&nb=
+sp;</span>
+
+
+<div id=3D"yiv3887770266ygrp-mlmsg" style=3D"">
+  <div id=3D"y=
+iv3887770266ygrp-msg" style=3D"">
+
+
+    <div id=3D"yiv3887770266ygrp-text">=
+
+      
+      
+      <div>Dear Narasimhaji, </div><div>    &=
+nbsp;                    =
+     Thank you so much for that explanation! I understand it now.=
+ The path to liberation is not via a balance of good or bad karmas per say =
+but by detaching oneself from all worldly attachments. I've been trying to =
+make some sense of it by analyzing my D60 chart to try and understand how m=
+y past life plays a role in my present life but then thats a different subj=
+ect altogether (I'm lousy at jyotisha so it wasn't of much help). A quick q=
+uestion on that is when we look at planets for our birth charts, are the pl=
+anets merely placeholders for the gods to indicate what we might face as a =
+result of our karmas? It is sort of a longshot to say that the actual physi=
+cal planet can have an influence on us. </div><div><br clear=3D"none">=
+</div><div style=3D"color:rgb(0, 0,
+ 0);font-size:12.800000190734863px;font=
+-family:arial, helvetica, clean, sans-serif;background-color:transparent;fo=
+nt-style:normal;">Regards</div><div style=3D"color:rgb(0, 0, 0);font-size:1=
+2.800000190734863px;font-family:arial, helvetica, clean, sans-serif;backgro=
+und-color:transparent;font-style:normal;"><br clear=3D"none"></div><div sty=
+le=3D"color:rgb(0, 0, 0);font-size:12.800000190734863px;font-family:arial, =
+helvetica, clean, sans-serif;background-color:transparent;font-style:normal=
+;">Raj</div>
+
+    </div>
+     
+
+    
+    <div style=3D"color:#fff;height:0;=
+"></div></div>
+
+
+</div><style type=3D"text/css">
+#yiv3887770266 #yiv3887770=
+266 --
+  #yiv3887770266ygrp-mkp {
+border:1px solid #d8d8d8;font-family:Aria=
+l;margin:10px 0;padding:0 10px;}
+
+#yiv3887770266 #yiv3887770266ygrp-mkp hr =
+{
+border:1px solid #d8d8d8;}
+
+#yiv3887770266 #yiv3887770266ygrp-mkp #yiv388=
+7770266hd {
+color:#628c2a;font-size:85%;font-weight:700;line-height:122%;ma=
+rgin:10px 0;}
+
+#yiv3887770266 #yiv3887770266ygrp-mkp #yiv3887770266ads {
+ma=
+rgin-bottom:10px;}
+
+#yiv3887770266 #yiv3887770266ygrp-mkp .yiv3887770266ad =
+{
+padding:0 0;}
+
+#yiv3887770266 #yiv3887770266ygrp-mkp .yiv3887770266ad p {=
+
+margin:0;}
+
+#yiv3887770266 #yiv3887770266ygrp-mkp .yiv3887770266ad a {
+col=
+or:#0000ff;text-decoration:none;}
+#yiv3887770266 #yiv3887770266ygrp-sponsor=
+ #yiv3887770266ygrp-lc {
+font-family:Arial;}
+
+#yiv3887770266 #yiv3887770266=
+ygrp-sponsor #yiv3887770266ygrp-lc #yiv3887770266hd {
+margin:10px 0px;font-=
+weight:700;font-size:78%;line-height:122%;}
+
+#yiv3887770266 #yiv3887770266y=
+grp-sponsor #yiv3887770266ygrp-lc .yiv3887770266ad {
+margin-bottom:10px;pad=
+ding:0 0;}
+
+#yiv3887770266 #yiv3887770266actions {
+font-family:Verdana;font=
+-size:11px;padding:10px 0;}
+
+#yiv3887770266 #yiv3887770266activity {
+backgr=
+ound-color:#e0ecee;float:left;font-family:Verdana;font-size:10px;padding:10=
+px;}
+
+#yiv3887770266 #yiv3887770266activity span {
+font-weight:700;}
+
+#yiv3=
+887770266 #yiv3887770266activity span:first-child {
+text-transform:uppercas=
+e;}
+
+#yiv3887770266 #yiv3887770266activity span a {
+color:#5085b6;text-deco=
+ration:none;}
+
+#yiv3887770266 #yiv3887770266activity span span {
+color:#ff7=
+900;}
+
+#yiv3887770266 #yiv3887770266activity span .yiv3887770266underline {=
+
+text-decoration:underline;}
+
+#yiv3887770266 .yiv3887770266attach {
+clear:b=
+oth;display:table;font-family:Arial;font-size:12px;padding:10px 0;width:400=
+px;}
+
+#yiv3887770266 .yiv3887770266attach div a {
+text-decoration:none;}
+
+#=
+yiv3887770266 .yiv3887770266attach img {
+border:none;padding-right:5px;}
+
+#=
+yiv3887770266 .yiv3887770266attach label {
+display:block;margin-bottom:5px;=
+}
+
+#yiv3887770266 .yiv3887770266attach label a {
+text-decoration:none;}
+
+#y=
+iv3887770266 blockquote {
+margin:0 0 0 4px;}
+
+#yiv3887770266 .yiv3887770266=
+bold {
+font-family:Arial;font-size:13px;font-weight:700;}
+
+#yiv3887770266 .=
+yiv3887770266bold a {
+text-decoration:none;}
+
+#yiv3887770266 dd.yiv38877702=
+66last p a {
+font-family:Verdana;font-weight:700;}
+
+#yiv3887770266 dd.yiv38=
+87770266last p span {
+margin-right:10px;font-family:Verdana;font-weight:700=
+;}
+
+#yiv3887770266 dd.yiv3887770266last p span.yiv3887770266yshortcuts {
+ma=
+rgin-right:0;}
+
+#yiv3887770266 div.yiv3887770266attach-table div div a {
+te=
+xt-decoration:none;}
+
+#yiv3887770266 div.yiv3887770266attach-table {
+width:=
+400px;}
+
+#yiv3887770266 div.yiv3887770266file-title a, #yiv3887770266 div.y=
+iv3887770266file-title a:active, #yiv3887770266 div.yiv3887770266file-title=
+ a:hover, #yiv3887770266 div.yiv3887770266file-title a:visited {
+text-decor=
+ation:none;}
+
+#yiv3887770266 div.yiv3887770266photo-title a, #yiv3887770266=
+ div.yiv3887770266photo-title a:active, #yiv3887770266 div.yiv3887770266pho=
+to-title a:hover, #yiv3887770266 div.yiv3887770266photo-title a:visited {
+t=
+ext-decoration:none;}
+
+#yiv3887770266 div#yiv3887770266ygrp-mlmsg #yiv38877=
+70266ygrp-msg p a span.yiv3887770266yshortcuts {
+font-family:Verdana;font-s=
+ize:10px;font-weight:normal;}
+
+#yiv3887770266 .yiv3887770266green {
+color:#=
+628c2a;}
+
+#yiv3887770266 .yiv3887770266MsoNormal {
+margin:0 0 0 0;}
+
+#yiv38=
+87770266 o {
+font-size:0;}
+
+#yiv3887770266 #yiv3887770266photos div {
+float=
+:left;width:72px;}
+
+#yiv3887770266 #yiv3887770266photos div div {
+border:1p=
+x solid #666666;height:62px;overflow:hidden;width:62px;}
+
+#yiv3887770266 #y=
+iv3887770266photos div label {
+color:#666666;font-size:10px;overflow:hidden=
+;text-align:center;white-space:nowrap;width:64px;}
+
+#yiv3887770266 #yiv3887=
+770266reco-category {
+font-size:77%;}
+
+#yiv3887770266 #yiv3887770266reco-de=
+sc {
+font-size:77%;}
+
+#yiv3887770266 .yiv3887770266replbq {
+margin:4px;}
+
+#=
+yiv3887770266 #yiv3887770266ygrp-actbar div a:first-child {
+margin-right:2p=
+x;padding-right:5px;}
+
+#yiv3887770266 #yiv3887770266ygrp-mlmsg {
+font-size:=
+13px;font-family:Arial, helvetica, clean, sans-serif;}
+
+#yiv3887770266 #yiv=
+3887770266ygrp-mlmsg table {
+font-size:inherit;font:100%;}
+
+#yiv3887770266 =
+#yiv3887770266ygrp-mlmsg select, #yiv3887770266 input, #yiv3887770266 texta=
+rea {
+font:99% Arial, Helvetica, clean, sans-serif;}
+
+#yiv3887770266 #yiv38=
+87770266ygrp-mlmsg pre, #yiv3887770266 code {
+font:115% monospace;}
+
+#yiv38=
+87770266 #yiv3887770266ygrp-mlmsg * {
+line-height:1.22em;}
+
+#yiv3887770266 =
+#yiv3887770266ygrp-mlmsg #yiv3887770266logo {
+padding-bottom:10px;}
+
+
+#yiv3=
+887770266 #yiv3887770266ygrp-msg p a {
+font-family:Verdana;}
+
+#yiv388777026=
+6 #yiv3887770266ygrp-msg p#yiv3887770266attach-count span {
+color:#1E66AE;f=
+ont-weight:700;}
+
+#yiv3887770266 #yiv3887770266ygrp-reco #yiv3887770266reco=
+-head {
+color:#ff7900;font-weight:700;}
+
+#yiv3887770266 #yiv3887770266ygrp-=
+reco {
+margin-bottom:20px;padding:0px;}
+
+#yiv3887770266 #yiv3887770266ygrp-=
+sponsor #yiv3887770266ov li a {
+font-size:130%;text-decoration:none;}
+
+#yiv=
+3887770266 #yiv3887770266ygrp-sponsor #yiv3887770266ov li {
+font-size:77%;l=
+ist-style-type:square;padding:6px 0;}
+
+#yiv3887770266 #yiv3887770266ygrp-sp=
+onsor #yiv3887770266ov ul {
+margin:0;padding:0 0 0 8px;}
+
+#yiv3887770266 #y=
+iv3887770266ygrp-text {
+font-family:Georgia;}
+
+#yiv3887770266 #yiv388777026=
+6ygrp-text p {
+margin:0 0 1em 0;}
+
+#yiv3887770266 #yiv3887770266ygrp-text t=
+t {
+font-size:120%;}
+
+#yiv3887770266 #yiv3887770266ygrp-vital ul li:last-ch=
+ild {
+border-right:none !important;
+}
+#yiv3887770266 
+</style></div><br><br=
+></div> </div> </div> </blockquote></div>   </div></body></html>
+--944242502-723990873-1390250528=:99670--
+
+

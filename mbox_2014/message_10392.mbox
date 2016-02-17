@@ -1,0 +1,514 @@
+From prm7782@...  Wed Feb 17 11:07:42 2016
+Return-Path: <prm7782@...>
+X-Sender: prm7782@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 12190 invoked by uid 102); 7 Sep 2014 19:53:04 -0000
+X-Received: from unknown (HELO mtaq5.grp.bf1.yahoo.com) (10.193.84.36)
+  by m1.grp.bf1.yahoo.com with SMTP; 7 Sep 2014 19:53:04 -0000
+X-Received: (qmail 23286 invoked from network); 7 Sep 2014 19:53:04 -0000
+X-Received: from unknown (HELO nm27-vm1.bullet.mail.bf1.yahoo.com) (98.139.245.165)
+  by mtaq5.grp.bf1.yahoo.com with SMTP; 7 Sep 2014 19:53:04 -0000
+X-Received: from [98.139.212.153] by nm27.bullet.mail.bf1.yahoo.com with NNFMP; 07 Sep 2014 19:53:04 -0000
+X-Received: from [98.139.212.194] by tm10.bullet.mail.bf1.yahoo.com with NNFMP; 07 Sep 2014 19:53:04 -0000
+X-Received: from [127.0.0.1] by omp1003.mail.bf1.yahoo.com with NNFMP; 07 Sep 2014 19:53:04 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 635129.72058.bm@...
+X-Received: (qmail 34465 invoked by uid 60001); 7 Sep 2014 19:53:04 -0000
+X-YMail-OSG: 4I.JpqQVM1mF1_wuX0V6Q_VYHTx_KWgTUUSbV7gxRXm60eg
+ p.zGUT1UHMi2Te.CCagpmZFhoUV_yx6SXB7BoeC9gVYXQtQrLA8iqbeAE1S9
+ nsqaDKPilutLBfGG4GCw6yxZLv_ZxX8Ua27i4nTI8oTnD5yoXI1iSwKDurI.
+ d3OVUWkbxShnNDSowi8siTEMEBE35YVM_rA_BUEek.SSJ0HXbuti7l6_ulPa
+ _2EjvQ.E8FhuAZRbisIayoWH3rc_1Q91rcCRZLObBrWIKcdDeiss603qyvHq
+ 3zmB3iNlW2f2z7XurwP329WvKINQyshOKJpgNvI6PI83g3g8CV0lKIREp_OH
+ PYGI0c9SkVLPQkoYwmbTofjNSWaMxUVLhMIm9xuEmPEtuy29yxRhkdIjME7h
+ QDOJgCwCRm7HqNKYjMcs2BHDc2Wyi94fSQOkfidw7JrGxiG6Rh3Qesa3rTgc
+ NATbglHCWNb33NcYLE8.MwgW6MEr0W.8VpCMWmVErlazs69U1o_46iyEcr.V
+ LjYPNZwJRLyFdPraXMimVin9M0Pn8P.0AMdjeHTW9IRAT0S9UfbGqyhpgaWR
+ mBNQzt7DoXSn9muS8zioZ1YUa7OeazcqvAIJLz8Qu0ja7zcCvPkc3kV6djL4
+ X4JbaQjauegZ3Skj67JDxXvjO1t2SqPbrjOJ2bwc1SMGkzjp3GOtn_T3dXOA
+ c3kSk_Haew7xMJFLrKL9_bCANUsohPInQAQtuKTk.h4hSawmYZlcpSFsIJmj
+ V8Fy3Lex6vWeqtBIbHCDygslYoqUITYVoohMX9g0BjFPd8CmMIwyU4N27Twz
+ 4UJk_.aWLApA8V2w8ejFpDToP5h_nkZ9bqGPwyi4W8Oo3Y5DXsQ3I8cO59br
+ v3DutP.1kOKvsq4xpTRMJMBAE8x8ODnBC5Ud0UsSE1vb.GI98bPPQPrPgqqp
+ 7615gDMY95loqqtW2yR79bdu.FwqehRWqh_9QYMosk9l3A_viE8veA4BkqNo
+ fEwFFMMg06B6.io4XIRWIx_JOfPVs6Qw0lGnT73aFuHJIjwsLGx3.3YcIks_
+ tJhfTqYIIsS5JWNuchVWwiEYIB8Lbq1XCjwkn0C8Qs3UaM2as5.ocT_XeeHk
+ lAYBqXWlbfpbAq5QuU1sJRgWw9uOrS7mqjewK_jCh2Qec6_2azL7h9DIXd9P
+ q_iloNEq0I1RRC_sch1uWDj2riKEVIk1ak5t.iN_Os44xPRPIQH30sFGml3a
+ nIE2ygfPvjTTEKqhHSBv5Qjl3I4GxkabRCXczU8_rkWpW6kyDjrhhHdP9qNI
+ _jctGg48EwpXOl6QBl8eEO2jI0HR9rTDzLo4RFp5HaQT.DRFlz5rZ8rEqMJJ
+ RA1qUkQ6_yffNZTiuiedhj_b5yA.g6Jtus.GjBx3KpIGX_TZWLozL3fbi43_
+ teVS67EWJFuhumKwX3uq9KLn21NB509ki7OZQdufa6S7PzQNtbSdPr.0yy69
+ yGY2IlsoqJIV06OIvVjhmr9Xyy3qxhY2IiUAe49kmCHInO0d.i_BYXFyRCn7
+ cmGsXQN.yHVLm.zOsdzhbdDu9Fga_zVpwVF46Hf77GhsX0j5TzHIT8LPNZn2
+ vT7YBzPqyz3f0DQK2a5fOFlxEaIcwc_Nfw1ZMO24jorBtN.AuAVOGwbOsRee
+ cnypB1w_lz8WXhGQpyJOHzhFfwNr7Kj8IdwJ5LIqznWNpZl7y734fJvX9tez
+ RgmtYUfgMq6se2Rfmvdc8LYdVAAvYQ7fRxqubZ7H6NehWewFkSceKzw4V4AG
+ yOb90FWr1zGSevh7hC37aRlquLeNRZEo4NQeErmSusg9fNjR123PLOAKewVc
+ ZPeju5zIIuiwe4Al1uXwXQo3ti3JVcjRZlX3dVBmXnjJxtca1VFv18Pnyw2t
+ LCFDVn3Dbhi3nIiYRfHHce3X2may4UhBK2flflqiWSsK6lYsSHchHdiJktly
+ KZUzLrt0XGwWbA34kGWlW1w--
+X-Received: from [68.42.94.18] by web162801.mail.bf1.yahoo.com via HTTP; Sun, 07 Sep 2014 12:53:04 PDT
+X-Rocket-MIMEInfo: 002.001,CgpMdWNreSBmb3IgdGhvc2Ugd2hvIGNhbiBnZXQgYWhpbXNhIGZyZWUgbWlsay4gSSB3aXNoIEkga25ldyBob3cgdG8gcmFpc2UgYSBjb3cgY291bGQgaGF2ZSBnaXZlbiBhIGdvb2QgbGlmZSB0byBvbmUuIFRoYW5rcyBmb3Igc2hhcmluZy4gCgpSZWdhcmRzLApQcml5YQoKCj5fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fXwo.IEZyb206ICJzdW5yaXNlXzEwODBAeWFob28uY28udWsgW3ZlZGljLXdpc2RvbV0iIDx2ZWRpYy13aXNkb21AeWFob29ncm91cHMuY29tPgo.VG86IHZlZGljLXdpc2RvbUABMAEBAQE-
+X-Mailer: YahooMailWebService/0.8.203.696
+References: <luhh3i+sikn44@...> <luhlfj+1k4hn2q@...>
+Message-ID: <1410119584.8743.YahooMailNeo@...>
+Date: Sun, 7 Sep 2014 12:53:04 -0700
+To: "vedic-wisdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com>
+In-Reply-To: <luhlfj+1k4hn2q@...>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="2065536479-415218412-1410119584=:8743"
+X-Originating-IP: 98.139.213.148
+X-eGroups-Msg-Info: 1:12:0:0:0
+Reply-To: Priya M <prm7782@...>
+Subject: Re: [vedic-wisdom] Re: Ghee, blood and tears
+X-Yahoo-Group-Post: member; u=431354722; y=hmqutf2AbkoKPWvJ5fJTHxXUb5Ld88zHkFz1qX0xm1aBAA
+X-Yahoo-Profile: prm7782
+From: Priya M <prm7782@...>
+
+
+--2065536479-415218412-1410119584=:8743
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+
+
+Lucky for those who can get ahimsa free milk. I wish I knew how to raise =
+a cow could have given a good life to one. Thanks for sharing. 
+
+Regards,
+P=
+riya
+
+
+>________________________________
+> From: "sunrise_1080@... =
+[vedic-wisdom]" <vedic-wisdom@yahoogroups.com>
+>To: vedic-wisdom@yahoogroup=
+s.com 
+>Sent: Sunday, September 7, 2014 9:21 AM
+>Subject: [vedic-wisdom] Re=
+: Ghee, blood and tears
+> 
+>
+>
+>  
+>Ahimsa Ghee =E2=80=93 =C2=A311.00/300g =
++ p&p | Ahimsa Milk
+> 
+>       Ahimsa Ghee =E2=80=93 =C2=A311.00/300g + p&p=
+ | Ahimsa Milk  
+>Product Description Ahimsa Ghee / 300g jar Price: =C2=A31=
+4.50 (=C2=A311.00 + =C2=A33.50 p&p)   
+>View on www.ahimsamilk.org     Prev=
+iew by Yahoo    
+> 
+>
+>This looks like a good option for those living in th=
+e UK and European continent. Slightly more expensive but well worth it, and=
+ makes it less likely one will waste it. There may be similar products else=
+where in the world. 
+>
+>
+>
+--2065536479-415218412-1410119584=:8743
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"color:#000; background-color:#fff; font-family:He=
+lveticaNeue, Helvetica Neue, Helvetica, Arial, Lucida Grande, sans-serif;fo=
+nt-size:12pt"><div><span><br></span></div><div>Lucky for those who can get =
+ahimsa free milk. I wish I knew how to raise a cow could have given a good =
+life to one. Thanks for sharing. </div><div><br></div><div style=3D"co=
+lor: rgb(0, 0, 0); font-size: 16px; font-family: HelveticaNeue, 'Helvetica =
+Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; font-style: normal; b=
+ackground-color: transparent;">Regards,</div><div style=3D"color: rgb(0, 0,=
+ 0); font-size: 16px; font-family: HelveticaNeue, 'Helvetica Neue', Helveti=
+ca, Arial, 'Lucida Grande', sans-serif; font-style: normal; background-colo=
+r: transparent;">Priya<br></div><blockquote style=3D"border-left: 2px solid=
+ rgb(16, 16, 255); margin-left: 5px; margin-top: 5px; padding-left: 5px;"> =
+ <div style=3D"font-family: HelveticaNeue, 'Helvetica Neue', Helvetica, Ari=
+al,
+ 'Lucida Grande', sans-serif; font-size: 12pt;"> <div style=3D"font-fam=
+ily: HelveticaNeue, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sa=
+ns-serif; font-size: 12pt;"> <div dir=3D"ltr"> <hr size=3D"1">  <font size=
+=3D"2" face=3D"Arial"> <b><span style=3D"font-weight:bold;">From:</span></b=
+> "sunrise_1080@... [vedic-wisdom]" <vedic-wisdom@...=
+m><br> <b><span style=3D"font-weight: bold;">To:</span></b> vedic-wisdom=
+@yahoogroups.com <br> <b><span style=3D"font-weight: bold;">Sent:</span></b=
+> Sunday, September 7, 2014 9:21 AM<br> <b><span style=3D"font-weight: bold=
+;">Subject:</span></b> [vedic-wisdom] Re: Ghee, blood and tears<br> </font>=
+ </div> <div class=3D"y_msg_container"><br><div id=3D"yiv6738854304"><div>
+=
+<span style=3D"display:none;"> </span>
+
+
+<div id=3D"yiv6738854304ygrp-=
+mlmsg" style=3D"">
+  <div id=3D"yiv6738854304ygrp-msg" style=3D"">
+
+
+    <d=
+iv id=3D"yiv6738854304ygrp-text">
+      
+      
+      <div><a rel=3D"nofoll=
+ow" shape=3D"rect" target=3D"_blank" href=3D"http://www.ahimsamilk.org/ahim=
+sa-online-shop/ahimsa-ghee/">Ahimsa Ghee =E2=80=93 =C2=A311.00/300g + p&=
+;p | Ahimsa Milk</a></div><div class=3D"yiv6738854304link-enhancr-attachmen=
+t yiv6738854304link-enhancr-element" id=3D"yiv6738854304enhancrCard_1" styl=
+e=3D"width:450px;" contenteditable=3D"false"> <table class=3D"yiv6738854304=
+link-enhancr-element" style=3D"width:450px;height:170px;margin-top:5px;marg=
+in-bottom:5px;" cellpadding=3D"0" cellspacing=3D"0"><tbody><tr class=3D"yiv=
+6738854304link-enhancr-element"><td colspan=3D"6" rowspan=3D"1" class=3D"yi=
+v6738854304link-enhancr-element" style=3D"height:1px;background-color:#e5e5=
+e5;"> <div class=3D"yiv6738854304link-enhancr-element" style=3D"height:1px;=
+background-color:#e5e5e5;"></div> </td></tr><tr class=3D"yiv6738854304link-=
+enhancr-element"><td colspan=3D"1" rowspan=3D"2" class=3D"yiv6738854304link=
+-enhancr-element" style=3D"width:1px;background-color:#e5e5e5;"> <div
+ clas=
+s=3D"yiv6738854304link-enhancr-element" style=3D"width:1px;background-color=
+:#e5e5e5;"></div> </td><td colspan=3D"1" rowspan=3D"2" class=3D"yiv67388543=
+04link-enhancr-element" style=3D"vertical-align:middle;width:168px;height:1=
+68px;background-color:#000000;"> <div align=3D"center" class=3D"yiv67388543=
+04link-enhancr-element" style=3D"width:168px;"> <a rel=3D"nofollow" shape=
+=3D"rect" class=3D"link-enhancr-card-urlWrapper link-enhancr-element" targe=
+t=3D"_blank" href=3D"http://www.ahimsamilk.org/ahimsa-online-shop/ahimsa-gh=
+ee/" style=3D"text-decoration: none !important; color: #000000 !important;"=
+ contenteditable=3D"false"> <img class=3D"link-enhancr-thumbnail-image link=
+-enhancr-element" alt=3D"image" src=3D"http://www.ahimsamilk.org/press_medi=
+a/home_images_ahimsa_milk_1.jpg" style=3D"margin:auto;" height=3D"75" width=
+=3D"168"> </a> </div> </td><td colspan=3D"1" rowspan=3D"2" class=3D"yiv6738=
+854304link-enhancr-element" style=3D"width:1px;background-color:#e5e5e5;"> =
+<div
+ class=3D"yiv6738854304link-enhancr-element" style=3D"width:1px;backgr=
+ound-color:#e5e5e5;"></div> </td><td colspan=3D"2" rowspan=3D"1" class=3D"y=
+iv6738854304link-enhancr-element" style=3D"width:100%;vertical-align:middle=
+;"> <div class=3D"yiv6738854304link-enhancr-text-part yiv6738854304link-enh=
+ancr-element" style=3D"background-color:#ffffff;height:130px;width:279px;">=
+ <div class=3D"yiv6738854304link-enhancr-element" style=3D"padding:7px 20px=
+ 0px 14px;"> <span class=3D"yiv6738854304link-enhancr-element yiv6738854304=
+icon yiv6738854304icon-shrink yiv6738854304link-enhancr-toggle"></span> <sp=
+an class=3D"yiv6738854304link-enhancr-element yiv6738854304icon yiv67388543=
+04icon-close yiv6738854304link-enhancr-delete"></span> <a rel=3D"nofollow" =
+shape=3D"rect" class=3D"yiv6738854304link-enhancr-card-urlWrapper yiv673885=
+4304link-enhancr-element" target=3D"_blank" href=3D"http://www.ahimsamilk.o=
+rg/ahimsa-online-shop/ahimsa-ghee/" style=3D"text-decoration:none;color:#00=
+0000;"> <span
+ class=3D"yiv6738854304link-enhancr-element yiv6738854304link=
+-enhancr-card-title" style=3D"margin:0;font-weight:normal;margin-bottom:4px=
+;font-size:18px;max-height:43px;color:#000000;overflow:hidden;">Ahimsa Ghee=
+ =E2=80=93 =C2=A311.00/300g + p&p | Ahimsa Milk</span> </a>  <div class=
+=3D"yiv6738854304link-enhancr-card-description yiv6738854304link-enhancr-el=
+ement" style=3D"font-size:13px;color:#999999;max-height:81px;overflow:hidde=
+n;">Product Description Ahimsa Ghee / 300g jar Price: =C2=A314.50 (=C2=A311=
+.00 + =C2=A33.50 p&p) </div>  </div> </div> </td><td colspan=3D"1" rows=
+pan=3D"2" class=3D"yiv6738854304link-enhancr-element" style=3D"width:1px;ba=
+ckground-color:#e5e5e5;"> <div class=3D"yiv6738854304link-enhancr-element" =
+style=3D"width:1px;background-color:#e5e5e5;"></div> </td></tr><tr><td cols=
+pan=3D"1" rowspan=3D"1" class=3D"yiv6738854304link-enhancr-element" style=
+=3D"width:100%;vertical-align:middle;"> <div class=3D"yiv6738854304link-enh=
+ancr-element" style=3D"font-size:0pt;padding:7px 20px 9px
+ 15px;"> <a rel=
+=3D"nofollow" shape=3D"rect" class=3D"yiv6738854304link-enhancr-card-url yi=
+v6738854304link-enhancr-element" target=3D"_blank" href=3D"http://www.ahims=
+amilk.org/ahimsa-online-shop/ahimsa-ghee/" style=3D"color:black;text-decora=
+tion:none;cursor:pointer;"> <span class=3D"yiv6738854304link-enhancr-elemen=
+t yiv6738854304link-enhancr-view-on" style=3D"max-width:179px;min-width:119=
+px;overflow:hidden;max-height:13px;"> <span class=3D"yiv6738854304link-enha=
+ncr-element yiv6738854304link-enhancr-mobile-no-resize" style=3D"vertical-a=
+lign:middle; font-size: 9px; line-height: 11px; color: #999999; -moz-text-s=
+ize-adjust: none; -ms-text-size-adjust: none; -webkit-text-size-adjust:none=
+; text-size-adjust:none;"> View on <span style=3D"font-weight:bold;">www.ah=
+imsamilk.org</span> </span> </span> </a>  </div> </td><td colspan=3D"1" row=
+span=3D"1" class=3D"yiv6738854304link-enhancr-element" style=3D"vertical-al=
+ign:middle;width:100px;"> <div class=3D"yiv6738854304link-enhancr-element
+ =
+yiv6738854304link-enhancr-preview-wrapper" style=3D"padding:9px 20px 12px 0=
+px;max-width:100px;min-width:80px;overflow:hidden;text-align:right;max-heig=
+ht:13px;font-size:0pt;"> <span class=3D"yiv6738854304link-enhancr-element y=
+iv6738854304link-enhancr-preview-by yiv6738854304link-enhancr-mobile-no-res=
+ize" style=3D"vertical-align:middle; font-size: 9px; line-height: 11px; col=
+or: #999999; -moz-text-size-adjust: none; -ms-text-size-adjust: none; -webk=
+it-text-size-adjust:none; text-size-adjust:none;"> Preview by Yahoo </span>=
+ </div> </td></tr><tr class=3D"yiv6738854304link-enhancr-element"><td colsp=
+an=3D"6" rowspan=3D"1" class=3D"yiv6738854304link-enhancr-element" style=3D=
+"height:1px;background-color:#e5e5e5;"> <div class=3D"yiv6738854304link-enh=
+ancr-element" style=3D"height:1px;background-color:#e5e5e5;"></div> </td></=
+tr></tbody></table> </div><div>  </div><br clear=3D"none"><br clear=3D=
+"none">This looks like a good option for those living in the UK and Europea=
+n continent.
+ Slightly more expensive but well worth it, and makes it less =
+likely one will waste it. There may be similar products elsewhere in the wo=
+rld.
+
+    </div>
+     
+
+    
+    <div style=3D"color:#fff;height:0;"></div>=
+</div>
+
+
+</div><style type=3D"text/css">
+#yiv6738854304 #yiv6738854304 --
+ =
+ #yiv6738854304ygrp-mkp {
+border:1px solid #d8d8d8;font-family:Arial;margin=
+:10px 0;padding:0 10px;}
+
+#yiv6738854304 #yiv6738854304ygrp-mkp hr {
+border=
+:1px solid #d8d8d8;}
+
+#yiv6738854304 #yiv6738854304ygrp-mkp #yiv6738854304h=
+d {
+color:#628c2a;font-size:85%;font-weight:700;line-height:122%;margin:10p=
+x 0;}
+
+#yiv6738854304 #yiv6738854304ygrp-mkp #yiv6738854304ads {
+margin-bot=
+tom:10px;}
+
+#yiv6738854304 #yiv6738854304ygrp-mkp .yiv6738854304ad {
+paddin=
+g:0 0;}
+
+#yiv6738854304 #yiv6738854304ygrp-mkp .yiv6738854304ad p {
+margin:=
+0;}
+
+#yiv6738854304 #yiv6738854304ygrp-mkp .yiv6738854304ad a {
+color:#0000=
+ff;text-decoration:none;}
+#yiv6738854304 #yiv6738854304ygrp-sponsor #yiv673=
+8854304ygrp-lc {
+font-family:Arial;}
+
+#yiv6738854304 #yiv6738854304ygrp-spo=
+nsor #yiv6738854304ygrp-lc #yiv6738854304hd {
+margin:10px 0px;font-weight:7=
+00;font-size:78%;line-height:122%;}
+
+#yiv6738854304 #yiv6738854304ygrp-spon=
+sor #yiv6738854304ygrp-lc .yiv6738854304ad {
+margin-bottom:10px;padding:0 0=
+;}
+
+#yiv6738854304 #yiv6738854304actions {
+font-family:Verdana;font-size:11=
+px;padding:10px 0;}
+
+#yiv6738854304 #yiv6738854304activity {
+background-col=
+or:#e0ecee;float:left;font-family:Verdana;font-size:10px;padding:10px;}
+
+#y=
+iv6738854304 #yiv6738854304activity span {
+font-weight:700;}
+
+#yiv673885430=
+4 #yiv6738854304activity span:first-child {
+text-transform:uppercase;}
+
+#yi=
+v6738854304 #yiv6738854304activity span a {
+color:#5085b6;text-decoration:n=
+one;}
+
+#yiv6738854304 #yiv6738854304activity span span {
+color:#ff7900;}
+
+#=
+yiv6738854304 #yiv6738854304activity span .yiv6738854304underline {
+text-de=
+coration:underline;}
+
+#yiv6738854304 .yiv6738854304attach {
+clear:both;disp=
+lay:table;font-family:Arial;font-size:12px;padding:10px 0;width:400px;}
+
+#y=
+iv6738854304 .yiv6738854304attach div a {
+text-decoration:none;}
+
+#yiv67388=
+54304 .yiv6738854304attach img {
+border:none;padding-right:5px;}
+
+#yiv67388=
+54304 .yiv6738854304attach label {
+display:block;margin-bottom:5px;}
+
+#yiv6=
+738854304 .yiv6738854304attach label a {
+text-decoration:none;}
+
+#yiv673885=
+4304 blockquote {
+margin:0 0 0 4px;}
+
+#yiv6738854304 .yiv6738854304bold {
+f=
+ont-family:Arial;font-size:13px;font-weight:700;}
+
+#yiv6738854304 .yiv67388=
+54304bold a {
+text-decoration:none;}
+
+#yiv6738854304 dd.yiv6738854304last p=
+ a {
+font-family:Verdana;font-weight:700;}
+
+#yiv6738854304 dd.yiv6738854304=
+last p span {
+margin-right:10px;font-family:Verdana;font-weight:700;}
+
+#yiv=
+6738854304 dd.yiv6738854304last p span.yiv6738854304yshortcuts {
+margin-rig=
+ht:0;}
+
+#yiv6738854304 div.yiv6738854304attach-table div div a {
+text-decor=
+ation:none;}
+
+#yiv6738854304 div.yiv6738854304attach-table {
+width:400px;}
+=
+
+#yiv6738854304 div.yiv6738854304file-title a, #yiv6738854304 div.yiv673885=
+4304file-title a:active, #yiv6738854304 div.yiv6738854304file-title a:hover=
+, #yiv6738854304 div.yiv6738854304file-title a:visited {
+text-decoration:no=
+ne;}
+
+#yiv6738854304 div.yiv6738854304photo-title a, #yiv6738854304 div.yiv=
+6738854304photo-title a:active, #yiv6738854304 div.yiv6738854304photo-title=
+ a:hover, #yiv6738854304 div.yiv6738854304photo-title a:visited {
+text-deco=
+ration:none;}
+
+#yiv6738854304 div#yiv6738854304ygrp-mlmsg #yiv6738854304ygr=
+p-msg p a span.yiv6738854304yshortcuts {
+font-family:Verdana;font-size:10px=
+;font-weight:normal;}
+
+#yiv6738854304 .yiv6738854304green {
+color:#628c2a;}=
+
+
+#yiv6738854304 .yiv6738854304MsoNormal {
+margin:0 0 0 0;}
+
+#yiv6738854304=
+ o {
+font-size:0;}
+
+#yiv6738854304 #yiv6738854304photos div {
+float:left;wi=
+dth:72px;}
+
+#yiv6738854304 #yiv6738854304photos div div {
+border:1px solid =
+#666666;height:62px;overflow:hidden;width:62px;}
+
+#yiv6738854304 #yiv673885=
+4304photos div label {
+color:#666666;font-size:10px;overflow:hidden;text-al=
+ign:center;white-space:nowrap;width:64px;}
+
+#yiv6738854304 #yiv6738854304re=
+co-category {
+font-size:77%;}
+
+#yiv6738854304 #yiv6738854304reco-desc {
+fon=
+t-size:77%;}
+
+#yiv6738854304 .yiv6738854304replbq {
+margin:4px;}
+
+#yiv67388=
+54304 #yiv6738854304ygrp-actbar div a:first-child {
+margin-right:2px;paddin=
+g-right:5px;}
+
+#yiv6738854304 #yiv6738854304ygrp-mlmsg {
+font-size:13px;fon=
+t-family:Arial, helvetica, clean, sans-serif;}
+
+#yiv6738854304 #yiv67388543=
+04ygrp-mlmsg table {
+font-size:inherit;font:100%;}
+
+#yiv6738854304 #yiv6738=
+854304ygrp-mlmsg select, #yiv6738854304 input, #yiv6738854304 textarea {
+fo=
+nt:99% Arial, Helvetica, clean, sans-serif;}
+
+#yiv6738854304 #yiv6738854304=
+ygrp-mlmsg pre, #yiv6738854304 code {
+font:115% monospace;}
+
+#yiv6738854304=
+ #yiv6738854304ygrp-mlmsg * {
+line-height:1.22em;}
+
+#yiv6738854304 #yiv6738=
+854304ygrp-mlmsg #yiv6738854304logo {
+padding-bottom:10px;}
+
+
+#yiv673885430=
+4 #yiv6738854304ygrp-msg p a {
+font-family:Verdana;}
+
+#yiv6738854304 #yiv67=
+38854304ygrp-msg p#yiv6738854304attach-count span {
+color:#1E66AE;font-weig=
+ht:700;}
+
+#yiv6738854304 #yiv6738854304ygrp-reco #yiv6738854304reco-head {
+=
+color:#ff7900;font-weight:700;}
+
+#yiv6738854304 #yiv6738854304ygrp-reco {
+m=
+argin-bottom:20px;padding:0px;}
+
+#yiv6738854304 #yiv6738854304ygrp-sponsor =
+#yiv6738854304ov li a {
+font-size:130%;text-decoration:none;}
+
+#yiv67388543=
+04 #yiv6738854304ygrp-sponsor #yiv6738854304ov li {
+font-size:77%;list-styl=
+e-type:square;padding:6px 0;}
+
+#yiv6738854304 #yiv6738854304ygrp-sponsor #y=
+iv6738854304ov ul {
+margin:0;padding:0 0 0 8px;}
+
+#yiv6738854304 #yiv673885=
+4304ygrp-text {
+font-family:Georgia;}
+
+#yiv6738854304 #yiv6738854304ygrp-te=
+xt p {
+margin:0 0 1em 0;}
+
+#yiv6738854304 #yiv6738854304ygrp-text tt {
+font=
+-size:120%;}
+
+#yiv6738854304 #yiv6738854304ygrp-vital ul li:last-child {
+bo=
+rder-right:none !important;
+}
+#yiv6738854304 
+</style></div><br><br></div> =
+</div> </div> </blockquote><div></div>   </div></body></html>
+--2065536479-415218412-1410119584=:8743--
+
+

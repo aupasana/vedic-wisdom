@@ -1,0 +1,600 @@
+From rajarshi14@...  Wed Feb 17 11:07:35 2016
+Return-Path: <rajarshi14@...>
+X-Sender: rajarshi14@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 64506 invoked by uid 102); 7 Jan 2014 10:45:12 -0000
+X-Received: from unknown (HELO mtaq3.grp.bf1.yahoo.com) (10.193.84.142)
+  by m15.grp.bf1.yahoo.com with SMTP; 7 Jan 2014 10:45:12 -0000
+X-Received: (qmail 26557 invoked from network); 7 Jan 2014 10:45:11 -0000
+X-Received: from unknown (HELO nm35-vm9.bullet.mail.sg3.yahoo.com) (106.10.150.238)
+  by mtaq3.grp.bf1.yahoo.com with SMTP; 7 Jan 2014 10:45:11 -0000
+X-Received: from [106.10.166.63] by nm35.bullet.mail.sg3.yahoo.com with NNFMP; 07 Jan 2014 10:45:10 -0000
+X-Received: from [106.10.151.253] by tm20.bullet.mail.sg3.yahoo.com with NNFMP; 07 Jan 2014 10:45:10 -0000
+X-Received: from [127.0.0.1] by omp1002.mail.sg3.yahoo.com with NNFMP; 07 Jan 2014 10:45:10 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 402878.75022.bm@...
+X-Received: (qmail 4623 invoked by uid 60001); 7 Jan 2014 10:45:10 -0000
+X-YMail-OSG: Ng.EJoMVM1kDnwgNY5uF7luz8sy1Ly3ZGCWg628UxXJmpC.
+ T3Rh3Td92a7ux.L.ffjF.jx7U_xlf1lDocr3v134vgPIHHma79anN_WWpAPH
+ 9HSeOlH4HS1u7WDRBKwysgaEctjtLnfNUcyj4tv_..YoOOsqh3DHFv40pNV3
+ .8.oUapIPh0M2iD8x81sQnb872mWe8lj80BSz7Ifm9TTCgl4YN0TxRdHoDgg
+ fN2vDLTRV5xSoXLhCOcDBh.h26nMDSPfIjF.3YfuFQM1xls1W89OKPmFPlXd
+ p3d_ttm2fJSfAcUhXnIK.YNJtJckUPMGOl8jMr4wg.cR02wUPEiycHmA8Lbn
+ Vu61lY6vO9nAWW8Bh4nt.yebtXo__bzoVuQFPkX7MbyntvSgd0pyP4R71HjO
+ eBtPnDQvJQPMF0Vca5fnLiUHTcIXPZ2BxvPoVlmMUJ6tzgtJ4EL.EHCL8gID
+ 0Ouua4UFEFGLghcQ8Nvgw1S6h7mPNTbXAJr8XZFaMlX3QcnfGCmq6Hmkivl8
+ 7Jg72H7fTnbfaGNfoWKsDVZJcz6eN8EsK4fqqrLLJ618.mOsFPSOqZgE7YmD
+ pCTbvAGWGyTIdjR.CoRwmJYOnhS4hXeIQm6zno8.WQgn9s9yVU0xlfa_wjEx
+ vCMKTF9w1gAH6AqvBgVXOEr1k5rE8Ka1MOoYb2X6PNvDXwJVZjMlkVPKCTXf
+ VfuqJLM1tJM9barAmobW4QFrzUGiGKlUxo2xrfYcaJO_qJkWI41H3ZOid8p0
+ Ttp_yrLJv1vICZFMs.LF5sxAbCW5e.V5VWsqBQmHU4Kmy1wAlGJtyp2fJdoq
+ oGn1bZvObuBo6DotSU27r9kIqPivJMpnRi6Lmq7RRCbhXUMjAY1zxKFHkc4L
+ c4AYmSChXhuWvIew6K4tbxGxsPA0d8JYITxwlO5Cjq_H5S86WV56OzwnuFlN
+ NkLeov5pRufpmmGDtR_07.rhfD2x61Mhc2BKal9AIRPX2gaTn4L0DuT9G13i
+ PEdkFM6.ObfVQqvV6zzz7NY0EnEJgMHQaI7Zcmfvxh.WKJZSfh9iGDDLEb24
+ ioALDIG5ZnhSMU_PB0xKMOjr0Kqj5.lsP3VtYCWE6G49yxwROrsx5GhE3X1i
+ 5UMPNREmCKf1mX.AjLbGFY0EWO2Q5qn93o0s7r4t0nYao1bk2ra49o_Yoj9E
+ UHRwKxqyNzQpMENu_HIc78nbZi002hhWqaRtzJ_gNYkFb5fNKgEvu1Yk.sB3
+ 9A.iV2eAF2QAXicfBGra0Q409D2kVw4.9RlBlh9hIHqxUtzUiJh0otXqXe39
+ L4CCYXu7fjBLnW54ZFxcp42n94qe0Sge.wheegw--
+X-Received: from [115.112.231.110] by web190904.mail.sg3.yahoo.com via HTTP; Tue, 07 Jan 2014 18:45:10 SGT
+X-Rocket-MIMEInfo: 002.001,TmFtYXN0ZSwKCkkgcmVhZCB0aGUgdGhlIHdyaXRldXAuIEl0IGlzIG5pY2UsIGFzIEkgc2FpZC4gQWdhaW4gdGhlcmUgYXJlIGEgZmV3IHN0YXRlbWVudHMgd2hpY2ggSSBkbyBub3QgYWdyZWUgd2l0aCBpbiB0b3RhbGl0eS4gwqA6KQoKPFdlIHNob3VsZCByZW1lbWJlciBoZXJlIHRoYXTCoEJyYWhtYW0gaXMgZm9ybWxlc3MuPj4KCgpCcmFobWFuIGNhbiBiZSwgYm90aCwgd2l0aCBhbmQgd2l0aG91dCBmb3JtLiDCoEZvciBleGFtcGxlLCB3aGF0IHdhcyBBcmp1bmEgc2VlaW5nIC0gdGhlIGFjdCBvZiBwZXIBMAEBAQE-
+X-Mailer: YahooMailWebService/0.8.172.614
+References: <lagg4q+1flarpk@...>	<1389087597.78980.YahooMailNeo@...> <lagj8n+19lcak0@...>
+Message-ID: <1389091510.96503.YahooMailNeo@...>
+Date: Tue, 7 Jan 2014 18:45:10 +0800 (SGT)
+To: "vedic-wisdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com>
+In-Reply-To: <lagj8n+19lcak0@...>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="-2020808392-79639157-1389091510=:96503"
+X-Originating-IP: 10.193.84.142
+X-eGroups-Msg-Info: 1:12:0:0:0
+From: rajarshi nandy <rajarshi14@...>
+Reply-To: rajarshi nandy <rajarshi14@...>
+Subject: Re: [vedic-wisdom] Simple summary of "The spiritual path"
+X-Yahoo-Group-Post: member; u=216162964; y=v-u3EH5Mty-2OZSrYDtrqiSLOzCIwtFhFIfm2kXrp5zsmq9o2w
+X-Yahoo-Profile: rajarshi14
+
+
+---2020808392-79639157-1389091510=:96503
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Namaste,
+
+I read the the writeup. It is nice, as I said. Again there are a =
+few statements which I do not agree with in totality. =C2=A0:)
+
+<We should =
+remember here that=C2=A0Brahmam is formless.>>
+
+
+Brahman can be, both, with=
+ and without form. =C2=A0For example, what was Arjuna seeing - the act of p=
+erception implies a form by default - when he saw the Viswaroopa of Krshna?=
+
+
+=C2=A0<<We have to manifest a very clear form of the deity, which is usua=
+lly called =E2=80=9CIshta Devata=E2=80=9D. We can use our imaginative power=
+ to give a form to this deity. For example, the deity=E2=80=99s complexion =
+is blue. He or she has four or two hands. The crown on the head, the dress =
+they wear, the weapons they hold and all such minute details. Constant and =
+regular manifestation over a period of time will make the deity real for us=
+. By regularly practicing this manifestation, we can start two way communic=
+ations with the deity. This is absolutely possible and depends upon the pow=
+er of our sadhana (practice). Initially, we may not be able to decipher the=
+ communication from the deity. But over a period of time, we can understand=
+. Since, the deity is created by our own manifestation; the communication w=
+ill be in a language known to us. Here the frequency and dedication are ver=
+y important.
+
+Let us understand that this is not the final stage of realisa=
+tion and only a middle level. Let us also not confuse between Brahmam, whic=
+h is Supreme and formless and our Ishta Devata, to whom we have given a for=
+m to our liking.>>
+
+The process described above is *mostly* correct. But th=
+e inference is where I disagree.
+
+While the starting stage does involve cre=
+ating and visualizing forms based on archetypal forms, that how ever does n=
+ot mean that these forms do not have any independent existence. There is Ma=
+hakali with a form of Mahakali before Ramakrishna was born, infact why just=
+ Ramakrishna rather even before this earth was created, and that form will =
+exist even if by a cosmic chance suddenly every single human being is destr=
+oyed from earth.=C2=A0
+
+These are Universal forms. They existed before men =
+came on earth and will exist after that too. Mostly sadhakas start with a f=
+orm *they create* based on one of the archetypal forms and eventually one d=
+ay this self-created form merges into the Universal form of the Devata.=C2=
+=A0
+
+<<=E2=80=9CAham Brahmam asmi=E2=80=9D and =E2=80=9Ctat twam asi=E2=80=
+=9D are the two famous sayings from the Vedas.>>
+
+These two are great mahav=
+akya and very relevant. But IMHO they become complete when taken with the t=
+hird Mahavakya - which is unfortunately often ignored in practice - Sarvam =
+Khalvidam Brahman (*everything* is Brahman).=C2=A0
+
+It is absolutely true t=
+hat one need not worship a Devata for self-realization, (a Devata can very =
+well take one to self-realization or atmagyan or whatever term one likes). =
+=C2=A0That is not my contention in this write-up. But the inferences or des=
+criptions are not totally complete or correct in every aspect IMO.
+
+The Suf=
+is, almost every single one of them, eventually start focusing on the Divin=
+e Light the see. Technically that is a form too - anything that vibrates an=
+d is perceivable, within or without, has a form. They do not worship the De=
+vatas we Hindus worship, which is perfectly fine. But that does not mean th=
+at the Devatas have no independent existence of their own or are a creation=
+ of a human mind! :)
+
+Just exploring the edges of this write-up!
+
+-Regards
+=
+=C2=A0Rajarshi
+
+
+
+
+I have a hundred lives before me yet/ To grasp thee in, =
+O spirit ethereal, / Be sure I will with heart insatiate/ Pursue thee like =
+a hunter through them all.-Sri Aurobindo
+
+
+
+On Tuesday, 7 January 2014 3:31=
+ PM, "aks_day@..." <aks_day@...> wrote:
+ 
+=C2=A0 
+Hi Rajarshi, =
+
+
+
+Please read next few paras where he has explained the manifestation of i=
+shta as a necessary step to reach final goal.
+
+
+
+---2020808392-79639157-1389091510=:96503
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"color:#000; background-color:#fff; font-family:He=
+lveticaNeue, Helvetica Neue, Helvetica, Arial, Lucida Grande, Sans-Serif;fo=
+nt-size:12pt"><div><span>Namaste,</span></div><div style=3D"color: rgb(0, 0=
+, 0); font-size: 16px; font-family: HelveticaNeue, 'Helvetica Neue', Helvet=
+ica, Arial, 'Lucida Grande', sans-serif; background-color: transparent; fon=
+t-style: normal;"><span><br></span></div><div style=3D"color: rgb(0, 0, 0);=
+ font-size: 16px; font-family: HelveticaNeue, 'Helvetica Neue', Helvetica, =
+Arial, 'Lucida Grande', sans-serif; background-color: transparent; font-sty=
+le: normal;"><span>I read the the writeup. It is nice, as I said. Again the=
+re are a few statements which I do not agree with in totality.  :)</sp=
+an></div><div style=3D"color: rgb(0, 0, 0); font-size: 16px; font-family: H=
+elveticaNeue, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-ser=
+if; background-color: transparent; font-style:
+ normal;"><span><br></span><=
+/div><div style=3D"color: rgb(0, 0, 0); font-size: 16px; font-family: Helve=
+ticaNeue, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; =
+background-color: transparent; font-style: normal;"><span style=3D"backgrou=
+nd-color: transparent;"><</span><span style=3D"background-color: transpa=
+rent; font-size: 12pt; font-family: Georgia; line-height: 19.515625px;">We =
+should remember here that </span><b style=3D"background-color: transpa=
+rent; font-size: 12pt; line-height: 19.515625px; font-family: Georgia;"><u =
+style=3D"line-height: 1.22em;">Brahmam is formless</u></b><span style=3D"ba=
+ckground-color: transparent; font-size: 12pt; font-family: Georgia; line-he=
+ight: 19.515625px;">.>></span><br></div><div style=3D"color: rgb(0, 0=
+, 0); font-size: 16px; font-family: Georgia; background-color: transparent;=
+ font-style: normal; font-weight: bold;"><span style=3D"font-size: 12pt; fo=
+nt-family: Georgia; line-height:
+ 19.515625px;"><br></span></div><div style=
+=3D"color: rgb(0, 0, 0); font-size: 16px; font-family: Georgia; background-=
+color: transparent; font-style: normal;"><span style=3D"line-height: 19.515=
+625px;">Brahman can be, both, with and without form.  For example, wha=
+t was Arjuna seeing - the act of perception implies a form by default - whe=
+n he saw the Viswaroopa of Krshna?</span></div><div style=3D"color: rgb(0, =
+0, 0); font-size: 16px; font-family: HelveticaNeue, 'Helvetica Neue', Helve=
+tica, Arial, 'Lucida Grande', sans-serif; background-color: transparent; fo=
+nt-style: normal;"><span><br></span></div><div style=3D"color: rgb(0, 0, 0)=
+; font-size: 16px; font-family: HelveticaNeue, 'Helvetica Neue', Helvetica,=
+ Arial, 'Lucida Grande', sans-serif; background-color: transparent; font-st=
+yle: normal;"><span style=3D"font-size: 12pt;"> <<</span><span s=
+tyle=3D"font-size: 12pt; font-family: Georgia; line-height: 19.515625px;">W=
+e have to manifest a very clear form
+ of the deity, which is usually called=
+ =E2=80=9CIshta Devata=E2=80=9D. We can use our imaginative power to give a=
+ form to this deity. For example, the deity=E2=80=99s complexion is blue. H=
+e or she has four or two hands. The crown on the head, the dress they wear,=
+ the weapons they hold and all such minute details. Constant and regular ma=
+nifestation over a period of time will make the deity real for us. By regul=
+arly practicing this manifestation, we can start two way communications wit=
+h the deity. This is absolutely possible and depends upon the power of our =
+sadhana (practice). Initially, we may not be able to decipher the communica=
+tion from the deity. But over a period of time, we can understand. Since, t=
+he deity is created by our own manifestation; the communication will be in =
+a language known to us. Here the frequency and dedication are very importan=
+t.</span></div><div style=3D"color: rgb(0, 0, 0); font-size: 12pt; font-fam=
+ily: Georgia; background-color: transparent;
+ font-style: normal;"><span st=
+yle=3D"background-color: transparent; font-family: Georgia; font-size: 12pt=
+; line-height: 19.515625px;"><br></span></div><div style=3D"color: rgb(0, 0=
+, 0); font-size: 16px; font-family: Georgia; background-color: transparent;=
+ font-style: normal;"><span style=3D"background-color: transparent; font-fa=
+mily: Georgia; font-size: 12pt; line-height: 19.515625px;"><span style=3D"f=
+ont-size: 12pt;">Let us understand that this is not the final stage of real=
+isation and only a middle level. Let us also not confuse between Brahmam, w=
+hich is Supreme and formless and our Ishta Devata, to whom we have given a =
+form to our liking.</span>>></span></div><div><span style=3D"font-fam=
+ily: Georgia; line-height: 19.515625px; font-size: 12pt;"><br></span></div>=
+<div><span style=3D"font-family: Georgia; line-height: 19.515625px; font-si=
+ze: 12pt;">The process described above is *mostly* correct. But the inferen=
+ce is where I disagree.</span></div><div><span
+ style=3D"font-family: Georg=
+ia; line-height: 19.515625px; font-size: 12pt;"><br></span></div><div><span=
+ style=3D"font-family: Georgia; line-height: 19.515625px;">While the starti=
+ng stage does involve creating and visualizing forms based on archetypal fo=
+rms, that how ever does not mean that these forms do not have any independe=
+nt existence. There is Mahakali with a form of Mahakali before Ramakrishna =
+was born, infact why just Ramakrishna rather even before this earth was cre=
+ated, and that form will exist even if by a cosmic chance suddenly every si=
+ngle human being is destroyed from earth. </span></div><div><span styl=
+e=3D"font-family: Georgia; line-height: 19.515625px;"><br></span></div><div=
+><span style=3D"font-family: Georgia; line-height: 19.515625px;">These are =
+Universal forms. They existed before men came on earth and will exist after=
+ that too. Mostly sadhakas start with a form *they create* based on one of =
+the archetypal forms and eventually one day this
+ self-created form merges =
+into the Universal form of the Devata. </span></div><div><span style=
+=3D"font-family: Georgia; line-height: 19.515625px;"><br></span></div><div>=
+<<<span style=3D"font-family: Georgia; line-height: 19.515625px; font=
+-size: 12pt;">=E2=80=9CAham Brahmam asmi=E2=80=9D and =E2=80=9Ctat twam asi=
+=E2=80=9D are the two famous sayings from the Vedas.>></span></div><d=
+iv><span style=3D"font-family: Georgia; line-height: 19.515625px; font-size=
+: 12pt;"><br></span></div><div><span style=3D"font-family: Georgia; line-he=
+ight: 19.515625px; font-size: 12pt;">These two are great mahavakya and very=
+ relevant. But IMHO they become complete when taken with the third Mahavaky=
+a - which is unfortunately often ignored in practice - Sarvam Khalvidam Bra=
+hman (*everything* is Brahman). </span></div><div><span style=3D"font-=
+family: Georgia; line-height: 19.515625px; font-size: 12pt;"><br></span></d=
+iv><div><span style=3D"font-family: Georgia; line-height: 19.515625px;">It =
+is
+ absolutely true that one need not worship a Devata for self-realization=
+, (a Devata can very well take one to self-realization or atmagyan or whate=
+ver term one likes).  That is not my contention in this write-up. But =
+the inferences or descriptions are not totally complete or correct in every=
+ aspect IMO.</span></div><div><span style=3D"font-family: Georgia; line-hei=
+ght: 19.515625px;"><br></span></div><div><span style=3D"font-family: Georgi=
+a; line-height: 19.515625px;">The Sufis, almost every single one of them, e=
+ventually start focusing on the Divine Light the see. Technically that is a=
+ form too - anything that vibrates and is perceivable, within or without, h=
+as a form. They do not worship the Devatas we Hindus worship, which is perf=
+ectly fine. But that does not mean that the Devatas have no independent exi=
+stence of their own or are a creation of a human mind! :)</span></div><div>=
+<span style=3D"font-family: Georgia; line-height:
+ 19.515625px;"><br></span=
+></div><div><span style=3D"font-family: Georgia; line-height: 19.515625px;"=
+>Just exploring the edges of this write-up!</span></div><div><span style=3D=
+"font-family: Georgia; line-height: 19.515625px;"><br></span></div><div><sp=
+an style=3D"font-family: Georgia; line-height: 19.515625px;">-Regards</span=
+></div><div><span style=3D"font-family: Georgia; line-height: 19.515625px;"=
+> Rajarshi</span></div><div><br></div><div><span style=3D"font-family:=
+ Georgia; line-height: 19.515625px;"><br></span></div><div><br></div><div><=
+span style=3D"font-family: 'times new roman', 'new york', times, serif;"><b=
+r></span></div><div><i><b><div class=3D"MsoNormal"><span style=3D"font-fami=
+ly: 'times new roman', 'new york', times, serif;"><b><b></b></b><span class=
+=3D"yui_3_2_0_2_134243527249950">I have a hundred lives before me yet/ To g=
+rasp thee in, O spirit ethereal, /</span> Be sure I will with heart insatia=
+te/ Pursue thee like a hunter through them
+ all.</span><b><span style=3D"fo=
+nt-family: 'times new roman', 'new york', times, serif;"> -Sri Aurobindo</s=
+pan><span class=3D"yui_3_2_0_2_134243506227946 yui_3_2_0_2_134243527249952 =
+yui_3_2_0_2_137332740501958" style=3D"font-size: 10pt; color: navy; font-fa=
+mily: Verdana;"></span></b></div></b></i></div><div class=3D"yahoo_quoted" =
+style=3D"display: block;"> <br> <br> <div style=3D"font-family: HelveticaNe=
+ue, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; font-s=
+ize: 12pt;"> <div style=3D"font-family: 'times new roman', 'new york', time=
+s, serif; font-size: 12pt;"> <div dir=3D"ltr"> <font size=3D"2" face=3D"Ari=
+al"> On Tuesday, 7 January 2014 3:31 PM, "aks_day@..." <aks_day@ya=
+hoo.com> wrote:<br> </font> </div>  <div class=3D"y_msg_container"><div =
+id=3D"yiv9216655076"><div>
+<span style=3D"display:none;"> </span>
+
+
+<d=
+iv id=3D"yiv9216655076ygrp-mlmsg" style=3D"">
+  <div id=3D"yiv9216655076ygr=
+p-msg" style=3D"">
+
+
+    <div id=3D"yiv9216655076ygrp-text">
+      
+      
+=
+      <div>Hi Rajarshi, <br clear=3D"none"></div><div style=3D"color: rgb(0=
+, 0, 0); font-size: 13px; font-family: arial, helvetica, clean, sans-serif;=
+ background-color: transparent; font-style: normal;"><br clear=3D"none"></d=
+iv><div style=3D"color: rgb(0, 0, 0); font-size: 13px; font-family: arial, =
+helvetica, clean, sans-serif; background-color: transparent; font-style: no=
+rmal;">Please read next few paras where he has explained the manifestation =
+of ishta as a necessary step to reach final goal.</div><div style=3D"color:=
+ rgb(0, 0, 0); font-size: 13px; font-family: arial, helvetica, clean, sans-=
+serif; background-color: transparent; font-style: normal;"><br clear=3D"non=
+e"></div><div style=3D"color: rgb(0, 0, 0); font-size: 13px; font-family: a=
+rial, helvetica, clean, sans-serif; background-color: transparent; font-sty=
+le: normal;"><br clear=3D"none"></div>
+
+    </div>
+     
+
+    
+    <div sty=
+le=3D"color:#fff;height:0;"></div></div>
+
+
+</div><style type=3D"text/css">
+=
+#yiv9216655076 #yiv9216655076 --
+  #yiv9216655076ygrp-mkp {
+border:1px soli=
+d #d8d8d8;font-family:Arial;margin:10px 0;padding:0 10px;}
+
+#yiv9216655076 =
+#yiv9216655076ygrp-mkp hr {
+border:1px solid #d8d8d8;}
+
+#yiv9216655076 #yiv=
+9216655076ygrp-mkp #yiv9216655076hd {
+color:#628c2a;font-size:85%;font-weig=
+ht:700;line-height:122%;margin:10px 0;}
+
+#yiv9216655076 #yiv9216655076ygrp-=
+mkp #yiv9216655076ads {
+margin-bottom:10px;}
+
+#yiv9216655076 #yiv9216655076=
+ygrp-mkp .yiv9216655076ad {
+padding:0 0;}
+
+#yiv9216655076 #yiv9216655076ygr=
+p-mkp .yiv9216655076ad p {
+margin:0;}
+
+#yiv9216655076 #yiv9216655076ygrp-mk=
+p .yiv9216655076ad a {
+color:#0000ff;text-decoration:none;}
+#yiv9216655076 =
+#yiv9216655076ygrp-sponsor #yiv9216655076ygrp-lc {
+font-family:Arial;}
+
+#yi=
+v9216655076 #yiv9216655076ygrp-sponsor #yiv9216655076ygrp-lc #yiv9216655076=
+hd {
+margin:10px 0px;font-weight:700;font-size:78%;line-height:122%;}
+
+#yiv=
+9216655076 #yiv9216655076ygrp-sponsor #yiv9216655076ygrp-lc .yiv9216655076a=
+d {
+margin-bottom:10px;padding:0 0;}
+
+#yiv9216655076 #yiv9216655076actions =
+{
+font-family:Verdana;font-size:11px;padding:10px 0;}
+
+#yiv9216655076 #yiv9=
+216655076activity {
+background-color:#e0ecee;float:left;font-family:Verdana=
+;font-size:10px;padding:10px;}
+
+#yiv9216655076 #yiv9216655076activity span =
+{
+font-weight:700;}
+
+#yiv9216655076 #yiv9216655076activity span:first-child=
+ {
+text-transform:uppercase;}
+
+#yiv9216655076 #yiv9216655076activity span a=
+ {
+color:#5085b6;text-decoration:none;}
+
+#yiv9216655076 #yiv9216655076activ=
+ity span span {
+color:#ff7900;}
+
+#yiv9216655076 #yiv9216655076activity span=
+ .yiv9216655076underline {
+text-decoration:underline;}
+
+#yiv9216655076 .yiv=
+9216655076attach {
+clear:both;display:table;font-family:Arial;font-size:12p=
+x;padding:10px 0;width:400px;}
+
+#yiv9216655076 .yiv9216655076attach div a {=
+
+text-decoration:none;}
+
+#yiv9216655076 .yiv9216655076attach img {
+border:n=
+one;padding-right:5px;}
+
+#yiv9216655076 .yiv9216655076attach label {
+displa=
+y:block;margin-bottom:5px;}
+
+#yiv9216655076 .yiv9216655076attach label a {
+=
+text-decoration:none;}
+
+#yiv9216655076 blockquote {
+margin:0 0 0 4px;}
+
+#yi=
+v9216655076 .yiv9216655076bold {
+font-family:Arial;font-size:13px;font-weig=
+ht:700;}
+
+#yiv9216655076 .yiv9216655076bold a {
+text-decoration:none;}
+
+#yi=
+v9216655076 dd.yiv9216655076last p a {
+font-family:Verdana;font-weight:700;=
+}
+
+#yiv9216655076 dd.yiv9216655076last p span {
+margin-right:10px;font-fami=
+ly:Verdana;font-weight:700;}
+
+#yiv9216655076 dd.yiv9216655076last p span.yi=
+v9216655076yshortcuts {
+margin-right:0;}
+
+#yiv9216655076 div.yiv9216655076a=
+ttach-table div div a {
+text-decoration:none;}
+
+#yiv9216655076 div.yiv92166=
+55076attach-table {
+width:400px;}
+
+#yiv9216655076 div.yiv9216655076file-tit=
+le a, #yiv9216655076 div.yiv9216655076file-title a:active, #yiv9216655076 d=
+iv.yiv9216655076file-title a:hover, #yiv9216655076 div.yiv9216655076file-ti=
+tle a:visited {
+text-decoration:none;}
+
+#yiv9216655076 div.yiv9216655076pho=
+to-title a, #yiv9216655076 div.yiv9216655076photo-title a:active, #yiv92166=
+55076 div.yiv9216655076photo-title a:hover, #yiv9216655076 div.yiv921665507=
+6photo-title a:visited {
+text-decoration:none;}
+
+#yiv9216655076 div#yiv9216=
+655076ygrp-mlmsg #yiv9216655076ygrp-msg p a span.yiv9216655076yshortcuts {
+=
+font-family:Verdana;font-size:10px;font-weight:normal;}
+
+#yiv9216655076 .yi=
+v9216655076green {
+color:#628c2a;}
+
+#yiv9216655076 .yiv9216655076MsoNormal =
+{
+margin:0 0 0 0;}
+
+#yiv9216655076 o {
+font-size:0;}
+
+#yiv9216655076 #yiv92=
+16655076photos div {
+float:left;width:72px;}
+
+#yiv9216655076 #yiv9216655076=
+photos div div {
+border:1px solid #666666;height:62px;overflow:hidden;width=
+:62px;}
+
+#yiv9216655076 #yiv9216655076photos div label {
+color:#666666;font=
+-size:10px;overflow:hidden;text-align:center;white-space:nowrap;width:64px;=
+}
+
+#yiv9216655076 #yiv9216655076reco-category {
+font-size:77%;}
+
+#yiv921665=
+5076 #yiv9216655076reco-desc {
+font-size:77%;}
+
+#yiv9216655076 .yiv92166550=
+76replbq {
+margin:4px;}
+
+#yiv9216655076 #yiv9216655076ygrp-actbar div a:fir=
+st-child {
+margin-right:2px;padding-right:5px;}
+
+#yiv9216655076 #yiv9216655=
+076ygrp-mlmsg {
+font-size:13px;font-family:Arial, helvetica, clean, sans-se=
+rif;}
+
+#yiv9216655076 #yiv9216655076ygrp-mlmsg table {
+font-size:inherit;fo=
+nt:100%;}
+
+#yiv9216655076 #yiv9216655076ygrp-mlmsg select, #yiv9216655076 i=
+nput, #yiv9216655076 textarea {
+font:99% Arial, Helvetica, clean, sans-seri=
+f;}
+
+#yiv9216655076 #yiv9216655076ygrp-mlmsg pre, #yiv9216655076 code {
+fon=
+t:115% monospace;}
+
+#yiv9216655076 #yiv9216655076ygrp-mlmsg * {
+line-height=
+:1.22em;}
+
+#yiv9216655076 #yiv9216655076ygrp-mlmsg #yiv9216655076logo {
+pad=
+ding-bottom:10px;}
+
+
+#yiv9216655076 #yiv9216655076ygrp-msg p a {
+font-famil=
+y:Verdana;}
+
+#yiv9216655076 #yiv9216655076ygrp-msg p#yiv9216655076attach-co=
+unt span {
+color:#1E66AE;font-weight:700;}
+
+#yiv9216655076 #yiv9216655076yg=
+rp-reco #yiv9216655076reco-head {
+color:#ff7900;font-weight:700;}
+
+#yiv9216=
+655076 #yiv9216655076ygrp-reco {
+margin-bottom:20px;padding:0px;}
+
+#yiv9216=
+655076 #yiv9216655076ygrp-sponsor #yiv9216655076ov li a {
+font-size:130%;te=
+xt-decoration:none;}
+
+#yiv9216655076 #yiv9216655076ygrp-sponsor #yiv9216655=
+076ov li {
+font-size:77%;list-style-type:square;padding:6px 0;}
+
+#yiv921665=
+5076 #yiv9216655076ygrp-sponsor #yiv9216655076ov ul {
+margin:0;padding:0 0 =
+0 8px;}
+
+#yiv9216655076 #yiv9216655076ygrp-text {
+font-family:Georgia;}
+
+#y=
+iv9216655076 #yiv9216655076ygrp-text p {
+margin:0 0 1em 0;}
+
+#yiv9216655076=
+ #yiv9216655076ygrp-text tt {
+font-size:120%;}
+
+#yiv9216655076 #yiv92166550=
+76ygrp-vital ul li:last-child {
+border-right:none !important;
+}
+#yiv9216655=
+076 
+</style></div><br><br></div>  </div> </div>  </div> </div></body></htm=
+l>
+---2020808392-79639157-1389091510=:96503--
+
+

@@ -1,0 +1,558 @@
+From rajarshi14@...  Wed Feb 17 11:07:43 2016
+Return-Path: <rajarshi14@...>
+X-Sender: rajarshi14@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 18256 invoked by uid 102); 19 Sep 2014 16:22:56 -0000
+X-Received: from unknown (HELO mtaq6.grp.bf1.yahoo.com) (10.193.84.37)
+  by m8.grp.bf1.yahoo.com with SMTP; 19 Sep 2014 16:22:56 -0000
+X-Received: (qmail 1312 invoked from network); 19 Sep 2014 16:22:55 -0000
+X-Received: from unknown (HELO nm20-vm2.bullet.mail.sg3.yahoo.com) (98.138.215.82)
+  by mtaq6.grp.bf1.yahoo.com with SMTP; 19 Sep 2014 16:22:55 -0000
+X-Received: from [106.10.166.120] by nm20.bullet.mail.sg3.yahoo.com with NNFMP; 19 Sep 2014 16:22:53 -0000
+X-Received: from [106.10.151.186] by tm9.bullet.mail.sg3.yahoo.com with NNFMP; 19 Sep 2014 16:22:53 -0000
+X-Received: from [127.0.0.1] by omp1012.mail.sg3.yahoo.com with NNFMP; 19 Sep 2014 16:22:53 -0000
+X-Yahoo-Newman-Property: ymail-4
+X-Yahoo-Newman-Id: 2848.56782.bm@...
+X-Received: (qmail 48533 invoked by uid 60001); 19 Sep 2014 16:22:52 -0000
+X-YMail-OSG: LDzEM10VM1mZEwRi4lLK57Wer1.ntRcQ1MT16WGQQXthe85
+ _u0BewotXXUe3CJW2crOEBuGgE5OBRnS9F3kYKvSdXySRNAMYUUIVp9CYfH8
+ ktAuXOaGfSgZ5TvAEtacakaLd6HkdnAYZ2v.6J14suIOVWnymJecfCZ_Wy0F
+ DcQsIXfIuE6VUUPjHhGp_umVqjd6pbfCYwjDWK_VMWru3HVACTN5brmqeg8b
+ YSrUyTmTCkuFa7OWyF8e1KRynG0iRnZSTfx8_U.xvriRBtMYDYqJxUoclsuD
+ RfOt10pvoKqa_VR47iwkBz6teGW7KDoY5Hw0RATOnSd1MhrY7SHJOoiv.wvF
+ HQxtxb74g5ODdJsidWuDqFp8mYRnOn7vygLl7CdbG1Hu974.9OtqeqLpOcuP
+ d5x4_bicjJyMBGUhQiuArAcUGTCChx.yQeFawqMwe7B4CFCJ9emRIzJ88GXd
+ 4LucRXr3p.4W2bI7Z8wkTAMMt.y6M8pWp6ZSn3kp9dynwKxfcxZ6b4uDdPHV
+ QZH1.rcVrhaUU3_hg50SnENBhM7bPKMQY4LfhbC8LljzDaDtxV6kfljK6Bbs
+ 0gxHwJOa1lMivNbQLKuIx7Ud8zB81J38yMP0LYAgKdtcWVfPte3qeHsjLtws
+ Q349yn.HGByzVFs_rbf_QSPjL455tEfWdb9lD6m8zn6OwSqMRtt5bO9hiVzz
+ oj0qd15MOdaibwTDHcQfo5azAT8yZT0oomeEXAEDUyrhUncYg_UM47Q_QvlF
+ bN3GR_TwuLMm3wBPNOEtXQGBnhdpMXEuUQ5GUHo2Zv9ByQQOTp.iSdag0qVT
+ M8qrH3D30sxuNhOQ6UPxOYtuOZ0GW7egumdmskUTl3uD8hS1rRzFwrihtx6K
+ 5R8ikwfsVas65x.CgH9C0Lk8k1tXIc4mEcO51Ur8lvgUGSaEvyGVVz8TzLKj
+ dLTCOnzrKzifBmu3V_0M2rUO_8DQ5dUmQAsXqX4lvGhZrf_RL7K2ct8COxQF
+ 0LIA5GquaZK5c19tM7t3pOFmhKhLHT_AhhudrpYWJRXm9Y4MOB3NBjJ0a2U_
+ MJm03al4UOrceGaGcFB7q23k7cTD4wuuCQ6fD6RIHyBXgE1AJYLEhv9eQXty
+ CbHo6daVmGl7cX_B3ALMsayXYtZH3O6KX.pHh0e7gbmeWq7VlF8wIPSXGzAO
+ T5CATFKB_y8xnIKTPJ8VXpagOM.Ri1IMYHK7cqRjKdCmS4T93_aeEFocUCd3
+ ID8.imrw6_wuTsK8FOpP2xQeivdnaRR_1MoAwHDuuoMV2VJAtyZ6NVOqLgSr
+ Ncd6rhnO8tBBLTSDuVBcJZV9r2mCkYJ6YP9cVum4rxsmIWhZC0yNwFm9veDo
+ pgsklrqeHI0rEnxVlFYDCd6yw8Pvz_yScrRPVCdOfhmVZc3QwQbS9sCwG9Bw
+ y
+X-Received: from [103.226.241.47] by web190903.mail.sg3.yahoo.com via HTTP; Sat, 20 Sep 2014 00:22:52 SGT
+X-Rocket-MIMEInfo: 002.001,CgogSW50ZXJlc3RpbmcgY29udmVyc2F0aW9uIQoKQSBmZXcgeWVhcnMgYWdvIEkgd2FzIGhhdmluZyBhIHNpbWlsYXIgY29udmVyc2F0aW9uIHdpdGggYW5vdGhlciBnZW50bGVtYW4gLSBhIGdlbmV0aWNpc3QgLSBvbiBjaHJvbW9zb21lcyBhbmQgd2FzIGtlZW4gdG8gdW5kZXJzdGFuZCB3aHkgdGhpcyBtZXRob2Qgb2YgdHJhbnNmZXJyaW5nIG9mIGZlbWFsZSBnb3RyYSB0byBtYWxlcyBwb3N0IG1hcnJpYWdlIHdhcyBwdXQgaW4gcGxhY2UuIFRoZXJlIGFyZSB0d28gdGhpbmdzIGEpIHRoZSBjaGFuZ2Ugb2YBMAEBAQE-
+X-Mailer: YahooMailWebService/0.8.203.696
+References: <1410805543.12530.YahooMailNeo@...> <1410807517.94078.YahooMailNeo@...> <1411010217.52587.YahooMailNeo@...>	<1411090925.16839.YahooMailNeo@...>	<lvh2ov+1lfe7r0@...>	<lvh9n4+g4on0u@...>	<lvhark+4vvfhc@...> <lvhb8c+1lg562h@...>
+Message-ID: <1411143772.18866.YahooMailNeo@...>
+Date: Sat, 20 Sep 2014 00:22:52 +0800
+To: "vedic-wisdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com>
+In-Reply-To: <lvhb8c+1lg562h@...>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="-1293697098-1102626312-1411143772=:18866"
+X-Originating-IP: 106.10.149.129
+Reply-To: rajarshi nandy <rajarshi14@...>
+Subject: Re: [vedic-wisdom] Re: Tarpana - Clarifications.
+X-Yahoo-Group-Post: member; u=216162964; y=2XXVmHFovz5tzybixB5tYtQmpbOXHu2VoR4nSaNVseArtAr7_A
+X-Yahoo-Profile: rajarshi14
+From: rajarshi nandy <rajarshi14@...>
+
+
+---1293697098-1102626312-1411143772=:18866
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+
+
+ Interesting conversation!
+
+A few years ago I was having a similar conver=
+sation with another gentleman - a geneticist - on chromosomes and was keen =
+to understand why this method of transferring of female gotra to males post=
+ marriage was put in place. There are two things a) the change of gotra of =
+women after marriage b) restriction of marriage within the gotra.
+
+But befo=
+re all this we must explore how did the present system of marriage come int=
+o place. From a Rishi named Swetaketu who made the rule that one man (leavi=
+ng kings aside) would marry one woman and they would be a couple for life. =
+Before the time of Swetaketu things were laissez faire, with no concept of =
+a binding contract as a marriage the way we define it today. Offsprings and=
+ their upbringing was taken care of by women. Society looked at things quit=
+e differently than we do today. Naturally in such a setting it maybe unlike=
+ly that such a gotra system existed, or if they did, it could have probably=
+ meant a spiritual group rather than a physical classification of lineage.
+=
+
+Now if it is a spiritual group, that is, the people who are linked by the =
+knowledge they gained from one of teh root gotra rishis, then we have anoth=
+er example of such a spiritual group that came into existence from the Tant=
+ras. They called it the KulA, the lineage of the disciples of a particular =
+Kaula who are linked by the common thread of knowledge and development. Why=
+ did the Tantras develop the system of Kaula? Possibly because by the time =
+of the KaliYuga we were so far off from the time of the Rishis that the spe=
+cific effects of the knwoledge, passed on from the Rishi to his group had b=
+ecome extremely weak. I am sure the knowledge of the Rishis are still there=
+ but most did not have the ability to truthfully access them anymore, and n=
+ame of the gotra rishis merely became a part of tradition less understood a=
+nd limited only to practical usage during marriage ceremonies.
+
+The second =
+scenario would be that at some point for some reason - before the start of =
+the Kali Sandhya  and Mahabharata - for some reasons various knowledge syst=
+ems were diluted and/or depopulated and then these root Rishis were asked t=
+o start their physical lineages, giving them their names, since Rishis were=
+ the purest of beings. If that is the case, even then, the gap between that=
+ time and today is so vast  and so many millions of generations have passed=
+ that the specific physical influence that is created by the energy of the =
+Rishis being transmited also got lost and muddied. The idea of no marriage =
+inside a gotra has become of no practical biological significance at all, e=
+xcept for its traditional value. 
+
+So eventually the idea of the gotra beca=
+me relevant in transmission of a patriarchal marriage system, once marriage=
+s become the norm. Why patriarchy? There could be many simultaneous reasons=
+ for this but one of them was that it was easier to keep track of the immed=
+iate parentage in such a child. For the same reason polygamy was allowed bu=
+t polyandry frowned upon and generally discouraged. In a polyandrous system=
+ it is difficult to know the exact parents of a child, which is not the cas=
+e in a polygamous arrangement. Of course there were other socio-cultural re=
+asons for this too, not all of which maybe beyond questions or with a great=
+er aim in sight. But that is the another discussion.
+
+All these are my opin=
+ions, feel free to disagree. Each one has to find his own resolution of suc=
+h things. Having said that worship of Rishis - any Rishis of gotra or no go=
+tra - can be seriously beneficial. It takes time, it works slowly - they ra=
+rely ever appear so easily - but their grace causes sure effects over large=
+ periods of time if the worship is done with sincerity and patience.
+
+One g=
+ood idea is to worship the Rishi who is the originator of a particular sadh=
+ana. Every sadhana of every devata is somehow linked to some Rishi or the o=
+ther. It is a nice idea to try and find out the link - from scriptures - an=
+d then worship that Rishi who has a link to the specific sadhana being done=
+. Of course the link is not always easy to find, but with persistence and p=
+atience nothing is impossible!
+
+-Regards
+ Rajarshi
+
+
+
+I have a hundred live=
+s before me yet/ To grasp thee in, O spirit ethereal, / Be sure I will with=
+ heart insatiate/ Pursue thee like a hunter through them all.-Sri Aurobindo=
+
+
+
+On Friday, 19 September 2014 7:01 PM, "vsra_prasad@... [vedic-wisd=
+om]" <vedic-wisdom@yahoogroups.com> wrote:
+ 
+
+
+  
+I was mentioning about th=
+e statement in both the articles about "Y"chromosome being passed to males =
+only !
+
+Anyways, chromosomes was Narasimha's and your point. I would simply=
+ go with Sadhu and Sastra.
+
+rAma
+
+---1293697098-1102626312-1411143772=:18866
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"color:#000; background-color:#fff; font-family:He=
+lveticaNeue, Helvetica Neue, Helvetica, Arial, Lucida Grande, Sans-Serif;fo=
+nt-size:12px"><div class=3D"" style=3D""><span class=3D"" style=3D""><br st=
+yle=3D""></span></div><div class=3D"" style=3D""></div><div class=3D"" styl=
+e=3D""> Interesting conversation!</div><div class=3D"" style=3D""><br =
+class=3D"" style=3D""></div><div class=3D"" style=3D"">A few years ago I wa=
+s having a similar conversation with another gentleman - a geneticist - on =
+chromosomes and was keen to understand why this method of transferring of f=
+emale gotra to males post marriage was put in place. There are two things a=
+) the change of gotra of women after marriage b) restriction of marriage wi=
+thin the gotra.</div><div class=3D"" style=3D""><br class=3D"" style=3D""><=
+/div><div class=3D"" style=3D"">But before all this we must explore how did=
+ the present system of marriage come into place. From a Rishi named Swetake=
+tu who made the rule that one man
+ (leaving kings aside) would marry one wo=
+man and they would be a couple for life. Before the time of Swetaketu thing=
+s were laissez faire, with no concept of a binding contract as a marriage t=
+he way we define it today. Offsprings and their upbringing was taken care o=
+f by women. Society looked at things quite differently than we do today. Na=
+turally in such a setting it maybe unlikely that such a gotra system existe=
+d, or if they did, it could have probably meant a spiritual group rather th=
+an a physical classification of lineage.</div><div class=3D"" style=3D""><b=
+r></div><div class=3D"" style=3D"">Now if it is a spiritual group, that is,=
+ the people who are linked by the knowledge they gained from one of teh roo=
+t gotra rishis, then we have another example of such a spiritual group that=
+ came into existence from the Tantras. They called it the KulA, the lineage=
+ of the disciples of a particular Kaula who are linked by the common thread=
+ of knowledge and development. Why
+ did the Tantras develop the system of K=
+aula? Possibly because by the time of the KaliYuga we were so far off from =
+the time of the Rishis that the specific effects of the knwoledge, passed o=
+n from the Rishi to his group had become extremely weak. I am sure the know=
+ledge of the Rishis are still there but most did not have the ability to tr=
+uthfully access them anymore, and name of the gotra rishis merely became a =
+part of tradition less understood and limited only to practical usage durin=
+g marriage ceremonies.</div><div class=3D"" style=3D""><br></div><div class=
+=3D"" style=3D"">The second scenario would be that at some point for some r=
+eason - before the start of the Kali Sandhya  and Mahabharata - for so=
+me reasons various knowledge systems were diluted and/or depopulated and th=
+en these root Rishis were asked to start their physical lineages, giving th=
+em their names, since Rishis were the purest of beings. If that is the case=
+, even then, the gap between that
+ time and today is so vast  and so m=
+any millions of generations have passed that the specific physical influenc=
+e that is created by the energy of the Rishis being transmited also got los=
+t and muddied. The idea of no marriage inside a gotra has become of no prac=
+tical biological significance at all, except for its traditional value.&nbs=
+p;</div><div class=3D"" style=3D""><br></div><div class=3D"" style=3D"">So =
+eventually the idea of the gotra became relevant in transmission of a patri=
+archal marriage system, once marriages become the norm. Why patriarchy? The=
+re could be many simultaneous reasons for this but one of them was that it =
+was easier to keep track of the immediate parentage in such a child. For th=
+e same reason polygamy was allowed but polyandry frowned upon and generally=
+ discouraged. In a polyandrous system it is difficult to know the exact par=
+ents of a child, which is not the case in a polygamous arrangement. Of cour=
+se there were other socio-cultural
+ reasons for this too, not all of which =
+maybe beyond questions or with a greater aim in sight. But that is the anot=
+her discussion.</div><div class=3D"" style=3D""><br></div><div class=3D"" s=
+tyle=3D"">All these are my opinions, feel free to disagree. Each one has to=
+ find his own resolution of such things. Having said that worship of Rishis=
+ - any Rishis of gotra or no gotra - can be seriously beneficial. It takes =
+time, it works slowly - they rarely ever appear so easily - but their grace=
+ causes sure effects over large periods of time if the worship is done with=
+ sincerity and patience.</div><div class=3D"" style=3D""><br></div><div cla=
+ss=3D"" style=3D"">One good idea is to worship the Rishi who is the origina=
+tor of a particular sadhana. Every sadhana of every devata is somehow linke=
+d to some Rishi or the other. It is a nice idea to try and find out the lin=
+k - from scriptures - and then worship that Rishi who has a link to the spe=
+cific sadhana being done. Of course the link
+ is not always easy to find, b=
+ut with persistence and patience nothing is impossible!</div><div class=3D"=
+" style=3D""><br></div><div class=3D"" style=3D"">-Regards</div><div class=
+=3D"" style=3D""> Rajarshi</div><div class=3D"" style=3D""><br></div><=
+div class=3D"" style=3D""><br></div><div class=3D"" style=3D""><span style=
+=3D"font-family:times new roman, new york, times, serif;" class=3D""><br cl=
+ass=3D"" style=3D""></span></div><div class=3D"" style=3D""><i class=3D"" s=
+tyle=3D""><b class=3D"" style=3D""><div class=3D"" style=3D""><span style=
+=3D"font-family:times new roman, new york, times, serif;" class=3D""><b cla=
+ss=3D"" style=3D""><span class=3D"" style=3D"font-size:16px;"><b class=3D""=
+ style=3D""><span class=3D"" style=3D"color:rgb(153, 153, 153);"></span></b=
+></span></b><span class=3D"" style=3D"">I have a hundred lives before me ye=
+t/ To grasp thee in, O spirit ethereal, /</span> Be sure I will with heart =
+insatiate/ Pursue thee like a hunter through them all.</span><b class=3D"" =
+style=3D""><span style=3D"font-family:times
+ new roman, new york, times, se=
+rif;" class=3D""> -Sri Aurobindo</span><span class=3D"" style=3D"FONT-SIZE:=
+10pt;COLOR:navy;FONT-FAMILY:Verdana;"></span></b></div></b></i></div> <div =
+class=3D"qtdSeparateBR"><br><br></div><div class=3D"yahoo_quoted" style=3D"=
+display: block;"> <div style=3D"font-family: HelveticaNeue, Helvetica Neue,=
+ Helvetica, Arial, Lucida Grande, Sans-Serif; font-size: 12px;" class=3D"">=
+ <div style=3D"font-family: HelveticaNeue, Helvetica Neue, Helvetica, Arial=
+, Lucida Grande, Sans-Serif; font-size: 12pt;" class=3D""> <div dir=3D"ltr"=
+ class=3D"" style=3D""> <font size=3D"2" face=3D"Arial" class=3D"" style=3D=
+""> On Friday, 19 September 2014 7:01 PM, "vsra_prasad@... [vedic-wis=
+dom]" <vedic-wisdom@yahoogroups.com> wrote:<br class=3D"" style=3D"">=
+ </font> </div>  <br class=3D"" style=3D""><br class=3D"" style=3D""> <div =
+class=3D"" style=3D""><div id=3D"yiv5581482729" class=3D"" style=3D""><div =
+class=3D"" style=3D"">
+<span style=3D"display:none;" class=3D""> </spa=
+n>
+
+
+<div id=3D"yiv5581482729ygrp-mlmsg" style=3D"" class=3D"">
+  <div id=
+=3D"yiv5581482729ygrp-msg" style=3D"" class=3D"">
+
+
+    <div id=3D"yiv55814=
+82729ygrp-text" class=3D"" style=3D"">
+      
+      
+      <div class=3D"" =
+style=3D"">I was mentioning about the statement in both the articles about =
+"Y"chromosome being passed to males only !</div><div class=3D"" style=3D"">=
+<br clear=3D"none" class=3D"" style=3D""></div><div class=3D"" style=3D"">A=
+nyways, chromosomes was Narasimha's and your point. I would simply go with =
+Sadhu and Sastra.</div><div class=3D"" style=3D""><br clear=3D"none" class=
+=3D"" style=3D""></div><div class=3D"" style=3D"">rAma</div>
+
+    </div>
+  =
+   
+
+    
+    <div style=3D"color:#fff;height:0;" class=3D""></div></div>
+
+=
+
+</div><style type=3D"text/css" class=3D"" style=3D"">
+#yiv5581482729 #yiv5=
+581482729 --
+  #yiv5581482729ygrp-mkp {
+border:1px solid #d8d8d8;font-famil=
+y:Arial;margin:10px 0;padding:0 10px;}
+
+#yiv5581482729 #yiv5581482729ygrp-m=
+kp hr {
+border:1px solid #d8d8d8;}
+
+#yiv5581482729 #yiv5581482729ygrp-mkp #=
+yiv5581482729hd {
+color:#628c2a;font-size:85%;font-weight:700;line-height:1=
+22%;margin:10px 0;}
+
+#yiv5581482729 #yiv5581482729ygrp-mkp #yiv5581482729ad=
+s {
+margin-bottom:10px;}
+
+#yiv5581482729 #yiv5581482729ygrp-mkp .yiv5581482=
+729ad {
+padding:0 0;}
+
+#yiv5581482729 #yiv5581482729ygrp-mkp .yiv5581482729=
+ad p {
+margin:0;}
+
+#yiv5581482729 #yiv5581482729ygrp-mkp .yiv5581482729ad a=
+ {
+color:#0000ff;text-decoration:none;}
+#yiv5581482729 #yiv5581482729ygrp-s=
+ponsor #yiv5581482729ygrp-lc {
+font-family:Arial;}
+
+#yiv5581482729 #yiv5581=
+482729ygrp-sponsor #yiv5581482729ygrp-lc #yiv5581482729hd {
+margin:10px 0px=
+;font-weight:700;font-size:78%;line-height:122%;}
+
+#yiv5581482729 #yiv55814=
+82729ygrp-sponsor #yiv5581482729ygrp-lc .yiv5581482729ad {
+margin-bottom:10=
+px;padding:0 0;}
+
+#yiv5581482729 #yiv5581482729actions {
+font-family:Verdan=
+a;font-size:11px;padding:10px 0;}
+
+#yiv5581482729 #yiv5581482729activity {
+=
+background-color:#e0ecee;float:left;font-family:Verdana;font-size:10px;padd=
+ing:10px;}
+
+#yiv5581482729 #yiv5581482729activity span {
+font-weight:700;}
+=
+
+#yiv5581482729 #yiv5581482729activity span:first-child {
+text-transform:up=
+percase;}
+
+#yiv5581482729 #yiv5581482729activity span a {
+color:#5085b6;tex=
+t-decoration:none;}
+
+#yiv5581482729 #yiv5581482729activity span span {
+colo=
+r:#ff7900;}
+
+#yiv5581482729 #yiv5581482729activity span .yiv5581482729under=
+line {
+text-decoration:underline;}
+
+#yiv5581482729 .yiv5581482729attach {
+c=
+lear:both;display:table;font-family:Arial;font-size:12px;padding:10px 0;wid=
+th:400px;}
+
+#yiv5581482729 .yiv5581482729attach div a {
+text-decoration:non=
+e;}
+
+#yiv5581482729 .yiv5581482729attach img {
+border:none;padding-right:5p=
+x;}
+
+#yiv5581482729 .yiv5581482729attach label {
+display:block;margin-botto=
+m:5px;}
+
+#yiv5581482729 .yiv5581482729attach label a {
+text-decoration:none=
+;}
+
+#yiv5581482729 blockquote {
+margin:0 0 0 4px;}
+
+#yiv5581482729 .yiv5581=
+482729bold {
+font-family:Arial;font-size:13px;font-weight:700;}
+
+#yiv558148=
+2729 .yiv5581482729bold a {
+text-decoration:none;}
+
+#yiv5581482729 dd.yiv55=
+81482729last p a {
+font-family:Verdana;font-weight:700;}
+
+#yiv5581482729 dd=
+.yiv5581482729last p span {
+margin-right:10px;font-family:Verdana;font-weig=
+ht:700;}
+
+#yiv5581482729 dd.yiv5581482729last p span.yiv5581482729yshortcut=
+s {
+margin-right:0;}
+
+#yiv5581482729 div.yiv5581482729attach-table div div =
+a {
+text-decoration:none;}
+
+#yiv5581482729 div.yiv5581482729attach-table {
+=
+width:400px;}
+
+#yiv5581482729 div.yiv5581482729file-title a, #yiv5581482729=
+ div.yiv5581482729file-title a:active, #yiv5581482729 div.yiv5581482729file=
+-title a:hover, #yiv5581482729 div.yiv5581482729file-title a:visited {
+text=
+-decoration:none;}
+
+#yiv5581482729 div.yiv5581482729photo-title a, #yiv5581=
+482729 div.yiv5581482729photo-title a:active, #yiv5581482729 div.yiv5581482=
+729photo-title a:hover, #yiv5581482729 div.yiv5581482729photo-title a:visit=
+ed {
+text-decoration:none;}
+
+#yiv5581482729 div#yiv5581482729ygrp-mlmsg #yi=
+v5581482729ygrp-msg p a span.yiv5581482729yshortcuts {
+font-family:Verdana;=
+font-size:10px;font-weight:normal;}
+
+#yiv5581482729 .yiv5581482729green {
+c=
+olor:#628c2a;}
+
+#yiv5581482729 .yiv5581482729MsoNormal {
+margin:0 0 0 0;}
+
+=
+#yiv5581482729 o {
+font-size:0;}
+
+#yiv5581482729 #yiv5581482729photos div {=
+
+float:left;width:72px;}
+
+#yiv5581482729 #yiv5581482729photos div div {
+bor=
+der:1px solid #666666;height:62px;overflow:hidden;width:62px;}
+
+#yiv5581482=
+729 #yiv5581482729photos div label {
+color:#666666;font-size:10px;overflow:=
+hidden;text-align:center;white-space:nowrap;width:64px;}
+
+#yiv5581482729 #y=
+iv5581482729reco-category {
+font-size:77%;}
+
+#yiv5581482729 #yiv5581482729r=
+eco-desc {
+font-size:77%;}
+
+#yiv5581482729 .yiv5581482729replbq {
+margin:4p=
+x;}
+
+#yiv5581482729 #yiv5581482729ygrp-actbar div a:first-child {
+margin-ri=
+ght:2px;padding-right:5px;}
+
+#yiv5581482729 #yiv5581482729ygrp-mlmsg {
+font=
+-size:13px;font-family:Arial, helvetica, clean, sans-serif;}
+
+#yiv558148272=
+9 #yiv5581482729ygrp-mlmsg table {
+font-size:inherit;font:100%;}
+
+#yiv55814=
+82729 #yiv5581482729ygrp-mlmsg select, #yiv5581482729 input, #yiv5581482729=
+ textarea {
+font:99% Arial, Helvetica, clean, sans-serif;}
+
+#yiv5581482729 =
+#yiv5581482729ygrp-mlmsg pre, #yiv5581482729 code {
+font:115% monospace;}
+
+=
+#yiv5581482729 #yiv5581482729ygrp-mlmsg * {
+line-height:1.22em;}
+
+#yiv55814=
+82729 #yiv5581482729ygrp-mlmsg #yiv5581482729logo {
+padding-bottom:10px;}
+
+=
+
+#yiv5581482729 #yiv5581482729ygrp-msg p a {
+font-family:Verdana;}
+
+#yiv558=
+1482729 #yiv5581482729ygrp-msg p#yiv5581482729attach-count span {
+color:#1E=
+66AE;font-weight:700;}
+
+#yiv5581482729 #yiv5581482729ygrp-reco #yiv55814827=
+29reco-head {
+color:#ff7900;font-weight:700;}
+
+#yiv5581482729 #yiv558148272=
+9ygrp-reco {
+margin-bottom:20px;padding:0px;}
+
+#yiv5581482729 #yiv558148272=
+9ygrp-sponsor #yiv5581482729ov li a {
+font-size:130%;text-decoration:none;}=
+
+
+#yiv5581482729 #yiv5581482729ygrp-sponsor #yiv5581482729ov li {
+font-size=
+:77%;list-style-type:square;padding:6px 0;}
+
+#yiv5581482729 #yiv5581482729y=
+grp-sponsor #yiv5581482729ov ul {
+margin:0;padding:0 0 0 8px;}
+
+#yiv5581482=
+729 #yiv5581482729ygrp-text {
+font-family:Georgia;}
+
+#yiv5581482729 #yiv558=
+1482729ygrp-text p {
+margin:0 0 1em 0;}
+
+#yiv5581482729 #yiv5581482729ygrp-=
+text tt {
+font-size:120%;}
+
+#yiv5581482729 #yiv5581482729ygrp-vital ul li:l=
+ast-child {
+border-right:none !important;
+}
+#yiv5581482729 
+</style></div><=
+br class=3D"" style=3D""><br class=3D"" style=3D""></div>  </div> </div>  <=
+/div> </div></body></html>
+---1293697098-1102626312-1411143772=:18866--
+
+

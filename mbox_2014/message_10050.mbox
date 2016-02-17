@@ -1,0 +1,197 @@
+From sumeet18064@...  Wed Feb 17 11:07:35 2016
+Return-Path: <sumeet18064@...>
+X-Sender: sumeet18064@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 8592 invoked by uid 102); 20 Jan 2014 19:37:41 -0000
+X-Received: from unknown (HELO mtaq1.grp.bf1.yahoo.com) (10.193.84.32)
+  by m2.grp.bf1.yahoo.com with SMTP; 20 Jan 2014 19:37:41 -0000
+X-Received: (qmail 6229 invoked from network); 20 Jan 2014 19:37:41 -0000
+X-Received: from unknown (HELO nm6.bullet.mail.bf1.yahoo.com) (98.139.212.165)
+  by mtaq1.grp.bf1.yahoo.com with SMTP; 20 Jan 2014 19:37:41 -0000
+X-Received: from [98.139.215.140] by nm6.bullet.mail.bf1.yahoo.com with NNFMP; 20 Jan 2014 19:37:41 -0000
+X-Received: from [68.142.230.76] by tm11.bullet.mail.bf1.yahoo.com with NNFMP; 20 Jan 2014 19:37:41 -0000
+X-Received: from [127.0.0.1] by smtp233.mail.bf1.yahoo.com with NNFMP; 20 Jan 2014 19:37:41 -0000
+X-Yahoo-Newman-Id: 238645.37466.bm@...
+X-Yahoo-Newman-Property: ymail-3
+X-YMail-OSG: OQfx27MVM1kbUb_wHZdbhpT.ysCenEs7iOeUmWj_JQXLfdA
+ iNZXYIG19q0o1Q0aJ3A2zul.k2NSGkHM.9KaiFAtuTNKJS8XoCKY6URnV_s0
+ GrbmqMPQl79VbhgOZaHrjvw7pGfS.dKrUf62Gc_ibQAWw_BQH9M_ZcreIJ5O
+ vlnBT1loejuYw6htY5YKiDrCzLmjPZcCtFuuNAJo4o3lclHPB_FmZHkpaRiH
+ qsrH7eSzWGzlc.k6eZ73KpAhHOW2KDrNEBbvEGEcdJqLwf_0yiOV2o4eIOxb
+ Efpo2jrZbjL.9Va.WUAKQPbYUvSmtXPZbXOUEDdnG7JwmVr52cCdCKOjEJmk
+ sXNnWqcLw6LXGsT6kBSS2wez0RPIV2gjX2cum26BQgPzBLKvssV08Uo3hdd2
+ az1dAWf_q1wAIb2FAZYY4U1zLbjXxQy0b.aLzk7ZR.7VcVOn33fNViYSXM5S
+ Srm802DE.cBBOKeBASBOycPvXDJeSp9lqw7D9I.yAyo0eaQXrbwJXuRq8zXE
+ 8rCrznfoXVWin1nT2fpXybbfOhS6xQD8RoRc8PEov810A0IvJRWGlMFCU6F1
+ u9vIrcOKZVIVfUzI89aLSf7n7la1I6K30ytYeLshvjnaUBJtnIzcRolLqBkL
+ kpO1wsDnGgNT7rhyRtZiOwYVz9O4uXVqMCZPgNmFy8UriyqpTjFPt5h.0Xyr
+ 7HsoVb5PGPPU4FmVLyEl9y8AlVtqHAPJqGeCIyNBGH6BnvtKIyBaYetozAyS
+ qMrVVBWh_hI4uHaspjCe0Um_h5n5y8jZ8CBcU5kJGB1MhTtseIXIhxZQgMlV
+ j5Vq4avjXW3flicZMUtb32_mehqQKzO7e.ac1bmXIJE4IGHL2GGTcz7tQNYO
+ HUlIoF.6d3A_B7Up60LS0660mYK2Dntvtm6bi8BctA5CLMbwjb3Eq62MaknS
+ nlIXgWd6X6c5qAmzCRPDTD8zma8tLUHzu5lrFegjY5.45Z6f3YDjS2YFUgYP
+ yrzxGbz0bWS1h41B8u6OxklU0a5hqnmHDLQu3mwMXElS9t.3.bPzQUcfA6h3
+ MKD.MBBt19oc5uXdkrgojS_Ze0w0q5.KWu5Ei5GCLPcX0HGIr9dznVanzbVc
+ rRaKkTmfK4pPpCyprTyoFYUtFWEvOQxebLTU5GaN1CtEXhBZ_34CBDBB8kRk
+ BhAD0DPQc.xDLgjIjE8iwzO.QmoRXDbBOWBJzNtxmzDWwD90vLTMR2T3HPLp
+ b0_WAGaotuio.YmyFjGuLjs6opKj79PzO3to4Owq.fuUU6YOijMepjeTTRJG
+ opn4fb56ec7SpI7fMcUb23GRg5Msil20QMlB_UAs0sd58xg9Vp90oWkcn5a3
+ 4vHRy25r7zeYGHukLJdW8kfsCvsjy79m7giLOxKuwOpDoud8sjS5D_QBWZPU
+ CGJgK8u0g0IOblIsqTHYPQggd25gjFNGqG8HWenpWOh7cMt2GmvKKslsF7Hy
+ BX7IcYY.rmfuZicSrJbMR40w_7_tVd9n_kvygONOYpXYXoiUCLVIWrRk027T
+ 8HzDExXFeEkneNvW72wEH3VjRgt.O7ZCoKwcOg_slbaFT_fR2VWeNyZuwHMs
+ W52zzm54XmJac7nkmzh.juyeVRkfJdJ2dXOsCAWw.f7jwqfPrF4ahDj4MsMZ
+ QzeXXNe5B5QflyHaOSekVl.cdGzTYOtROM2uC5X2H9h5LOcedP9IkBBw7Xop
+ UlQDVPZ0jTqg4Nv.8Aowb36JmjNBEiw5xqQXqBIcegWLpqt32P1yoDjCWDV3
+ Y8kl566OSLaMTwtXW8yW5nbUNA_8DCoudgskJVJIMLtjWLovdcweWWPiFjkh
+ xm4jznj_jCzO1amr5PMAKy3dmgMRimCOPJ6AlX_HVyYw_C_YOV8.EHinRdNb
+ xzbodeFQmsy3juzGPpuvPogDtdyvs.SaO_Q2EyPfUqqclVRBVHYd9.C_T_tW
+ SRd0rdUEvRuScjfqoCMexWohvapVnfuDntmIwHdBbQvLA6cnmdnk_TruUD69
+ ny1OAm1NJ3ki6kA5WT2ASppFYTAX8JgMTESjgZXywBwMsHvpxoCwTZYDTC6a
+ v9M4hBXu_AtQFvL54T72S5el8apaqtit_z.NqilhhtR6AI6dNb46DH0KxBRa
+ 4VisR
+X-Yahoo-SMTP: uZ56XkCswBA6wWvC3nj6sQikDrnpmAuo
+X-Rocket-Received: from [10.0.4.158] (sumeet18064@208.138.34.236 with xymcookie [216.39.61.254])
+        by smtp233.mail.bf1.yahoo.com with SMTP; 20 Jan 2014 19:37:41 +0000 UTC
+Mime-Version: 1.0 (1.0)
+Content-Type: multipart/alternative;
+	boundary=Apple-Mail-BB1661B7-C664-48C3-B536-C54A3384F010
+X-Mailer: iPhone Mail (11B554a)
+Message-Id: <FF092599-E2F6-4687-B50F-AAE886D1CAFE@...>
+Date: Mon, 20 Jan 2014 14:37:35 -0500
+Cc: "<vedic-wisdom@yahoogroups.com>" <vedic-wisdom@yahoogroups.com>
+Content-Transfer-Encoding: 7bit
+To: "<banerjeerajarshi@...>" <banerjeerajarshi@...>
+X-Originating-IP: 10.193.84.32
+X-eGroups-Msg-Info: 1:12:0:0:0
+From: Sumeet Kumar <sumeet18064@...>
+Subject: Re: [vedic-wisdom] Re: GoodKarma, BadKarma and Death
+X-Yahoo-Group-Post: member; u=167313342; y=GnRNnDg3gmy3IpIJX49O8gP4DDBPMAyJ-X4vLx70yTWnnsmo3XQ
+X-Yahoo-Profile: sumeet18064
+
+
+--Apple-Mail-BB1661B7-C664-48C3-B536-C54A3384F010
+Content-Type: text/plain;
+	charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+The planets are telling the story of your life as you wrote it. They have i=
+nfluence on your life to the extent that they grab your consciousness in a =
+certain way and predispose you to certain experiences and events. 
+
+To say =
+that Saturn has something against you or something specially for you person=
+ally is illogical. 
+
+If one eats red meat 3 times a day for 30 years (karmi=
+c action and predisposition) and ones cholesterol test (an indicator of pas=
+t behaviour) is dangerously bad neither the cholesterol test nor the doctor=
+ telling one of the situation are to blame. 
+
+Sumeet
+
+> On Jan 20, 2014, at=
+ 1:55 PM, <banerjeerajarshi@...> wrote:
+> 
+> Dear Narasimhaji, 
+=
+> 
+>                               Thank you so much for that explanation! =
+I understand it now. The path to liberation is not via a balance of good or=
+ bad karmas per say but by detaching oneself from all worldly attachments. =
+I've been trying to make some sense of it by analyzing my D60 chart to try =
+and understand how my past life plays a role in my present life but then th=
+ats a different subject altogether (I'm lousy at jyotisha so it wasn't of m=
+uch help). A quick question on that is when we look at planets for our birt=
+h charts, are the planets merely placeholders for the gods to indicate what=
+ we might face as a result of our karmas? It is sort of a longshot to say t=
+hat the actual physical planet can have an influence on us. 
+> 
+> 
+> 
+> Reg=
+ards
+> 
+> 
+> 
+> Raj
+> 
+> 
+
+--Apple-Mail-BB1661B7-C664-48C3-B536-C54A3384F010
+Content-Type: text/html;
+	charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><meta http-equiv=3D"content-type" content=3D"text/html; charset=
+=3Dutf-8"></head><body dir=3D"auto"><div>The planets are telling the story =
+of your life as you wrote it. They have influence on your life to the exten=
+t that they grab your consciousness in a certain way and predispose you to =
+certain experiences and events. </div><div><br></div><div>To say that =
+Saturn has something against you or something specially for you personally =
+is illogical. </div><div><br></div><div>If one eats red meat 3 times a=
+ day for 30 years (karmic action and predisposition) and ones cholesterol t=
+est (an indicator of past behaviour) is dangerously bad neither the cholest=
+erol test nor the doctor telling one of the situation are to blame. <b=
+r><br>Sumeet</div><div><br>On Jan 20, 2014, at 1:55 PM, <<a href=3D"mail=
+to:banerjeerajarshi@...">banerjeerajarshi@...</a>>=
+ wrote:<br><br></div><blockquote type=3D"cite"><div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span st=
+yle=3D"display:none"> </span>
+
+
+
+    <div id=3D"ygrp-text">
+      
+   =
+   
+      <p></p><p>Dear Narasimhaji, </p><p>      &nbs=
+p;                     &n=
+bsp; Thank you so much for that explanation! I understand it now. The path =
+to liberation is not via a balance of good or bad karmas per say but by det=
+aching oneself from all worldly attachments. I've been trying to make some =
+sense of it by analyzing my D60 chart to try and understand how my past lif=
+e plays a role in my present life but then thats a different subject altoge=
+ther (I'm lousy at jyotisha so it wasn't of much help). A quick question on=
+ that is when we look at planets for our birth charts, are the planets mere=
+ly placeholders for the gods to indicate what we might face as a result of =
+our karmas? It is sort of a longshot to say that the actual physical planet=
+ can have an influence on us. </p><p><br></p><p style=3D"color:rgb(0, =
+0, 0);font-size:12.800000190734863px;font-family:arial, helvetica, clean, s=
+ans-serif;background-color:transparent;font-style:normal;">Regards</p><p st=
+yle=3D"color:rgb(0, 0, 0);font-size:12.800000190734863px;font-family:arial,=
+ helvetica, clean, sans-serif;background-color:transparent;font-style:norma=
+l;"><br></p><p style=3D"color:rgb(0, 0, 0);font-size:12.800000190734863px;f=
+ont-family:arial, helvetica, clean, sans-serif;background-color:transparent=
+;font-style:normal;">Raj</p><p></p>
+
+    </div>
+     
+
+    
+
+
+
+
+
+<!-- end g=
+roup email -->
+
+</div></blockquote></body></html>
+--Apple-Mail-BB1661B7-C664-48C3-B536-C54A3384F010--
+
+

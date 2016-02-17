@@ -1,0 +1,605 @@
+From philstinnet@...  Wed Feb 17 11:07:39 2016
+Return-Path: <philstinnet@...>
+X-Sender: philstinnet@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 21950 invoked by uid 102); 21 Mar 2014 16:51:52 -0000
+X-Received: from unknown (HELO mtaq2.grp.bf1.yahoo.com) (10.193.84.33)
+  by m2.grp.bf1.yahoo.com with SMTP; 21 Mar 2014 16:51:52 -0000
+X-Received: (qmail 8507 invoked from network); 21 Mar 2014 16:51:51 -0000
+X-Received: from unknown (HELO nm25-vm5.bullet.mail.gq1.yahoo.com) (98.136.217.116)
+  by mtaq2.grp.bf1.yahoo.com with SMTP; 21 Mar 2014 16:51:51 -0000
+X-Received: from [98.137.12.55] by nm25.bullet.mail.gq1.yahoo.com with NNFMP; 21 Mar 2014 16:51:50 -0000
+X-Received: from [98.137.12.204] by tm15.bullet.mail.gq1.yahoo.com with NNFMP; 21 Mar 2014 16:51:50 -0000
+X-Received: from [127.0.0.1] by omp1012.mail.gq1.yahoo.com with NNFMP; 21 Mar 2014 16:51:50 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 905876.75394.bm@...
+X-Received: (qmail 33499 invoked by uid 60001); 21 Mar 2014 16:51:50 -0000
+X-YMail-OSG: jlZJCWIVM1kK1lI7KC4wbOUa4hhQqogVXQnBY0a5znj2Ery
+ bUDD3_RJZ8NIz3EiBHZUUI5cj1m4dJU80Yov5cvQ4LVOBLiEVwai7iovG99.
+ 1Wm5qmACZxzcVn2iWQZEfhp2CMT54W9pnmCg9rclebgq.EUcZludqvw02wOX
+ w5uQyv_eS3se3SwCRgfO4WbmaD4rDm7.DLEMCE5hzU.k6RRpmMyDjnHTcnKS
+ .H3HGLeq5Klz39E4AM_5p3kB2q.Lu7X.EJjjYY_6cv6JIZTIaaehPcMffoTk
+ d2LPRglip_5yb3t3prtDqIZAla8C9WiNIDw1jonSyYw5yyl3x2JawK0y2krd
+ sJI6MCUefoJOTZAIos9X64RB6wEFbJ_8FnD9AVSUTjC8DfoImyvTweyDoGMj
+ S1vBwL55Z81YXlDJbq6S5e61fE59XY66Qku3jqsexMS_og53gJCT94NZJ.mH
+ 18oUHJz8cXWnmTbzFsKcHIhmpuJvF7PRztQCUXwVisY50PsLuC3Q7.F6A2vW
+ MsUA5LMsIZeCeJAAmmcA20Y25U166iWOB2PJUQ6HSHOOPaF9KQRZCOnLIXl7
+ Ul5NNjB1LVCSv.pn9hHez4Pg9NHvJ3ldiSHOSSfTNEeUqWLg3YnEI4ySB5YC
+ 9oOZ1mWB8ck3UEdi.qNcNhTxBqWbi_kMg73hFQNO7MrATw7KHPkNEKfw3X5_
+ QT3hHH5LMZ_AfkbbGss4vrkL4l6T62lFwbkEOB0cn80jw2vYC_40xkvqIMY9
+ XpXHFZBuDxCE3c8Eee76THIXIcbhTRjOyvcJe5zJmb9eWQb6Ey_mmbAC5PHg
+ hYgzPpFVxzOl9DU8uxcC2fRQAsZ8wiSed9XfPFZRoh2WtziBoAuZecEOB8Mi
+ lBH2Pn_I8Lu78oOqGveKp6saair_8xfOMrz2hsNT81YktWhE9wx5nWKZJKOg
+ GNVTY0AmXkjx2364fW4pOniUrEfR1HKuHJcxId3CW9PvBF5Q_hPC3EIZU5Dv
+ hDvyhYSrxYld91GGjSFikxXr9pT_JK24UKXPnVJkwG9JFu_27h3V_fe85QV0
+ 7mnt7jC3TyJNEjiUViOkEXD7siNfgsTm6s8QF35gmjVcN7p2iJizx_ABl9w2
+ yMoQsOX7NfRXptRvR4CK4EAYzIfyYG_TnCmKuyM6as1wdtLWjNSoBh2QkAxu
+ QvrYW7hiIECUWVPdrWewmwUSkzyZGJU4C0SDlfzCyyl4REllwKOkwy5Dp2P3
+ BxEuUwv3M5XgGqKuPgnaG1Y8Y5wc9oOKVRFlIUzA8_767AalyVjzk3jiF2NM
+ -
+X-Received: from [204.191.93.107] by web164801.mail.gq1.yahoo.com via HTTP; Fri, 21 Mar 2014 09:51:50 PDT
+X-Rocket-MIMEInfo: 002.001,Rmlyc3Qgb2YgYWxsLCBsZXQgbWUgaW50cm9kdWNlIG15c2VsZiAtwqAKCkkgd2FzIGJvcm4gYW5kIHJhaXNlZCBpbiBJbmRpYSBpbiBhIGxvd2VyIG9yIG1pZGRsZSBwYXJ0IG9mIHRoZSBtaWRkbGUgY2xhc3MgSW5kaWFuIGZhbWlseS7CoAoKSSBzcGVudCAyMiB5ZWFycyBvZiBteSBsaWZlIGluIEluZGlhLiBJIHdlbnQgdG8gR292ZXJubWVudCBzcG9uc29yZWQgaGlnaCBzY2hvb2wgaW4gSGluZGkgbWVkaXVtLiBJIGZpbmlzaGVkIG15IGJhY2hlbG9yIGZyb20gSW5kaWEuIEkgZmluaXNoZWQgbXkgbWFzdGUBMAEBAQE-
+X-Mailer: YahooMailWebService/0.8.181.645
+References: <lgh84r+c141a5@...>
+Message-ID: <1395420710.25211.YahooMailNeo@...>
+Date: Fri, 21 Mar 2014 09:51:50 -0700 (PDT)
+To: "vedic-wisdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com>
+In-Reply-To: <lgh84r+c141a5@...>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="-1915156525-1723886276-1395420710=:25211"
+X-Originating-IP: 10.193.84.33
+X-eGroups-Msg-Info: 1:12:0:0:0
+From: Phil Stinnet <philstinnet@...>
+Reply-To: Phil Stinnet <philstinnet@...>
+Subject: Re: [vedic-wisdom] Is it easy to practise Hinduism in West ?
+X-Yahoo-Group-Post: member; u=521812586; y=AmygKvN9koe2aVMPtziYtVQ9N1wtlUgC4DaJ-x46fzQlXOyxk90
+X-Yahoo-Profile: philstinnet
+
+
+---1915156525-1723886276-1395420710=:25211
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+First of all, let me introduce myself -=C2=A0
+
+I was born and raised in Ind=
+ia in a lower or middle part of the middle class Indian family.=C2=A0
+
+I sp=
+ent 22 years of my life in India. I went to Government sponsored high schoo=
+l in Hindi medium. I finished my bachelor from India. I finished my master =
+from US. Later, i got jobs in US and i worked in US. Since last 10 years, i=
+ am living and working in US. In the last 10 years, i have met or worked or=
+ befriended some outstanding human beings and they happened to be Americans=
+. =C2=A0
+
+I feel offended when you mentioned that there is a greater presen=
+ce of 'demonic' forces in west. What made you say that ? What are the demon=
+ic forces ?=C2=A0
+
+It is very easy to belittle other cultures, more so, whe=
+n you do not know much about it.
+
+The culture in US is beautiful. It promot=
+es individualism which promotes creativity. Indians have this thoughts that=
+ kids have to take appointments to meet their parents in US. Or grown up ch=
+ildren do not take care of their parents or siblings. Read the history on '=
+Susan G. Komen for the Cure' or RAINN, . =C2=A0 =C2=A0 =C2=A0=C2=A0
+
+Americ=
+ans have as much love and empathy as any other human being on this planet. =
+The difference comes when the love and empathy get mixed with the availabil=
+ity of material resources and individualism. Beautiful things e.g. Komen so=
+cieties, RAINN etc take birth. However, too much individualism coupled with=
+ availability of material resources also lead to divorce in no-time.=C2=A0
+=
+
+Indians also enjoys the same quality of love and empathy. Nothing more or =
+less than Americans. But, it lacks on material resources and individualism.=
+ Therefore, you have all those 'Saas-Bahu', Nannad-Bahu' arguments. Life of=
+ a man becomes hell if he is caught in those arguments. However, little ava=
+ilability of individualism and material resources helps keeping the marriag=
+e intact. The scene is changing fast in the metro areas. Indian men and wom=
+en are both working. They both have professional education. Therefore, more=
+ and more Indians are getting divorced in Delhi, Mumbai etc.=C2=A0
+
+Spiritu=
+ality can not sprout till the materialistic desires are met. It is relative=
+ly easy to meet the basic materialistic desires in US. An India taxi driver=
+ or an Indian laborer in a factory in US can easily meet these materialisti=
+c desires e.g. having an Apple I phone, a lap-top, going on an internationa=
+l trip every year with the family, eating out every weekend, a good car, a =
+good house with AC, stainless steel appliances in the kitchen, good educati=
+on for the kids etc.
+
+And, if the Indian guy happened to be a Doctor, or an=
+ Engineer, or a Lawyer, or a CXO, he does not live in a house. He lives in =
+a 'Raj-Mahal' and can easily enjoy BMW, Mercedes etc.=C2=A0
+
+Sooner or late=
+r, after catching up on his materialistic goals, the vacuum starts to infil=
+trate in his life. And, then, he seeks the God.
+
+Therefore, 'The West' prov=
+ides the best atmosphere for spiritual development.=C2=A0
+
+Thanks
+
+
+
+
+
+
+=C2=
+=A0=C2=A0 =C2=A0 =C2=A0 =C2=A0
+
+=C2=A0=C2=A0
+=C2=A0=C2=A0 =C2=A0
+
+
+
+On Frid=
+ay, March 21, 2014 5:34 AM, "veeralgandhi2011@..." <veeralgandhi2011@=
+gmail.com> wrote:
+ 
+=C2=A0 
+Dear all,
+
+
+I have seen that substantial number=
+ of Indian immigrants in US or Britain sincerely practise Hinduism despite =
+of living in the land of mlechchas.=C2=A0
+
+The atmosphere in West is not at=
+ all conducive to remain religious and spiritual due to greater presence of=
+ demoniac forces.=C2=A0
+
+I wonder how Indian immigrants in West are able to=
+ practise Hinduism so sincerely ? It's like being a lotus amidst muddy wate=
+rs. Isn't it ?
+
+Veeral Gandhi
+
+
+=C2=A0
+
+---1915156525-1723886276-1395420710=:25211
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"color:#000; background-color:#fff; font-family:ve=
+rdana, helvetica, sans-serif;font-size:10pt"><div><span>First of all, let m=
+e introduce myself - </span></div><div style=3D"color: rgb(0, 0, 0); f=
+ont-size: 13.63636302947998px; font-family: verdana, helvetica, sans-serif;=
+ background-color: transparent; font-style: normal;"><span><br></span></div=
+><div style=3D"color: rgb(0, 0, 0); font-size: 13.63636302947998px; font-fa=
+mily: verdana, helvetica, sans-serif; background-color: transparent; font-s=
+tyle: normal;"><span>I was born and raised in India in a lower or middle pa=
+rt of the middle class Indian family. </span></div><div style=3D"color=
+: rgb(0, 0, 0); font-size: 13.63636302947998px; font-family: verdana, helve=
+tica, sans-serif; background-color: transparent; font-style: normal;"><span=
+><br></span></div><div style=3D"color: rgb(0, 0, 0); font-size: 13.63636302=
+947998px; font-family: verdana, helvetica, sans-serif; background-color:
+ t=
+ransparent; font-style: normal;"><span>I spent 22 years of my life in India=
+. I went to Government sponsored high school in Hindi medium. I finished my=
+ bachelor from India. I finished my master from US. Later, i got jobs in US=
+ and i worked in US. Since last 10 years, i am living and working in US. In=
+ the last 10 years, i have met or worked or befriended some outstanding hum=
+an beings and they happened to be Americans.  </span></div><div style=
+=3D"color: rgb(0, 0, 0); font-size: 13.63636302947998px; font-family: verda=
+na, helvetica, sans-serif; background-color: transparent; font-style: norma=
+l;"><span><br></span></div><div style=3D"color: rgb(0, 0, 0); font-size: 13=
+.63636302947998px; font-family: verdana, helvetica, sans-serif; background-=
+color: transparent; font-style: normal;"><span>I feel offended when you men=
+tioned that there is a greater presence of 'demonic' forces in west. What m=
+ade you say that ? What are the demonic forces ? </span></div><div
+ st=
+yle=3D"color: rgb(0, 0, 0); font-size: 13.63636302947998px; font-family: ve=
+rdana, helvetica, sans-serif; background-color: transparent; font-style: no=
+rmal;"><span><br></span></div><div style=3D"color: rgb(0, 0, 0); font-size:=
+ 13.63636302947998px; font-family: verdana, helvetica, sans-serif; backgrou=
+nd-color: transparent; font-style: normal;"><span>It is very easy to belitt=
+le other cultures, more so, when you do not know much about it.</span></div=
+><div style=3D"color: rgb(0, 0, 0); font-size: 13.63636302947998px; font-fa=
+mily: verdana, helvetica, sans-serif; background-color: transparent; font-s=
+tyle: normal;"><span><br></span></div><div style=3D"color: rgb(0, 0, 0); fo=
+nt-size: 13.63636302947998px; font-family: verdana, helvetica, sans-serif; =
+background-color: transparent; font-style: normal;"><span>The culture in US=
+ is beautiful. It promotes individualism which promotes creativity. Indians=
+ have this thoughts that kids have to take appointments to meet their
+ pare=
+nts in US. Or grown up children do not take care of their parents or siblin=
+gs. Read the history on 'Susan G. Komen for the Cure' or RAINN, .   &n=
+bsp;   </span></div><div style=3D"color: rgb(0, 0, 0); font-size:=
+ 13.63636302947998px; font-family: verdana, helvetica, sans-serif; backgrou=
+nd-color: transparent; font-style: normal;"><span><br></span></div><div sty=
+le=3D"color: rgb(0, 0, 0); font-size: 13.63636302947998px; font-family: ver=
+dana, helvetica, sans-serif; background-color: transparent; font-style: nor=
+mal;"><span>Americans have as much love and empathy as any other human bein=
+g on this planet. The difference comes when the love and empathy get mixed =
+with the availability of material resources and individualism. Beautiful th=
+ings e.g. Komen societies, RAINN etc take birth. However, too much individu=
+alism coupled with availability of material resources also lead to divorce =
+in no-time. </span></div><div style=3D"color: rgb(0, 0, 0);
+ font-size=
+: 13.63636302947998px; font-family: verdana, helvetica, sans-serif; backgro=
+und-color: transparent; font-style: normal;"><span><br></span></div><div st=
+yle=3D"color: rgb(0, 0, 0); font-size: 13.63636302947998px; font-family: ve=
+rdana, helvetica, sans-serif; background-color: transparent; font-style: no=
+rmal;"><span>Indians also enjoys the same quality of love and empathy. Noth=
+ing more or less than Americans. But, it lacks on material resources and in=
+dividualism. Therefore, you have all those 'Saas-Bahu', Nannad-Bahu' argume=
+nts. Life of a man becomes hell if he is caught in those arguments. However=
+, little availability of individualism and material resources helps keeping=
+ the marriage intact. The scene is changing fast in the metro areas. Indian=
+ men and women are both working. They both have professional education. The=
+refore, more and more Indians are getting divorced in Delhi, Mumbai etc.&nb=
+sp;</span></div><div style=3D"color: rgb(0, 0, 0); font-size:
+ 13.636363029=
+47998px; font-family: verdana, helvetica, sans-serif; background-color: tra=
+nsparent; font-style: normal;"><span><br></span></div><div style=3D"color: =
+rgb(0, 0, 0); font-size: 13.63636302947998px; font-family: verdana, helveti=
+ca, sans-serif; background-color: transparent; font-style: normal;">Spiritu=
+ality can not sprout till the materialistic desires are met. It is relative=
+ly easy to meet the basic materialistic desires in US. An India taxi driver=
+ or an Indian laborer in a factory in US can easily meet these materialisti=
+c desires e.g. having an Apple I phone, a lap-top, going on an internationa=
+l trip every year with the family, eating out every weekend, a good car, a =
+good house with AC, stainless steel appliances in the kitchen, good educati=
+on for the kids etc.</div><div style=3D"color: rgb(0, 0, 0); font-size: 13.=
+63636302947998px; font-family: verdana, helvetica, sans-serif; background-c=
+olor: transparent; font-style: normal;"><br></div><div
+ style=3D"color: rgb=
+(0, 0, 0); font-size: 13.63636302947998px; font-family: verdana, helvetica,=
+ sans-serif; background-color: transparent; font-style: normal;">And, if th=
+e Indian guy happened to be a Doctor, or an Engineer, or a Lawyer, or a CXO=
+, he does not live in a house. He lives in a 'Raj-Mahal' and can easily enj=
+oy BMW, Mercedes etc. </div><div style=3D"color: rgb(0, 0, 0); font-si=
+ze: 13.63636302947998px; font-family: verdana, helvetica, sans-serif; backg=
+round-color: transparent; font-style: normal;"><br></div><div style=3D"colo=
+r: rgb(0, 0, 0); font-size: 13.63636302947998px; font-family: verdana, helv=
+etica, sans-serif; background-color: transparent; font-style: normal;">Soon=
+er or later, after catching up on his materialistic goals, the vacuum start=
+s to infiltrate in his life. And, then, he seeks the God.</div><div style=
+=3D"color: rgb(0, 0, 0); font-size: 13.63636302947998px; font-family: verda=
+na, helvetica, sans-serif; background-color: transparent;
+ font-style: norm=
+al;"><br></div><div style=3D"color: rgb(0, 0, 0); font-size: 13.63636302947=
+998px; font-family: verdana, helvetica, sans-serif; background-color: trans=
+parent; font-style: normal;">Therefore, 'The West' provides the best atmosp=
+here for spiritual development. </div><div style=3D"color: rgb(0, 0, 0=
+); font-size: 13.63636302947998px; font-family: verdana, helvetica, sans-se=
+rif; background-color: transparent; font-style: normal;"><br></div><div sty=
+le=3D"color: rgb(0, 0, 0); font-size: 13.63636302947998px; font-family: ver=
+dana, helvetica, sans-serif; background-color: transparent; font-style: nor=
+mal;">Thanks</div><div style=3D"color: rgb(0, 0, 0); font-size: 13.63636302=
+947998px; font-family: verdana, helvetica, sans-serif; background-color: tr=
+ansparent; font-style: normal;"><br></div><div style=3D"color: rgb(0, 0, 0)=
+; font-size: 13.63636302947998px; font-family: verdana, helvetica, sans-ser=
+if; background-color: transparent; font-style:
+ normal;"><br></div><div sty=
+le=3D"color: rgb(0, 0, 0); font-size: 13.63636302947998px; font-family: ver=
+dana, helvetica, sans-serif; background-color: transparent; font-style: nor=
+mal;"><br></div><div style=3D"color: rgb(0, 0, 0); font-size: 13.6363630294=
+7998px; font-family: verdana, helvetica, sans-serif; background-color: tran=
+sparent; font-style: normal;"><br></div><div style=3D"color: rgb(0, 0, 0); =
+font-size: 13.63636302947998px; font-family: verdana, helvetica, sans-serif=
+; background-color: transparent; font-style: normal;"><br></div><div style=
+=3D"color: rgb(0, 0, 0); font-size: 13.63636302947998px; font-family: verda=
+na, helvetica, sans-serif; background-color: transparent; font-style: norma=
+l;"><br></div><div style=3D"color: rgb(0, 0, 0); font-size: 13.636363029479=
+98px; font-family: verdana, helvetica, sans-serif; background-color: transp=
+arent; font-style: normal;">        </div><div sty=
+le=3D"color: rgb(0, 0, 0); font-size:
+ 13.63636302947998px; font-family: ve=
+rdana, helvetica, sans-serif; background-color: transparent; font-style: no=
+rmal;"><span><br></span></div><div style=3D"color: rgb(0, 0, 0); font-size:=
+ 13.63636302947998px; font-family: verdana, helvetica, sans-serif; backgrou=
+nd-color: transparent; font-style: normal;"><span>  </span></div>=
+<div style=3D"color: rgb(0, 0, 0); font-size: 13.63636302947998px; font-fam=
+ily: verdana, helvetica, sans-serif; background-color: transparent; font-st=
+yle: normal;"><span>    </span></div><div class=3D"yahoo_quo=
+ted" style=3D"display: block;"> <br> <br> <div style=3D"font-family: verdan=
+a, helvetica, sans-serif; font-size: 10pt;"> <div style=3D"font-family: Hel=
+veticaNeue, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif=
+; font-size: 12pt;"> <div dir=3D"ltr"> <font size=3D"2" face=3D"Arial"> On =
+Friday, March 21, 2014 5:34 AM, "veeralgandhi2011@..." <veeralgand=
+hi2011@...> wrote:<br> </font> </div> 
+ <div class=3D"y_msg_contai=
+ner"><div id=3D"yiv8849735256"><div>
+<span style=3D"display:none;"> </=
+span>
+
+
+<div id=3D"yiv8849735256ygrp-mlmsg" style=3D"">
+  <div id=3D"yiv884=
+9735256ygrp-msg" style=3D"">
+
+
+    <div id=3D"yiv8849735256ygrp-text">
+    =
+  
+      
+      <div>Dear all,</div><div><br clear=3D"none"><div>I have see=
+n that substantial number of Indian immigrants in US or Britain sincerely p=
+ractise Hinduism despite of living in the land of <span style=3D"font-style=
+:italic;">mlechchas</span>. </div><div><br clear=3D"none"></div><div>T=
+he atmosphere in West is not at all conducive to remain religious and spiri=
+tual due to greater presence of demoniac forces. </div><div><br clear=
+=3D"none"></div><div>I wonder how Indian immigrants in West are able to pra=
+ctise Hinduism so sincerely ? It's like being a lotus amidst muddy waters. =
+Isn't it ?</div><div><br clear=3D"none"></div><div>Veeral Gandhi</div><div>=
+<br clear=3D"none"></div><div><br clear=3D"none"></div><div> </div></d=
+iv>
+
+    </div>
+     
+
+    
+    <div style=3D"color:#fff;height:0;"></div><=
+/div>
+
+
+</div><style type=3D"text/css">
+#yiv8849735256 #yiv8849735256 --
+  =
+#yiv8849735256ygrp-mkp {
+border:1px solid #d8d8d8;font-family:Arial;margin:=
+10px 0;padding:0 10px;}
+
+#yiv8849735256 #yiv8849735256ygrp-mkp hr {
+border:=
+1px solid #d8d8d8;}
+
+#yiv8849735256 #yiv8849735256ygrp-mkp #yiv8849735256hd=
+ {
+color:#628c2a;font-size:85%;font-weight:700;line-height:122%;margin:10px=
+ 0;}
+
+#yiv8849735256 #yiv8849735256ygrp-mkp #yiv8849735256ads {
+margin-bott=
+om:10px;}
+
+#yiv8849735256 #yiv8849735256ygrp-mkp .yiv8849735256ad {
+padding=
+:0 0;}
+
+#yiv8849735256 #yiv8849735256ygrp-mkp .yiv8849735256ad p {
+margin:0=
+;}
+
+#yiv8849735256 #yiv8849735256ygrp-mkp .yiv8849735256ad a {
+color:#0000f=
+f;text-decoration:none;}
+#yiv8849735256 #yiv8849735256ygrp-sponsor #yiv8849=
+735256ygrp-lc {
+font-family:Arial;}
+
+#yiv8849735256 #yiv8849735256ygrp-spon=
+sor #yiv8849735256ygrp-lc #yiv8849735256hd {
+margin:10px 0px;font-weight:70=
+0;font-size:78%;line-height:122%;}
+
+#yiv8849735256 #yiv8849735256ygrp-spons=
+or #yiv8849735256ygrp-lc .yiv8849735256ad {
+margin-bottom:10px;padding:0 0;=
+}
+
+#yiv8849735256 #yiv8849735256actions {
+font-family:Verdana;font-size:11p=
+x;padding:10px 0;}
+
+#yiv8849735256 #yiv8849735256activity {
+background-colo=
+r:#e0ecee;float:left;font-family:Verdana;font-size:10px;padding:10px;}
+
+#yi=
+v8849735256 #yiv8849735256activity span {
+font-weight:700;}
+
+#yiv8849735256=
+ #yiv8849735256activity span:first-child {
+text-transform:uppercase;}
+
+#yiv=
+8849735256 #yiv8849735256activity span a {
+color:#5085b6;text-decoration:no=
+ne;}
+
+#yiv8849735256 #yiv8849735256activity span span {
+color:#ff7900;}
+
+#y=
+iv8849735256 #yiv8849735256activity span .yiv8849735256underline {
+text-dec=
+oration:underline;}
+
+#yiv8849735256 .yiv8849735256attach {
+clear:both;displ=
+ay:table;font-family:Arial;font-size:12px;padding:10px 0;width:400px;}
+
+#yi=
+v8849735256 .yiv8849735256attach div a {
+text-decoration:none;}
+
+#yiv884973=
+5256 .yiv8849735256attach img {
+border:none;padding-right:5px;}
+
+#yiv884973=
+5256 .yiv8849735256attach label {
+display:block;margin-bottom:5px;}
+
+#yiv88=
+49735256 .yiv8849735256attach label a {
+text-decoration:none;}
+
+#yiv8849735=
+256 blockquote {
+margin:0 0 0 4px;}
+
+#yiv8849735256 .yiv8849735256bold {
+fo=
+nt-family:Arial;font-size:13px;font-weight:700;}
+
+#yiv8849735256 .yiv884973=
+5256bold a {
+text-decoration:none;}
+
+#yiv8849735256 dd.yiv8849735256last p =
+a {
+font-family:Verdana;font-weight:700;}
+
+#yiv8849735256 dd.yiv8849735256l=
+ast p span {
+margin-right:10px;font-family:Verdana;font-weight:700;}
+
+#yiv8=
+849735256 dd.yiv8849735256last p span.yiv8849735256yshortcuts {
+margin-righ=
+t:0;}
+
+#yiv8849735256 div.yiv8849735256attach-table div div a {
+text-decora=
+tion:none;}
+
+#yiv8849735256 div.yiv8849735256attach-table {
+width:400px;}
+
+=
+#yiv8849735256 div.yiv8849735256file-title a, #yiv8849735256 div.yiv8849735=
+256file-title a:active, #yiv8849735256 div.yiv8849735256file-title a:hover,=
+ #yiv8849735256 div.yiv8849735256file-title a:visited {
+text-decoration:non=
+e;}
+
+#yiv8849735256 div.yiv8849735256photo-title a, #yiv8849735256 div.yiv8=
+849735256photo-title a:active, #yiv8849735256 div.yiv8849735256photo-title =
+a:hover, #yiv8849735256 div.yiv8849735256photo-title a:visited {
+text-decor=
+ation:none;}
+
+#yiv8849735256 div#yiv8849735256ygrp-mlmsg #yiv8849735256ygrp=
+-msg p a span.yiv8849735256yshortcuts {
+font-family:Verdana;font-size:10px;=
+font-weight:normal;}
+
+#yiv8849735256 .yiv8849735256green {
+color:#628c2a;}
+=
+
+#yiv8849735256 .yiv8849735256MsoNormal {
+margin:0 0 0 0;}
+
+#yiv8849735256 =
+o {
+font-size:0;}
+
+#yiv8849735256 #yiv8849735256photos div {
+float:left;wid=
+th:72px;}
+
+#yiv8849735256 #yiv8849735256photos div div {
+border:1px solid #=
+666666;height:62px;overflow:hidden;width:62px;}
+
+#yiv8849735256 #yiv8849735=
+256photos div label {
+color:#666666;font-size:10px;overflow:hidden;text-ali=
+gn:center;white-space:nowrap;width:64px;}
+
+#yiv8849735256 #yiv8849735256rec=
+o-category {
+font-size:77%;}
+
+#yiv8849735256 #yiv8849735256reco-desc {
+font=
+-size:77%;}
+
+#yiv8849735256 .yiv8849735256replbq {
+margin:4px;}
+
+#yiv884973=
+5256 #yiv8849735256ygrp-actbar div a:first-child {
+margin-right:2px;padding=
+-right:5px;}
+
+#yiv8849735256 #yiv8849735256ygrp-mlmsg {
+font-size:13px;font=
+-family:Arial, helvetica, clean, sans-serif;}
+
+#yiv8849735256 #yiv884973525=
+6ygrp-mlmsg table {
+font-size:inherit;font:100%;}
+
+#yiv8849735256 #yiv88497=
+35256ygrp-mlmsg select, #yiv8849735256 input, #yiv8849735256 textarea {
+fon=
+t:99% Arial, Helvetica, clean, sans-serif;}
+
+#yiv8849735256 #yiv8849735256y=
+grp-mlmsg pre, #yiv8849735256 code {
+font:115% monospace;}
+
+#yiv8849735256 =
+#yiv8849735256ygrp-mlmsg * {
+line-height:1.22em;}
+
+#yiv8849735256 #yiv88497=
+35256ygrp-mlmsg #yiv8849735256logo {
+padding-bottom:10px;}
+
+
+#yiv8849735256=
+ #yiv8849735256ygrp-msg p a {
+font-family:Verdana;}
+
+#yiv8849735256 #yiv884=
+9735256ygrp-msg p#yiv8849735256attach-count span {
+color:#1E66AE;font-weigh=
+t:700;}
+
+#yiv8849735256 #yiv8849735256ygrp-reco #yiv8849735256reco-head {
+c=
+olor:#ff7900;font-weight:700;}
+
+#yiv8849735256 #yiv8849735256ygrp-reco {
+ma=
+rgin-bottom:20px;padding:0px;}
+
+#yiv8849735256 #yiv8849735256ygrp-sponsor #=
+yiv8849735256ov li a {
+font-size:130%;text-decoration:none;}
+
+#yiv884973525=
+6 #yiv8849735256ygrp-sponsor #yiv8849735256ov li {
+font-size:77%;list-style=
+-type:square;padding:6px 0;}
+
+#yiv8849735256 #yiv8849735256ygrp-sponsor #yi=
+v8849735256ov ul {
+margin:0;padding:0 0 0 8px;}
+
+#yiv8849735256 #yiv8849735=
+256ygrp-text {
+font-family:Georgia;}
+
+#yiv8849735256 #yiv8849735256ygrp-tex=
+t p {
+margin:0 0 1em 0;}
+
+#yiv8849735256 #yiv8849735256ygrp-text tt {
+font-=
+size:120%;}
+
+#yiv8849735256 #yiv8849735256ygrp-vital ul li:last-child {
+bor=
+der-right:none !important;
+}
+#yiv8849735256 
+</style></div><br><br></div>  =
+</div> </div>  </div> </div></body></html>
+---1915156525-1723886276-1395420710=:25211--
+
+

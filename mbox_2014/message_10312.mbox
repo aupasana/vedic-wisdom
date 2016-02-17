@@ -1,0 +1,757 @@
+From tilopra@...  Wed Feb 17 11:07:41 2016
+Return-Path: <tilopra@...>
+X-Sender: tilopra@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 44300 invoked by uid 102); 28 May 2014 15:47:38 -0000
+X-Received: from unknown (HELO mtaq2.grp.bf1.yahoo.com) (10.193.84.33)
+  by m12.grp.bf1.yahoo.com with SMTP; 28 May 2014 15:47:38 -0000
+X-Received: (qmail 2503 invoked from network); 28 May 2014 15:47:38 -0000
+X-Received: from unknown (HELO nm43-vm5.bullet.mail.bf1.yahoo.com) (216.109.114.236)
+  by mtaq2.grp.bf1.yahoo.com with SMTP; 28 May 2014 15:47:38 -0000
+X-Received: from [66.196.81.172] by nm43.bullet.mail.bf1.yahoo.com with NNFMP; 28 May 2014 15:47:38 -0000
+X-Received: from [98.139.211.196] by tm18.bullet.mail.bf1.yahoo.com with NNFMP; 28 May 2014 15:47:37 -0000
+X-Received: from [127.0.0.1] by smtp205.mail.bf1.yahoo.com with NNFMP; 28 May 2014 15:47:37 -0000
+X-Yahoo-Newman-Id: 786146.91179.bm@...
+X-Yahoo-Newman-Property: ymail-3
+X-YMail-OSG: ZnxfuBoVM1ljzlxuRguleMPFIyMPm5iagUXrg7eKRGDC5Ur
+ 97IEy28WVFnJCk0tjQOg2ByVZw2zHWqxGrf_UFf5BG0rV5XyWPxlmIeDopfw
+ IfUEqgUBqgZ5SZG5n2H0SpBpxLMvVywntT2900nMVsxo2gFYwKuxtasseBdL
+ 0izfyg0SwW80Mh1uAv8XdeCct1rOAsTiAK5WVZGn_N4plfbDng_L8dTlDALl
+ wvQVb4tvHXR8U_vk8of8fhK5tgQe9vJM8mO71mjWZnHjUVyAhSUn0cji8D3q
+ .G0TFEGZ_tNHsq.YCFrTxy4BgvmNam2ppel3oHPXwV0u1Gox8F5NHsFJwdyg
+ YMPpsdgK9J3RuR8vA4ocMVuydH4be1sBv0_mvKD7aeRxP7Ep8nbmMSCN.l.Q
+ w601jiRId3ITVBzeTs8FxmHv_eBNJDCWVQwh9w.JZ7NABve45JhCiex8jnBm
+ Joo_Rwn5EXsApr.3Gj_gcFd.E6NjdXc5oKwn5iMu5n1l4e0FvTvd7ITm0iwW
+ 9pjG3hHUU3wca8QlNQG6fH8pQ7TEGEe4h7elbs1N11Du6._CP3o6S7doWfFA
+ 3YefWJ6_BmtYENJ1CQ.PtTcoQHf72vhIGMBQV1of7X9YiQTc6SVzvpIaVPI1
+ XBhKh6ZHCuSSfoeCPC0DnyjWi1mbRrUwuhlwAtSi7hWAG6s8KTJT7FMLZb5K
+ MdgA.FVD6TbnkmL3K64QnGEPwyHNyv58br21kPdpGALLSJFkyrV9ycmwpFP_
+ M7pnsoJYjshIizCUYVtyZ8ZnHUT9ndthTJMp2T9IJJA.Iz624iEQJ2vUr3Tp
+ mLRFUmMUrNt84lQDHs3QHOCNXIgEpqC2glDiI8GdWTe7Dt92E0zE1_8fJiWc
+ HisNheZqlw8GuZUZQemlwhKKLCM70HeetbUiYLc_qljxkhRB.ie1fInMqkTm
+ GRXryc7HakNfcN0.KxXSUOl_ajQAK5JRb_geO6fQahVerx8of3qBWRiL63.J
+ xVyKsuLPQKlxq6fjmjySeBP690GIywgSOhD3llPRNhXfBrBn8PUA6gyHc3Un
+ Go_qvlq.duo1zkiZ3yGwCiLWmIRWntF72d6R7WHC2tTP2ihQZ24i.u3h7PdJ
+ nipjnrJVvHJxSGs6d4zJ.rtr4ffE_uQp3OZ780uuN.bcNd6eVQFImLFmhh2Y
+ ThCIcMTbPICzM6Tj2osH7ZQ1Dq8mCwtC9H82FrTLwTe0Jicw2r4aDZwEUaS.
+ OB90x_J7qCJMSkJ5iY2bmec5oLy.XwG6Yh6c9jnxlSLNQnWCQl8NFJpWHnMo
+ _O0i_eMiCilIwxrjMoPFwhGIJKxipCu9OT6kLkSEDtDcxFftb_6xB56ek_DU
+ CAHTFMaNd5P9vM75vZoHdd.xqwrkpQ_CwM4unESHkE0iRzTb996oYLWSy_RZ
+ 0ry0fPBCR5MDIbbBDJIBlYZTRBHQPOx_4me61
+X-Yahoo-SMTP: QO3ugriswBDJbpqDm2yUnWEZxAk-
+X-Rocket-Received: from [192.168.0.7] (tilopra@190.25.13.114 with xymcookie [66.196.81.168])
+        by smtp205.mail.bf1.yahoo.com with SMTP; 28 May 2014 08:47:37 -0700 PDT
+Content-Type: multipart/alternative;
+	boundary=Apple-Mail-0A0B3A6D-F011-44F7-BF53-68C053138CE5
+X-Received: from 72.30.239.228 (72.30.239.228) by 10.193.54.212(10.193.54.212); Wed, 28 May 2014 13:03:11 +0000
+Content-Length: 411
+Message-Id: <0B7403DD-75A2-48EA-8164-547E74ABA9A1@...>
+Date: Wed, 28 May 2014 10:47:36 -0500
+X-Mailer: iPad Mail (10B329)
+To: "vedic-wisdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com>
+Content-Transfer-Encoding: 7bit
+Mime-Version: 1.0 (1.0)
+X-Originating-IP: 216.109.114.236
+X-eGroups-Msg-Info: 1:12:0:0:0
+Subject: Impure Actions and liberation.
+X-Yahoo-Group-Post: member; u=520403529; y=Cx170dZjL6deomT4pbZ6E7oaHS6gWtirreCxgk-9_vYZqA
+X-Yahoo-Profile: tilopra
+From: Tilottama Kumar <tilopra@...>
+
+
+--Apple-Mail-0A0B3A6D-F011-44F7-BF53-68C053138CE5
+Content-Type: text/plain;
+	charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+
+Namaskars to All,
+
+I am posting something for the first time although I ha=
+ve been an ardent follower of this group.
+I try to imbibe and understand as=
+ much as possible from my GURU whose kindness is infinite. but the layers o=
+f karma sometimes fog my intellect making it difficult to understand everyt=
+hing. I can only try my best.
+
+However, one thing that I have understood is=
+ that it is the "heart" that matters in every situation. That is, the inten=
+tion behind any action. If the intention is pure, the action cannot be wron=
+g. Laws, rules, regulations, morals are all made by man. The Almighty just =
+sees the purity of heart of the doer - you cannot cheat here. Visiting temp=
+les, large ceremonies and complicated rituals done with the intention of sh=
+owing off , without true love, do not have any value. Nor does fear have an=
+y place. THe Almighty just sees the true love and sincerity in your heart w=
+hile performing any action.And with true love and sincerity come complete t=
+rust which leads to acceptance of the what we call " bad" also. We are all =
+just playing out our earlier karmic choices. We can do it with a child's lo=
+ve and trusting heart, with cunning or with tears and lamenting "why me?". =
+The choice is ours.
+
+I just wanted to share my little insight with fellow s=
+eekers and look forward to your comments.
+
+Regards,
+Sujata
+
+Sent from my iP=
+ad 
+
+On 27-May-2014, at 2:47 AM, vedic-wisdom@yahoogroups.com wrote:
+
+> Wis=
+dom of Vedic Rishis Group
+> 3 MessagesDigest #2048
+> 1aImpure actions and l=
+iberation (Re: Is it easy to practise..) by "Narasimha P.V.R. Rao" pvr108
+>=
+ 2aGanapati Atharva Shirsham by king_tanvir
+> 2bRe: Ganapati Atharva Shirsh=
+am by "Narasimha P.V.R. Rao" pvr108
+> Messages
+> 1aImpure actions and liber=
+ation (Re: Is it easy to practise..)
+> Mon May 26, 2014 7:44 am (PDT) . Pos=
+ted by:"Narasimha P.V.R. Rao" pvr108
+> Namaste Sir,
+> 
+> If one believes th=
+at certain actions are too impure to be offered to Lord, one can of course =
+avoid those actions and perform actions that one believes are worthy of bei=
+ng offered to Lord.
+> 
+> However, I'd make such a judgment on only myself a=
+nd modify MY actions. I wouldn't be prejudiced about someone els's actions.=
+ Someone else may be able to perform an action that I'd consider very impur=
+e and yet be able to offer it to Lord whole-heartedly. If one does that, Lo=
+rd may indeed accept the action (and grant liberation). Who are we to secon=
+d guess Lord?
+> 
+> *        *        *
+> 
+> > Its almost like approving the=
+ Devdasi system.
+> Who am I (or who are you) to approve or disapprove anyth=
+ing?
+> 
+> The circumstances people end up in are dependent on their actions=
+ and desires from the past.Exerting freewill within the constraints of thos=
+e circumstances, people engage in new actions and entertain new desires.The=
+se new actions and desires become the foundation for future life circumstan=
+ces. This cycle goes on as long as there are some desires.
+> 
+> After going=
+ through many lives with many circumstances, actions and desires, one may r=
+each a desireless state. After that, actions may continue based on previous=
+ momentum and different circumstances may ensure as a result. But, eventual=
+ly actions cease in the absence of desires.
+> 
+> Irrespective of whether ot=
+hers approve or not, people who have obtained the right balance between lif=
+e circumstances, actions and desires will reach that desireless state. Ther=
+e are examples in scripture of even a cholera virus becoming liberated. Why=
+ not then a human being, in spite of being in terrible circumstances?
+> 
+> =
+Again, if you believe certain people are too impure to make spiritual progr=
+ess and their actions too impure to be offered to lord, you can avoid those=
+ people and those actions.
+> 
+> *        *        *
+> 
+> Dharma and moksha =
+are different. Dharma comes with rules for maintaining an order in the soci=
+ety. There are universal dharmas and there are subtle personal dharmas that=
+ change from person to person. But the purpose of all dharma is to maintain=
+ some orderliness.
+> Following dharma is very important if one wants moksha=
+. But moksha is about *non-volitional spontaneity* rather than following ru=
+les.
+> 
+> If one does not follow rules, *volition* does not cease. One can =
+be spontaneous, but it may not be *non-volitional*. On the other hand, if o=
+ne keeps following rules, one will keep following them for ever and spontan=
+eity may never develop.
+> 
+> The leap from strictly following rules to non-=
+volitional spontaneity is not easy..
+> 
+> Best regards,
+> 
+> Narasimha
+> --=
+------
+> Astrology & Spirituality Resources: http://www.VedicAstrologer.org=
+
+> --------
+> 
+> >________________________________
+> > From: "jaidixit74@ya=
+hoo.com [vedic-wisdom]" <vedic-wisdom@yahoogroups.com>
+> >To: vedic-wisdom@=
+yahoogroups.com 
+> >Sent: Monday, May 26, 2014 12:31 AM
+> >Subject: [vedic-=
+wisdom] Re: Is it easy to practise Hinduism in West ?
+> > 
+> >
+> >
+> >  
+> =
+>Dear PVR-ji
+> >
+> >
+> >Although I get your point of being selfless in what=
+ever one does, I  think you have taken this a bit too far in your example. =
+Its almost like approving the Devdasi system.
+> >
+> >
+> >A prostitute in an=
+ inner city in US may develop detachment, surrender and selflessness and en=
+gage in her work with no pride or shame and as respectful and loving offeri=
+ng to god in the form of her customers, and become liberated.
+> >    A pros=
+titute in an inner city in US burns her Karma she is supposed to burn becau=
+se of the Kamas she had created herself in her past lives. If she has the g=
+ood Karmic balance in her, help may come to her out of the profession or sh=
+e herself develops the will to get out of the profession. No need to serve =
+her sinful customers as an offering to God. 
+> >
+> >
+> >What's your advise =
+to a contract killer or a terrorist ? Offering their killing(s) to God ? If=
+ you say a contract killer or a terrorist with a true sense of surrendering=
+/offering to God would not be a terrorist or contract killer in the first p=
+lace, same should apply to your original example as well.
+> >
+> >
+> >Please=
+ do not take this personally. I have immense respect for your selfless cont=
+ribution in Vedic astrology , vedic wisdom and your overall scholarship. I'=
+m just a silly person trying to observe little things.
+> >
+> >
+> >Regards,
+=
+> >Jai
+> >
+> Reply to sender . Reply to group . Reply via Web Post . All Me=
+ssages	 (19) . Top ^
+> 2aGanapati Atharva Shirsham
+> Mon May 26, 2014 12:18=
+ pm (PDT) . Posted by:king_tanvir
+> Namaste Narasimha Ji and others. 
+> 
+> =
+I was trying to know more about Ganapati Atharva Shirsham. I have got some =
+questions regarding it - 
+> 
+> 1) I saw a site which marked it's main part =
+as 'avartan' [ repeat / rotation ? ] which excludes the shanti mantra f=
+rom the beginning and the end, and also the phala-shrutih. There he suggest=
+ed that only the avartan part should be repeated and the shanti mantras and=
+ the phala-shrutih should be recited only once. It means he suggested that =
+if one wants to recite it five times, he should only recite the avartan par=
+t five times, and after that, recite the phala-shrutih once. What is your o=
+pinion regarding this? 
+> 
+> 2) In Narasimha Ji's homam manual, the phala-s=
+hrutih of Ganapati Atharva Shirsham has not been included. Could you please=
+ tell me the actual role, importance and the necessity of reciting the phal=
+a-shrutih for any mantra / stotram? 
+> 
+> 3) Should we include / exclue pha=
+la-shruti of this mantra and other mantras (Such as Shri Suktam etc.) while=
+ offering ahuti with these in a homam? I mean, can we also recite phala-shr=
+uti in homam? Since Narasimha Ji excluded it. 
+> 
+> Thanks 
+> Tanvir 
+> 
+> =
+
+> Reply to sender . Reply to group . Reply via Web Post . All Messages	 (2=
+) . Top ^
+> 2bRe: Ganapati Atharva Shirsham
+> Mon May 26, 2014 4:09 pm (PDT=
+) . Posted by:"Narasimha P.V.R. Rao" pvr108
+> Namaste,
+> 
+> Many prayers co=
+me with phalasrutis, i.e. list of what you can get from it. They are meant =
+to just inspire someone into the practice and not the main thing. The porti=
+on marked as aavartan (repetition) is the real thing. If you want, you may =
+include the rest. If you don't have an opinion, I'd suggest taking them eas=
+y.
+> 
+> Best regards,
+> Narasimha
+> --------
+> Astrology & Spirituality Res=
+ources: http://www.VedicAstrologer.org
+> --------
+> 
+> >___________________=
+_____________
+> > From: "tan.vir@... [vedic-wisdom]" <vedic-wi=
+sdom@yahoogroups.com>
+> >To: vedic-wisdom@yahoogroups.com 
+> >Sent: Monday,=
+ May 26, 2014 3:18 PM
+> >Subject: [vedic-wisdom] Ganapati Atharva Shirsham
+=
+> > 
+> >
+> >
+> >  
+> >Namaste Narasimha Ji and others.
+> >
+> >I was trying =
+to know more about Ganapati Atharva Shirsham. I have got some questions reg=
+arding it - 
+> >
+> >1) I saw a site which marked it's main part as 'avartan=
+' [ repeat / rotation ? ] which excludes the shanti mantra from the beg=
+inning and the end, and also the phala-shrutih. There he suggested that onl=
+y the avartan part should be repeated and the shanti mantras and the phala-=
+shrutih should be recited only once. It means he suggested that if one want=
+s to recite it five times, he should only recite the avartan part five time=
+s, and after that, recite the phala-shrutih once. What is your opinion rega=
+rding this?
+> >
+> >2) In Narasimha Ji's homam manual, the phala-shrutih of =
+Ganapati Atharva Shirsham has not been included. Could you please tell me t=
+he actual role, importance and the necessity of reciting the phala-shrutih =
+for any mantra / stotram?
+> >
+> >3) Should we include / exclue phala-shruti=
+ of this mantra and other mantras (Such as Shri Suktam etc.) while offering=
+ ahuti with these in a homam? I mean, can we also recite phala-shruti in ho=
+mam? Since Narasimha Ji excluded it.
+> >
+> >Thanks
+> >Tanvir
+> >
+> >
+> >
+> =
+>
+> >
+> >
+> Reply to sender . Reply to group . Reply via Web Post . All Mes=
+sages	 (2) . Top ^
+> || Om Shaantih Shaantih Shaantih ||
+> VISIT YOUR GROUP=
+ New Members 1
+> =E2=80=A2 Privacy =E2=80=A2 Unsubscribe =E2=80=A2 Terms of=
+ Use
+Sent from my iPad 
+--Apple-Mail-0A0B3A6D-F011-44F7-BF53-68C053138CE5
+Content-Type: text/html;
+	charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><meta http-equiv=3D"content-type" content=3D"text/html; charset=
+=3Dutf-8"></head><body dir=3D"auto"><div><span></span></div><div><meta http=
+-equiv=3D"content-type" content=3D"text/html; charset=3Dutf-8"><div><span><=
+/span></div><div><meta http-equiv=3D"content-type" content=3D"text/html; ch=
+arset=3Dutf-8"><div><span></span></div><div><meta http-equiv=3D"content-typ=
+e" content=3D"text/html; charset=3Dutf-8"><div><br><div><span style=3D"-web=
+kit-text-size-adjust: auto; background-color: rgba(255, 255, 255, 0);">Nama=
+skars to All,</span></div><div><span style=3D"-webkit-text-size-adjust: aut=
+o; background-color: rgba(255, 255, 255, 0);"><br></span></div><div><span s=
+tyle=3D"-webkit-text-size-adjust: auto; background-color: rgba(255, 255, 25=
+5, 0);">I am posting something for the first time although I have been an a=
+rdent follower of this group.</span></div><div><span style=3D"-webkit-text-=
+size-adjust: auto; background-color: rgba(255, 255, 255, 0);">I try to imbi=
+be and understand as much as possible from my GURU whose kindness is infini=
+te. but the layers of karma sometimes fog my intellect making it difficult =
+to understand everything. I can only try my best.</span></div><div><span st=
+yle=3D"-webkit-text-size-adjust: auto; background-color: rgba(255, 255, 255=
+, 0);"><br></span></div><div><span style=3D"-webkit-text-size-adjust: auto;=
+ background-color: rgba(255, 255, 255, 0);">However, one thing that I have =
+understood is that it is the "heart" that matters in every situation. That =
+is, the intention behind any action. If the intention is pure, the action c=
+annot be wrong. Laws, rules, regulations, morals are all made by man. The A=
+lmighty just sees the purity of heart of the doer - you cannot cheat here. =
+Visiting temples, large ceremonies and complicated rituals done with the in=
+tention of showing off , without true love, do not have any value. Nor does=
+ fear have any place. THe Almighty just sees the true love and sincerity in=
+ your heart while performing any action.And with true love and sincerity co=
+me complete trust which leads to acceptance of the what we call " bad" also=
+. We are all just playing out our earlier karmic choices. We can do it with=
+ a child's love and trusting heart, with cunning or with tears and lamentin=
+g "why me?". The choice is ours.</span></div><div><span style=3D"-webkit-te=
+xt-size-adjust: auto; background-color: rgba(255, 255, 255, 0);"><br></span=
+></div><div><span style=3D"-webkit-text-size-adjust: auto; background-color=
+: rgba(255, 255, 255, 0);">I just wanted to share my little insight with fe=
+llow seekers and look forward to your comments.</span></div><div><span styl=
+e=3D"-webkit-text-size-adjust: auto; background-color: rgba(255, 255, 255, =
+0);"><br></span></div><div><span style=3D"-webkit-text-size-adjust: auto; b=
+ackground-color: rgba(255, 255, 255, 0);">Regards,</span></div><div><span s=
+tyle=3D"-webkit-text-size-adjust: auto; background-color: rgba(255, 255, 25=
+5, 0);">Sujata<br><br>Sent from my iPad </span></div><div><span style=
+=3D"-webkit-text-size-adjust: auto; background-color: rgba(255, 255, 255, 0=
+);"><br>On 27-May-2014, at 2:47 AM, <a href=3D"mailto:vedic-wisdom@yah=
+oogroups.com">vedic-wisdom@yahoogroups.com</a> wrote:<br><br></span></=
+div><blockquote type=3D"cite"><div><div style=3D"font-weight: bold; height:=
+ 50px; "><div style=3D"float: left; padding: 5px 0px 2px 20px; "><a href=3D=
+"https://groups.yahoo.com/neo;_ylc=3DX3oDMTJlZDFzZmxmBF9TAzk3MzU5NzE1BGdycE=
+lkAzE5MDI5MDE1BGdycHNwSWQDMTcwNTA3NTk5MQRzZWMDZnRyBHNsawNnZnAEc3RpbWUDMTQwM=
+TE3NjgyNQ--" style=3D"text-decoration: none; -webkit-text-size-adjust: auto=
+; background-color: rgba(255, 255, 255, 0);"><font color=3D"#000000"><img s=
+rc=3D"http://l.yimg.com/ru/static/images/yg/img/email/new_logo/logo-groups-=
+transparent-180x40.png" border=3D"0" alt=3D"Yahoo! Groups"></font></a></div=
+><div style=3D"float: right; padding: 20px 30px 7px 0px; max-width: 550px; =
+"><a href=3D"https://groups.yahoo.com/neo/groups/vedic-wisdom/info;_ylc=3DX=
+3oDMTJlY2JzdWx0BF9TAzk3MzU5NzE1BGdycElkAzE5MDI5MDE1BGdycHNwSWQDMTcwNTA3NTk5=
+MQRzZWMDaGRyBHNsawNocGgEc3RpbWUDMTQwMTE3NjgyNA--" style=3D"text-decoration:=
+ none; -webkit-text-size-adjust: auto; background-color: rgba(255, 255, 255=
+, 0);"><font color=3D"#000000">Wisdom of Vedic Rishis Group</font></a>=
+</div><div style=3D"clear: both; "></div></div><div style=3D"border-top-wid=
+th: 1px; border-top-color: rgb(221, 221, 221); border-left-width: 1px; bord=
+er-left-color: rgb(221, 221, 221); border-right-width: 1px; border-right-co=
+lor: rgb(221, 221, 221); border-bottom-style: none; font-weight: bold; "><h=
+1 style=3D"float: left; padding: 14px 0px 11px 20px; "><font color=3D"#0000=
+00" size=3D"3"><span style=3D"-webkit-text-size-adjust: auto; background-co=
+lor: rgba(255, 255, 255, 0);">3 Messages</span></font></h1><div style=3D"fl=
+oat: right; padding: 14px 30px 10px 0px; margin-top: 7px; "><font color=3D"=
+#000000"><span style=3D"-webkit-text-size-adjust: auto; background-color: r=
+gba(255, 255, 255, 0);">Digest #2048</span></font></div><div style=3D"clear=
+: both; "></div><div style=3D"clear: both; "></div></div><div style=3D"bord=
+er: 1px solid rgb(221, 221, 221); "><font color=3D"#000000"><span style=3D"=
+-webkit-text-size-adjust: auto; background-color: rgba(255, 255, 255, 0);">=
+<a name=3D"toc"></a></span></font><div style=3D"float: left; width: 642px; =
+"><div style=3D"padding: 5px 18px 4px; "><div style=3D"text-align: -webkit-=
+auto; float: left; width: 30px; font-weight: bold; "><font color=3D"#000000=
+"><span style=3D"-webkit-text-size-adjust: auto; background-color: rgba(255=
+, 255, 255, 0);">1a</span></font></div><div style=3D"float: left; padding: =
+0px 0px 0px 10px; font-weight: bold; "><font color=3D"#000000"><span style=
+=3D"-webkit-text-size-adjust: auto; background-color: rgba(255, 255, 255, 0=
+);"><a href=3D"x-apple-msg-load://843A3244-099A-4BD9-873E-D4E3046FC6C1/#1a"=
+ style=3D"text-decoration: none; ">Impure actions and liberation (Re: Is it=
+ easy to practise..) </a><span style=3D"margin-left: 3px; ">by "Narasi=
+mha P.V.R. Rao" pvr108</span></span></font></div><div style=3D"clear: both;=
+ "></div></div><div style=3D"height: 1px; margin-top: 2px; margin-bottom: 2=
+px; "></div><div style=3D"padding: 5px 18px 4px; "><div style=3D"text-align=
+: -webkit-auto; float: left; width: 30px; font-weight: bold; "><font color=
+=3D"#000000"><span style=3D"-webkit-text-size-adjust: auto; background-colo=
+r: rgba(255, 255, 255, 0);">2a</span></font></div><div style=3D"float: left=
+; padding: 0px 0px 0px 10px; font-weight: bold; "><font color=3D"#000000"><=
+span style=3D"-webkit-text-size-adjust: auto; background-color: rgba(255, 2=
+55, 255, 0);"><a href=3D"x-apple-msg-load://843A3244-099A-4BD9-873E-D4E3046=
+FC6C1/#2a" style=3D"text-decoration: none; ">Ganapati Atharva Shirsham =
+;</a><span style=3D"margin-left: 3px; ">by king_tanvir</span></span></font>=
+</div><div style=3D"clear: both; "></div></div><div style=3D"border-bottom-=
+style: none; padding: 5px 18px 7px; "><div style=3D"text-align: -webkit-aut=
+o; float: left; width: 30px; font-weight: bold; "><font color=3D"#000000"><=
+span style=3D"-webkit-text-size-adjust: auto; background-color: rgba(255, 2=
+55, 255, 0);">2b</span></font></div><div style=3D"float: left; padding: 0px=
+ 0px 0px 10px; font-weight: bold; "><font color=3D"#000000"><span style=3D"=
+-webkit-text-size-adjust: auto; background-color: rgba(255, 255, 255, 0);">=
+<a href=3D"x-apple-msg-load://843A3244-099A-4BD9-873E-D4E3046FC6C1/#2b" sty=
+le=3D"text-decoration: none; ">Re: Ganapati Atharva Shirsham </a><span=
+ style=3D"margin-left: 3px; ">by "Narasimha P.V.R. Rao" pvr108</span></span=
+></font></div><div style=3D"clear: both; "></div></div></div><div style=3D"=
+clear: both; "></div></div><p></p><div style=3D"margin-top: 27px; "><div><h=
+1 style=3D"padding: 0px 0px 10px 10px; margin: 0px; "><font color=3D"#00000=
+0" size=3D"3"><span style=3D"-webkit-text-size-adjust: auto; background-col=
+or: rgba(255, 255, 255, 0);">Messages</span></font></h1><div style=3D"float=
+: left; margin-bottom: 40px; "><div><h2 style=3D"text-align: -webkit-auto; =
+float: left; margin: 0px 0px 0px 10px; padding: 0px; "><font color=3D"#0000=
+00" size=3D"3"><span style=3D"-webkit-text-size-adjust: auto; background-co=
+lor: rgba(255, 255, 255, 0);">1a</span></font></h2><h2 style=3D"float: left=
+; padding: 0px; margin: 0px 0px 0px 10px; "><a href=3D"https://groups.yahoo=
+.com/neo/groups/vedic-wisdom/conversations/topics/10308;_ylc=3DX3oDMTJzazhj=
+cTJoBF9TAzk3MzU5NzE1BGdycElkAzE5MDI5MDE1BGdycHNwSWQDMTcwNTA3NTk5MQRtc2dJZAM=
+xMDMwOARzZWMDZG1zZwRzbGsDdm1zZwRzdGltZQMxNDAxMTc2ODI1" name=3D"1a" style=3D=
+"text-decoration: none; -webkit-text-size-adjust: auto; background-color: r=
+gba(255, 255, 255, 0);"><font color=3D"#000000" size=3D"3">Impure actions a=
+nd liberation (Re: Is it easy to practise..)</font></a></h2><div style=3D"c=
+lear: both; "></div></div><div style=3D"float: left; margin-left: 40px; "><=
+h4 style=3D"float: left; margin: 0px; "><font color=3D"#000000"><span style=
+=3D"-webkit-text-size-adjust: auto; background-color: rgba(255, 255, 255, 0=
+);">Mon May 26, 2014 7:44 am (PDT) . Posted by:</span></font=
+></h4><h3 style=3D"float: left; font-weight: normal; margin: 0px 0px 0px 1p=
+x; padding: 0px; "><a href=3D"mailto:pvr108@...?subject=3DRe%3A%20Imp=
+ure%20actions%20and%20liberation%20%28Re%3A%20Is%20it%20easy%20to%20practis=
+e%2E%2E%29" style=3D"text-decoration: none; -webkit-text-size-adjust: auto;=
+ background-color: rgba(255, 255, 255, 0);"><font color=3D"#000000" size=3D=
+"3">"Narasimha P.V.R. Rao" pvr108</font></a></h3></div><div style=3D"clear:=
+ both; "></div><div style=3D"float: left; margin-top: 22px; margin-bottom: =
+6px; margin-left: 40px; "><font color=3D"#000000"><span style=3D"-webkit-te=
+xt-size-adjust: auto; background-color: rgba(255, 255, 255, 0);">Namaste Si=
+r,<br><br>If one believes that certain actions are too impure to be offered=
+ to Lord, one can of course avoid those actions and perform actions that on=
+e believes are worthy of being offered to Lord.<br><br>However, I'd make su=
+ch a judgment on only myself and modify MY actions. I wouldn't be prejudice=
+d about someone els's actions. Someone else may be able to perform an actio=
+n that I'd consider very impure and yet be able to offer it to Lord whole-h=
+eartedly. If one does that, Lord may indeed accept the action (and grant li=
+beration). Who are we to second guess Lord?<br><br>*    =
+;    *        *<br><br>&g=
+t; Its almost like approving the Devdasi system.<br>Who am I (or who are yo=
+u) to approve or disapprove anything?<br><br>The circumstances people end u=
+p in are dependent on their actions and desires from the past.Exerting free=
+will within the constraints of those circumstances, people engage in new ac=
+tions and entertain new desires.These new actions and desires become the fo=
+undation for future life circumstances. This cycle goes on as long as there=
+ are some desires.<br><br>After going through many lives with many circumst=
+ances, actions and desires, one may reach a desireless state. After that, a=
+ctions may continue based on previous momentum and different circumstances =
+may ensure as a result. But, eventually actions cease in the absence of des=
+ires.<br><br>Irrespective of whether others approve or not, people who have=
+ obtained the right balance between life circumstances, actions and desires=
+ will reach that desireless state. There are examples in scripture of even =
+a cholera virus becoming liberated. Why not then a human being, in spite of=
+ being in terrible circumstances?<br><br>Again, if you believe certain peop=
+le are too impure to make spiritual progress and their actions too impure t=
+o be offered to lord, you can avoid those people and those actions.<br><br>=
+*        *     =
+   *<br><br>Dharma and moksha are different. Dharma comes with ru=
+les for maintaining an order in the society. There are universal dharmas an=
+d there are subtle personal dharmas that change from person to person. But =
+the purpose of all dharma is to maintain some orderliness.<br>Following dha=
+rma is very important if one wants moksha. But moksha is about *non-volitio=
+nal spontaneity* rather than following rules.<br><br>If one does not follow=
+ rules, *volition* does not cease. One can be spontaneous, but it may not b=
+e *non-volitional*. On the other hand, if one keeps following rules, one wi=
+ll keep following them for ever and spontaneity may never develop.<br><br>T=
+he leap from strictly following rules to non-volitional spontaneity is not =
+easy..<br><br>Best regards,<br><br>Narasimha<br>--------<br>Astrology &=
+ Spirituality Resources: <a href=3D"http://www.vedicastrologer.org/">h=
+ttp://www.VedicAstrologer.org</a><br>--------<br><br>>__________________=
+______________<br>> From: "<a href=3D"mailto:jaidixit74@...">jaidi=
+xit74@...</a> [vedic-wisdom]" <<a href=3D"mailto:vedic-wisdom=
+@yahoogroups.com">vedic-wisdom@yahoogroups.com</a>><br>>To: <a h=
+ref=3D"mailto:vedic-wisdom@yahoogroups.com">vedic-wisdom@yahoogroups.com</a=
+> <br>>Sent: Monday, May 26, 2014 12:31 AM<br>>Subject: [vedic-w=
+isdom] Re: Is it easy to practise Hinduism in West ?<br>> <br>><=
+br>><br>>  <br>>Dear PVR-ji<br>><br>><br>>Altho=
+ugh I get your point of being selfless in whatever one does, I  think =
+you have taken this a bit too far in your example. Its almost like approvin=
+g the Devdasi system.<br>><br>><br>>A prostitute in an inner city =
+in US may develop detachment, surrender and selflessness and engage in her =
+work with no pride or shame and as respectful and loving offering to god in=
+ the form of her customers, and become liberated.<br>>    A pr=
+ostitute in an inner city in US burns her Karma she is supposed to burn bec=
+ause of the Kamas she had created herself in her past lives. If she has the=
+ good Karmic balance in her, help may come to her out of the profession or =
+she herself develops the will to get out of the profession. No need to serv=
+e her sinful customers as an offering to God. <br>><br>><br>>=
+What'<wbr>s your advise to a contract killer or a terrorist ? Offering thei=
+r killing(s) to God ? If you say a contract killer or a terrorist with a tr=
+ue sense of surrendering/<wbr>offering to God would not be a terrorist or c=
+ontract killer in the first place, same should apply to your original examp=
+le as well.<br>><br>><br>>Please do not take this personally. I ha=
+ve immense respect for your selfless contribution in Vedic astrology , vedi=
+c wisdom and your overall scholarship. I'm just a silly person trying to ob=
+serve little things.<br>><br>><br>>Regards,<br>>Jai<br>></sp=
+an></font></div><div style=3D"clear: both; "></div><div style=3D"clear: bot=
+h; "></div><div style=3D"clear: both; "></div><div style=3D"height: 25px; m=
+argin-left: 40px; margin-top: 10px; "><div style=3D"font-weight: bold; bord=
+er-top-width: 1px; border-top-color: rgb(255, 255, 255); padding: 5px 0px 5=
+px 10px; "><font color=3D"#000000"><span style=3D"-webkit-text-size-adjust:=
+ auto; background-color: rgba(255, 255, 255, 0);"><span style=3D"margin-rig=
+ht: 4px; "><a href=3D"mailto:pvr108@...?subject=3DRe%3A%20Impure%20ac=
+tions%20and%20liberation%20%28Re%3A%20Is%20it%20easy%20to%20practise%2E%2E%=
+29" style=3D"text-decoration: none; ">Reply to sender </a></span>.&nbs=
+p;<span style=3D"margin: 0px 4px; "><a href=3D"mailto:vedic-wisdom@yahoogro=
+ups.com?subject=3DRe%3A%20Impure%20actions%20and%20liberation%20%28Re%3A%20=
+Is%20it%20easy%20to%20practise%2E%2E%29" style=3D"text-decoration: none; ">=
+Reply to group </a></span>. <span style=3D"margin: 0px 4px; "><a =
+href=3D"https://groups.yahoo.com/neo/groups/vedic-wisdom/conversations/mess=
+ages/10308;_ylc=3DX3oDMTJzZmlqdGxoBF9TAzk3MzU5NzE1BGdycElkAzE5MDI5MDE1BGdyc=
+HNwSWQDMTcwNTA3NTk5MQRtc2dJZAMxMDMwOARzZWMDZG1zZwRzbGsDcnBseQRzdGltZQMxNDAx=
+MTc2ODI1?act=3Dreply&messageNum=3D10308" style=3D"text-decoration: none=
+; ">Reply via Web Post </a></span>. <span style=3D"margin: 0px 4p=
+x; "><a href=3D"https://groups.yahoo.com/neo/groups/vedic-wisdom/conversati=
+ons/topics/10208;_ylc=3DX3oDMTM4OWs0dmc2BF9TAzk3MzU5NzE1BGdycElkAzE5MDI5MDE=
+1BGdycHNwSWQDMTcwNTA3NTk5MQRtc2dJZAMxMDMwOARzZWMDZG1zZwRzbGsDdnRwYwRzdGltZQ=
+MxNDAxMTc2ODI1BHRwY0lkAzEwMjA4" style=3D"text-decoration: none; ">All Messa=
+ges	 (19) </a></span>. <span style=3D"margin: 0px 9px; "><a href=
+=3D"x-apple-msg-load://843A3244-099A-4BD9-873E-D4E3046FC6C1/#toc" style=3D"=
+text-decoration: none; ">Top ^</a></span></span></font><div style=3D"clear:=
+ both; "></div></div></div></div><div style=3D"clear: both; "></div><div st=
+yle=3D"float: left; margin-bottom: 40px; "><div><h2 style=3D"text-align: -w=
+ebkit-auto; float: left; margin: 0px 0px 0px 10px; padding: 0px; "><font co=
+lor=3D"#000000" size=3D"3"><span style=3D"-webkit-text-size-adjust: auto; b=
+ackground-color: rgba(255, 255, 255, 0);">2a</span></font></h2><h2 style=3D=
+"float: left; padding: 0px; margin: 0px 0px 0px 10px; "><a href=3D"https://=
+groups.yahoo.com/neo/groups/vedic-wisdom/conversations/topics/10309;_ylc=3D=
+X3oDMTJzaHI3Z2ZiBF9TAzk3MzU5NzE1BGdycElkAzE5MDI5MDE1BGdycHNwSWQDMTcwNTA3NTk=
+5MQRtc2dJZAMxMDMwOQRzZWMDZG1zZwRzbGsDdm1zZwRzdGltZQMxNDAxMTc2ODI1" name=3D"=
+2a" style=3D"text-decoration: none; -webkit-text-size-adjust: auto; backgro=
+und-color: rgba(255, 255, 255, 0);"><font color=3D"#000000" size=3D"3">Gana=
+pati Atharva Shirsham</font></a></h2><div style=3D"clear: both; "></div></d=
+iv><div style=3D"float: left; margin-left: 40px; "><h4 style=3D"float: left=
+; margin: 0px; "><font color=3D"#000000"><span style=3D"-webkit-text-size-a=
+djust: auto; background-color: rgba(255, 255, 255, 0);">Mon May 26,&nb=
+sp;2014 12:18 pm (PDT) . Posted by:</span></font></h4><h3 style=3D"flo=
+at: left; font-weight: normal; margin: 0px 0px 0px 1px; padding: 0px; "><a =
+href=3D"mailto:tan.vir@...?subject=3DRe%3A%20Ganapati%20Atharv=
+a%20Shirsham" style=3D"text-decoration: none; -webkit-text-size-adjust: aut=
+o; background-color: rgba(255, 255, 255, 0);"><font color=3D"#000000" size=
+=3D"3">king_tanvir</font></a></h3></div><div style=3D"clear: both; "></div>=
+<div style=3D"float: left; margin-top: 22px; margin-bottom: 6px; margin-lef=
+t: 40px; "><font color=3D"#000000"><span style=3D"-webkit-text-size-adjust:=
+ auto; background-color: rgba(255, 255, 255, 0);">Namaste Narasimha Ji and =
+others. <br><br>I was trying to know more about Ganapati Atharva Shirs=
+ham. I have got some questions regarding it - <br><br>1) I saw a site =
+which marked it's main part as 'avartan&#<wbr>39; [ repeat / rotation ?=
+ ] which excludes the shanti mantra from the beginning and the end, and als=
+o the phala-shrutih. There he suggested that only the avartan part should b=
+e repeated and the shanti mantras and the phala-shrutih should be recited o=
+nly once. It means he suggested that if one wants to recite it five times, =
+he should only recite the avartan part five times, and after that, recite t=
+he phala-shrutih once. What is your opinion regarding this? <br><br>2)=
+ In Narasimha Ji's homam manual, the phala-shrutih of Ganapati Atharva Shir=
+sham has not been included. Could you please tell me the actual role, impor=
+tance and the necessity of reciting the phala-shrutih for any mantra / stot=
+ram? <br><br>3) Should we include / exclue phala-shruti of this mantra=
+ and other mantras (Such as Shri Suktam etc.) while offering ahuti with the=
+se in a homam? I mean, can we also recite phala-shruti in homam? Since Nara=
+simha Ji excluded it. <br><br>Thanks <br>Tanvir <br><br><br>=
+</span></font></div><div style=3D"clear: both; "></div><div style=3D"clear:=
+ both; "></div><div style=3D"clear: both; "></div><div style=3D"height: 25p=
+x; margin-left: 40px; margin-top: 10px; "><div style=3D"font-weight: bold; =
+border-top-width: 1px; border-top-color: rgb(255, 255, 255); padding: 5px 0=
+px 5px 10px; "><font color=3D"#000000"><span style=3D"-webkit-text-size-adj=
+ust: auto; background-color: rgba(255, 255, 255, 0);"><span style=3D"margin=
+-right: 4px; "><a href=3D"mailto:tan.vir@...?subject=3DRe%3A%2=
+0Ganapati%20Atharva%20Shirsham" style=3D"text-decoration: none; ">Reply to =
+sender </a></span>. <span style=3D"margin: 0px 4px; "><a href=3D"=
+mailto:vedic-wisdom@yahoogroups.com?subject=3DRe%3A%20Ganapati%20Atharva%20=
+Shirsham" style=3D"text-decoration: none; ">Reply to group </a></span>=
+. <span style=3D"margin: 0px 4px; "><a href=3D"https://groups.yahoo.co=
+m/neo/groups/vedic-wisdom/conversations/messages/10309;_ylc=3DX3oDMTJzMnZld=
+mpiBF9TAzk3MzU5NzE1BGdycElkAzE5MDI5MDE1BGdycHNwSWQDMTcwNTA3NTk5MQRtc2dJZAMx=
+MDMwOQRzZWMDZG1zZwRzbGsDcnBseQRzdGltZQMxNDAxMTc2ODI1?act=3Dreply&messag=
+eNum=3D10309" style=3D"text-decoration: none; ">Reply via Web Post </a=
+></span>. <span style=3D"margin: 0px 4px; "><a href=3D"https://groups.=
+yahoo.com/neo/groups/vedic-wisdom/conversations/topics/10309;_ylc=3DX3oDMTM=
+4MHB0cmwwBF9TAzk3MzU5NzE1BGdycElkAzE5MDI5MDE1BGdycHNwSWQDMTcwNTA3NTk5MQRtc2=
+dJZAMxMDMwOQRzZWMDZG1zZwRzbGsDdnRwYwRzdGltZQMxNDAxMTc2ODI1BHRwY0lkAzEwMzA5"=
+ style=3D"text-decoration: none; ">All Messages	 (2) </a></span>. =
+;<span style=3D"margin: 0px 9px; "><a href=3D"x-apple-msg-load://843A3244-0=
+99A-4BD9-873E-D4E3046FC6C1/#toc" style=3D"text-decoration: none; ">Top ^</a=
+></span></span></font><div style=3D"clear: both; "></div></div></div></div>=
+<div style=3D"clear: both; "></div><div style=3D"float: left; margin-bottom=
+: 40px; "><div><h2 style=3D"text-align: -webkit-auto; float: left; margin: =
+0px 0px 0px 10px; padding: 0px; "><font color=3D"#000000" size=3D"3"><span =
+style=3D"-webkit-text-size-adjust: auto; background-color: rgba(255, 255, 2=
+55, 0);">2b</span></font></h2><h2 style=3D"float: left; padding: 0px; margi=
+n: 0px 0px 0px 10px; "><a href=3D"https://groups.yahoo.com/neo/groups/vedic=
+-wisdom/conversations/topics/10310;_ylc=3DX3oDMTJzZzVqNDE2BF9TAzk3MzU5NzE1B=
+GdycElkAzE5MDI5MDE1BGdycHNwSWQDMTcwNTA3NTk5MQRtc2dJZAMxMDMxMARzZWMDZG1zZwRz=
+bGsDdm1zZwRzdGltZQMxNDAxMTc2ODI1" name=3D"2b" style=3D"text-decoration: non=
+e; -webkit-text-size-adjust: auto; background-color: rgba(255, 255, 255, 0)=
+;"><font color=3D"#000000" size=3D"3">Re: Ganapati Atharva Shirsham</font><=
+/a></h2><div style=3D"clear: both; "></div></div><div style=3D"float: left;=
+ margin-left: 40px; "><h4 style=3D"float: left; margin: 0px; "><font color=
+=3D"#000000"><span style=3D"-webkit-text-size-adjust: auto; background-colo=
+r: rgba(255, 255, 255, 0);">Mon May 26, 2014 4:09 pm (PDT) .=
+ Posted by:</span></font></h4><h3 style=3D"float: left; font-weight: normal=
+; margin: 0px 0px 0px 1px; padding: 0px; "><a href=3D"mailto:pvr108@yahoo.c=
+om?subject=3DRe%3A%20Ganapati%20Atharva%20Shirsham" style=3D"text-decoratio=
+n: none; -webkit-text-size-adjust: auto; background-color: rgba(255, 255, 2=
+55, 0);"><font color=3D"#000000" size=3D"3">"Narasimha P.V.R. Rao" pvr108</=
+font></a></h3></div><div style=3D"clear: both; "></div><div style=3D"float:=
+ left; margin-top: 22px; margin-bottom: 6px; margin-left: 40px; "><font col=
+or=3D"#000000"><span style=3D"-webkit-text-size-adjust: auto; background-co=
+lor: rgba(255, 255, 255, 0);">Namaste,<br><br>Many prayers come with phalas=
+rutis, i.e. list of what you can get from it. They are meant to just inspir=
+e someone into the practice and not the main thing. The portion marked as a=
+avartan (repetition) is the real thing. If you want, you may include the re=
+st. If you don't have an opinion, I'd suggest taking them easy.<br><br>Best=
+ regards,<br>Narasimha<br>--------<br>Astrology & Spirituality Resource=
+s: <a href=3D"http://www.vedicastrologer.org/">http://www.VedicAstrolo=
+ger.org</a><br>--------<br><br>>________________________________<br>>=
+ From: "<a href=3D"mailto:tan.vir@...">tan.vir@....b=
+d</a> [vedic-wisdom]" <<a href=3D"mailto:vedic-wisdom@yahoogroups.c=
+om">vedic-wisdom@yahoogroups.com</a>><br>>To: <a href=3D"mailto:=
+vedic-wisdom@yahoogroups.com">vedic-wisdom@yahoogroups.com</a> <br>>=
+;Sent: Monday, May 26, 2014 3:18 PM<br>>Subject: [vedic-wisdom] Ganapati=
+ Atharva Shirsham<br>> <br>><br>><br>>  <br>>=
+Namaste Narasimha Ji and others.<br>><br>>I was trying to know more a=
+bout Ganapati Atharva Shirsham. I have got some questions regarding it -&nb=
+sp;<br>><br>>1) I saw a site which marked it's main part as 'avartan&=
+amp;#<wbr>39; [ repeat / rotation ? ] which excludes the shanti mantra from=
+ the beginning and the end, and also the phala-shrutih. There he suggested =
+that only the avartan part should be repeated and the shanti mantras and th=
+e phala-shrutih should be recited only once. It means he suggested that if =
+one wants to recite it five times, he should only recite the avartan part f=
+ive times, and after that, recite the phala-shrutih once. What is your opin=
+ion regarding this?<br>><br>>2) In Narasimha Ji's homam manual, the p=
+hala-shrutih of Ganapati Atharva Shirsham has not been included. Could you =
+please tell me the actual role, importance and the necessity of reciting th=
+e phala-shrutih for any mantra / stotram?<br>><br>>3) Should we inclu=
+de / exclue phala-shruti of this mantra and other mantras (Such as Shri Suk=
+tam etc.) while offering ahuti with these in a homam? I mean, can we also r=
+ecite phala-shruti in homam? Since Narasimha Ji excluded it.<br>><br>>=
+;Thanks<br>>Tanvir<br>><br>><br>><br>><br>><br>></span=
+></font></div><div style=3D"clear: both; "></div><div style=3D"clear: both;=
+ "></div><div style=3D"clear: both; "></div><div style=3D"height: 25px; mar=
+gin-left: 40px; margin-top: 10px; "><div style=3D"font-weight: bold; border=
+-top-width: 1px; border-top-color: rgb(255, 255, 255); padding: 5px 0px 5px=
+ 10px; "><font color=3D"#000000"><span style=3D"-webkit-text-size-adjust: a=
+uto; background-color: rgba(255, 255, 255, 0);"><span style=3D"margin-right=
+: 4px; "><a href=3D"mailto:pvr108@...?subject=3DRe%3A%20Ganapati%20At=
+harva%20Shirsham" style=3D"text-decoration: none; ">Reply to sender </=
+a></span>. <span style=3D"margin: 0px 4px; "><a href=3D"mailto:vedic-w=
+isdom@yahoogroups.com?subject=3DRe%3A%20Ganapati%20Atharva%20Shirsham" styl=
+e=3D"text-decoration: none; ">Reply to group </a></span>. <span s=
+tyle=3D"margin: 0px 4px; "><a href=3D"https://groups.yahoo.com/neo/groups/v=
+edic-wisdom/conversations/messages/10310;_ylc=3DX3oDMTJzaGprZ21lBF9TAzk3MzU=
+5NzE1BGdycElkAzE5MDI5MDE1BGdycHNwSWQDMTcwNTA3NTk5MQRtc2dJZAMxMDMxMARzZWMDZG=
+1zZwRzbGsDcnBseQRzdGltZQMxNDAxMTc2ODI1?act=3Dreply&messageNum=3D10310" =
+style=3D"text-decoration: none; ">Reply via Web Post </a></span>. =
+;<span style=3D"margin: 0px 4px; "><a href=3D"https://groups.yahoo.com/neo/=
+groups/vedic-wisdom/conversations/topics/10309;_ylc=3DX3oDMTM4ZmEwOHV0BF9TA=
+zk3MzU5NzE1BGdycElkAzE5MDI5MDE1BGdycHNwSWQDMTcwNTA3NTk5MQRtc2dJZAMxMDMxMARz=
+ZWMDZG1zZwRzbGsDdnRwYwRzdGltZQMxNDAxMTc2ODI1BHRwY0lkAzEwMzA5" style=3D"text=
+-decoration: none; ">All Messages	 (2) </a></span>. <span style=
+=3D"margin: 0px 9px; "><a href=3D"x-apple-msg-load://843A3244-099A-4BD9-873=
+E-D4E3046FC6C1/#toc" style=3D"text-decoration: none; ">Top ^</a></span></sp=
+an></font><div style=3D"clear: both; "></div></div></div></div><div style=
+=3D"clear: both; "></div></div><div style=3D"clear: both; "></div></div><di=
+v style=3D"clear: both; "></div></div><div id=3D"ygrp-grfd" style=3D"margin=
+-left: 20px; padding: 15px 0px; "><font color=3D"#000000"><span style=3D"-w=
+ebkit-text-size-adjust: auto; background-color: rgba(255, 255, 255, 0);">||=
+ Om Shaantih Shaantih Shaantih ||<br></span></font></div><div style=3D"clea=
+r: both; "></div><div id=3D"ygrp-vital" style=3D"margin-bottom: 10px; paddi=
+ng: 10px; "><font color=3D"#000000"><span style=3D"-webkit-text-size-adjust=
+: auto; background-color: rgba(255, 255, 255, 0);"><span id=3D"vithd" style=
+=3D"font-weight: bold; "><a href=3D"https://groups.yahoo.com/neo/groups/ved=
+ic-wisdom/info;_ylc=3DX3oDMTJmY2VzdjNoBF9TAzk3MzU5NzE1BGdycElkAzE5MDI5MDE1B=
+GdycHNwSWQDMTcwNTA3NTk5MQRzZWMDdnRsBHNsawN2Z2hwBHN0aW1lAzE0MDExNzY4MjU-" st=
+yle=3D"text-decoration: none; ">VISIT YOUR GROUP</a></span> <ul style=
+=3D"list-style-type: none; margin: 0px; padding: 0px; display: inline; "><l=
+i style=3D"border-right-width: 1px; border-right-style: solid; border-right=
+-color: rgb(0, 0, 0); font-weight: 700; display: inline; padding: 0px 5px; =
+margin-left: 0px; "><span class=3D"cat"><a href=3D"https://groups.yahoo.com=
+/neo/groups/vedic-wisdom/members/all;_ylc=3DX3oDMTJnZnZzNjkyBF9TAzk3MzU5NzE=
+1BGdycElkAzE5MDI5MDE1BGdycHNwSWQDMTcwNTA3NTk5MQRzZWMDdnRsBHNsawN2bWJycwRzdG=
+ltZQMxNDAxMTc2ODI1" style=3D"text-decoration: none; ">New Members</a></span=
+> <span class=3D"ct">1</span></li></ul></span></font></div><div id=3D"=
+ft" style=3D"margin-top: 5px; padding: 0px 2px 0px 0px; clear: both; "><a h=
+ref=3D"https://groups.yahoo.com/neo;_ylc=3DX3oDMTJlZDFzZmxmBF9TAzk3MzU5NzE1=
+BGdycElkAzE5MDI5MDE1BGdycHNwSWQDMTcwNTA3NTk5MQRzZWMDZnRyBHNsawNnZnAEc3RpbWU=
+DMTQwMTE3NjgyNQ--" style=3D"float: left; "><font color=3D"#000000"><span st=
+yle=3D"-webkit-text-size-adjust: auto; background-color: rgba(255, 255, 255=
+, 0);"><img src=3D"http://l.yimg.com/ru/static/images/yg/img/email/new_logo=
+/logo-groups-137x15.png" height=3D"15" width=3D"137" alt=3D"Yahoo! Groups" =
+style=3D"border: 0px; "></span></font></a><div style=3D"float: right; "><fo=
+nt color=3D"#000000"><span style=3D"-webkit-text-size-adjust: auto; backgro=
+und-color: rgba(255, 255, 255, 0);">=E2=80=A2 <a href=3D"https://info.=
+yahoo.com/privacy/us/yahoo/groups/details.html" style=3D"text-decoration: n=
+one; ">Privacy</a> =E2=80=A2 <a href=3D"mailto:vedic-wisdom-unsub=
+scribe@yahoogroups.com?subject=3DUnsubscribe" style=3D"text-decoration: non=
+e; ">Unsubscribe</a> =E2=80=A2 <a href=3D"https://info.yahoo.com/=
+legal/us/yahoo/utos/terms/" style=3D"text-decoration: none; ">Terms of Use<=
+/a></span></font></div></div></blockquote><span style=3D"-webkit-text-size-=
+adjust: auto;">Sent from my iPad </span></div></div></div></div></body=
+></html>
+--Apple-Mail-0A0B3A6D-F011-44F7-BF53-68C053138CE5--
+
+

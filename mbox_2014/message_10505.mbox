@@ -1,0 +1,494 @@
+From rajarshi14@...  Wed Feb 17 11:07:45 2016
+Return-Path: <rajarshi14@...>
+X-Sender: rajarshi14@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 19841 invoked by uid 102); 15 Oct 2014 12:35:51 -0000
+X-Received: from unknown (HELO mtaq3.grp.bf1.yahoo.com) (10.193.84.142)
+  by m2.grp.bf1.yahoo.com with SMTP; 15 Oct 2014 12:35:51 -0000
+X-Received: (qmail 3456 invoked from network); 15 Oct 2014 12:35:50 -0000
+X-Received: from unknown (HELO nm22-vm10.bullet.mail.sg3.yahoo.com) (98.138.100.119)
+  by mtaq3.grp.bf1.yahoo.com with SMTP; 15 Oct 2014 12:35:50 -0000
+X-Received: from [106.10.166.63] by nm22.bullet.mail.sg3.yahoo.com with NNFMP; 15 Oct 2014 12:35:48 -0000
+X-Received: from [106.10.151.250] by tm20.bullet.mail.sg3.yahoo.com with NNFMP; 15 Oct 2014 12:35:48 -0000
+X-Received: from [127.0.0.1] by omp1021.mail.sg3.yahoo.com with NNFMP; 15 Oct 2014 12:35:48 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 22372.65863.bm@...
+X-Received: (qmail 18287 invoked by uid 60001); 15 Oct 2014 12:35:47 -0000
+X-YMail-OSG: axxwyt4VM1kJmCS6ey_TfaSa4KxxN.iMok0UzUVJIxXt3LL
+ g2k5Z9rPeKWs_NJw_dAx4AtJIRO5AweHdJDYcr2N5vabEvUN7HfToPpHZSW_
+ shotLcHooTpoCrfy1IEaUQ6UEtPMhq2SL5kR0ig2_ZWBHKz5uq38Kye9heOQ
+ 3mo9KyJqaQMigxDKzWe5geLOQC2N99DVjuoNVXoqPGE4b5hII58uZzoeX8Zz
+ B0AMYCDdyw.1hZ0L5zikDFKjl_pzXc7zrtbil89apcNfT4gz_7W4004q_Lj4
+ XdWHh18piH3QjaUfjFQ.sfB_aDsU7xPtVvpWSNwU24QkVgGCU58KWwNgi7Uh
+ qGrCmQyehKDLQv29LR1RSXAMCheyQl2x0wj8VPJWE_u.GKvEL.DTdz5wn4sm
+ 7KCUQ2lJUuc9x06ehrQsmdx6rF315jhiOy.2nZeSPmOEYqgAW4jJMBgyQsv.
+ slrtBAa4.v.V7EbKyyWGnxkVY763Jdc9TQCZ91ODtI6ozK6LzG2qQRomdvzy
+ ODefPi_M.6.0ACoBJypgeJeVVbP4y.E4MceYfJKPmcs8JbgjuXI5WR9nwNA.
+ bTYSwZRP.xGPtRL89FY.BYqf4DfP3Bs2XJN2tvhlWFQgt7C8q3FrLSDIEc1c
+ E4XzAnX4DVFSSh0_T1GAnu3LZ9HDYOwnyJzkZcm0X3Ub7s6TZb0rxz86_JZh
+ E6wIDkwQMLxcO_GVAm_mUGQ77SGw7H6x.Atbp4eoOVDLvBOhFa075FcehG83
+ jTnCUgET9nTnd_H4Uk_Ku70E0LlmpCOdxOI7fUgzKB9NYcUAwT6kGF8mlhSe
+ fhrHiEHK7Mfb7m.kaM9ruawi5gztLEmfdZWJy_fEuLwb8WRFqO06njQsQ484
+ UkyEKHwiBo9Q1dTA7ltWVWvHYBNYTvCXY06.0YznV0NwF1oFUekmjNLhKKiI
+ sK34k5R1nQ0xUDiiFTZow3_HSGOgOpsLUdOOZUsMj6kKSm4qJdeokkfgG8xz
+ 79HkiGd5PIx1TX3VaxUNRvBXyM0t_JSrJNwDm45mAD5MfKwQu0EjrR69mkAn
+ eoYTNoqMUH4oliakRnSzhDDaXetIHm0.aWMM0s0SkSCGM_4uIVw7JuL75Y3J
+ ZVT5UZDh195lJD.rXzFHpoM0.6ywSQqO4y9Oqu1ErdS2oYI7zLO9zyvyFBDW
+ 4NVbi_1AiUvtKHpmqwq_mhp28.kiWrKKyy0CT08VCG3RvQzVlqJlFVxTmBjR
+ kKFIEDJ9jBuQvNfwmMRHZ9U3C6tFtPe3dgbXlf1Qp0_yYl5EHYjIbIqy7wbU
+ ptWyBBtHbwKYb2RpxGOGvRrmAkCzhwHxrP78COtQewz9OOO45vSdH8cp58JX
+ n_FSz8p_zHVKOs6UFzsUUAItj7zOtvlb98jsgHrsQEj5xAWklhWfmGRpFSYf
+ h2D7LXJ2gn.NNzkgmcdE5o6LFmadPQ.YHa47aRhxIlfgOVySkfw0OjQ9CbOs
+ Nh_2vjQpP3OnZ7WrtZ5X7N9FPY9NDBap8mIOiJbT_ZpdUrITVN.38w0_veCS
+ JUF7wmqotlXYIb7uUHbOftFOJvij2W5ob4YKYww9O1tv8_5idaotcdY.XMtd
+ Yg8zvHBIyP9z1IuebSmJuQl7H01LDxMZF0VjaAP3COMzhVqW43DneBfKoizI
+ lLxVSCuSVkCFf6GdHri7HaDymlIpSySYJ4HSeC0emW.og48NTb0gMYvC1Xok
+ kzZ7Z7W7B_f.essiuTVPnVAVMURQeS5IRiy5NII9stLWb19lX_7xEQZGHb8Y
+ azVUzf1OYffOnUic8dPQ_HTby_YUUHCXKESx0_u4VnvjZ9zqQL_pYj5iI83m
+ 5cCTbQ09fC1CM5PGu2KJSxZUqyo9frS9BcfRTFaeufDuVA4aNVZlbdPbl0Ie
+ _vsumTYSf0BqqAdhQ1DOnBguvxz3mN7RhVJzacmILQVFbywvbLYweeu8nEc0
+ -
+X-Received: from [116.73.244.131] by web190902.mail.sg3.yahoo.com via HTTP; Wed, 15 Oct 2014 20:35:47 SGT
+X-Rocket-MIMEInfo: 002.001,TmFtYXN0ZSwKClllcyBzYW1pZGhhcyBidXJuIHZlcnkgZmFzdC4gVGhleSBhcmUgaWRlYWwgZm9yIGNyZWF0aW5nIHRoZSBmaXJzdCB5YW50cmEsIGlmIG9uZSB1c2VzIHNvLCBidXQgdGhlIGJ1bGsgb2YgdGhlIGZ1ZWwgaGFzIGJlIGVpdGhlciB3b29kIG9yIGNvcHJhIG9yIHNvbWV0aGluZyBsaWtlIHRoYXQuCgpJIHVzZSBjb3cgLWR1bmcgY2FrZXMgZm9yIGFsbW9zdCBhbGwgaG9tYXMuIEl0IHByb2R1Y2VzIGNvbnNpZGVyYWJsZSBhbW91bnQgb2Ygc21va2UuIEl0IGlzIGJlc3QgdG8gdXNlIHRoZW0gd2gBMAEBAQE-
+X-Mailer: YahooMailWebService/0.8.203.696
+References: <m1lp2f+1lpdtu6@...>
+Message-ID: <1413376547.54123.YahooMailNeo@...>
+Date: Wed, 15 Oct 2014 20:35:47 +0800
+To: "vedic-wisdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com>
+In-Reply-To: <m1lp2f+1lpdtu6@...>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="192144850-210969350-1413376547=:54123"
+X-Originating-IP: 106.10.151.57
+Reply-To: rajarshi nandy <rajarshi14@...>
+Subject: Re: [vedic-wisdom] samidhas and cow-dung cakes
+X-Yahoo-Group-Post: member; u=216162964; y=ldHDOC4R9CT1tMMpf1Y04nqARzDDWNleiGiSUyVJO09RKOXARg
+X-Yahoo-Profile: rajarshi14
+From: rajarshi nandy <rajarshi14@...>
+
+
+--192144850-210969350-1413376547=:54123
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Namaste,
+
+Yes samidhas burn very fast. They are ideal for creating the firs=
+t yantra, if one uses so, but the bulk of the fuel has be either wood or co=
+pra or something like that.
+
+I use cow -dung cakes for almost all homas. It=
+ produces considerable amount of smoke. It is best to use them while doing =
+open air homas, if not, then limited use if fine depending on how much of t=
+he smoke is bearable/acceptable to the person doing the homa.
+
+The smoke fr=
+om burnt cow-dung cakes do help to purify the place of negative energies to=
+ some extent. This is one method, not the only one. OTOH inhaling too much =
+of that smoke for long periods can lead to breathing and/or lung problems. =
+So I guess it is best to strike a comfortable balance which comes through p=
+ractice..
+
+Hope this  helps.
+
+-Regards
+ Rajarshi
+ 
+
+I have a hundred lives =
+before me yet/ To grasp thee in, O spirit ethereal, / Be sure I will with h=
+eart insatiate/ Pursue thee like a hunter through them all.-Sri Aurobindo
+
+=
+
+On Wednesday, 15 October 2014 5:54 PM, "vsra_prasad@... [vedic-wisdo=
+m]" <vedic-wisdom@yahoogroups.com> wrote:
+ 
+
+
+  
+Namaste Narasimha.
+
+I do n=
+ot see you mentioning cow-dung cakes in the manual. Is it fine to use them =
+for SriKrsna homam ?
+
+Also, just curious; do you use samidhas for your dail=
+y chandi homam ? or mostly dry coconut pieces ?
+
+Mostly I saw that samidhas=
+ burn very fast and unless the kundam is really big, the burnt ashes fall d=
+own and block the oxygen flow putting off fire faster post purnahuti.
+
+I li=
+ked to do one homam only with samidhas and cow-dung cakes and see how it wo=
+rks out, suggestions / advice welcome.
+
+rAma
+
+--192144850-210969350-1413376547=:54123
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"color:#000; background-color:#fff; font-family:He=
+lveticaNeue, Helvetica Neue, Helvetica, Arial, Lucida Grande, Sans-Serif;fo=
+nt-size:12px"><div><span>Namaste,</span></div><div style=3D"color: rgb(0, 0=
+, 0); font-size: 12px; font-family: HelveticaNeue, 'Helvetica Neue', Helvet=
+ica, Arial, 'Lucida Grande', sans-serif; font-style: normal; background-col=
+or: transparent;"><span><br></span></div><div style=3D"color: rgb(0, 0, 0);=
+ font-size: 12px; font-family: HelveticaNeue, 'Helvetica Neue', Helvetica, =
+Arial, 'Lucida Grande', sans-serif; font-style: normal; background-color: t=
+ransparent;">Yes samidhas burn very fast. They are ideal for creating the f=
+irst yantra, if one uses so, but the bulk of the fuel has be either wood or=
+ copra or something like that.</div><div style=3D"color: rgb(0, 0, 0); font=
+-size: 12px; font-family: HelveticaNeue, 'Helvetica Neue', Helvetica, Arial=
+, 'Lucida Grande', sans-serif; font-style: normal; background-color:
+ trans=
+parent;"><br></div><div style=3D"color: rgb(0, 0, 0); font-size: 12px; font=
+-family: HelveticaNeue, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande'=
+, sans-serif; font-style: normal; background-color: transparent;">I use cow=
+ -dung cakes for almost all homas. It produces considerable amount of smoke=
+. It is best to use them while doing open air homas, if not, then limited u=
+se if fine depending on how much of the smoke is bearable/acceptable to the=
+ person doing the homa.</div><div style=3D"color: rgb(0, 0, 0); font-size: =
+12px; font-family: HelveticaNeue, 'Helvetica Neue', Helvetica, Arial, 'Luci=
+da Grande', sans-serif; font-style: normal; background-color: transparent;"=
+><br></div><div style=3D"color: rgb(0, 0, 0); font-size: 12px; font-family:=
+ HelveticaNeue, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-s=
+erif; font-style: normal; background-color: transparent;">The smoke from bu=
+rnt cow-dung cakes do help to purify the place of negative energies
+ to som=
+e extent. This is one method, not the only one. OTOH inhaling too much of t=
+hat smoke for long periods can lead to breathing and/or lung problems. So I=
+ guess it is best to strike a comfortable balance which comes through pract=
+ice..</div><div style=3D"color: rgb(0, 0, 0); font-size: 12px; font-family:=
+ HelveticaNeue, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-s=
+erif; font-style: normal; background-color: transparent;"><br></div><div st=
+yle=3D"color: rgb(0, 0, 0); font-size: 12px; font-family: HelveticaNeue, 'H=
+elvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; font-style: =
+normal; background-color: transparent;">Hope this  helps.</div><div st=
+yle=3D"color: rgb(0, 0, 0); font-size: 12px; font-family: HelveticaNeue, 'H=
+elvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; font-style: =
+normal; background-color: transparent;"><br></div><div style=3D"color: rgb(=
+0, 0, 0); font-size: 12px; font-family: HelveticaNeue, 'Helvetica
+ Neue', H=
+elvetica, Arial, 'Lucida Grande', sans-serif; font-style: normal; backgroun=
+d-color: transparent;">-Regards</div><div style=3D"color: rgb(0, 0, 0); fon=
+t-size: 12px; font-family: HelveticaNeue, 'Helvetica Neue', Helvetica, Aria=
+l, 'Lucida Grande', sans-serif; font-style: normal; background-color: trans=
+parent;"> Rajarshi</div><div></div><div> </div><div><span style=
+=3D"font-family: 'times new roman', 'new york', times, serif;"><br></span><=
+/div><div><i><b><div class=3D"MsoNormal"><span style=3D"font-family: 'times=
+ new roman', 'new york', times, serif;"><b><span class=3D"Apple-style-span"=
+ style=3D"font-size:16px;"><b><span class=3D"Apple-style-span" style=3D"col=
+or:rgb(153, 153, 153);"></span></b></span></b><span class=3D"yui_3_2_0_2_13=
+4243527249950">I have a hundred lives before me yet/ To grasp thee in, O sp=
+irit ethereal, /</span> Be sure I will with heart insatiate/ Pursue thee li=
+ke a hunter through them all.</span><b><span style=3D"font-family: 'times n=
+ew
+ roman', 'new york', times, serif;"> -Sri Aurobindo</span><span class=3D=
+"yui_3_2_0_2_134243506227946 yui_3_2_0_2_134243527249952 yui_3_2_0_2_137332=
+740501958" style=3D"font-size: 10pt; color: navy; font-family: Verdana;"></=
+span></b></div></b></i></div> <div class=3D"qtdSeparateBR"><br><br></div><d=
+iv class=3D"yahoo_quoted" style=3D"display: block;"> <div style=3D"font-fam=
+ily: HelveticaNeue, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sa=
+ns-serif; font-size: 12px;"> <div style=3D"font-family: HelveticaNeue, 'Hel=
+vetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; font-size: 12p=
+x;"> <div dir=3D"ltr"> <font size=3D"2" face=3D"Arial"> On Wednesday, 15 Oc=
+tober 2014 5:54 PM, "vsra_prasad@... [vedic-wisdom]" <vedic-wisdom=
+@yahoogroups.com> wrote:<br> </font> </div>  <br><br> <div class=3D"y_ms=
+g_container"><div id=3D"yiv2473774204"><div>
+<span style=3D"display:none;">=
+ </span>
+
+
+<div id=3D"yiv2473774204ygrp-mlmsg" style=3D"">
+  <div id=
+=3D"yiv2473774204ygrp-msg" style=3D"">
+
+
+    <div id=3D"yiv2473774204ygrp-t=
+ext">
+      
+      
+      <div>Namaste Narasimha.</div><div><span><br clear=
+=3D"none"></span></div><div>I do not see you mentioning cow-dung cakes in t=
+he manual. Is it fine to use them for SriKrsna homam ?</div><div><br clear=
+=3D"none"></div><div>Also, just curious; do you use samidhas for your daily=
+ chandi homam ? or mostly dry coconut pieces ?</div><div><br clear=3D"none"=
+></div><div>Mostly I saw that samidhas burn very fast and unless the kundam=
+ is really big, the burnt ashes fall down and block the oxygen flow putting=
+ off fire faster post purnahuti.</div><div><br clear=3D"none"></div><div>I =
+liked to do one homam only with samidhas and cow-dung cakes and see how it =
+works out, suggestions / advice welcome.</div><div><br clear=3D"none"></div=
+><div>rAma</div>
+
+    </div>
+     
+
+    
+    <div style=3D"color:#fff;heigh=
+t:0;"></div></div>
+
+
+</div><style type=3D"text/css">
+#yiv2473774204 #yiv247=
+3774204 --
+  #yiv2473774204ygrp-mkp {
+border:1px solid #d8d8d8;font-family:=
+Arial;margin:10px 0;padding:0 10px;}
+
+#yiv2473774204 #yiv2473774204ygrp-mkp=
+ hr {
+border:1px solid #d8d8d8;}
+
+#yiv2473774204 #yiv2473774204ygrp-mkp #yi=
+v2473774204hd {
+color:#628c2a;font-size:85%;font-weight:700;line-height:122=
+%;margin:10px 0;}
+
+#yiv2473774204 #yiv2473774204ygrp-mkp #yiv2473774204ads =
+{
+margin-bottom:10px;}
+
+#yiv2473774204 #yiv2473774204ygrp-mkp .yiv247377420=
+4ad {
+padding:0 0;}
+
+#yiv2473774204 #yiv2473774204ygrp-mkp .yiv2473774204ad=
+ p {
+margin:0;}
+
+#yiv2473774204 #yiv2473774204ygrp-mkp .yiv2473774204ad a {=
+
+color:#0000ff;text-decoration:none;}
+#yiv2473774204 #yiv2473774204ygrp-spo=
+nsor #yiv2473774204ygrp-lc {
+font-family:Arial;}
+
+#yiv2473774204 #yiv247377=
+4204ygrp-sponsor #yiv2473774204ygrp-lc #yiv2473774204hd {
+margin:10px 0px;f=
+ont-weight:700;font-size:78%;line-height:122%;}
+
+#yiv2473774204 #yiv2473774=
+204ygrp-sponsor #yiv2473774204ygrp-lc .yiv2473774204ad {
+margin-bottom:10px=
+;padding:0 0;}
+
+#yiv2473774204 #yiv2473774204actions {
+font-family:Verdana;=
+font-size:11px;padding:10px 0;}
+
+#yiv2473774204 #yiv2473774204activity {
+ba=
+ckground-color:#e0ecee;float:left;font-family:Verdana;font-size:10px;paddin=
+g:10px;}
+
+#yiv2473774204 #yiv2473774204activity span {
+font-weight:700;}
+
+#=
+yiv2473774204 #yiv2473774204activity span:first-child {
+text-transform:uppe=
+rcase;}
+
+#yiv2473774204 #yiv2473774204activity span a {
+color:#5085b6;text-=
+decoration:none;}
+
+#yiv2473774204 #yiv2473774204activity span span {
+color:=
+#ff7900;}
+
+#yiv2473774204 #yiv2473774204activity span .yiv2473774204underli=
+ne {
+text-decoration:underline;}
+
+#yiv2473774204 .yiv2473774204attach {
+cle=
+ar:both;display:table;font-family:Arial;font-size:12px;padding:10px 0;width=
+:400px;}
+
+#yiv2473774204 .yiv2473774204attach div a {
+text-decoration:none;=
+}
+
+#yiv2473774204 .yiv2473774204attach img {
+border:none;padding-right:5px;=
+}
+
+#yiv2473774204 .yiv2473774204attach label {
+display:block;margin-bottom:=
+5px;}
+
+#yiv2473774204 .yiv2473774204attach label a {
+text-decoration:none;}=
+
+
+#yiv2473774204 blockquote {
+margin:0 0 0 4px;}
+
+#yiv2473774204 .yiv247377=
+4204bold {
+font-family:Arial;font-size:13px;font-weight:700;}
+
+#yiv24737742=
+04 .yiv2473774204bold a {
+text-decoration:none;}
+
+#yiv2473774204 dd.yiv2473=
+774204last p a {
+font-family:Verdana;font-weight:700;}
+
+#yiv2473774204 dd.y=
+iv2473774204last p span {
+margin-right:10px;font-family:Verdana;font-weight=
+:700;}
+
+#yiv2473774204 dd.yiv2473774204last p span.yiv2473774204yshortcuts =
+{
+margin-right:0;}
+
+#yiv2473774204 div.yiv2473774204attach-table div div a =
+{
+text-decoration:none;}
+
+#yiv2473774204 div.yiv2473774204attach-table {
+wi=
+dth:400px;}
+
+#yiv2473774204 div.yiv2473774204file-title a, #yiv2473774204 d=
+iv.yiv2473774204file-title a:active, #yiv2473774204 div.yiv2473774204file-t=
+itle a:hover, #yiv2473774204 div.yiv2473774204file-title a:visited {
+text-d=
+ecoration:none;}
+
+#yiv2473774204 div.yiv2473774204photo-title a, #yiv247377=
+4204 div.yiv2473774204photo-title a:active, #yiv2473774204 div.yiv247377420=
+4photo-title a:hover, #yiv2473774204 div.yiv2473774204photo-title a:visited=
+ {
+text-decoration:none;}
+
+#yiv2473774204 div#yiv2473774204ygrp-mlmsg #yiv2=
+473774204ygrp-msg p a span.yiv2473774204yshortcuts {
+font-family:Verdana;fo=
+nt-size:10px;font-weight:normal;}
+
+#yiv2473774204 .yiv2473774204green {
+col=
+or:#628c2a;}
+
+#yiv2473774204 .yiv2473774204MsoNormal {
+margin:0 0 0 0;}
+
+#y=
+iv2473774204 o {
+font-size:0;}
+
+#yiv2473774204 #yiv2473774204photos div {
+f=
+loat:left;width:72px;}
+
+#yiv2473774204 #yiv2473774204photos div div {
+borde=
+r:1px solid #666666;height:62px;overflow:hidden;width:62px;}
+
+#yiv247377420=
+4 #yiv2473774204photos div label {
+color:#666666;font-size:10px;overflow:hi=
+dden;text-align:center;white-space:nowrap;width:64px;}
+
+#yiv2473774204 #yiv=
+2473774204reco-category {
+font-size:77%;}
+
+#yiv2473774204 #yiv2473774204rec=
+o-desc {
+font-size:77%;}
+
+#yiv2473774204 .yiv2473774204replbq {
+margin:4px;=
+}
+
+#yiv2473774204 #yiv2473774204ygrp-actbar div a:first-child {
+margin-righ=
+t:2px;padding-right:5px;}
+
+#yiv2473774204 #yiv2473774204ygrp-mlmsg {
+font-s=
+ize:13px;font-family:Arial, helvetica, clean, sans-serif;}
+
+#yiv2473774204 =
+#yiv2473774204ygrp-mlmsg table {
+font-size:inherit;font:100%;}
+
+#yiv2473774=
+204 #yiv2473774204ygrp-mlmsg select, #yiv2473774204 input, #yiv2473774204 t=
+extarea {
+font:99% Arial, Helvetica, clean, sans-serif;}
+
+#yiv2473774204 #y=
+iv2473774204ygrp-mlmsg pre, #yiv2473774204 code {
+font:115% monospace;}
+
+#y=
+iv2473774204 #yiv2473774204ygrp-mlmsg * {
+line-height:1.22em;}
+
+#yiv2473774=
+204 #yiv2473774204ygrp-mlmsg #yiv2473774204logo {
+padding-bottom:10px;}
+
+
+#=
+yiv2473774204 #yiv2473774204ygrp-msg p a {
+font-family:Verdana;}
+
+#yiv24737=
+74204 #yiv2473774204ygrp-msg p#yiv2473774204attach-count span {
+color:#1E66=
+AE;font-weight:700;}
+
+#yiv2473774204 #yiv2473774204ygrp-reco #yiv2473774204=
+reco-head {
+color:#ff7900;font-weight:700;}
+
+#yiv2473774204 #yiv2473774204y=
+grp-reco {
+margin-bottom:20px;padding:0px;}
+
+#yiv2473774204 #yiv2473774204y=
+grp-sponsor #yiv2473774204ov li a {
+font-size:130%;text-decoration:none;}
+
+=
+#yiv2473774204 #yiv2473774204ygrp-sponsor #yiv2473774204ov li {
+font-size:7=
+7%;list-style-type:square;padding:6px 0;}
+
+#yiv2473774204 #yiv2473774204ygr=
+p-sponsor #yiv2473774204ov ul {
+margin:0;padding:0 0 0 8px;}
+
+#yiv247377420=
+4 #yiv2473774204ygrp-text {
+font-family:Georgia;}
+
+#yiv2473774204 #yiv24737=
+74204ygrp-text p {
+margin:0 0 1em 0;}
+
+#yiv2473774204 #yiv2473774204ygrp-te=
+xt tt {
+font-size:120%;}
+
+#yiv2473774204 #yiv2473774204ygrp-vital ul li:las=
+t-child {
+border-right:none !important;
+}
+#yiv2473774204 
+</style></div><br=
+><br></div>  </div> </div>  </div> </div></body></html>
+--192144850-210969350-1413376547=:54123--
+
+

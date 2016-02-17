@@ -1,0 +1,565 @@
+From sushma_g_v@...  Wed Feb 17 11:07:44 2016
+Return-Path: <sushma_g_v@...>
+X-Sender: sushma_g_v@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 14442 invoked by uid 102); 5 Oct 2014 06:05:52 -0000
+X-Received: from unknown (HELO mtaq3.grp.bf1.yahoo.com) (10.193.84.142)
+  by m5.grp.bf1.yahoo.com with SMTP; 5 Oct 2014 06:05:52 -0000
+X-Received: (qmail 21743 invoked from network); 5 Oct 2014 06:05:52 -0000
+X-Received: from unknown (HELO nm3-vm0.bullet.mail.bf1.yahoo.com) (98.139.245.163)
+  by mtaq3.grp.bf1.yahoo.com with SMTP; 5 Oct 2014 06:05:52 -0000
+X-Received: from [66.196.81.170] by nm3.bullet.mail.bf1.yahoo.com with NNFMP; 05 Oct 2014 06:05:52 -0000
+X-Received: from [98.139.212.244] by tm16.bullet.mail.bf1.yahoo.com with NNFMP; 05 Oct 2014 06:05:52 -0000
+X-Received: from [127.0.0.1] by omp1053.mail.bf1.yahoo.com with NNFMP; 05 Oct 2014 06:05:52 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 626814.49210.bm@...
+X-Received: (qmail 93118 invoked by uid 60001); 5 Oct 2014 06:05:52 -0000
+X-YMail-OSG: AxCWF5YVM1mSDN62e6imBNPdxo75ATSEUVyA_XR3LFoJba_
+ XK7d0sv2gz4dg8TlBCePUITJJMqPfBf9jbgLalqfU9eUaCJFQMBPoTMJ.v_A
+ ocxGXe06GeVQyg5IT8nmFShExpwmGJFH6cKQSSmCRGQRie6NwZn60yD6W2Bo
+ eaYkHDoxEvC58ZbJ7pOUiXIxssRwqrXpRxHWmezanP51ZviFQ7tY8x3Iv9Bt
+ zjJjcphpx68XE7IQcMUHxCL97NkypI1FKsO91oWhpdeosL2zAmIb43pk_ZAW
+ iFAA7mxrTjD9Qa851I5i8YmG.aaTXcDM3uicmVFxDbTznTzML5Sfjq8.bzAp
+ WSuFEyMPDUxS5.yeblUHrfqDDBTcmLXfY._Rtb4WAkdedPYBP946pLdF9Eoh
+ __MRBy5OmVpQ0aq40bkYgIMCT.PpW8.SwzNd8S2HW8MUpNeqCRIXul72hhGr
+ 5F7TDX3vDpXiYxvdvmu.QlSbRxC4pIoOIeQJj2D73ZK6FxaT7MNnsIStKwf0
+ 0xJruXYPoIqiLeLUqT5C17AZ74f48904oud2GEM.maDtIEm9owOItVnPPDlW
+ yd5Tlb9idMEq_qb1kGfooalkw9fkHCJfvI97sX2Vq98n3q5XE_IntpVFmPVs
+ FUnXz16KApCo2H1HminCHaOXiKFHZDYDp8mG.jmmFabUD9CuRtyDNtE8Vm_l
+ F2iHAQ1TFCOrlx6zF0tTo.ipnifr59IVyufw2Kxf1OA_n4Z52GfNix6VTZ64
+ MMSE0LoTTpF6oZOs0vmCOaJoFTg5uNIKKAS8OrP9sTB.Vw.ifcJl8L.wvcvy
+ mxUEIUwxBr3Wdl9e2CmyPQf8_rxHOGoIaHGdkepjCOOGpLsg79EsGpSbHIvl
+ zGSERSp47T6Zwq.wmddHtJr8agExujcl5rr7xSdMijGpRkBTKKdTc8X998S7
+ .vQOXw4LTjZMhVCbl2M8jlIO5gBmHB8mqSvfFw75foAIsMHvQ5tLePm7L6cx
+ 4Vb2a1_Roz6PEDN2HAPLaggEJpWB7v3a6TQ.yKVSloexIpGQINS.yDq0aBbM
+ akxQfYPWIJ5u.6HSe1ozUDRJqLC2Q4T8_MiSzJNwJJH8yCq.YY9dMyc5w58k
+ tLTkpPSG.5xPeo2J0Q_g6h2xbqQgR24ZI7nuLGdzTOcEH9_iRexu80qomU09
+ ENnuGqCtSdFR7eWWjGKbn_L.zMn2b8lZZzSIAlzSwQfbzXsyhNGFqT8JCdHZ
+ 0Fs6cFiV.ITIBhxLlXq9t.e6IUlva99WFPj1PsBqRjEVKRdpMse1xWiAt_cF
+ 4nPesrzrEtyS_7Z1eI8Fgk0jCv9Gij3aJ2qju4DMTxZF4.rmObJFGFOd.tCF
+ _lUNfNiJSC0nPxrxYiCmiESK5mnHgm8Ro8bhA6A0EkBufr3Y1_nK9Sr.p278
+ iheLs9lzNumjXlRlPbI7Swl8m0WfdcMzk_aab0xnpXzidrsTVPcSI9VQuTG7
+ GmdYHmFjQlQTsCuudCnmDXdQzRfnW4uqz1vEMspGCzcPuedxGYJk9b0UnHAz
+ W8aCfSWMN2WClWI4Df1A8TQq4gHh46NZGtfAyzvALdspE4LjtVedNCgD8uS2
+ E9SPNBSWl38_tAvIcxpaq6dJdiSG_AjVxZlUwSlEfd8QCLrb66a78T7WRM21
+ gUKrc
+X-Received: from [24.6.117.212] by web140204.mail.bf1.yahoo.com via HTTP; Sat, 04 Oct 2014 23:05:52 PDT
+X-Rocket-MIMEInfo: 002.001,VGhhbmtzIEFwYXJuYSwgUmFtYW5hIGZvciB5b3VyIGlucHV0LiBUaGFua3MgZm9yIHRoZSBsaW5rIEFwYXJuYSEgCgpJIGd1ZXNzLCBpZiB0aGUgc3RhdGVtZW50IGhhZCBiZWVuIC0geW91IHdpbGwgYXR0YWluIG1va3NoYSBieSB0cmFpbmluZyB5b3VyIG1pbmQgdG8gYmUgcXVpZXQgZm9yIDUgbWluLCBvciBkb2luZyBzb21ldGhpbmcgdmVyeSBpbXBvcnRhbnQgbGlrZSBiZWluZyBhIHJvY2tldCBzY2llbnRpc3QgLSBJIHdvdWxkIGJlIG1vcmUgY29udmluY2VkLiBCdXQgaXQgaXMgaGFyZCB0byBhY2NlcHQBMAEBAQE-
+X-Mailer: YahooMailWebService/0.8.203.696
+References: <1410805543.12530.YahooMailNeo@...> <1410807517.94078.YahooMailNeo@...> <1411010217.52587.YahooMailNeo@...> <1411090925.16839.YahooMailNeo@...> <1411157693.49947.YahooMailNeo@...>  <1411232048.83719.YahooMailNeo@...> <1411344227.21007.YahooMailNeo@...>	<1412194949.7246.YahooMailNeo@...> <m0iuuo+14o5btk@...>
+Message-ID: <1412489152.76145.YahooMailNeo@...>
+Date: Sat, 4 Oct 2014 23:05:52 -0700
+To: "vedic-wisdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com>
+In-Reply-To: <m0iuuo+14o5btk@...>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="875636525-1429854102-1412489152=:76145"
+X-Originating-IP: 98.139.212.154
+Reply-To: Sushma G V <sushma_g_v@...>
+Subject: Re: [vedic-wisdom] Karma, Karma Tyaga, Jnana etc
+X-Yahoo-Group-Post: member; u=194169698; y=ulmzH8O4SrykKfcqOsoSNeAuxr5a8MoSAeJ14c-Icwi0l1sgbQ
+X-Yahoo-Profile: sushma_g_v
+From: Sushma G V <sushma_g_v@...>
+
+
+--875636525-1429854102-1412489152=:76145
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Thanks Aparna, Ramana for your input. Thanks for the link Aparna! 
+
+I guess=
+, if the statement had been - you will attain moksha by training your mind =
+to be quiet for 5 min, or doing something very important like being a rocke=
+t scientist - I would be more convinced. But it is hard to accept that one =
+can attain moksha just by doing something as mundane and repetitive job suc=
+h as 'sweeping the floor'. 
+
+In some ways I believe that alertness of mind =
+is important. But when you do the same job every single day, how can one ma=
+intain 100% involvement? I guess, it again comes back to how much sadhana o=
+ne does to train the mind. 
+
+- Sushma
+
+
+On Thursday, October 2, 2014 12:30 =
+AM, "sunrise_1080@... [vedic-wisdom]" <vedic-wisdom@yahoogroups.com=
+> wrote:
+ 
+
+
+  
+Many sages have said "give the hands to work and the mind t=
+o God." 
+
+Swami Sivananda says: 
+
+"Fix your mind at the Lotus Feet of the L=
+ord. Give the hands to work. Even when you work, work like the typist or th=
+e harmonium player who types or plays while talking to you, like the woman =
+who knits and talks at the same time. Let your mind be ever attached to the=
+ Lotus Feet of the Lord while your hands are at work. The mind of the girl =
+who has the water-pot on her head, is on the pot even though she talks and =
+jokes with her comrades while walking along the road. You will be able to d=
+o two things at a time by practice. The manual work will become automatic, =
+mechanical or instinctive. You will have two minds. A portion of the mind w=
+ill be at work, while the rest of the mind will be in the service of the Lo=
+rd, in meditation, in Japa."
+
+
+"Repeat the Name of the Lord while at work a=
+lso. Ashtavadhanis do eight things at a time. They play at cards, move the =
+man in Chaturanga play (chess), dictate some passages to a third man, talk =
+to a fourth in order and continuation, and so on. This is a question of tra=
+ining of the mind. Even so, you can so train the mind that it can work with=
+ the hands and can remember God at the same time. This is Karma Yoga and Bh=
+akti Yoga combined".
+
+
+See below for full article on nishkamya karma yoga
+
+=
+Niskamya Karma Yoga
+ 
+   Niskamya Karma Yoga  
+In the practice of Nishkamya=
+ Karma Yoga, there is no loss of effort. There is no harm. There is no tran=
+sgression also.   
+View on sivanandaonline.org     Preview by Yahoo    
+ 
+
+=
+Aparna
+
+
+--875636525-1429854102-1412489152=:76145
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"color:#000; background-color:#fff; font-family:He=
+lveticaNeue, Helvetica Neue, Helvetica, Arial, Lucida Grande, sans-serif;fo=
+nt-size:13px"><div><span>Thanks Aparna, Ramana for your input. Thanks for t=
+he link Aparna! </span></div><div style=3D"color: rgb(0, 0, 0); font-s=
+ize: 13px; font-family: HelveticaNeue, 'Helvetica Neue', Helvetica, Arial, =
+'Lucida Grande', sans-serif; background-color: transparent; font-style: nor=
+mal; "><span><br></span></div><div style=3D"color: rgb(0, 0, 0); font-size:=
+ 13px; font-family: HelveticaNeue, 'Helvetica Neue', Helvetica, Arial, 'Luc=
+ida Grande', sans-serif; background-color: transparent; font-style: normal;=
+ "><span>I guess, if the statement had been - you will attain moksha by tra=
+ining your mind to be quiet for 5 min, or doing something very important li=
+ke being a rocket scientist - I would be more convinced. But it is hard to =
+accept that one can attain moksha just by doing something as mundane and
+ r=
+epetitive job such as 'sweeping the floor'. </span></div><div style=3D=
+"color: rgb(0, 0, 0); font-size: 13px; font-family: HelveticaNeue, 'Helveti=
+ca Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; background-color: =
+transparent; font-style: normal; "><br></div><div style=3D"color: rgb(0, 0,=
+ 0); font-size: 13px; font-family: HelveticaNeue, 'Helvetica Neue', Helveti=
+ca, Arial, 'Lucida Grande', sans-serif; background-color: transparent; font=
+-style: normal; ">In some ways I believe that alertness of mind is importan=
+t. But when you do the same job every single day, how can one maintain 100%=
+ involvement? I guess, it again comes back to how much sadhana one does to =
+train the mind. </div><div style=3D"color: rgb(0, 0, 0); font-size: 13=
+px; font-family: HelveticaNeue, 'Helvetica Neue', Helvetica, Arial, 'Lucida=
+ Grande', sans-serif; background-color: transparent; font-style: normal; ">=
+<br></div><div style=3D"color: rgb(0, 0, 0); font-size: 13px; font-family:
+=
+ HelveticaNeue, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-s=
+erif; background-color: transparent; font-style: normal; ">- Sushma</div><d=
+iv style=3D"color: rgb(0, 0, 0); font-size: 13px; font-family: HelveticaNeu=
+e, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; backgro=
+und-color: transparent; font-style: normal; "><br></div><div class=3D"qtdSe=
+parateBR"><br></div><div class=3D"yahoo_quoted" style=3D"display: block; ">=
+ <div style=3D"font-size: 13px; font-family: HelveticaNeue, 'Helvetica Neue=
+', Helvetica, Arial, 'Lucida Grande', sans-serif; "> <div style=3D"font-siz=
+e: 16px; font-family: HelveticaNeue, 'Helvetica Neue', Helvetica, Arial, 'L=
+ucida Grande', sans-serif; "> <div dir=3D"ltr"> <font size=3D"2" face=3D"Ar=
+ial"> On Thursday, October 2, 2014 12:30 AM, "sunrise_1080@... [ved=
+ic-wisdom]" <vedic-wisdom@yahoogroups.com> wrote:<br> </font> </div> =
+ <br><br> <div class=3D"y_msg_container"><div id=3D"yiv8480448337"><div>
+<s=
+pan style=3D"display:none;"> </span>
+
+
+<div id=3D"yiv8480448337ygrp-ml=
+msg" style=3D"">
+  <div id=3D"yiv8480448337ygrp-msg" style=3D"">
+
+
+    <div=
+ id=3D"yiv8480448337ygrp-text">
+      
+      
+      <div>Many sages have sa=
+id "give the hands to work and the mind to God." </div><div><br clear=
+=3D"none"></div><div>Swami Sivananda says: </div><div><br clear=3D"non=
+e"></div><div><span style=3D"text-align:justify;"><font color=3D"#3f3f3f">"=
+Fix your mind at the Lotus Feet of the Lord. Give the hands to work. Even w=
+hen you work, work like the typist or the harmonium player who types or pla=
+ys while talking to you, like the woman who knits and talks at the same tim=
+e. Let your mind be ever attached to the Lotus Feet of the Lord while your =
+hands are at work. The mind of the girl who has the water-pot on her head, =
+is on the pot even though she talks and jokes with her comrades while walki=
+ng along the road. You will be able to do two things at a time by practice.=
+ The manual work will become automatic, mechanical or instinctive. You will=
+ have two minds. A portion of the mind will be at work, while the rest of t=
+he mind will be in the service of the Lord, in
+ meditation, in Japa."</font=
+></span><br clear=3D"none"></div><div><span style=3D"text-align:justify;"><=
+font color=3D"#3f3f3f"><br clear=3D"none"></font></span></div><div><span st=
+yle=3D"text-align:justify;"><font color=3D"#3f3f3f"><span>"Repeat the Name =
+of the Lord while at work also. Ashtavadhanis do eight things at a time. Th=
+ey play at cards, move the man in Chaturanga play (chess), dictate some pas=
+sages to a third man, talk to a fourth in order and continuation, and so on=
+. This is a question of training of the mind. Even so, you can so train the=
+ mind that it can work with the hands and can remember God at the same time=
+. This is Karma Yoga and Bhakti Yoga combined".</span><br clear=3D"none"></=
+font></span></div><div><span style=3D"text-align:justify;"><font color=3D"#=
+3f3f3f"><br clear=3D"none"></font></span></div><div><span style=3D"text-ali=
+gn:justify;"><font color=3D"#3f3f3f">See below for full article on nishkamy=
+a karma yoga</font></span></div><div><br
+ clear=3D"none"></div><div><span s=
+tyle=3D"font-size: 15px; white-space: nowrap; font-family: Helvetica; "><a =
+rel=3D"nofollow" shape=3D"rect" target=3D"_blank" href=3D"http://sivanandao=
+nline.org/public_html/?cmd=3Ddisplaysection&section_id=3D1151">Niskamya=
+ Karma Yoga</a></span><div class=3D"yiv8480448337link-enhancr-attachment yi=
+v8480448337link-enhancr-element" id=3D"yiv8480448337enhancrCard_1" style=3D=
+"width:450px;" contenteditable=3D"false"> <table class=3D"yiv8480448337link=
+-enhancr-element" cellspacing=3D"0" cellpadding=3D"0" style=3D"width:450px;=
+height:auto;margin-top:5px;margin-bottom:5px;"><tbody><tr class=3D"yiv84804=
+48337link-enhancr-element"><td colspan=3D"6" rowspan=3D"1" class=3D"yiv8480=
+448337link-enhancr-element" style=3D"height:1px;background-color:#e5e5e5;">=
+ <div class=3D"yiv8480448337link-enhancr-element" style=3D"height:1px;backg=
+round-color:#e5e5e5;"></div> </td></tr><tr class=3D"yiv8480448337link-enhan=
+cr-element"><td colspan=3D"1" rowspan=3D"2" class=3D"yiv8480448337link-enha=
+ncr-element"
+ style=3D"width:1px;background-color:#e5e5e5;"> <div class=3D"=
+yiv8480448337link-enhancr-element" style=3D"width:1px;background-color:#e5e=
+5e5;"></div> </td><td colspan=3D"2" rowspan=3D"1" class=3D"yiv8480448337lin=
+k-enhancr-element" style=3D"width:100%;vertical-align:middle;"> <div class=
+=3D"yiv8480448337link-enhancr-text-part yiv8480448337link-enhancr-element" =
+style=3D"background-color:#ffffff;width:448px;"> <div class=3D"yiv848044833=
+7link-enhancr-element" style=3D"padding:7px 20px 0px 14px;"> <span class=3D=
+"yiv8480448337link-enhancr-element yiv8480448337icon yiv8480448337icon-shri=
+nk yiv8480448337link-enhancr-toggle"></span> <span class=3D"yiv8480448337li=
+nk-enhancr-element yiv8480448337icon yiv8480448337icon-close yiv8480448337l=
+ink-enhancr-delete"></span> <a rel=3D"nofollow" shape=3D"rect" class=3D"lin=
+k-enhancr-card-urlWrapper link-enhancr-element" target=3D"_blank" href=3D"h=
+ttp://sivanandaonline.org/public_html/?cmd=3Ddisplaysection&section_id=
+=3D1151" style=3D"text-decoration: none
+ !important; color: #000000 !import=
+ant;" contenteditable=3D"false"> <span class=3D"yiv8480448337link-enhancr-e=
+lement yiv8480448337link-enhancr-card-title" style=3D"margin:0;font-weight:=
+normal;margin-bottom:4px;font-size:18px;max-height:43px;color:#000000;overf=
+low:hidden;">Niskamya Karma Yoga</span> </a>  <div class=3D"yiv8480448337li=
+nk-enhancr-card-description yiv8480448337link-enhancr-element" style=3D"fon=
+t-size:13px;color:#999999;max-height:81px;overflow:hidden;">In the practice=
+ of Nishkamya Karma Yoga, there is no loss of effort. There is no harm. The=
+re is no transgression also. </div>  </div> </div> </td><td colspan=3D"1" r=
+owspan=3D"2" class=3D"yiv8480448337link-enhancr-element" style=3D"width:1px=
+;background-color:#e5e5e5;"> <div class=3D"yiv8480448337link-enhancr-elemen=
+t" style=3D"width:1px;background-color:#e5e5e5;"></div> </td></tr><tr><td c=
+olspan=3D"1" rowspan=3D"1" class=3D"yiv8480448337link-enhancr-element" styl=
+e=3D"width:100%;vertical-align:middle;"> <div
+ class=3D"yiv8480448337link-e=
+nhancr-element" style=3D"font-size:0pt;padding:3px 20px 9px 14px;"> <a rel=
+=3D"nofollow" shape=3D"rect" class=3D"yiv8480448337link-enhancr-card-url yi=
+v8480448337link-enhancr-element" target=3D"_blank" href=3D"http://sivananda=
+online.org/public_html/?cmd=3Ddisplaysection&section_id=3D1151" style=
+=3D"color:black;text-decoration:none;cursor:pointer;"> <span class=3D"yiv84=
+80448337link-enhancr-element yiv8480448337link-enhancr-view-on" style=3D"ma=
+x-width:348px;min-width:288px;overflow:hidden;max-height:13px;"> <span clas=
+s=3D"yiv8480448337link-enhancr-element yiv8480448337link-enhancr-mobile-no-=
+resize" style=3D"vertical-align:middle; font-size: 9px; line-height: 11px; =
+color: #999999; -moz-text-size-adjust: none; -ms-text-size-adjust: none; -w=
+ebkit-text-size-adjust:none; text-size-adjust:none;"> View on <span style=
+=3D"font-weight:bold;">sivanandaonline.org</span> </span> </span> </a>  </d=
+iv> </td><td colspan=3D"1" rowspan=3D"1"
+ class=3D"yiv8480448337link-enhanc=
+r-element" style=3D"vertical-align:middle;width:100px;"> <div class=3D"yiv8=
+480448337link-enhancr-element yiv8480448337link-enhancr-preview-wrapper" st=
+yle=3D"padding:6px 20px 12px 0px;max-width:100px;min-width:80px;overflow:hi=
+dden;text-align:right;max-height:13px;font-size:0pt;"> <span class=3D"yiv84=
+80448337link-enhancr-element yiv8480448337link-enhancr-preview-by yiv848044=
+8337link-enhancr-mobile-no-resize" style=3D"vertical-align:middle; font-siz=
+e: 9px; line-height: 11px; color: #999999; -moz-text-size-adjust: none; -ms=
+-text-size-adjust: none; -webkit-text-size-adjust:none; text-size-adjust:no=
+ne;"> Preview by Yahoo </span> </div> </td></tr><tr class=3D"yiv8480448337l=
+ink-enhancr-element"><td colspan=3D"6" rowspan=3D"1" class=3D"yiv8480448337=
+link-enhancr-element" style=3D"height:1px;background-color:#e5e5e5;"> <div =
+class=3D"yiv8480448337link-enhancr-element" style=3D"height:1px;background-=
+color:#e5e5e5;"></div> </td></tr></tbody></table>
+ </div><div>  </div>=
+<br clear=3D"none"></div><div>Aparna</div><div><br clear=3D"none"></div>
+
+ =
+   </div>
+     
+
+    
+    <div style=3D"color:#fff;height:0;"></div></div>
+=
+
+
+</div><style type=3D"text/css">
+#yiv8480448337 #yiv8480448337 --
+  #yiv84=
+80448337ygrp-mkp {
+border:1px solid #d8d8d8;font-family:Arial;margin:10px 0=
+;padding:0 10px;}
+
+#yiv8480448337 #yiv8480448337ygrp-mkp hr {
+border:1px so=
+lid #d8d8d8;}
+
+#yiv8480448337 #yiv8480448337ygrp-mkp #yiv8480448337hd {
+col=
+or:#628c2a;font-size:85%;font-weight:700;line-height:122%;margin:10px 0;}
+
+=
+#yiv8480448337 #yiv8480448337ygrp-mkp #yiv8480448337ads {
+margin-bottom:10p=
+x;}
+
+#yiv8480448337 #yiv8480448337ygrp-mkp .yiv8480448337ad {
+padding:0 0;}=
+
+
+#yiv8480448337 #yiv8480448337ygrp-mkp .yiv8480448337ad p {
+margin:0;}
+
+#y=
+iv8480448337 #yiv8480448337ygrp-mkp .yiv8480448337ad a {
+color:#0000ff;text=
+-decoration:none;}
+#yiv8480448337 #yiv8480448337ygrp-sponsor #yiv8480448337=
+ygrp-lc {
+font-family:Arial;}
+
+#yiv8480448337 #yiv8480448337ygrp-sponsor #y=
+iv8480448337ygrp-lc #yiv8480448337hd {
+margin:10px 0px;font-weight:700;font=
+-size:78%;line-height:122%;}
+
+#yiv8480448337 #yiv8480448337ygrp-sponsor #yi=
+v8480448337ygrp-lc .yiv8480448337ad {
+margin-bottom:10px;padding:0 0;}
+
+#yi=
+v8480448337 #yiv8480448337actions {
+font-family:Verdana;font-size:11px;padd=
+ing:10px 0;}
+
+#yiv8480448337 #yiv8480448337activity {
+background-color:#e0e=
+cee;float:left;font-family:Verdana;font-size:10px;padding:10px;}
+
+#yiv84804=
+48337 #yiv8480448337activity span {
+font-weight:700;}
+
+#yiv8480448337 #yiv8=
+480448337activity span:first-child {
+text-transform:uppercase;}
+
+#yiv848044=
+8337 #yiv8480448337activity span a {
+color:#5085b6;text-decoration:none;}
+
+=
+#yiv8480448337 #yiv8480448337activity span span {
+color:#ff7900;}
+
+#yiv8480=
+448337 #yiv8480448337activity span .yiv8480448337underline {
+text-decoratio=
+n:underline;}
+
+#yiv8480448337 .yiv8480448337attach {
+clear:both;display:tab=
+le;font-family:Arial;font-size:12px;padding:10px 0;width:400px;}
+
+#yiv84804=
+48337 .yiv8480448337attach div a {
+text-decoration:none;}
+
+#yiv8480448337 .=
+yiv8480448337attach img {
+border:none;padding-right:5px;}
+
+#yiv8480448337 .=
+yiv8480448337attach label {
+display:block;margin-bottom:5px;}
+
+#yiv84804483=
+37 .yiv8480448337attach label a {
+text-decoration:none;}
+
+#yiv8480448337 bl=
+ockquote {
+margin:0 0 0 4px;}
+
+#yiv8480448337 .yiv8480448337bold {
+font-fam=
+ily:Arial;font-size:13px;font-weight:700;}
+
+#yiv8480448337 .yiv8480448337bo=
+ld a {
+text-decoration:none;}
+
+#yiv8480448337 dd.yiv8480448337last p a {
+fo=
+nt-family:Verdana;font-weight:700;}
+
+#yiv8480448337 dd.yiv8480448337last p =
+span {
+margin-right:10px;font-family:Verdana;font-weight:700;}
+
+#yiv8480448=
+337 dd.yiv8480448337last p span.yiv8480448337yshortcuts {
+margin-right:0;}
+=
+
+#yiv8480448337 div.yiv8480448337attach-table div div a {
+text-decoration:n=
+one;}
+
+#yiv8480448337 div.yiv8480448337attach-table {
+width:400px;}
+
+#yiv84=
+80448337 div.yiv8480448337file-title a, #yiv8480448337 div.yiv8480448337fil=
+e-title a:active, #yiv8480448337 div.yiv8480448337file-title a:hover, #yiv8=
+480448337 div.yiv8480448337file-title a:visited {
+text-decoration:none;}
+
+#=
+yiv8480448337 div.yiv8480448337photo-title a, #yiv8480448337 div.yiv8480448=
+337photo-title a:active, #yiv8480448337 div.yiv8480448337photo-title a:hove=
+r, #yiv8480448337 div.yiv8480448337photo-title a:visited {
+text-decoration:=
+none;}
+
+#yiv8480448337 div#yiv8480448337ygrp-mlmsg #yiv8480448337ygrp-msg p=
+ a span.yiv8480448337yshortcuts {
+font-family:Verdana;font-size:10px;font-w=
+eight:normal;}
+
+#yiv8480448337 .yiv8480448337green {
+color:#628c2a;}
+
+#yiv8=
+480448337 .yiv8480448337MsoNormal {
+margin:0 0 0 0;}
+
+#yiv8480448337 o {
+fo=
+nt-size:0;}
+
+#yiv8480448337 #yiv8480448337photos div {
+float:left;width:72p=
+x;}
+
+#yiv8480448337 #yiv8480448337photos div div {
+border:1px solid #666666=
+;height:62px;overflow:hidden;width:62px;}
+
+#yiv8480448337 #yiv8480448337pho=
+tos div label {
+color:#666666;font-size:10px;overflow:hidden;text-align:cen=
+ter;white-space:nowrap;width:64px;}
+
+#yiv8480448337 #yiv8480448337reco-cate=
+gory {
+font-size:77%;}
+
+#yiv8480448337 #yiv8480448337reco-desc {
+font-size:=
+77%;}
+
+#yiv8480448337 .yiv8480448337replbq {
+margin:4px;}
+
+#yiv8480448337 #=
+yiv8480448337ygrp-actbar div a:first-child {
+margin-right:2px;padding-right=
+:5px;}
+
+#yiv8480448337 #yiv8480448337ygrp-mlmsg {
+font-size:13px;font-famil=
+y:Arial, helvetica, clean, sans-serif;}
+
+#yiv8480448337 #yiv8480448337ygrp-=
+mlmsg table {
+font-size:inherit;font:100%;}
+
+#yiv8480448337 #yiv8480448337y=
+grp-mlmsg select, #yiv8480448337 input, #yiv8480448337 textarea {
+font:99% =
+Arial, Helvetica, clean, sans-serif;}
+
+#yiv8480448337 #yiv8480448337ygrp-ml=
+msg pre, #yiv8480448337 code {
+font:115% monospace;}
+
+#yiv8480448337 #yiv84=
+80448337ygrp-mlmsg * {
+line-height:1.22em;}
+
+#yiv8480448337 #yiv8480448337y=
+grp-mlmsg #yiv8480448337logo {
+padding-bottom:10px;}
+
+
+#yiv8480448337 #yiv8=
+480448337ygrp-msg p a {
+font-family:Verdana;}
+
+#yiv8480448337 #yiv848044833=
+7ygrp-msg p#yiv8480448337attach-count span {
+color:#1E66AE;font-weight:700;=
+}
+
+#yiv8480448337 #yiv8480448337ygrp-reco #yiv8480448337reco-head {
+color:#=
+ff7900;font-weight:700;}
+
+#yiv8480448337 #yiv8480448337ygrp-reco {
+margin-b=
+ottom:20px;padding:0px;}
+
+#yiv8480448337 #yiv8480448337ygrp-sponsor #yiv848=
+0448337ov li a {
+font-size:130%;text-decoration:none;}
+
+#yiv8480448337 #yiv=
+8480448337ygrp-sponsor #yiv8480448337ov li {
+font-size:77%;list-style-type:=
+square;padding:6px 0;}
+
+#yiv8480448337 #yiv8480448337ygrp-sponsor #yiv84804=
+48337ov ul {
+margin:0;padding:0 0 0 8px;}
+
+#yiv8480448337 #yiv8480448337ygr=
+p-text {
+font-family:Georgia;}
+
+#yiv8480448337 #yiv8480448337ygrp-text p {
+=
+margin:0 0 1em 0;}
+
+#yiv8480448337 #yiv8480448337ygrp-text tt {
+font-size:1=
+20%;}
+
+#yiv8480448337 #yiv8480448337ygrp-vital ul li:last-child {
+border-ri=
+ght:none !important;
+}
+#yiv8480448337 
+</style></div><br><br></div>  </div>=
+ </div>  </div> </div></body></html>
+--875636525-1429854102-1412489152=:76145--
+
+

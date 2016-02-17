@@ -1,0 +1,802 @@
+From ashish_tank@...  Wed Feb 17 11:07:37 2016
+Return-Path: <ashish_tank@...>
+X-Sender: ashish_tank@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 11435 invoked by uid 102); 28 Feb 2014 09:23:13 -0000
+X-Received: from unknown (HELO mtaq2.grp.bf1.yahoo.com) (10.193.84.33)
+  by m14.grp.bf1.yahoo.com with SMTP; 28 Feb 2014 09:23:13 -0000
+X-Received: (qmail 3814 invoked from network); 28 Feb 2014 09:23:12 -0000
+X-Received: from unknown (HELO nm34.bullet.mail.ne1.yahoo.com) (98.138.229.27)
+  by mtaq2.grp.bf1.yahoo.com with SMTP; 28 Feb 2014 09:23:12 -0000
+X-Received: from [127.0.0.1] by nm34.bullet.mail.ne1.yahoo.com with NNFMP; 28 Feb 2014 09:23:11 -0000
+X-Received: from [98.138.101.128] by nm34.bullet.mail.ne1.yahoo.com with NNFMP; 28 Feb 2014 09:20:18 -0000
+X-Received: from [106.10.166.117] by tm16.bullet.mail.ne1.yahoo.com with NNFMP; 28 Feb 2014 09:20:17 -0000
+X-Received: from [106.10.151.122] by tm6.bullet.mail.sg3.yahoo.com with NNFMP; 28 Feb 2014 09:20:16 -0000
+X-Received: from [127.0.0.1] by omp1004.mail.sg3.yahoo.com with NNFMP; 28 Feb 2014 09:20:16 -0000
+X-Yahoo-Newman-Property: ymail-4
+X-Yahoo-Newman-Id: 858075.17759.bm@...
+X-Received: (qmail 66866 invoked by uid 60001); 28 Feb 2014 09:20:16 -0000
+X-YMail-OSG: B_j86QoVM1mInxHK3A129d9ySLVk9Nx1xbV1cnK_Od6D6S1
+ BI3cyL35h8rtoTU9AFTugTQi1FbmOH0kp.o512qlgVhup4epvqAwG5Mj4RXo
+ AruYYZ5SabxVCB1WX3JVt91WF98CWqMpVQZNVStG0DgzaJ1IvOE1a51nwAu1
+ 0eIjX3dTIg13Zz.NBS0FIkHnlTM4ZOYMG9WunNbnZ8bWFyk7bkNfia0GMv4K
+ r2HzWkUNxzvNWOs39C6ZjGshbTX7YVy9lyJm40dgQGG9cX2M9bJsaVxrB_aV
+ kqn7h5wBN8KqdoH5HbBljZlXTu0KJA8gdpQmeUJlTd_WWNJFjvtW4np1JpoX
+ Df3F8jLLQ72pgNwZ_n9kzzwrk9AZ9f.LuaD.WfLqB60SkgSj.KrD5sd2z.RR
+ r8vW4.pfb1Vg0zn7bg6fnw1SPJBi3Rp23QoI_TMqdrkOjq2SyjmhHkfznK79
+ cQyn3w7WdVWHvJb3o_k8OEuDfmeEtXcBpzlU8DO5fwnSs2F6KoGxsRWWA3LA
+ stfpnT8LN5x5m_hKEIyUUd5Kdq1CgIPrkIXDOI51Qi1j2Z0dWXQV21C0iX58
+ Vc6TzgxdLLWrYhaiu42_wzHsaA1lRSubwBxnVBO3OCOV_odGnSVMzIPlNDZ5
+ ZAKpL07ZQy6jJbxJP6HaXVe6hOVdgJzuJCxNYpM4q22YaEECI6sFCoqzI5m_
+ 9KQD.TOHGbAUUx3nwZ1LK7vqGGDB.Fs6YYEkUIMz85uz_44dAIcTi4tzpEpb
+ 9K3X3c1Ie9Gc0XZqaYljEarpyp9bPhH.adPwzP_AN1UidvoR4pTQy5j4hyMt
+ 9I.TJyOax8n1NRA02p8yaJ4JmqHYX.8G7MvTWx2hm7lM1E9dNREX0TpS_roB
+ 2vX9axz3bjcPB9I6LqXKMLN8nSnEFt.VUwUls_bjRC2xypP54KVJnk6gAo_X
+ N.el8fi8_PNfX6tvZlNnceuoUMoAAeFzsLTyZejXqwiykdek_kN4VKVWL2QJ
+ opvKd1TVI9Fo4TYng.1j_vqVQz8MbQtqZImSALkyQbU49yVdO62sD.hNRQP0
+ EeYdp8XrHaw7FwOS7VxiKKX2mSx1YpBAGodNhoaevO70TGwLLZ533iuh4Gmq
+ dDv_Hq.2SAkZdamRjZU0gDGuw5zuL_o1NRt8d56yvoM7j3XM7ywHwuIG9CRF
+ adlmv6JhX0qOwNiG7C.w1aoRxW1mjb.kIYlOn0uYZ3biL_aZzbU9ljD8C8WT
+ JmtaZGPfy66fuiNWM_NJkBK.Tdma_5sLjHlDFrpBg8OLnx9XPFeKggKlNxGG
+ gEA9JjG.E4aCBswzGqhTkUupF.4qdsrkrSaqH9L_9n.F0iXt.sUwBLfWP5WH
+ gRNoqQncH4ZhAhsrTEq184YhaXA8SRLvjKDD9yFffH6nK4AFMpRD_VRYpWfS
+ XNPpchXVZp6S.JFSFJXMsAl6ef9es2sXhLBFMljCCqLT5OsanD2bzGoebzVf
+ OaSKU3zk3ur4I_1.cSsZcFp.LeMFcIIqgwyNVnU8qpqSkhfGdsun42DAHtW4
+ WsicEGsAsvX8bfu.vPMa917L_od9k7l5xW.MbGv_sBSG3X1oa49twUNjqgkf
+ Q2w9rWb.62a0yZTlvEI_BSj7RmCs.H87gh0kv1Ue8i0mEKe7O1I6BcvvYoHi
+ vUIo9cskgrw8.e2D1oC5iaVDbEE6H6H4cgG57pMYwe.wHWwxPqYQ354ZLkCi
+ WLsERvl2XKXjz_Sv7nuqa3iSROWYB8uSnOeUf_3B5SkjVrR2_g4GoQZzCxQZ
+ OTkmM_Of049slo_9bPCTF7gefInwhMGU0tDEBR.oTukQFL_IqC6YKpMbnuSy
+ E6LJoo4XGEGL1Vy7ZCDakg3sGS9GxV7DOpCDDNnaw9zSHB3ROo4lVn_CjjvG
+ Q_90YHW8LmNbTHnjNHS62vEcX.Jbv.T8_70EQtQKQI0hY0kFRUUbsruQbus0
+ aLiax0f.Q67cg8C6mIRQDixydLqelXCWyacK1QaNn8qg.HNTN8d0FfQ5qSDS
+ nvWllnIS7RnSz0nnMwTXU.b8XpsEpnZMr2IxuzA65oFaHlfN_znK._vuP78V
+ GwInFPqLWxaNKUGK2PxeieXQwyX1X0_Y5rT9PCffhqpNXbrCcsm2T4yKDKZN
+ larYfaJCl8LY8E9ou8MemLcMyEDhWWm0eqHWlqIEhNUmzHnisGk_lfoezxzj
+ X5mZa8lW53ie5sqd0OLXmQal84O4VcLVSeraKF1zshmn..A--
+X-Received: from [219.91.177.244] by web193205.mail.sg3.yahoo.com via HTTP; Fri, 28 Feb 2014 17:20:16 SGT
+X-Rocket-MIMEInfo: 002.001,SSBodW1ibHkgcmVxdWVzdCB0byByZWFkIG15IGVhcmxpZXIgYW5zd2VyIHJlcGxhY2luZyB3b3JkICJwYXNzaW9uIiB3aXRoImxvdmUiLiBTb21ldGltZXMgSSBjYW50IGZpbmQgZXhhY3Qgd29yZCBmb3IgY2VydGFpbiBzaXR1YXRpb24gYXMgRW5nbGlzaCBpcyBteSB0aGlyZCBsYW5ndWFnZS4KCgpLaW5kIFJlZ2FyZHMKQXNoaXNoCgoKCgpPbiBUaHVyc2RheSwgMTMgRmVicnVhcnkgMjAxNCAxMjoyOSBBTSwgS2FubmFuIEl5ZW5nYXIgPHByb2Yua2FubmFuLml5ZW5nYXJAZ21haWwuY29tPiB3cm90ZToKIAoBMAEBAQE-
+X-Mailer: YahooMailWebService/0.8.177.636
+References: <lb0plt+l1urd4@...> <52f940ad.a7dd420a.3568.ffffa0e6@...> <1392223182.95249.YahooMailNeo@...> <52fbc46d.4291420a.47bf.7f87@...>
+Message-ID: <1393579216.14245.YahooMailNeo@...>
+Date: Fri, 28 Feb 2014 17:20:16 +0800 (SGT)
+To: "vedic-wisdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com>
+In-Reply-To: <52fbc46d.4291420a.47bf.7f87@...>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="-724232154-2107101097-1393579216=:14245"
+X-Originating-IP: 10.193.84.33
+X-eGroups-Msg-Info: 1:12:0:0:0
+From: Ashish Tank <ashish_tank@...>
+Reply-To: Ashish Tank <ashish_tank@...>
+Subject: Re: [vedic-wisdom] Karma
+X-Yahoo-Group-Post: member; u=392701165; y=5uKPVGvDr3xhO9gClsATAKT4mIKSc1cNla6ozSz9tnW5xUlSZOt6Ux8n9_0BRR76
+X-Yahoo-Profile: ashish_tank@...
+
+
+---724232154-2107101097-1393579216=:14245
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+I humbly request to read my earlier answer replacing word "passion" with"lo=
+ve". Sometimes I cant find exact word for certain situation as English is m=
+y third language.
+
+
+Kind Regards
+Ashish
+
+
+
+
+On Thursday, 13 February 2014 1=
+2:29 AM, Kannan Iyengar <prof.kannan.iyengar@...> wrote:
+ 
+=C2=A0 
+Na=
+masttay,
+=C2=A0
+1.=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0 There is also a karm=
+a based on pure love and compassion, the one
+that all Rishis keep doing tir=
+elessly.
+2.=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0 The only thing is karma don=
+e out of love frees one up, and karma
+done out of coercion, passion binds o=
+ne up.
+=C2=A0
+With Kind Regards,
+Kannan
+=C2=A0
+From:vedic-wisdom@yahoogroup=
+s.com
+[mailto:vedic-wisdom@yahoogroups.com] On Behalf Of Ashish Tank
+Sent: =
+Wednesday, February 12, 2014 10:10 PM
+To: vedic-wisdom@yahoogroups.com
+Subj=
+ect: Re: [vedic-wisdom] Karma
+=C2=A0
+=C2=A0 
+There are
+two types of motivat=
+ion to do karma 1) coercion 2) passion
+=C2=A0
+=C2=A0
+On Tuesday, 11 Februar=
+y 2014 2:42
+AM, Kannan Iyengar <prof.kannan.iyengar@...> wrote:
+=C2=
+=A0 
+Namasttay,
+1.=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0 Because a Law is one=
+ which is
+always true. Something which is true at one time and false at oth=
+er time cannot
+be a Law.
+2.=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0 Karma is et=
+ernal and no one
+can stop doing karma, as Shri Krishna verily admits that H=
+e himself cannot stop
+avoiding doing karma(action). Since karma(action) is =
+eternal and can never be
+avoided even by Naraayana Himself, Shri Krishna be=
+autifully teaches the art of
+Karma-Yoga for Moksha. Oh What=C2=A0 a Genius =
+Treatise!!! Om Namo
+Naaraayanaaya!
+=C2=A0
+With Kind Regards,
+Kannan
+=C2=A0
+=
+From:vedic-wisdom@yahoogroups.com [mailto:vedic-wisdom@yahoogroups.com] On =
+Behalf
+Of banerjeerajarshi@...
+Sent: Monday, January 13, 2014 6:=
+58 PM
+To: vedic-wisdom@yahoogroups.com
+Subject: [vedic-wisdom] Karma
+=C2=A0=
+
+=C2=A0 
+Why does
+the law of Karma always hold true? What drives Karma?
+=C2=
+=A0
+
+---724232154-2107101097-1393579216=:14245
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"color:#000; background-color:#fff; font-family:ti=
+mes new roman, new york, times, serif;font-size:12pt">I humbly request to r=
+ead my earlier answer replacing word "passion" with"love". Sometimes I cant=
+ find exact word for certain situation as English is my third language.<br>=
+<span></span><div style=3D"color: rgb(0, 0, 0); font-size: 16px; font-famil=
+y: times new roman,new york,times,serif; background-color: transparent; fon=
+t-style: normal;"><span><br></span></div><div style=3D"color: rgb(0, 0, 0);=
+ font-size: 16px; font-family: times new roman,new york,times,serif; backgr=
+ound-color: transparent; font-style: normal;"><span>Kind Regards</span></di=
+v><div style=3D"color: rgb(0, 0, 0); font-size: 16px; font-family: times ne=
+w roman,new york,times,serif; background-color: transparent; font-style: no=
+rmal;"><span>Ashish<br></span></div><div style=3D"display: block;" class=3D=
+"yahoo_quoted"> <br> <br> <div style=3D"font-family: times new roman, new y=
+ork,
+ times, serif; font-size: 12pt;"> <div style=3D"font-family: times new=
+ roman, new york, times, serif; font-size: 12pt;"> <div dir=3D"ltr"> <font =
+face=3D"Arial" size=3D"2"> On Thursday, 13 February 2014 12:29 AM, Kannan I=
+yengar <prof.kannan.iyengar@...> wrote:<br> </font> </div>  <di=
+v class=3D"y_msg_container"><div id=3D"yiv8261622371"><div>
+<span style=3D"=
+display:none;"> </span>
+
+
+<div id=3D"yiv8261622371ygrp-mlmsg" style=3D=
+"">
+  <div id=3D"yiv8261622371ygrp-msg" style=3D"">
+
+
+    <div id=3D"yiv826=
+1622371ygrp-text">
+      
+      
+      <div>
+
+
+
+
+
+</div><div class=3D"yiv82=
+61622371Section1">
+
+<div class=3D"yiv8261622371MsoNormal"><span style=3D"fo=
+nt-size:10.5pt;">Namasttay,</span></div> 
+
+<div class=3D"yiv8261622371MsoNo=
+rmal"><span style=3D"font-size:10.5pt;">  </span></div> 
+
+<div class=
+=3D"yiv8261622371MsoListParagraph"><span style=3D"font-size:10.5pt;"><span>=
+1.<span style=3D"font:7.0pt;">      
+</span><=
+/span></span><span style=3D"font-size:10.5pt;">There is also a karma based =
+on pure love and compassion, the one
+that all Rishis keep doing tirelessly.=
+</span></div> 
+
+<div class=3D"yiv8261622371MsoListParagraph"><span style=3D=
+"font-size:10.5pt;"><span>2.<span style=3D"font:7.0pt;">   &=
+nbsp;  
+</span></span></span><span style=3D"font-size:10.5pt;">Th=
+e only thing is karma done out of love frees one up, and karma
+done out of =
+coercion, passion binds one up.</span></div> 
+
+<div class=3D"yiv8261622371M=
+soNormal"><span style=3D"font-size:10.5pt;">  </span></div> 
+
+<div cla=
+ss=3D"yiv8261622371MsoNormal"><span style=3D"font-size:10.5pt;">With Kind R=
+egards,</span></div> 
+
+<div class=3D"yiv8261622371MsoNormal"><span style=3D=
+"font-size:10.5pt;">Kannan</span></div> 
+
+<div class=3D"yiv8261622371MsoNor=
+mal"><span style=3D"font-size:10.5pt;">  </span></div> 
+
+<div class=3D=
+"yiv8261622371yqt2260786486" id=3D"yiv8261622371yqt60489"><div>
+
+<div style=
+=3D"border-top:solid #B5C4DF 1.0pt;">
+
+<div class=3D"yiv8261622371MsoNormal=
+"><b><span style=3D"font-size:10.0pt;">From:</span></b><span style=3D"font-=
+size:10.0pt;"> vedic-wisdom@yahoogroups.com
+[mailto:vedic-wisdom@yahoogroup=
+s.com] <b>On Behalf Of </b>Ashish Tank<br clear=3D"none">
+<b>Sent:</b> Wedn=
+esday, February 12, 2014 10:10 PM<br clear=3D"none">
+<b>To:</b> vedic-wisdo=
+m@yahoogroups.com<br clear=3D"none">
+<b>Subject:</b> Re: [vedic-wisdom] Kar=
+ma</span></div> 
+
+</div>
+
+</div>
+
+<div class=3D"yiv8261622371MsoNormal"> &n=
+bsp;</div> 
+
+<div class=3D"yiv8261622371MsoNormal">  </div> 
+
+<div id=
+=3D"yiv8261622371ygrp-mlmsg">
+
+<div id=3D"yiv8261622371ygrp-msg">
+
+<div id=
+=3D"yiv8261622371ygrp-text">
+
+<div>
+
+<div class=3D"yiv8261622371MsoNormal" =
+style=3D"background:white;"><span style=3D"color:black;">There are
+two type=
+s of motivation to do karma 1) coercion 2) passion</span></div> 
+
+<div>
+
+<d=
+iv class=3D"yiv8261622371MsoNormal" style=3D"background:white;"><span style=
+=3D"color:black;">  </span></div> 
+
+</div>
+
+<div>
+
+<div class=3D"yiv82=
+61622371MsoNormal" style=3D"background:white;"><span style=3D"color:black;"=
+>  </span></div> 
+
+<div>
+
+<div>
+
+<div>
+
+<div class=3D"yiv8261622371Mso=
+Normal" style=3D"background:white;"><span style=3D"font-size:10.0pt;color:b=
+lack;">On Tuesday, 11 February 2014 2:42
+AM, Kannan Iyengar <prof.kannan=
+.iyengar@...> wrote:</span><span style=3D"color:black;"></span></d=
+iv> 
+
+</div>
+
+<div>
+
+<div id=3D"yiv8261622371">
+
+<div>
+
+<div class=3D"yiv82=
+61622371MsoNormal" style=3D"background:white;"><span style=3D"color:black;"=
+>  </span></div> 
+
+<div id=3D"yiv8261622371ygrp-mlmsg">
+
+<div id=3D"yi=
+v8261622371ygrp-msg">
+
+<div id=3D"yiv8261622371ygrp-text">
+
+<div>
+
+<div>
+
+<=
+div class=3D"yiv8261622371MsoNormal" style=3D"background:white;"><span styl=
+e=3D"font-size:10.5pt;color:black;">Namasttay,</span><span style=3D"color:b=
+lack;"></span></div> 
+
+</div>
+
+<div>
+
+<div class=3D"yiv8261622371MsoNormal"=
+ style=3D"background:white;"><span style=3D"font-size:10.5pt;color:black;">=
+1.</span><span style=3D"font-size:7.0pt;color:black;">   &nb=
+sp;  
+</span><span style=3D"font-size:10.5pt;color:black;">Becaus=
+e a Law is one which is
+always true. Something which is true at one time an=
+d false at other time cannot
+be a Law.</span><span style=3D"color:black;"><=
+/span></div> 
+
+</div>
+
+<div>
+
+<div class=3D"yiv8261622371MsoNormal" style=
+=3D"background:white;"><span style=3D"font-size:10.5pt;color:black;">2.</sp=
+an><span style=3D"font-size:7.0pt;color:black;">    &nb=
+sp; 
+</span><span style=3D"font-size:10.5pt;color:black;">Karma is ete=
+rnal and no one
+can stop doing karma, as Shri Krishna verily admits that He=
+ himself cannot stop
+avoiding doing karma(action). Since karma(action) is e=
+ternal and can never be
+avoided even by Naraayana Himself, Shri Krishna bea=
+utifully teaches the art of
+Karma-Yoga for Moksha. Oh What  a Genius T=
+reatise!!! Om Namo
+Naaraayanaaya!</span><span style=3D"color:black;"></span=
+></div> 
+
+</div>
+
+<div>
+
+<div class=3D"yiv8261622371MsoNormal" style=3D"bac=
+kground:white;"><span style=3D"font-size:10.5pt;color:black;"> </span>=
+<span style=3D"color:black;"></span></div> 
+
+</div>
+
+<div>
+
+<div class=3D"y=
+iv8261622371MsoNormal" style=3D"background:white;"><span style=3D"font-size=
+:10.5pt;color:black;">With Kind Regards,</span><span style=3D"color:black;"=
+></span></div> 
+
+</div>
+
+<div>
+
+<div class=3D"yiv8261622371MsoNormal" style=
+=3D"background:white;"><span style=3D"font-size:10.5pt;color:black;">Kannan=
+</span><span style=3D"color:black;"></span></div> 
+
+</div>
+
+<div>
+
+<div cla=
+ss=3D"yiv8261622371MsoNormal" style=3D"background:white;"><span style=3D"fo=
+nt-size:10.5pt;color:black;"> </span><span style=3D"color:black;"></sp=
+an></div> 
+
+</div>
+
+<div id=3D"yiv8261622371yqt19117">
+
+<div>
+
+<div style=
+=3D"border-top:solid #B5C4DF 1.0pt;">
+
+<div>
+
+<div class=3D"yiv8261622371Ms=
+oNormal" style=3D"background:white;"><b><span style=3D"font-size:10.0pt;col=
+or:black;">From:</span></b><span style=3D"font-size:10.0pt;color:black;">
+v=
+edic-wisdom@yahoogroups.com [mailto:vedic-wisdom@yahoogroups.com] <b>On Beh=
+alf
+Of </b>banerjeerajarshi@...<br clear=3D"none">
+<b>Sent:</b> =
+Monday, January 13, 2014 6:58 PM<br clear=3D"none">
+<b>To:</b> vedic-wisdom=
+@yahoogroups.com<br clear=3D"none">
+<b>Subject:</b> [vedic-wisdom] Karma</s=
+pan><span style=3D"color:black;"></span></div> 
+
+</div>
+
+</div>
+
+</div>
+
+<d=
+iv>
+
+<div class=3D"yiv8261622371MsoNormal" style=3D"background:white;"><spa=
+n style=3D"color:black;"> </span></div> 
+
+</div>
+
+<div>
+
+<div class=3D=
+"yiv8261622371MsoNormal" style=3D"background:white;"><span style=3D"color:b=
+lack;">  </span></div> 
+
+</div>
+
+<div id=3D"yiv8261622371ygrp-mlmsg">
+=
+
+<div id=3D"yiv8261622371ygrp-msg">
+
+<div id=3D"yiv8261622371ygrp-text">
+
+<=
+div>
+
+<div class=3D"yiv8261622371MsoNormal" style=3D"background:white;"><sp=
+an style=3D"color:black;">Why does
+the law of Karma always hold true? What =
+drives Karma?</span></div> 
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>=
+
+
+</div>
+
+</div>
+
+</div>
+
+<div class=3D"yiv8261622371MsoNormal" style=3D"ba=
+ckground:white;"><span style=3D"color:black;">  </span></div> 
+
+</div>=
+
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div>
+
+<div class=
+=3D"yiv8261622371MsoNormal"><span style=3D"color:white;"></span></div> 
+
+</=
+div>
+
+</div>
+
+
+
+
+</div></div></div>
+
+    </div>
+     
+
+    
+    <div class=
+=3D"yiv8261622371yqt2260786486" id=3D"yiv8261622371yqt97398"><div style=3D"=
+color:#fff;height:0;"></div></div>
+
+
+</div><div class=3D"yiv8261622371yqt22=
+60786486" id=3D"yiv8261622371yqt50331"><style type=3D"text/css">
+#yiv826162=
+2371 #yiv8261622371 --
+  #yiv8261622371ygrp-mkp {
+border:1px solid #d8d8d8;=
+font-family:Arial;margin:10px 0;padding:0 10px;}
+
+#yiv8261622371 #yiv826162=
+2371ygrp-mkp hr {
+border:1px solid #d8d8d8;}
+
+#yiv8261622371 #yiv8261622371=
+ygrp-mkp #yiv8261622371hd {
+color:#628c2a;font-size:85%;font-weight:700;lin=
+e-height:122%;margin:10px 0;}
+
+#yiv8261622371 #yiv8261622371ygrp-mkp #yiv82=
+61622371ads {
+margin-bottom:10px;}
+
+#yiv8261622371 #yiv8261622371ygrp-mkp .=
+yiv8261622371ad {
+padding:0 0;}
+
+#yiv8261622371 #yiv8261622371ygrp-mkp .yiv=
+8261622371ad p {
+margin:0;}
+
+#yiv8261622371 #yiv8261622371ygrp-mkp .yiv8261=
+622371ad a {
+color:#0000ff;text-decoration:none;}
+#yiv8261622371 #yiv826162=
+2371ygrp-sponsor #yiv8261622371ygrp-lc {
+font-family:Arial;}
+
+#yiv826162237=
+1 #yiv8261622371ygrp-sponsor #yiv8261622371ygrp-lc #yiv8261622371hd {
+margi=
+n:10px 0px;font-weight:700;font-size:78%;line-height:122%;}
+
+#yiv8261622371=
+ #yiv8261622371ygrp-sponsor #yiv8261622371ygrp-lc .yiv8261622371ad {
+margin=
+-bottom:10px;padding:0 0;}
+
+#yiv8261622371 #yiv8261622371actions {
+font-fam=
+ily:Verdana;font-size:11px;padding:10px 0;}
+
+#yiv8261622371 #yiv8261622371a=
+ctivity {
+background-color:#e0ecee;float:left;font-family:Verdana;font-size=
+:10px;padding:10px;}
+
+#yiv8261622371 #yiv8261622371activity span {
+font-wei=
+ght:700;}
+
+#yiv8261622371 #yiv8261622371activity span:first-child {
+text-tr=
+ansform:uppercase;}
+
+#yiv8261622371 #yiv8261622371activity span a {
+color:#=
+5085b6;text-decoration:none;}
+
+#yiv8261622371 #yiv8261622371activity span s=
+pan {
+color:#ff7900;}
+
+#yiv8261622371 #yiv8261622371activity span .yiv82616=
+22371underline {
+text-decoration:underline;}
+
+#yiv8261622371 .yiv8261622371=
+attach {
+clear:both;display:table;font-family:Arial;font-size:12px;padding:=
+10px 0;width:400px;}
+
+#yiv8261622371 .yiv8261622371attach div a {
+text-deco=
+ration:none;}
+
+#yiv8261622371 .yiv8261622371attach img {
+border:none;paddin=
+g-right:5px;}
+
+#yiv8261622371 .yiv8261622371attach label {
+display:block;ma=
+rgin-bottom:5px;}
+
+#yiv8261622371 .yiv8261622371attach label a {
+text-decor=
+ation:none;}
+
+#yiv8261622371 blockquote {
+margin:0 0 0 4px;}
+
+#yiv826162237=
+1 .yiv8261622371bold {
+font-family:Arial;font-size:13px;font-weight:700;}
+
+=
+#yiv8261622371 .yiv8261622371bold a {
+text-decoration:none;}
+
+#yiv826162237=
+1 dd.yiv8261622371last p a {
+font-family:Verdana;font-weight:700;}
+
+#yiv826=
+1622371 dd.yiv8261622371last p span {
+margin-right:10px;font-family:Verdana=
+;font-weight:700;}
+
+#yiv8261622371 dd.yiv8261622371last p span.yiv826162237=
+1yshortcuts {
+margin-right:0;}
+
+#yiv8261622371 div.yiv8261622371attach-tabl=
+e div div a {
+text-decoration:none;}
+
+#yiv8261622371 div.yiv8261622371attac=
+h-table {
+width:400px;}
+
+#yiv8261622371 div.yiv8261622371file-title a, #yiv=
+8261622371 div.yiv8261622371file-title a:active, #yiv8261622371 div.yiv8261=
+622371file-title a:hover, #yiv8261622371 div.yiv8261622371file-title a:visi=
+ted {
+text-decoration:none;}
+
+#yiv8261622371 div.yiv8261622371photo-title a=
+, #yiv8261622371 div.yiv8261622371photo-title a:active, #yiv8261622371 div.=
+yiv8261622371photo-title a:hover, #yiv8261622371 div.yiv8261622371photo-tit=
+le a:visited {
+text-decoration:none;}
+
+#yiv8261622371 div#yiv8261622371ygrp=
+-mlmsg #yiv8261622371ygrp-msg p a span.yiv8261622371yshortcuts {
+font-famil=
+y:Verdana;font-size:10px;font-weight:normal;}
+
+#yiv8261622371 .yiv826162237=
+1green {
+color:#628c2a;}
+
+#yiv8261622371 .yiv8261622371MsoNormal {
+margin:0=
+ 0 0 0;}
+
+#yiv8261622371 o {
+font-size:0;}
+
+#yiv8261622371 #yiv8261622371ph=
+otos div {
+float:left;width:72px;}
+
+#yiv8261622371 #yiv8261622371photos div=
+ div {
+border:1px solid #666666;height:62px;overflow:hidden;width:62px;}
+
+#=
+yiv8261622371 #yiv8261622371photos div label {
+color:#666666;font-size:10px=
+;overflow:hidden;text-align:center;white-space:nowrap;width:64px;}
+
+#yiv826=
+1622371 #yiv8261622371reco-category {
+font-size:77%;}
+
+#yiv8261622371 #yiv8=
+261622371reco-desc {
+font-size:77%;}
+
+#yiv8261622371 .yiv8261622371replbq {=
+
+margin:4px;}
+
+#yiv8261622371 #yiv8261622371ygrp-actbar div a:first-child {=
+
+margin-right:2px;padding-right:5px;}
+
+#yiv8261622371 #yiv8261622371ygrp-ml=
+msg {
+font-size:13px;font-family:Arial, helvetica, clean, sans-serif;}
+
+#yi=
+v8261622371 #yiv8261622371ygrp-mlmsg table {
+font-size:inherit;font:100%;}
+=
+
+#yiv8261622371 #yiv8261622371ygrp-mlmsg select, #yiv8261622371 input, #yiv=
+8261622371 textarea {
+font:99% Arial, Helvetica, clean, sans-serif;}
+
+#yiv8=
+261622371 #yiv8261622371ygrp-mlmsg pre, #yiv8261622371 code {
+font:115% mon=
+ospace;}
+
+#yiv8261622371 #yiv8261622371ygrp-mlmsg * {
+line-height:1.22em;}
+=
+
+#yiv8261622371 #yiv8261622371ygrp-mlmsg #yiv8261622371logo {
+padding-botto=
+m:10px;}
+
+
+#yiv8261622371 #yiv8261622371ygrp-msg p a {
+font-family:Verdana;=
+}
+
+#yiv8261622371 #yiv8261622371ygrp-msg p#yiv8261622371attach-count span {=
+
+color:#1E66AE;font-weight:700;}
+
+#yiv8261622371 #yiv8261622371ygrp-reco #y=
+iv8261622371reco-head {
+color:#ff7900;font-weight:700;}
+
+#yiv8261622371 #yi=
+v8261622371ygrp-reco {
+margin-bottom:20px;padding:0px;}
+
+#yiv8261622371 #yi=
+v8261622371ygrp-sponsor #yiv8261622371ov li a {
+font-size:130%;text-decorat=
+ion:none;}
+
+#yiv8261622371 #yiv8261622371ygrp-sponsor #yiv8261622371ov li {=
+
+font-size:77%;list-style-type:square;padding:6px 0;}
+
+#yiv8261622371 #yiv8=
+261622371ygrp-sponsor #yiv8261622371ov ul {
+margin:0;padding:0 0 0 8px;}
+
+#=
+yiv8261622371 #yiv8261622371ygrp-text {
+font-family:Georgia;}
+
+#yiv82616223=
+71 #yiv8261622371ygrp-text p {
+margin:0 0 1em 0;}
+
+#yiv8261622371 #yiv82616=
+22371ygrp-text tt {
+font-size:120%;}
+
+#yiv8261622371 #yiv8261622371ygrp-vit=
+al ul li:last-child {
+border-right:none !important;
+}
+#yiv8261622371 
+</sty=
+le></div></div><br><br></div>  </div> </div>  </div> </div></body></html>
+---724232154-2107101097-1393579216=:14245--
+
+

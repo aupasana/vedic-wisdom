@@ -1,0 +1,557 @@
+From ashish_tank@...  Wed Feb 17 11:07:40 2016
+Return-Path: <ashish_tank@...>
+X-Sender: ashish_tank@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 96242 invoked by uid 102); 28 Apr 2014 16:01:27 -0000
+X-Received: from unknown (HELO mtaq4.grp.bf1.yahoo.com) (10.193.84.143)
+  by m12.grp.bf1.yahoo.com with SMTP; 28 Apr 2014 16:01:27 -0000
+X-Received: (qmail 4646 invoked from network); 28 Apr 2014 16:01:26 -0000
+X-Received: from unknown (HELO nm6-vm2.bullet.mail.sg3.yahoo.com) (106.10.148.161)
+  by mtaq4.grp.bf1.yahoo.com with SMTP; 28 Apr 2014 16:01:26 -0000
+X-Received: from [106.10.166.63] by nm6.bullet.mail.sg3.yahoo.com with NNFMP; 28 Apr 2014 16:01:25 -0000
+X-Received: from [106.10.151.250] by tm20.bullet.mail.sg3.yahoo.com with NNFMP; 28 Apr 2014 16:01:25 -0000
+X-Received: from [127.0.0.1] by omp1021.mail.sg3.yahoo.com with NNFMP; 28 Apr 2014 16:01:25 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 214999.42876.bm@...
+X-Received: (qmail 7239 invoked by uid 60001); 28 Apr 2014 16:01:25 -0000
+X-YMail-OSG: g.gGcn4VM1m9Hxk6u0vWTGLsAjXDUX.ZlLSNmXlSou99udl
+ CIzicmhFB6YuNXde7sIv41PwxZXvdpvSGqVOyjzLc3oEJGkbkdklhVWzVoDF
+ A634yjm9jjxQ4U0cTn4vAoeRYThTkN73wmepbGSTJwtiIa5oDeXoBI.kJou9
+ h69WdB924Nh2cWr6C9mWv6_6nyy2EMNPCa8GfWLTw97bVO7I1T9lA6vEhIwY
+ hf.ubQbB7FzgSaMujlT4X1beknEFximPaVFBFqkPJRj35ngniIqE.lcTQsIc
+ qsXnPr8SdrfWAMm2lQxqXDF7RqkpyGrBb6q7GA.moDtMF0yQk.D1VBcNBcCl
+ ftE9SQYEuFgul09w.3WZP1dNmwl8CLEqshq.zw1GevzYqRCQvXrFHwEJ3uJb
+ 9P0M0rrNtoFz8a3llLOvuc1sPAE_iACmkHNUQN15eeYPqQRMDu33shPX9NLF
+ KAZdcatuHbwKYZ8aTtl6rpeI9c0PLYj.zLD9yQQozlKwgwTkKiCsfv8XtgNs
+ DDX6V5U70_BQIWNcjATR10ROoa5IPPMzly8x6m16qv2iNOpBt9hcMihGoPLv
+ 51f2gwhW6PykaF_5kIjlbs6LuZXXoGRR2Cde6jCcg5Bm6S.wP8ZYEEwqnQ2N
+ .jT._ZG07aGo1H1nBS2SU3cDjAV4SDO8_lpGiT8W5ojGHHQIHEYQ71UF5fZ2
+ hsJLymh8FFI_4W18ihg3oN8hK7UYR7UHSRue5lsi0zyxW.DsQISlgNL6xFy2
+ yaRLJAKTbACGU8CVbpoe2hPCe1i86UFWPy888DDIoG5Zt9zBoVLiYs_osv6b
+ iw7W5be1nsYfHxcs6G4lHXRZ3WT3wiEalHXze0oHLDzCRbh13LV2I28j3RjL
+ o392RcLnRrulJJuJ3IUYAzt1PwNpQ12tG11K3FWryfzNDweHwAjRdC3UeeEH
+ u4rhTY9Q5mVAXkBmLRYNHLATEtsyXDaaX1DPpZbNcatN_ZCh7MGtSpEfUwwT
+ 4mSQDjLP.3xIfotm6n26xYnu9C519ecmgiOh_5G9VPT2MnIXto2bTJI8ocGc
+ hVqQYKEtTlgrLrlTK.q7u.8vAzmiC9qjP6pdZcpxbdVl0nRrdqDxbBUI6gQ3
+ cibv9hp7d6YbTCoL6fJR1VwKEunpFR1w8O82i6IeLSsw5zEwmAHX.4Eja.I2
+ wO3aBOTBWXgTjpOUTw2hbntcOE3qTYEcMWwZwwvVjGcz.1OfbT71a8LBR6Up
+ 2nf7_d14BPAXyRGwacSBKubayXjkWyoQOLU8n6iQ71hvVWqysVay7dwyie5g
+ 10g1x_nl3PteK619I5BUwOHTJ1WUHbMwTIDMFoChZYNdlvCOCcSgV4r1iLXG
+ l5ZCEPRjhAC8vXybXT4kv3gPuKwZCSq4xZl.Cle0alIVMIyu23lDZ.6otQSx
+ 6EAWWOC.g4zWRnk6fX_l9DZh_MfQeShWNtuUe.mnZsiIkcAAUTcEKsWC68d9
+ vjbEF2wLv3SVKFoeHDzp.il1O8Vz4UM4UniACMvJV6F1aewMvfs70GUweau_
+ Dn_hpkyWbVVx.STn6m_2Wdgo.GRgx1AoUHEQDdQSsqblwxZepqh7EYr1dYPK
+ XRFnKLdxLDWy66RGRUBvMEoYAqqQsp.cRbNgZJX4j7baIIEc8lbR2p7lJQ5_
+ RJs41_5WaJ3zgpA.wLii7MZMOzBIaFhna40POVbjq6dWV4tRuaPNN.tQ1UVi
+ bBywEhLsmS5oomSHiT4oMqT4d3y.DpKf.ZSGhQyZz.gxCxLIJbGzOWed5vL7
+ MIKiD1ymTrLToWmV4BnQL3C_mdku8vPGEeyfimK1uqxOx37XQc_yWFyf6LhM
+ tWbi6HY_pFzUMcdUm8okXtML1Ww--
+X-Received: from [219.91.176.141] by web193206.mail.sg3.yahoo.com via HTTP; Tue, 29 Apr 2014 00:01:24 SGT
+X-Rocket-MIMEInfo: 002.001,Q2FuIHdlIHVzZSBjb2NvbnV0IGh1c2sgaW5zdGVhZCBvZiB3b29kPwoKT24gTW9uZGF5LCAyOCBBcHJpbCAyMDE0IDEwOjIzIEFNLCBBY2hhcnl1bHUgPGFjaGFyeXVsdWdAeWFob28uY29tPiB3cm90ZToKIArCoCAKVGhhbmsgeW91IHZlcnkgbXVjaCBmb3IgdGhlIGtpbmQgcmVwbHkgc2lyLgoKQWNoYXJ5dWx1Ck9uIFNhdHVyZGF5LCBBcHJpbCAyNiwgMjAxNCA1OjQyIFBNLCBOYXJhc2ltaGEgUC5WLlIuIFJhbyA8cHZyMTA4QHlhaG9vLmNvbT4gd3JvdGU6CiAKwqAgCk5hbWFzdGUgU2lyLAoKT2YgY291cnMBMAEBAQE-
+X-Mailer: YahooMailWebService/0.8.185.657
+References: <1398493650.72942.YahooMailNeo@...> <1398514335.36738.YahooMailNeo@...> <1398660835.23300.YahooMailNeo@...>
+Message-ID: <1398700884.66974.YahooMailNeo@...>
+Date: Tue, 29 Apr 2014 00:01:24 +0800 (SGT)
+To: "vedic-wisdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com>
+In-Reply-To: <1398660835.23300.YahooMailNeo@...>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="730575183-1882379070-1398700884=:66974"
+X-Originating-IP: 106.10.148.161
+X-eGroups-Msg-Info: 1:12:0:0:0
+From: Ashish Tank <ashish_tank@...>
+Reply-To: Ashish Tank <ashish_tank@...>
+Subject: Re: [vedic-wisdom] Re: Neem wood for Homam -reg
+X-Yahoo-Group-Post: member; u=392701165; y=cikJADeSJQP57qvdtnnXEhzFeefSFEdz_4FZec3PZIAGq_pGgTeAwMHE1aeos6kc
+X-Yahoo-Profile: ashish_tank@...
+
+
+--730575183-1882379070-1398700884=:66974
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Can we use coconut husk instead of wood?
+
+On Monday, 28 April 2014 10:23 AM=
+, Acharyulu <acharyulug@...> wrote:
+ 
+=C2=A0 
+Thank you very much for=
+ the kind reply sir.
+
+Acharyulu
+On Saturday, April 26, 2014 5:42 PM, Narasi=
+mha P.V.R. Rao <pvr108@...> wrote:
+ 
+=C2=A0 
+Namaste Sir,
+
+Of course,=
+ you can!
+
+We, who live abroad are stuck with oak, maple, birch etc. If you=
+ have access to recommended woods like pipal, bel, mango, neem etc, go ahea=
+d and use them!
+
+Regarding Sri Ranga's question, wood that may have been so=
+aked in kerosene or otherwise containing any chemicals is avoidable. Use na=
+tural wood that is dried.
+Best regards,
+
+Narasimha
+--------
+Astrology & Spi=
+rituality Resources: http://www.VedicAstrologer.org
+--------
+
+
+
+>__________=
+______________________
+> From: Acharyulu <acharyulug@...>
+>To: "vedic=
+-wisdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com> 
+>Sent: Saturday, A=
+pril 26, 2014 2:27 AM
+>Subject: [vedic-wisdom] Neem wood for Homam -reg
+> 
+=
+>
+>
+>=C2=A0 
+>Dear Narasimha Rao Garu,
+>
+>
+>=C2=A0 Can you please suggest t=
+he types of wood that can be used for homam. =C2=A0I have access to neem an=
+d pipal. Thanks and regards,
+>
+>
+>Acharyulu
+>
+
+
+
+--730575183-1882379070-1398700884=:66974
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"color:#000; background-color:#fff; font-family:ti=
+mes new roman, new york, times, serif;font-size:12pt"><div><span>Can we use=
+ coconut husk instead of wood?<br></span></div><div style=3D"display: block=
+;" class=3D"yahoo_quoted"> <div style=3D"font-family: times new roman, new =
+york, times, serif; font-size: 12pt;"> <div style=3D"font-family: times new=
+ roman, new york, times, serif; font-size: 12pt;"> <div dir=3D"ltr"> <font =
+face=3D"Arial" size=3D"2"> On Monday, 28 April 2014 10:23 AM, Acharyulu <=
+;acharyulug@...> wrote:<br> </font> </div>  <div class=3D"y_msg_co=
+ntainer"><div id=3D"yiv5096931024"><div>
+<span style=3D"display:none;">&nbs=
+p;</span>
+
+
+<div id=3D"yiv5096931024ygrp-mlmsg" style=3D"">
+  <div id=3D"yi=
+v5096931024ygrp-msg" style=3D"">
+
+
+    <div id=3D"yiv5096931024ygrp-text">
+=
+      
+      
+      <div style=3D"color:#000;background-color:#fff;font-fam=
+ily:HelveticaNeue, Helvetica Neue, Helvetica, Arial, Lucida Grande, sans-se=
+rif;font-size:12pt;"><div><span>Thank you very much for the kind reply sir.=
+</span></div><div style=3D"color:rgb(0, 0, 0);font-size:16px;font-family:He=
+lveticaNeue, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-seri=
+f;background-color:transparent;font-style:normal;"><span><br clear=3D"none"=
+></span></div><div style=3D"color:rgb(0, 0, 0);font-size:16px;font-family:H=
+elveticaNeue, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-ser=
+if;background-color:transparent;font-style:normal;"><span>Acharyulu</span><=
+/div><div class=3D"yiv5096931024yqt6648041863" id=3D"yiv5096931024yqt40817"=
+><div style=3D"display: block;" class=3D"yiv5096931024yahoo_quoted"> <div s=
+tyle=3D"font-family:HelveticaNeue, 'Helvetica Neue', Helvetica, Arial, 'Luc=
+ida Grande', sans-serif;font-size:12pt;"> <div style=3D"font-family:Helveti=
+caNeue, 'Helvetica Neue',
+ Helvetica, Arial, 'Lucida Grande', sans-serif;fo=
+nt-size:12pt;">
+ <div dir=3D"ltr"> <font face=3D"Arial" size=3D"2"> On Satu=
+rday, April 26, 2014 5:42 PM, Narasimha P.V.R. Rao <pvr108@...>=
+ wrote:<br clear=3D"none"> </font> </div>  <div class=3D"yiv5096931024y_msg=
+_container"><div id=3D"yiv5096931024"><div>
+<span> </span>
+
+
+<div id=
+=3D"yiv5096931024ygrp-mlmsg">
+  <div id=3D"yiv5096931024ygrp-msg">
+
+
+    <d=
+iv id=3D"yiv5096931024ygrp-text">
+      
+      
+      <div style=3D"color:r=
+gb(0, 0, 0);background-color:rgb(255, 255, 255);font-family:arial, helvetic=
+a, sans-serif;font-size:10pt;"><div><span>Namaste Sir,</span></div><div sty=
+le=3D"color:rgb(0, 0, 0);font-size:13.3333px;font-family:arial, helvetica, =
+sans-serif;background-color:transparent;font-style:normal;"><br clear=3D"no=
+ne"><span></span></div><div style=3D"color:rgb(0, 0, 0);font-size:13.3333px=
+;font-family:arial, helvetica, sans-serif;background-color:transparent;font=
+-style:normal;"><span>Of course, you can!</span></div><div style=3D"color:r=
+gb(0, 0, 0);font-size:13.3333px;font-family:arial, helvetica, sans-serif;ba=
+ckground-color:transparent;font-style:normal;"><br clear=3D"none"><span></s=
+pan></div><div style=3D"color:rgb(0, 0, 0);font-size:13.3333px;font-family:=
+arial, helvetica, sans-serif;background-color:transparent;font-style:normal=
+;"><span>We, who live abroad are stuck with oak, maple, birch etc. If you h=
+ave access
+ to recommended woods like pipal, bel, mango, neem etc, go
+ ahea=
+d and use them!</span></div><div style=3D"color:rgb(0, 0, 0);font-size:13.3=
+333px;font-family:arial, helvetica, sans-serif;background-color:transparent=
+;font-style:normal;"><br clear=3D"none"><span></span></div><div style=3D"co=
+lor:rgb(0, 0, 0);font-size:13.3333px;font-family:arial, helvetica, sans-ser=
+if;background-color:transparent;font-style:normal;"><span>Regarding Sri Ran=
+ga's question, wood that may have been soaked in kerosene or otherwise cont=
+aining any chemicals is avoidable. Use natural wood that is dried.</span></=
+div><div style=3D"color:rgb(0, 0, 0);font-size:13.3333px;font-family:arial,=
+ helvetica, sans-serif;background-color:transparent;font-style:normal;"><br=
+ clear=3D"none"><span></span></div>Best regards,<br clear=3D"none"><div sty=
+le=3D"color:rgb(0, 0, 0);font-size:13px;font-family:arial, helvetica, clean=
+, sans-serif;background-color:transparent;font-style:normal;">Narasimha<br =
+clear=3D"none">--------<br clear=3D"none">Astrology & Spirituality Reso=
+urces:
+ <a rel=3D"nofollow" shape=3D"rect" target=3D"_blank" href=3D"http:/=
+/www.vedicastrologer.org/">http://www.VedicAstrologer.org</a></div><div cla=
+ss=3D"yiv5096931024yqt5221381641" id=3D"yiv5096931024yqt37327"><div style=
+=3D"color:rgb(0, 0, 0);font-size:13px;font-family:arial, helvetica, clean, =
+sans-serif;background-color:transparent;font-style:normal;">--------<br cle=
+ar=3D"none"><br clear=3D"none"></div><div style=3D"color:rgb(0, 0, 0);font-=
+size:13px;font-family:arial, helvetica, clean, sans-serif;background-color:=
+transparent;font-style:normal;"><blockquote style=3D"border-left:2px solid =
+rgb(16, 16, 255);">  <div style=3D"font-family:arial, helvetica, sans-serif=
+;font-size:10pt;"> <div style=3D"font-family:'times new roman', 'new york',=
+ times, serif;font-size:12pt;"> <div dir=3D"ltr"> <hr size=3D"1">  <font fa=
+ce=3D"Arial" size=3D"2"> <b><span style=3D"font-weight:bold;">From:</span><=
+/b> Acharyulu
+ <acharyulug@...><br clear=3D"none"> <b><span sty=
+le=3D"font-weight:bold;">To:</span></b> "vedic-wisdom@yahoogroups.com" <=
+vedic-wisdom@yahoogroups.com> <br clear=3D"none"> <b><span style=3D"font=
+-weight:bold;">Sent:</span></b> Saturday, April 26, 2014 2:27 AM<br clear=
+=3D"none"> <b><span style=3D"font-weight:bold;">Subject:</span></b> [vedic-=
+wisdom] Neem wood for Homam -reg<br clear=3D"none"> </font> </div> <div cla=
+ss=3D"yiv5096931024y_msg_container"><br clear=3D"none"><div id=3D"yiv509693=
+1024"><div>
+<span> </span>
+
+
+<div id=3D"yiv5096931024ygrp-mlmsg">
+  <d=
+iv id=3D"yiv5096931024ygrp-msg">
+
+
+    <div id=3D"yiv5096931024ygrp-text">
+=
+      
+      
+      <div style=3D"color:rgb(0, 0, 0);background-color:rgb(2=
+55, 255, 255);font-family:HelveticaNeue, 'Helvetica Neue', Helvetica, Arial=
+, 'Lucida Grande', sans-serif;font-size:12pt;"><div>Dear Narasimha Rao Garu=
+,</div><div><br clear=3D"none"></div><div style=3D"color:rgb(0, 0, 0);font-=
+size:16px;font-family:HelveticaNeue, 'Helvetica Neue', Helvetica, Arial, 'L=
+ucida Grande', sans-serif;background-color:transparent;font-style:normal;">=
+  Can you please suggest the types of wood that can be used for homam.=
+  I have access to neem and pipal. Thanks and regards,</div><div style=
+=3D"color:rgb(0, 0, 0);font-size:16px;font-family:HelveticaNeue, 'Helvetica=
+ Neue', Helvetica, Arial, 'Lucida Grande', sans-serif;background-color:tran=
+sparent;font-style:normal;"><br clear=3D"none"></div><div style=3D"color:rg=
+b(0, 0, 0);font-size:16px;font-family:HelveticaNeue, 'Helvetica Neue', Helv=
+etica, Arial, 'Lucida Grande',
+ sans-serif;background-color:transparent;fon=
+t-style:normal;">Acharyulu<br clear=3D"none"></div></div></div></div></div>=
+</div></div></div> </div> </div> </blockquote></div></div>   </div>
+
+    </=
+div>
+     
+
+    
+    <div class=3D"yiv5096931024yqt5221381641" id=3D"yiv509=
+6931024yqt13329"><div style=3D"color:#fff;height:0;"></div></div>
+
+
+</div><=
+div class=3D"yiv5096931024yqt5221381641" id=3D"yiv5096931024yqt04995"></div=
+></div><br clear=3D"none"><br clear=3D"none"></div>  </div> </div>  </div> =
+</div></div></div></div>
+
+    </div>
+     
+
+    
+    <div class=3D"yiv50969=
+31024yqt6648041863" id=3D"yiv5096931024yqt54235"><div style=3D"color:#fff;h=
+eight:0;"></div></div>
+
+
+</div><div class=3D"yiv5096931024yqt6648041863" id=
+=3D"yiv5096931024yqt50023"><style type=3D"text/css">
+#yiv5096931024 #yiv509=
+6931024 --
+  #yiv5096931024ygrp-mkp {
+border:1px solid #d8d8d8;font-family:=
+Arial;margin:10px 0;padding:0 10px;}
+
+#yiv5096931024 #yiv5096931024ygrp-mkp=
+ hr {
+border:1px solid #d8d8d8;}
+
+#yiv5096931024 #yiv5096931024ygrp-mkp #yi=
+v5096931024hd {
+color:#628c2a;font-size:85%;font-weight:700;line-height:122=
+%;margin:10px 0;}
+
+#yiv5096931024 #yiv5096931024ygrp-mkp #yiv5096931024ads =
+{
+margin-bottom:10px;}
+
+#yiv5096931024 #yiv5096931024ygrp-mkp .yiv509693102=
+4ad {
+padding:0 0;}
+
+#yiv5096931024 #yiv5096931024ygrp-mkp .yiv5096931024ad=
+ p {
+margin:0;}
+
+#yiv5096931024 #yiv5096931024ygrp-mkp .yiv5096931024ad a {=
+
+color:#0000ff;text-decoration:none;}
+#yiv5096931024 #yiv5096931024ygrp-spo=
+nsor #yiv5096931024ygrp-lc {
+font-family:Arial;}
+
+#yiv5096931024 #yiv509693=
+1024ygrp-sponsor #yiv5096931024ygrp-lc #yiv5096931024hd {
+margin:10px 0px;f=
+ont-weight:700;font-size:78%;line-height:122%;}
+
+#yiv5096931024 #yiv5096931=
+024ygrp-sponsor #yiv5096931024ygrp-lc .yiv5096931024ad {
+margin-bottom:10px=
+;padding:0 0;}
+
+#yiv5096931024 #yiv5096931024actions {
+font-family:Verdana;=
+font-size:11px;padding:10px 0;}
+
+#yiv5096931024 #yiv5096931024activity {
+ba=
+ckground-color:#e0ecee;float:left;font-family:Verdana;font-size:10px;paddin=
+g:10px;}
+
+#yiv5096931024 #yiv5096931024activity span {
+font-weight:700;}
+
+#=
+yiv5096931024 #yiv5096931024activity span:first-child {
+text-transform:uppe=
+rcase;}
+
+#yiv5096931024 #yiv5096931024activity span a {
+color:#5085b6;text-=
+decoration:none;}
+
+#yiv5096931024 #yiv5096931024activity span span {
+color:=
+#ff7900;}
+
+#yiv5096931024 #yiv5096931024activity span .yiv5096931024underli=
+ne {
+text-decoration:underline;}
+
+#yiv5096931024 .yiv5096931024attach {
+cle=
+ar:both;display:table;font-family:Arial;font-size:12px;padding:10px 0;width=
+:400px;}
+
+#yiv5096931024 .yiv5096931024attach div a {
+text-decoration:none;=
+}
+
+#yiv5096931024 .yiv5096931024attach img {
+border:none;padding-right:5px;=
+}
+
+#yiv5096931024 .yiv5096931024attach label {
+display:block;margin-bottom:=
+5px;}
+
+#yiv5096931024 .yiv5096931024attach label a {
+text-decoration:none;}=
+
+
+#yiv5096931024 blockquote {
+margin:0 0 0 4px;}
+
+#yiv5096931024 .yiv509693=
+1024bold {
+font-family:Arial;font-size:13px;font-weight:700;}
+
+#yiv50969310=
+24 .yiv5096931024bold a {
+text-decoration:none;}
+
+#yiv5096931024 dd.yiv5096=
+931024last p a {
+font-family:Verdana;font-weight:700;}
+
+#yiv5096931024 dd.y=
+iv5096931024last p span {
+margin-right:10px;font-family:Verdana;font-weight=
+:700;}
+
+#yiv5096931024 dd.yiv5096931024last p span.yiv5096931024yshortcuts =
+{
+margin-right:0;}
+
+#yiv5096931024 div.yiv5096931024attach-table div div a =
+{
+text-decoration:none;}
+
+#yiv5096931024 div.yiv5096931024attach-table {
+wi=
+dth:400px;}
+
+#yiv5096931024 div.yiv5096931024file-title a, #yiv5096931024 d=
+iv.yiv5096931024file-title a:active, #yiv5096931024 div.yiv5096931024file-t=
+itle a:hover, #yiv5096931024 div.yiv5096931024file-title a:visited {
+text-d=
+ecoration:none;}
+
+#yiv5096931024 div.yiv5096931024photo-title a, #yiv509693=
+1024 div.yiv5096931024photo-title a:active, #yiv5096931024 div.yiv509693102=
+4photo-title a:hover, #yiv5096931024 div.yiv5096931024photo-title a:visited=
+ {
+text-decoration:none;}
+
+#yiv5096931024 div#yiv5096931024ygrp-mlmsg #yiv5=
+096931024ygrp-msg p a span.yiv5096931024yshortcuts {
+font-family:Verdana;fo=
+nt-size:10px;font-weight:normal;}
+
+#yiv5096931024 .yiv5096931024green {
+col=
+or:#628c2a;}
+
+#yiv5096931024 .yiv5096931024MsoNormal {
+margin:0 0 0 0;}
+
+#y=
+iv5096931024 o {
+font-size:0;}
+
+#yiv5096931024 #yiv5096931024photos div {
+f=
+loat:left;width:72px;}
+
+#yiv5096931024 #yiv5096931024photos div div {
+borde=
+r:1px solid #666666;height:62px;overflow:hidden;width:62px;}
+
+#yiv509693102=
+4 #yiv5096931024photos div label {
+color:#666666;font-size:10px;overflow:hi=
+dden;text-align:center;white-space:nowrap;width:64px;}
+
+#yiv5096931024 #yiv=
+5096931024reco-category {
+font-size:77%;}
+
+#yiv5096931024 #yiv5096931024rec=
+o-desc {
+font-size:77%;}
+
+#yiv5096931024 .yiv5096931024replbq {
+margin:4px;=
+}
+
+#yiv5096931024 #yiv5096931024ygrp-actbar div a:first-child {
+margin-righ=
+t:2px;padding-right:5px;}
+
+#yiv5096931024 #yiv5096931024ygrp-mlmsg {
+font-s=
+ize:13px;font-family:Arial, helvetica, clean, sans-serif;}
+
+#yiv5096931024 =
+#yiv5096931024ygrp-mlmsg table {
+font-size:inherit;font:100%;}
+
+#yiv5096931=
+024 #yiv5096931024ygrp-mlmsg select, #yiv5096931024 input, #yiv5096931024 t=
+extarea {
+font:99% Arial, Helvetica, clean, sans-serif;}
+
+#yiv5096931024 #y=
+iv5096931024ygrp-mlmsg pre, #yiv5096931024 code {
+font:115% monospace;}
+
+#y=
+iv5096931024 #yiv5096931024ygrp-mlmsg * {
+line-height:1.22em;}
+
+#yiv5096931=
+024 #yiv5096931024ygrp-mlmsg #yiv5096931024logo {
+padding-bottom:10px;}
+
+
+#=
+yiv5096931024 #yiv5096931024ygrp-msg p a {
+font-family:Verdana;}
+
+#yiv50969=
+31024 #yiv5096931024ygrp-msg p#yiv5096931024attach-count span {
+color:#1E66=
+AE;font-weight:700;}
+
+#yiv5096931024 #yiv5096931024ygrp-reco #yiv5096931024=
+reco-head {
+color:#ff7900;font-weight:700;}
+
+#yiv5096931024 #yiv5096931024y=
+grp-reco {
+margin-bottom:20px;padding:0px;}
+
+#yiv5096931024 #yiv5096931024y=
+grp-sponsor #yiv5096931024ov li a {
+font-size:130%;text-decoration:none;}
+
+=
+#yiv5096931024 #yiv5096931024ygrp-sponsor #yiv5096931024ov li {
+font-size:7=
+7%;list-style-type:square;padding:6px 0;}
+
+#yiv5096931024 #yiv5096931024ygr=
+p-sponsor #yiv5096931024ov ul {
+margin:0;padding:0 0 0 8px;}
+
+#yiv509693102=
+4 #yiv5096931024ygrp-text {
+font-family:Georgia;}
+
+#yiv5096931024 #yiv50969=
+31024ygrp-text p {
+margin:0 0 1em 0;}
+
+#yiv5096931024 #yiv5096931024ygrp-te=
+xt tt {
+font-size:120%;}
+
+#yiv5096931024 #yiv5096931024ygrp-vital ul li:las=
+t-child {
+border-right:none !important;
+}
+#yiv5096931024 
+</style></div></d=
+iv><br><br></div>  </div> </div>  </div> </div></body></html>
+--730575183-1882379070-1398700884=:66974--
+
+

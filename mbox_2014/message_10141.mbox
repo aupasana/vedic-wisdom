@@ -1,0 +1,707 @@
+From philstinnet@...  Wed Feb 17 11:07:37 2016
+Return-Path: <philstinnet@...>
+X-Sender: philstinnet@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 97040 invoked by uid 102); 27 Feb 2014 02:35:33 -0000
+X-Received: from unknown (HELO mtaq5.grp.bf1.yahoo.com) (10.193.84.36)
+  by m1.grp.bf1.yahoo.com with SMTP; 27 Feb 2014 02:35:33 -0000
+X-Received: (qmail 32179 invoked from network); 27 Feb 2014 02:35:32 -0000
+X-Received: from unknown (HELO nm28-vm1.bullet.mail.gq1.yahoo.com) (98.136.216.160)
+  by mtaq5.grp.bf1.yahoo.com with SMTP; 27 Feb 2014 02:35:32 -0000
+X-Received: from [98.137.12.188] by nm28.bullet.mail.gq1.yahoo.com with NNFMP; 27 Feb 2014 02:35:32 -0000
+X-Received: from [98.137.12.205] by tm9.bullet.mail.gq1.yahoo.com with NNFMP; 27 Feb 2014 02:35:32 -0000
+X-Received: from [127.0.0.1] by omp1013.mail.gq1.yahoo.com with NNFMP; 27 Feb 2014 02:35:31 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 992351.15509.bm@...
+X-Received: (qmail 73962 invoked by uid 60001); 27 Feb 2014 02:35:31 -0000
+X-YMail-OSG: p32crKMVM1kLl4_Ryl060YEWfa.h4ixrQP1NjfBfP5vDALQ
+ ppZeaUGY.IJb8Tlp1p75OynLpIA2H6GXrZYGbCO4RnZZUCBE6lRcSk3r2Yvg
+ etSpNlfCidIZk4DJ4tCUK_5rFqxpoyARmiHPPJ7TWU62y5S.urZeS5tWFG7.
+ 2ZB7Q4yePSesSnEQYVaVID.6HUiKql4FVi8UtvtKgmb1istQpy0Dyl0N8LKN
+ nD.YwOh0umNYGglnj2ICSuE5.CcJMBAwiWy0OafePKK4GME2f14UXwsoSQ5Y
+ US8AFNA22ZntOMCB1C3FBSJVgjvemlTmt5MIRKM48U8hg3Hwdx49TQwdemVz
+ B01J3LSgeyjDmuIXwiyemPuT..DBg0Hpe_xrHlQ6WXj8yJB1DlSBT_vMVIZA
+ J1XH32Mnjg0ofopeHlYcAIROKuWtMJR.U_BbaOuFtG5fvRkEGl_pV6xiVHv_
+ WtKwsksjDLEgrFS5rYFxMeRISKs3WJJla42jUw4gdhgXfdwLYaMlrEReRglh
+ Hdyg4OT.3ZNX.wbAd0CF127Drn4URdiodHZTnAokzKLJgGf6EVmQNvwA0BVS
+ qbmO4hZR0EXxRG1CJcxJyI5kFK1J.2dyaMPsKJdicBjr0zheewaCQ4.WWRK_
+ FMyPpXMTu6O5jB8q7rtC9ufk28GEVMnElzC49tKSC2Ny9stnbnsDSoH0uL27
+ 8NSHIylg.nOCK39Fn3Cz5vvkidedKJ6dEUsmADQhHR0pTCTRrN1XMDNKZzWB
+ p55JD2Y5LRPZ2q_V5XErPN2YRS6xGKgJynVY9q1dzaKzDzHydce8sgmByFig
+ i0SWaUlH0NptkXrgB7LHUaBL27p9GpSm_Or_ebIG_vLponvCjdTIU53XIjo8
+ mZs5O8nGoCpYq_ZunTyEXKv5mUUBxt8rgZwXAo4Anlw4vVwRW730NmWXaXGW
+ EdIVdVWZ.Wji8NG1Q6yb9cWqSNIok5YXpRRlUu4Bvd_3.59SnQdAmS913eo5
+ iS_jjstG0R58Ly.eHYN54GsLFqX1cqSOFd6._AyZwzBwgmr5QY.KHogCymwU
+ Ud39m6JScNhC5mFY6Mqc830rJgKWbcvw4PZO4gOsKSnEVpWY_NR31bUFotvn
+ tShdAePVFahF6TAC8BGXw5PFrfiyN3AwbROZCpynP1m.ZGqauUSm8dXnrYDP
+ 5jaxFYpjrl6m81cZVW3BBZArORy.Jcgk6PDgKxYxov0BIn9IBaqxwzAbG1kA
+ zb36Y0qYfjk0PHtekTyVtAUJgqAqrt3Ink3CJRp3PFirnsnyTqVDCrQ8Affp
+ ZnuA871iMhHVu9ydMbQyKqcWDO9A8Q8AuUps0gCGyGhXVyqdx4BSY6VCse61
+ T
+X-Received: from [204.191.93.107] by web164802.mail.gq1.yahoo.com via HTTP; Wed, 26 Feb 2014 18:35:31 PST
+X-Rocket-MIMEInfo: 002.001,QnV0IHJlYWQgYnkgdGhlIHJpZ2h0IHBlb3BsZS4uLi4gc3VjaCBpcyB0aGUgbmF0dXJlIG9mIGRlc3RpbnkuLi4uCgoKCk9uIFdlZG5lc2RheSwgRmVicnVhcnkgMjYsIDIwMTQgNzozMSBQTSwgTmFyYXNpbWhhIFAuVi5SLiBSYW8gPHB2cjEwOEB5YWhvby5jb20.IHdyb3RlOgogCsKgIApXcm9uZyBhdXRvLWZpbGwgYW5kIHNlbnQgdG8gYSB3cm9uZyB5YWhvb2dyb3VwLi4KCgoKLS0tLS0gRm9yd2FyZGVkIE1lc3NhZ2UgLS0tLS0KPkZyb206IE5hcmFzaW1oYSBQLlYuUi4gUmFvIDxwdnIxMDhAeWFob28uY28BMAEBAQE-
+X-Mailer: YahooMailWebService/0.8.177.636
+References: <1393468181.91096.YahooMailNeo@...> <1393468286.23954.YahooMailNeo@...>
+Message-ID: <1393468531.36298.YahooMailNeo@...>
+Date: Wed, 26 Feb 2014 18:35:31 -0800 (PST)
+To: "vedic-wisdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com>
+In-Reply-To: <1393468286.23954.YahooMailNeo@...>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="430928906-235052998-1393468531=:36298"
+X-Originating-IP: 10.193.84.36
+X-eGroups-Msg-Info: 1:12:0:0:0
+From: Phil Stinnet <philstinnet@...>
+Reply-To: Phil Stinnet <philstinnet@...>
+Subject: Re: [vedic-wisdom] Fw: Clash of desires/sankalpas
+X-Yahoo-Group-Post: member; u=521812586; y=6zhXihGKoRX6Uq0R2Q4FnAX8Ukb_BCdVnYUa4ugcYnKO1c1NLws
+X-Yahoo-Profile: philstinnet
+
+
+--430928906-235052998-1393468531=:36298
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+But read by the right people.... such is the nature of destiny....
+
+
+
+On We=
+dnesday, February 26, 2014 7:31 PM, Narasimha P.V.R. Rao <pvr108@...>=
+ wrote:
+ 
+=C2=A0 
+Wrong auto-fill and sent to a wrong yahoogroup..
+
+
+
+-----=
+ Forwarded Message -----
+>From: Narasimha P.V.R. Rao <pvr108@...>
+>To=
+: "vedic-astrology@yahoogroups.com" <vedic-astrology@yahoogroups.com> 
+>Sen=
+t: Wednesday, February 26, 2014 9:29 PM
+>Subject: Clash of desires/sankalpa=
+s
+> 
+>
+>
+>Namaste friends,
+>
+>
+>Best wishes for Maha Shiva Ratri on Thursda=
+y night!
+>
+>
+>
+>A friend read Dr Svoboda's "Greatness of Saturn", in which =
+it was mentioned that reading Saturn's story would give some relief from Sa=
+turn problems. That person wondered if just reading stories or prayers can =
+give benefit and noted that several of that person's sankalpas were not get=
+ting fulfilled despite sincere sadhana.
+>
+>
+>I want to share my reply here,=
+ as it may help others.
+>
+>
+>*=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0 *=
+=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0 *
+>
+>
+>Associating actions with =
+
+fruits is not easy, especially when the pipeline of actions is deep and 
+c=
+ontains contradictory actions, undertaken with contradictory sankalpas - sp=
+oken/unspoken.
+>
+>Nature carries various souls to the final goal of Freedom=
+, thru various paths. Nature considers all the desires a soul entertained i=
+n the past, 
+assesses the momentum they are carrying though their karmas an=
+d finds 
+the best path through which those desires either get fulfilled or =
+stand the best 
+chance. Nature puts one on such a path. As one traverses th=
+e path, 
+however, one may entertain new desires and that may force Nature t=
+o 
+re-adjust things again. Until one overcomes all desires, Nature keeps 
+r=
+e-adjusting one's path.
+>
+>If a sankalpa 
+of yours is not getting
+ fulfille=
+d, there are 2 possibilities: (1) there isn't enough force 
+behind that san=
+kalpa or associated action, (2) this sankalpa is at 
+loggerheads with anoth=
+er sankalpa from the past that has too much 
+momentum going for it already!=
+
+>
+>
+>I may wish for liberation in 
+one moment and for fame in another. The=
+ chain reaction of fruits set in 
+motion by the 2 sankalpas may be at logge=
+rheads.
+>
+>
+>*=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0 *=C2=A0=C2=A0=C2=
+=A0=C2=A0=C2=A0=C2=A0=C2=A0 *
+>
+>
+>Rituals do work for some simple people. =
+I know of 5 cases in which people out 
+of job (for months in 2 cases) sat t=
+hrough my monthly Full Moon Satya 
+Narayana vratam and got a job within 2 w=
+eeks.
+>
+>Of
+ course, this is not my doing. For all you know, those people m=
+ay have a
+ high level of surrender to god and faith that the ritual may hel=
+p them 
+and they may get a result, even though my own faith may be weak and=
+ does
+ nothing for me!!! In other words, one actually performing the ritual=
+ 
+may not see any benefit, but one attending it may! Thus, my pooja is 
+jus=
+t a proxy or external symbol that merely helps them connect to god 
+within =
+their own consciousness, who is the actual giver of things!
+>
+>
+>Of
+ course=
+, even if my own faith is strong, what I want may be more 
+difficult (e.g. =
+liberation). So it may seem like I am not getting any 
+result (because I am=
+ making slow progress on a long path). Or I
+ may want something simple, but=
+ it may not be granted as it is against
+ something else I asked for before =
+(and which is on its way already).
+>
+>
+>*=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=
+=A0=C2=A0 *=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0 *
+>
+>
+>For some peopl=
+e who are sufficiently evolved 
+spiritually and have a strong momentum towa=
+rds liberation already in 
+place, fulfilling some mundane desires may be di=
+fficult, except when 
+they do not mess with pre-existing momentum towards l=
+iberation. 
+Otherwise, no amount of sadhana may really be sufficient..
+>
+>*=
+=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0 *=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=
+=C2=A0=C2=A0 *
+>
+>Just one word of common sense. Shani maharaj (or any othe=
+r deity) is not a self-centered person 
+who becomes happy when people prais=
+e him or talk about him. 
+Contemplating the greatness or qualities of Satur=
+n or other deities (who are personifications of beneficial aspects of our o=
+wn consciousness) 
+enhances those aspects of our consciousness by resonance=
+. After all, what your mind contemplates, you tend to absorb some of those =
+qualities over time.
+>
+>Best regards,
+>
+>Narasimha
+>--------
+>Astrology & S=
+pirituality Resources: http://www.VedicAstrologer.org
+>--------
+>
+
+--430928906-235052998-1393468531=:36298
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"color:#000; background-color:#fff; font-family:ti=
+mes new roman, new york, times, serif;font-size:14pt"><div><span>But read b=
+y the right people.... such is the nature of destiny....</span></div><div c=
+lass=3D"yahoo_quoted" style=3D"display: block;"> <br> <br> <div style=3D"fo=
+nt-family: 'times new roman', 'new york', times, serif; font-size: 14pt;"> =
+<div style=3D"font-family: HelveticaNeue, 'Helvetica Neue', Helvetica, Aria=
+l, 'Lucida Grande', sans-serif; font-size: 12pt;"> <div dir=3D"ltr"> <font =
+size=3D"2" face=3D"Arial"> On Wednesday, February 26, 2014 7:31 PM, Narasim=
+ha P.V.R. Rao <pvr108@...> wrote:<br> </font> </div>  <div clas=
+s=3D"y_msg_container"><div id=3D"yiv6492479701"><div>
+<span style=3D"displa=
+y:none;"> </span>
+
+
+<div id=3D"yiv6492479701ygrp-mlmsg" style=3D"">
+  =
+<div id=3D"yiv6492479701ygrp-msg" style=3D"">
+
+
+    <div id=3D"yiv649247970=
+1ygrp-text">
+      
+      
+      <div style=3D"color: rgb(0, 0, 0); backgro=
+und-color: rgb(255, 255, 255); font-family: arial, helvetica, sans-serif; f=
+ont-size: 10pt;">Wrong auto-fill and sent to a wrong yahoogroup..<br clear=
+=3D"none"><div class=3D"yiv6492479701yqt7332948064" id=3D"yiv6492479701yqt5=
+3992"><div><br clear=3D"none"><blockquote style=3D"border-left:2px solid rg=
+b(16, 16, 255);">  <div style=3D"font-family: arial, helvetica, sans-serif;=
+ font-size: 10pt;"> <div style=3D"font-family: 'times new roman', 'new york=
+', times, serif; font-size: 12pt;"> <div dir=3D"ltr"> ----- Forwarded Messa=
+ge -----<br clear=3D"none">  <font face=3D"Arial" size=3D"2"> <b><span styl=
+e=3D"font-weight:bold;">From:</span></b> Narasimha P.V.R. Rao <pvr108@ya=
+hoo.com><br clear=3D"none"> <b><span style=3D"font-weight:bold;">To:</sp=
+an></b> "vedic-astrology@yahoogroups.com" <vedic-astrology@yahoogroups.c=
+om> <br clear=3D"none"> <b><span style=3D"font-weight:bold;">Sent:</span=
+></b> Wednesday, February 26, 2014 9:29 PM<br
+ clear=3D"none"> <b><span sty=
+le=3D"font-weight:bold;">Subject:</span></b> Clash of desires/sankalpas<br =
+clear=3D"none"> </font> </div> <div class=3D"yiv6492479701y_msg_container">=
+<br clear=3D"none"><div id=3D"yiv6492479701"><div><div style=3D"color: rgb(=
+0, 0, 0); background-color: rgb(255, 255, 255); font-family: arial, helveti=
+ca, sans-serif; font-size: 10pt;"><div>Namaste friends,</div><div><br clear=
+=3D"none"></div><div style=3D"color: rgb(0, 0, 0); font-size: 13.3333px; fo=
+nt-family: arial, helvetica, sans-serif; background-color: transparent; fon=
+t-style: normal;">Best wishes for Maha Shiva Ratri on Thursday night!<br cl=
+ear=3D"none"></div><div><br clear=3D"none"></div><div style=3D"color: rgb(0=
+, 0, 0); font-size: 13.3333px; font-family: arial, helvetica, sans-serif; b=
+ackground-color: transparent; font-style: normal;">A friend read Dr Svoboda=
+'s "Greatness of Saturn", in which it was mentioned that reading Saturn's s=
+tory would give some relief from Saturn problems. That person
+ wondered if =
+just reading stories or prayers can give benefit and noted that several of =
+that person's sankalpas were not getting fulfilled despite sincere sadhana.=
+</div><div style=3D"color: rgb(0, 0, 0); font-size: 13.3333px; font-family:=
+ arial, helvetica, sans-serif; background-color: transparent; font-style: n=
+ormal;"><br clear=3D"none"></div><div style=3D"color: rgb(0, 0, 0); font-si=
+ze: 13.3333px; font-family: arial, helvetica, sans-serif; background-color:=
+ transparent; font-style: normal;">I want to share my reply here, as it may=
+ help others.</div><div style=3D"color: rgb(0, 0, 0); font-size: 13.3333px;=
+ font-family: arial, helvetica, sans-serif; background-color: transparent; =
+font-style: normal;"><br clear=3D"none"></div><div style=3D"color: rgb(0, 0=
+, 0); font-size: 13.3333px; font-family: arial, helvetica, sans-serif; back=
+ground-color: transparent; font-style: normal;">*    &n=
+bsp;   *       
+ *</div><div><=
+br clear=3D"none"></div><div style=3D"color: rgb(0, 0, 0); font-size: 13.33=
+33px; font-family: arial, helvetica, sans-serif; background-color: transpar=
+ent; font-style: normal;"><span>Associating actions with 
+fruits is not eas=
+y, especially when the pipeline of actions is deep and 
+contains contradict=
+ory actions, undertaken with contradictory sankalpas -
+ spoken/unspoken.<br=
+ clear=3D"none"><br clear=3D"none">Nature carries various souls to the fina=
+l goal of Freedom, </span><span><span>thru various paths</span>.
+ Nature co=
+nsiders all the desires a soul entertained in the past, 
+assesses the momen=
+tum they are carrying though their karmas and finds 
+the best path
+ through=
+ which those desires either get fulfilled or stand the best 
+chance. Nature=
+ puts one on such a path. As one traverses the path, 
+however, one may ente=
+rtain new desires and that may force Nature to 
+re-adjust things again. Unt=
+il one overcomes all desires, Nature keeps 
+re-adjusting one's path.<br cle=
+ar=3D"none"><br clear=3D"none">If a sankalpa 
+of yours is not getting
+ fulf=
+illed, there are 2 possibilities: (1) there isn't enough force 
+behind that=
+ sankalpa or associated action, (2) this sankalpa is at 
+loggerheads with a=
+nother sankalpa from the past that has too much 
+momentum going for it alre=
+ady!</span></div><div style=3D"color: rgb(0, 0, 0); font-size: 13.3333px; f=
+ont-family: arial, helvetica, sans-serif; background-color: transparent; fo=
+nt-style: normal;"><br clear=3D"none"><span></span><span><span></span></spa=
+n></div><div style=3D"color: rgb(0, 0, 0); font-size: 13.3333px; font-famil=
+y: arial, helvetica, sans-serif; background-color: transparent; font-style:=
+ normal;"><span><span>I may wish for liberation in 
+one moment and for fame=
+ in another. The chain reaction of fruits set in 
+motion by the 2 sankalpas=
+ may be at loggerheads.<br clear=3D"none"><br clear=3D"none"></span></span>=
+</div><div style=3D"color: rgb(0, 0, 0); font-size: 13.3333px; font-family:=
+ arial, helvetica, sans-serif; background-color: transparent; font-style: n=
+ormal;"><span><span>*</span></span><span><span>    &nbs=
+p;   *</span></span><span><span>     &nb=
+sp;  *</span></span></div><div style=3D"color: rgb(0, 0, 0); font-size=
+: 13.3333px; font-family: arial, helvetica, sans-serif; background-color: t=
+ransparent; font-style: normal;"><br clear=3D"none"><span></span></div><spa=
+n></span><div style=3D"color: rgb(0, 0, 0); font-size: 13.3333px; font-fami=
+ly: arial, helvetica, sans-serif; background-color: transparent; font-style=
+: normal;"><span>Rituals
+ do work for some simple people. I know of 5 cases=
+ in which people out 
+of job (for months in 2 cases) sat through my monthly=
+ Full Moon Satya 
+Narayana vratam and got a job within 2 weeks.<br clear=3D=
+"none"><br clear=3D"none">Of
+ course, this is not my doing. For all you kno=
+w, those people may have a
+ high level of surrender to god and faith that t=
+he ritual may help them 
+and they may get a result, even though my own fait=
+h may be weak and does
+ nothing for me!!! In other words, one actually perf=
+orming the ritual 
+may not see any benefit, but one attending it may! Thus,=
+ my pooja is 
+just a proxy or external symbol that merely helps them connec=
+t to god 
+within their own consciousness, who is the actual giver of things=
+!</span><br clear=3D"none"><span></span><div class=3D"yiv6492479701yqt43212=
+20309" id=3D"yiv6492479701yqtfd67752"><br clear=3D"none">Of
+ course, even i=
+f my own faith is strong, what I want may be more 
+difficult (e.g. liberati=
+on). So it may seem like I am not getting any 
+result (because I am making =
+slow progress on a long path). Or I
+ may want something simple, but it may =
+not be granted as it is against
+ something else I asked for before (and whi=
+ch is on its way already).<br clear=3D"none"><br clear=3D"none"></div></div=
+><div style=3D"color: rgb(0, 0, 0); font-size: 13.3333px; font-family: aria=
+l, helvetica, sans-serif; background-color: transparent; font-style: normal=
+;"><span><span>*</span></span><span><span>     &nb=
+sp;  *</span></span><span><span>      &n=
+bsp; *</span></span></div><div style=3D"color: rgb(0, 0, 0); font-size: 13.=
+3333px; font-family: arial, helvetica, sans-serif; background-color: transp=
+arent; font-style: normal;"><br clear=3D"none"><span></span></div><span></s=
+pan><div style=3D"color: rgb(0, 0, 0); font-size: 13.3333px; font-family: a=
+rial, helvetica, sans-serif; background-color: transparent; font-style: nor=
+mal;"><span><span>For some people who are sufficiently evolved 
+spiritually=
+ and have a strong momentum towards liberation already in 
+place, fulfillin=
+g some mundane desires may be difficult, except when 
+they do not mess with=
+ pre-existing momentum towards liberation. 
+Otherwise, no amount of sadhana=
+ may really be sufficient..</span></span></div><div style=3D"color: rgb(0, =
+0, 0); font-size: 13.3333px; font-family: arial, helvetica, sans-serif; bac=
+kground-color: transparent; font-style: normal;"><br clear=3D"none"><span><=
+span></span></span></div><span><span>*</span></span><span><span>  =
+;      *</span></span><span><span>  &nbs=
+p;     *</span></span><div style=3D"color: rgb(0, 0, 0)=
+; font-size: 13.3333px; font-family: arial, helvetica, sans-serif; backgrou=
+nd-color: transparent; font-style: normal;"><br clear=3D"none"><span></span=
+></div><span></span><span>Just
+ one word of common sense. Shani maharaj (or=
+ any other deity) is not a self-centered person 
+who becomes happy when peo=
+ple praise him or talk about him. 
+Contemplating the greatness or qualities=
+ of Saturn or other deities (who
+ are personifications of beneficial aspect=
+s of our own consciousness) 
+enhances those aspects of our
+ consciousness b=
+y resonance. After all, what
+ your mind contemplates, you tend to absorb so=
+me of those qualities over
+ time.<br clear=3D"none"><br clear=3D"none"></sp=
+an><span></span>Best regards,<br clear=3D"none"><div style=3D"color: rgb(0,=
+ 0, 0); font-size: 13px; font-family: arial, helvetica, clean, sans-serif; =
+background-color: transparent; font-style: normal;">Narasimha<br clear=3D"n=
+one">--------<br clear=3D"none">Astrology & Spirituality Resources: <a =
+rel=3D"nofollow" shape=3D"rect" target=3D"_blank" href=3D"http://www.vedica=
+strologer.org/">http://www.VedicAstrologer.org</a></div><div style=3D"color=
+: rgb(0, 0, 0); font-size: 13px; font-family: arial, helvetica, clean, sans=
+-serif; background-color: transparent; font-style: normal;">--------<br cle=
+ar=3D"none"></div></div></div></div></div> </div> </div> </blockquote></div=
+></div>   </div>
+
+    </div>
+     
+
+    
+    <div class=3D"yiv6492479701yqt=
+7332948064" id=3D"yiv6492479701yqt68780"><div style=3D"color:#fff;height:0;=
+"></div></div>
+
+
+</div><div class=3D"yiv6492479701yqt7332948064" id=3D"yiv6=
+492479701yqt81928"><style type=3D"text/css">
+#yiv6492479701 #yiv6492479701 =
+--
+  #yiv6492479701ygrp-mkp {
+border:1px solid #d8d8d8;font-family:Arial;ma=
+rgin:10px 0;padding:0 10px;}
+
+#yiv6492479701 #yiv6492479701ygrp-mkp hr {
+bo=
+rder:1px solid #d8d8d8;}
+
+#yiv6492479701 #yiv6492479701ygrp-mkp #yiv6492479=
+701hd {
+color:#628c2a;font-size:85%;font-weight:700;line-height:122%;margin=
+:10px 0;}
+
+#yiv6492479701 #yiv6492479701ygrp-mkp #yiv6492479701ads {
+margin=
+-bottom:10px;}
+
+#yiv6492479701 #yiv6492479701ygrp-mkp .yiv6492479701ad {
+pa=
+dding:0 0;}
+
+#yiv6492479701 #yiv6492479701ygrp-mkp .yiv6492479701ad p {
+mar=
+gin:0;}
+
+#yiv6492479701 #yiv6492479701ygrp-mkp .yiv6492479701ad a {
+color:#=
+0000ff;text-decoration:none;}
+#yiv6492479701 #yiv6492479701ygrp-sponsor #yi=
+v6492479701ygrp-lc {
+font-family:Arial;}
+
+#yiv6492479701 #yiv6492479701ygrp=
+-sponsor #yiv6492479701ygrp-lc #yiv6492479701hd {
+margin:10px 0px;font-weig=
+ht:700;font-size:78%;line-height:122%;}
+
+#yiv6492479701 #yiv6492479701ygrp-=
+sponsor #yiv6492479701ygrp-lc .yiv6492479701ad {
+margin-bottom:10px;padding=
+:0 0;}
+
+#yiv6492479701 #yiv6492479701actions {
+font-family:Verdana;font-siz=
+e:11px;padding:10px 0;}
+
+#yiv6492479701 #yiv6492479701activity {
+background=
+-color:#e0ecee;float:left;font-family:Verdana;font-size:10px;padding:10px;}=
+
+
+#yiv6492479701 #yiv6492479701activity span {
+font-weight:700;}
+
+#yiv64924=
+79701 #yiv6492479701activity span:first-child {
+text-transform:uppercase;}
+=
+
+#yiv6492479701 #yiv6492479701activity span a {
+color:#5085b6;text-decorati=
+on:none;}
+
+#yiv6492479701 #yiv6492479701activity span span {
+color:#ff7900;=
+}
+
+#yiv6492479701 #yiv6492479701activity span .yiv6492479701underline {
+tex=
+t-decoration:underline;}
+
+#yiv6492479701 .yiv6492479701attach {
+clear:both;=
+display:table;font-family:Arial;font-size:12px;padding:10px 0;width:400px;}=
+
+
+#yiv6492479701 .yiv6492479701attach div a {
+text-decoration:none;}
+
+#yiv6=
+492479701 .yiv6492479701attach img {
+border:none;padding-right:5px;}
+
+#yiv6=
+492479701 .yiv6492479701attach label {
+display:block;margin-bottom:5px;}
+
+#=
+yiv6492479701 .yiv6492479701attach label a {
+text-decoration:none;}
+
+#yiv64=
+92479701 blockquote {
+margin:0 0 0 4px;}
+
+#yiv6492479701 .yiv6492479701bold=
+ {
+font-family:Arial;font-size:13px;font-weight:700;}
+
+#yiv6492479701 .yiv6=
+492479701bold a {
+text-decoration:none;}
+
+#yiv6492479701 dd.yiv6492479701la=
+st p a {
+font-family:Verdana;font-weight:700;}
+
+#yiv6492479701 dd.yiv649247=
+9701last p span {
+margin-right:10px;font-family:Verdana;font-weight:700;}
+
+=
+#yiv6492479701 dd.yiv6492479701last p span.yiv6492479701yshortcuts {
+margin=
+-right:0;}
+
+#yiv6492479701 div.yiv6492479701attach-table div div a {
+text-d=
+ecoration:none;}
+
+#yiv6492479701 div.yiv6492479701attach-table {
+width:400p=
+x;}
+
+#yiv6492479701 div.yiv6492479701file-title a, #yiv6492479701 div.yiv64=
+92479701file-title a:active, #yiv6492479701 div.yiv6492479701file-title a:h=
+over, #yiv6492479701 div.yiv6492479701file-title a:visited {
+text-decoratio=
+n:none;}
+
+#yiv6492479701 div.yiv6492479701photo-title a, #yiv6492479701 div=
+.yiv6492479701photo-title a:active, #yiv6492479701 div.yiv6492479701photo-t=
+itle a:hover, #yiv6492479701 div.yiv6492479701photo-title a:visited {
+text-=
+decoration:none;}
+
+#yiv6492479701 div#yiv6492479701ygrp-mlmsg #yiv649247970=
+1ygrp-msg p a span.yiv6492479701yshortcuts {
+font-family:Verdana;font-size:=
+10px;font-weight:normal;}
+
+#yiv6492479701 .yiv6492479701green {
+color:#628c=
+2a;}
+
+#yiv6492479701 .yiv6492479701MsoNormal {
+margin:0 0 0 0;}
+
+#yiv649247=
+9701 o {
+font-size:0;}
+
+#yiv6492479701 #yiv6492479701photos div {
+float:lef=
+t;width:72px;}
+
+#yiv6492479701 #yiv6492479701photos div div {
+border:1px so=
+lid #666666;height:62px;overflow:hidden;width:62px;}
+
+#yiv6492479701 #yiv64=
+92479701photos div label {
+color:#666666;font-size:10px;overflow:hidden;tex=
+t-align:center;white-space:nowrap;width:64px;}
+
+#yiv6492479701 #yiv64924797=
+01reco-category {
+font-size:77%;}
+
+#yiv6492479701 #yiv6492479701reco-desc {=
+
+font-size:77%;}
+
+#yiv6492479701 .yiv6492479701replbq {
+margin:4px;}
+
+#yiv6=
+492479701 #yiv6492479701ygrp-actbar div a:first-child {
+margin-right:2px;pa=
+dding-right:5px;}
+
+#yiv6492479701 #yiv6492479701ygrp-mlmsg {
+font-size:13px=
+;font-family:Arial, helvetica, clean, sans-serif;}
+
+#yiv6492479701 #yiv6492=
+479701ygrp-mlmsg table {
+font-size:inherit;font:100%;}
+
+#yiv6492479701 #yiv=
+6492479701ygrp-mlmsg select, #yiv6492479701 input, #yiv6492479701 textarea =
+{
+font:99% Arial, Helvetica, clean, sans-serif;}
+
+#yiv6492479701 #yiv649247=
+9701ygrp-mlmsg pre, #yiv6492479701 code {
+font:115% monospace;}
+
+#yiv649247=
+9701 #yiv6492479701ygrp-mlmsg * {
+line-height:1.22em;}
+
+#yiv6492479701 #yiv=
+6492479701ygrp-mlmsg #yiv6492479701logo {
+padding-bottom:10px;}
+
+
+#yiv64924=
+79701 #yiv6492479701ygrp-msg p a {
+font-family:Verdana;}
+
+#yiv6492479701 #y=
+iv6492479701ygrp-msg p#yiv6492479701attach-count span {
+color:#1E66AE;font-=
+weight:700;}
+
+#yiv6492479701 #yiv6492479701ygrp-reco #yiv6492479701reco-hea=
+d {
+color:#ff7900;font-weight:700;}
+
+#yiv6492479701 #yiv6492479701ygrp-reco=
+ {
+margin-bottom:20px;padding:0px;}
+
+#yiv6492479701 #yiv6492479701ygrp-spon=
+sor #yiv6492479701ov li a {
+font-size:130%;text-decoration:none;}
+
+#yiv6492=
+479701 #yiv6492479701ygrp-sponsor #yiv6492479701ov li {
+font-size:77%;list-=
+style-type:square;padding:6px 0;}
+
+#yiv6492479701 #yiv6492479701ygrp-sponso=
+r #yiv6492479701ov ul {
+margin:0;padding:0 0 0 8px;}
+
+#yiv6492479701 #yiv64=
+92479701ygrp-text {
+font-family:Georgia;}
+
+#yiv6492479701 #yiv6492479701ygr=
+p-text p {
+margin:0 0 1em 0;}
+
+#yiv6492479701 #yiv6492479701ygrp-text tt {
+=
+font-size:120%;}
+
+#yiv6492479701 #yiv6492479701ygrp-vital ul li:last-child =
+{
+border-right:none !important;
+}
+#yiv6492479701 
+</style></div></div><br><=
+br></div>  </div> </div>  </div> </div></body></html>
+--430928906-235052998-1393468531=:36298--
+
+

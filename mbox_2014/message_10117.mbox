@@ -1,0 +1,359 @@
+From b_jamnadas@...  Wed Feb 17 11:07:37 2016
+Return-Path: <b_jamnadas@...>
+X-Sender: b_jamnadas@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 84892 invoked by uid 102); 21 Feb 2014 02:31:15 -0000
+X-Received: from unknown (HELO mtaq1.grp.bf1.yahoo.com) (10.193.84.32)
+  by m13.grp.bf1.yahoo.com with SMTP; 21 Feb 2014 02:31:15 -0000
+X-Received: (qmail 13809 invoked from network); 21 Feb 2014 02:31:15 -0000
+X-Received: from unknown (HELO nm22-vm4.bullet.mail.ne1.yahoo.com) (98.138.91.182)
+  by mtaq1.grp.bf1.yahoo.com with SMTP; 21 Feb 2014 02:31:15 -0000
+X-Received: from [98.138.101.130] by nm22.bullet.mail.ne1.yahoo.com with NNFMP; 21 Feb 2014 02:31:14 -0000
+X-Received: from [98.138.89.175] by tm18.bullet.mail.ne1.yahoo.com with NNFMP; 21 Feb 2014 02:31:14 -0000
+X-Received: from [127.0.0.1] by omp1031.mail.ne1.yahoo.com with NNFMP; 21 Feb 2014 02:31:14 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 947046.1693.bm@...
+X-Received: (qmail 63384 invoked by uid 60001); 21 Feb 2014 02:31:14 -0000
+X-YMail-OSG: uB9ZuDYVM1nU4GWhwV8pIP9VB7u_Bur5ABHjIoTycxl5xcM
+ CsJjqMaMkQ6W9WSKBjvsJBCXs.ikoJfqSqILznhBZhyWN_2cghcqkD3iATEX
+ izOxeDwjMlPE.izys4mk8Tgb0M3GRhKnD2YiRinNuaCNfbxz.9AMcokTdKln
+ ojBhFIC0WaHgcDD_toCRM20.Vpe0fK7jYWPjVqGqQ530._iqFq9xyTGEUroL
+ zj11Au7.MLirJ89Kt5aTLym_kN.Zh15ocVEa_eE9ruw7o9VDlnsui_hsVTw8
+ l9NYIoIkMP4TSWnVgd6pFwUchQp0xVSVzj7h9Z.owc_PGZkMdPppmi1vZHhr
+ DwnRhbE7EmabkjTlVCmNGNbWjXoGImtG76SysNCBCu4T2MMtTnCvgpK.i3we
+ 7XxZXj_wJBhySe6XmOQpjxSbYE.D50GhpNMOVcU9X7Gl3jqgNkKNclvMOhDN
+ GoIuEVe9uPk5Nl92uZcNV.Ec2JT_lO0YPhUJI.moPB23Z2qsLhdgYTUaVH5Q
+ A5UAHYRqgaLwYSZfhW.60fNKd8UZnzNLtgMEcXtQ8WsdzQ9JD9OzbGSo6ggm
+ nT9iLczqo4rKNeaHeBZenZCLpx8H_oqBk1asgSWiw3SnG08095dvAR7HBf2l
+ F8c.27uPIIEMqZ04Sj4BqasqE_mGKxPaJW2idmEB2hJAdaeICSqQ9f7YERqF
+ uQtK76QyzEzfKvvNCKJeIbhQ6bdev9mz3_J12Emn_OSGbcxAjpIF1yzZ_3qL
+ a4v7ES08A0IWMhhq6aICELCMQjSi8A_TWX4ZrXYAFB40ugkPbTLcX2_LpzkQ
+ 2M8yaSTmd.pKjzpZMnHtJAjV.9uBUNp6m6vtb76k1ZDTFz8n4H3dtCnxSGpz
+ 1EL.AgPsCsJOr8Dj7NR0j9apK8IZZFc4n.3sM6Guk2t.SlADY.glRImKjaYJ
+ JWYKLYmOkJjtvL4sXq6gOhR1_2vbLn84cQMbiZpSjB9zP7kcTw3sc5vzopyl
+ R0hxBYu3OKQa4yp8IAa9lTQTewb.0m3YKwp_oKkZ4USA37FyfaBjEE9J6wR4
+ 63v67UGIuy40P9tTZWLzjuZyt56E6Ek12TMFPOUpnt063ln9BsGL18BeezAr
+ elwbFze8SI8A34WOm8afwGeFFP5o0UZgsPSqTWvQPZANmo7N0UEGuFDjOM15
+ jajmXrgXwG12imzaMjI9CxxHVowQFaPphFB1mGom.f9ExArrAkGszeW5k_pT
+ 1mF3dSGUfbnGECvQo3vBTTRaRbucUFxYtXWsVKb54_ijuHT9u2uDVk17Jbw.
+ h34eYJvK4Fx_.HCTCf7UNz7i.kJg8YB1K9aeCMY2YyBsZ3Z5lE09XEpyTqTH
+ P7EnyN_02j7qavCGSZJrgYX7axrotYsC8ernDDm2F.sOI2cAS3cjw634XVEt
+ SWAqjFIccDE3ClGRGWN4wpjwQnKcOxJnrQituvC1WCYk_XFVUfoKs_oUPGQ9
+ 2JUGc9ZIzigwvPlknHeqzTI9qqbnkIRNErD4cDF5j9G4jgtnB5mq9WbJUDcS
+ 953f4E4dzGEJP3e6gGfEekHbPotF0qypZ_UCtwyilgOpDfj.BjlKMhbS7ZRz
+ rWwESnFI4AoDtPfrhXkw3ckYTGB0x2XjlG2.oHiMqs5ubE.Pq5RJWID5T7uK
+ mvROqdG72EdHWD_8bTJosrfEq6oulUK5JHCBxXVDNt0vSG4reS3oAItfYEly
+ GixcZ2DoujiSKbnodf_.RL8AniGz3gVWY_fQ.LuH7WbWx_uijt0._hQ3m3Ou
+ At9Pwq22Enp_KiK9z5BKcnzuOSyFdYqP3Ui6z0ND5QBFv5zPpFQZhKZxqjQf
+ F97EmQuGDjSP6abKw9H2tkIT96BmsiAPWf390.RV35qiDWwoyI8Q4dtwXrEZ
+ RQQRT1q.UO99F0WDk7SUgq8ybY7pUzydlf2KHiqPFOKMpwSbQvu1UuDRMnN8
+ xOgCQ26JwEeJVrMtLEz4N81AVBbPxcWrIrxyKT2RFxQhcb.HTAyoazEYqs1n
+ lS_mwhZaTgGBT0MmTchPyasAsfRwmD7LT5ZCNRdgbqHgK_1jlar.LNBQqeYD
+ arihPtdnsOsG1X6WJuSFRcrt5fZ41upiBLZofyx1D3bvSU4lGQ3DGOcSujaM
+ PJYhMy8rxlRJTkradKd9EPYDJAfiTEpbVggjL6RYqDsBTtAvCK7yQ8VtdXfr
+ uhYzrGllFrlE1n5W4SctUVfoaTXbu1IcTdZxQT0cpBocYxNn5LdjmJGzT6w-
+ -
+X-Received: from [174.93.78.162] by web126102.mail.ne1.yahoo.com via HTTP; Thu, 20 Feb 2014 18:31:14 PST
+X-Rocket-MIMEInfo: 002.001,QW1hemluZyEgQSBxdWVzdGlvbiB0aGF0IEkgcHV0IDMgbW9udGhzIGFnbyByZWNlaXZlcyBhIHJlcGx5IG5vdy4KCldoYXQgd291bGQgYmUgYSBnb29kIHN0b3RyYSBmb3IgaW5jcmVhc2luZyBzZWxmIGNvbmZpZGVuY2UgYW5kIHBvc2l0aXZpdHk_CgpUaGFua3MsIApCaHVwZW5kcmEKCgEwAQEBAQ--
+X-Mailer: YahooMailAndroidMobile/3.0.20 YahooMailWebService/0.8.177.636
+Message-ID: <1392949874.4366.YahooMailAndroidMobile@...>
+Date: Thu, 20 Feb 2014 18:31:14 -0800 (PST)
+To: "vedic-wisdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com>
+In-Reply-To: <530525bc.635e440a.7a32.ffff96a3@...>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="1923879097-1887320346-1392949874=:4366"
+X-Originating-IP: 10.193.84.32
+X-eGroups-Msg-Info: 1:12:0:0:0
+From: "b_jamnadas@..." <b_jamnadas@...>
+Subject: Re: RE: [vedic-wisdom] Significance of chanting Namakam/ Chamakam
+X-Yahoo-Group-Post: member; u=149421083; y=8ElCmqAX80ygA1I-LLKjY9D3Pfe8bmsrbzv3KI4c7aSMZ6_v9A
+X-Yahoo-Profile: b_jamnadas
+
+
+--1923879097-1887320346-1392949874=:4366
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Amazing! A question that I put 3 months ago receives a reply now.
+
+What wou=
+ld be a good stotra for increasing self confidence and positivity?
+
+Thanks,=
+ 
+Bhupendra
+
+
+--1923879097-1887320346-1392949874=:4366
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<table cellspacing=3D"0" cellpadding=3D"0" border=3D"0"><tr><td valign=3D"t=
+op"><p dir=3D"ltr">Amazing! A question that I put 3 months ago receives a r=
+eply now.</p>
+<p dir=3D"ltr">What would be a good stotra for increasing sel=
+f confidence and positivity?</p>
+<p dir=3D"ltr">Thanks, <br>
+Bhupendra</p>
+=
+</td></tr></table>            <div id=3D"_origMsg_">
+                <div>
+=
+                    <br />
+                    <div>
+                      =
+  <div style=3D"font-size:0.9em">
+                            <hr size=3D"1=
+">
+                            <b>
+                                <span st=
+yle=3D"font-weight:bold">From:</span>
+                            </b>
+    =
+                        Kannan Iyengar <prof.kannan.iyengar@...>=
+;;                            <br>
+                            <b>
+        =
+                        <span style=3D"font-weight:bold">To:</span>
+       =
+                     </b>
+                             <vedic-wisdom@yah=
+oogroups.com>;                                                          =
+                                           <br>
+                           =
+ <b>
+                                <span style=3D"font-weight:bold">Subje=
+ct:</span>
+                            </b>
+                            RE:=
+ [vedic-wisdom] Significance of chanting Namakam/ Chamakam                 =
+           <br>
+                            <b>
+                           =
+     <span style=3D"font-weight:bold">Sent:</span>
+                        =
+    </b>
+                            Wed, Feb 19, 2014 9:44:17 PM          =
+                  <br>
+                        </div>
+                     =
+       <br>
+                            <table cellspacing=3D"0" cellpaddin=
+g=3D"0" border=3D"0">
+                                <tbody>
+             =
+                       <tr>
+                                        <td val=
+ign=3D"top">
+<span style=3D"display:none;">=C2=A0</span>
+
+
+<div id=3D"ygrp-=
+mlmsg" style=3D"">
+  <div id=3D"ygrp-msg" style=3D"">
+
+
+    <div id=3D"ygrp=
+-text">
+      
+      
+      <p>
+
+
+
+
+
+</p><div class=3D"Section1">
+
+<p class=
+=3D"MsoNormal"><span style=3D"font-size:10.5pt;">Namasttay,</span></p> 
+
+<p=
+ class=3D"MsoNormal"><span style=3D"font-size:10.5pt;"> =C2=A0</span></p> 
+=
+
+<p class=3D"MsoListParagraph"><span style=3D"font-size:10.5pt;"><span>1.<s=
+pan style=3D"font:7.0pt;">=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0
+</span></spa=
+n></span><span style=3D"font-size:10.5pt;">Chanting Rudram enhances longevi=
+ty and Mrutyu-bhaya(fear of
+death). It can even grant immortality if consis=
+tently chanted 13 crore times.</span></p> 
+
+<p class=3D"MsoListParagraph"><=
+span style=3D"font-size:10.5pt;"><span>2.<span style=3D"font:7.0pt;">=C2=A0=
+=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0
+</span></span></span><span style=3D"font-siz=
+e:10.5pt;">It is not different. Mantra chanting or stotra chanting have
+alm=
+ost same beneficial effects, except that mantra is individual specific
+admi=
+nistered by Shri Gurudeva, and stotra is common for all.</span></p> 
+
+<p cl=
+ass=3D"MsoNormal"><span style=3D"font-size:10.5pt;"> =C2=A0</span></p> 
+
+<p=
+ class=3D"MsoNormal"><span style=3D"font-size:10.5pt;">With Kind Regards,</=
+span></p> 
+
+<p class=3D"MsoNormal"><span style=3D"font-size:10.5pt;">Kannan=
+</span></p> 
+
+<p class=3D"MsoNormal"><span style=3D"font-size:10.5pt;"> =C2=
+=A0</span></p> 
+
+<div class=3D"yqt1754341920" id=3D"yqt21666"><div>
+
+<div s=
+tyle=3D"border-top:solid #B5C4DF 1.0pt;">
+
+<p class=3D"MsoNormal"><b><span =
+style=3D"font-size:10.0pt;">From:</span></b><span style=3D"font-size:10.0pt=
+;">
+vedic-wisdom@yahoogroups.com [mailto:vedic-wisdom@yahoogroups.com] <b>O=
+n Behalf
+Of </b>Bhupendra Jamnadas<br clear=3D"none">
+<b>Sent:</b> Wednesda=
+y, November 13, 2013 4:12 AM<br clear=3D"none">
+<b>To:</b> vedic-wisdom@yah=
+oogroups.com<br clear=3D"none">
+<b>Subject:</b> Re: [vedic-wisdom] Signific=
+ance of chanting Namakam/ Chamakam</span></p> 
+
+</div>
+
+</div>
+
+<p class=3D=
+"MsoNormal"> =C2=A0</p> 
+
+<p class=3D"MsoNormal">=C2=A0 </p> 
+
+<div id=3D"y=
+grp-mlmsg">
+
+<div id=3D"ygrp-msg">
+
+<div id=3D"ygrp-text">
+
+<table class=3D=
+"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"><tr><td c=
+olspan=3D"1" rowspan=3D"1" valign=3D"top">
+  <p>Namaste all,</p> 
+  <p>Neve=
+r saw any responses to my query below. Has anyone no opinion or no
+  experi=
+ence with the below sadhana?</p> 
+  <p>Thanks, <br clear=3D"none">
+  Bhupen=
+dra</p> 
+  </td></tr></table>
+
+<div id=3D"_origMsg_">
+
+<div>
+
+<p class=3D"M=
+soNormal"> =C2=A0</p> 
+
+<div>
+
+<div>
+
+<div align=3D"center" class=3D"MsoNor=
+mal" style=3D"text-align:center;"><span style=3D"font-size:11.0pt;">
+
+</spa=
+n><hr align=3D"center" size=3D"1" width=3D"100%">
+
+</div>
+
+<p class=3D"MsoN=
+ormal"><b><span style=3D"font-size:11.0pt;">From: </span></b><span style=3D=
+"font-size:11.0pt;">Bhupendra Jamnadas <b_jamnadas@...>; <br cle=
+ar=3D"none">
+<b>To: </b>Vedic Wisdom <vedic-wisdom@yahoogroups.com>; =
+<br clear=3D"none">
+<b>Subject: </b>[vedic-wisdom] Significance of chanting=
+ Namakam/ Chamakam <br clear=3D"none">
+<b>Sent: </b>Tue, Nov 5, 2013 8:59:2=
+8 PM </span></p> 
+
+</div>
+
+<p class=3D"MsoNormal"> =C2=A0</p> 
+
+<table clas=
+s=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"><tr><=
+td colspan=3D"1" rowspan=3D"1" valign=3D"top">
+  <p class=3D"MsoNormal">=C2=
+=A0 </p> 
+  <div id=3D"ygrp-mlmsg">
+  <div id=3D"ygrp-msg">
+  <div id=3D"yg=
+rp-text">
+  <table class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"0"><tr><td colspan=3D"1" rowspan=3D"1" valign=3D"top">
+    <=
+p>Deat all,</p> 
+    <p>Would.like to ask learned members and Narasimha Rao=
+ ji about the
+    significance of chanting Namakam /Chamakam. Additionally,=
+ how is such
+    chanting different in effect from mantra chanting?</p> 
+  =
+  <p>Thanks, <br clear=3D"none">
+    Bhupendra</p> 
+    </td></tr></table>
+=
+  </div>
+  </div>
+  </div>
+  </td></tr></table>
+
+</div>
+
+</div>
+
+</div>
+
+</=
+div>
+
+<div>
+
+<p class=3D"MsoNormal"><span style=3D"color:white;"></span></p=
+> 
+
+</div>
+
+</div>
+
+
+
+
+</div></div></div>
+
+    </div>
+     
+
+    
+    <div =
+class=3D"yqt1754341920" id=3D"yqt59359"><div style=3D"color:#fff;height:0;"=
+></div></div>
+
+
+</td>
+                                    </tr>
+           =
+                     </tbody>
+                            </table>
+        =
+            </div>
+                </div>
+            </div>
+
+--1923879097-1887320346-1392949874=:4366--
+
+

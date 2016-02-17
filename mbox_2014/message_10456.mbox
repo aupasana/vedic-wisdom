@@ -1,0 +1,580 @@
+From pvr108@...  Wed Feb 17 11:07:43 2016
+Return-Path: <pvr108@...>
+X-Sender: pvr108@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 25676 invoked by uid 102); 20 Sep 2014 15:51:12 -0000
+X-Received: from unknown (HELO mtaq4.grp.bf1.yahoo.com) (10.193.84.143)
+  by m7.grp.bf1.yahoo.com with SMTP; 20 Sep 2014 15:51:12 -0000
+X-Received: (qmail 32053 invoked from network); 20 Sep 2014 15:51:12 -0000
+X-Received: from unknown (HELO nm9-vm0.bullet.mail.bf1.yahoo.com) (98.139.245.164)
+  by mtaq4.grp.bf1.yahoo.com with SMTP; 20 Sep 2014 15:51:12 -0000
+X-Received: from [98.139.214.32] by nm9.bullet.mail.bf1.yahoo.com with NNFMP; 20 Sep 2014 15:51:12 -0000
+X-Received: from [98.139.212.250] by tm15.bullet.mail.bf1.yahoo.com with NNFMP; 20 Sep 2014 15:51:12 -0000
+X-Received: from [127.0.0.1] by omp1059.mail.bf1.yahoo.com with NNFMP; 20 Sep 2014 15:51:12 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 790278.77715.bm@...
+X-Received: (qmail 58442 invoked by uid 60001); 20 Sep 2014 15:51:12 -0000
+X-YMail-OSG: GVYm5nEVM1mwXu6HXGM9VArYczagc1vfg52u0Mm24rHq7.q
+ S42Kl4xXl.vWBL3hbvi5Poy2.qffIBWbf6fYiX0aoGHuG0gJW5sch6tZbRwv
+ SRBijJpM07EI7UCH5xFCecp12hDS1X5jiInqFOJvQupwzSZWGPKMHN0fFk1W
+ U.Pn7BHgkRJjvN82QMBc6yrJ7Xhz2THN0kdpu7c2QHXg.1z6JKQ5aWUWEJpq
+ WCHkxpZXOOxBYgsWd3ueu36VqhhMCiU_CCnRz4WOv3TA_Ah0S414uqQZiFdB
+ 9HFNszU3naGcZBBNXIKpAYzBbhG7aTj8voJrKn2cj1jUNReSFV82cEYF3CK2
+ b3zHqXL_I52WJubgVBY.RS4CaBC8aIpb7Z51r9.mewSLuwSxqTaDsJXGksez
+ WZPaVLRUf9amnmbiCOYnCQQpsl6tbjds.VTxDtQGIsZ0X.qHmq2kB3cbki5_
+ fqeBAC3CWoxxQxZKiNGPaYxkVDkJYW0Cd5HDIBJSzj_WVy.HMH9MXeMoCWTX
+ jTAsO_cbTNT6WgIsC2nr2iwJLWDAA_KBr8aHgKm0jF_gtllKhv5iXGkgjOTz
+ mTP5_.ZxrQ0BivhYb2N9ETw8nGIFtAg74oj52wKVhdXUm_AZSFrUuCBQ3VGP
+ ef2H3hH5tYiQW919hZGC_l5WFgeI2XCvzt7qMl.Yg2vW3zV0UT.e2W5W0eGS
+ i5riVYDXBgOw1oetWd00LDCt99Y1UNxbsYdqiK1IlccpvuqKVwYGN7in6XEv
+ 603xexWEjvDGZsaPTtp6OWVegxycmGpRbBQNNrpwhHHjVAkBq019jQznHha.
+ 6HrBw9XbsHiQmwig_SYSfYOxJ6MugxOH0cnwCxXXIj8QXFWjRFWvYr1pO9cg
+ neb4kXZZQKF2UiNheZ7wBp70Pb2WMIcoj_J6J.Pa__Vm_TwSypCmvl8c6a_q
+ vq1jPntcgM2nqunaa8dwsZNwEhu3p6ithRx7Fgp_BouyhFivjTf1l86coCTQ
+ dnioANffPR6kQaLf0ZqdT0K2YNPNCjbyGlTKS4W1TOloRfPimcmY48wv4n8O
+ j_HzjiE_qithVbCFj5JhqYnKKgRsiqOaudhrX1UFXR01QGPM5tTW5nQv1kE6
+ v.b7lSp67fUCdVazUZz.gfjs3sQ.dt1j5BT_G2SMutxMZCjXlZrjxMMO9oOW
+ y2aB8Wfeu4l_E45tlShvYmwtyG0v0pZoUPEP4b0jtbzSe4xdoRqNXN0DQ6zv
+ Is7ojWDcw_t0GjEWe8IFe2R3_cnslTf8sroj7Khc3fFsA_L3LjrsXqtlUbqG
+ VVqhM6FJCLfC_CBsqmrkMwb8FbQR10KUK5gkC2gI81q5Uyx9P.YwR0JU1IkW
+ Wi8nQGRolnLZ6KUW_PpfCwZPOv.FpGiO68L38JrYPMm08uwFzq83_csJPVsc
+ 70Yrzl9r73iUd5gIp1gJ.cOgctHGzmdy265DrT7EfXQ--
+X-Received: from [173.48.58.98] by web163101.mail.bf1.yahoo.com via HTTP; Sat, 20 Sep 2014 08:51:12 PDT
+X-Rocket-MIMEInfo: 002.001,TmFtYXN0ZSwKClRoYW5rIHlvdSBmb3IgY29ycmVjdGluZyBtZSBvbiB0aGUgZXhjaGFuZ2Ugb2YgZ2VuZXMgYmV0d2VlbiBYIGFuZCBZIGNocm9tb3NvbWVzLgoKSW4gdGhhdCBjYXNlLCB0aGVyZSBtYXkgYmUgc29tZSBlc290ZXJpYyByZWFzb24gYXMgeW91IHNheSBiZWxvdy4gT3IgcGVyaGFwcyBldmVuIGEgcGh5c2ljYWwgcmVhc29uIHRoYXQgd2UgZG9uJ3Qga25vdyBvZiB5ZXQsIGFzIHNvbWV0aGluZyBtYXkgc3RpbGwgYmUgbGFja2luZyBpbiBvdXIgdW5kZXJzdGFuZGluZyBvZiBnZW5lcywgcHJvdGUBMAEBAQE-
+X-Mailer: YahooMailWebService/0.8.203.696
+References: <1410805543.12530.YahooMailNeo@...> <1410807517.94078.YahooMailNeo@...> <1411010217.52587.YahooMailNeo@...>	<1411090925.16839.YahooMailNeo@...> <lvh2ov+1lfe7r0@...>
+Message-ID: <1411228272.59925.YahooMailNeo@...>
+Date: Sat, 20 Sep 2014 08:51:12 -0700
+To: "vedic-wisdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com>
+In-Reply-To: <lvh2ov+1lfe7r0@...>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="700781406-1481238422-1411228272=:59925"
+X-Originating-IP: 98.139.213.154
+Reply-To: "Narasimha P.V.R. Rao" <pvr108@...>
+Subject: Re: [vedic-wisdom] Re: Tarpana - Clarifications.
+X-Yahoo-Group-Post: member; u=77866142; y=FkWZxwh07-dSzak5NDhPX4PwhLtCOQJVnwyJv_Xpogyy
+X-Yahoo-Profile: pvr108
+From: "Narasimha P.V.R. Rao" <pvr108@...>
+
+
+--700781406-1481238422-1411228272=:59925
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Namaste,
+
+Thank you for correcting me on the exchange of genes between X an=
+d Y chromosomes.
+
+In that case, there may be some esoteric reason as you sa=
+y below. Or perhaps even a physical reason that we don't know of yet, as so=
+mething may still be lacking in our understanding of genes, proteins in the=
+m and other constituents.
+
+> There may be some esoteric reason for followin=
+g a paternal lineage but chromosomes simply cannot be used in that theory.
+=
+
+Best regards,
+
+Narasimha
+--------
+Astrology & Spirituality Resources: http=
+://www.VedicAstrologer.org
+--------
+
+
+
+>________________________________
+> =
+From: "sunrise_1080@... [vedic-wisdom]" <vedic-wisdom@yahoogroups.c=
+om>
+>To: vedic-wisdom@yahoogroups.com 
+>Sent: Friday, September 19, 2014 7:=
+07 AM
+>Subject: [vedic-wisdom] Re: Tarpana - Clarifications.
+> 
+>
+>
+>  
+>Na=
+maste Narasimha,
+>
+>Thanks for the write- up which made interesting reading=
+ as always. I would like to point out an error in understanding the X and Y=
+ chromosome.
+>
+>X and Y chromosomes are called sex chromosomes in biology. =
+A woman has XX and a man has XY. What you have suggested is that the Y chro=
+mosome sails through the generations pristinely intact carrying the male fa=
+ctor. This is incorrect.
+>
+>During DNA replication, the XX and XY chromosom=
+e freely exchange genes. So all X and Y chromosomes in both men and women a=
+re a mixture of their parent's X and Y chromosomes.
+>
+>To explain further, =
+every man's Y chromosome contains a mix of his father's X and Y chromosomes=
+. Every man's X chromosome contains a mixture of his mother's two X chromos=
+omes. 
+>
+>For a woman, one X chromosome is inherited from her mother and th=
+e other is from her father. The one from her father contains a mix of his Y=
+ and X chromosome genes- in other words, she inherits his Y chromosome gene=
+s as much as any brother that she might have.
+>
+>The SRY gene is responsibl=
+e for producing a male. This gene is on the Y chromosome and results in the=
+ formation of a male. But even this gene is changed in each generation and =
+incorporates some of the X chromosome genes with during DNA replication. 
+>=
+
+>So there is no such thing as an exclusively 'male' gene or chromosome tha=
+t is passed on from generation to generation.
+>
+>In fact, we have an exclus=
+ively female piece of DNA that is passed on from generation to generation. =
+This is called mitochondrial DNA. Mitochondria are small energy producing c=
+enters inside every one of our cells. These do not undergo mixing with male=
+ DNA during formation of the child. A man's mitochondrial DNA are not passe=
+d on at all to his children- only a blend of his X and Y chromosomes. Where=
+as a woman passes on a blend of her two X chromosomes, as well as her mitoc=
+hondrial DNA to her children.
+>
+>So I'm afraid the chromosomal theory canno=
+t be used to support a paternal lineage. In fact, it suggests exactly the r=
+everse - an exclusively maternal lineage through mitochondrial DNA.
+>
+>I do=
+ not think DNA necessarily can be used to predict lineage, and I like to fe=
+el like I belong equally to both my mother's and father's lineage. When I d=
+o tarpanam I do it lovingly for both maternal and paternal ancestors. In Ke=
+rala, where I come from, we have a matrilineal system where women are the h=
+ead of the family and the children take the mother's name. These days, with=
+ nuclear families, children tend to feel they belong equally to both parent=
+s. Unlike many other parts of India, women are not seen as belonging to the=
+ir husband's family on being married. They always remain connected to their=
+ mother's family. 
+>
+>There may be some esoteric reason for following a pat=
+ernal lineage but chromosomes simply cannot be used in that theory.
+>
+>Apar=
+na
+>
+>
+>
+--700781406-1481238422-1411228272=:59925
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"color:#000; background-color:#fff; font-family:He=
+lveticaNeue, Helvetica Neue, Helvetica, Arial, Lucida Grande, sans-serif;fo=
+nt-size:10pt"><div class=3D"" style=3D""><span class=3D"" style=3D"">Namast=
+e,</span></div><div style=3D"color: rgb(0, 0, 0); font-size: 13px; font-fam=
+ily: HelveticaNeue, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sa=
+ns-serif; font-style: normal; background-color: transparent;" class=3D""><s=
+pan class=3D"" style=3D""><br class=3D"" style=3D""></span></div><div style=
+=3D"color: rgb(0, 0, 0); font-size: 13px; font-family: HelveticaNeue, 'Helv=
+etica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; font-style: nor=
+mal; background-color: transparent;" class=3D""><span class=3D"" style=3D""=
+>Thank you for correcting me on the exchange of genes between X and Y chrom=
+osomes.</span></div><div style=3D"color: rgb(0, 0, 0); font-size: 13px; fon=
+t-family: HelveticaNeue, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande=
+', sans-serif;
+ font-style: normal; background-color: transparent;" class=
+=3D""><span class=3D"" style=3D""><br class=3D"" style=3D""></span></div><d=
+iv style=3D"color: rgb(0, 0, 0); font-size: 13px; font-family: HelveticaNeu=
+e, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; font-st=
+yle: normal; background-color: transparent;" class=3D""><span class=3D"" st=
+yle=3D"">In that case, there may be some esoteric reason as you say below. =
+Or perhaps even a physical reason that we don't know of yet, as something m=
+ay still be lacking in our understanding of genes, proteins in them and oth=
+er constituents.</span></div><div style=3D"color: rgb(0, 0, 0); font-size: =
+13px; font-family: HelveticaNeue, 'Helvetica Neue', Helvetica, Arial, 'Luci=
+da Grande', sans-serif; font-style: normal; background-color: transparent;"=
+ class=3D""><span class=3D"" style=3D""><br></span></div><div style=3D"colo=
+r: rgb(0, 0, 0); font-size: 13px; font-family: HelveticaNeue, 'Helvetica Ne=
+ue', Helvetica, Arial, 'Lucida
+ Grande', sans-serif; font-style: normal; ba=
+ckground-color: transparent;" class=3D""><span class=3D"" style=3D"">>&n=
+bsp;</span><span style=3D"font-family: Georgia; line-height: 15.85999965667=
+72px; font-size: 10pt;" class=3D"">There may be some esoteric reason for fo=
+llowing a paternal lineage but chromosomes simply cannot be used in that th=
+eory.</span></div><div style=3D"color: rgb(0, 0, 0); font-size: 10pt; font-=
+family: Georgia; font-style: normal; background-color: transparent;" class=
+=3D""><span style=3D"font-family: Georgia; line-height: 15.8599996566772px;=
+ font-size: 10pt;" class=3D""><br></span></div><div style=3D"color: rgb(0, =
+0, 0); font-size: 13px; font-family: Georgia; font-style: normal; backgroun=
+d-color: transparent;" class=3D""><span style=3D"font-family: arial, helvet=
+ica, clean, sans-serif; background-color: transparent;">Best regards,</span=
+><br></div><div style=3D"color:rgb(0, 0, 0);font-size:13px;font-family:aria=
+l, helvetica, clean,
+ sans-serif;background-color:transparent;font-style:no=
+rmal;" class=3D"">Narasimha<br class=3D"" style=3D"">--------<br class=3D""=
+ style=3D"">Astrology & Spirituality Resources: <a rel=3D"nofollow" tar=
+get=3D"_blank" href=3D"http://www.vedicastrologer.org/" class=3D"" style=3D=
+"">http://www.VedicAstrologer.org</a></div><div style=3D"color:rgb(0, 0, 0)=
+;font-size:13px;font-family:arial, helvetica, clean, sans-serif;background-=
+color:transparent;font-style:normal;" class=3D"">--------<br class=3D"" sty=
+le=3D""></div><div class=3D"" style=3D""><br class=3D"" style=3D""></div><b=
+lockquote style=3D"border-left: 2px solid rgb(16, 16, 255); margin-left: 5p=
+x; margin-top: 5px; padding-left: 5px;" class=3D"">  <div style=3D"font-fam=
+ily: HelveticaNeue, Helvetica Neue, Helvetica, Arial, Lucida Grande, sans-s=
+erif; font-size: 10pt;" class=3D""> <div style=3D"font-family: HelveticaNeu=
+e, Helvetica Neue, Helvetica, Arial, Lucida Grande, sans-serif; font-size: =
+12pt;" class=3D""> <div dir=3D"ltr" class=3D"" style=3D""> <hr
+ size=3D"1" =
+class=3D"" style=3D"">  <font size=3D"2" face=3D"Arial" class=3D"" style=3D=
+""> <b class=3D"" style=3D""><span style=3D"font-weight:bold;" class=3D"">F=
+rom:</span></b> "sunrise_1080@... [vedic-wisdom]" <vedic-wisdom@=
+yahoogroups.com><br class=3D"" style=3D""> <b class=3D"" style=3D""><spa=
+n style=3D"font-weight: bold;" class=3D"">To:</span></b> vedic-wisdom@yahoo=
+groups.com <br class=3D"" style=3D""> <b class=3D"" style=3D""><span style=
+=3D"font-weight: bold;" class=3D"">Sent:</span></b> Friday, September 19, 2=
+014 7:07 AM<br class=3D"" style=3D""> <b class=3D"" style=3D""><span style=
+=3D"font-weight: bold;" class=3D"">Subject:</span></b> [vedic-wisdom] Re: T=
+arpana - Clarifications.<br class=3D"" style=3D""> </font> </div> <div clas=
+s=3D"" style=3D""><br class=3D"" style=3D""><div id=3D"yiv3072042915" class=
+=3D"" style=3D""><div class=3D"" style=3D"">
+<span style=3D"display:none;" =
+class=3D""> </span>
+
+
+<div id=3D"yiv3072042915ygrp-mlmsg" style=3D"" c=
+lass=3D"">
+  <div id=3D"yiv3072042915ygrp-msg" style=3D"" class=3D"">
+
+
+   =
+ <div id=3D"yiv3072042915ygrp-text" class=3D"" style=3D"">
+      
+      
+  =
+    <div class=3D"" style=3D"">Namaste Narasimha,<br clear=3D"none" class=
+=3D"" style=3D""><br clear=3D"none" class=3D"" style=3D"">Thanks for the wr=
+ite- up which made interesting reading as always. I would like to point out=
+ an error in understanding the X and Y chromosome.<br clear=3D"none" class=
+=3D"" style=3D""><br clear=3D"none" class=3D"" style=3D"">X and Y chromosom=
+es are called sex chromosomes in biology. A woman has XX and a man has XY. =
+What you have suggested is that the Y chromosome sails through the generati=
+ons pristinely intact carrying the male factor. This is incorrect.<br clear=
+=3D"none" class=3D"" style=3D""><br clear=3D"none" class=3D"" style=3D"">Du=
+ring DNA replication, the XX and XY chromosome freely exchange genes. So al=
+l X and Y chromosomes in both men and women are a mixture of their parent's=
+ X and Y chromosomes.<br clear=3D"none" class=3D"" style=3D""><br clear=3D"=
+none" class=3D"" style=3D"">To explain further, every man's Y chromosome co=
+ntains a mix of his father's X and Y
+ chromosomes. Every man's X chromosome=
+ contains a mixture of his mother's two X chromosomes. <br clear=3D"none" c=
+lass=3D"" style=3D""><br clear=3D"none" class=3D"" style=3D"">For a woman, =
+one X chromosome is inherited from her mother and the other is from her fat=
+her. The one from her father contains a mix of his Y and X chromosome genes=
+- in other words, she inherits his Y chromosome genes as much as any brothe=
+r that she might have.<br clear=3D"none" class=3D"" style=3D""><br clear=3D=
+"none" class=3D"" style=3D"">The SRY gene is responsible for producing a ma=
+le. This gene is on the Y chromosome and results in the formation of a male=
+. But even this gene is changed in each generation and incorporates some of=
+ the X chromosome genes with during DNA replication. <br clear=3D"none" cla=
+ss=3D"" style=3D""><br clear=3D"none" class=3D"" style=3D"">So there is no =
+such thing as an exclusively 'male' gene or chromosome that is passed on fr=
+om generation to generation.<br clear=3D"none" class=3D"" style=3D""><br
+ c=
+lear=3D"none" class=3D"" style=3D"">In fact, we have an exclusively female =
+piece of DNA that is passed on from generation to generation. This is calle=
+d mitochondrial DNA. Mitochondria are small energy producing centers inside=
+ every one of our cells. These do not undergo mixing with male DNA during f=
+ormation of the child. A man's mitochondrial DNA are not passed on at all t=
+o his children- only a blend of his X and Y chromosomes. Whereas a woman pa=
+sses on a blend of her two X chromosomes, as well as her mitochondrial DNA =
+to her children.<br clear=3D"none" class=3D"" style=3D""><br clear=3D"none"=
+ class=3D"" style=3D"">So I'm afraid the chromosomal theory cannot be used =
+to support a paternal lineage. In fact, it suggests exactly the reverse - a=
+n exclusively maternal lineage through mitochondrial DNA.<br clear=3D"none"=
+ class=3D"" style=3D""><br clear=3D"none" class=3D"" style=3D"">I do not th=
+ink DNA necessarily can be used to predict lineage, and I like to feel like=
+ I belong equally to
+ both my mother's and father's lineage. When I do tarp=
+anam I do it lovingly for both maternal and paternal ancestors. In Kerala, =
+where I come from, we have a matrilineal system where women are the head of=
+ the family and the children take the mother's name. These days, with nucle=
+ar families, children tend to feel they belong equally to both parents. Unl=
+ike many other parts of India, women are not seen as belonging to their hus=
+band's family on being married. They always remain connected to their mothe=
+r's family. <br clear=3D"none" class=3D"" style=3D""><br clear=3D"none" cla=
+ss=3D"" style=3D"">There may be some esoteric reason for following a patern=
+al lineage but chromosomes simply cannot be used in that theory.<br clear=
+=3D"none" class=3D"" style=3D""><br clear=3D"none" class=3D"" style=3D"">Ap=
+arna</div>
+
+    </div>
+     
+
+    
+    <div style=3D"color:#fff;height:0;" =
+class=3D""></div></div>
+
+
+</div><style type=3D"text/css" class=3D"" style=
+=3D"">
+#yiv3072042915 #yiv3072042915 --
+  #yiv3072042915ygrp-mkp {
+border:1=
+px solid #d8d8d8;font-family:Arial;margin:10px 0;padding:0 10px;}
+
+#yiv3072=
+042915 #yiv3072042915ygrp-mkp hr {
+border:1px solid #d8d8d8;}
+
+#yiv30720429=
+15 #yiv3072042915ygrp-mkp #yiv3072042915hd {
+color:#628c2a;font-size:85%;fo=
+nt-weight:700;line-height:122%;margin:10px 0;}
+
+#yiv3072042915 #yiv30720429=
+15ygrp-mkp #yiv3072042915ads {
+margin-bottom:10px;}
+
+#yiv3072042915 #yiv307=
+2042915ygrp-mkp .yiv3072042915ad {
+padding:0 0;}
+
+#yiv3072042915 #yiv307204=
+2915ygrp-mkp .yiv3072042915ad p {
+margin:0;}
+
+#yiv3072042915 #yiv3072042915=
+ygrp-mkp .yiv3072042915ad a {
+color:#0000ff;text-decoration:none;}
+#yiv3072=
+042915 #yiv3072042915ygrp-sponsor #yiv3072042915ygrp-lc {
+font-family:Arial=
+;}
+
+#yiv3072042915 #yiv3072042915ygrp-sponsor #yiv3072042915ygrp-lc #yiv307=
+2042915hd {
+margin:10px 0px;font-weight:700;font-size:78%;line-height:122%;=
+}
+
+#yiv3072042915 #yiv3072042915ygrp-sponsor #yiv3072042915ygrp-lc .yiv3072=
+042915ad {
+margin-bottom:10px;padding:0 0;}
+
+#yiv3072042915 #yiv3072042915a=
+ctions {
+font-family:Verdana;font-size:11px;padding:10px 0;}
+
+#yiv307204291=
+5 #yiv3072042915activity {
+background-color:#e0ecee;float:left;font-family:=
+Verdana;font-size:10px;padding:10px;}
+
+#yiv3072042915 #yiv3072042915activit=
+y span {
+font-weight:700;}
+
+#yiv3072042915 #yiv3072042915activity span:firs=
+t-child {
+text-transform:uppercase;}
+
+#yiv3072042915 #yiv3072042915activity=
+ span a {
+color:#5085b6;text-decoration:none;}
+
+#yiv3072042915 #yiv30720429=
+15activity span span {
+color:#ff7900;}
+
+#yiv3072042915 #yiv3072042915activi=
+ty span .yiv3072042915underline {
+text-decoration:underline;}
+
+#yiv30720429=
+15 .yiv3072042915attach {
+clear:both;display:table;font-family:Arial;font-s=
+ize:12px;padding:10px 0;width:400px;}
+
+#yiv3072042915 .yiv3072042915attach =
+div a {
+text-decoration:none;}
+
+#yiv3072042915 .yiv3072042915attach img {
+b=
+order:none;padding-right:5px;}
+
+#yiv3072042915 .yiv3072042915attach label {=
+
+display:block;margin-bottom:5px;}
+
+#yiv3072042915 .yiv3072042915attach lab=
+el a {
+text-decoration:none;}
+
+#yiv3072042915 blockquote {
+margin:0 0 0 4px=
+;}
+
+#yiv3072042915 .yiv3072042915bold {
+font-family:Arial;font-size:13px;fo=
+nt-weight:700;}
+
+#yiv3072042915 .yiv3072042915bold a {
+text-decoration:none=
+;}
+
+#yiv3072042915 dd.yiv3072042915last p a {
+font-family:Verdana;font-weig=
+ht:700;}
+
+#yiv3072042915 dd.yiv3072042915last p span {
+margin-right:10px;fo=
+nt-family:Verdana;font-weight:700;}
+
+#yiv3072042915 dd.yiv3072042915last p =
+span.yiv3072042915yshortcuts {
+margin-right:0;}
+
+#yiv3072042915 div.yiv3072=
+042915attach-table div div a {
+text-decoration:none;}
+
+#yiv3072042915 div.y=
+iv3072042915attach-table {
+width:400px;}
+
+#yiv3072042915 div.yiv3072042915f=
+ile-title a, #yiv3072042915 div.yiv3072042915file-title a:active, #yiv30720=
+42915 div.yiv3072042915file-title a:hover, #yiv3072042915 div.yiv3072042915=
+file-title a:visited {
+text-decoration:none;}
+
+#yiv3072042915 div.yiv307204=
+2915photo-title a, #yiv3072042915 div.yiv3072042915photo-title a:active, #y=
+iv3072042915 div.yiv3072042915photo-title a:hover, #yiv3072042915 div.yiv30=
+72042915photo-title a:visited {
+text-decoration:none;}
+
+#yiv3072042915 div#=
+yiv3072042915ygrp-mlmsg #yiv3072042915ygrp-msg p a span.yiv3072042915yshort=
+cuts {
+font-family:Verdana;font-size:10px;font-weight:normal;}
+
+#yiv3072042=
+915 .yiv3072042915green {
+color:#628c2a;}
+
+#yiv3072042915 .yiv3072042915Mso=
+Normal {
+margin:0 0 0 0;}
+
+#yiv3072042915 o {
+font-size:0;}
+
+#yiv3072042915=
+ #yiv3072042915photos div {
+float:left;width:72px;}
+
+#yiv3072042915 #yiv307=
+2042915photos div div {
+border:1px solid #666666;height:62px;overflow:hidde=
+n;width:62px;}
+
+#yiv3072042915 #yiv3072042915photos div label {
+color:#6666=
+66;font-size:10px;overflow:hidden;text-align:center;white-space:nowrap;widt=
+h:64px;}
+
+#yiv3072042915 #yiv3072042915reco-category {
+font-size:77%;}
+
+#yi=
+v3072042915 #yiv3072042915reco-desc {
+font-size:77%;}
+
+#yiv3072042915 .yiv3=
+072042915replbq {
+margin:4px;}
+
+#yiv3072042915 #yiv3072042915ygrp-actbar di=
+v a:first-child {
+margin-right:2px;padding-right:5px;}
+
+#yiv3072042915 #yiv=
+3072042915ygrp-mlmsg {
+font-size:13px;font-family:Arial, helvetica, clean, =
+sans-serif;}
+
+#yiv3072042915 #yiv3072042915ygrp-mlmsg table {
+font-size:inh=
+erit;font:100%;}
+
+#yiv3072042915 #yiv3072042915ygrp-mlmsg select, #yiv30720=
+42915 input, #yiv3072042915 textarea {
+font:99% Arial, Helvetica, clean, sa=
+ns-serif;}
+
+#yiv3072042915 #yiv3072042915ygrp-mlmsg pre, #yiv3072042915 cod=
+e {
+font:115% monospace;}
+
+#yiv3072042915 #yiv3072042915ygrp-mlmsg * {
+line=
+-height:1.22em;}
+
+#yiv3072042915 #yiv3072042915ygrp-mlmsg #yiv3072042915log=
+o {
+padding-bottom:10px;}
+
+
+#yiv3072042915 #yiv3072042915ygrp-msg p a {
+fon=
+t-family:Verdana;}
+
+#yiv3072042915 #yiv3072042915ygrp-msg p#yiv3072042915at=
+tach-count span {
+color:#1E66AE;font-weight:700;}
+
+#yiv3072042915 #yiv30720=
+42915ygrp-reco #yiv3072042915reco-head {
+color:#ff7900;font-weight:700;}
+
+#=
+yiv3072042915 #yiv3072042915ygrp-reco {
+margin-bottom:20px;padding:0px;}
+
+#=
+yiv3072042915 #yiv3072042915ygrp-sponsor #yiv3072042915ov li a {
+font-size:=
+130%;text-decoration:none;}
+
+#yiv3072042915 #yiv3072042915ygrp-sponsor #yiv=
+3072042915ov li {
+font-size:77%;list-style-type:square;padding:6px 0;}
+
+#yi=
+v3072042915 #yiv3072042915ygrp-sponsor #yiv3072042915ov ul {
+margin:0;paddi=
+ng:0 0 0 8px;}
+
+#yiv3072042915 #yiv3072042915ygrp-text {
+font-family:Georgi=
+a;}
+
+#yiv3072042915 #yiv3072042915ygrp-text p {
+margin:0 0 1em 0;}
+
+#yiv307=
+2042915 #yiv3072042915ygrp-text tt {
+font-size:120%;}
+
+#yiv3072042915 #yiv3=
+072042915ygrp-vital ul li:last-child {
+border-right:none !important;
+}
+#yiv=
+3072042915 
+</style></div><br class=3D"" style=3D""><br class=3D"" style=3D=
+""></div> </div> </div> </blockquote><div></div>   </div></body></html>
+--700781406-1481238422-1411228272=:59925--
+
+

@@ -1,0 +1,661 @@
+From gotovicky2000@...  Wed Feb 17 11:07:38 2016
+Return-Path: <gotovicky2000@...>
+X-Sender: gotovicky2000@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 37650 invoked by uid 102); 16 Mar 2014 15:59:49 -0000
+X-Received: from unknown (HELO mtaq5.grp.bf1.yahoo.com) (10.193.84.36)
+  by m7.grp.bf1.yahoo.com with SMTP; 16 Mar 2014 15:59:49 -0000
+X-Received: (qmail 4563 invoked from network); 16 Mar 2014 15:59:48 -0000
+X-Received: from unknown (HELO nm20-vm10.bullet.mail.sg3.yahoo.com) (106.10.149.137)
+  by mtaq5.grp.bf1.yahoo.com with SMTP; 16 Mar 2014 15:59:48 -0000
+X-Received: from [106.10.166.60] by nm20.bullet.mail.sg3.yahoo.com with NNFMP; 16 Mar 2014 15:59:46 -0000
+X-Received: from [106.10.151.218] by tm17.bullet.mail.sg3.yahoo.com with NNFMP; 16 Mar 2014 15:59:46 -0000
+X-Received: from [127.0.0.1] by omp1016.mail.sg3.yahoo.com with NNFMP; 16 Mar 2014 15:59:46 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 668944.79211.bm@...
+X-Received: (qmail 13306 invoked by uid 60001); 16 Mar 2014 15:59:46 -0000
+X-YMail-OSG: BjKl0aMVM1kKjO_mTPfjw9MkMFuxK5dGU3vp5ZPvvz9Czm1
+ G33rsB7ZXC7lUUh6gtr0ezWkhbyl6qyhcyghi3IVuztXA6dGn6.Mt5Hn1pkb
+ yy9d_uTVU.KmaujX9XTUmo1NHH17aEcLCUwHEp27.RzAjMjPtHHytY9pW5wh
+ E9czkdkQZo18XV_4zCvz578NxBjlQChJrmkhuutLqJMXkPmXFdzGxCS6wkos
+ lmL_B3IMD3vXeU8nGUf1IbdGo7dNS9Zs7MU7OMYTJ7ppeLKVw_A7SIqhcaV6
+ 4Q8.JOMeBP8EiolxWZ77sk_RzlhZex8tag_apbf6KiE0lxybuJedGp2_GRbM
+ mPvmHbQGVHZs6Lx2xwyxFQE.gDQyJotjuwoFadkGxC0qsOPxYxEfi2TusYfE
+ 1F00sIfcFRdmHHAqT7D1OsClqSGcfgYHliz11qGCutOY66oRjSDAmvUUoaDM
+ wjk6Z5J6jLZZVEf7A13MUETBelVUaejKgQcVP64TfWyqgliI24rL0n3hLN2g
+ 7hmDH_TwSMFDpUW0MOzX75dqRNS6aK.gPpQ9o_3U8lvvzy5C2iuZxv99ZNqn
+ OlBCtcHe1RwlI3KaQqWcFGTf56jOg0GNx1gp1YJWYXCyuIQNUgPCgGhEX4XY
+ zcD_sZZqqX9SLlslww1kToptaMlbwBUNVs9weF0Oiu2WunYtAc6R1MnN6NxV
+ ffguoqRqyfweVqsCvIdxGuRl7nrDgKdfg1G_qujXECdFDR9QhhXl_DBtGXAh
+ iS17icrZb0zTSWjDUCaZYU8W4uoEZnI65PwD9T4GHQrnNl9nsTqLYBIexySv
+ yQYWiLPtdJCRNBiGqlU37BHBbpMO_JxzkWgHK.ifDGZwG9pFaeqVnOLFvcpS
+ svvXqFUA5zhy7NqAqw9d6GeqicfT9kSwyg.72SHwmw2q0w9QN5Yb6kzf1fkc
+ fD.2mhn46pT2gCrCIP5vMePGRCqjEaVFA_up.VrbSkzyxnBlWm0BCAQL9OrG
+ _1DRX9k8CbOGbkV3irLKv3pHCaVVYtEiG7eyrEHPChgztb9nWfobIgcL_He2
+ cIJW6ngkbEbCe7jWEeOYoQO4yngbuxqvSi4iguV13Vypc5oIUBf8gyuqsaXE
+ ogGeSSiTfy6iNwwAaoAYygSafKCaZGmsJQBnBszKxoj7ltYcI6ULgIMtXe72
+ OGXZTJHi6N.vmie3zJFp11VbJRo0Zzhxeeh9pB2McywJfRCW41F6VYO5BBic
+ RxYWmk9Aw1a3z_CDL23K8EJV2U45z3CSkjwAACHhq0RHlv5MLH.GrwPIBWw0
+ NOdzereeHgQB0CpAIGEZcO65aLzupQ.vNSgZUdJySUEOvwxasnQNQ_DlkOkv
+ 5ROevq4.pHcX.pNpKpBBj7tlgAlELaXVWGySx5LmjFkWaOwkRbodpQs.s62V
+ pittFaaowIKEwxkQxf_iHPsvx_.YXg1KuBs5eiiMdIeIb72MQt7mHWxTmLIX
+ YDrkwKgcEn_M4v2g11k6cLKYNwAjlD8JvnCHwGfkj.Y6HwE8SFEEepSvrl8P
+ LtsbIa6oz2oy5vBc8mzMDBPgt9epLG.c73WTxcFrWocF.fgGUG73iD2ovc5M
+ aEAAS6siSRsXXb7WdbgMxygQt5oZR6wtjciQARcYX3ZqNuNnHhTWKlGK2z8i
+ yqfQci2urGhr.ic.Pctrdsy7Zhb5EGaX8NYvCCFFZ79MchVdjIgn6yVTEaQU
+ QS2qdtMI7zIy2q.ioBtQsmlLrXV8YgCXE.0G5Dmk4w458n_j3cVlXGhwLH2U
+ 7GapWFiEB.ogUlfML2UGJ8WVTDwRcJfhlWCeoJfH012XF.98xWopdJ8BM7vG
+ 0wvQ2cUVbIUmMWD.fif0r2We.FYCDW9yXIyMk8Adp_I5510HB_ceAPInCS24
+ vjFi_B0VljaDdRwq8Zj1bWpxBR_8pzxLigFyfz1ylDWXRqfuV0KpWUGJm59o
+ lnoCYlWPv1JDy3CBJs9iRt8B.4vf8SzFRBgshdzKBu7myBNbxvSEx8_VL759
+ pHb2kkUFdm44sC_ebfd3InouAgjL0.k0F6JA7W6BMRLIBSRSAvglkz7E1uat
+ MNdrbtLlQsAJhvMNtOYEgTe8F18qXv9Uf4jbIBV7K00RresjARs8U3J3sEvv
+ x73sE0kq1oJ0wmJAyVrEaJR2EeiDzpwqmxKv9nx_T.SIyB8.rgI1QzMvucjx
+ zZQyNcELCSf_tiy_UK1Ni3lQ-
+X-Received: from [59.91.127.82] by web190404.mail.sg3.yahoo.com via HTTP; Sun, 16 Mar 2014 23:59:46 SGT
+X-Rocket-MIMEInfo: 002.001,WWFhcyBrZWVwIGFza2luZ.KApi5TRUVLSU5HIGlzIHRoZSBvbmx5IGtleS4gR28gcG9pbnQgQSB0byBCCmFuZCBleHBsb3JlIG90aGVyIGRpcmVjdGlvbnMgdG9vLCBnZXQgY29uZnVzZSBhbmQgc3RhcnQgZmFjaW5nIGNvbnRyYWRpY3Rpb25zLgpSZW1lbWJlciwgeW91ciBxdWVzdCBpcyBhYm91dCDigJxldGVybmFs4oCdIMKgeW91IGZvY3VzIG9uIHRvIGhpbeKApmV2ZW50dWFsbHkgaGUgd2lsbCBzdGFydApmb2N1c2luZyBvbiB5b3XigKYuLm1heSBiIGl0IHdpbGwgdGFrZSBjb3VwbGUgb2YgYmlydGhzIDoBMAEBAQE-
+X-Mailer: YahooMailWebService/0.8.178.641
+References: <lg1ffq+rjdt7e@...>	<CAMHyiifWmSW7rm4TD7xEc1jqFsjPsOU8EzftgbM0dW=mQS=V_w@...>	<1394900227.95009.YahooMailNeo@...>	<lg3qbi+ehm6km@...>	<53257320.426b440a.078a.ffffc3f3@...>	<lg49ke+bua5m0@...>	<CAL0=tHa0zSfCPDNodROYPGmMwWV3C7y_6P46z5UZUzwwjDqSAQ@...> <CAL0=tHbJNFHAMffrV57fcUYkOCRWj4FFg4wm_eLDoUCSsjGFrw@...>
+Message-ID: <1394985586.90911.YahooMailNeo@...>
+Date: Sun, 16 Mar 2014 23:59:46 +0800 (SGT)
+To: "vedic-wisdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com>
+In-Reply-To: <CAL0=tHbJNFHAMffrV57fcUYkOCRWj4FFg4wm_eLDoUCSsjGFrw@...>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="543109132-1674337104-1394985586=:90911"
+X-Originating-IP: 10.193.84.36
+X-eGroups-Msg-Info: 1:12:0:0:0
+From: Vicky dubey <gotovicky2000@...>
+Reply-To: Vicky dubey <gotovicky2000@...>
+Subject: Re: [vedic-wisdom] Re: Does everything happens by will of God ?
+X-Yahoo-Group-Post: member; u=254805856; y=y-a1Demw8nx7LcH4SgCArU7pcYerc7d_brtkmoH-C_KITWzQtVMHcw
+X-Yahoo-Profile: gotovicky2000
+
+
+--543109132-1674337104-1394985586=:90911
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Yaas keep asking=E2=80=A6.SEEKING is the only key. Go point A to B
+and expl=
+ore other directions too, get confuse and start facing contradictions.
+Reme=
+mber, your quest is about =E2=80=9Ceternal=E2=80=9D =C2=A0you focus on to h=
+im=E2=80=A6eventually he will start
+focusing on you=E2=80=A6..may b it will=
+ take couple of births :).
+=C2=A0
+
+
+
+On Sunday, 16 March 2014 7:44 PM, s s =
+<vernman1976@...> wrote:
+ 
+=C2=A0 
+and remember that no ones answer w=
+ill ever suffice!!!you gotta keep asking..trying,searching,till you so call=
+ed get it..even then who is to know?...and what is there to get?...who or w=
+hat gets enlightened?...epistemology!....how do you know what you know?????=
+?????..........i kinda like ramana`s who or what is it that actually knows?=
+??...these things transcend the mind which is based on duality...and that s=
+tate which you are in is the persona created by the mind....its all a web o=
+f ideas fabricated by the mind....thoughts are ideas encapsulated in sound.=
+...and ideas form the very fabric of this reality....pleasure and pain is t=
+he motivating factor in our psyche...so do the maths...as silly as it may s=
+ound...doing nothing is the answer!!but its not a nothing achieved by doing=
+ it!...god bless!...i,m as lost as you are!..hope i helped.
+
+
+
+On Sun, Mar =
+16, 2014 at 9:54 PM, s s <vernman1976@...> wrote:
+
+plse keep question=
+ing.....it pays in the end....dont take anyones answer...just keep asking..=
+...in time to come...it will all fall in place....nature gave u a mind..and=
+ when it is used to understand reality....it will help u along....your ques=
+t for truth and understanding is not in vain.....knock and it might be open=
+ed!...good luck and god bless!!!!!!!
+>
+>
+>
+>On Sun, Mar 16, 2014 at 9:40 PM=
+, <veeralgandhi2011@...> wrote:
+>
+> 
+>>=C2=A0 
+>>Namaste Kannan ji,
+>=
+>
+>>
+>>I respect your right to have an opinion which is not in consonance w=
+ith my opinion.=C2=A0
+>>
+>>
+>>I am not against asking of questions. In fact=
+, I am against asking too many questions which is in the nature of being a =
+rebel without a cause.=C2=A0
+>>
+>>
+>>In the Upanishads, the eternal truth i=
+s explained by way of question-answer form of dialogue between Guru-Shishya=
+, Husband-Wife etc. =C2=A0Thus, asking of questions to know the truth has a=
+lways been considered a correct way in the path of realizing the nature of =
+truth. However, as per the Vedic tradition, it is blasphemous to challenge =
+the words of bonafide Guru or Vedas. Such a Shishya is not worth keeping.=
+=C2=A0
+>>
+>>
+>>After accepting a Guru as 'bonafide', a disciple is supposed=
+ to surrender His mind, intellect etc. under the lotus feets of his Guru. H=
+e may test a person before becoming his disciple. But, what is the point in=
+ defying Guru even after testing him ? Such a person has a demoniac intelle=
+ct ('asuri'). Also, see what kind of words Phil has used against God - 'ecc=
+entric'. Does Vedic culture support such a behaviour ? This is the behaviou=
+r of a 'mlechcha'.=C2=A0
+>>
+>>
+>>I would rather advise a person to find a g=
+enuine Guru, who possess 30 qualities as mentioned in the 11th canto of Shr=
+imad Bhagwatam and surrender completely to him. I am not advocating a view =
+of surrendering to any Sadhu Baba or a so called 'Acharya'. Just reading of=
+ Vedas does not make one a true Acharya. He should also be God-realized.=C2=
+=A0
+>>
+>>
+>>I thus desire to end this discussion as there is no point in el=
+ongating it.=C2=A0
+>>
+>>
+>>Best Regards,
+>>Veeral Gandhi
+>>
+>>
+>>
+>>
+>>
+>>
+=
+>>
+>>
+>
+
+
+--543109132-1674337104-1394985586=:90911
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"color:#000; background-color:#fff; font-family:ti=
+mes new roman, new york, times, serif;font-size:12pt"><div class=3D"MsoNorm=
+al">Yaas keep asking=E2=80=A6.SEEKING is the only key. Go point A to B
+and =
+explore other directions too, get confuse and start facing contradictions.
+=
+Remember, your quest is about =E2=80=9Ceternal=E2=80=9D  you focus on =
+to him=E2=80=A6eventually he will start
+focusing on you=E2=80=A6..may b it =
+will take couple of births :).</div><div><span>
+
+</span></div><div class=3D=
+"MsoNormal"><o:p> </o:p></div><div class=3D"yahoo_quoted" style=3D"dis=
+play: block;"> <br> <br> <div style=3D"font-family: 'times new roman', 'new=
+ york', times, serif; font-size: 12pt;"> <div style=3D"font-family: 'times =
+new roman', 'new york', times, serif; font-size: 12pt;"> <div dir=3D"ltr"> =
+<font size=3D"2" face=3D"Arial"> On Sunday, 16 March 2014 7:44 PM, s s <=
+vernman1976@...> wrote:<br> </font> </div>  <div class=3D"y_msg_co=
+ntainer"><div id=3D"yiv0308923859"><div>
+<span style=3D"display:none;">&nbs=
+p;</span>
+
+
+<div id=3D"yiv0308923859ygrp-mlmsg" style=3D"">
+  <div id=3D"yi=
+v0308923859ygrp-msg" style=3D"">
+
+
+    <div id=3D"yiv0308923859ygrp-text">
+=
+      
+      
+      <div dir=3D"ltr">and remember that no ones answer will =
+ever suffice!!!you gotta keep asking..trying,searching,till you so called g=
+et it..even then who is to know?...and what is there to get?...who or what =
+gets enlightened?...epistemology!....how do you know what you know?????????=
+?..........i kinda like ramana`s who or what is it that actually knows???..=
+.these things transcend the mind which is based on duality...and that state=
+ which you are in is the persona created by the mind....its all a web of id=
+eas fabricated by the mind....thoughts are ideas encapsulated in sound....a=
+nd ideas form the very fabric of this reality....pleasure and pain is the m=
+otivating factor in our psyche...so do the maths...as silly as it may sound=
+...doing nothing is the answer!!but its not a nothing achieved by doing it!=
+...god bless!...i,m as lost as you are!..hope i helped.</div>
+<div class=3D=
+"yiv0308923859yqt9124505012" id=3D"yiv0308923859yqt37631"><div class=3D"yiv=
+0308923859gmail_extra"><br clear=3D"none"><br clear=3D"none"><div class=3D"=
+yiv0308923859gmail_quote">On Sun, Mar 16, 2014 at 9:54 PM, s s <span dir=3D=
+"ltr"><<a rel=3D"nofollow" shape=3D"rect" ymailto=3D"mailto:vernman1976@=
+gmail.com" target=3D"_blank" href=3D"mailto:vernman1976@...">vernman1=
+976@...</a>></span> wrote:<br clear=3D"none"><blockquote class=3D"=
+yiv0308923859gmail_quote" style=3D"border-left:1px #ccc solid;">
+<div dir=
+=3D"ltr">plse keep questioning.....it pays in the end....dont take anyones =
+answer...just keep asking.....in time to come...it will all fall in place..=
+..nature gave u a mind..and when it is used to understand reality....it wil=
+l help u along....your quest for truth and understanding is not in vain....=
+.knock and it might be opened!...good luck and god bless!!!!!!!</div>
+<div =
+class=3D"yiv0308923859HOEnZb"><div class=3D"yiv0308923859h5">
+<div class=3D=
+"yiv0308923859gmail_extra"><br clear=3D"none"><br clear=3D"none"><div class=
+=3D"yiv0308923859gmail_quote">On Sun, Mar 16, 2014 at 9:40 PM,  <span dir=
+=3D"ltr"><<a rel=3D"nofollow" shape=3D"rect" ymailto=3D"mailto:veeralgan=
+dhi2011@..." target=3D"_blank" href=3D"mailto:veeralgandhi2011@gmail.=
+com">veeralgandhi2011@...</a>></span> wrote:<br clear=3D"none">
+
+<=
+blockquote class=3D"yiv0308923859gmail_quote" style=3D"border-left:1px #ccc=
+ solid;">
+
+
+<u></u>
+
+
+
+
+
+
+
+
+
+ 
+<div>
+<span> </span>
+
+
+<div>
+  <div>
+
+
+=
+    <div>
+      
+      
+      <div><span style=3D"font-family: garamond, 'n=
+ew york', times, serif; font-size: 18px; color: rgb(191, 95, 0); font-weigh=
+t: bold;">Namaste Kannan ji,</span></div><div><span style=3D"color: rgb(191=
+, 95, 0); font-family: garamond, 'new york', times, serif; font-size: 18px;=
+ font-weight: bold;"><br clear=3D"none">
+
+</span></div><div><span style=3D"=
+color: rgb(191, 95, 0); font-family: garamond, 'new york', times, serif; fo=
+nt-size: 18px; font-weight: bold;">I respect your right to have an opinion =
+which is not in consonance with my opinion. </span></div>
+
+<div><span =
+style=3D"color: rgb(191, 95, 0); font-family: garamond, 'new york', times, =
+serif; font-size: 18px; font-weight: bold;"><br clear=3D"none"></span></div=
+><div><span style=3D"color: rgb(191, 95, 0); font-family: garamond, 'new yo=
+rk', times, serif; font-size: 18px; font-weight: bold;">I am not against as=
+king of questions. In fact, I am against asking too many questions which is=
+ in the nature of being a rebel without a cause. </span></div>
+
+<div><=
+span style=3D"color: rgb(191, 95, 0); font-family: garamond, 'new york', ti=
+mes, serif; font-size: 18px; font-weight: bold;"><br clear=3D"none"></span>=
+</div><div><span style=3D"color: rgb(191, 95, 0); font-family: garamond, 'n=
+ew york', times, serif; font-size: 18px; font-weight: bold;">In the Upanish=
+ads, the eternal truth is explained by way of question-answer form of dialo=
+gue between Guru-Shishya, Husband-Wife etc.  Thus, asking of questions=
+ to know the truth has always been considered a correct way in the path of =
+realizing the nature of truth. However, as per the Vedic tradition, it is b=
+lasphemous to challenge the words of bonafide Guru or Vedas. Such a Shishya=
+ is not worth keeping. </span></div>
+
+<div><span style=3D"color: rgb(1=
+91, 95, 0); font-family: garamond, 'new york', times, serif; font-size: 18p=
+x; font-weight: bold;"><br clear=3D"none"></span></div><div><span style=3D"=
+color: rgb(191, 95, 0); font-family: garamond, 'new york', times, serif; fo=
+nt-size: 18px; font-weight: bold;">After accepting a Guru as 'bonafide', a =
+disciple is supposed to surrender His mind, intellect etc. under the lotus =
+feets of his Guru. He may test a person before becoming his disciple. But, =
+what is the point in defying Guru even after testing him ? Such a person ha=
+s a demoniac intellect ('asuri'). Also, see what kind of words Phil has use=
+d against God - 'eccentric'. Does Vedic culture support such a behaviour ? =
+This is the behaviour of a 'mlechcha'. </span></div>
+
+<div><span style=
+=3D"color: rgb(191, 95, 0); font-family: garamond, 'new york', times, serif=
+; font-size: 18px; font-weight: bold;"><br clear=3D"none"></span></div><div=
+><span style=3D"color: rgb(191, 95, 0); font-family: garamond, 'new york', =
+times, serif; font-size: 18px; font-weight: bold;">I would rather advise a =
+person to find a genuine Guru, who possess 30 qualities as mentioned in the=
+ 11th canto of Shrimad Bhagwatam and surrender completely to him. I am not =
+advocating a view of surrendering to any Sadhu Baba or a so called 'Acharya=
+'. Just reading of Vedas does not make one a true Acharya. He should also b=
+e God-realized. </span></div>
+
+<div><span style=3D"color: rgb(191, 95,=
+ 0); font-family: garamond, 'new york', times, serif; font-size: 18px; font=
+-weight: bold;"><br clear=3D"none"></span></div><div><span style=3D"color: =
+rgb(191, 95, 0); font-family: garamond, 'new york', times, serif; font-size=
+: 18px; font-weight: bold;">I thus desire to end this discussion as there i=
+s no point in elongating it. </span></div>
+
+<div><span style=3D"color:=
+ rgb(191, 95, 0); font-family: garamond, 'new york', times, serif; font-siz=
+e: 18px; font-weight: bold;"><br clear=3D"none"></span></div><div><span sty=
+le=3D"color: rgb(191, 95, 0); font-family: garamond, 'new york', times, ser=
+if; font-size: 18px; font-weight: bold;">Best Regards,</span></div>
+
+<div><=
+span style=3D"color: rgb(191, 95, 0); font-family: garamond, 'new york', ti=
+mes, serif; font-size: 18px; font-weight: bold;">Veeral Gandhi</span></div>=
+<div><span style=3D"color: rgb(191, 95, 0); font-family: garamond, 'new yor=
+k', times, serif; font-size: 18px; font-weight: bold;"><br clear=3D"none">
+=
+
+</span></div><div><span style=3D"color: rgb(191, 95, 0); font-family: gara=
+mond, 'new york', times, serif; font-size: 18px; font-weight: bold;"><br cl=
+ear=3D"none"></span></div><div><div><span style=3D"font-family: garamond, '=
+new york', times, serif; font-size: 18px; color: rgb(191, 95, 0); font-weig=
+ht: bold;"><br clear=3D"none">
+
+</span></div><div><br clear=3D"none"></div>=
+</div>
+
+    </div>
+     
+
+    
+    <div style=3D"color:#fff;"></div>
+
+
+</di=
+v>
+
+
+
+  
+
+
+
+
+
+
+</div></div></blockquote></div><br clear=3D"none"></div>
+</d=
+iv></div></blockquote></div><br clear=3D"none"></div></div>
+
+
+    </div>
+  =
+   
+
+    
+    <div class=3D"yiv0308923859yqt9124505012" id=3D"yiv0308923859=
+yqt04710"><div style=3D"color:#fff;height:0;"></div></div>
+
+
+</div><div cla=
+ss=3D"yiv0308923859yqt9124505012" id=3D"yiv0308923859yqt63590"><style type=
+=3D"text/css">
+#yiv0308923859 #yiv0308923859 --
+  #yiv0308923859ygrp-mkp {
+=
+border:1px solid #d8d8d8;font-family:Arial;margin:10px 0;padding:0 10px;}
+
+=
+#yiv0308923859 #yiv0308923859ygrp-mkp hr {
+border:1px solid #d8d8d8;}
+
+#yiv=
+0308923859 #yiv0308923859ygrp-mkp #yiv0308923859hd {
+color:#628c2a;font-siz=
+e:85%;font-weight:700;line-height:122%;margin:10px 0;}
+
+#yiv0308923859 #yiv=
+0308923859ygrp-mkp #yiv0308923859ads {
+margin-bottom:10px;}
+
+#yiv0308923859=
+ #yiv0308923859ygrp-mkp .yiv0308923859ad {
+padding:0 0;}
+
+#yiv0308923859 #y=
+iv0308923859ygrp-mkp .yiv0308923859ad p {
+margin:0;}
+
+#yiv0308923859 #yiv03=
+08923859ygrp-mkp .yiv0308923859ad a {
+color:#0000ff;text-decoration:none;}
+=
+#yiv0308923859 #yiv0308923859ygrp-sponsor #yiv0308923859ygrp-lc {
+font-fami=
+ly:Arial;}
+
+#yiv0308923859 #yiv0308923859ygrp-sponsor #yiv0308923859ygrp-lc=
+ #yiv0308923859hd {
+margin:10px 0px;font-weight:700;font-size:78%;line-heig=
+ht:122%;}
+
+#yiv0308923859 #yiv0308923859ygrp-sponsor #yiv0308923859ygrp-lc =
+.yiv0308923859ad {
+margin-bottom:10px;padding:0 0;}
+
+#yiv0308923859 #yiv030=
+8923859actions {
+font-family:Verdana;font-size:11px;padding:10px 0;}
+
+#yiv0=
+308923859 #yiv0308923859activity {
+background-color:#e0ecee;float:left;font=
+-family:Verdana;font-size:10px;padding:10px;}
+
+#yiv0308923859 #yiv030892385=
+9activity span {
+font-weight:700;}
+
+#yiv0308923859 #yiv0308923859activity s=
+pan:first-child {
+text-transform:uppercase;}
+
+#yiv0308923859 #yiv0308923859=
+activity span a {
+color:#5085b6;text-decoration:none;}
+
+#yiv0308923859 #yiv=
+0308923859activity span span {
+color:#ff7900;}
+
+#yiv0308923859 #yiv03089238=
+59activity span .yiv0308923859underline {
+text-decoration:underline;}
+
+#yiv=
+0308923859 .yiv0308923859attach {
+clear:both;display:table;font-family:Aria=
+l;font-size:12px;padding:10px 0;width:400px;}
+
+#yiv0308923859 .yiv030892385=
+9attach div a {
+text-decoration:none;}
+
+#yiv0308923859 .yiv0308923859attach=
+ img {
+border:none;padding-right:5px;}
+
+#yiv0308923859 .yiv0308923859attach=
+ label {
+display:block;margin-bottom:5px;}
+
+#yiv0308923859 .yiv0308923859at=
+tach label a {
+text-decoration:none;}
+
+#yiv0308923859 blockquote {
+margin:0=
+ 0 0 4px;}
+
+#yiv0308923859 .yiv0308923859bold {
+font-family:Arial;font-size=
+:13px;font-weight:700;}
+
+#yiv0308923859 .yiv0308923859bold a {
+text-decorat=
+ion:none;}
+
+#yiv0308923859 dd.yiv0308923859last p a {
+font-family:Verdana;f=
+ont-weight:700;}
+
+#yiv0308923859 dd.yiv0308923859last p span {
+margin-right=
+:10px;font-family:Verdana;font-weight:700;}
+
+#yiv0308923859 dd.yiv030892385=
+9last p span.yiv0308923859yshortcuts {
+margin-right:0;}
+
+#yiv0308923859 div=
+.yiv0308923859attach-table div div a {
+text-decoration:none;}
+
+#yiv03089238=
+59 div.yiv0308923859attach-table {
+width:400px;}
+
+#yiv0308923859 div.yiv030=
+8923859file-title a, #yiv0308923859 div.yiv0308923859file-title a:active, #=
+yiv0308923859 div.yiv0308923859file-title a:hover, #yiv0308923859 div.yiv03=
+08923859file-title a:visited {
+text-decoration:none;}
+
+#yiv0308923859 div.y=
+iv0308923859photo-title a, #yiv0308923859 div.yiv0308923859photo-title a:ac=
+tive, #yiv0308923859 div.yiv0308923859photo-title a:hover, #yiv0308923859 d=
+iv.yiv0308923859photo-title a:visited {
+text-decoration:none;}
+
+#yiv0308923=
+859 div#yiv0308923859ygrp-mlmsg #yiv0308923859ygrp-msg p a span.yiv03089238=
+59yshortcuts {
+font-family:Verdana;font-size:10px;font-weight:normal;}
+
+#yi=
+v0308923859 .yiv0308923859green {
+color:#628c2a;}
+
+#yiv0308923859 .yiv03089=
+23859MsoNormal {
+margin:0 0 0 0;}
+
+#yiv0308923859 o {
+font-size:0;}
+
+#yiv03=
+08923859 #yiv0308923859photos div {
+float:left;width:72px;}
+
+#yiv0308923859=
+ #yiv0308923859photos div div {
+border:1px solid #666666;height:62px;overfl=
+ow:hidden;width:62px;}
+
+#yiv0308923859 #yiv0308923859photos div label {
+col=
+or:#666666;font-size:10px;overflow:hidden;text-align:center;white-space:now=
+rap;width:64px;}
+
+#yiv0308923859 #yiv0308923859reco-category {
+font-size:77=
+%;}
+
+#yiv0308923859 #yiv0308923859reco-desc {
+font-size:77%;}
+
+#yiv03089238=
+59 .yiv0308923859replbq {
+margin:4px;}
+
+#yiv0308923859 #yiv0308923859ygrp-a=
+ctbar div a:first-child {
+margin-right:2px;padding-right:5px;}
+
+#yiv0308923=
+859 #yiv0308923859ygrp-mlmsg {
+font-size:13px;font-family:Arial, helvetica,=
+ clean, sans-serif;}
+
+#yiv0308923859 #yiv0308923859ygrp-mlmsg table {
+font-=
+size:inherit;font:100%;}
+
+#yiv0308923859 #yiv0308923859ygrp-mlmsg select, #=
+yiv0308923859 input, #yiv0308923859 textarea {
+font:99% Arial, Helvetica, c=
+lean, sans-serif;}
+
+#yiv0308923859 #yiv0308923859ygrp-mlmsg pre, #yiv030892=
+3859 code {
+font:115% monospace;}
+
+#yiv0308923859 #yiv0308923859ygrp-mlmsg =
+* {
+line-height:1.22em;}
+
+#yiv0308923859 #yiv0308923859ygrp-mlmsg #yiv03089=
+23859logo {
+padding-bottom:10px;}
+
+
+#yiv0308923859 #yiv0308923859ygrp-msg p=
+ a {
+font-family:Verdana;}
+
+#yiv0308923859 #yiv0308923859ygrp-msg p#yiv0308=
+923859attach-count span {
+color:#1E66AE;font-weight:700;}
+
+#yiv0308923859 #=
+yiv0308923859ygrp-reco #yiv0308923859reco-head {
+color:#ff7900;font-weight:=
+700;}
+
+#yiv0308923859 #yiv0308923859ygrp-reco {
+margin-bottom:20px;padding:=
+0px;}
+
+#yiv0308923859 #yiv0308923859ygrp-sponsor #yiv0308923859ov li a {
+fo=
+nt-size:130%;text-decoration:none;}
+
+#yiv0308923859 #yiv0308923859ygrp-spon=
+sor #yiv0308923859ov li {
+font-size:77%;list-style-type:square;padding:6px =
+0;}
+
+#yiv0308923859 #yiv0308923859ygrp-sponsor #yiv0308923859ov ul {
+margin=
+:0;padding:0 0 0 8px;}
+
+#yiv0308923859 #yiv0308923859ygrp-text {
+font-famil=
+y:Georgia;}
+
+#yiv0308923859 #yiv0308923859ygrp-text p {
+margin:0 0 1em 0;}
+=
+
+#yiv0308923859 #yiv0308923859ygrp-text tt {
+font-size:120%;}
+
+#yiv03089238=
+59 #yiv0308923859ygrp-vital ul li:last-child {
+border-right:none !important=
+;
+}
+#yiv0308923859 
+</style></div></div><br><br></div>  </div> </div>  </di=
+v> </div></body></html>
+--543109132-1674337104-1394985586=:90911--
+
+

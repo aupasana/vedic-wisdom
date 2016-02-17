@@ -1,0 +1,539 @@
+From prm7782@...  Wed Feb 17 11:07:42 2016
+Return-Path: <prm7782@...>
+X-Sender: prm7782@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 35039 invoked by uid 102); 7 Sep 2014 19:53:56 -0000
+X-Received: from unknown (HELO mtaq5.grp.bf1.yahoo.com) (10.193.84.36)
+  by m11.grp.bf1.yahoo.com with SMTP; 7 Sep 2014 19:53:56 -0000
+X-Received: (qmail 24156 invoked from network); 7 Sep 2014 19:53:56 -0000
+X-Received: from unknown (HELO nm15.bullet.mail.bf1.yahoo.com) (98.139.170.166)
+  by mtaq5.grp.bf1.yahoo.com with SMTP; 7 Sep 2014 19:53:56 -0000
+X-Received: from [98.139.212.149] by nm15.bullet.mail.bf1.yahoo.com with NNFMP; 07 Sep 2014 19:53:56 -0000
+X-Received: from [98.139.212.231] by tm6.bullet.mail.bf1.yahoo.com with NNFMP; 07 Sep 2014 19:53:55 -0000
+X-Received: from [127.0.0.1] by omp1040.mail.bf1.yahoo.com with NNFMP; 07 Sep 2014 19:53:55 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 889179.4694.bm@...
+X-Received: (qmail 46401 invoked by uid 60001); 7 Sep 2014 19:53:55 -0000
+X-YMail-OSG: YrryOHMVM1nMW.pQZYZFBS5k052MWBs46mvS4yNVcbyJIn8
+ ajQiw1Ophf0uNMrg64HYn27xVHca6OL_TarTczbLSWweR.v47fjlLlEgUkx9
+ aDS1d0TW7y1t81VRGa7BVfl27vNtZBpphqXVvt5bvRISpVb80dZcbQXhYf0t
+ RYmmmBIBVknUFaHKfus61RMXgpo67qcn2euZFrPvI5u6uDEKvr.SNfz6bveq
+ lMrWHTNFokPNZW48Ev.NCmC0LaFaPfyr.U9v_vq2ErBlu3dM0WVh8gbD4jmH
+ a0ZT4ar0PG393aynfuNKMw45JWjZl9ANqdhiu4WpGmjeGR3TLTV5LygVWsV5
+ C.hZwXitkDjF28clgP9iCz82vIVbTXiPjvzSnt65yHhuzj3RD.S2zh2DWrjY
+ OlCRaNW.Gwotx9JxsVI9uPqCqnYcL8cHgBPSUGgYPxvMbLZXCNh424XfF1XF
+ M7EhDuKWMwm0ToPI17ZDgP8zhW1fydRD2cZHrphBvpDuCya4goeafkpaVK3H
+ tfx__twh2QYJV0IesMJESU3LtLYFlBj4j5CowEOvhPo.pJIwbnSWctZQHshn
+ _CWx0499DHEgzs8dHCxFy7z.xa2JMmxQ1DZO5vn8Vgh6nEYQjf3vCv1pSIxA
+ wFStbJngi5OaqqNd.Pv35oaKxGnOHCT2hYbR5fYL3dpyI7jZoFOYUXSYwVG_
+ HVmlVaYlI.LMa0C4sr2ZV2nl_5bwT17JhQaU7F72J0ZkKN_qptFIRsWZl0Fv
+ MzUqk3BwhQ1Yrh58TgmhTqKLc9LvWsik3POfxstAryUKxSVB7VBVpHTOKIJK
+ evENC_YL7KKOUidLI1hUgCOHVlGtY5kKFWox84fQ63FoTCEAO5eePylHqn0V
+ YN4VZ.q2FScU2dFfy3eDjpOx76XJQh6WCqk8kd64pGyc9N4QexV8OnfYEpDp
+ 0JQC8Z9BA1BEsnjAguZID.A0IcTmj.F4nZG_.6y0VAE5ExpJEUStgVc6fLV8
+ .5PPDSB1Jp4KEuAnb1pdnvKW7PZZEEq.rJZxixS3HF8BYlL1lrm7s9mhZqrt
+ ZJ3.WIuT94IKbQZED0xyB8YsKDVJJ0ydG09zz7gzhKzsYERN9CVlAl0S.x22
+ 7s8VIu9qOSAVXGuL_JAOGaVrkDjsJXR5RStGbEkDzNOFuX8HZpGvYINT5_6q
+ 7QmSeAnGwE54tCIOdlw6_cT7pqCftQBaLOc1vBwlVROAMuWNSSFRiXMe7EmL
+ zL0mHJvJVkcOXQaAmWbLJe1K9O69IprJGgBzrdv50gwX8bxr9yTMmhlrpT.N
+ Q6So3WPVnt9ZJj8YVop7bYgEHbeKsIUtZgWVAeZNChtEzrr.uohFTBtzGgWN
+ ZwBUgUT2ghZfJUepVq5m0qVuYkJDeO6kYHGA7oVkmoGhlTtkZ6qB40kT7Z6j
+ oH4F2i2Xc6UxvSV5BrCYyzQDKe2rWpoKQXcQ3k1FNGJn1_SVfnTd.7kUgzR1
+ 6.r7WNx4E0vgu3ATZVfFuAAc6zG.Xm0eX0t_rp588JqXOZYYx8EozfRhLPCr
+ lcvbCY6tT5_8KDyIgs4Dw6Sk0kv6AhsK5FwuG5JhPkxK9WV33LXQJNBkA6jE
+ 6VCzzT5EGZsepjE6a2MZtMlm4iUUrGNxPzIb6HYu4JS4cTtrcldlm9nE10nT
+ 8EHxbTyipbYFyPVyIlexrAH6S0OLisyZqmBHYg7Q5C2jJuSezzNzaKyYqHgC
+ BAlxGqjt_Dqc_DOiN9W4geQVEiLQRhPIS9J2rWxg33.qrTMwS4MSoxIFBJ8E
+ aSXcazvZy4D.XvGCj3g_p3c5oTPbuBaSDpDwNTHV7Ta08Rfloc4fLQYT6AxX
+ x1BPx.scJzJAvWCsKla7sK9URnVLvjLHhpYGGG6Qgyez25VqVXg.51HvG918
+ BaHKzPNv18Ku3E0Ym1uimokYG
+X-Received: from [68.42.94.18] by web162804.mail.bf1.yahoo.com via HTTP; Sun, 07 Sep 2014 12:53:55 PDT
+X-Rocket-MIMEInfo: 002.001,V2hhdCBhIG5pY2Ugc3VnZ2VzdGlvbj8gCgpUaGFua3MgYW5kIHJlZ2FyZHMsClByaXlhCgoKPl9fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fCj4gRnJvbTogIk5hdGhhbiBOYXR1cmUgbmF0aGFuLm5hdHVyZUB5YWhvby5jb20gW3ZlZGljLXdpc2RvbV0iIDx2ZWRpYy13aXNkb21AeWFob29ncm91cHMuY29tPgo.VG86ICJ2ZWRpYy13aXNkb21AeWFob29ncm91cHMuY29tIiA8dmVkaWMtd2lzZG9tQHlhaG9vZ3JvdXBzLmNvbT4gCj5TZW50OiBGcmlkYXksIFNlcHRlbWJlciA1LCAyMDE0IDEwOjM1IEEBMAEBAQE-
+X-Mailer: YahooMailWebService/0.8.203.696
+References: <lu9muj+i4v3af@...>	<1409839684.12556.YahooMailNeo@...>	<luc5s1+1lif1qa@...> <lucfke+vf5jti@...> <1409927721.35154.YahooMailNeo@...>
+Message-ID: <1410119635.44344.YahooMailNeo@...>
+Date: Sun, 7 Sep 2014 12:53:55 -0700
+To: "vedic-wisdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com>
+In-Reply-To: <1409927721.35154.YahooMailNeo@...>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="-1621810148-2142751803-1410119635=:44344"
+X-Originating-IP: 98.139.212.174
+X-eGroups-Msg-Info: 1:12:0:0:0
+Reply-To: Priya M <prm7782@...>
+Subject: Re: [vedic-wisdom] Re: Is it only in Delhi or other places too ?
+X-Yahoo-Group-Post: member; u=431354722; y=PlLgHsnfQkHP2q-j33Kvt3C9T6bOi_4vD29rsZQyXvNiJg
+X-Yahoo-Profile: prm7782
+From: Priya M <prm7782@...>
+
+
+---1621810148-2142751803-1410119635=:44344
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+What a nice suggestion? 
+
+Thanks and regards,
+Priya
+
+
+>____________________=
+____________
+> From: "Nathan Nature nathan.nature@... [vedic-wisdom]"=
+ <vedic-wisdom@yahoogroups.com>
+>To: "vedic-wisdom@yahoogroups.com" <vedic-=
+wisdom@yahoogroups.com> 
+>Sent: Friday, September 5, 2014 10:35 AM
+>Subject=
+: Re: [vedic-wisdom] Re: Is it only in Delhi or other places too ?
+> 
+>
+>
+>=
+  
+>Dear Mr Rama,
+>
+>
+>I have one idea. You can take out a day-off and visi=
+t surrounding villages on the outskirts of delhi, and trace a desi or indig=
+enous cow-shed keeper. Please note that desi cow has hump on its back. Hybr=
+id cows have no hump and have flat back. We always use cow-dung of desi cow=
+.
+>
+>
+>Then you can request him dry cow-dung cakes and take a stock of one =
+jute bag enough for few months or as per your convenience, as coming to far=
+-off village is not so easy, if done frequently.
+>
+>
+>I am very sure that t=
+he cost will be a mere 30% with respect to the dry coconuts, but the perfor=
+mance will be 200%.
+>
+>
+>Yours sincerely,
+>Nathan
+>
+>
+>
+>On Friday, Septemb=
+er 5, 2014 7:29 PM, "vsra_prasad@... [vedic-wisdom]" <vedic-wisdom@ya=
+hoogroups.com> wrote:
+> 
+>
+>
+>  
+>Thanks. But what precautions do you take =
+to keep the 10kg dry coconuts from spoiling or not getting fungus ?
+>
+>
+>rA=
+ma
+>
+>
+>
+>
+>
+---1621810148-2142751803-1410119635=:44344
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"color:#000; background-color:#fff; font-family:He=
+lveticaNeue, Helvetica Neue, Helvetica, Arial, Lucida Grande, sans-serif;fo=
+nt-size:12pt"><div><span>What a nice suggestion? </span></div><div sty=
+le=3D"color: rgb(0, 0, 0); font-size: 16px; font-family: HelveticaNeue, 'He=
+lvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; font-style: n=
+ormal; background-color: transparent;"><span><br></span></div><div style=3D=
+"color: rgb(0, 0, 0); font-size: 16px; font-family: HelveticaNeue, 'Helveti=
+ca Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; font-style: normal=
+; background-color: transparent;"><span>Thanks and regards,</span></div><di=
+v style=3D"color: rgb(0, 0, 0); font-size: 16px; font-family: HelveticaNeue=
+, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; font-sty=
+le: normal; background-color: transparent;"><span>Priya</span></div><div><b=
+r></div><blockquote style=3D"border-left: 2px solid rgb(16, 16, 255);
+ marg=
+in-left: 5px; margin-top: 5px; padding-left: 5px;">  <div style=3D"font-fam=
+ily: HelveticaNeue, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sa=
+ns-serif; font-size: 12pt;"> <div style=3D"font-family: HelveticaNeue, 'Hel=
+vetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; font-size: 12p=
+t;"> <div dir=3D"ltr"> <hr size=3D"1">  <font size=3D"2" face=3D"Arial"> <b=
+><span style=3D"font-weight:bold;">From:</span></b> "Nathan Nature nathan.n=
+ature@... [vedic-wisdom]" <vedic-wisdom@yahoogroups.com><br> <b=
+><span style=3D"font-weight: bold;">To:</span></b> "vedic-wisdom@yahoogroup=
+s.com" <vedic-wisdom@yahoogroups.com> <br> <b><span style=3D"font-wei=
+ght: bold;">Sent:</span></b> Friday, September 5, 2014 10:35 AM<br> <b><spa=
+n style=3D"font-weight: bold;">Subject:</span></b> Re: [vedic-wisdom] Re: I=
+s it only in Delhi or other places too ?<br> </font> </div> <div class=3D"y=
+_msg_container"><br><div id=3D"yiv0089426441"><div>
+<span style=3D"display:=
+none;"> </span>
+
+
+<div id=3D"yiv0089426441ygrp-mlmsg" style=3D"">
+  <d=
+iv id=3D"yiv0089426441ygrp-msg" style=3D"">
+
+
+    <div id=3D"yiv0089426441y=
+grp-text">
+      
+      
+      <div style=3D"color: rgb(0, 0, 0); font-fami=
+ly: HelveticaNeue-Light, 'Helvetica Neue Light', 'Helvetica Neue', Helvetic=
+a, Arial, 'Lucida Grande', sans-serif; font-size: 10pt; background-color: r=
+gb(255, 255, 255);"><div><span>Dear Mr Rama,</span></div><div style=3D"colo=
+r: rgb(0, 0, 0); font-size: 13.3333px; font-family: HelveticaNeue-Light, 'H=
+elvetica Neue Light', 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', =
+sans-serif; font-style: normal; background-color: transparent;"><br clear=
+=3D"none"><span></span></div><div style=3D"color: rgb(0, 0, 0); font-size: =
+13.3333px; font-family: HelveticaNeue-Light, 'Helvetica Neue Light', 'Helve=
+tica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; font-style: norm=
+al; background-color: transparent;"><span>I have one idea. You can take out=
+ a day-off and visit surrounding villages on the outskirts of delhi, and tr=
+ace a desi or indigenous cow-shed keeper. Please note that desi cow has hum=
+p on its back. Hybrid cows
+ have no hump and have flat back. We always use =
+cow-dung of desi
+ cow.</span></div><div style=3D"color: rgb(0, 0, 0); font-=
+size: 13.3333px; font-family: HelveticaNeue-Light, 'Helvetica Neue Light', =
+'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; font-style=
+: normal; background-color: transparent;"><br clear=3D"none"><span></span><=
+/div><div style=3D"color: rgb(0, 0, 0); font-size: 13.3333px; font-family: =
+HelveticaNeue-Light, 'Helvetica Neue Light', 'Helvetica Neue', Helvetica, A=
+rial, 'Lucida Grande', sans-serif; font-style: normal; background-color: tr=
+ansparent;"><span>Then you can request him dry cow-dung cakes and take a st=
+ock of one jute bag enough for few months or as per your convenience, as co=
+ming to far-off village is not so easy, if done frequently.</span></div><di=
+v style=3D"color: rgb(0, 0, 0); font-size: 13.3333px; font-family: Helvetic=
+aNeue-Light, 'Helvetica Neue Light', 'Helvetica Neue', Helvetica, Arial, 'L=
+ucida Grande', sans-serif; font-style: normal; background-color: transparen=
+t;"><br
+ clear=3D"none"><span></span></div><div style=3D"color: rgb(0, 0, 0=
+); font-size: 13.3333px; font-family: HelveticaNeue-Light, 'Helvetica Neue =
+Light', 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; fo=
+nt-style: normal; background-color: transparent;"><span>I am very sure that=
+ the cost will be a mere 30% with respect to the dry coconuts, but the perf=
+ormance will be 200%.</span></div><div style=3D"color: rgb(0, 0, 0); font-s=
+ize: 13.3333px; font-family: HelveticaNeue-Light, 'Helvetica Neue Light', '=
+Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; font-style:=
+ normal; background-color: transparent;"><br clear=3D"none"><span></span></=
+div><div style=3D"color: rgb(0, 0, 0); font-size: 13.3333px; font-family: H=
+elveticaNeue-Light, 'Helvetica Neue Light', 'Helvetica Neue', Helvetica, Ar=
+ial, 'Lucida Grande', sans-serif; font-style: normal; background-color: tra=
+nsparent;"><span>Yours sincerely,</span></div><div style=3D"color: rgb(0, 0=
+, 0);
+ font-size: 13.3333px; font-family: HelveticaNeue-Light, 'Helvetica N=
+eue Light', 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif=
+; font-style: normal; background-color: transparent;"><span>Nathan</span></=
+div> <div class=3D"yiv0089426441qtdSeparateBR"><br clear=3D"none"><br clear=
+=3D"none"></div><div class=3D"yiv0089426441yqt6337781471" id=3D"yiv00894264=
+41yqt49340"><div class=3D"yiv0089426441yahoo_quoted" style=3D"display: bloc=
+k;"> <div style=3D"font-family: HelveticaNeue-Light, 'Helvetica Neue Light'=
+, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; font-siz=
+e: 10pt;"> <div style=3D"font-family: HelveticaNeue, 'Helvetica Neue', Helv=
+etica, Arial, 'Lucida Grande', sans-serif; font-size: 12pt;"> <div dir=3D"l=
+tr"> <font face=3D"Arial" size=3D"2"> On Friday, September 5, 2014 7:29 PM,=
+ "vsra_prasad@... [vedic-wisdom]" <vedic-wisdom@yahoogroups.com>=
+; wrote:<br clear=3D"none"> </font> </div>  <br clear=3D"none"><br clear=3D=
+"none"> <div
+ class=3D"yiv0089426441y_msg_container"><div id=3D"yiv00894264=
+41"><div>
+<span> </span>
+
+
+<div id=3D"yiv0089426441ygrp-mlmsg">
+  <div=
+ id=3D"yiv0089426441ygrp-msg">
+
+
+    <div id=3D"yiv0089426441ygrp-text">
+  =
+    
+      
+      <div>Thanks. But what precautions do you take to keep the=
+ 10kg dry coconuts from spoiling or not getting fungus ?</div><div><br clea=
+r=3D"none"></div><div>rAma</div>
+
+    </div>
+     
+
+    
+    <div style=3D"=
+color:#fff;height:0;"></div></div>
+
+
+</div></div><br clear=3D"none"><br cle=
+ar=3D"none"></div>  </div> </div>  </div> </div></div></div>
+
+    </div>
+  =
+   
+
+    
+    <div class=3D"yiv0089426441yqt6337781471" id=3D"yiv0089426441=
+yqt07665"><div style=3D"color:#fff;height:0;"></div></div>
+
+
+</div><div cla=
+ss=3D"yiv0089426441yqt6337781471" id=3D"yiv0089426441yqt32152"><style type=
+=3D"text/css">
+#yiv0089426441 #yiv0089426441 --
+  #yiv0089426441ygrp-mkp {
+=
+border:1px solid #d8d8d8;font-family:Arial;margin:10px 0;padding:0 10px;}
+
+=
+#yiv0089426441 #yiv0089426441ygrp-mkp hr {
+border:1px solid #d8d8d8;}
+
+#yiv=
+0089426441 #yiv0089426441ygrp-mkp #yiv0089426441hd {
+color:#628c2a;font-siz=
+e:85%;font-weight:700;line-height:122%;margin:10px 0;}
+
+#yiv0089426441 #yiv=
+0089426441ygrp-mkp #yiv0089426441ads {
+margin-bottom:10px;}
+
+#yiv0089426441=
+ #yiv0089426441ygrp-mkp .yiv0089426441ad {
+padding:0 0;}
+
+#yiv0089426441 #y=
+iv0089426441ygrp-mkp .yiv0089426441ad p {
+margin:0;}
+
+#yiv0089426441 #yiv00=
+89426441ygrp-mkp .yiv0089426441ad a {
+color:#0000ff;text-decoration:none;}
+=
+#yiv0089426441 #yiv0089426441ygrp-sponsor #yiv0089426441ygrp-lc {
+font-fami=
+ly:Arial;}
+
+#yiv0089426441 #yiv0089426441ygrp-sponsor #yiv0089426441ygrp-lc=
+ #yiv0089426441hd {
+margin:10px 0px;font-weight:700;font-size:78%;line-heig=
+ht:122%;}
+
+#yiv0089426441 #yiv0089426441ygrp-sponsor #yiv0089426441ygrp-lc =
+.yiv0089426441ad {
+margin-bottom:10px;padding:0 0;}
+
+#yiv0089426441 #yiv008=
+9426441actions {
+font-family:Verdana;font-size:11px;padding:10px 0;}
+
+#yiv0=
+089426441 #yiv0089426441activity {
+background-color:#e0ecee;float:left;font=
+-family:Verdana;font-size:10px;padding:10px;}
+
+#yiv0089426441 #yiv008942644=
+1activity span {
+font-weight:700;}
+
+#yiv0089426441 #yiv0089426441activity s=
+pan:first-child {
+text-transform:uppercase;}
+
+#yiv0089426441 #yiv0089426441=
+activity span a {
+color:#5085b6;text-decoration:none;}
+
+#yiv0089426441 #yiv=
+0089426441activity span span {
+color:#ff7900;}
+
+#yiv0089426441 #yiv00894264=
+41activity span .yiv0089426441underline {
+text-decoration:underline;}
+
+#yiv=
+0089426441 .yiv0089426441attach {
+clear:both;display:table;font-family:Aria=
+l;font-size:12px;padding:10px 0;width:400px;}
+
+#yiv0089426441 .yiv008942644=
+1attach div a {
+text-decoration:none;}
+
+#yiv0089426441 .yiv0089426441attach=
+ img {
+border:none;padding-right:5px;}
+
+#yiv0089426441 .yiv0089426441attach=
+ label {
+display:block;margin-bottom:5px;}
+
+#yiv0089426441 .yiv0089426441at=
+tach label a {
+text-decoration:none;}
+
+#yiv0089426441 blockquote {
+margin:0=
+ 0 0 4px;}
+
+#yiv0089426441 .yiv0089426441bold {
+font-family:Arial;font-size=
+:13px;font-weight:700;}
+
+#yiv0089426441 .yiv0089426441bold a {
+text-decorat=
+ion:none;}
+
+#yiv0089426441 dd.yiv0089426441last p a {
+font-family:Verdana;f=
+ont-weight:700;}
+
+#yiv0089426441 dd.yiv0089426441last p span {
+margin-right=
+:10px;font-family:Verdana;font-weight:700;}
+
+#yiv0089426441 dd.yiv008942644=
+1last p span.yiv0089426441yshortcuts {
+margin-right:0;}
+
+#yiv0089426441 div=
+.yiv0089426441attach-table div div a {
+text-decoration:none;}
+
+#yiv00894264=
+41 div.yiv0089426441attach-table {
+width:400px;}
+
+#yiv0089426441 div.yiv008=
+9426441file-title a, #yiv0089426441 div.yiv0089426441file-title a:active, #=
+yiv0089426441 div.yiv0089426441file-title a:hover, #yiv0089426441 div.yiv00=
+89426441file-title a:visited {
+text-decoration:none;}
+
+#yiv0089426441 div.y=
+iv0089426441photo-title a, #yiv0089426441 div.yiv0089426441photo-title a:ac=
+tive, #yiv0089426441 div.yiv0089426441photo-title a:hover, #yiv0089426441 d=
+iv.yiv0089426441photo-title a:visited {
+text-decoration:none;}
+
+#yiv0089426=
+441 div#yiv0089426441ygrp-mlmsg #yiv0089426441ygrp-msg p a span.yiv00894264=
+41yshortcuts {
+font-family:Verdana;font-size:10px;font-weight:normal;}
+
+#yi=
+v0089426441 .yiv0089426441green {
+color:#628c2a;}
+
+#yiv0089426441 .yiv00894=
+26441MsoNormal {
+margin:0 0 0 0;}
+
+#yiv0089426441 o {
+font-size:0;}
+
+#yiv00=
+89426441 #yiv0089426441photos div {
+float:left;width:72px;}
+
+#yiv0089426441=
+ #yiv0089426441photos div div {
+border:1px solid #666666;height:62px;overfl=
+ow:hidden;width:62px;}
+
+#yiv0089426441 #yiv0089426441photos div label {
+col=
+or:#666666;font-size:10px;overflow:hidden;text-align:center;white-space:now=
+rap;width:64px;}
+
+#yiv0089426441 #yiv0089426441reco-category {
+font-size:77=
+%;}
+
+#yiv0089426441 #yiv0089426441reco-desc {
+font-size:77%;}
+
+#yiv00894264=
+41 .yiv0089426441replbq {
+margin:4px;}
+
+#yiv0089426441 #yiv0089426441ygrp-a=
+ctbar div a:first-child {
+margin-right:2px;padding-right:5px;}
+
+#yiv0089426=
+441 #yiv0089426441ygrp-mlmsg {
+font-size:13px;font-family:Arial, helvetica,=
+ clean, sans-serif;}
+
+#yiv0089426441 #yiv0089426441ygrp-mlmsg table {
+font-=
+size:inherit;font:100%;}
+
+#yiv0089426441 #yiv0089426441ygrp-mlmsg select, #=
+yiv0089426441 input, #yiv0089426441 textarea {
+font:99% Arial, Helvetica, c=
+lean, sans-serif;}
+
+#yiv0089426441 #yiv0089426441ygrp-mlmsg pre, #yiv008942=
+6441 code {
+font:115% monospace;}
+
+#yiv0089426441 #yiv0089426441ygrp-mlmsg =
+* {
+line-height:1.22em;}
+
+#yiv0089426441 #yiv0089426441ygrp-mlmsg #yiv00894=
+26441logo {
+padding-bottom:10px;}
+
+
+#yiv0089426441 #yiv0089426441ygrp-msg p=
+ a {
+font-family:Verdana;}
+
+#yiv0089426441 #yiv0089426441ygrp-msg p#yiv0089=
+426441attach-count span {
+color:#1E66AE;font-weight:700;}
+
+#yiv0089426441 #=
+yiv0089426441ygrp-reco #yiv0089426441reco-head {
+color:#ff7900;font-weight:=
+700;}
+
+#yiv0089426441 #yiv0089426441ygrp-reco {
+margin-bottom:20px;padding:=
+0px;}
+
+#yiv0089426441 #yiv0089426441ygrp-sponsor #yiv0089426441ov li a {
+fo=
+nt-size:130%;text-decoration:none;}
+
+#yiv0089426441 #yiv0089426441ygrp-spon=
+sor #yiv0089426441ov li {
+font-size:77%;list-style-type:square;padding:6px =
+0;}
+
+#yiv0089426441 #yiv0089426441ygrp-sponsor #yiv0089426441ov ul {
+margin=
+:0;padding:0 0 0 8px;}
+
+#yiv0089426441 #yiv0089426441ygrp-text {
+font-famil=
+y:Georgia;}
+
+#yiv0089426441 #yiv0089426441ygrp-text p {
+margin:0 0 1em 0;}
+=
+
+#yiv0089426441 #yiv0089426441ygrp-text tt {
+font-size:120%;}
+
+#yiv00894264=
+41 #yiv0089426441ygrp-vital ul li:last-child {
+border-right:none !important=
+;
+}
+#yiv0089426441 
+</style></div></div><br><br></div> </div> </div> </bloc=
+kquote><div></div>   </div></body></html>
+---1621810148-2142751803-1410119635=:44344--
+
+
