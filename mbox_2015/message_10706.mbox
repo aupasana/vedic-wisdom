@@ -1,0 +1,254 @@
+From meera9969@...  Wed Feb 17 11:07:48 2016
+Return-Path: <meera9969@...>
+Received: (qmail 9099 invoked by uid 102); 23 Aug 2015 17:24:34 -0000
+Received: from unknown (HELO mtaq5.grp.bf1.yahoo.com) (10.193.84.36)
+  by m10.grp.bf1.yahoo.com with SMTP; 23 Aug 2015 17:24:34 -0000
+Received: (qmail 30325 invoked from network); 23 Aug 2015 17:24:34 -0000
+Received: from unknown (HELO mta1005.groups.mail.bf1.yahoo.com) (98.139.245.164)
+  by mtaq5.grp.bf1.yahoo.com with SMTP; 23 Aug 2015 17:24:34 -0000
+X-Original-Return-Path: <meera9969@...>
+Received-SPF: pass (domain of yahoo.com designates 72.30.235.60 as permitted sender)
+X-Rocket-Track: cat=UK; info=rule:NN<id=110>;cconsam:UK;ip:NN<ip=72.30.235.60,policy=n-w0,n100,g0,s>;ipst:GD<ip=72.30.235.60>;mssz:GD<size=1174>;mip:UK<p=not_run>;ipsp:GD;url2db:NN<url=geo.yahoo.com/serv,pri=1>;wlrcpts:UK;sgor:UK;abaca:UK<247, fh=mta1005; fi=98.139.172.204:14050; rg=U; GT=0; fs=247; ns=220; ws=247,A,1,5,0,0,0,0,0,0,200,0,0,30,N; nn=0,0,0,20,200,0,0; cn=0,0,0,0,1,9,0,1,0,0; ex=W,D,0001,IRVY; sk=OtP4dkS/xDM; yd=5,5,0,-1; st=AAS; id=UwpC_Ma0-7N1724Y1u; rv=inbound.0.40+10-g178104b/98.139.172.204:14051; ts=ND6Zt; gv=22; fp=BIgEA; fu=B; fl=EIADAA; ip=72.30.235.60; po=66.196.81.176; ht=1; so=3; oc=0; oL=3; co=n; hv=1; ha=FuDPOchz66s; hs=CFp8DFHkPSw; ho=Hq9HxltOBE/; hd=Pn67EoFGniL; hf=IvZS/4IORZE; hF=nauUoXZfAW; hj=CZaimmvfZt5; hr=C505zTti/10; sd=KlpRX93I7Pf,0:1,0,1:2,0,0,0,1,1,1,0,w,w; ZM=KabcvvDjYba; ZB=DjMkxF7XjDd; ZB=Ia6H5XYRgtu; ZB=DXp4KyFJgTs; ZB=P/P5su7RcyZ; ZB=mEaNGh/ftI; ZM=cL+vKafmrE; ZU=DFZbR2K/oKY; Zu=IPrMYNkED0x; Zu=Evovf5F8Klx; ZI=CzhB91uTlx6; ZF=HRpVwG8h9sG; Zi=FHXimL02m6O;, SRV_OR=1,WS_OR=1,WSS_OR=1,OR=1,AB_WS_IP=0,AB_WSS_IP=0>
+X-Rocket-Filter: dmarc-result=pass;
+X-RocketAttachment: type=multipart/alternative;type=text/plain;type=text/html;type=image/jpeg;
+X-Rocket-MIMEInfo: 001.001,SGVsbG8gZXZlcnlvbmUsIEkgd2FzIHJlYWRpbmcgYWdob3JhIGt1
+ bmRhbGluaSBib29rIGJ5IFJvYmVydCBlIHN2b2JvZGEsIGNhbWUgYWNyb3Nz
+ IG9uZSBwYXJhZ3JhcGgsIHRob3VnaCBvZiBzaGFyaW5nIGl0IHdpdGggdSBh
+ bGwuIFJlZ2FyZHMsIMOiwoDCoiBwIMOiwoDCoiAuIAEwAQEBAQNtdWx0aXBh
+ cnQvYWx0ZXJuYXRpdmUDAzUCA3RleHQvcGxhaW4DAzACA3RleHQvaHRtbAMD
+ NAJJTUdfMjAxNTA4MjNfMjIxNjI0LmpwZwNpbWFnZS9qcGVnAwMxMTY1
+X-YMailISG: MKp_mPAWLDt8L_QkHn_hrzNE6m2Ha.qllLDmFGoxk4RoNtaR
+ 0.uf.ObVoY5mO1UwYVE25FRRD6asIT2EmrDcK1pVgh1D__aNd_uNZcuInFZ2
+ uOG7ytk4i8mjcU3Rkogk48uCQE9iLFWrJvXxg3e7A9PB24s5mrCDcoaeTJez
+ BP_xylBdJ57mW12tq_SAcXPhdTPl02rQeHTI9LLN9hGuDyNv3CWv57ZCBHfM
+ 3gDX7XlHYn5Q.9VJEe7szF.Hzip7OLMfVKcVzUhLidPXc5XTzTbZxGPoQgiO
+ L4O0ZIKsDHumBDApUcJSUP1O0MdqAOT3XNUgbU7HhYgmmoFRZeZYNPA3XXMQ
+ h..Y5HbC.bq3M6ByR3xykVumfrD8NDQcBJh1rNZkewLQu4YyM7Zri.z2UYvg
+ UqGJCqYKDIlMRG1.P2CNcCq2HPOlcodlj2ZT7NC7r3VByCAmvp_1AutHJ4u1
+ n3Us_5u0Vp6FOfPG9jBiWoAl7ZQeXJeEk5b0bE8_7bSw_u9um.jwshTZzlD6
+ hWnnvWVumMjx77cKECAvEqG9Z6b6VFYfmSsToGx59cihikXBejlZTuZGPU07
+ _AFrEqx24LnqBm7HsmtbJ_e8Nm0IoNQZFhpeXUeVaUyG3aU6DeXQOiwHyvwL
+ _N1gRUVP0losmGvq_IYjiNqivcK6T5eC9K5GdNFXtIUb5vPk83q5cdBmZ6lf
+ A2mNg7fKwtzBBtPnyW27jOjgBo3sUQAJQ3N84LVYTA6cvj9hUCECnMJsvR_6
+ TTVydtlcnpubMm4am8SZO_PjsnQQx2Pw.64lD19DHlZ6zkycllO519XABKlW
+ K5VhrjdPAu637C9KUdvhHo4ULwzjuLgQ.eW0l.pOj3IYU8abF14ZYUpaQD9x
+ PpS7QqggltCZyc1dImMK39GphXvf3sxTfx_Bvdu7Fozc3nJ5t51VoAjvRIvZ
+ yyt42iNtw1axu1E4D.78nWdahhI05xm.jZgeT34tEop7Xcm4tjS7fT.NAzPr
+ Q5OXKSchxo1LhAanUHHGK3_R3DurIwA0HGriOYceQNeMdJyH3P2DQTGSHIOz
+ gUMNBCvFa30RrU3CZ9E8xNP7rpGY.4O6t4VzwhawRkH0o4sIq03CdqSBzgf4
+ E3aCDq5Ipzt_j7b8MCRvSsjLt2tS.IYPCEse722Stkv7gEWjBTrA.XvLkdf6
+ LAzmaud8gveCMUnxWAQViBQZ1_iRqtyXgkJzhOHK4VEKBg0yD85zhfADT8nA
+ kPT8mk_Ojxyyb1iNpr8FeuIPwtAl_mAWojIVS4YvQoTpjOnWAfvDhmHUpBwR
+ PfkN3NNeMpqnTU4vLlRfsT8yTiKnFiFwE0JFACftAcKTvO3os5jEvK4hO5Ky
+ mOhyFWMxL5G1ExSmlyRIRqm1UTELo5Wapi_vqBoHEZuWUMDGk6cd3Xha7rLo
+ kz7mbD7pWUBvEA9RXlKTJnBd
+X-RocketHELO: n5-vm8.bullet.mail.bf1.yahoo.com
+X-RocketMAILFROM: meera9969@...
+X-RocketRCPTTO: 0-vedic-wisdom@yahoogroups.com
+X-RocketMSGID:1440350674.253593.49223@...#0
+X-Originating-IP: [72.30.235.60]
+Authentication-Results: mta1005.groups.mail.bf1.yahoo.com  from=yahoogroups.com; domainkeys=neutral (no sig);  from=yahoogroups.com; dkim=pass (ok)
+Received: from 127.0.0.1  (EHLO n5-vm8.bullet.mail.bf1.yahoo.com) (72.30.235.60)
+  by mta1005.groups.mail.bf1.yahoo.com with SMTPS; Sun, 23 Aug 2015 17:24:34 +0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoogroups.com; s=echoe; t=1440350674; bh=twNM/8uAkM7Pjke/sXluXBKxNXwNOtuay8QKR6SNi2s=; h=Date:In-Reply-To:Subject:From:Reply-To:To:From:Subject; b=SUbWEmzvoEyK9zkDVS2bUy8fggCd7qxQVLKdmmSuYGgVown1AMT/XfodaOsLm3l/wnKsjext3WIogfFAyzH8IHG/j14n7bYm/awJENoj8BnW2DrOKCBqdWcJkWAobjE2KaL5Gfzn5h/UAxAeCbgFiX7YDConuPmaUqBKIf6h208=
+Received: from [66.196.81.176] by n5.bullet.mail.bf1.yahoo.com with NNFMP; 23 Aug 2015 17:24:34 -0000
+Received: from [10.193.39.252] by t6.bullet.mail.bf1.yahoo.com with NNFMP; 23 Aug 2015 17:24:34 -0000
+Received: from [127.0.0.1] by gapi16.grp.bf1.yahoo.com with NNFMP; 23 Aug 2015 17:24:34 -0000
+X-Sender: meera9969@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 10761 invoked by uid 102); 23 Aug 2015 17:20:06 -0000
+X-Received: from unknown (HELO mtaq6.grp.bf1.yahoo.com) (10.193.84.37)
+  by m3.grp.bf1.yahoo.com with SMTP; 23 Aug 2015 17:20:06 -0000
+X-Received: (qmail 15692 invoked from network); 23 Aug 2015 17:20:05 -0000
+X-Received: from unknown (HELO mta1001.groups.mail.ne1.yahoo.com) (98.138.215.81)
+  by mtaq6.grp.bf1.yahoo.com with SMTP; 23 Aug 2015 17:20:05 -0000
+X-Original-Return-Path: <meera9969@...>
+X-Received-SPF: pass (domain of yahoo.com designates 106.10.150.24 as permitted sender)
+X-YMailISG: A0EbUqoWLDvX_1an5wN9rUZhHw_KXc1pn9iNozp8Tae9DCaG
+ JIb_luZDFcWn4QjObjlus1sMIWwF4EQDhrLAmCR1V.7FkKmJgOc9bn7EMQ1v
+ r1M.s.LMDcLt3coBHEedWgaUQd5x4CWIYKFt30HfDNigWJkMHR53XA96iLCE
+ 3tCfhMGKm51Qhgnvot4nrsBFWtCipShovTX486nHhAw2LgUCyEQhwvdBb4Fa
+ vEDrnVhlLCTGm7YeQkD2iuv1T2bFenUdQwwmVm5N9vSKQo0Qo_ARPDAoB7Yy
+ kvwehu1itda6bK8jvXG38fVtKSpNpEn4NsvhSmnaeqXYz88P1wx2XtSET3gV
+ 2DmFG5nW.c1VQ2cXiObC.Po5BwSwGlzk5KbvX9CnYUT_sHmfvx6mzF3MNbxU
+ 1mBN21Ct5yQ0LIbJdOpwlr_gnBGma8NwKshyUsJxWZMQ.p_SUIn7Z1Lml45v
+ t7AscW6r2gLo4NBKUZ2FAUCLBdrB6fjF_IGqsa5KAbx5KgSELL_BoNfa6T5l
+ bJHWDd4lwzlekNC9PvMWkcjIn3GMGsOjhMIpyeAD8geQJUkUOUlz9ZSaC4Pt
+ diYO3FxAa3xfHQ0H2sktCbV0j85dIk5yZ5h2f3IpJZzV_C3FW5aqokpO8yDg
+ 1q9_cwtgKep9Qe2pG.rDCDlL9VhEwCsV__xVSiC8ll01iDrp5imI2.fVR4Ic
+ 15C5VUAdy5CXgd.Nd_P7Vfc237Pzmks2UkgBF0xx0cUzH8H5CkrGky3VL9Us
+ y8GNJ9_oKRzzo.bWeofNgC8BTX5NdWNw1H7rG1XLsUTrRW5_dRrWCTNES.qH
+ gpgj7YPXliuChYmmeyKDHPp6YvyAP0Wln12wSPHW_lhXiNgp9K6VFkMawVhD
+ _SsrLlNIM16ihJVgj9QsGn7NHWanXjGjQyKMNx7zElT6HNOUNb4vjZkqk0GI
+ sFDG74turFGqF3UxMElRjCy3hWMWgDdR2HHzQ7GDkMXbAOl0GqxkMhsdseO4
+ lGK1RWwCK1Io0J8wWFmGlP9LgqYE1WqJa66j_LmtfIu4JQrBovjq0VSXtd83
+ hN2r49v8I9kZae67tfFPrLD2ThRCjTZ54Bqg7QgEjmP2SHF6YerBvW1mfWh_
+ GYj3WMOvNajXY5ipxyKKzscvz3O1vV08YHPsRdZUolt5.lzDEwxlglHyPjo4
+ wjv9VyQykrZ.DCVrkkrMOyxsW3VYVwPlzkPmudWsBeb8UNHixol52CxST2_6
+ 24Y6cb_kK00aH9AGNUdc3ZeXu4Q3gCheE1sqUwfTABfB3by2KjhfrFYZmNP3
+ 7gfBn83Ng4mTaUtxBcnc09g3mpN4MQCmValQ5Xn7MmeQZKFX04syoVu61Tif
+ .2giooQvNDTPJ11zL.sQs0b1uOw-
+Authentication-Results: mta1001.groups.mail.ne1.yahoo.com  from=yahoo.com; domainkeys=neutral (no sig);  from=yahoo.com; dkim=pass (ok)
+X-Received: from 127.0.0.1  (EHLO omp1025.mail.sg3.yahoo.com) (106.10.150.24)
+  by mta1001.groups.mail.ne1.yahoo.com with SMTPS; Sun, 23 Aug 2015 17:20:05 +0000
+X-Received: (qmail 89753 invoked by uid 1000); 23 Aug 2015 17:19:58 -0000
+X-Received: (qmail 81672 invoked by uid 60001); 23 Aug 2015 17:19:58 -0000
+X-YMail-OSG: 1AoS0zAVM1mV_oLDqhb5dD_oSc2V2sCoPQMJgujIUBbj5uL
+ 5oyRjtnrwrhbctXUksp7k3vthNwjZfSQ2iwt3iAkkmocAj.RVNmN1QhN.hIz
+ NTZQ67wg3bWFWoNYoX84BWUo1qldTT6Aq8rAAjew7eJjGbUA1xEc7e5Zlrbr
+ EXESjW0SJd8mXF5Hc8LqQH8TLXF_HNJlaZlT0YQ7uZB8Ji8B.3RIXKT6RYlZ
+ kNWwuJ7blgMmQe7Vna4FeD9yvqbUYCN7gILCSIAfN.D0HIl9NyuTA07Af6P2
+ z.t23uLqAT2hSnjXSidQqAsKA82Hg6FhgU2TIFR07kajobys_mq44OzlWfz5
+ bLIHrAIzQh4pVtEK45LIcNFxPowMo8PmqvyMhOV9qS7DK21hP0uvMj308Gx.
+ fdlC1Ymp.U3ZvMfSYaGssk8JpeFPjPxU_lQDQyQQUSNSevEtIQ7B8OCZrwkF
+ weZq41ojJuFoK90r0H3QM0lpMtWQtViz8aIelemMJI423zhTe4RovBKSS0GE
+ Dr82Vg0oHOG2pw6OzdQfZjQbc9aVEQw--
+X-Received: from [1.39.15.80] by web192605.mail.sg3.yahoo.com via HTTP; Mon, 24 Aug 2015 01:19:58 SGT
+X-Mailer: YahooMailAndroidMobile/4.9.2 YahooMailWebService/0.8.203.812
+Message-ID: <1440350397.78941.YahooMailAndroidMobile@...>
+Date: Mon, 24 Aug 2015 01:19:57 +0800
+In-Reply-To: <mqqdb3+1ls8524@...>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="1060170558-419786099-1440350398=:78941"
+X-Originating-IP: 98.138.215.81
+Subject: homa.
+X-Yahoo-Group-Post: member; u=574973969; y=R83pbaiwxhqyGlY3fkpoZUQcKe2Uf3OyWDGVjV_bZpvDfEqR
+X-Yahoo-Profile: meera9969
+X-Original-From: Mira M <meera9969@...>
+Reply-To: Mira M <meera9969@...>
+X-Original-Return-Path: Mira M <meera9969@...>
+To: vedic-wisdom@yahoogroups.com
+X-Yahoo-Newman-Property: groups-system
+X-Yahoo-Newman-Id: groups-system
+X-eGroups-Approved-By: pvr108 via web; 23 Aug 2015 10:24:28 -0000
+From: Mira M <meera9969@...>
+
+
+--1060170558-419786099-1440350398=:78941
+Content-Type: multipart/alternative; boundary="1060170558-2004271560-1440350398=:78941"
+
+
+--1060170558-2004271560-1440350398=:78941
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset="UTF-8"
+
+Hello everyone,=C2=A0
+
+
+I was reading aghora kundalini book by Robert e svo=
+boda, came across one paragraph, though of sharing it with u all.
+
+
+
+
+Regar=
+ds,=C2=A0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=E2=80=A2=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0=C2=A0
+p=
+ =E2=80=A2
+.
+
+
+=EF=BF=BC
+=EF=BF=BC
+
+
+
+
+
+
+
+--1060170558-2004271560-1440350398=:78941
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="UTF-8"
+
+<table cellspacing=3D"0" cellpadding=3D"0" border=3D"0"><tr><td valign=3D"t=
+op">Hello everyone, <div id=3D"yMail_cursorElementTracker_0.1007795485=
+202223">I was reading aghora kundalini book by Robert e svoboda, came acros=
+s one paragraph, though of sharing it with u all.</div><div id=3D"yMail_cur=
+sorElementTracker_0.1007795485202223"><br></div><div id=3D"yMail_cursorElem=
+entTracker_0.1007795485202223">Regards, <br><br><table cellspacing=3D"=
+0" cellpadding=3D"0" border=3D"0"><tbody><tr><td valign=3D"top"><div style=
+=3D"font-family:Roboto, sans-serif;color:#7e7d80;" id=3D"yMail_cursorElemen=
+tTracker_0.9293293664231896"><br></div><div id=3D"ygrp-mlmsg" style=3D""><d=
+iv id=3D"ygrp-msg" style=3D""><div id=3D"ygrp-text"><div><span lang=3D"EN-U=
+S" style=3D"font-size:12.0pt;font-weight:normal;"><br></span></div><div><sp=
+an lang=3D"EN-US" style=3D"font-size:12.0pt;font-weight:normal;"><br></span=
+></div><div><span lang=3D"EN-US" style=3D"font-size:12.0pt;font-weight:norm=
+al;"><br></span></div><div><span
+ lang=3D"EN-US" style=3D"font-size:12.0pt;=
+font-weight:normal;"><br></span></div></div></div><div id=3D"ygrp-msg" styl=
+e=3D""><table cellspacing=3D"4px" style=3D"margin-top:10px;margin-bottom:10=
+px;color:#2D50FD;"><tbody><tr><td colspan=3D"1" rowspan=3D"1" style=3D"font=
+-size:12px;font-family:arial;font-weight:bold;padding:7px 5px 5px;" id=3D"y=
+Mail_cursorElementTracker_0.5557284825481474"><br></td><td colspan=3D"1" ro=
+wspan=3D"1">=E2=80=A2</td><td colspan=3D"1" rowspan=3D"1" style=3D"font-siz=
+e:12px;font-family:arial;padding:7px 5px 5px;" id=3D"yMail_cursorElementTra=
+cker_0.9991389801725745"><a rel=3D"nofollow" shape=3D"rect" ymailto=3D"mail=
+to:nitinjain29@...?subject=3DRe%3A%20Question%20on%20spiritual%20path=
+" target=3D"_blank" href=3D"javascript:return" style=3D"text-decoration:non=
+e;color:#2D50FD;" id=3D"yMail_cursorElementTracker_0.9874035802204162">&nbs=
+p;         </a>
+          </td><td colspan=3D"1" r=
+owspan=3D"1" id=3D"yMail_cursorElementTracker_0.3702871478162706"><br></td>=
+<td colspan=3D"1" rowspan=3D"1" style=3D"font-size:12px;font-family:arial;p=
+adding:7px 5px 5px;"><a rel=3D"nofollow" shape=3D"rect" ymailto=3D"mailto:v=
+edic-wisdom@yahoogroups.com?subject=3DRe%3A%20Question%20on%20spiritual%20p=
+ath" target=3D"_blank" href=3D"javascript:return" style=3D"text-decoration:=
+none;color:#2D50FD;" id=3D"yMail_cursorElementTracker_0.2313965184148401">p=
+            </a>
+          </td><td colspan=3D"1" rowspan=3D"1">=E2=80=A2</=
+td><td colspan=3D"1" rowspan=3D"1" style=3D"font-size:12px;font-family:aria=
+l;padding:7px 5px 5px;" id=3D"yMail_cursorElementTracker_0.4368717572651803=
+5"></td><td colspan=3D"1" rowspan=3D"1" id=3D"yMail_cursorElementTracker_0.=
+4929219800978899"></td><td colspan=3D"1" rowspan=3D"1" style=3D"font-size:1=
+2px;font-family:arial;padding:7px 5px 5px;color:#2D50FD;" id=3D"yMail_curso=
+rElementTracker_0.1193773893173784"><br></td></tr></tbody></table><span sty=
+le=3D"color: rgb(255, 255, 255); font-size: 1px;">.</span></div>
+</div>
+
+
+ =
+ <img src=3D"http://geo.yahoo.com/serv?s=3D97359714/grpId=3D19029015/grpspI=
+d=3D1705075991/msgId=3D10703/stime=3D1439743732" width=3D"1" height=3D"1"> =
+<br clear=3D"none">
+
+
+<img src=3D"http://y.analytics.yahoo.com/fpc.pl?ywari=
+d=3D515FB27823A7407E&a=3D10001310322279&js=3Dno&resp=3Dimg" wid=
+th=3D"1" height=3D"1">
+
+
+<div class=3D"yQTDBase yqt9319234029" id=3D"yqt118=
+72"><div style=3D"color:#fff;height:0;"></div></div>
+
+
+
+
+</td>  </tr>   </t=
+body>   </table></div></td></tr></table>
+--1060170558-2004271560-1440350398=:78941--
+
+
+--1060170558-419786099-1440350398=:78941
+Content-Type: image/jpeg; name="IMG_20150823_221624.jpg"
+Content-Disposition: attachment; filename="IMG_20150823_221624.jpg"
+
+[ Attachment content not displayed ]
+--1060170558-419786099-1440350398=:78941--
+
+

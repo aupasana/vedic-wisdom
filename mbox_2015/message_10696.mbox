@@ -1,0 +1,382 @@
+From ajithpolo@...  Wed Feb 17 11:07:48 2016
+Return-Path: <ajithpolo@...>
+X-Sender: ajithpolo@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 28126 invoked by uid 102); 13 Aug 2015 09:45:54 -0000
+X-Received: from unknown (HELO mtaq1.grp.bf1.yahoo.com) (10.193.84.32)
+  by m16.grp.bf1.yahoo.com with SMTP; 13 Aug 2015 09:45:54 -0000
+X-Received: (qmail 31181 invoked from network); 13 Aug 2015 09:45:54 -0000
+X-Received: from unknown (HELO mta1004.groups.mail.ne1.yahoo.com) (98.138.100.119)
+  by mtaq1.grp.bf1.yahoo.com with SMTP; 13 Aug 2015 09:45:54 -0000
+X-Original-Return-Path: <ajithpolo@...>
+X-Received-SPF: pass (domain of gmail.com designates 209.85.192.173 as permitted sender)
+X-YMailISG: BUG5l6QWLDsFdnO1uNzEo5kLBpqqmBKES4D3r1.iVx04AOMA
+ n5O3UtPfvdo9W4DGAZQKlUMzJy7RO4oydpUcyzws88R7XPLb5YhzepyO9Kwr
+ QCvUuVC.AgKdTwk103jPeFLg3lD6CZ0Kfjwvx.3n.NjohDhnE.F58oDDeRe0
+ 8rcoC.8ffgfbNTId0WK1qd7c0ipeezTY5voyVg4vJGrrFEJuE17OIsqOLQBp
+ 3lzIQ1yO8HFAK0dHh2U2jHGOqJUfmX0VBLEIziwwGDYhjvKqA0J0B9xOJYEs
+ j0SiEniOubuj27uBovQI4NzldOTvbRYzFMKDhDZZmvcJm3i1zdl.j6Qv.Kva
+ AhRoKuTMmAT34WJCvlx9OTNO12K5SDnyq0.0Y70PyKR5T1IsVI5EhcjK8LB_
+ 1jbMHw7gVdsWWWkSVctfGD4lWWm0mAiYZlRCLu5Ggr6rbTNOm108X3iujFgb
+ bgMxxlKduO4HZoNEzSF1kbsGx.MDUMiJuSQ6oGG5miPHFZB.URPzUs.GI_tu
+ t.qI4dMoUOuWSMN_.KQ0NDEvslTimnkJh5S4hEP5ZoYFq_Z9FTYIuY69YPNs
+ RzVLHGV.Ho9_jKPI84HdJgycWPWNIwLV15u4VuZzTJTi4A53IP0qGFFVyxIl
+ ARB.LMaT65C.lRaJr1J8ruZhP.b5nxY4NIkps71U5N0sbvdOV5a0DWO2Bbs0
+ D3t1FhBCURil2nCDxceWk4wOJOZwC4vtXwwB6uSb9ugcUlR1gyq84JMST7sQ
+ CMPv0NB4_zTe7TfpYs52V8QEGM9kZoVFmN.H5cvipVF324xoeZ1c_OL9AMAv
+ SfkCOJWpHbXkGgisyHWR2.ykP_sJNYn7hl8CoYCNsmGfDUk.svXKdvcFcXzE
+ KE7T3kFAYMR9RD36p0ydKPSR.GBHtmvvRapla2rYLlPQXagxUffWhTlehT8r
+ FCIsOHNTbxVDDG2KghQ0mEhb_W77TCxNup.U_bdEzfSvv3h8KaC0l4CXRTTp
+ 8_C4IOy9sV2ID2SKs8uHMtSzPA1iOEbIAPxpB2WV.Je3R8aS8tAHOk7me75G
+ s.f8F.g8H9ECkHSiEAsWapc2rgVJ8eXamoLRAQjB.QtwUnUnXf.szVGutbhI
+ 1AK3ekQCp6lQdmTK9WNNa84smGCD6qU3OFh4cwasP2lgyaUACaM_7gy4.nU_
+ 0TmURLa8Fpj.HKgbR3g6xYqzcYshqkWRSHIUi9lNMYmt90EMVm_256dsTGaa
+ wYKjbhX2Q57eoox50u6Ri9CkBTf2Fc0exLuffhBrEyOJW9SSBrqOwYYFtxqZ
+ DYaKRfKN1quuM8Co6VjyhexySYRcXIogaFoVF4A7muzfG6Zb4nsDX0XPX_kA
+ 0CQlb_x5wS1YxExnT7JE1jqPkpU7zzmAJFWa95929XKCKGSHJcUZwKnmYqfB
+ i2PCWwfMOES1N252eOGtMIiVce.TlloSbk4xp_tFkNKLfRzWRNTfD1NodKZP
+ hafndYjmCFnNXEAG65Ii0ZZjVFi8di5qqRrQpzO_kxJr058ffK4LT1lTryYb
+ qpZElcCe5pasLKIR5oWLe8to3hIJ7V_evx8zGOfYdaZGpIN8ca2HUr9DWHWv
+ 8QuRzJtrGVQrG46J1knqnTKCfgrgTVLzMTozUZ5s5MrjWbisbl_8Uuylqdgd
+ uZKLTAIL84P866riqLs83toozy31pRDIYSaaRow6xvNpm_YzrtVQGUhX5bm8
+ v8ZQBpK77TiXkPXgLUQkuxkNMg_9ApnLwu2Iwr1JawTR
+Authentication-Results: mta1004.groups.mail.ne1.yahoo.com  from=gmail.com; domainkeys=neutral (no sig);  from=gmail.com; dkim=pass (ok)
+X-Received: from 127.0.0.1  (EHLO mail-pd0-f173.google.com) (209.85.192.173)
+  by mta1004.groups.mail.ne1.yahoo.com with SMTPS; Thu, 13 Aug 2015 09:45:53 +0000
+X-Received: by pdbfa8 with SMTP id fa8so17404283pdb.1
+        for <vedic-wisdom@yahoogroups.com>; Thu, 13 Aug 2015 02:45:53 -0700 (PDT)
+MIME-Version: 1.0
+X-Received: by 10.70.46.161 with SMTP id w1mr77046987pdm.66.1439459152937;
+ Thu, 13 Aug 2015 02:45:52 -0700 (PDT)
+X-Received: by 10.66.1.40 with HTTP; Thu, 13 Aug 2015 02:45:52 -0700 (PDT)
+In-Reply-To: <mqdbcc+13ojg3i@...>
+References: <mqdbcc+13ojg3i@...>
+Date: Thu, 13 Aug 2015 15:15:52 +0530
+Message-ID: <CA+Fz77ouFsTX7=kCiJaLoTtKj2eLrt+4dUtoc4T+0_HVjJ=rEA@...>
+To: vedic-wisdom@yahoogroups.com
+Content-Type: multipart/alternative; boundary=047d7bfd05507ad082051d2e33d4
+X-Originating-IP: 98.138.100.119
+Subject: Re: [vedic-wisdom] A brush with death
+X-Yahoo-Group-Post: member; u=267295508; y=l9gEnWuLH47j_nIyMrlkK8Xhu54cOIa9UWTxnUvvdTsQi2Mx
+X-Yahoo-Profile: ajithpolo
+From: Ajith Srinivas <ajithpolo@...>
+
+
+--047d7bfd05507ad082051d2e33d4
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Good to know, Ashish!
+
+Please let us know what are you practicing and how l=
+ong its been in search
+of realization.
+
+
+
+Thanks and Regards,
+Ajith
+
+On Tue=
+, Aug 11, 2015 at 11:12 PM, nikhilashish@... [vedic-wisdom] <
+vedic-w=
+isdom@yahoogroups.com> wrote:
+
+>
+>
+> Foreknowledge is power. - Auguste Comt=
+e
+>
+> Mantra sadhana (mantra meditation along with several supporting ritua=
+ls)
+> enables a mind to explore other states of consciousness. While in one=
+ of
+> these states, a person can experience some sort of psychic abilities.=
+ Some
+> people get so overwhelmed by the clutter of confusing, contradictor=
+y
+> emotions that they lose the awareness of these abilities while most oth=
+ers
+> succumb to a worldly negativity and start denying any such possibilit=
+y.
+> Only a rare few, who possess the necessary clarity, can completely
+> u=
+nderstand their achievements and even they can be susceptible to the ways
+>=
+ of the rogue.
+>
+> The lure of being able to do things not many can do, tho=
+ugh misdirected at
+> times, can be a potent motivator. I used to meditate o=
+n a mantra of goddess
+> Durga for hours, pushing my limits, drawing new lin=
+es, discovering
+> something new each day. The more I practiced, the deeper =
+I could dive. In
+> the process, I dodged many venomous creatures, attracted=
+ many more and it
+> wasn't long before I could get to the larger pearls.
+>
+=
+> One morning, while meditating, I had a vision. I saw garbled phrases in a=
+
+> strange language. Later, I wrote down whatever I could recall. This
+> co=
+ntinued for many days. It looked like the source code for a computer
+> prog=
+ram in a language I did not know. With some effort, I was able to
+> recogni=
+ze and learn that programming language. I continued working on it,
+> tweake=
+d the program a bit and, some time later, made good money off of it.
+>
+> Ma=
+ny such incidents later, I once saw myself riding my motorbike on a
+> famil=
+iar road. Near a turn, I saw a girl coming from the opposite
+> direction. I=
+ was awestruck by her beauty. I even started wondering about
+> the possibil=
+ity of finding a common friend or something and meeting her so
+> that thing=
+s could move in the romantically right direction.
+>
+> That very moment, a t=
+ruck came out of nowhere and crushed me to death.
+>
+> The vision was so sho=
+ckingly realistic, it took me a while to realize that
+> I hadn't actually d=
+ied. I couldn't shake off the aftereffects of the
+> experience. The surreal=
+ pain, the idea of an abrupt ending of my
+> unaccomplished life and the wor=
+ry about my parents overwhelmed me to the
+> core. I knew, there was no way =
+to prevent it; still, I vowed never to go
+> down that road again.
+>
+> The v=
+ision continued repeating itself with a little more detail each day.
+> In a=
+ matter of day, I knew the time of the incident; the make, color and
+> numb=
+er of the truck; details about the girl's clothes and makeup; and
+> virtual=
+ly everything around. One day, the vision stopped just as suddenly
+> as it =
+had started.
+>
+> Time passed by, life took over the thoughts of death and I=
+ almost forgot
+> that vision.
+>
+> I've always believed that whatever happen=
+s, happens for a reason.
+> Something as common as fatigue, too, has to have=
+ a purpose. That was a day
+> like any other with a slight difference. I was=
+ tired, a little less
+> involved than usual in the physical world, roaming =
+the streets on my own
+> accord, I didn't realize that I had taken a wrong t=
+urn towards the
+> forbidden road. I didn't need to have a d=C3=A9j=C3=A0 vu=
+ to understand the
+> happenings around me.
+>
+> "So, this is it", I thought.=
+ In a way, I had accepted it and since I had
+> had plenty of time to prepar=
+e, I was sure of the best possible outcome.
+> Nobody can cheat death so it =
+was pointless to even try. Things hurriedly
+> moved forward the way they we=
+re supposed to and there she was exactly as I
+> had seen her in my vision.
+=
+>
+> Beauty is to be admired. Amazing beauty, like hers, can make the time s=
+low
+> down. And it did. In the distance, I could hear the roar of a powerfu=
+l
+> engine - cracking, uneven sound - approaching me at a thundering speed.=
+ I
+> could feel my skin collide with the air displaced by a voluminous obje=
+ct.
+> My heart was pounding with all its might, as if it was trying to beat=
+ as
+> many times as it would have, had it not been its time to prematurely =
+stop.
+>
+> Beauty is to die for. I took a deep breath, probably my last, and=
+ gazed
+> upon her face one last time. One must think about something very b=
+eautiful
+> in their last moments. There was something more beautiful than t=
+he girl
+> which I had ignored all along.
+>
+> Sometimes, it is good not to t=
+hink. Sometimes, it is better not to worry
+> about consequences. Sometimes,=
+ it is best not to follow rules. Sometimes,
+> it is awesome to be riding on=
+ a single lane road.
+>
+> I swerved my motorbike at an insane angle, narrowl=
+y missed a few
+> motorbikes coming from the opposite direction and barely a=
+voided hitting a
+> tree on the other side of the road. The truck also took =
+a wild turn and
+> passed right through the spot where I would've been had I=
+ not taken that
+> drastic step.
+>
+> I looked around but couldn't find the g=
+irl anywhere. Either she was a
+> figment of my imagination or the goddess h=
+ad taken that form to save the
+> most beautiful thing there - my life.
+>
+>
+=
+> 
+>
+
+--047d7bfd05507ad082051d2e33d4
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><div>Good to know, Ashish!<br><br></div>Please let us know=
+ what are you practicing and how long its been in search of realization.<br=
+><div><br><br></div></div><div class=3D"gmail_extra"><br clear=3D"all"><div=
+><div class=3D"gmail_signature"><div dir=3D"ltr"><div>Thanks and Regards,<b=
+r></div>Ajith<br></div></div></div>
+<br><div class=3D"gmail_quote">On Tue, =
+Aug 11, 2015 at 11:12 PM, <a href=3D"mailto:nikhilashish@...">nikhila=
+shish@...</a> [vedic-wisdom] <span dir=3D"ltr"><<a href=3D"mailto:=
+vedic-wisdom@yahoogroups.com" target=3D"_blank">vedic-wisdom@...=
+m</a>></span> wrote:<br><blockquote class=3D"gmail_quote" style=3D"margi=
+n:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex">
+
+
+<u></u>
+
+
+
+
+
+
+=
+
+
+
+ 
+<div style=3D"background-color:#fff">
+<span>=C2=A0</span>
+
+
+<div>
+  <d=
+iv>
+
+
+    <div>
+      
+      
+      <p><span style=3D"font-style:italic">Fo=
+reknowledge is power. - Auguste Comte</span><br><br>Mantra sadhana (mantra =
+meditation along with several supporting rituals) enables a mind to explore=
+ other states of consciousness. While in one of these states, a person can =
+experience some sort of psychic abilities. Some people get so overwhelmed b=
+y the clutter of confusing, contradictory emotions that they lose the aware=
+ness of these abilities while most others succumb to a worldly negativity a=
+nd start denying any such possibility. Only a rare few, who possess the nec=
+essary clarity, can completely understand their achievements and even they =
+can be susceptible to the ways of the rogue.<br><br>The lure of being able =
+to do things not many can do, though misdirected at times, can be a potent =
+motivator. I used to meditate on a mantra of goddess Durga for hours, pushi=
+ng my limits, drawing new lines, discovering something new each day. The mo=
+re I practiced, the deeper I could dive. In the process, I dodged many veno=
+mous creatures, attracted many more and it wasn't long before I could g=
+et to the larger pearls.<br><br>One morning, while meditating, I had a visi=
+on. I saw garbled phrases in a strange language. Later, I wrote down whatev=
+er I could recall. This continued for many days. It looked like the source =
+code for a computer program in a language I did not know. With some effort,=
+ I was able to recognize and learn that programming language. I continued w=
+orking on it, tweaked the program a bit and, some time later, made good mon=
+ey off of it.<br><br>Many such incidents later, I once saw myself riding my=
+ motorbike on a familiar road. Near a turn, I saw a girl coming from the op=
+posite direction. I was awestruck by her beauty. I even started wondering a=
+bout the possibility of finding a common friend or something and meeting he=
+r so that things could move in the romantically right direction.<br><br>Tha=
+t very moment, a truck came out of nowhere and crushed me to death.<br><br>=
+The vision was so shockingly realistic, it took me a while to realize that =
+I hadn't actually died. I couldn't shake off the aftereffects of th=
+e experience. The surreal pain, the idea of an abrupt ending of my unaccomp=
+lished life and the worry about my parents overwhelmed me to the core. I kn=
+ew, there was no way to prevent it; still, I vowed never to go down that ro=
+ad again.<br><br>The vision continued repeating itself with a little more d=
+etail each day. In a matter of day, I knew the time of the incident; the ma=
+ke, color and number of the truck; details about the girl's clothes and=
+ makeup; and virtually everything around. One day, the vision stopped just =
+as suddenly as it had started.<br><br>Time passed by, life took over the th=
+oughts of death and I almost forgot that vision.<br><br>I've always bel=
+ieved that whatever happens, happens for a reason. Something as common as f=
+atigue, too, has to have a purpose. That was a day like any other with a sl=
+ight difference. I was tired, a little less involved than usual in the phys=
+ical world, roaming the streets on my own accord, I didn't realize that=
+ I had taken a wrong turn towards the forbidden road. I didn't need to =
+have a d=C3=A9j=C3=A0 vu to understand the happenings around me.<br><br>&qu=
+ot;So, this is it", I thought. In a way, I had accepted it and since I=
+ had had plenty of time to prepare, I was sure of the best possible outcome=
+. Nobody can cheat death so it was pointless to even try. Things hurriedly =
+moved forward the way they were supposed to and there she was exactly as I =
+had seen her in my vision.<br><br>Beauty is to be admired. Amazing beauty, =
+like hers, can make the time slow down. And it did. In the distance, I coul=
+d hear the roar of a powerful engine - cracking, uneven sound - approaching=
+ me at a thundering speed. I could feel my skin collide with the air displa=
+ced by a voluminous object. My heart was pounding with all its might, as if=
+ it was trying to beat as many times as it would have, had it not been its =
+time to prematurely stop.<br><br>Beauty is to die for. I took a deep breath=
+, probably my last, and gazed upon her face one last time. One must think a=
+bout something very beautiful in their last moments. There was something mo=
+re beautiful than the girl which I had ignored all along.<br><br>Sometimes,=
+ it is good not to think. Sometimes, it is better not to worry about conseq=
+uences. Sometimes, it is best not to follow rules. Sometimes, it is awesome=
+ to be riding on a single lane road.<br><br>I swerved my motorbike at an in=
+sane angle, narrowly missed a few motorbikes coming from the opposite direc=
+tion and barely avoided hitting a tree on the other side of the road. The t=
+ruck also took a wild turn and passed right through the spot where I would&=
+#39;ve been had I not taken that drastic step.<br><br>I looked around but c=
+ouldn't find the girl anywhere. Either she was a figment of my imaginat=
+ion or the goddess had taken that form to save the most beautiful thing the=
+re - my life.</p><p><span><br></span></p><p></p>
+
+    </div>
+     
+
+    
+  =
+  <div style=3D"color:#fff;min-height:0"></div>
+
+
+</div>
+
+
+
+  
+
+
+
+
+
+
+</bloc=
+kquote></div><br></div>
+
+--047d7bfd05507ad082051d2e33d4--
+
+

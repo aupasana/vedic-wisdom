@@ -1,0 +1,88 @@
+From durgesh.mishra@...  Wed Feb 17 11:07:49 2016
+Return-Path: <durgesh.mishra@...>
+X-Sender: durgesh.mishra@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 22422 invoked by uid 102); 12 Oct 2015 09:03:02 -0000
+X-Received: from unknown (HELO mtaq4.grp.bf1.yahoo.com) (10.193.84.143)
+  by m16.grp.bf1.yahoo.com with SMTP; 12 Oct 2015 09:03:02 -0000
+X-Received: (qmail 19322 invoked from network); 12 Oct 2015 09:03:02 -0000
+X-Received: from unknown (HELO mta1002.groups.mail.bf1.yahoo.com) (98.139.170.166)
+  by mtaq4.grp.bf1.yahoo.com with SMTP; 12 Oct 2015 09:03:02 -0000
+X-Original-Return-Path: <durgesh.mishra@...>
+X-Received-SPF: pass (domain of gmail.com designates 209.85.213.174 as permitted sender)
+X-YMailISG: ZvIc0j8WLDvF8kxaV8RPmiDAcntDwklV9wgtp.MFQtfbN4z9
+ lW8bfR0MQXy5YeHwEQxk9YFl0U3qnSbVKc3l5yIZhOQP34kibPmlfSGAdDPs
+ ft8pvdQAZ3jLwDqMudeZSRtN_DkDTVDwxIOe7.mUjl4TPXPNU.zTt7JwZhBY
+ zaFfK67ggoOZNFjBrpQTWQUK.1.jqbmD2K7FR21f5AlxifKRDSbyE5Q71.om
+ Rg_h7ZuwYfdBdOeZglv3GOIIfKpCzdxIbMnOanciv1ytOoVE9vgHX_2BPGeL
+ LnpsEupltx7Dmou3g5vAKwE3QulcgJSgrqRY4VVzlwPnORV1_qbjBWGw7qNZ
+ H1qHUuHnS67Ytm31a8qlHeYklMfOAZSjzklH6YY1Z_nXRZ8VhJcFt7qiCByC
+ 9FUnPhP522yLwcyBCV2oQ_nxzavNnhkWKegiZyPkA.uPtGeq2htZN8vvEAwt
+ AVAIAdYxiTCAHz4kRJCguHLP1porbbu9tL16QWEJVznVwhYqpptZhLpkkSGW
+ yjh7MIJirTttjx6l9UthU0SyKBJ3sAQBbQjBCDofTuP0Tczl4vRKHuNPMnwM
+ _wi8GzyBuuvqeZF_RKb6gMikZD4QvUv6mu9d9Ld42TPxy1bFTviW48ZR0d7c
+ MO47_e19Z0F0M7CmZEw9iweKuLamZUiycA_FFjdBkenXrsdCHDsf.x9dvepW
+ FWMRpWx9XvXRq719Z7uEZaU7YhoRpseUD3f88Rda.2xrDfhHO5LzdowdAHnt
+ PzJeUObYvsgLlvLWK.CcQ63GLP3YTzIlsFMSlSMhjpNyv_yECVtMrpC.WMIa
+ 2BTvSDNfFh8UR5MLWC2iEnPMfBJCGO557u8XT48oJII7D8MKlzbew3G42fMr
+ Gkcm7DjeDrKL7dracavz7DchmOnIzTl4PGyIaU3vSybNWzjrolBV3krQYcfe
+ tZuLCeGcHqydPap4r2zVI6BfgwYDtyO7PBsJSgMScKrDxN9AybeBD6D5.hkT
+ Q8_OKQc7whCEZ5HMPfs6AI2yMupc6wOegWIFdZRdw3Y14W4aCtjnIfN68wxE
+ hnJWd.h4l4qJI8iRHoTuSQHdsO_vpHzdk0xNy2PolMv9DnaRlTr9jcEfMU0e
+ MxuBS0HMPHM93S9ywu1rDmuE5MQXnVJRMiLRflzXnH67qGMRQKLk.xmOAWAv
+ _c.fllKb4BDy4wPZgeXkVr5DHa1SifwNXRNP3rqv._cA1AYaGzuz_FsN4wfh
+ jWJ29n5EFxnnSN9j1a1GDA9nO0WGu8H1I8obAJJrsCpdQ2P15NzsxtLKo_Qk
+ 49.t.08uP.qK8XluSvOpWFzDYzQFFFXHu2xgSIZ5khNNAkuMXoORCdlCVEM5
+ FdZRM5hwiClnzIaXfeYjSifMXVovBS7h.d81nDbjCOAXNRWscTtkTNJcZ.90
+ CPaM_Q--
+Authentication-Results: mta1002.groups.mail.bf1.yahoo.com  from=gmail.com; domainkeys=neutral (no sig);  from=gmail.com; dkim=pass (ok)
+X-Received: from 127.0.0.1  (EHLO mail-ig0-f174.google.com) (209.85.213.174)
+  by mta1002.groups.mail.bf1.yahoo.com with SMTPS; Mon, 12 Oct 2015 09:03:02 +0000
+X-Received: by igbkq10 with SMTP id kq10so68606613igb.0
+        for <vedic-wisdom@yahoogroups.com>; Mon, 12 Oct 2015 02:03:02 -0700 (PDT)
+MIME-Version: 1.0
+X-Received: by 10.50.23.80 with SMTP id k16mr10792871igf.62.1444640582285;
+ Mon, 12 Oct 2015 02:03:02 -0700 (PDT)
+X-Received: by 10.36.203.70 with HTTP; Mon, 12 Oct 2015 02:03:02 -0700 (PDT)
+Date: Mon, 12 Oct 2015 14:33:02 +0530
+Message-ID: <CAJ9joEZAp-Feh277Zthsorm-eqWTCX0NpFBYWwcZEgMFd0K_1Q@...>
+To: vedic-wisdom@yahoogroups.com
+Content-Type: multipart/alternative; boundary=089e01538ca0bc6bf30521e49850
+X-Originating-IP: 98.139.170.166
+Subject: satyanarayan puja during navratra
+X-Yahoo-Group-Post: member; u=550723118; y=NCgtdwUgjev-v0vziAYIQ6XrVwxgV24-VxIXoToKW5urdVIT2dnfzc9r
+X-Yahoo-Profile: durgesh_for_you
+From: Durgesh Mishra <durgesh.mishra@...>
+
+
+--089e01538ca0bc6bf30521e49850
+Content-Type: text/plain; charset=UTF-8
+
+Namaste Respected Gurujan,
+
+I consistently perform satyanarayan puja and vishnu sahasranam homam on
+every month at sankranti. This time sankranti will on 18th Oct i.e. during
+navratra.
+
+I keep fast during 9 days.
+
+Is it advisable to perform the satyanarayan vrat and puja during this time?
+
+Regards
+Durgesh O Mishra
+
+--089e01538ca0bc6bf30521e49850
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Namaste Respected Gurujan,
+<div><br></div><div>I consisten=
+tly perform satyanarayan puja and vishnu sahasranam homam on every month at=
+ sankranti. This time sankranti will on 18th Oct i.e. during navratra.</div=
+><div><br></div><div>I keep fast during 9 days.</div><div><br></div><div>Is=
+ it advisable to perform the satyanarayan vrat and puja during this time?</=
+div><div><br></div><div>Regards</div><div>Durgesh O Mishra</div></div>
+
+--089e01538ca0bc6bf30521e49850--
+
+

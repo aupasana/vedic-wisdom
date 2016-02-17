@@ -1,0 +1,638 @@
+From philstinnet@...  Wed Feb 17 11:07:48 2016
+Return-Path: <philstinnet@...>
+X-Sender: philstinnet@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 30598 invoked by uid 102); 11 Aug 2015 17:58:02 -0000
+X-Received: from unknown (HELO mtaq6.grp.bf1.yahoo.com) (10.193.84.37)
+  by m1.grp.bf1.yahoo.com with SMTP; 11 Aug 2015 17:58:02 -0000
+X-Received: (qmail 31353 invoked from network); 11 Aug 2015 17:58:02 -0000
+X-Received: from unknown (HELO mta1006.groups.mail.bf1.yahoo.com) (98.139.245.165)
+  by mtaq6.grp.bf1.yahoo.com with SMTP; 11 Aug 2015 17:58:02 -0000
+X-Original-Return-Path: <philstinnet@...>
+X-Received-SPF: pass (domain of yahoo.com designates 216.109.114.207 as permitted sender)
+X-YMailISG: ggUTmnAWLDtbRXxkip9Dr66.BdUXNqX0v0Ov9HhN4iZ99pzd
+ wJjcrLg4EKWmsti7h8hD6KChx._wHE4CA5Pc9mQfXorYPDWXo4hSZwoMH07H
+ fIxOfOEDPNPchmeyQ1PDJ7ckHbEwGYXxGKm4VzsyQ9xHabJ.HMfIs4lRCUhA
+ 93k1DecKhoBXcIPfzSj5rcIW4IEq1flaSATD_7giKI9Ir.hhDeuNGYCwLob0
+ zMLBErnNVJeBdW_Kxmi6LArFJT8LGMBAZbCzPbBfRPpra2cF5mA1vWEPcjMv
+ 5198HY3sCk_fKVcf_ANL7exUL1nBh3AV4EMHy7e52eVp5yIuR1UAzfChSXL8
+ iKEAjTTsRNGDETkC9mGJ9aIW30uBIiFrkg3BBlgHCaHHD5DuVkOZtymbH18W
+ h86F_loAfRhbBQkBoUvbmez_eRwBSBt.8LOaZo5gomvNQAUeMI3FY20LTrcZ
+ JxQ79wT.pimFQj9UkFBPc0gqrDu35aPZQmqJtojcDBVuQ8XESUm0lxOZN4gs
+ ndvwe8R3FZp5MtxOQJDiKdQznR1oIV4hh3hy3edxh6UwWAaPilnWZwBVRB3U
+ 3JSHJ6BABJ0j23XGIh0s1HEKZzw3UE2u4wL.5D53ZH7aLMKlMQm7.SMDtVGn
+ pPGWBavwaHMEVqxOnbqcbdwMARwPX7G8j54pf3WuYlljh7IG14UtrDSisdCe
+ GR6VhYELC5oxZP5j38q5HwkrFvWbNuSRHO3SGPX0O1advkARz_I7gS2lJQ9d
+ LYepeTrAjI3yS8TxDSgroT_JAVP7aVsDaXFITdJJvip4f3lJT4wIV.15U5I.
+ cGU9.kVS7SFF9BVMvxHOO_.A.8SJH0oRopDYc1cFT_WP8jPgZzkvICrI56MR
+ aD432y_ohqjwTzQ2ds_oqgdxh1kcxBKzlYT4j.opti5dgI0y5rFAkmNIqzMf
+ P0le1n5vEU8dIAW.gTNzQKJEQHEmEP6d2hpU_fRMWr75muQTXKsQ6UfiOjsk
+ 7ddcMaaiIRwh4AKJPY7TkkaVE17zwgqKiNaN3CpyiEcF1sto8rP9TL03aBr7
+ H1rQNhLvA46UCqcihwV4rb_P4ArtmCUdBosMg6uQnQQlIiHWhl2_ZnWFVxT0
+ o1eR4vw.oJ54.Zneb4JD0SZBMyB9s7qeZVt9.HBNv.hpbNZsx657kGhVHxvA
+ tQdUQKOm.vOBDF3OcpikNjxhGTPLZFOsyVmboSR5tf97_iYRiK4Z_JV26k6B
+ UrO9aRV6ncxSJn_PbF60iKT5t4wmDtpylQC76SAOtFX3NUzb9kH1CfKu7Pwt
+ tpa8lJW7CKiQYUINOXSgkOulG7KBWdLQp18p9x0cbMBOYQJBfJbIgR_4NSk_
+ GYmod4apkYCgiNc53dLWOj2lLTJ_G7FxOTbrCqng2NP_CoNNGYW24Zw1kUMT
+ RMW30TP_Wjg0C9RTuUu_I1U9ApxUKfgyHLVw8AllWRMoUZtW5MBal6xSDU7A
+ 8cv6Hgsrc298MFOi5RYX0qvr8OrZgXjjb7VIYvuaaEps2tum4mgSikfW8EHr
+ VLFRgqTJPWJzp3MyZTHOvkE49z1VQva3XFoEFykGWSrtRjg0pbA7whfz_gK1
+ OWN0QrpMI58E7A--
+Authentication-Results: mta1006.groups.mail.bf1.yahoo.com  from=yahoo.com; domainkeys=neutral (no sig);  from=yahoo.com; dkim=pass (ok)
+X-Received: from 127.0.0.1  (EHLO nm42-vm8.bullet.mail.bf1.yahoo.com) (216.109.114.207)
+  by mta1006.groups.mail.bf1.yahoo.com with SMTPS; Tue, 11 Aug 2015 17:58:01 +0000
+X-Received: from [66.196.81.171] by nm42.bullet.mail.bf1.yahoo.com with NNFMP; 11 Aug 2015 17:58:01 -0000
+X-Received: from [98.139.212.238] by tm17.bullet.mail.bf1.yahoo.com with NNFMP; 11 Aug 2015 17:58:01 -0000
+X-Received: from [127.0.0.1] by omp1047.mail.bf1.yahoo.com with NNFMP; 11 Aug 2015 17:58:01 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 684897.17378.bm@...
+X-YMail-OSG: gVuielkVM1kFwXPFx13bPf_YWXMek6TToYLunZZE305b5LALNOLOdX61vshIAOi
+ 5Qrsl8Y30iE5HXbG1EVY5BEc_I2BhPW.vp3g6NY8BEp6fw.MuEsdrBEfgFaCL9_Sl4pLC55HXslT
+ LL_4YhpfkN5HFBEmNZoPig958R_na3kdlrHnC8JoiQfgx1kfxkfg84x3ZK4ZRq.k1qqocD7J1N40
+ FG.h7cyKB901upj807iVmyq_at0khM3yhaXqYCbEtm8wPcPX1mVYjJ.TUcXGcrPDslx2zpUfdiuq
+ Uje3nnhcsSgeVFlETYGRsq3smg_BL_ShNvW.YoD7Zh9LivIBVxW7wSVEZVe_DutksjvkJMZo6hNy
+ 5ReezKzy0dGcI1il0NrbFCwggLIpnDlqkRm36jf8FyAyDdTUZcRShT_moPgvLSRHVJ2t6Df_5PMC
+ r8pZkS9DzKH2IzJHvN0bkB61eOAA642gmhBY1LoP6UA0lZnuU4qWAitsfFHnaZ.AVclbKDaodg22
+ led5dbqfAqWV1ETeVgAVz5yqJC6ggQw--
+X-Received: by 76.13.27.196; Tue, 11 Aug 2015 17:58:01 +0000 
+Date: Tue, 11 Aug 2015 17:57:57 +0000 (UTC)
+To: "vedic-wisdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com>
+Message-ID: <363555594.2787606.1439315878286.JavaMail.yahoo@...>
+In-Reply-To: <mqdbcc+13ojg3i@...>
+References: <mqdbcc+13ojg3i@...>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_2787605_400890886.1439315878278"
+Content-Length: 31616
+X-Originating-IP: 98.139.245.165
+Reply-To: Phil Stinnet <philstinnet@...>
+Subject: Re: [vedic-wisdom] A brush with death
+X-Yahoo-Group-Post: member; u=521812586; y=WwSyipxxwgR5K4uKdmL8giW_rw2AfmVBCbnJsC1BzaVGw4OZJeA
+X-Yahoo-Profile: philstinnet
+From: Phil Stinnet <philstinnet@...>
+
+
+------=_Part_2787605_400890886.1439315878278
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Very touching....
+Is it a real incident or just a fictional story?
+In any c=
+ase, very touching... 
+
+
+     On Tuesday, August 11, 2015 10:42 AM, "nikhil=
+ashish@... [vedic-wisdom]" <vedic-wisdom@yahoogroups.com> wrote:
+   
+=
+
+ =C2=A0   Foreknowledge is power. - Auguste Comte
+
+Mantra sadhana (mantra =
+meditation along with several supporting rituals) enables a mind to explore=
+ other states of consciousness. While in one of these states, a person can =
+experience some sort of psychic abilities. Some people get so overwhelmed b=
+y the clutter of confusing, contradictory emotions that they lose the aware=
+ness of these abilities while most others succumb to a worldly negativity a=
+nd start denying any such possibility. Only a rare few, who possess the nec=
+essary clarity, can completely understand their achievements and even they =
+can be susceptible to the ways of the rogue.
+
+The lure of being able to do =
+things not many can do, though misdirected at times, can be a potent motiva=
+tor. I used to meditate on a mantra of goddess Durga for hours, pushing my =
+limits, drawing new lines, discovering something new each day. The more I p=
+racticed, the deeper I could dive. In the process, I dodged many venomous c=
+reatures, attracted many more and it wasn't long before I could get to the =
+larger pearls.
+
+One morning, while meditating, I had a vision. I saw garble=
+d phrases in a strange language. Later, I wrote down whatever I could recal=
+l. This continued for many days. It looked like the source code for a compu=
+ter program in a language I did not know. With some effort, I was able to r=
+ecognize and learn that programming language. I continued working on it, tw=
+eaked the program a bit and, some time later, made good money off of it.
+
+M=
+any such incidents later, I once saw myself riding my motorbike on a famili=
+ar road. Near a turn, I saw a girl coming from the opposite direction. I wa=
+s awestruck by her beauty. I even started wondering about the possibility o=
+f finding a common friend or something and meeting her so that things could=
+ move in the romantically right direction.
+
+That very moment, a truck came =
+out of nowhere and crushed me to death.
+
+The vision was so shockingly reali=
+stic, it took me a while to realize that I hadn't actually died. I couldn't=
+ shake off the aftereffects of the experience. The surreal pain, the idea o=
+f an abrupt ending of my unaccomplished life and the worry about my parents=
+ overwhelmed me to the core. I knew, there was no way to prevent it; still,=
+ I vowed never to go down that road again.
+
+The vision continued repeating =
+itself with a little more detail each day. In a matter of day, I knew the t=
+ime of the incident; the make, color and number of the truck; details about=
+ the girl's clothes and makeup; and virtually everything around. One day, t=
+he vision stopped just as suddenly as it had started.
+
+Time passed by, life=
+ took over the thoughts of death and I almost forgot that vision.
+
+I've alw=
+ays believed that whatever happens, happens for a reason. Something as comm=
+on as fatigue, too, has to have a purpose. That was a day like any other wi=
+th a slight difference. I was tired, a little less involved than usual in t=
+he physical world, roaming the streets on my own accord, I didn't realize t=
+hat I had taken a wrong turn towards the forbidden road. I didn't need to h=
+ave a d=C3=A9j=C3=A0 vu to understand the happenings around me.
+
+"So, this =
+is it", I thought. In a way, I had accepted it and since I had had plenty o=
+f time to prepare, I was sure of the best possible outcome. Nobody can chea=
+t death so it was pointless to even try. Things hurriedly moved forward the=
+ way they were supposed to and there she was exactly as I had seen her in m=
+y vision.
+
+Beauty is to be admired. Amazing beauty, like hers, can make the=
+ time slow down. And it did. In the distance, I could hear the roar of a po=
+werful engine - cracking, uneven sound - approaching me at a thundering spe=
+ed. I could feel my skin collide with the air displaced by a voluminous obj=
+ect. My heart was pounding with all its might, as if it was trying to beat =
+as many times as it would have, had it not been its time to prematurely sto=
+p.
+
+Beauty is to die for. I took a deep breath, probably my last, and gazed=
+ upon her face one last time. One must think about something very beautiful=
+ in their last moments. There was something more beautiful than the girl wh=
+ich I had ignored all along.
+
+Sometimes, it is good not to think. Sometimes=
+, it is better not to worry about consequences. Sometimes, it is best not t=
+o follow rules. Sometimes, it is awesome to be riding on a single lane road=
+.
+
+I swerved my motorbike at an insane angle, narrowly missed a few motorbi=
+kes coming from the opposite direction and barely avoided hitting a tree on=
+ the other side of the road. The truck also took a wild turn and passed rig=
+ht through the spot where I would've been had I not taken that drastic step=
+.
+
+I looked around but couldn't find the girl anywhere. Either she was a fi=
+gment of my imagination or the goddess had taken that form to save the most=
+ beautiful thing there - my life.
+  #yiv1066365958 #yiv1066365958 -- #yiv10=
+66365958ygrp-mkp {border:1px solid #d8d8d8;font-family:Arial;margin:10px 0;=
+padding:0 10px;}#yiv1066365958 #yiv1066365958ygrp-mkp hr {border:1px solid =
+#d8d8d8;}#yiv1066365958 #yiv1066365958ygrp-mkp #yiv1066365958hd {color:#628=
+c2a;font-size:85%;font-weight:700;line-height:122%;margin:10px 0;}#yiv10663=
+65958 #yiv1066365958ygrp-mkp #yiv1066365958ads {margin-bottom:10px;}#yiv106=
+6365958 #yiv1066365958ygrp-mkp .yiv1066365958ad {padding:0 0;}#yiv106636595=
+8 #yiv1066365958ygrp-mkp .yiv1066365958ad p {margin:0;}#yiv1066365958 #yiv1=
+066365958ygrp-mkp .yiv1066365958ad a {color:#0000ff;text-decoration:none;}#=
+yiv1066365958 #yiv1066365958ygrp-sponsor #yiv1066365958ygrp-lc {font-family=
+:Arial;}#yiv1066365958 #yiv1066365958ygrp-sponsor #yiv1066365958ygrp-lc #yi=
+v1066365958hd {margin:10px 0px;font-weight:700;font-size:78%;line-height:12=
+2%;}#yiv1066365958 #yiv1066365958ygrp-sponsor #yiv1066365958ygrp-lc .yiv106=
+6365958ad {margin-bottom:10px;padding:0 0;}#yiv1066365958 #yiv1066365958act=
+ions {font-family:Verdana;font-size:11px;padding:10px 0;}#yiv1066365958 #yi=
+v1066365958activity {background-color:#e0ecee;float:left;font-family:Verdan=
+a;font-size:10px;padding:10px;}#yiv1066365958 #yiv1066365958activity span {=
+font-weight:700;}#yiv1066365958 #yiv1066365958activity span:first-child {te=
+xt-transform:uppercase;}#yiv1066365958 #yiv1066365958activity span a {color=
+:#5085b6;text-decoration:none;}#yiv1066365958 #yiv1066365958activity span s=
+pan {color:#ff7900;}#yiv1066365958 #yiv1066365958activity span .yiv10663659=
+58underline {text-decoration:underline;}#yiv1066365958 .yiv1066365958attach=
+ {clear:both;display:table;font-family:Arial;font-size:12px;padding:10px 0;=
+width:400px;}#yiv1066365958 .yiv1066365958attach div a {text-decoration:non=
+e;}#yiv1066365958 .yiv1066365958attach img {border:none;padding-right:5px;}=
+#yiv1066365958 .yiv1066365958attach label {display:block;margin-bottom:5px;=
+}#yiv1066365958 .yiv1066365958attach label a {text-decoration:none;}#yiv106=
+6365958 blockquote {margin:0 0 0 4px;}#yiv1066365958 .yiv1066365958bold {fo=
+nt-family:Arial;font-size:13px;font-weight:700;}#yiv1066365958 .yiv10663659=
+58bold a {text-decoration:none;}#yiv1066365958 dd.yiv1066365958last p a {fo=
+nt-family:Verdana;font-weight:700;}#yiv1066365958 dd.yiv1066365958last p sp=
+an {margin-right:10px;font-family:Verdana;font-weight:700;}#yiv1066365958 d=
+d.yiv1066365958last p span.yiv1066365958yshortcuts {margin-right:0;}#yiv106=
+6365958 div.yiv1066365958attach-table div div a {text-decoration:none;}#yiv=
+1066365958 div.yiv1066365958attach-table {width:400px;}#yiv1066365958 div.y=
+iv1066365958file-title a, #yiv1066365958 div.yiv1066365958file-title a:acti=
+ve, #yiv1066365958 div.yiv1066365958file-title a:hover, #yiv1066365958 div.=
+yiv1066365958file-title a:visited {text-decoration:none;}#yiv1066365958 div=
+.yiv1066365958photo-title a, #yiv1066365958 div.yiv1066365958photo-title a:=
+active, #yiv1066365958 div.yiv1066365958photo-title a:hover, #yiv1066365958=
+ div.yiv1066365958photo-title a:visited {text-decoration:none;}#yiv10663659=
+58 div#yiv1066365958ygrp-mlmsg #yiv1066365958ygrp-msg p a span.yiv106636595=
+8yshortcuts {font-family:Verdana;font-size:10px;font-weight:normal;}#yiv106=
+6365958 .yiv1066365958green {color:#628c2a;}#yiv1066365958 .yiv1066365958Ms=
+oNormal {margin:0 0 0 0;}#yiv1066365958 o {font-size:0;}#yiv1066365958 #yiv=
+1066365958photos div {float:left;width:72px;}#yiv1066365958 #yiv1066365958p=
+hotos div div {border:1px solid #666666;height:62px;overflow:hidden;width:6=
+2px;}#yiv1066365958 #yiv1066365958photos div label {color:#666666;font-size=
+:10px;overflow:hidden;text-align:center;white-space:nowrap;width:64px;}#yiv=
+1066365958 #yiv1066365958reco-category {font-size:77%;}#yiv1066365958 #yiv1=
+066365958reco-desc {font-size:77%;}#yiv1066365958 .yiv1066365958replbq {mar=
+gin:4px;}#yiv1066365958 #yiv1066365958ygrp-actbar div a:first-child {margin=
+-right:2px;padding-right:5px;}#yiv1066365958 #yiv1066365958ygrp-mlmsg {font=
+-size:13px;font-family:Arial, helvetica, clean, sans-serif;}#yiv1066365958 =
+#yiv1066365958ygrp-mlmsg table {font-size:inherit;font:100%;}#yiv1066365958=
+ #yiv1066365958ygrp-mlmsg select, #yiv1066365958 input, #yiv1066365958 text=
+area {font:99% Arial, Helvetica, clean, sans-serif;}#yiv1066365958 #yiv1066=
+365958ygrp-mlmsg pre, #yiv1066365958 code {font:115% monospace;}#yiv1066365=
+958 #yiv1066365958ygrp-mlmsg * {line-height:1.22em;}#yiv1066365958 #yiv1066=
+365958ygrp-mlmsg #yiv1066365958logo {padding-bottom:10px;}#yiv1066365958 #y=
+iv1066365958ygrp-msg p a {font-family:Verdana;}#yiv1066365958 #yiv106636595=
+8ygrp-msg p#yiv1066365958attach-count span {color:#1E66AE;font-weight:700;}=
+#yiv1066365958 #yiv1066365958ygrp-reco #yiv1066365958reco-head {color:#ff79=
+00;font-weight:700;}#yiv1066365958 #yiv1066365958ygrp-reco {margin-bottom:2=
+0px;padding:0px;}#yiv1066365958 #yiv1066365958ygrp-sponsor #yiv1066365958ov=
+ li a {font-size:130%;text-decoration:none;}#yiv1066365958 #yiv1066365958yg=
+rp-sponsor #yiv1066365958ov li {font-size:77%;list-style-type:square;paddin=
+g:6px 0;}#yiv1066365958 #yiv1066365958ygrp-sponsor #yiv1066365958ov ul {mar=
+gin:0;padding:0 0 0 8px;}#yiv1066365958 #yiv1066365958ygrp-text {font-famil=
+y:Georgia;}#yiv1066365958 #yiv1066365958ygrp-text p {margin:0 0 1em 0;}#yiv=
+1066365958 #yiv1066365958ygrp-text tt {font-size:120%;}#yiv1066365958 #yiv1=
+066365958ygrp-vital ul li:last-child {border-right:none !important;}#yiv106=
+6365958 
+
+  
+------=_Part_2787605_400890886.1439315878278
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"color:#000; background-color:#fff; font-family:ve=
+rdana, helvetica, sans-serif;font-size:16px"><div id=3D"yui_3_16_0_1_143931=
+5834880_4331"><span>Very touching....</span></div><div id=3D"yui_3_16_0_1_1=
+439315834880_4332"><span></span><br></div><div id=3D"yui_3_16_0_1_143931583=
+4880_4341"><span id=3D"yui_3_16_0_1_1439315834880_4340">Is it a real incide=
+nt or just a fictional story?</span></div><div id=3D"yui_3_16_0_1_143931583=
+4880_4339"><span></span><br></div><div id=3D"yui_3_16_0_1_1439315834880_433=
+8"><span id=3D"yui_3_16_0_1_1439315834880_4337">In any case, very touching.=
+..</span></div>  <br><div class=3D"qtdSeparateBR"><br><br></div><div class=
+=3D"yahoo_quoted" style=3D"display: block;"> <div style=3D"font-family: ver=
+dana, helvetica, sans-serif; font-size: 16px;"> <div style=3D"font-family: =
+HelveticaNeue, Helvetica Neue, Helvetica, Arial, Lucida Grande, sans-serif;=
+ font-size: 16px;"> <div dir=3D"ltr"> <font face=3D"Arial" size=3D"2"> On T=
+uesday, August 11, 2015 10:42 AM, "nikhilashish@... [vedic-wisdom]" &=
+lt;vedic-wisdom@yahoogroups.com> wrote:<br> </font> </div>  <br><br> <di=
+v class=3D"y_msg_container"><div id=3D"yiv1066365958"><div>
+<span style=3D"=
+display: none;"> </span>
+
+
+<div id=3D"yiv1066365958ygrp-mlmsg">
+  <div=
+ id=3D"yiv1066365958ygrp-msg">
+
+
+    <div id=3D"yiv1066365958ygrp-text">
+  =
+    
+      
+      <div><span style=3D"font-style: italic;">Foreknowledge is=
+ power. - Auguste Comte</span><br clear=3D"none"><br clear=3D"none">Mantra =
+sadhana (mantra meditation along with several supporting rituals) enables a=
+ mind to explore other states of consciousness. While in one of these state=
+s, a person can experience some sort of psychic abilities. Some people get =
+so overwhelmed by the clutter of confusing, contradictory emotions that the=
+y lose the awareness of these abilities while most others succumb to a worl=
+dly negativity and start denying any such possibility. Only a rare few, who=
+ possess the necessary clarity, can completely understand their achievement=
+s and even they can be susceptible to the ways of the rogue.<br clear=3D"no=
+ne"><br clear=3D"none">The lure of being able to do things not many can do,=
+ though misdirected at times, can be a potent motivator. I used to meditate=
+ on a mantra of goddess Durga for hours, pushing my limits, drawing new lin=
+es, discovering something new each day. The more I practiced, the deeper I =
+could dive. In the process, I dodged many venomous creatures, attracted man=
+y more and it wasn't long before I could get to the larger pearls.<br clear=
+=3D"none"><br clear=3D"none">One morning, while meditating, I had a vision.=
+ I saw garbled phrases in a strange language. Later, I wrote down whatever =
+I could recall. This continued for many days. It looked like the source cod=
+e for a computer program in a language I did not know. With some effort, I =
+was able to recognize and learn that programming language. I continued work=
+ing on it, tweaked the program a bit and, some time later, made good money =
+off of it.<br clear=3D"none"><br clear=3D"none">Many such incidents later, =
+I once saw myself riding my motorbike on a familiar road. Near a turn, I sa=
+w a girl coming from the opposite direction. I was awestruck by her beauty.=
+ I even started wondering about the possibility of finding a common friend =
+or something and meeting her so that things could move in the romantically =
+right direction.<br clear=3D"none"><br clear=3D"none">That very moment, a t=
+ruck came out of nowhere and crushed me to death.<br clear=3D"none"><br cle=
+ar=3D"none">The vision was so shockingly realistic, it took me a while to r=
+ealize that I hadn't actually died. I couldn't shake off the aftereffects o=
+f the experience. The surreal pain, the idea of an abrupt ending of my unac=
+complished life and the worry about my parents overwhelmed me to the core. =
+I knew, there was no way to prevent it; still, I vowed never to go down tha=
+t road again.<br clear=3D"none"><br clear=3D"none">The vision continued rep=
+eating itself with a little more detail each day. In a matter of day, I kne=
+w the time of the incident; the make, color and number of the truck; detail=
+s about the girl's clothes and makeup; and virtually everything around. One=
+ day, the vision stopped just as suddenly as it had started.<br clear=3D"no=
+ne"><br clear=3D"none">Time passed by, life took over the thoughts of death=
+ and I almost forgot that vision.<br clear=3D"none"><br clear=3D"none">I've=
+ always believed that whatever happens, happens for a reason. Something as =
+common as fatigue, too, has to have a purpose. That was a day like any othe=
+r with a slight difference. I was tired, a little less involved than usual =
+in the physical world, roaming the streets on my own accord, I didn't reali=
+ze that I had taken a wrong turn towards the forbidden road. I didn't need =
+to have a d=C3=A9j=C3=A0 vu to understand the happenings around me.<br clea=
+r=3D"none"><br clear=3D"none">"So, this is it", I thought. In a way, I had =
+accepted it and since I had had plenty of time to prepare, I was sure of th=
+e best possible outcome. Nobody can cheat death so it was pointless to even=
+ try. Things hurriedly moved forward the way they were supposed to and ther=
+e she was exactly as I had seen her in my vision.<br clear=3D"none"><br cle=
+ar=3D"none">Beauty is to be admired. Amazing beauty, like hers, can make th=
+e time slow down. And it did. In the distance, I could hear the roar of a p=
+owerful engine - cracking, uneven sound - approaching me at a thundering sp=
+eed. I could feel my skin collide with the air displaced by a voluminous ob=
+ject. My heart was pounding with all its might, as if it was trying to beat=
+ as many times as it would have, had it not been its time to prematurely st=
+op.<br clear=3D"none"><br clear=3D"none">Beauty is to die for. I took a dee=
+p breath, probably my last, and gazed upon her face one last time. One must=
+ think about something very beautiful in their last moments. There was some=
+thing more beautiful than the girl which I had ignored all along.<br clear=
+=3D"none"><br clear=3D"none">Sometimes, it is good not to think. Sometimes,=
+ it is better not to worry about consequences. Sometimes, it is best not to=
+ follow rules. Sometimes, it is awesome to be riding on a single lane road.=
+<br clear=3D"none"><br clear=3D"none">I swerved my motorbike at an insane a=
+ngle, narrowly missed a few motorbikes coming from the opposite direction a=
+nd barely avoided hitting a tree on the other side of the road. The truck a=
+lso took a wild turn and passed right through the spot where I would've bee=
+n had I not taken that drastic step.<br clear=3D"none"><br clear=3D"none">I=
+ looked around but couldn't find the girl anywhere. Either she was a figmen=
+t of my imagination or the goddess had taken that form to save the most bea=
+utiful thing there - my life.</div><div><span><br class=3D"yiv1066365958yui=
+-cursor" clear=3D"none"></span></div>
+
+    </div>
+     
+
+    
+    <div styl=
+e=3D"height: 0px; color: rgb(255, 255, 255);"></div></div>
+
+
+</div><style t=
+ype=3D"text/css">
+#yiv1066365958 #yiv1066365958 --
+  #yiv1066365958ygrp-mkp=
+ {
+border:1px solid #d8d8d8;font-family:Arial;margin:10px 0;padding:0 10px;=
+}
+
+#yiv1066365958 #yiv1066365958ygrp-mkp hr {
+border:1px solid #d8d8d8;}
+
+#=
+yiv1066365958 #yiv1066365958ygrp-mkp #yiv1066365958hd {
+color:#628c2a;font-=
+size:85%;font-weight:700;line-height:122%;margin:10px 0;}
+
+#yiv1066365958 #=
+yiv1066365958ygrp-mkp #yiv1066365958ads {
+margin-bottom:10px;}
+
+#yiv1066365=
+958 #yiv1066365958ygrp-mkp .yiv1066365958ad {
+padding:0 0;}
+
+#yiv1066365958=
+ #yiv1066365958ygrp-mkp .yiv1066365958ad p {
+margin:0;}
+
+#yiv1066365958 #yi=
+v1066365958ygrp-mkp .yiv1066365958ad a {
+color:#0000ff;text-decoration:none=
+;}
+#yiv1066365958 #yiv1066365958ygrp-sponsor #yiv1066365958ygrp-lc {
+font-f=
+amily:Arial;}
+
+#yiv1066365958 #yiv1066365958ygrp-sponsor #yiv1066365958ygrp=
+-lc #yiv1066365958hd {
+margin:10px 0px;font-weight:700;font-size:78%;line-h=
+eight:122%;}
+
+#yiv1066365958 #yiv1066365958ygrp-sponsor #yiv1066365958ygrp-=
+lc .yiv1066365958ad {
+margin-bottom:10px;padding:0 0;}
+
+#yiv1066365958 #yiv=
+1066365958actions {
+font-family:Verdana;font-size:11px;padding:10px 0;}
+
+#y=
+iv1066365958 #yiv1066365958activity {
+background-color:#e0ecee;float:left;f=
+ont-family:Verdana;font-size:10px;padding:10px;}
+
+#yiv1066365958 #yiv106636=
+5958activity span {
+font-weight:700;}
+
+#yiv1066365958 #yiv1066365958activit=
+y span:first-child {
+text-transform:uppercase;}
+
+#yiv1066365958 #yiv1066365=
+958activity span a {
+color:#5085b6;text-decoration:none;}
+
+#yiv1066365958 #=
+yiv1066365958activity span span {
+color:#ff7900;}
+
+#yiv1066365958 #yiv10663=
+65958activity span .yiv1066365958underline {
+text-decoration:underline;}
+
+#=
+yiv1066365958 .yiv1066365958attach {
+clear:both;display:table;font-family:A=
+rial;font-size:12px;padding:10px 0;width:400px;}
+
+#yiv1066365958 .yiv106636=
+5958attach div a {
+text-decoration:none;}
+
+#yiv1066365958 .yiv1066365958att=
+ach img {
+border:none;padding-right:5px;}
+
+#yiv1066365958 .yiv1066365958att=
+ach label {
+display:block;margin-bottom:5px;}
+
+#yiv1066365958 .yiv106636595=
+8attach label a {
+text-decoration:none;}
+
+#yiv1066365958 blockquote {
+margi=
+n:0 0 0 4px;}
+
+#yiv1066365958 .yiv1066365958bold {
+font-family:Arial;font-s=
+ize:13px;font-weight:700;}
+
+#yiv1066365958 .yiv1066365958bold a {
+text-deco=
+ration:none;}
+
+#yiv1066365958 dd.yiv1066365958last p a {
+font-family:Verdan=
+a;font-weight:700;}
+
+#yiv1066365958 dd.yiv1066365958last p span {
+margin-ri=
+ght:10px;font-family:Verdana;font-weight:700;}
+
+#yiv1066365958 dd.yiv106636=
+5958last p span.yiv1066365958yshortcuts {
+margin-right:0;}
+
+#yiv1066365958 =
+div.yiv1066365958attach-table div div a {
+text-decoration:none;}
+
+#yiv10663=
+65958 div.yiv1066365958attach-table {
+width:400px;}
+
+#yiv1066365958 div.yiv=
+1066365958file-title a, #yiv1066365958 div.yiv1066365958file-title a:active=
+, #yiv1066365958 div.yiv1066365958file-title a:hover, #yiv1066365958 div.yi=
+v1066365958file-title a:visited {
+text-decoration:none;}
+
+#yiv1066365958 di=
+v.yiv1066365958photo-title a, #yiv1066365958 div.yiv1066365958photo-title a=
+:active, #yiv1066365958 div.yiv1066365958photo-title a:hover, #yiv106636595=
+8 div.yiv1066365958photo-title a:visited {
+text-decoration:none;}
+
+#yiv1066=
+365958 div#yiv1066365958ygrp-mlmsg #yiv1066365958ygrp-msg p a span.yiv10663=
+65958yshortcuts {
+font-family:Verdana;font-size:10px;font-weight:normal;}
+
+=
+#yiv1066365958 .yiv1066365958green {
+color:#628c2a;}
+
+#yiv1066365958 .yiv10=
+66365958MsoNormal {
+margin:0 0 0 0;}
+
+#yiv1066365958 o {
+font-size:0;}
+
+#yi=
+v1066365958 #yiv1066365958photos div {
+float:left;width:72px;}
+
+#yiv1066365=
+958 #yiv1066365958photos div div {
+border:1px solid #666666;height:62px;ove=
+rflow:hidden;width:62px;}
+
+#yiv1066365958 #yiv1066365958photos div label {
+=
+color:#666666;font-size:10px;overflow:hidden;text-align:center;white-space:=
+nowrap;width:64px;}
+
+#yiv1066365958 #yiv1066365958reco-category {
+font-size=
+:77%;}
+
+#yiv1066365958 #yiv1066365958reco-desc {
+font-size:77%;}
+
+#yiv10663=
+65958 .yiv1066365958replbq {
+margin:4px;}
+
+#yiv1066365958 #yiv1066365958ygr=
+p-actbar div a:first-child {
+margin-right:2px;padding-right:5px;}
+
+#yiv1066=
+365958 #yiv1066365958ygrp-mlmsg {
+font-size:13px;font-family:Arial, helveti=
+ca, clean, sans-serif;}
+
+#yiv1066365958 #yiv1066365958ygrp-mlmsg table {
+fo=
+nt-size:inherit;font:100%;}
+
+#yiv1066365958 #yiv1066365958ygrp-mlmsg select=
+, #yiv1066365958 input, #yiv1066365958 textarea {
+font:99% Arial, Helvetica=
+, clean, sans-serif;}
+
+#yiv1066365958 #yiv1066365958ygrp-mlmsg pre, #yiv106=
+6365958 code {
+font:115% monospace;}
+
+#yiv1066365958 #yiv1066365958ygrp-mlm=
+sg * {
+line-height:1.22em;}
+
+#yiv1066365958 #yiv1066365958ygrp-mlmsg #yiv10=
+66365958logo {
+padding-bottom:10px;}
+
+
+#yiv1066365958 #yiv1066365958ygrp-ms=
+g p a {
+font-family:Verdana;}
+
+#yiv1066365958 #yiv1066365958ygrp-msg p#yiv1=
+066365958attach-count span {
+color:#1E66AE;font-weight:700;}
+
+#yiv106636595=
+8 #yiv1066365958ygrp-reco #yiv1066365958reco-head {
+color:#ff7900;font-weig=
+ht:700;}
+
+#yiv1066365958 #yiv1066365958ygrp-reco {
+margin-bottom:20px;paddi=
+ng:0px;}
+
+#yiv1066365958 #yiv1066365958ygrp-sponsor #yiv1066365958ov li a {=
+
+font-size:130%;text-decoration:none;}
+
+#yiv1066365958 #yiv1066365958ygrp-s=
+ponsor #yiv1066365958ov li {
+font-size:77%;list-style-type:square;padding:6=
+px 0;}
+
+#yiv1066365958 #yiv1066365958ygrp-sponsor #yiv1066365958ov ul {
+mar=
+gin:0;padding:0 0 0 8px;}
+
+#yiv1066365958 #yiv1066365958ygrp-text {
+font-fa=
+mily:Georgia;}
+
+#yiv1066365958 #yiv1066365958ygrp-text p {
+margin:0 0 1em 0=
+;}
+
+#yiv1066365958 #yiv1066365958ygrp-text tt {
+font-size:120%;}
+
+#yiv10663=
+65958 #yiv1066365958ygrp-vital ul li:last-child {
+border-right:none !import=
+ant;
+}
+#yiv1066365958 
+</style></div><br><br></div>  </div> </div>  </div><=
+/div></body></html>
+------=_Part_2787605_400890886.1439315878278--
+
+

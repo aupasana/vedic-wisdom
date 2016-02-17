@@ -1,0 +1,402 @@
+From harsha.n@...  Wed Feb 17 11:07:48 2016
+Return-Path: <harsha.n@...>
+X-Sender: harsha.n@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 1514 invoked by uid 102); 21 Jul 2015 08:14:23 -0000
+X-Received: from unknown (HELO mtaq4.grp.bf1.yahoo.com) (10.193.84.143)
+  by m13.grp.bf1.yahoo.com with SMTP; 21 Jul 2015 08:14:23 -0000
+X-Received: (qmail 11593 invoked from network); 21 Jul 2015 08:14:23 -0000
+X-Received: from unknown (HELO mta1001.groups.mail.ne1.yahoo.com) (98.138.215.81)
+  by mtaq4.grp.bf1.yahoo.com with SMTP; 21 Jul 2015 08:14:23 -0000
+X-Original-Return-Path: <harsha.n@...>
+X-Received-SPF: pass (domain of live.com designates 65.54.190.218 as permitted sender)
+X-YMailISG: 6vCYhRMWLDt2SZszaJvT9r2dI.a9o9aqSp4_MRPsAbM.pnFS
+ VTcvil3Q_zGuUH4MjGcD3auPtFgwE05wWj85iaPERmgEzC6XHJwHkZJR7NUY
+ wOxk6ch1NnQ6oDRcKNC23qv55746Xk6Xgc8xeV6kFDNQ1NprJqmaIzfAdmv5
+ oVUrvhA0h1HMAxbvGEyl7cSD3DfTXD9Pf.caByWQBopuNrWz7YyKmxuWkp0E
+ lS8f42rvo_A581RGP3mVU9gBMGPuhSOyVNzVo4fW43mHwc0erGIw_8OOWkL_
+ _R8tI0LD318iFwe.c07AryyNrVZbnfHI_vgMQEOWeWXgq1lpxbtr1zgX8HF0
+ HUQStXw_PujY3H94Aj_H7Vxdy0cppq2hkgqPavLYaUsTQ1pE4cVWuxgZ.11V
+ 1PrjQySMnZL9Fa8s5LXviQR2ws3zkV110B5t2qAInNaVsV8kftVyIZIBQLbe
+ MAA.WXC_mI06rSa6Bdri0p9TEk3gyFOmKLQuplJsZRJa8WNOGYERlFEpL1Kr
+ kRP13u0qBdRwWNnt9QJxHU.ladCq.xmTQPWmMAxbemL7SlJ.fR.5IWOrcLCv
+ _ryUE7o4TbTsi31CN.aKZyCtMcvMh7RZ_wh1O9kvn9dezeN1rfZsonLdhX1z
+ BYrKhK2SytExS.gL_2aZsa8MzOrFjrFdvHYF.nCKQW75gGe2qsFhN.XPj_cf
+ BRvq2aVwpIJAiTl_TKyKDwRwkBW2oG4zD7cTFYxAIjBv2IpFYZCdilA5TVhg
+ Suln7ToOBcqnBnu2wv3b1fTq0ZgdwvoTjyOOD.SRAVIbzdYT0j.LGdT7tG.R
+ 80wgCFaAV41pwcH_z4qexA51VsRNMKamuSQyCQPL6P1d6W6h.0Vgr_uGriTU
+ CoWGLCWvQ1Omd7gJNql1wPVxf4q1GDG6.IPFvv5Cdxk5rbiQSbTf8Alynhd6
+ y6fOGmTJq9z9rGR5gfkI7p_KFuToGVhn31vz6Wp4DTFXJzjoZRZf5lI5L6r1
+ NYTVFtxyUE9LsoVmQUL8WcK9FC0PctKLVmJk1opuM.zoX6WjKR7a_GZ2r6wZ
+ nNVjFDauzpkMs3edYltjtfP.mtPQlyLq8xBenfnWDl8V.G7yhyvIgA_iAmO5
+ jYtnTy061H9dbzpLhiix6f9MD8mUB6R1ZVDL.OBvnZBXLmhKPyJ15WdqmYDu
+ x6JBum2PYr7YN5B8r64dYsdmTnNG.a8LGP3G1QsDTuJqnGfFAs5LJrKPHFs_
+ B0sShQV7J2CwEqpvgtakP8s4AXvaR23gLiKpgBgy1v8W.PBGflElxZ5cDGcc
+ 0k.VlFO_Mh1IxXRmemgp8G6tcr2K87LeDCkt5uJfFTVvP9d50lC3QoPzFBDL
+ 9Z.h9L8zk6NXcNRvwP7eQhHRnsL6hFa_3vJfetpyiZ41CiUE01t0NaGFEcX8
+ H10Oqm44t3eH3Jy99_9wr.ZgI7AuGBBUiiebctS1sYgkr7ohvymINbWKaVFq
+ lUZmzWcmsprwAghFcp2UjVwMlxDKG0mUrYMNQR_HH7Ml2dzjyQ4ikwYXMkFC
+ 6Z97.ZivnMxqarpTLNRJIk40am6QMmzgw2XnstVfXTtL1p_CRL5ObES7Jt1X
+ v427JDqswOuNBIKroeK9FmBYRkvdr78qGRKB.lz.x8N3k7P9m0g9UG6PQ87f
+ fH3GnrtnmItK2zvCNtEQEeo_FLyo5TBvTZDGp8yq2dpB1TqRToc7vjIbdg5R
+ BfcbdHD3AmNr_4X_kUmcJIxNyw.4zTYqseIT4upxjKIJ
+Authentication-Results: mta1001.groups.mail.ne1.yahoo.com  from=live.com; domainkeys=neutral (no sig);  from=live.com; dkim=neutral (no sig)
+X-Received: from 127.0.0.1  (EHLO BAY004-OMC4S16.hotmail.com) (65.54.190.218)
+  by mta1001.groups.mail.ne1.yahoo.com with SMTPS; Tue, 21 Jul 2015 08:14:18 +0000
+X-Received: from BAY403-EAS353 ([65.54.190.200]) by BAY004-OMC4S16.hotmail.com over TLS secured channel with Microsoft SMTPSVC(7.5.7601.23008);
+	 Tue, 21 Jul 2015 01:14:18 -0700
+X-TMN: [uORSwjELvGLtLWVU5fx5yxuuae7GkUoJnhRi1OVg5eg=]
+X-Originating-Email: [harsha.n@...]
+Message-ID: <BAY403-EAS35314330F8E6B17A6E17B6BE2840@...>
+X-Original-Return-Path: harsha.n@...
+Content-Type: multipart/alternative;
+	boundary="_25d4333b-cfe8-451a-b480-0e34bbf52894_"
+MIME-Version: 1.0
+To: <vedic-wisdom@yahoogroups.com>
+Date: Tue, 21 Jul 2015 13:42:33 +0530
+X-OriginalArrivalTime: 21 Jul 2015 08:14:18.0049 (UTC) FILETIME=[3D546310:01D0C38D]
+X-Originating-IP: 98.138.215.81
+Subject: RE: [vedic-wisdom] authentic rudraksh mala
+X-Yahoo-Group-Post: member; u=393219165; y=bar2NK5iHN-zosPf-GgsD0LWNtTqt3Szhk0UEKXUuk_kLBQo7YN72S7ueaSymgDGtlk
+X-Yahoo-Profile: harsha_n@...
+From: Harsha N <harsha.n@...>
+
+
+--_25d4333b-cfe8-451a-b480-0e34bbf52894_
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset="utf-8"
+
+Sir,
+
+Give those rudrakshas to jeweller, he will prepare a mala. If possibl=
+e go for silver thread,
+
+Regards,
+
+Harsha.N
+_______________________________=
+_
+From: Durgesh Mishra durgesh.mishra@... [vedic-wisdom]<mailto:vedic=
+-wisdom@yahoogroups.com>
+Sent: =E2=80=8E21-=E2=80=8E07-=E2=80=8E2015 12:48 =
+PM
+To: vedic-astrology@yahoogroups.com<mailto:vedic-astrology@yahoogroups.c=
+om>; vedic-wisdom@yahoogroups.com<mailto:vedic-wisdom@yahoogroups.com>; soh=
+amsa@yahoogroups.com<mailto:sohamsa@yahoogroups.com>
+Subject: [vedic-wisdom=
+] authentic rudraksh mala
+
+Respected Gurujan,
+
+I have been wearing rudraksh=
+ since last 7-8 years. And yesterday the thread
+broke. So I have to purchas=
+e new rudraksh mala.
+
+does anybody have ordered it online ?
+
+any suggestion=
+ on authentic source.
+
+Regards
+Durgesh O Mishra
+
+--_25d4333b-cfe8-451a-b480-0e34bbf52894_
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="utf-8"
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; chars=
+et=3Dutf-8">
+</head>
+<body>
+<div>
+<div style=3D"font-family: Calibri,sans-s=
+erif; font-size: 11pt;">Sir,<br>
+<br>
+Give those rudrakshas to jeweller, he=
+ will prepare a mala. If possible go for silver thread,
+<br>
+<br>
+Regards,<=
+br>
+<br>
+Harsha.N</div>
+</div>
+<div dir=3D"ltr">
+<hr>
+<span style=3D"font-f=
+amily: Calibri,sans-serif; font-size: 11pt; font-weight: bold;">From:
+</spa=
+n><span style=3D"font-family: Calibri,sans-serif; font-size: 11pt;"><a href=
+=3D"mailto:vedic-wisdom@yahoogroups.com">Durgesh Mishra durgesh.mishra@gmai=
+l.com [vedic-wisdom]</a></span><br>
+<span style=3D"font-family: Calibri,san=
+s-serif; font-size: 11pt; font-weight: bold;">Sent:
+</span><span style=3D"f=
+ont-family: Calibri,sans-serif; font-size: 11pt;">=E2=80=8E21-=E2=80=8E07-=
+=E2=80=8E2015 12:48 PM</span><br>
+<span style=3D"font-family: Calibri,sans-=
+serif; font-size: 11pt; font-weight: bold;">To:
+</span><span style=3D"font-=
+family: Calibri,sans-serif; font-size: 11pt;"><a href=3D"mailto:vedic-astro=
+logy@yahoogroups.com">vedic-astrology@yahoogroups.com</a>;
+<a href=3D"mailt=
+o:vedic-wisdom@yahoogroups.com">vedic-wisdom@yahoogroups.com</a>; <a href=
+=3D"mailto:sohamsa@yahoogroups.com">
+sohamsa@yahoogroups.com</a></span><br>=
+
+<span style=3D"font-family: Calibri,sans-serif; font-size: 11pt; font-weig=
+ht: bold;">Subject:
+</span><span style=3D"font-family: Calibri,sans-serif; =
+font-size: 11pt;">[vedic-wisdom] authentic rudraksh mala</span><br>
+<br>
+</=
+div>
+<div style=3D"background-color:#fff"><span style=3D""> </span>
+<d=
+iv id=3D"x_ygrp-mlmsg" style=3D"">
+<div id=3D"x_ygrp-msg" style=3D"z-index:=
+1">
+<div id=3D"x_ygrp-text">
+<p></p>
+<div dir=3D"ltr">Respected Gurujan,
+<d=
+iv><br>
+</div>
+<div>I have been wearing rudraksh since last 7-8 years. And =
+yesterday the thread broke. So I have to purchase new rudraksh mala.</div>
+=
+<div><br>
+</div>
+<div>does anybody have ordered it online ?</div>
+<div><br>=
+
+</div>
+<div>any suggestion on authentic source.</div>
+<div><br>
+</div>
+<di=
+v>Regards</div>
+<div>Durgesh O Mishra</div>
+</div>
+<p></p>
+</div>
+<div styl=
+e=3D"color:#fff; height:0"></div>
+<style type=3D"text/css">
+<!--
+#x_ygrp-mk=
+p
+	{border:1px solid #d8d8d8;
+	font-family:Arial;
+	margin:10px 0;
+	padding:=
+0 10px}
+#x_ygrp-mkp 
+	{border:1px solid #d8d8d8}
+#x_ygrp-mkp #x_hd
+	{color:=
+#628c2a;
+	font-size:85%;
+	font-weight:700;
+	line-height:122%;
+	margin:10px =
+0}
+#x_ygrp-mkp #x_ads
+	{margin-bottom:10px}
+#x_ygrp-mkp .x_ad
+	{padding:0 0=
+}
+#x_ygrp-mkp .x_ad 
+	{margin:0}
+#x_ygrp-mkp .x_ad 
+	{color:#0000ff;
+	text-=
+decoration:none}
+#x_ygrp-sponsor #x_ygrp-lc
+	{font-family:Arial}
+#x_ygrp-sp=
+onsor #x_ygrp-lc #x_hd
+	{margin:10px 0px;
+	font-weight:700;
+	font-size:78%;=
+
+	line-height:122%}
+#x_ygrp-sponsor #x_ygrp-lc .x_ad
+	{margin-bottom:10px;
+=
+	padding:0 0}
+#x_actions
+	{font-family:Verdana;
+	font-size:11px;
+	padding:1=
+0px 0}
+#x_activity
+	{background-color:#e0ecee;
+	float:left;
+	font-family:Ve=
+rdana;
+	font-size:10px;
+	padding:10px}
+#x_activity 
+	{font-weight:700}
+#x_a=
+ctivity 
+	{text-transform:uppercase}
+#x_activity 
+	{color:#5085b6;
+	text-de=
+coration:none}
+#x_activity 
+	{color:#ff7900}
+#x_activity .x_underline
+	{tex=
+t-decoration:underline}
+.x_attach
+	{clear:both;
+	display:table;
+	font-famil=
+y:Arial;
+	font-size:12px;
+	padding:10px 0;
+	width:400px}
+.x_attach 
+	{text-=
+decoration:none}
+.x_attach 
+	{border:none;
+	padding-right:5px}
+.x_attach 
+	=
+{display:block;
+	margin-bottom:5px}
+.x_attach 
+	{text-decoration:none}
+.x_b=
+old
+	{font-family:Arial;
+	font-size:13px;
+	font-weight:700}
+.x_bold 
+	{text=
+-decoration:none}
+dd.x_last 
+	{font-family:Verdana;
+	font-weight:700}
+dd.x_=
+last 
+	{margin-right:10px;
+	font-family:Verdana;
+	font-weight:700}
+dd.x_las=
+t span.x_yshortcuts
+	{margin-right:0}
+div.x_attach-table 
+	{text-decoration=
+:none}
+div.x_attach-table
+	{width:400px}
+div.x_file-title div.x_file-title =
+div.x_file-title div.x_file-title 
+	{text-decoration:none}
+div.x_photo-titl=
+e div.x_photo-title div.x_photo-title div.x_photo-title 
+	{text-decoration:=
+none}
+div#x_ygrp-mlmsg #x_ygrp-msg span.x_yshortcuts
+	{font-family:Verdana;=
+
+	font-size:10px;
+	font-weight:normal}
+.x_green
+	{color:#628c2a}
+.x_MsoNorm=
+al
+	{margin:0 0 0 0}
+#x_photos 
+	{float:left;
+	width:72px}
+#x_photos 
+	{bor=
+der:1px solid #666666;
+	height:62px;
+	overflow:hidden;
+	width:62px}
+#x_phot=
+os 
+	{color:#666666;
+	font-size:10px;
+	overflow:hidden;
+	text-align:center;=
+
+	white-space:nowrap;
+	width:64px}
+#x_reco-category
+	{font-size:77%}
+#x_rec=
+o-desc
+	{font-size:77%}
+.x_replbq
+	{margin:4px}
+#x_ygrp-actbar 
+	{margin-ri=
+ght:2px;
+	padding-right:5px}
+#x_ygrp-mlmsg 
+	{font-size:inherit;
+	font:100%=
+}
+#x_ygrp-mlmsg 
+	{font:99% Arial,Helvetica,clean,sans-serif}
+#x_ygrp-mlmsg=
+ 
+	{line-height:1.22em}
+#x_ygrp-mlmsg #x_logo
+	{padding-bottom:10px}
+#x_ygr=
+p-msg 
+	{font-family:Verdana}
+#x_ygrp-msg p#x_attach-count 
+	{color:#1E66AE=
+;
+	font-weight:700}
+#x_ygrp-reco #x_reco-head
+	{color:#ff7900;
+	font-weight=
+:700}
+#x_ygrp-reco
+	{margin-bottom:20px;
+	padding:0px}
+#x_ygrp-sponsor #x_o=
+v 
+	{font-size:130%;
+	text-decoration:none}
+#x_ygrp-sponsor #x_ov 
+	{font-s=
+ize:77%;
+	list-style-type:square;
+	padding:6px 0}
+#x_ygrp-sponsor #x_ov 
+	{=
+margin:0;
+	padding:0 0 0 8px}
+#x_ygrp-text
+	{font-family:Georgia}
+#x_ygrp-t=
+ext 
+	{margin:0 0 1em 0}
+#x_ygrp-text 
+	{font-size:120%}
+#x_ygrp-vital 
+	{b=
+order-right:none!important}
+-->
+</style></div>
+</body>
+</html>
+
+--_25d4333b-cfe8-451a-b480-0e34bbf52894_--
+
+

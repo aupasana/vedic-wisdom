@@ -1,0 +1,467 @@
+From apparau77@...  Wed Feb 17 11:07:49 2016
+Return-Path: <apparau77@...>
+X-Sender: apparau77@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 806 invoked by uid 102); 14 Dec 2015 08:05:39 -0000
+X-Received: from unknown (HELO mtaq4.grp.bf1.yahoo.com) (10.193.84.143)
+  by m8.grp.bf1.yahoo.com with SMTP; 14 Dec 2015 08:05:39 -0000
+X-Received: (qmail 22216 invoked from network); 14 Dec 2015 08:05:39 -0000
+X-Received: from unknown (HELO mta1004.groups.mail.ne1.yahoo.com) (98.138.100.119)
+  by mtaq4.grp.bf1.yahoo.com with SMTP; 14 Dec 2015 08:05:39 -0000
+X-Original-Return-Path: <apparau77@...>
+X-Received-SPF: none (domain of ymail.com does not designate permitted sender hosts)
+X-YMailISG: wO0NYb0WLDtrARQWs5VhwmsYugfmOzGmW.6ON7t0gMFFl0Ih
+ .kgkMiK0wYj10kbBoP0tz8muEtiJQz.l6pZOPdHKPp6eUvAwr6cOJRKd7Vop
+ Ad6nl5H5MMwZBNQ6qCh9k2jnK5keQFkgksPjVCa9TK9dvBXjKRZOUrXkXXkN
+ _fAs16xvB1Rm5dpbzc2vIwyuxDb9xHLWkOwmeMgxWVoQ..LXBFbwjoXKsOJk
+ DLhXYClN1b4Gu.ozsK83ahGTC7sxG47Ak55e3c5.uXdNu2orV3qccrbTHbs6
+ bu35rTxgpVdn8fnJMNG.R2_jo0t1Aq8.BRBJj246dhBI2kvJJXcM0D8ad2EM
+ 1hjg2A2sCBOFNa1Rc3TJ6C3C8Yk3mWWLNy8x6U3rV9lDrdSdqVwvI32capvI
+ JtN5wDKN1812ary8nAs0RMXT352JqY2AEGpl6w3IZbbVa.f_f85Wk.4Mtnum
+ 1lxcKXDXmexeEFQ6p3ogC.cjpdhQEJ9cAWbylbLla_RgPU7DIMHNVwAvztt3
+ 0qmvOPZLu5YbxS_j9w.5OV8BYRGQEi1KRtRH_KoeL1TCKrZBj5U6rMIazPNA
+ dtba2ioe0_nbZl.70RE98N0pkx8CbNZ4frp_4X9k8YC1qk5Jo2GuXM5gInq7
+ LZRyRANxx2rOB6HWe2P.C146.vk49gv2XKEHeN45DCoGoOQg9.Zu8MDy.a1n
+ VkOCfeo4_PTXV1T0Et2wMYSRp4RZIKPp90wrjUaiYWdnwYWUQI3pReteR0VZ
+ JPYBKBCNOYO99VoN_nyhAh_Phc.6nPnb6bnbpeTFKm3kXkcsI.uvVv6VWKBt
+ CZAt.t1fHPMpXS5Z6jnxlLdRdaijsTR27phUaBypeLpWTFA2WYK_BGZmr0hk
+ BBypvaZLuuCVFUh4bZZ2RiC_GHiVcRXZAXV.wbkvV_R6xfRG2zTG8QMXpUyr
+ oqnfIgUiOjsOM35igau9ieHIhBwQe_E0WlNk41H_EltVtMI43LYp4oZ8lGL9
+ bmivxvR7y1DTx48aN_sph1UE.IKrCj1gHAkG8UZ3OKmhAAlElSWQJsSkXcvr
+ jj_yhcDO4pDkaaskaiWH1c7kLeQCOzikJIkgLHfAC2E0JHopvHTXbVAF_Gax
+ GsLSaGvyI.2wuNzEAG8FgLdTIes5ej6jOHLnpisbCvvC8MUJieAny6e7ZkC2
+ fMCooEhMSjhk3jFrhLuEbVcxHlUHBh1YQ5ifaYbandcn8k8UHEGpHnwzU2y8
+ crSFjRaF3zORdhEQ3yG4m_13CTMAD6Um0LDp7F4qjCI239I.D0QcwyPVWhuS
+ lqjFfo9CPxBOBGoF6P3_rHhKP0w8a38CTUMj1eI7IiWgh6lv5EuDcGvM8v.4
+ jgh2bsQCQi3K0pdSUhqM28YkD6g77g_Ap1zuvAYjUUJ1exxSTgE1_HPky.8C
+ cGcswephXPeacjuOIXjK5vSYrMFzHY9PHP0L1Mmxp6kzNNFAboh2oNBZcx7y
+ nNT1e9zSgIoQFKaXEYXJFtJVmf.BHLXKsZMBR2JjdYIGSRmVyH6uRU0Ff3X_
+Authentication-Results: mta1004.groups.mail.ne1.yahoo.com  from=ymail.com; domainkeys=neutral (no sig);  from=ymail.com; dkim=pass (ok)
+X-Received: from 127.0.0.1  (EHLO nm44-vm8.bullet.mail.gq1.yahoo.com) (67.195.87.31)
+  by mta1004.groups.mail.ne1.yahoo.com with SMTPS; Mon, 14 Dec 2015 08:05:39 +0000
+X-Received: from [127.0.0.1] by nm44.bullet.mail.gq1.yahoo.com with NNFMP; 14 Dec 2015 08:05:37 -0000
+X-Received: from [216.39.60.181] by nm44.bullet.mail.gq1.yahoo.com with NNFMP; 14 Dec 2015 08:02:41 -0000
+X-Received: from [98.139.214.32] by tm17.bullet.mail.gq1.yahoo.com with NNFMP; 14 Dec 2015 08:02:40 -0000
+X-Received: from [98.139.213.14] by tm15.bullet.mail.bf1.yahoo.com with NNFMP; 14 Dec 2015 08:02:40 -0000
+X-Received: from [127.0.0.1] by smtp114.mail.bf1.yahoo.com with NNFMP; 14 Dec 2015 08:02:40 -0000
+X-Yahoo-Newman-Id: 616844.3372.bm@...
+X-Yahoo-Newman-Property: ymail-4
+X-YMail-OSG: DORSSeUVM1lMtBibrys5hRZMTVIY3gcmiA1cj1VtHnwH2Sn
+ 7F9Pwmwwp0xHAotsml.dPxMeOTXiOWV.mMMtM3Tx7DM94V2aCTqAx6eqTrhX
+ xS4_GhNb.hbivpn.IauCKZokSX9ir4NO.2KKPWWMGFqF1rbg08HsXFBw8NZP
+ bPAeXbeWFc6vAZD6wSGFLLDjlI_oFtVz9Q0lNbs_nj2GK3viFdCtcSzVb58g
+ TOi8Hqt4u_E.ntX_yjzpbfo6ES8JQwFsDVtSKNglUI8DACfykoRDIzzIloCS
+ LStmGI6dBGU4X_Q93lTOFpTQzsiOeM1PUMV_7BOyKXCwg0lsjdzr2Lh7chex
+ 7rZy_RB2tMkskT82pht73RXs6dAZpzWG5kDWGx97OI6C5meRHWZpejaSnWhU
+ 74uOWIlFve3fgILi8b8auk7pe0XdiUoeM0xDPIDlFpmoOJvv__zaOb5OEWGj
+ uX5THpQf14XXNAX4i7yP7BbyvFuzO8dDNYBLXv_X0FcVRfXO52HA65NcNZru
+ 5HaQ.YiiymGefNO.r6t2SmrwnKafY
+X-Yahoo-SMTP: ai.SPaaswBA.f41UtPl25fAPyUzUfdg6Lbo1Gz2xF2o-
+To: "apparau" <apparau77@...>
+References: <CABm2Zqsaboj4Cj6Y9BUorbBFBMMLcTe94b6m5BtWu22cX0yDRw@...>
+In-Reply-To: <CABm2Zqsaboj4Cj6Y9BUorbBFBMMLcTe94b6m5BtWu22cX0yDRw@...>
+Date: Mon, 14 Dec 2015 16:02:35 +0800
+Message-ID: <012101d13645$cd669330$6833b990$@...>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0122_01D13688.DB993C80"
+X-Mailer: Microsoft Outlook 14.0
+Thread-Index: AQJObdvC14r5fKmdyOBH61CAYk2xLZ3PqD2g
+Content-Language: en-my
+X-Originating-IP: 98.138.100.119
+Subject: RE: [vedic-astrology]
+X-Yahoo-Group-Post: member; u=545130519; y=vUhya3hBGPiiVgRP_TvSEAGkmc91ZGJi6JknbVYaUuSpphc6h3Alx-Jgjoo2Mw
+X-Yahoo-Profile: apparau77@...
+From: "apparau" <apparau77@...>
+
+
+------=_NextPart_000_0122_01D13688.DB993C80
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Dear Respected Astrologers,
+
+ 
+
+Good Day, I am divorced person. Fully strug=
+gled in my first marital life. Very2 badly affected in my first marital lif=
+e. When I will marry?? how is the spouse attitude and behavior?? till now s=
+earching for the new bride unfortunately failed. Please analyze my chart an=
+d give me a good prediction.
+
+ 
+
+DOB: 20th Dec 1977 
+
+Time: 6.30AM 
+
+Place:=
+ Selama, Perak
+
+Country: Malaysia
+
+ 
+
+Thanks & Best Regards,
+
+Apparau
+
+
+------=_NextPart_000_0122_01D13688.DB993C80
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D"http:=
+//www.w3.org/TR/REC-html40"><head><meta http-equiv=3DContent-Type content=
+=3D"text/html; charset=3Dutf-8"><meta name=3DGenerator content=3D"Microsoft=
+ Word 14 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	=
+{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-f=
+amily:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:C=
+alibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Consolas;=
+
+	panose-1:2 11 6 9 2 2 4 3 2 4;}
+@font-face
+	{font-family:Verdana;
+	panose=
+-1:2 11 6 4 3 5 4 4 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal=
+, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	f=
+ont-family:"Times New Roman","serif";}
+a:link, span.MsoHyperlink
+	{mso-styl=
+e-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.Ms=
+oHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration=
+:underline;}
+p
+	{mso-style-priority:99;
+	mso-margin-top-alt:auto;
+	margin-r=
+ight:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	font-size:12.0pt;=
+
+	font-family:"Times New Roman","serif";}
+code
+	{mso-style-priority:99;
+	fo=
+nt-family:"Courier New";}
+pre
+	{mso-style-priority:99;
+	mso-style-link:"HTM=
+L Preformatted Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:10.0p=
+t;
+	font-family:"Courier New";}
+tt
+	{mso-style-priority:99;
+	font-family:"C=
+ourier New";}
+span.HTMLPreformattedChar
+	{mso-style-name:"HTML Preformatted=
+ Char";
+	mso-style-priority:99;
+	mso-style-link:"HTML Preformatted";
+	font-=
+family:Consolas;}
+p.attach, li.attach, div.attach
+	{mso-style-name:attach;
+=
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	=
+margin-left:0cm;
+	font-size:9.0pt;
+	font-family:"Arial","sans-serif";}
+p.bo=
+ld, li.bold, div.bold
+	{mso-style-name:bold;
+	mso-margin-top-alt:auto;
+	mar=
+gin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	font-size:10=
+.0pt;
+	font-family:"Arial","sans-serif";
+	font-weight:bold;}
+p.green, li.gr=
+een, div.green
+	{mso-style-name:green;
+	mso-margin-top-alt:auto;
+	margin-ri=
+ght:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	font-size:12.0pt;
+=
+	font-family:"Times New Roman","serif";
+	color:#628C2A;}
+p.replbq, li.replb=
+q, div.replbq
+	{mso-style-name:replbq;
+	margin:3.0pt;
+	font-size:12.0pt;
+	f=
+ont-family:"Times New Roman","serif";}
+p.ad, li.ad, div.ad
+	{mso-style-name=
+:ad;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:au=
+to;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"Times New Roman","se=
+rif";}
+p.underline, li.underline, div.underline
+	{mso-style-name:underline;=
+
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+=
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif"=
+;}
+span.yshortcuts
+	{mso-style-name:yshortcuts;}
+p.ad1, li.ad1, div.ad1
+	{m=
+so-style-name:ad1;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin=
+-bottom-alt:auto;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"Times =
+New Roman","serif";}
+p.ad2, li.ad2, div.ad2
+	{mso-style-name:ad2;
+	mso-marg=
+in-top-alt:auto;
+	margin-right:0cm;
+	margin-bottom:7.5pt;
+	margin-left:0cm;=
+
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.underline1, =
+li.underline1, div.underline1
+	{mso-style-name:underline1;
+	mso-margin-top-=
+alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;=
+
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	text-decoratio=
+n:underline;}
+span.yshortcuts1
+	{mso-style-name:yshortcuts1;
+	font-family:"=
+Verdana","sans-serif";
+	font-weight:bold;}
+span.yshortcuts2
+	{mso-style-nam=
+e:yshortcuts2;
+	font-family:"Verdana","sans-serif";
+	font-weight:normal;}
+s=
+pan.EmailStyle34
+	{mso-style-type:personal-reply;
+	font-family:"Calibri","s=
+ans-serif";
+	color:#1F497D;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	=
+font-size:10.0pt;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:70.85=
+pt 70.85pt 70.85pt 70.85pt;}
+div.WordSection1
+	{page:WordSection1;}
+/* List=
+ Definitions */
+@list l0
+	{mso-list-id:1940873956;
+	mso-list-template-ids:9=
+75497898;}
+@list l0:level1
+	{mso-level-number-format:bullet;
+	mso-level-tex=
+t:=EF=82=B7;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	=
+text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@lis=
+t l0:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level=
+-tab-stop:72.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	m=
+so-ansi-font-size:10.0pt;
+	font-family:"Courier New";
+	mso-bidi-font-family=
+:"Times New Roman";}
+@list l0:level3
+	{mso-level-number-format:bullet;
+	mso=
+-level-text:=EF=82=A7;
+	mso-level-tab-stop:108.0pt;
+	mso-level-number-posit=
+ion:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wi=
+ngdings;}
+@list l0:level4
+	{mso-level-number-format:bullet;
+	mso-level-text=
+:=EF=82=A7;
+	mso-level-tab-stop:144.0pt;
+	mso-level-number-position:left;
+	=
+text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@=
+list l0:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:=EF=82=A7;=
+
+	mso-level-tab-stop:180.0pt;
+	mso-level-number-position:left;
+	text-indent=
+:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l0:lev=
+el6
+	{mso-level-number-format:bullet;
+	mso-level-text:=EF=82=A7;
+	mso-level=
+-tab-stop:216.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	=
+mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l0:level7
+	{mso-l=
+evel-number-format:bullet;
+	mso-level-text:=EF=82=A7;
+	mso-level-tab-stop:2=
+52.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-fo=
+nt-size:10.0pt;
+	font-family:Wingdings;}
+@list l0:level8
+	{mso-level-number=
+-format:bullet;
+	mso-level-text:=EF=82=A7;
+	mso-level-tab-stop:288.0pt;
+	ms=
+o-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.=
+0pt;
+	font-family:Wingdings;}
+@list l0:level9
+	{mso-level-number-format:bul=
+let;
+	mso-level-text:=EF=82=A7;
+	mso-level-tab-stop:324.0pt;
+	mso-level-num=
+ber-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-=
+family:Wingdings;}
+ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+--></s=
+tyle><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"10=
+26" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"e=
+dit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]=
+--></head><body bgcolor=3Dwhite lang=3DEN-US link=3Dblue vlink=3Dpurple><di=
+v class=3DWordSection1><p class=3DMsoNormal><span style=3D'font-size:11.0pt=
+;font-family:"Calibri","sans-serif";color:#1F497D'>Dear Respected Astrologe=
+rs,<o:p></o:p></span></p><p class=3DMsoNormal><span style=3D'font-size:11.0=
+pt;font-family:"Calibri","sans-serif";color:#1F497D'><o:p> </o:p></spa=
+n></p><p class=3DMsoNormal><span style=3D'font-size:11.0pt;font-family:"Cal=
+ibri","sans-serif";color:#1F497D'>Good Day, I am divorced person. Fully str=
+uggled in my first marital life. Very2 badly affected in my first marital l=
+ife. When I will marry?? how is the spouse attitude and behavior?? till now=
+ searching for the new bride unfortunately failed. Please analyze my chart =
+and give me a good prediction.<o:p></o:p></span></p><p class=3DMsoNormal><s=
+pan style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F4=
+97D'><o:p> </o:p></span></p><p class=3DMsoNormal><span style=3D'font-s=
+ize:11.0pt;font-family:"Calibri","sans-serif";color:#1F497D'>DOB: 20th Dec =
+1977 <o:p></o:p></span></p><p class=3DMsoNormal><span style=3D'font-size:11=
+.0pt;font-family:"Calibri","sans-serif";color:#1F497D'>Time: 6.30AM <o:p></=
+o:p></span></p><p class=3DMsoNormal><span style=3D'font-size:11.0pt;font-fa=
+mily:"Calibri","sans-serif";color:#1F497D'>Place: Selama, Perak<o:p></o:p><=
+/span></p><p class=3DMsoNormal><span style=3D'font-size:11.0pt;font-family:=
+"Calibri","sans-serif";color:#1F497D'>Country: Malaysia<o:p></o:p></span></=
+p><p class=3DMsoNormal><span style=3D'font-size:11.0pt;font-family:"Calibri=
+","sans-serif";color:#1F497D'><o:p> </o:p></span></p><p class=3DMsoNor=
+mal><span style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";colo=
+r:#1F497D'>Thanks & Best Regards,<o:p></o:p></span></p><p class=3DMsoNo=
+rmal><span style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";col=
+or:#1F497D'>Apparau<o:p></o:p></span></p></div></body></html>
+------=_NextPart_000_0122_01D13688.DB993C80--
+
+

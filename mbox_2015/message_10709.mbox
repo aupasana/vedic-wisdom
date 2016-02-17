@@ -1,0 +1,75 @@
+From manibhushan@...  Wed Feb 17 11:07:48 2016
+Return-Path: <manibhushan@...>
+X-Sender: manibhushan@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 13646 invoked by uid 102); 13 Sep 2015 16:24:38 -0000
+X-Received: from unknown (HELO mtaq1.grp.bf1.yahoo.com) (10.193.84.32)
+  by m6.grp.bf1.yahoo.com with SMTP; 13 Sep 2015 16:24:38 -0000
+X-Received: (qmail 16137 invoked from network); 13 Sep 2015 16:24:38 -0000
+X-Received: from unknown (HELO mta1004.groups.mail.ne1.yahoo.com) (98.138.100.119)
+  by mtaq1.grp.bf1.yahoo.com with SMTP; 13 Sep 2015 16:24:38 -0000
+X-Original-Return-Path: <manibhushan@...>
+X-Received-SPF: pass (domain of yahoo.com designates 98.138.90.89 as permitted sender)
+X-YMailISG: O4N6WxoWLDuxSAxWO047ThtVaI6PzGSlINDhNrVta71b2HMD
+ nj4ysn8VVPZaAHy3o0iG6l2wvfozFkLGkua0MjaKNOF2f7bztVOb9ZyD60OK
+ 8arUY67eBgnULNW.27S9Ov8iT8ZmbkwJ6wsSmQeODxQW98HY8sCwIh0.BzkD
+ ZVAu7U39Xjl9iD9KxBaS97YyRLvszdudQnlXXyfzbs7c13ACIdVSVuaNoyDk
+ 2uxjsp7gtp4qHkDXJvX3NTbR9X.Tc3b08WLI5MYzOC2zDDgiN8bOElO6BeGn
+ a_HosWNstoRaV_MzRU3xOhtZ0_63upn6QkJ64Pb7LHbV5lQ59nXw_Q7l7sUJ
+ C5i8xY7LDL2UuurYnboBkNAfdA8h_1EYcicXeym1MWAAAfCfyvePMOQ.mr5R
+ lH4gxG5MGnvURVKRp_H2AAuA4nT5cBiJkcSNLvEJQee4eEMjcv3NBaJj4v0j
+ rsPHqy5dqaY_zgDbGk_6JXF7pK1wHToWEmhpBOiciFQALcIaHFOv8AtwnUm0
+ 8yCAZ265svJsA9i7WoBqblfbZ4U0v.2p98SySFUjtJHP5nSTSw4TC_DT0x08
+ c_K6_NQLUlBVv9LgzyCcYyV4_sjXWAWPgHWQLxSoizIaJ2S3moDJ._YKEKgY
+ VRAuAxHHF4x76vLfx_ROAi2DyDe61n0Wf4O_XLM6jhOpcsJAk1UZCiAeV_9j
+ KqnvqUHWRUFg7V_5dk9mzoYbGJjEchqyf.felFEvZ_yqIl1.qdknvHz_e1zE
+ qf11pxat4X1EAfATpS1Fp7eUCwrYjc_cdArVs7j42vXN0di.mcxcpKKwoJzm
+ rvyqh1E_mwW6qqCz.v54q1e_Nt8nNJVBcXiaowTI67Dv4c3hCKw4HtMwCPg9
+ TwK2VFLddA6XxZ1LLM1HTvpVn4Bs3jhu_TATatnSYJL680pN36NnPO92N5Jf
+ hw8UwolG7Z6KSJdqWx2yi0yBrM9gC5dIievG0q9EcVdHTvVOPwh7bAg5O__S
+ VJTM0mUqhIHDkCXE7eGc0wXdEU8ie6u7xnf2Xi..o9xn6s_3U7UIGqjx.zaS
+ OgvcTpvYENGQwXmDR9e6I3IcWXiNoRiU1Ix_l_Povbz03YXbUopUeCGXVb_2
+ d9lWha3bdTw62eMGyIYWRz87cCcZIa.v22NMGOoavtDoU_K4cFdUXRwU.oYN
+ VqvLB3I3sCo_n5IeyyVZ0vOW7d4Pyd7XQWZafbZn63kPdGh9TP_RCYJW865T
+ RIgtICVYzb84mb9Fj74_fh9fV5Y9Mofnh8.EUGDEf4o7AXdtxgtPBoZilM1O
+ uc6UQt4d.cI_ImMSn0lrnku6iRQCjWa8VlNyn4Lj58rIvUAR4fksRapfDt6s
+ X1f98SDy72UT.ZXjijzZwYpb42Thb1TRs4lxLbmbR38yYLEo60XaylgbLjn4
+ LhtKKgJFN0_hJoiKDt80vbfrdpizy9vpt1yvWUv8pReAnbQP.RbGpS3IqKHX
+ IXl3LIaMva4sU2sXUl27KqqUals_taE6tEqqi9ZSNnZvsVCjv0deHBKv
+Authentication-Results: mta1004.groups.mail.ne1.yahoo.com  from=yahoo.com; domainkeys=neutral (no sig);  from=yahoo.com; dkim=pass (ok)
+X-Received: from 127.0.0.1  (EHLO nm26.bullet.mail.ne1.yahoo.com) (98.138.90.89)
+  by mta1004.groups.mail.ne1.yahoo.com with SMTPS; Sun, 13 Sep 2015 16:24:38 +0000
+X-Received: from [98.138.100.117] by nm26.bullet.mail.ne1.yahoo.com with NNFMP; 13 Sep 2015 16:24:37 -0000
+X-Received: from [98.138.226.167] by tm108.bullet.mail.ne1.yahoo.com with NNFMP; 13 Sep 2015 16:24:37 -0000
+X-Received: from [127.0.0.1] by omp1068.mail.ne1.yahoo.com with NNFMP; 13 Sep 2015 16:24:37 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 875462.81787.bm@...
+X-Received: (qmail 29731 invoked by uid 60001); 13 Sep 2015 16:24:37 -0000
+X-YMail-OSG: RiI4MwkVM1l4nRiECs.qzT3epRrseRAMwPibRgRUcbM_SmA
+ aMDFG9aSYymjOt8dkrzeL18vodkJEl_x183.v0BGpoBYxY_7iBIK.sttEfGE
+ 6heWALGItGmKHXIUfW3fMUsbXKZverdId34y3AJJLoT1Hnyha68NtQDpKf74
+ BFWZYLg9d1EKU2bBeAgz4P53mAAGLRJUlXxLofioB4wDh4wZpi5GFy4cBphK
+ emZP80mdGe9rrtp1A1ohqhx1C0DAI6IIhE8zamFHSJJwDrwkAnrmCIbp8h5u
+ 9FC.c3cWwDl6VzAhxWYUmr62i47NJPuZKpJ2EVFtJj3kNb_IVXFyVtGrr5yn
+ fKVDyvDO1ACd2oLcK4zovDpiSzVY.TNagceYgr__4Ttv5MAVepAtyAXuJ3O4
+ 2gNwwqAGlsldn9j29eLzVb7oKJ45BfQytlAcW87wq9N7U.qvBAaGdqGeTcub
+ 7rhzeiCFL7t.BVgdOxFNVx64Ar80nROTL5QcJmT.da_BtkYpa9Yd0IXbkK7j
+ lklNOFt6PtWM4DH4l7lUo3.YiqI5U0aVkZn6rU_DCJ7VaK0Xzfp9tccMkHCu
+ 1Ip0UeJnvlkM-
+X-Received: from [117.195.213.128] by web122301.mail.ne1.yahoo.com via HTTP; Sun, 13 Sep 2015 09:24:37 PDT
+X-Mailer: YahooMailIosMobile/0.0 YahooMailWebService/0.8.203.813
+Message-ID: <1442161477.84801.YahooMailIosMobile@...>
+Date: Sun, 13 Sep 2015 09:24:37 -0700
+To: "vedic-wisdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset=us-ascii
+X-Originating-IP: 98.138.100.119
+Subject: Homam for guidance
+X-Yahoo-Group-Post: member; u=88547393; y=NOSZ-kC-qIeeaCB3KRlsvq1lbCFieNbLDnETdwQaXUNVlddso3s
+X-Yahoo-Profile: manibhushan
+From: ManiBhushan surya <manibhushan@...>
+
+<table cellspacing="0" cellpadding="0" border="0"><tr><td valign="top"><div id='yahoo__compose_area' style="background-color:white; display:block; font-family:HelveticaNeue-Regular,Helvetica;">Narasimha Rao sir,<div><br></div><div><br><div>Earlier  I was enquiring with you whether I can do homam for long hrs. You replied that it is ok.</div><div>I like to narrate my experience here.</div><div><br></div><div>I became so fascinated towards whole thing I don't feel like getting up once I  start. I start Ganesh homam and </div><div>Siva homam with moola mantra  oum hrim Namasivaiah<br><br>The moola mantra gradually getting repeated inside me</div><div>One day night  I was feeling that the mantra totally was engulfing me and I was telling it to go . In that moment it was looking like a snake.</div><div><br></div><div>After some time one day I got fever with  pain in my whole body. I had a feeling of all my nerves  running all though my body giving subtle
+ shocks.  Had a felling that some thing is  moving through my nerves. I went to doc and took some homeo medicine. applied relaxal ointment. by eveng it subsided.</div><div> Next day also I  was having fever  after that diahorrea for two days. I  became so weak and so down suddenly negative feelings started coming. I could overcome them quickly.  I stopped doing homam. interestingly my mind also became so silent . I don't feel like chanting . </div><div>Does this  have any relation to homam.</div><div><br></div><div>Regards</div><div>Mani<br><br><br><a href="https://yho.com/footer0">Sent from Yahoo Mail for iPad</a></div></div></div><div id='yahoo__original_message'></div></html></td></tr></table>
+
+

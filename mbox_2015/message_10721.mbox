@@ -1,0 +1,88 @@
+From durgesh.mishra@...  Wed Feb 17 11:07:49 2016
+Return-Path: <durgesh.mishra@...>
+X-Sender: durgesh.mishra@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 2955 invoked by uid 102); 14 Oct 2015 06:03:07 -0000
+X-Received: from unknown (HELO mtaq4.grp.bf1.yahoo.com) (10.193.84.143)
+  by m4.grp.bf1.yahoo.com with SMTP; 14 Oct 2015 06:03:07 -0000
+X-Received: (qmail 27900 invoked from network); 14 Oct 2015 06:03:06 -0000
+X-Received: from unknown (HELO mta1003.groups.mail.ne1.yahoo.com) (98.138.215.83)
+  by mtaq4.grp.bf1.yahoo.com with SMTP; 14 Oct 2015 06:03:06 -0000
+X-Original-Return-Path: <durgesh.mishra@...>
+X-Received-SPF: pass (domain of gmail.com designates 209.85.213.178 as permitted sender)
+X-YMailISG: OqAIaI4WLDsNpYpEeu0XBouNep_P9QrcBKhFPvsIKLPTsP97
+ Hht6M1ZThg6Dyr8vbhJtUPQUo5SpszFzP7QfnObGxxCp_gfprBFdQR4x_K0U
+ Z9LMHfGMBEGV_bpHBJcAQUJ7bYyTkgWjkyH3DXvbo47cSPCTUfJElShZsDw.
+ X93Q5TDh6F0jgCoq.7LAjrUxg12fdmnyJc9SCYvdV.eBcG2MhlnPX3x.y0f_
+ BHAZ9lbpi9Y5_klNqM4T2HyOcNqq_FmdEwbavVDSo7LCFXvqWTLLO9tquSSi
+ KoXlsv.gHwzFPd1uOKj4So5MsPUfh78OSfzdP0b0GgcNXI3.f9jnTUDvh8sQ
+ BafOjD7hAdYMgsQDQRfjpJi9EdmoK_V8k6UxXp9mC8GRcKbokDwWx4Xn3PSl
+ rbHeL31Y1QCnxMIke1q4A_UtRKdir1upszuVydGUmiCz_sFKQXXyfjTW_7A7
+ XfJQzDTo8wRFfuUZ09A5_G6b88CUqbps4_CvfsxRoH1Ij6lBDBrS5bO6Dn8J
+ 1eqJ7BEIwSu6qLBZDYmsgVRFahak1WyGAeHMVsLvWni70bSuf5RqglRcvWXp
+ Djg38GINdCdplkjsYokwr1WM.wgCfab69s7t7McMiErGUg98RjoyzdPQ7MEl
+ dFuYwlv8ZEgKEEnRtiDXC0lQ2kuPD0p7J4KAAjmAhexYEaFwLlQRfy.mE2mb
+ UOH5yzreWuLcFKeMICjT_5fe5.GrmGWkjlao.2KLwcmjftd49ng8ZO6H12yk
+ dC9nI_7fMBe9QV_02enV2ZIQcrcF0amhB4x6iy1s1LqGaTjScAYS2gUM5q1R
+ Vk675tC01HhPpk0nmxEVCKI.QOSJ12DJY.xBi1UfvLi.VytbMimEJcWZQF0U
+ 8Ch221S9hC4idbMNOOHozZUcgzYglbCiON3Y.Z9izNuOjuFPsCDIKhxEXvD1
+ pJAt2LzXoMoSEhdDLbe6Ew1xugaXCLEWGhvplvIfRkpD67p86QpuYqoOWBwv
+ OPQ51B6vW0sE2HAWojA_t4gHF9J5BSWMAljZxI5g04qMmX88LO6fU1RF30Ys
+ cESRv87JbSx6IHPAIuNx_X6PNBXW0TyRGFZgCgPSVr8ZtwpcCVJJeAxZONue
+ 2bdMqrLS5bc4bSp_jSj4GrlKj9yJBDjxTrfqgtqR4pTrsLZLbUZfXIRdrrDx
+ U3GbhypegfESdf.z.romcBJ675ia459gVaGJDptcUppY6jUFa2rJEYWKKt5Y
+ y3jQs4llrf9yVo2Dc8K.xvHcCeqGz1UaKiNSeMF0W8Lom12VztRVeqWXiI_t
+ R1mzLGSTV3uyNuednBV1m6o2qWiP1NiL6i9mo3nZDJQY3TXpiS4XChLkO1rU
+ WckpYKOEM5yBDMIEBTu1BKsMEgnwEyrWXItGmq67Q7IKEIxdLL0q9kKOYb4y
+ wEH5rF4rs4OGzpc62w--
+Authentication-Results: mta1003.groups.mail.ne1.yahoo.com  from=gmail.com; domainkeys=neutral (no sig);  from=gmail.com; dkim=pass (ok)
+X-Received: from 127.0.0.1  (EHLO mail-ig0-f178.google.com) (209.85.213.178)
+  by mta1003.groups.mail.ne1.yahoo.com with SMTPS; Wed, 14 Oct 2015 06:03:06 +0000
+X-Received: by igsu6 with SMTP id u6so9580921igs.1
+        for <vedic-wisdom@yahoogroups.com>; Tue, 13 Oct 2015 23:03:06 -0700 (PDT)
+MIME-Version: 1.0
+X-Received: by 10.50.102.4 with SMTP id fk4mr24155879igb.14.1444802586128;
+ Tue, 13 Oct 2015 23:03:06 -0700 (PDT)
+X-Received: by 10.36.203.70 with HTTP; Tue, 13 Oct 2015 23:03:06 -0700 (PDT)
+Date: Wed, 14 Oct 2015 11:33:06 +0530
+Message-ID: <CAJ9joEbHjzJL9Jf5Nwsa1Vngor=d=TEywM9_PgEiV8B1m3oS7w@...>
+To: vedic-wisdom@yahoogroups.com
+Content-Type: multipart/alternative; boundary=047d7b11198deab8a105220a5061
+X-Originating-IP: 98.138.215.83
+Subject: shaap vimochan for Durga Saptashati
+X-Yahoo-Group-Post: member; u=550723118; y=eBI57PyT2MU7TWbYxcJauNAnkwFuXgSabVXk6ChHoizs9sD0ZwUS01dS
+X-Yahoo-Profile: durgesh_for_you
+From: Durgesh Mishra <durgesh.mishra@...>
+
+
+--047d7b11198deab8a105220a5061
+Content-Type: text/plain; charset=UTF-8
+
+Namaste Gurujan,
+
+I came across this article about shaap vimochan and utkeelan before reading
+Durga Saptashati. I have never done this.
+
+Please share your views about it.
+
+http://www.sanatangyanpeeth.in/durga-saptashati-utkeelan/
+
+Regards
+Durgesh O Mishra
+
+--047d7b11198deab8a105220a5061
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Namaste Gurujan,
+<div><br></div><div>I came across this ar=
+ticle about shaap vimochan and utkeelan before reading Durga Saptashati. I =
+have never done this.</div><div><br></div><div>Please share your views abou=
+t it.</div><div><br></div><div><a href=3D"http://www.sanatangyanpeeth.in/du=
+rga-saptashati-utkeelan/">http://www.sanatangyanpeeth.in/durga-saptashati-u=
+tkeelan/</a><br></div><div><br></div><div>Regards</div><div>Durgesh O Mishr=
+a</div></div>
+
+--047d7b11198deab8a105220a5061--
+
+

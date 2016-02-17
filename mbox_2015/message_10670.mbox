@@ -1,0 +1,77 @@
+From seimpl@...  Wed Feb 17 11:07:48 2016
+Return-Path: <seimpl@...>
+X-Sender: seimpl@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 3619 invoked by uid 102); 29 Jun 2015 04:42:45 -0000
+X-Received: from unknown (HELO mtaq3.grp.bf1.yahoo.com) (10.193.84.142)
+  by m7.grp.bf1.yahoo.com with SMTP; 29 Jun 2015 04:42:45 -0000
+X-Received: (qmail 22701 invoked from network); 29 Jun 2015 04:42:45 -0000
+X-Received: from unknown (HELO mta1002.groups.mail.bf1.yahoo.com) (98.139.170.166)
+  by mtaq3.grp.bf1.yahoo.com with SMTP; 29 Jun 2015 04:42:45 -0000
+X-Original-Return-Path: <seimpl@...>
+X-Received-SPF: pass (domain of yahoo.com designates 98.139.213.144 as permitted sender)
+X-YMailISG: jqMamCQWLDs_latJvIJapxgqPJboScJwW_zL8qHozsL6Bs_1
+ oTdQuCQePoxq3TFkx.8VNLFWr9Q2MuIqsKa77ouGUaKPrX5cuotabpLiOKo6
+ LifdRWXeNFbpOMDKpUvyXw5GMP9bOLowc4PctRIT_OVUbl8MPT_64zRQZuHW
+ SRfr7xckvERQT9sHE_.7HZLBQNnTEP6CFQaHEYyC12sm1.LdZY5XK8NgmoUr
+ YU9G2hA08LqyH3ZlfCXF39kTmeK_4kW6S3N73dkI62vPT6xAXgWappS4dYxl
+ HKAvYQLLte0tr4W14F1bEDBMut59pacFq7ILMNCsgWH60iev4Oq9AmRYdtuu
+ odXhw7fu.WO6W56aiMQzNl3nYBWj0BzbnV7zRPiKBaaSIoeB1QPylJlYn93c
+ AYXbci_r7qpiOBj4xVqbrxWyLDotTl01cum9PtZgT_0DYuaFD.ep2otIR9_w
+ aD_QQ73ovwf2b1zh8VBX1Y_eFEBFqWfn_jetr7nlt2leA_M904xDyoZDif15
+ RI1wRV8DIEUg7do5gD9DZydxjo8_EImoyswZvgL3GT5a4kkygwKYROlYSNNB
+ ukVu5rF.13.39VxGHLsrL74NKYy.VcpojM07tYs6NoJXSsGYIbQ6lj2ph4xl
+ D4cB5UWVWY_0w_nF9uk3TT4vhew1dw4bWDrOJGFYGCMTgKd6_vG38b4lbTcU
+ MIDhCcAmViOe1kPal.czGKxmF7.hIqX2zgUoRjlpnb3msVsc6wKBKp4v8itJ
+ rTmtx7UNcabPP8XL4CNfMTUBFEofYls4XlSpU19j1id9B0A58g5jJMsof2ER
+ LXzdxgljpUT5SmWP_P8tx8SIabLQHSPMU266RaJKTqr9we4VU2svuTeRTv1o
+ .o2xYupObbyV7IFGOvHMKK9mxJTr8R_Sm7A.YK.1CKntdLdrIFlPCznHw_gJ
+ 7XGuFfqeo3LMzAmPWKZkwu5PnxxD.qbqzU4OHrfShL2agDa7o5i4l4QFP6qD
+ A8ZaUimnm1q9j_i90r9S6SiZv18DZTtix8kfOTNHwgBJWprm2orfedt4cUDl
+ GcpB0eSmIWSo.wdkjfrkLFtT6DKtkNwaLq2j5nCOdaGswZNIkS2WMKTGoC4r
+ ur_HlFrkcOqfLUTK17WRpXaOzb5jGSi9tNVwvHsNx1N6oYampvD7EASGQ5uB
+ oHfdUd21gLrGESWEyKMxdqwchkc1nzqg.ZZ3leXdrCagnF9yV2hW1blEW2qq
+ y9D3cUgFQuFnUQDx.zNsBQg.IW2sRDWI1aZhOXpPERlRfoJn4MJifUltj6aN
+ P3bJNnVXqAOlagPI7YyzhiRSgw8Kfhg2jToQjvrs7OvpA970_8rIgNc.rMAC
+ TT7RIlA8Pd9O4ROVaQjguFk-
+Authentication-Results: mta1002.groups.mail.bf1.yahoo.com  from=yahoo.com; domainkeys=neutral (no sig);  from=yahoo.com; dkim=pass (ok)
+X-Received: from 127.0.0.1  (EHLO nm29-vm1.bullet.mail.bf1.yahoo.com) (98.139.213.144)
+  by mta1002.groups.mail.bf1.yahoo.com with SMTPS; Mon, 29 Jun 2015 04:42:34 +0000
+X-Received: from [98.139.215.140] by nm29.bullet.mail.bf1.yahoo.com with NNFMP; 29 Jun 2015 04:42:34 -0000
+X-Received: from [98.139.211.195] by tm11.bullet.mail.bf1.yahoo.com with NNFMP; 29 Jun 2015 04:42:34 -0000
+X-Received: from [127.0.0.1] by smtp204.mail.bf1.yahoo.com with NNFMP; 29 Jun 2015 04:42:34 -0000
+X-Yahoo-Newman-Id: 467471.36476.bm@...
+X-Yahoo-Newman-Property: ymail-3
+X-YMail-OSG: 975OaXwVM1mfQ_imHEBo_To3_AYJ2Xcc50zwcb5WaRJFeyy
+ Mg5bMoabjqxzsYH9PgkJFKyi8ZbPY9WxPP4Ntd.pQsGegfN7O7RvngaB7sBo
+ 7N_1.nv9Dbfn23rBt2bfL19xFVJR4.dZJzWq3ULlnU38vuXtjeegVtxp.e_z
+ T1hfLA8vOBJ95CXucgvsvdVPB9MJrV6_b.DttWXWsiNoyaVtlMun9xmuPFuN
+ 5dfHklnAKs6gHRLhdtwTO404DduQqS4cDRfWFDgn434KnAKLiLhi1g6LCzew
+ YcOL5nuJd4t7jpp9l0dkE20Z4GqTWWmkTcM9HGp.nYFoCzNRDg3E9v4rnxRY
+ .ppTt_NaUFcb4DIpT3ykzsdt3naN9K11lbpHFf5oShA.nPb.1KX_eqauey.O
+ l5TDt4sfLaoZ8ybpD_2LNGwHrIcyOnHXfWI8rF7RD6xjmfqYXcaRtWJtCuhW
+ 8zgM9ucrwc3icAjDFoYY4Qw930HhjdNMJxtSzhbd33vtBvVyYg0alqYQR2ol
+ _h3BJhj3uaD2yZe1yiY5GbqQ6_N9mEoFYkCQ0OtbEL_W_lI281Es-
+X-Yahoo-SMTP: gSodYHmswBCztwjflOenUT7hAw--
+Content-Type: text/plain;
+	charset=us-ascii
+X-Mailer: iPhone Mail (11D257)
+Message-Id: <D3F5F930-8E72-425B-A194-8B2C7A316C39@...>
+Date: Mon, 29 Jun 2015 10:12:28 +0530
+To: "vedic-wisdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com>
+Content-Transfer-Encoding: 7bit
+Mime-Version: 1.0 (1.0)
+X-Originating-IP: 98.139.170.166
+Subject: Re: To be added in the whatsapp group
+X-Yahoo-Group-Post: member; u=346294434; y=2sIZu4welxrJB_VubDCzTAkvAYLMmk6r6esnECPzE3LY
+X-Yahoo-Profile: seimpl
+From: Rajasekharrao <seimpl@...>
+
+Pls add my number to whatsapp Dr Rajasekhar number 9849350942 
+
+Thank u 
+Dr rajasekhar 
+
+Sent from my iPhone
+
+

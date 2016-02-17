@@ -1,0 +1,618 @@
+From realraghu@...  Wed Feb 17 11:07:49 2016
+Return-Path: <realraghu@...>
+X-Sender: realraghu@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 12579 invoked by uid 102); 26 Sep 2015 15:55:41 -0000
+X-Received: from unknown (HELO mtaq3.grp.bf1.yahoo.com) (10.193.84.142)
+  by m12.grp.bf1.yahoo.com with SMTP; 26 Sep 2015 15:55:41 -0000
+X-Received: (qmail 31313 invoked from network); 26 Sep 2015 15:55:41 -0000
+X-Received: from unknown (HELO mta1003.groups.mail.ne1.yahoo.com) (98.138.215.83)
+  by mtaq3.grp.bf1.yahoo.com with SMTP; 26 Sep 2015 15:55:41 -0000
+X-Original-Return-Path: <realraghu@...>
+X-Received-SPF: pass (domain of yahoo.com designates 98.138.91.242 as permitted sender)
+X-YMailISG: CV63ReYWLDtz74cTLzBE.fCPyBR6yuvEgAlz25asjmEkncNS
+ gRnKfAmnyJ3J3mmZFxZcscjiyngf_yiLWQ8eZRauLywk4ZsX7geprSN.7HzS
+ I2oi.q5I091eeDzc4JBHocS_0xA92zKX17vw7yU1_zVaiRBmNgXln0b268hH
+ .XecyJpGqLQMf1e_hamuWOe01jnAw9PuvDrour.SNRMiWn6MuW7gUlyjpkgH
+ N5e0DLsiJ0Us5vEc4KZtsTr6uYTBkdWOoGpsdbk5NEc6azyCxhpv6fFuvCgR
+ gtv5SsgawuCrI8wLqx2ZZdajUzV9RD4FRXg7fVI33i.SGi2UYy9Tjj9TjxFC
+ H68QoXcegATYCZIKR1Htg87frlC8pXOyR6ZjPBbGpC1PyotfK5FwoDsjrXWe
+ iJUHsCkgUFg2.HHmIL7hTw4bNEw4bL9QpgT3fETzlvguCPcMI2pWS1wZarEq
+ nUyYVUEtHewsmjUzCRzzkFMFXYVQRUtcCq.Kik4ykyEXBnlCrK9xtVrtlv5c
+ 70wOeolH_hQQS5JtXlgR.YcGXnkWqkUA3_jfYe3l07hEyUd8TMVlaxzaBEwJ
+ DzJHZ9UOBALbU7PAUPnk7d8chq6TSfa4Q88S_uPVnjOqhsEs1m05YsiLHnIn
+ Gr4MVbDXpXoze0klmxb6UkupiZGTZv9qsetFSCdG_uWQxvIkuiygAkyetCHc
+ qdZrfE8Z34uFNbfGfsODuTuwDh6ous3nGavE8DHxJRWCIg1CIcNdBUCcLA6K
+ 9.GGbLJqh_W6_N3DAltdOn2uoRKcP7bgXL6cK4NCZFOb8e9mQyft2jgqxuyf
+ CCibzJuTEYCrEHJiqVtcyKBafkFvBmjoq1AlT_hkZnHbZfF9jphjIXcVAIaf
+ qNyJlwLRPP2LUVvehP9413Hb3_QFlFYlaxF8jwrKOi.3fD3KPWYR_QbOwWux
+ 6pW3JI2Z6GfTW6EBjatiQngQAX2Ubc0NjHZHnoUFP_VhLhuu8PRYmsSzuI3k
+ 2sIJ3GlpI3yc47NzLJ60NMyu3MrtmxdQ1f6lUDwxcsDBOgQM3J1NCc7X.BAY
+ l3Fw3TipvXohEYOvQKEMkh4Q6a5d1N879VEeunrcGmBee4d_PzpueM3UrmKb
+ KYUyHqrsSpeBzxF9ytVryaraReAUiAK8rTNfymBhaMqMzLchzIvmLs_ClJlR
+ t.ACh2_b70zdeS7BwFSd_9PBXVCKMIh5eLNtKOPHU9AaqiIQ24N6ydJQzrYd
+ rjO7pIpyzz9xnHGAu1XifBm.KZgGggldBtyPvJG5y9utRfCEH_APGGuUPgn_
+ yU9NnhvwFM3gHoyCTS2KZS0QW8mT.SMNwpM6CcVORbnumAC7qWEHQP5vbbIV
+ Ej9TVGhyiwd719oIVh0YcvO2eZ47p8B4rNGNfBIo4MJSI_d3eFkydfyHeR4K
+ b1Aj50C_5xDr7vF8SGvfkJSqijSqM_11vmezi8pkJPiV4rUnNvsQbx0X8zjA
+ 40RMShu_c_oAlKbbHhvfCtqocxrr_nNzce1BnZ5Jm1h52skYwEUlFRig2XYp
+ e6anme47MRKLmv1nqVdC_EYdb2j7gT7.A5GN2QpzAuckJSGZsb1iOa0ElIdY
+ v7PCMOVSIJRUtfXqe3RqY5gjUuZ9twGu0496keZ7PW54PnGeduPtD_jrZ3HT
+ ZJMhFWPN63G5r.uT7ol6X2CrInHgUHHe1MsrcOYeKNRf
+Authentication-Results: mta1003.groups.mail.ne1.yahoo.com  from=yahoo.com; domainkeys=neutral (no sig);  from=yahoo.com; dkim=pass (ok)
+X-Received: from 127.0.0.1  (EHLO nm20-vm5.bullet.mail.ne1.yahoo.com) (98.138.91.242)
+  by mta1003.groups.mail.ne1.yahoo.com with SMTPS; Sat, 26 Sep 2015 15:55:40 +0000
+X-Received: from [98.138.226.177] by nm20.bullet.mail.ne1.yahoo.com with NNFMP; 26 Sep 2015 15:55:40 -0000
+X-Received: from [98.138.226.168] by tm12.bullet.mail.ne1.yahoo.com with NNFMP; 26 Sep 2015 15:55:40 -0000
+X-Received: from [127.0.0.1] by omp1069.mail.ne1.yahoo.com with NNFMP; 26 Sep 2015 15:55:40 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 593841.46637.bm@...
+X-YMail-OSG: YfQKWhQVM1ktWUxYL94sbF8.r4UHUc.gWauplM51uraR3waEqN6RM9MTfFLp6UK
+ nh85mhRK1_16e5tlAfYhJ94VoyMVaYyUUow._IBFP0sqwHcA5NSZldVlxoitiEVlEyjYjQI22eV6
+ c2H_901AO_mbZ9Km2CnyZxFRHKFagSY0U58PUXPD5VD0MQrvurjWLeQKaVKa1wGGJQmrU2IKgFvD
+ CrCBEeGgZ2Nv3H7VwTgDKKOoKdxMjTCNbbyhg5l8BqAMlLqh3F87YE96C35kWTZr6AJBJpD6byQu
+ MUP2llTsTjweyH3A3MZzE8amr9gK.s2z3R_kL.iTx67C9V7T1g0xWFnOppBvO9f3DS0F4dVO1o_Q
+ plHXhez5RPc0nVIvhh0gVgrgQfmXQ_SxLsmU3F8O3vnlLXj.PI7gmuFr6Q5qcN1C2qI_rCaODjDK
+ jOZc_qcU3iF9Xexqwrul28AZbAumuDXzwI4pLKUecWPFP8A0vNLD4RgwBncnqCRLaC4ggt8HxyGx
+ YFOeXvkD1Yh36Y7k-
+X-Received: by 98.138.101.168; Sat, 26 Sep 2015 15:55:40 +0000 
+Date: Sat, 26 Sep 2015 15:55:39 +0000 (UTC)
+To: "vedic-wisdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com>
+Message-ID: <678579233.1405432.1443282939695.JavaMail.yahoo@...>
+In-Reply-To: <1644282128.986190.1443281171120.JavaMail.yahoo@...>
+References: <1644282128.986190.1443281171120.JavaMail.yahoo@...>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_1405431_1384319109.1443282939683"
+Content-Length: 30642
+X-Originating-IP: 98.138.215.83
+Reply-To: Raghunath Anisingaraju <realraghu@...>
+Subject: Re: [vedic-wisdom] A facebook  post about sadhana during Lunar
+ Eclipse by Guru Narasimha Rao
+X-Yahoo-Group-Post: member; u=62734983; y=sqF2rdMUtVuzZBtP7fJTFUQLkGwq_NPZ1aD0rhfSWVa01FaV
+X-Yahoo-Profile: realraghu
+From: Raghunath Anisingaraju <realraghu@...>
+
+
+------=_Part_1405431_1384319109.1443282939683
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Happy Shani Trayodashi, check out the Video about Shani Deva here (youtube =
+Video)
+Check your Tarabalam
+
+| =C2=A0 |
+| =C2=A0 |  | =C2=A0 | =C2=A0 | =C2=
+=A0 | =C2=A0 | =C2=A0 |
+| Check your TarabalamFree Personalized Muhurthas P=
+ooja Services ... |
+|  |
+| View on tarabalam.com | Preview by Yahoo |
+|  |
+=
+| =C2=A0 |
+
+
+ 
+
+
+     On Saturday, September 26, 2015 11:26 AM, "vivek shar=
+ma viveksharma_bt@... [vedic-wisdom]" <vedic-wisdom@yahoogroups.com> =
+wrote:
+   
+
+ =C2=A0   Dear All,
+Please see the link below about Sadhana dur=
+ing Lunar Eclipse by Guru Narasimha Rao:
+https://www.facebook.com/pvr108/po=
+sts/10153226160608284
+
+Thanks,Vivek  #yiv9615788053 #yiv9615788053 -- #yiv9=
+615788053ygrp-mkp {border:1px solid #d8d8d8;font-family:Arial;margin:10px 0=
+;padding:0 10px;}#yiv9615788053 #yiv9615788053ygrp-mkp hr {border:1px solid=
+ #d8d8d8;}#yiv9615788053 #yiv9615788053ygrp-mkp #yiv9615788053hd {color:#62=
+8c2a;font-size:85%;font-weight:700;line-height:122%;margin:10px 0;}#yiv9615=
+788053 #yiv9615788053ygrp-mkp #yiv9615788053ads {margin-bottom:10px;}#yiv96=
+15788053 #yiv9615788053ygrp-mkp .yiv9615788053ad {padding:0 0;}#yiv96157880=
+53 #yiv9615788053ygrp-mkp .yiv9615788053ad p {margin:0;}#yiv9615788053 #yiv=
+9615788053ygrp-mkp .yiv9615788053ad a {color:#0000ff;text-decoration:none;}=
+#yiv9615788053 #yiv9615788053ygrp-sponsor #yiv9615788053ygrp-lc {font-famil=
+y:Arial;}#yiv9615788053 #yiv9615788053ygrp-sponsor #yiv9615788053ygrp-lc #y=
+iv9615788053hd {margin:10px 0px;font-weight:700;font-size:78%;line-height:1=
+22%;}#yiv9615788053 #yiv9615788053ygrp-sponsor #yiv9615788053ygrp-lc .yiv96=
+15788053ad {margin-bottom:10px;padding:0 0;}#yiv9615788053 #yiv9615788053ac=
+tions {font-family:Verdana;font-size:11px;padding:10px 0;}#yiv9615788053 #y=
+iv9615788053activity {background-color:#e0ecee;float:left;font-family:Verda=
+na;font-size:10px;padding:10px;}#yiv9615788053 #yiv9615788053activity span =
+{font-weight:700;}#yiv9615788053 #yiv9615788053activity span:first-child {t=
+ext-transform:uppercase;}#yiv9615788053 #yiv9615788053activity span a {colo=
+r:#5085b6;text-decoration:none;}#yiv9615788053 #yiv9615788053activity span =
+span {color:#ff7900;}#yiv9615788053 #yiv9615788053activity span .yiv9615788=
+053underline {text-decoration:underline;}#yiv9615788053 .yiv9615788053attac=
+h {clear:both;display:table;font-family:Arial;font-size:12px;padding:10px 0=
+;width:400px;}#yiv9615788053 .yiv9615788053attach div a {text-decoration:no=
+ne;}#yiv9615788053 .yiv9615788053attach img {border:none;padding-right:5px;=
+}#yiv9615788053 .yiv9615788053attach label {display:block;margin-bottom:5px=
+;}#yiv9615788053 .yiv9615788053attach label a {text-decoration:none;}#yiv96=
+15788053 blockquote {margin:0 0 0 4px;}#yiv9615788053 .yiv9615788053bold {f=
+ont-family:Arial;font-size:13px;font-weight:700;}#yiv9615788053 .yiv9615788=
+053bold a {text-decoration:none;}#yiv9615788053 dd.yiv9615788053last p a {f=
+ont-family:Verdana;font-weight:700;}#yiv9615788053 dd.yiv9615788053last p s=
+pan {margin-right:10px;font-family:Verdana;font-weight:700;}#yiv9615788053 =
+dd.yiv9615788053last p span.yiv9615788053yshortcuts {margin-right:0;}#yiv96=
+15788053 div.yiv9615788053attach-table div div a {text-decoration:none;}#yi=
+v9615788053 div.yiv9615788053attach-table {width:400px;}#yiv9615788053 div.=
+yiv9615788053file-title a, #yiv9615788053 div.yiv9615788053file-title a:act=
+ive, #yiv9615788053 div.yiv9615788053file-title a:hover, #yiv9615788053 div=
+.yiv9615788053file-title a:visited {text-decoration:none;}#yiv9615788053 di=
+v.yiv9615788053photo-title a, #yiv9615788053 div.yiv9615788053photo-title a=
+:active, #yiv9615788053 div.yiv9615788053photo-title a:hover, #yiv961578805=
+3 div.yiv9615788053photo-title a:visited {text-decoration:none;}#yiv9615788=
+053 div#yiv9615788053ygrp-mlmsg #yiv9615788053ygrp-msg p a span.yiv96157880=
+53yshortcuts {font-family:Verdana;font-size:10px;font-weight:normal;}#yiv96=
+15788053 .yiv9615788053green {color:#628c2a;}#yiv9615788053 .yiv9615788053M=
+soNormal {margin:0 0 0 0;}#yiv9615788053 o {font-size:0;}#yiv9615788053 #yi=
+v9615788053photos div {float:left;width:72px;}#yiv9615788053 #yiv9615788053=
+photos div div {border:1px solid #666666;height:62px;overflow:hidden;width:=
+62px;}#yiv9615788053 #yiv9615788053photos div label {color:#666666;font-siz=
+e:10px;overflow:hidden;text-align:center;white-space:nowrap;width:64px;}#yi=
+v9615788053 #yiv9615788053reco-category {font-size:77%;}#yiv9615788053 #yiv=
+9615788053reco-desc {font-size:77%;}#yiv9615788053 .yiv9615788053replbq {ma=
+rgin:4px;}#yiv9615788053 #yiv9615788053ygrp-actbar div a:first-child {margi=
+n-right:2px;padding-right:5px;}#yiv9615788053 #yiv9615788053ygrp-mlmsg {fon=
+t-size:13px;font-family:Arial, helvetica, clean, sans-serif;}#yiv9615788053=
+ #yiv9615788053ygrp-mlmsg table {font-size:inherit;font:100%;}#yiv961578805=
+3 #yiv9615788053ygrp-mlmsg select, #yiv9615788053 input, #yiv9615788053 tex=
+tarea {font:99% Arial, Helvetica, clean, sans-serif;}#yiv9615788053 #yiv961=
+5788053ygrp-mlmsg pre, #yiv9615788053 code {font:115% monospace;}#yiv961578=
+8053 #yiv9615788053ygrp-mlmsg * {line-height:1.22em;}#yiv9615788053 #yiv961=
+5788053ygrp-mlmsg #yiv9615788053logo {padding-bottom:10px;}#yiv9615788053 #=
+yiv9615788053ygrp-msg p a {font-family:Verdana;}#yiv9615788053 #yiv96157880=
+53ygrp-msg p#yiv9615788053attach-count span {color:#1E66AE;font-weight:700;=
+}#yiv9615788053 #yiv9615788053ygrp-reco #yiv9615788053reco-head {color:#ff7=
+900;font-weight:700;}#yiv9615788053 #yiv9615788053ygrp-reco {margin-bottom:=
+20px;padding:0px;}#yiv9615788053 #yiv9615788053ygrp-sponsor #yiv9615788053o=
+v li a {font-size:130%;text-decoration:none;}#yiv9615788053 #yiv9615788053y=
+grp-sponsor #yiv9615788053ov li {font-size:77%;list-style-type:square;paddi=
+ng:6px 0;}#yiv9615788053 #yiv9615788053ygrp-sponsor #yiv9615788053ov ul {ma=
+rgin:0;padding:0 0 0 8px;}#yiv9615788053 #yiv9615788053ygrp-text {font-fami=
+ly:Georgia;}#yiv9615788053 #yiv9615788053ygrp-text p {margin:0 0 1em 0;}#yi=
+v9615788053 #yiv9615788053ygrp-text tt {font-size:120%;}#yiv9615788053 #yiv=
+9615788053ygrp-vital ul li:last-child {border-right:none !important;}#yiv96=
+15788053 
+
+  
+------=_Part_1405431_1384319109.1443282939683
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"color:#000; background-color:#fff; font-family:He=
+lveticaNeue, Helvetica Neue, Helvetica, Arial, Lucida Grande, sans-serif;fo=
+nt-size:13px"><div id=3D"yui_3_16_0_1_1443255571893_44942" dir=3D"ltr"><spa=
+n id=3D"yui_3_16_0_1_1443255571893_45149">Happy Shani Trayodashi, check out=
+ the Video about Shani Deva here (youtube Video)</span></div><div id=3D"yui=
+_3_16_0_1_1443255571893_44942" dir=3D"ltr"><span><br></span></div><div id=
+=3D"yui_3_16_0_1_1443255571893_44942" dir=3D"ltr"><span id=3D"yui_3_16_0_1_=
+1443255571893_44984"><a href=3D"http://tarabalam.com/" id=3D"yui_3_16_0_1_1=
+443255571893_44981">Check your Tarabalam</a><br></span></div><div style=3D"=
+width:450px; font-family: 'Georgia', 'Times', 'Times New Roman', 'serif';ma=
+rgin-top:5px; margin-bottom: 5px; background-color: #ffffff;" contenteditab=
+le=3D"false" id=3D"enhancrCard_0" class=3D"link-enhancr-attachment link-enh=
+ancr-element richcompose-card"><table class=3D"link-enhancr-element" cellsp=
+acing=3D"0" cellpadding=3D"0" border=3D"0" style=3D"width:450px; height:170=
+px; position: relative; display: block;" id=3D"yui_3_16_0_1_1443255571893_4=
+5153"><tbody id=3D"yui_3_16_0_1_1443255571893_45152"><tr class=3D"link-enha=
+ncr-element"><td class=3D"link-enhancr-element" colspan=3D"8" style=3D"heig=
+ht: 1px; background-color: #e5e5e5; font-size: 1px; border-collapse: collap=
+se;"><div class=3D"link-enhancr-element" style=3D"height: 1px; background-c=
+olor: #e5e5e5; font-size: 1px; line-height:0px;"> </div></td></tr><tr =
+class=3D"link-enhancr-element" id=3D"yui_3_16_0_1_1443255571893_45168"><td =
+rowspan=3D"5" class=3D"link-enhancr-element" style=3D"width: 1px; backgroun=
+d-color: #e5e5e5; font-size: 1pt; border-collapse: collapse;"><div class=3D=
+"link-enhancr-element" style=3D"width: 1px; background-color: #e5e5e5; font=
+-size: 1pt;"> </div></td><td class=3D"link-enhancr-element link-enhanc=
+r-image-wrap" rowspan=3D"5" style=3D"vertical-align: middle; width: 168px; =
+height: 168px; background-color: #000000;border-collapse: collapse;" id=3D"=
+yui_3_16_0_1_1443255571893_45167"><div class=3D"link-enhancr-element" style=
+=3D"width: 168px;" align=3D"center"><a href=3D"http://tarabalam.com/" class=
+=3D"link-enhancr-card-urlWrapper link-enhancr-element" style=3D"text-decora=
+tion: none !important;text-decoration:none; color: #000000 !important;"><im=
+g alt=3D"image" src=3D"http://tarabalam.com/assets/client/images/tarabalam.=
+png" class=3D"link-enhancr-thumbnail-image link-enhancr-element yahoo-ignor=
+e-inline-image" width=3D"168" height=3D"32" style=3D"display: block; margin=
+: auto;" data-id=3D"261402a3-be84-f571-90f7-17a84212563e"></a></div></td><t=
+d rowspan=3D"5" class=3D"link-enhancr-element" style=3D"width: 1px; backgro=
+und-color: #e5e5e5; font-size: 0pt; border-collapse: collapse;"><div class=
+=3D"link-enhancr-element" style=3D"width: 1px; background-color: #e5e5e5; f=
+ont-size: 1pt;"> </div></td><td rowspan=3D"5" class=3D"link-enhancr-el=
+ement" style=3D"width: 14px; background-color: #ffffff; font-size: 0pt; bor=
+der-collapse: collapse;"><div class=3D"link-enhancr-element" style=3D"width=
+: 14px; background-color: #ffffff; font-size: 14pt;"> </div></td><td c=
+olspan=3D"2" class=3D"link-enhancr-element" style=3D"height: 6px; backgroun=
+d-color: #ffffff; font-size: 0pt; border-collapse: collapse;"><div class=3D=
+"link-enhancr-element" style=3D"height: 6px; background-color: #ffffff; fon=
+t-size: 6pt;"> </div></td><td rowspan=3D"5" class=3D"link-enhancr-elem=
+ent" style=3D"width: 20px; background-color: #ffffff; font-size: 0pt; borde=
+r-collapse: collapse;"><div class=3D"link-enhancr-element" style=3D"width: =
+20px; background-color: #ffffff; font-size: 20pt;"> </div></td><td cla=
+ss=3D"link-enhancr-element" rowspan=3D"5" width=3D"1" style=3D"width: 1px; =
+background-color: #e5e5e5; font-size: 1pt; border-collapse: collapse;"><div=
+ class=3D"link-enhancr-element" style=3D"width: 1px; background-color: #e5e=
+5e5; font-size: 1pt;"> </div></td></tr><tr id=3D"yui_3_16_0_1_14432555=
+71893_45151"><td class=3D"link-enhancr-element" colspan=3D"2" style=3D"widt=
+h: 100%; vertical-align: middle; font-family: 'Georgia', 'Times', 'Times Ne=
+w Roman', 'serif';" id=3D"yui_3_16_0_1_1443255571893_45150"><div class=3D"l=
+ink-enhancr-text-part link-enhancr-element" style=3D"line-height:16.5px; ba=
+ckground-color: #ffffff; height: 135px; width: 245px;"><div class=3D"link-e=
+nhancr-element" style=3D"word-wrap: break-word; word-break: break-all;"><sp=
+an class=3D"link-enhancr-element icon  icon-shrink link-enhancr-toggle"></s=
+pan><span class=3D"link-enhancr-element icon icon-close link-enhancr-delete=
+"></span><a href=3D"http://tarabalam.com/" class=3D"link-enhancr-card-urlWr=
+apper link-enhancr-element" style=3D"text-decoration: none !important;text-=
+decoration:none; color: #000000 !important; line-height: 100%; font-size: 1=
+8px; display: block;"><span class=3D"link-enhancr-element link-enhancr-card=
+-title" style=3D"margin: 0; font-weight: normal;margin-bottom: 3px; font-si=
+ze: 18px; line-height: 21px; max-height: 43px; color: #000000; overflow: hi=
+dden !important; display: inline-block;">Check your Tarabalam</span></a><di=
+v style=3D"font-size: 13px; line-height: 20px; color: #999999; max-height: =
+81px; font-family: 'Georgia', 'Times', 'Times New Roman', 'serif';overflow:=
+ hidden;" class=3D"link-enhancr-card-description link-enhancr-element">Free=
+ Personalized Muhurthas 
+                
+                    
+            =
+    
+                
+                    Pooja Services 
+
+                =
+
+         ...</div></div></div></td></tr><tr id=3D"yui_3_16_0_1_14432555718=
+93_45156"><td colspan=3D"2" class=3D"link-enhancr-element" style=3D"height:=
+ 4px; background-color: #ffffff; font-size: 0pt; border-collapse: collapse;=
+" id=3D"yui_3_16_0_1_1443255571893_45155"><div class=3D"link-enhancr-elemen=
+t" style=3D"height: 4px; background-color: #ffffff; font-size: 4pt;" id=3D"=
+yui_3_16_0_1_1443255571893_45154"></div></td></tr><tr><td class=3D"link-enh=
+ancr-element" style=3D"vertical-align: middle; font-family: 'Arial', 'Helve=
+tica Neue', 'Helvetica', 'sans-serif';"><div class=3D"link-enhancr-element"=
+ style=3D"font-size: 0pt;"><a href=3D"http://tarabalam.com/" class=3D"link-=
+enhancr-card-url link-enhancr-element" style=3D"color: black; text-decorati=
+on: none !important;text-decoration:none;cursor:pointer !important;" target=
+=3D"_blank"><span class=3D"link-enhancr-element link-enhancr-view-on" style=
+=3D"display: inline-block; line-height: 11px; max-width: 145px; min-width: =
+85px; overflow: hidden; max-height: 13px; word-break: break-all;" id=3D"yui=
+_3_16_0_1_1443255571893_45000"><span class=3D"link-enhancr-element link-enh=
+ancr-mobile-no-resize" style=3D"vertical-align:middle; font-size: 9px; line=
+-height: 11px; color: #999999; -moz-text-size-adjust: none; -ms-text-size-a=
+djust: none; -webkit-text-size-adjust:none; text-size-adjust:none;">View on=
+ <span style=3D"font-weight: bold" class=3D"link-enhancr-view-on-domain">ta=
+rabalam.com</span></span></span></a></div></td><td class=3D"link-enhancr-el=
+ement" style=3D"vertical-align: middle; width: 100px; font-family: 'Arial',=
+ 'Helvetica Neue', 'Helvetica', 'sans-serif';"><div class=3D"link-enhancr-e=
+lement link-enhancr-preview-wrapper" style=3D"max-width: 100px; min-width: =
+80px; overflow: hidden; text-align: right; line-height: 11px; max-height: 1=
+3px; font-size: 0pt;"><span class=3D"link-enhancr-element link-enhancr-prev=
+iew-by link-enhancr-mobile-no-resize" style=3D"vertical-align:middle; font-=
+size: 9px; line-height: 11px; color: #999999; -moz-text-size-adjust: none; =
+-ms-text-size-adjust: none; -webkit-text-size-adjust:none; text-size-adjust=
+:none;">Preview by Yahoo</span></div></td></tr><tr><td colspan=3D"2" class=
+=3D"link-enhancr-element" style=3D"height: 9px; background-color: #ffffff; =
+font-size: 0pt; border-collapse: collapse;"><div class=3D"link-enhancr-elem=
+ent" style=3D"height: 9px; background-color: #ffffff; font-size: 9pt;"></di=
+v></td></tr><tr class=3D"link-enhancr-element" id=3D"yui_3_16_0_1_144325557=
+1893_45159"><td class=3D"link-enhancr-element" colspan=3D"8" style=3D"heigh=
+t: 1px; background-color: #e5e5e5; font-size: 1px; border-collapse: collaps=
+e;" id=3D"yui_3_16_0_1_1443255571893_45158"><div class=3D"link-enhancr-elem=
+ent" style=3D"height: 1px; background-color: #e5e5e5; font-size: 1px; line-=
+height:0px" id=3D"yui_3_16_0_1_1443255571893_45157"> </div></td></tr><=
+/tbody></table></div><div id=3D"yui_3_16_0_1_1443255571893_44942"><br></div=
+>  <br><div class=3D"qtdSeparateBR"><br><br></div><div class=3D"yahoo_quote=
+d" style=3D"display: block;"> <div style=3D"font-family: HelveticaNeue, Hel=
+vetica Neue, Helvetica, Arial, Lucida Grande, sans-serif; font-size: 13px;"=
+> <div style=3D"font-family: HelveticaNeue, Helvetica Neue, Helvetica, Aria=
+l, Lucida Grande, sans-serif; font-size: 16px;"> <div dir=3D"ltr"> <font si=
+ze=3D"2" face=3D"Arial"> On Saturday, September 26, 2015 11:26 AM, "vivek s=
+harma viveksharma_bt@... [vedic-wisdom]" <vedic-wisdom@yahoogroups=
+.com> wrote:<br> </font> </div>  <br><br> <div class=3D"y_msg_container"=
+><div id=3D"yiv9615788053"><div>
+<span style=3D"display:none;"> </span=
+>
+
+
+<div id=3D"yiv9615788053ygrp-mlmsg" style=3D"">
+  <div id=3D"yiv9615788=
+053ygrp-msg" style=3D"">
+
+
+    <div id=3D"yiv9615788053ygrp-text">
+      
+ =
+     
+      <div></div><div style=3D"color:#000;background-color:#fff;font-=
+family:verdana, helvetica, sans-serif;font-size:16px;"><div id=3D"yiv961578=
+8053yui_3_16_0_1_1443280744657_2714">Dear All,</div><div id=3D"yiv961578805=
+3yui_3_16_0_1_1443280744657_2714"><br clear=3D"none"></div><div id=3D"yiv96=
+15788053yui_3_16_0_1_1443280744657_2714">Please see the link below about Sa=
+dhana during Lunar Eclipse by Guru Narasimha Rao:</div><div id=3D"yiv961578=
+8053yui_3_16_0_1_1443280744657_2714"><br clear=3D"none"></div><div dir=3D"l=
+tr" id=3D"yiv9615788053yui_3_16_0_1_1443280744657_2714"><a rel=3D"nofollow"=
+ shape=3D"rect" id=3D"yiv9615788053yui_3_16_0_1_1443280744657_2883" target=
+=3D"_blank" href=3D"https://www.facebook.com/pvr108/posts/10153226160608284=
+">https://www.facebook.com/pvr108/posts/10153226160608284</a><br clear=3D"n=
+one"></div><div dir=3D"ltr" id=3D"yiv9615788053yui_3_16_0_1_1443280744657_2=
+714"><br clear=3D"none"></div><div dir=3D"ltr" id=3D"yiv9615788053yui_3_16_=
+0_1_1443280744657_2714">Thanks,</div><div dir=3D"ltr" id=3D"yiv9615788053yu=
+i_3_16_0_1_1443280744657_2714">Vivek</div></div>
+
+    </div>
+     
+
+    
+  =
+  <div style=3D"color:#fff;height:0;"></div></div>
+
+
+</div><style type=3D"t=
+ext/css">
+#yiv9615788053 #yiv9615788053 --
+  #yiv9615788053ygrp-mkp {
+borde=
+r:1px solid #d8d8d8;font-family:Arial;margin:10px 0;padding:0 10px;}
+
+#yiv9=
+615788053 #yiv9615788053ygrp-mkp hr {
+border:1px solid #d8d8d8;}
+
+#yiv96157=
+88053 #yiv9615788053ygrp-mkp #yiv9615788053hd {
+color:#628c2a;font-size:85%=
+;font-weight:700;line-height:122%;margin:10px 0;}
+
+#yiv9615788053 #yiv96157=
+88053ygrp-mkp #yiv9615788053ads {
+margin-bottom:10px;}
+
+#yiv9615788053 #yiv=
+9615788053ygrp-mkp .yiv9615788053ad {
+padding:0 0;}
+
+#yiv9615788053 #yiv961=
+5788053ygrp-mkp .yiv9615788053ad p {
+margin:0;}
+
+#yiv9615788053 #yiv9615788=
+053ygrp-mkp .yiv9615788053ad a {
+color:#0000ff;text-decoration:none;}
+#yiv9=
+615788053 #yiv9615788053ygrp-sponsor #yiv9615788053ygrp-lc {
+font-family:Ar=
+ial;}
+
+#yiv9615788053 #yiv9615788053ygrp-sponsor #yiv9615788053ygrp-lc #yiv=
+9615788053hd {
+margin:10px 0px;font-weight:700;font-size:78%;line-height:12=
+2%;}
+
+#yiv9615788053 #yiv9615788053ygrp-sponsor #yiv9615788053ygrp-lc .yiv9=
+615788053ad {
+margin-bottom:10px;padding:0 0;}
+
+#yiv9615788053 #yiv96157880=
+53actions {
+font-family:Verdana;font-size:11px;padding:10px 0;}
+
+#yiv961578=
+8053 #yiv9615788053activity {
+background-color:#e0ecee;float:left;font-fami=
+ly:Verdana;font-size:10px;padding:10px;}
+
+#yiv9615788053 #yiv9615788053acti=
+vity span {
+font-weight:700;}
+
+#yiv9615788053 #yiv9615788053activity span:f=
+irst-child {
+text-transform:uppercase;}
+
+#yiv9615788053 #yiv9615788053activ=
+ity span a {
+color:#5085b6;text-decoration:none;}
+
+#yiv9615788053 #yiv96157=
+88053activity span span {
+color:#ff7900;}
+
+#yiv9615788053 #yiv9615788053act=
+ivity span .yiv9615788053underline {
+text-decoration:underline;}
+
+#yiv96157=
+88053 .yiv9615788053attach {
+clear:both;display:table;font-family:Arial;fon=
+t-size:12px;padding:10px 0;width:400px;}
+
+#yiv9615788053 .yiv9615788053atta=
+ch div a {
+text-decoration:none;}
+
+#yiv9615788053 .yiv9615788053attach img =
+{
+border:none;padding-right:5px;}
+
+#yiv9615788053 .yiv9615788053attach labe=
+l {
+display:block;margin-bottom:5px;}
+
+#yiv9615788053 .yiv9615788053attach =
+label a {
+text-decoration:none;}
+
+#yiv9615788053 blockquote {
+margin:0 0 0 =
+4px;}
+
+#yiv9615788053 .yiv9615788053bold {
+font-family:Arial;font-size:13px=
+;font-weight:700;}
+
+#yiv9615788053 .yiv9615788053bold a {
+text-decoration:n=
+one;}
+
+#yiv9615788053 dd.yiv9615788053last p a {
+font-family:Verdana;font-w=
+eight:700;}
+
+#yiv9615788053 dd.yiv9615788053last p span {
+margin-right:10px=
+;font-family:Verdana;font-weight:700;}
+
+#yiv9615788053 dd.yiv9615788053last=
+ p span.yiv9615788053yshortcuts {
+margin-right:0;}
+
+#yiv9615788053 div.yiv9=
+615788053attach-table div div a {
+text-decoration:none;}
+
+#yiv9615788053 di=
+v.yiv9615788053attach-table {
+width:400px;}
+
+#yiv9615788053 div.yiv96157880=
+53file-title a, #yiv9615788053 div.yiv9615788053file-title a:active, #yiv96=
+15788053 div.yiv9615788053file-title a:hover, #yiv9615788053 div.yiv9615788=
+053file-title a:visited {
+text-decoration:none;}
+
+#yiv9615788053 div.yiv961=
+5788053photo-title a, #yiv9615788053 div.yiv9615788053photo-title a:active,=
+ #yiv9615788053 div.yiv9615788053photo-title a:hover, #yiv9615788053 div.yi=
+v9615788053photo-title a:visited {
+text-decoration:none;}
+
+#yiv9615788053 d=
+iv#yiv9615788053ygrp-mlmsg #yiv9615788053ygrp-msg p a span.yiv9615788053ysh=
+ortcuts {
+font-family:Verdana;font-size:10px;font-weight:normal;}
+
+#yiv9615=
+788053 .yiv9615788053green {
+color:#628c2a;}
+
+#yiv9615788053 .yiv9615788053=
+MsoNormal {
+margin:0 0 0 0;}
+
+#yiv9615788053 o {
+font-size:0;}
+
+#yiv9615788=
+053 #yiv9615788053photos div {
+float:left;width:72px;}
+
+#yiv9615788053 #yiv=
+9615788053photos div div {
+border:1px solid #666666;height:62px;overflow:hi=
+dden;width:62px;}
+
+#yiv9615788053 #yiv9615788053photos div label {
+color:#6=
+66666;font-size:10px;overflow:hidden;text-align:center;white-space:nowrap;w=
+idth:64px;}
+
+#yiv9615788053 #yiv9615788053reco-category {
+font-size:77%;}
+
+=
+#yiv9615788053 #yiv9615788053reco-desc {
+font-size:77%;}
+
+#yiv9615788053 .y=
+iv9615788053replbq {
+margin:4px;}
+
+#yiv9615788053 #yiv9615788053ygrp-actbar=
+ div a:first-child {
+margin-right:2px;padding-right:5px;}
+
+#yiv9615788053 #=
+yiv9615788053ygrp-mlmsg {
+font-size:13px;font-family:Arial, helvetica, clea=
+n, sans-serif;}
+
+#yiv9615788053 #yiv9615788053ygrp-mlmsg table {
+font-size:=
+inherit;font:100%;}
+
+#yiv9615788053 #yiv9615788053ygrp-mlmsg select, #yiv96=
+15788053 input, #yiv9615788053 textarea {
+font:99% Arial, Helvetica, clean,=
+ sans-serif;}
+
+#yiv9615788053 #yiv9615788053ygrp-mlmsg pre, #yiv9615788053 =
+code {
+font:115% monospace;}
+
+#yiv9615788053 #yiv9615788053ygrp-mlmsg * {
+l=
+ine-height:1.22em;}
+
+#yiv9615788053 #yiv9615788053ygrp-mlmsg #yiv9615788053=
+logo {
+padding-bottom:10px;}
+
+
+#yiv9615788053 #yiv9615788053ygrp-msg p a {
+=
+font-family:Verdana;}
+
+#yiv9615788053 #yiv9615788053ygrp-msg p#yiv961578805=
+3attach-count span {
+color:#1E66AE;font-weight:700;}
+
+#yiv9615788053 #yiv96=
+15788053ygrp-reco #yiv9615788053reco-head {
+color:#ff7900;font-weight:700;}=
+
+
+#yiv9615788053 #yiv9615788053ygrp-reco {
+margin-bottom:20px;padding:0px;}=
+
+
+#yiv9615788053 #yiv9615788053ygrp-sponsor #yiv9615788053ov li a {
+font-si=
+ze:130%;text-decoration:none;}
+
+#yiv9615788053 #yiv9615788053ygrp-sponsor #=
+yiv9615788053ov li {
+font-size:77%;list-style-type:square;padding:6px 0;}
+
+=
+#yiv9615788053 #yiv9615788053ygrp-sponsor #yiv9615788053ov ul {
+margin:0;pa=
+dding:0 0 0 8px;}
+
+#yiv9615788053 #yiv9615788053ygrp-text {
+font-family:Geo=
+rgia;}
+
+#yiv9615788053 #yiv9615788053ygrp-text p {
+margin:0 0 1em 0;}
+
+#yiv=
+9615788053 #yiv9615788053ygrp-text tt {
+font-size:120%;}
+
+#yiv9615788053 #y=
+iv9615788053ygrp-vital ul li:last-child {
+border-right:none !important;
+}
+#=
+yiv9615788053 
+</style></div><br><br></div>  </div> </div>  </div></div></b=
+ody></html>
+------=_Part_1405431_1384319109.1443282939683--
+
+

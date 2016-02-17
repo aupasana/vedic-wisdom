@@ -1,0 +1,395 @@
+From pantojeesa@...  Wed Feb 17 11:07:48 2016
+Return-Path: <pantojeesa@...>
+X-Sender: pantojeesa@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 13882 invoked by uid 102); 15 Sep 2015 05:19:24 -0000
+X-Received: from unknown (HELO mtaq2.grp.bf1.yahoo.com) (10.193.84.33)
+  by m4.grp.bf1.yahoo.com with SMTP; 15 Sep 2015 05:19:24 -0000
+X-Received: (qmail 974 invoked from network); 15 Sep 2015 05:19:24 -0000
+X-Received: from unknown (HELO mta1005.groups.mail.ne1.yahoo.com) (98.138.100.120)
+  by mtaq2.grp.bf1.yahoo.com with SMTP; 15 Sep 2015 05:19:24 -0000
+X-Original-Return-Path: <pantojeesa@...>
+X-Received-SPF: pass (domain of yahoo.com designates 67.195.87.215 as permitted sender)
+X-YMailISG: Fdzckb4WLDtg9STXzEZZOugmQ5wSAQRwTMeSgGfOtRi3tr6h
+ UpltM4V61JJXLNkFZfa3FkVNNb71Au7cUdd7ChOmYLzUuc6aA.Y2Muy8WiGR
+ Sf4P0o_IAzZddRbrrgonVx2fhN0dvQyLWdY0GuhYSGZXv_e1njBoOBhPN5Ca
+ Brnp67puwUd4ms.dilI5_Ffp1rPU_hBzwe7oJlY2C1WOO3gTXk_prRg1Mjpx
+ ar_ADV9XZDswysrY7fFyJOz87yWUypgftqyTi9gGIXyLOrtLgWCdCEMyZ3Ie
+ XPd.k8_VHx6EneUgecxpJwx3GKVe8002oizKG3JYK9eE5CJBpiAODvQWp3MH
+ hp5r8AFxXSUjMkWrnLRbZCvG.u2N8RS2KvN0XUOUlKNL9vscbh12H7iT0hC3
+ 7fZz1eZqoEA3hWpKXEpN0cL5yj7rBlcVVrV7yh.Z0mU9WRaMa33Wpgy2Puvn
+ G6aDhPnuav_FMk8Slt.Jx7i7I7asMH42doHkEeKDwGRpqj8hqzGHylfC9UQz
+ aztKQvxumMikE5I1EZSnjYaHVqGUvgQ185XMxzQv1mlM5AmzPffT1upukUas
+ Ig.JukweQXMZMDmP_LEJ7SBxZoqlJNbE2xX_bhjZRSBS_L3uG8HmjqK0sNAa
+ 0rLfu9Rvpnh6Z_2lBfan75.jQfWOai_NAE7qUCzf_ngnRokukN3awe5EcqX0
+ cn6fs3rfTd7PDEZUhzwDxXczbmfXGeBlkBvvA0tReAG1kflAxwuqxJMsgVoc
+ AJmafP7KP86muijltUCERx82SS275ZPd9Z_kX_5aSn5zN211NYGPNYG70Imh
+ 10rc.mlyJiSZBoFH4suYhygvtvrPAA4kMmtjj76ORTQAFLqXs28W6cCLrl5k
+ zD89No2WDaD3se_qG_N5eFoybC2vgwWzYgQR7uFgn0FViosLiBK2rNswo0dx
+ dy8RExvZ9hN0xNR8j.SeZEnSsiR0TBwNR9egYzO.egX8CeANLf_3Kq9Yu0Bz
+ JyLlCMJnFe_YLEv_CsMJtnxRj196MlP7OGihs_eFkZZaly2mmpfb9wWoR07W
+ iTmKza5W0Seuv4JjWe.NOvVsGoH8Dh0uNkLdg2FxfrSNhli5.FQ1nTYDvv7g
+ HvRZ94o6s0v9Djmi91Vtpg5Au4s1uFBRCwBJQhNEr_KyGHff.p30H7BXrN1P
+ YFmG41Uy1G6YEmcigrAgBHvOIMFM4hk1R8IZjMxXA9Z.I6.5RlHUI7WnRl6O
+ Oc9HnxsI.yCpD5np93KIwlFeAA73ZMzYDgIJxI.lhFu8ZDHk0hn4Yo04Y.NN
+ cCQFaoqEe4ERJDgjtzzpZir6DabcNsiPbAAF7_5Gl3Le83bYajZZ2b9VeJ7a
+ HvzgElhpC2gL5xyU.giii1R4Ep3mBQeHoG8mx9MOSzivfGxxVjjWfUq49jqs
+ mK6fNtwMZ27r9Sm9196BXDS4yq5McNPSwmiEXw7UDFC7OoFA5oxR1Fdz9NRb
+ eGlve8iDokWRdd14291YROtZdmeBOnUBZk3cEg8DHBhv.m4gPvAlG4NCrFIY
+ yOchY7PDVHfY81ytlIy_J40BKAxHMeaJ88hdWZDv6nOjXKhaBmaFHTmJWFaN
+ TqPdictTJGiE0_AuUoFqJF0AXKyDcdZrbvein7Yewk5SJwC.j9zcqrkDN9Re
+ mT5W1zoSBA4VaVKFyI3Pt32WjLl057OA325VZd6CYS1B4PDnEdl9fWXkHOIH
+ .v5xTqdRwjo-
+Authentication-Results: mta1005.groups.mail.ne1.yahoo.com  from=yahoo.com; domainkeys=neutral (no sig);  from=yahoo.com; dkim=pass (ok)
+X-Received: from 127.0.0.1  (EHLO nm44-vm10.bullet.mail.gq1.yahoo.com) (67.195.87.215)
+  by mta1005.groups.mail.ne1.yahoo.com with SMTPS; Tue, 15 Sep 2015 05:19:23 +0000
+X-Received: from [127.0.0.1] by nm44.bullet.mail.gq1.yahoo.com with NNFMP; 15 Sep 2015 05:19:22 -0000
+X-Received: from [98.137.12.55] by nm44.bullet.mail.gq1.yahoo.com with NNFMP; 15 Sep 2015 05:16:22 -0000
+X-Received: from [66.196.81.173] by tm15.bullet.mail.gq1.yahoo.com with NNFMP; 15 Sep 2015 05:16:21 -0000
+X-Received: from [98.139.212.237] by tm19.bullet.mail.bf1.yahoo.com with NNFMP; 15 Sep 2015 05:16:21 -0000
+X-Received: from [127.0.0.1] by omp1046.mail.bf1.yahoo.com with NNFMP; 15 Sep 2015 05:16:21 -0000
+X-Yahoo-Newman-Property: ymail-4
+X-Yahoo-Newman-Id: 752299.27612.bm@...
+X-Received: (qmail 96320 invoked by uid 60001); 15 Sep 2015 05:16:21 -0000
+X-YMail-OSG: KcX6rJkVM1nucRUL1HbLAc4PNJvQ8.gYinqRsutUsp.34sL
+ QlqJ1K3if_N2WYANKNNJPHH7WqJAweSQz.0bdzbrUB_O8sa6ElauDWAUZKJC
+ XH.dNLfcKmriaOfEKJX2qhWMUVm2woct3Yg4npnUaDWIwYsc8OU5pA0x_54G
+ X0dB0cUC.2sS4BV_c9fkAQoKr0Zg8cvS7x0iV6hOGgxPg3eZ1rkyHcKiJFfm
+ GealBFc4gQocNNMqhD5IGwzV.1v1fy8XjFBaqI.Q6G0.FY6t_harvcLDo6Hv
+ Psojz6QxY.Wv4L_ZHr0BBHC7W3lSpEeL8oo3_gnGkyv.M4.dpiVzsCC7fajE
+ RMqQ_rc_TrAkL2_WSeISIpPpXbQ5g_F9lNo5QfuNdT0zyjcSrMwzkT7IxayQ
+ Iejvto4hYiPMKPBF3QTqJRD4vdetCpCskXsC6ZoXzSiOEdHEUJdltAbhNCkI
+ 3jjZ8N55z3WsFaWOlLKfgkc0WjUUY1duwVA_7NsMhjHB_lwg5WegbYh_6dTQ
+ FMXGG6HEigraw9.NJleZwnEP.eDIZVixpZdUDkM31ML9I_HU1Lwj.SeYpwGL
+ N7gdO5boTgsrwEqbTcY6GicTX
+X-Received: from [117.217.126.8] by web141403.mail.bf1.yahoo.com via HTTP; Mon, 14 Sep 2015 22:16:21 PDT
+X-Mailer: YahooMailAndroidMobile/4.9.2 YahooMailWebService/0.8.203.813
+Message-ID: <1442294181.38051.YahooMailAndroidMobile@...>
+Date: Mon, 14 Sep 2015 22:16:21 -0700
+To: "vedic-wisdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com>
+In-Reply-To: <1800577299.2715771.1442278181589.JavaMail.yahoo@...>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="-288413194-1623517966-1442294181=:38051"
+X-Originating-IP: 98.138.100.120
+Subject: Re: [vedic-wisdom] Burning Pyre
+X-Yahoo-Group-Post: member; u=565512329; y=JcYvi4zfcMGR6Rfbtm5bk1Mhxbcq4Xtw2PNXleT2lrxTECL-Wg
+X-Yahoo-Profile: pantojeesa
+From: dfg dfg <pantojeesa@...>
+
+
+---288413194-1623517966-1442294181=:38051
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Nice article. Thanks for sharing.
+
+Sent from Yahoo Mail on Android
+
+From:"R=
+aghunath Anisingaraju realraghu@... [vedic-wisdom]" <vedic-wisdom@yah=
+oogroups.com>
+Date:Tue, 15 Sep, 2015 at 6:19 am
+Subject:Re: [vedic-wisdom] =
+Burning Pyre
+
+=C2=A0 
+
+Wonderful article thanks for sharing this, just was =
+meditating on mother=C2=A0 Kali and got this email. 
+
+
+Raghu 
+
+www.tarabala=
+m.com
+
+
+
+
+On Monday, September 14, 2015 8:43 PM, "nikhilashish@... [v=
+edic-wisdom]" <vedic-wisdom@yahoogroups.com> wrote:
+
+
+
+=C2=A0 
+
+"If you can=
+'t take a little bloody nose, maybe you ought to go back home and crawl und=
+er your bed. It's not safe out here. It's wondrous with treasures to satiat=
+e desires both subtle and gross. But it's not for the timid." - Q, Star Tre=
+k TNG
+
+Who am I?
+
+Am I a body which is believed to have a soul?
+
+I came int=
+o existence the moment this body was conceived. It verifies my being, valid=
+ates my life. It has a brain that makes sense of the gibberish that is thro=
+wn at it, finds a purpose and leads me the way I am supposed to be led. My =
+body also has a heart. It feels, it loves and makes me desire everything mo=
+re and more. An organ called soul is yet to be found.
+
+Then, there is the p=
+oint when my body exists but my brain and heart stop functioning. I sometim=
+es wonder if I am a body, how can I experience things that are way beyond i=
+ts extremities. If I am a body, I shouldn't be dead before my body is incin=
+erated on the funeral pyre.
+
+Perhaps, I am a soul which sometimes chooses t=
+o have a body.
+
+I am here to learn, experience and discover. What I know pr=
+evails even when my body does not. I'll also teach, share and inspire; some=
+times without my body's intervention. I know, this body is an illusion alth=
+ough sometimes I prefer not to remember this fact so that I can allow mysel=
+f to indulge without worrying about the consequences and witness whatever t=
+ranspires.
+
+Once I have experienced all there is to experience, learned wha=
+tever I need to learn, the illusion will help me break free from the life -=
+ death cycle and I'll return to my rightful place. But, if I am not careful=
+, it will turn the cycle into a perpetual trap. I can be addicted to variou=
+s bonds. The blinding emotions will never let me remember the fact which I =
+had chosen to forget temporarily. Misguided by attachments, I'll be lost in=
+ a flurry of conflicting anomalies. If, as fate would have it, that happens=
+, I'll be drawn here at the temple of the dark, ultimate truth.
+
+This eeril=
+y calm place is called the Shmashan, the cremation ground - a gateway to bo=
+th the heaven of moksh and the hell of rebirth. This place is where empty s=
+hells turn to ash, the worthless is disposed of and myths are dispelled. It=
+ is so attuned to banishing the illusionary light that its mere mention mad=
+dens the ignorant and drives them away.
+
+Detachment must come naturally - u=
+nabashed and free from all comforting lures. There can't be even a trace of=
+ any worldly affair.=C2=A0 I must learn to separate the essence from the se=
+mblance. Once I have mastered the ensemble and the parts, I'll be free. My =
+existence will be devoid of sadness. I'll savor the pleasure in every possi=
+ble way. Then, I'll get caught again. Only then, I'll be able to understand=
+ that like my captivity, my freedom is also an illusion.
+
+The more I look a=
+t the funeral pyre, the more it intrigues me. First, the blistering heat bo=
+ils the flesh away from the bones; then, it chars them differently into a s=
+ingle substance, ash. So many bodies, so different from each other and yet,=
+ they all end up the same, indistinguishable from each other.
+
+Dancing on a=
+ whim, flowing transcendentally, spreading warmth without bias, the fire th=
+at burns the funeral pyre needs sustenance, produces smoke and leaves resid=
+ue. It may brighten my surroundings, but it can't enlighten me.
+
+The fire t=
+hat can enlighten me does not brighten anything at all. It is darker than t=
+he darkest corner of my psyche. It is omnipresent, relies on nothing and an=
+nihilates everything. The ignorant project it as a symbol of negativity the=
+ world over. The wise embrace it as the blessing of goddess Kali.
+
+Goddess =
+Kali is the presiding deity of the Shmashan. She is the beginning, she is t=
+he end. A primal force that enchants everything, she destroys worldly bonda=
+ges while blessing with divine pleasures. She is the stark representation o=
+f the ultimate truth, she is the illusion. She is the one who dominates thi=
+s universe. Damned or blessed, she listens to all.
+
+I don't need to call he=
+r. I don't need complex procedures, long rituals or tongue twisting mantras=
+ to blend with her. All I need is Kalika Ashtak.
+
+Kalika Ashtak is an eight=
+ versed hymn created by Adi Shankaracharya. It encompasses the energy that =
+existed before the inception of time. It vibrates with the darkness that wi=
+ll prevail after everything else has perished. Everyone who should know it,=
+ knows it; many experience divine joy reciting it; and some transcend the v=
+isible universe meditating on it. It can negate every negativity.
+
+I have m=
+y share of negativity. It is way too potent for conventional means. It has =
+a much larger sphere of influence. It affects everything associated with me=
+; but, to my utter dismay, it hurts me the most.
+
+Kalika Ashtak protects me=
+ from my own negativity. It engulfs my negativity with the darkness emanati=
+ng from goddess Kali, transforms it into energy and channels it towards my =
+Kundalini enabling me to achieve any goal.
+
+Tonight, it will enliven the Sh=
+mashan for me.
+
+http://chronicles-of-a-sadhak.blogspot.com/
+
+
+
+
+
+
+
+---288413194-1623517966-1442294181=:38051
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<table cellspacing=3D"0" cellpadding=3D"0" border=3D"0"><tr><td valign=3D"t=
+op">Nice article. Thanks for sharing.<br><br><p><a href=3D"https://overview=
+.mail.yahoo.com/mobile/?.src=3DAndroid">Sent from Yahoo Mail on Android</a>=
+</p> <hr><table cellspacing=3D"0" cellpadding=3D"0" border=3D"0"> <tbody> <=
+tr> <td valign=3D"top"> <div style=3D"font-family:Roboto, sans-serif;color:=
+#7e7d80;"><b>From</b>:"Raghunath Anisingaraju realraghu@... [vedic-wi=
+sdom]" <vedic-wisdom@yahoogroups.com><br><b>Date</b>:Tue, 15 Sep, 201=
+5 at 6:19 am<br><b>Subject</b>:Re: [vedic-wisdom] Burning Pyre<br><br></div=
+> 
+<span style=3D"display:none;"> </span>
+
+
+<div id=3D"ygrp-mlmsg" sty=
+le=3D"">
+  <div id=3D"ygrp-msg" style=3D"">
+
+
+    <div id=3D"ygrp-text">
+  =
+    
+      
+      <p></p><div style=3D"color:#000;background-color:#fff;fon=
+t-family:HelveticaNeue, Helvetica Neue, Helvetica, Arial, Lucida Grande, sa=
+ns-serif;font-size:13px;"><div id=3D"yui_3_16_0_1_1442278225828_2953"><span=
+ id=3D"yui_3_16_0_1_1442278225828_3098">Wonderful article thanks for sharin=
+g this, just was meditating on mother  Kali and got this email. <br cl=
+ear=3D"none"></span></div><div id=3D"yui_3_16_0_1_1442278225828_3018"><br c=
+lear=3D"none"><span></span></div><div id=3D"yui_3_16_0_1_1442278225828_3019=
+"><span>Raghu <br clear=3D"none"></span></div><div dir=3D"ltr" id=3D"yui_3_=
+16_0_1_1442278225828_3049"><span>www.tarabalam.com</span></div>  <br clear=
+=3D"none"><div class=3D"qtdSeparateBR"><br clear=3D"none"><br clear=3D"none=
+"></div><div class=3D"yahoo_quoted"> <div style=3D"font-family:HelveticaNeu=
+e, Helvetica Neue, Helvetica, Arial, Lucida Grande, sans-serif;font-size:13=
+px;"> <div style=3D"font-family:HelveticaNeue, Helvetica Neue, Helvetica, A=
+rial, Lucida Grande,
+ sans-serif;font-size:16px;"> <div dir=3D"ltr"> <font =
+face=3D"Arial" size=3D"2"> On Monday, September 14, 2015 8:43 PM, "nikhilas=
+hish@... [vedic-wisdom]" <vedic-wisdom@yahoogroups.com> wrote:<=
+br clear=3D"none"> </font> </div>  <br clear=3D"none"><br clear=3D"none"> <=
+div class=3D"y_msg_container"><div id=3D"yiv9378720859"><div>
+<span> <=
+/span>
+
+
+<div id=3D"yiv9378720859ygrp-mlmsg">
+  <div id=3D"yiv9378720859ygr=
+p-msg">
+
+
+    <div id=3D"yiv9378720859ygrp-text">
+      
+      
+      <div>=
+"If you can't take a little bloody nose, maybe you ought to go back home an=
+d crawl under your bed. It's not safe out here. It's wondrous with treasure=
+s to satiate desires both subtle and gross. But it's not for the timid." - =
+Q, Star Trek TNG<br clear=3D"none"><br clear=3D"none">Who am I?<br clear=3D=
+"none"><br clear=3D"none">Am I a body which is believed to have a soul?<br =
+clear=3D"none"><br clear=3D"none">I came into existence the moment this bod=
+y was conceived. It verifies my being, validates my life. It has a brain th=
+at makes sense of the gibberish that is thrown at it, finds a purpose and l=
+eads me the way I am supposed to be led. My body also has a heart. It feels=
+, it loves and makes me desire everything more and more. An organ called so=
+ul is yet to be found.<br clear=3D"none"><br clear=3D"none">Then, there is =
+the point when my body exists but my brain and heart stop functioning. I so=
+metimes wonder if I am a body, how can I experience things that are way
+ be=
+yond its extremities. If I am a body, I shouldn't be dead before my body is=
+ incinerated on the funeral pyre.<br clear=3D"none"><br clear=3D"none">Perh=
+aps, I am a soul which sometimes chooses to have a body.<br clear=3D"none">=
+<br clear=3D"none">I am here to learn, experience and discover. What I know=
+ prevails even when my body does not. I'll also teach, share and inspire; s=
+ometimes without my body's intervention. I know, this body is an illusion a=
+lthough sometimes I prefer not to remember this fact so that I can allow my=
+self to indulge without worrying about the consequences and witness whateve=
+r transpires.<br clear=3D"none"><br clear=3D"none">Once I have experienced =
+all there is to experience, learned whatever I need to learn, the illusion =
+will help me break free from the life - death cycle and I'll return to my r=
+ightful place. But, if I am not careful, it will turn the cycle into a perp=
+etual trap. I can be addicted to various bonds. The blinding emotions will
+=
+ never let me remember the fact which I had chosen to forget temporarily. M=
+isguided by attachments, I'll be lost in a flurry of conflicting anomalies.=
+ If, as fate would have it, that happens, I'll be drawn here at the temple =
+of the dark, ultimate truth.<br clear=3D"none"><br clear=3D"none">This eeri=
+ly calm place is called the Shmashan, the cremation ground - a gateway to b=
+oth the heaven of moksh and the hell of rebirth. This place is where empty =
+shells turn to ash, the worthless is disposed of and myths are dispelled. I=
+t is so attuned to banishing the illusionary light that its mere mention ma=
+ddens the ignorant and drives them away.<br clear=3D"none"><br clear=3D"non=
+e">Detachment must come naturally - unabashed and free from all comforting =
+lures. There can't be even a trace of any worldly affair.  I must lear=
+n to separate the essence from the semblance. Once I have mastered the ense=
+mble and the parts, I'll be free. My existence will be devoid of sadness.
+ =
+I'll savor the pleasure in every possible way. Then, I'll get caught again.=
+ Only then, I'll be able to understand that like my captivity, my freedom i=
+s also an illusion.<br clear=3D"none"><br clear=3D"none">The more I look at=
+ the funeral pyre, the more it intrigues me. First, the blistering heat boi=
+ls the flesh away from the bones; then, it chars them differently into a si=
+ngle substance, ash. So many bodies, so different from each other and yet, =
+they all end up the same, indistinguishable from each other.<br clear=3D"no=
+ne"><br clear=3D"none">Dancing on a whim, flowing transcendentally, spreadi=
+ng warmth without bias, the fire that burns the funeral pyre needs sustenan=
+ce, produces smoke and leaves residue. It may brighten my surroundings, but=
+ it can't enlighten me.<br clear=3D"none"><br clear=3D"none">The fire that =
+can enlighten me does not brighten anything at all. It is darker than the d=
+arkest corner of my psyche. It is omnipresent, relies on nothing and
+ annih=
+ilates everything. The ignorant project it as a symbol of negativity the wo=
+rld over. The wise embrace it as the blessing of goddess Kali.<br clear=3D"=
+none"><br clear=3D"none">Goddess Kali is the presiding deity of the Shmasha=
+n. She is the beginning, she is the end. A primal force that enchants every=
+thing, she destroys worldly bondages while blessing with divine pleasures. =
+She is the stark representation of the ultimate truth, she is the illusion.=
+ She is the one who dominates this universe. Damned or blessed, she listens=
+ to all.<br clear=3D"none"><br clear=3D"none">I don't need to call her. I d=
+on't need complex procedures, long rituals or tongue twisting mantras to bl=
+end with her. All I need is Kalika Ashtak.<br clear=3D"none"><br clear=3D"n=
+one">Kalika Ashtak is an eight versed hymn created by Adi Shankaracharya. I=
+t encompasses the energy that existed before the inception of time. It vibr=
+ates with the darkness that will prevail after everything else has
+ perishe=
+d. Everyone who should know it, knows it; many experience divine joy reciti=
+ng it; and some transcend the visible universe meditating on it. It can neg=
+ate every negativity.<br clear=3D"none"><br clear=3D"none">I have my share =
+of negativity. It is way too potent for conventional means. It has a much l=
+arger sphere of influence. It affects everything associated with me; but, t=
+o my utter dismay, it hurts me the most.<br clear=3D"none"><br clear=3D"non=
+e">Kalika Ashtak protects me from my own negativity. It engulfs my negativi=
+ty with the darkness emanating from goddess Kali, transforms it into energy=
+ and channels it towards my Kundalini enabling me to achieve any goal.<br c=
+lear=3D"none"><br clear=3D"none">Tonight, it will enliven the Shmashan for =
+me.<br clear=3D"none"><br clear=3D"none"><a rel=3D"nofollow" shape=3D"rect"=
+ target=3D"_blank" href=3D"http://chronicles-of-a-sadhak.blogspot.com/">htt=
+p://chronicles-of-a-sadhak.blogspot.com/</a><br clear=3D"none"></div><div><=
+span><br
+ clear=3D"none" class=3D"yiv9378720859yui-cursor"></span></div>
+
+ =
+   </div>
+     
+
+    
+    <div style=3D"color:#fff;height:0;"></div></div>
+=
+
+
+</div></div><br clear=3D"none"><br clear=3D"none"></div>  </div> </div>  =
+</div></div></div>
+
+    </div>
+     
+
+    
+    <div style=3D"color:#fff;hei=
+ght:0;"></div></div>
+
+
+</td>  </tr>   </tbody>   </table></td></tr></table>
+---288413194-1623517966-1442294181=:38051--
+
+

@@ -1,0 +1,736 @@
+From sreenivas_s@...  Wed Feb 17 11:07:46 2016
+Return-Path: <sreenivas_s@...>
+X-Sender: sreenivas_s@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 9659 invoked by uid 102); 1 Feb 2015 04:40:38 -0000
+X-Received: from unknown (HELO mtaq4.grp.bf1.yahoo.com) (10.193.84.143)
+  by m14.grp.bf1.yahoo.com with SMTP; 1 Feb 2015 04:40:38 -0000
+X-Received: (qmail 13886 invoked from network); 1 Feb 2015 04:40:38 -0000
+X-Received: from unknown (HELO nm34-vm2.bullet.mail.bf1.yahoo.com) (98.139.245.164)
+  by mtaq4.grp.bf1.yahoo.com with SMTP; 1 Feb 2015 04:40:38 -0000
+X-Received: from [98.139.212.149] by nm34.bullet.mail.bf1.yahoo.com with NNFMP; 01 Feb 2015 04:40:38 -0000
+X-Received: from [98.139.212.227] by tm6.bullet.mail.bf1.yahoo.com with NNFMP; 01 Feb 2015 04:40:38 -0000
+X-Received: from [127.0.0.1] by omp1036.mail.bf1.yahoo.com with NNFMP; 01 Feb 2015 04:40:28 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 718628.86894.bm@...
+X-YMail-OSG: H5Ld18QVM1nFPI0k875KO_Vk7hZxO74tdBna.CjWHbSIEsfhjsdUfj8xvNb4bbw
+ YI1mYojXh8gzhL9xB6d_wrrNkPNOa7fycoO3EToZec1e6bQKCue7naIf_BjzQeUmDibZ.cERa3SU
+ sfziNSMnno1Y6XElRkvyKN55eM8SqTKndd4dny2B2MI6AnrgS.a8eED7zqyLX2xAVRgbPNkwjw.H
+ A2xODentC7cvVGngBDyHxC0EcBrkbiL_evbixhIXMdTEwZ23GUZ7dLFezlT8MMClwijFjZvuZbtT
+ WyDqBG6FaLbNw4wtb5VpuNG7DGrPNf4KVjxzXQ7EoaFlQNnI0F4vKDHHCkFv.Me74fgdM6A88uE3
+ m60G14WUgykA_NfKTK38Xjn_wMXzHkLsBR2vEU9qMJwHx58M6fDLghvtgX0aoPpkzxyprdLPC3yd
+ s9RbP4WwhTp6lZYDIOaxu5F3yYxDyI4bwkFxk0QawND3jmc8Bob.A9sel6EDk92vd3U40OXz0zB3
+ uiOOyyekBxoxAGxwPrnt5owWnxIS3dRq_CN3fE05_TuEe4ZJKq6BWo7TwKJVEJUnDQY7rz9GjEvX
+ IEjqTnf74LOi.uDYfTBh5LLEHS0.xBIU.DkeHYazfyZaqFGiybxzHWl0q.jXBQrL8BjtUw4ziDXi
+ hlsUDhl2OhdPat5mIdOFxSwj8BG2RubO896dNBSVN_4fkmQDfw2bvM_AS9R8t3HTjG5ngqLB5fbJ
+ C6NNgrvsjMAdWVUkVj563Lgw3OEmIe8KFl3bytF02PZ7JSW2i4Gr41KiA0FiPC.Zd6ke3AevF2EX
+ 92KUULFxak5MsOv7psuoU44sb_G6cmfPi8CbDA8nNNrN4xOreMob7RxfwgMJLGlCZs5sKoUOsuYI
+ bZmLT5_FD56rrkCP55n5ZY.Og87glAzPX4rCYCBNqQ7u3d3ty33b6m35UnstBf.n.ylBL0IyzIlt
+ GfSmNuXX8ssWATtGL6GWw0eLUDDAMUMOXS.fvvHCGqv4gwXLqASf4SMjsaF3rEZbb1hpwFI5YZmc
+ b6rfL.8.RCDsXkZM0hVV7qHqzangFVaFbjd.h3KQLsgy2iP30A.SK05Lq32rg4X6K5RVD61SLbK5
+ 1JECfF3aUAzrsGyNktxaX4m2Zg.lBZ97Flu3XC.Xyi5_fm8TVVEZ2j6m4AWioFOP89vQ1rQsOezx
+ hNJfjzt4wu3zR.QLxJUmkudaRieqY19sIwjCuaSoxH9Yk79YqVq3BS4kbeLqSSjF6PZUfHLQMvov
+ jlhye9uT4gY0yp.Is_VkKyJjz.oRwgUaceF9swVH8xz_mbLgMObrsBGGn5KS.cZ7VUdNegPXsZvR
+ 62_oOdyUhKCF7.Hgu4SE70QP6SqCatmbvZ0zhPZR3q35gT.3YZTMZ7WMRF0SYJaRyahMCtqbiaIt
+ mOqj.fmErhUYS8m7vI022rJEbg0CNS1t..t7XhqNTToJUTXMAsOS8Wet2g.l449wuN6BpmQOUfbH
+ cWgJDCZc9.KuIDwMLljG8F4XB9As00KaODcN2arpiax96RIRiKBCCLhcxXltjnfPEqjPnu._nJfL
+ SBxfnQyzEICN0H5xOHx2sBstj.q_r559nRoc1BwWG
+X-Received: by 76.13.27.133; Sun, 01 Feb 2015 04:40:28 +0000 
+Date: Sun, 1 Feb 2015 04:40:27 +0000 (UTC)
+To: "vedic-wisdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com>
+Message-ID: <168064596.370549.1422765627716.JavaMail.yahoo@...>
+In-Reply-To: <1057955761.2600997.1422561388069.JavaMail.yahoo@...>
+References: <1057955761.2600997.1422561388069.JavaMail.yahoo@...>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_370548_534966435.1422765627692"
+Content-Length: 33741
+X-Originating-IP: 72.30.239.74
+Reply-To: Sreenivas <sreenivass@...>
+Subject: Re: [vedic-wisdom] Understanding Desire
+X-Yahoo-Group-Post: member; u=59455432; y=x6yL25j3MKQNmSplhu7NYwqqG9DaxQwWp7jfyK7snuPB24pT1zo
+X-Yahoo-Profile: sreenivas_s
+From: Sreenivas <sreenivas_s@...>
+
+
+------=_Part_370548_534966435.1422765627692
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Madam,
+My two cents. Your question immediately brought the following shloka=
+ to my mind. I think you partly know the answer already.
+
+
+dhyayato vishaya=
+n pumsah sangas teshupajayatesangat sanjayate kamah kamat krodho 'bhijayate=
+krodhad bhavati sammohah sammohat smriti-vibhramahsmriti-bhramsad buddhi-na=
+so buddhi-nasat pranasyati
+"While contemplating the objects of the senses, =
+a person develops attachment for them, and from such attachment lust develo=
+ps, and from lust anger arises. From anger complete delusion arises, and fr=
+om delusion bewilderment of memory. When memory is bewildered, intelligence=
+ is lost, and when intelligence is lost one falls down again into the mater=
+ial pool." =C2=A0Regards,
+SSR 
+
+     On Friday, 30 January 2015 1:26 AM, "S=
+ushma G V sushma_g_v@... [vedic-wisdom]" <vedic-wisdom@...=
+m> wrote:
+   
+ 
+
+ =C2=A0   If one is not supposed to
+work on desire fulfill=
+ment(at least material ones)have any raaga-dvesha towards any kind of work =
+they are doing(especially the ones that they don't like)expect no results(a=
+ppreciation) in return
+
+then what is this "work towards your passion", "do =
+what you were born to do", "do what makes you happy", "find a job that you =
+love", all these things I keep reading everywhere? they don't fit into the =
+above requirements.are they just materialistic in nature?
+Please help me un=
+derstand.
+Thanks in advance!Sushma 
+
+     On Thursday, October 16, 2014 6:3=
+5 PM, "'Madhavan V.B.' vbmadhavan@... [vedic-wisdom]" <vedic-wisdom@y=
+ahoogroups.com> wrote:
+   
+
+ =C2=A0   Namasthe=C2=A0
+I would like to quote =
+=C2=A0Bhagavan Sri Ramana Maharishi 's reply here to a similar question rai=
+sed by a visitor.
+RegardsMadhavan
+
+
+TALKS WITH RAMANA MAHARISHI
+A visitor s=
+aid: "One must become satiate with the fulfilment of=C2=A0desires before th=
+ey are renounced." Sri Bhagavan smiled and cut=C2=A0in: "Fire might as well=
+ be put out by pouring spirit over the flames.=C2=A0(All laugh). The more t=
+he desires are fulfilled, the deeper grows the=C2=A0samskara. They must bec=
+ome weaker before they cease to assert=C2=A0themselves. That weakness is br=
+ought about by restraining oneself=C2=A0and not by losing oneself in desire=
+s. =C2=A0=C2=A0
+On Fri, Oct 17, 2014 at 12:27 AM, Sushma G V sushma_g_v@yah=
+oo.com [vedic-wisdom] <vedic-wisdom@yahoogroups.com> wrote:
+
+ =C2=A0   Nama=
+ste,
+First of all, my apologies if my questions are out of context for this=
+ group. I only get these kind of questions and I don't know where else to a=
+sk. Please let me know if I am out of context. Thanks!
+Coming to my questio=
+n -
+I've been reading Yoga vasishta. I see that in some stories when a pers=
+on dies with a strong desire, he becomes that in his next life, enabling hi=
+m to fulfill that desire. But eventually, after many lifetimes, he comes ba=
+ck to doing tapas once again.
+I am a homemaker. There is some longing in me=
+ to become a career woman(or rather to be known as a career woman). So if I=
+ focus my energy in fulfilling that desire, experience whatever there is to=
+ be experienced, hopefully not catch any additional desires during that pro=
+cess, and finally fulfill that need in me - is that time and energy well sp=
+ent?
+I mean, is fulfilling a desire a wise way of getting rid of that desir=
+e??
+
+Thanks in advance!Sushma
+   
+
+  
+
+      #yiv3191679145 #yiv3191679145 =
+-- #yiv3191679145ygrp-mkp {border:1px solid #d8d8d8;font-family:Arial;margi=
+n:10px 0;padding:0 10px;}#yiv3191679145 #yiv3191679145ygrp-mkp hr {border:1=
+px solid #d8d8d8;}#yiv3191679145 #yiv3191679145ygrp-mkp #yiv3191679145hd {c=
+olor:#628c2a;font-size:85%;font-weight:700;line-height:122%;margin:10px 0;}=
+#yiv3191679145 #yiv3191679145ygrp-mkp #yiv3191679145ads {margin-bottom:10px=
+;}#yiv3191679145 #yiv3191679145ygrp-mkp .yiv3191679145ad {padding:0 0;}#yiv=
+3191679145 #yiv3191679145ygrp-mkp .yiv3191679145ad p {margin:0;}#yiv3191679=
+145 #yiv3191679145ygrp-mkp .yiv3191679145ad a {color:#0000ff;text-decoratio=
+n:none;}#yiv3191679145 #yiv3191679145ygrp-sponsor #yiv3191679145ygrp-lc {fo=
+nt-family:Arial;}#yiv3191679145 #yiv3191679145ygrp-sponsor #yiv3191679145yg=
+rp-lc #yiv3191679145hd {margin:10px 0px;font-weight:700;font-size:78%;line-=
+height:122%;}#yiv3191679145 #yiv3191679145ygrp-sponsor #yiv3191679145ygrp-l=
+c .yiv3191679145ad {margin-bottom:10px;padding:0 0;}#yiv3191679145 #yiv3191=
+679145actions {font-family:Verdana;font-size:11px;padding:10px 0;}#yiv31916=
+79145 #yiv3191679145activity {background-color:#e0ecee;float:left;font-fami=
+ly:Verdana;font-size:10px;padding:10px;}#yiv3191679145 #yiv3191679145activi=
+ty span {font-weight:700;}#yiv3191679145 #yiv3191679145activity span:first-=
+child {text-transform:uppercase;}#yiv3191679145 #yiv3191679145activity span=
+ a {color:#5085b6;text-decoration:none;}#yiv3191679145 #yiv3191679145activi=
+ty span span {color:#ff7900;}#yiv3191679145 #yiv3191679145activity span .yi=
+v3191679145underline {text-decoration:underline;}#yiv3191679145 .yiv3191679=
+145attach {clear:both;display:table;font-family:Arial;font-size:12px;paddin=
+g:10px 0;width:400px;}#yiv3191679145 .yiv3191679145attach div a {text-decor=
+ation:none;}#yiv3191679145 .yiv3191679145attach img {border:none;padding-ri=
+ght:5px;}#yiv3191679145 .yiv3191679145attach label {display:block;margin-bo=
+ttom:5px;}#yiv3191679145 .yiv3191679145attach label a {text-decoration:none=
+;}#yiv3191679145 blockquote {margin:0 0 0 4px;}#yiv3191679145 .yiv319167914=
+5bold {font-family:Arial;font-size:13px;font-weight:700;}#yiv3191679145 .yi=
+v3191679145bold a {text-decoration:none;}#yiv3191679145 dd.yiv3191679145las=
+t p a {font-family:Verdana;font-weight:700;}#yiv3191679145 dd.yiv3191679145=
+last p span {margin-right:10px;font-family:Verdana;font-weight:700;}#yiv319=
+1679145 dd.yiv3191679145last p span.yiv3191679145yshortcuts {margin-right:0=
+;}#yiv3191679145 div.yiv3191679145attach-table div div a {text-decoration:n=
+one;}#yiv3191679145 div.yiv3191679145attach-table {width:400px;}#yiv3191679=
+145 div.yiv3191679145file-title a, #yiv3191679145 div.yiv3191679145file-tit=
+le a:active, #yiv3191679145 div.yiv3191679145file-title a:hover, #yiv319167=
+9145 div.yiv3191679145file-title a:visited {text-decoration:none;}#yiv31916=
+79145 div.yiv3191679145photo-title a, #yiv3191679145 div.yiv3191679145photo=
+-title a:active, #yiv3191679145 div.yiv3191679145photo-title a:hover, #yiv3=
+191679145 div.yiv3191679145photo-title a:visited {text-decoration:none;}#yi=
+v3191679145 div#yiv3191679145ygrp-mlmsg #yiv3191679145ygrp-msg p a span.yiv=
+3191679145yshortcuts {font-family:Verdana;font-size:10px;font-weight:normal=
+;}#yiv3191679145 .yiv3191679145green {color:#628c2a;}#yiv3191679145 .yiv319=
+1679145MsoNormal {margin:0 0 0 0;}#yiv3191679145 o {font-size:0;}#yiv319167=
+9145 #yiv3191679145photos div {float:left;width:72px;}#yiv3191679145 #yiv31=
+91679145photos div div {border:1px solid #666666;height:62px;overflow:hidde=
+n;width:62px;}#yiv3191679145 #yiv3191679145photos div label {color:#666666;=
+font-size:10px;overflow:hidden;text-align:center;white-space:nowrap;width:6=
+4px;}#yiv3191679145 #yiv3191679145reco-category {font-size:77%;}#yiv3191679=
+145 #yiv3191679145reco-desc {font-size:77%;}#yiv3191679145 .yiv3191679145re=
+plbq {margin:4px;}#yiv3191679145 #yiv3191679145ygrp-actbar div a:first-chil=
+d {margin-right:2px;padding-right:5px;}#yiv3191679145 #yiv3191679145ygrp-ml=
+msg {font-size:13px;font-family:Arial, helvetica, clean, sans-serif;}#yiv31=
+91679145 #yiv3191679145ygrp-mlmsg table {font-size:inherit;font:100%;}#yiv3=
+191679145 #yiv3191679145ygrp-mlmsg select, #yiv3191679145 input, #yiv319167=
+9145 textarea {font:99% Arial, Helvetica, clean, sans-serif;}#yiv3191679145=
+ #yiv3191679145ygrp-mlmsg pre, #yiv3191679145 code {font:115% monospace;}#y=
+iv3191679145 #yiv3191679145ygrp-mlmsg * {line-height:1.22em;}#yiv3191679145=
+ #yiv3191679145ygrp-mlmsg #yiv3191679145logo {padding-bottom:10px;}#yiv3191=
+679145 #yiv3191679145ygrp-msg p a {font-family:Verdana;}#yiv3191679145 #yiv=
+3191679145ygrp-msg p#yiv3191679145attach-count span {color:#1E66AE;font-wei=
+ght:700;}#yiv3191679145 #yiv3191679145ygrp-reco #yiv3191679145reco-head {co=
+lor:#ff7900;font-weight:700;}#yiv3191679145 #yiv3191679145ygrp-reco {margin=
+-bottom:20px;padding:0px;}#yiv3191679145 #yiv3191679145ygrp-sponsor #yiv319=
+1679145ov li a {font-size:130%;text-decoration:none;}#yiv3191679145 #yiv319=
+1679145ygrp-sponsor #yiv3191679145ov li {font-size:77%;list-style-type:squa=
+re;padding:6px 0;}#yiv3191679145 #yiv3191679145ygrp-sponsor #yiv3191679145o=
+v ul {margin:0;padding:0 0 0 8px;}#yiv3191679145 #yiv3191679145ygrp-text {f=
+ont-family:Georgia;}#yiv3191679145 #yiv3191679145ygrp-text p {margin:0 0 1e=
+m 0;}#yiv3191679145 #yiv3191679145ygrp-text tt {font-size:120%;}#yiv3191679=
+145 #yiv3191679145ygrp-vital ul li:last-child {border-right:none !important=
+;}#yiv3191679145 
+
+ 
+   
+------=_Part_370548_534966435.1422765627692
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"color:#000; background-color:#fff; font-family:bo=
+okman old style, new york, times, serif;font-size:13px"><div dir=3D"ltr" id=
+=3D"yui_3_16_0_1_1422764438759_15594"><span>Madam,</span></div><div id=3D"y=
+ui_3_16_0_1_1422764438759_15644" dir=3D"ltr"><br><span></span></div><div id=
+=3D"yui_3_16_0_1_1422764438759_15640" dir=3D"ltr"><span id=3D"yui_3_16_0_1_=
+1422764438759_15639">My two cents. Your question immediately brought the fo=
+llowing shloka to my mind. I think you partly know the answer already.<br><=
+/span></div><div id=3D"yui_3_16_0_1_1422764438759_15647" dir=3D"ltr"><br><s=
+pan id=3D"yui_3_16_0_1_1422764438759_15639"></span></div><div id=3D"yui_3_1=
+6_0_1_1422764438759_16013" dir=3D"ltr"><br></div><div id=3D"yui_3_16_0_1_14=
+22764438759_16014" style=3D"" class=3D"">dhyayato <a style=3D"" class=3D"" =
+href=3D"http://vedabase.net/v/visayan">vishayan</a> <a style=3D"" class=3D"=
+" href=3D"http://vedabase.net/p/pumsah">pumsah</a> sangas teshupajayate</di=
+v><div id=3D"yui_3_16_0_1_1422764438759_16006" style=3D"" class=3D""><a sty=
+le=3D"" class=3D"" href=3D"http://vedabase.net/s/sangat">sangat</a> <a styl=
+e=3D"" class=3D"" href=3D"http://vedabase.net/s/sanjayate">sanjayate</a> <a=
+ style=3D"" class=3D"" href=3D"http://vedabase.net/k/kamah">kamah</a> <a st=
+yle=3D"" class=3D"" href=3D"http://vedabase.net/k/kamat">kamat</a> krodho '=
+bhijayate</div><div id=3D"yui_3_16_0_1_1422764438759_16005" style=3D"" clas=
+s=3D"">krodhad <a style=3D"" class=3D"" href=3D"http://vedabase.net/b/bhava=
+ti">bhavati</a> <a style=3D"" class=3D"" href=3D"http://vedabase.net/s/samm=
+ohah">sammohah</a> <a id=3D"yui_3_16_0_1_1422764438759_16004" style=3D"" cl=
+ass=3D"" href=3D"http://vedabase.net/s/sammohat">sammohat</a> <a style=3D""=
+ class=3D"" href=3D"http://vedabase.net/s/smrti">smriti</a>-<a id=3D"yui_3_=
+16_0_1_1422764438759_16007" style=3D"" class=3D"" href=3D"http://vedabase.n=
+et/v/vibhramah">vibhramah</a></div><div id=3D"yui_3_16_0_1_1422764438759_16=
+008" style=3D"" class=3D""><a style=3D"" class=3D"" href=3D"http://vedabase=
+.net/s/smrti">smriti</a>-bhramsad <a style=3D"" class=3D"" href=3D"http://v=
+edabase.net/b/buddhi">buddhi</a>-naso <a style=3D"" class=3D"" href=3D"http=
+://vedabase.net/b/buddhi">buddhi</a>-<a style=3D"" class=3D"" href=3D"http:=
+//vedabase.net/n/nasat">nasat</a> <a style=3D"" class=3D"" href=3D"http://v=
+edabase.net/p/pranasyati">pranasyati</a></div><div id=3D"yui_3_16_0_1_14227=
+64438759_16010" style=3D"" class=3D""><a style=3D"" class=3D"" href=3D"http=
+://vedabase.net/p/pranasyati"><br></a></div><div id=3D"yui_3_16_0_1_1422764=
+438759_16011" style=3D"" class=3D"">"While
+ contemplating the objects of th=
+e senses, a person develops attachment 
+for them, and from such attachment =
+lust develops, and from lust anger 
+arises. From anger complete delusion ar=
+ises, and from delusion 
+bewilderment of memory. When memory is bewildered,=
+ intelligence is lost,
+ and when intelligence is lost one falls down again =
+into the material 
+pool."</div><div id=3D"yui_3_16_0_1_1422764438759_15981"=
+ dir=3D"ltr"><span id=3D"yui_3_16_0_1_1422764438759_15639"> </span></div><d=
+iv id=3D"yui_3_16_0_1_1422764438759_15577"> </div><div id=3D"yui_3_16_=
+0_1_1422764438759_15580"><div id=3D"yui_3_16_0_1_1422764438759_15579">Regar=
+ds,
+<br>SSR</div></div> <div class=3D"qtdSeparateBR"><br><br></div><div sty=
+le=3D"display: block;" class=3D"yahoo_quoted"> <div style=3D"font-family: b=
+ookman old style, new york, times, serif; font-size: 13px;"> <div style=3D"=
+font-family: HelveticaNeue, Helvetica Neue, Helvetica, Arial, Lucida Grande=
+, Sans-Serif; font-size: 12px;"> <div dir=3D"ltr"> <font size=3D"2" face=3D=
+"Arial"> On Friday, 30 January 2015 1:26 AM, "Sushma G V sushma_g_v@yahoo.c=
+om [vedic-wisdom]" <vedic-wisdom@yahoogroups.com> wrote:<br> </font> =
+</div> <blockquote style=3D"border-left: 2px solid rgb(16, 16, 255); margin=
+-left: 5px; margin-top: 5px; padding-left: 5px;">  <br><br> <div class=3D"y=
+_msg_container"><div id=3D"yiv3191679145"><div>
+<span style=3D"display:none=
+;"> </span>
+
+
+<div id=3D"yiv3191679145ygrp-mlmsg" style=3D"">
+  <div i=
+d=3D"yiv3191679145ygrp-msg" style=3D"">
+
+
+    <div id=3D"yiv3191679145ygrp-=
+text">
+      
+      
+      <div></div><div style=3D"color:#000;background-c=
+olor:#fff;font-family:HelveticaNeue, Helvetica Neue, Helvetica, Arial, Luci=
+da Grande, sans-serif;font-size:13px;"><div class=3D"yiv3191679145class" di=
+r=3D"ltr" id=3D"yiv3191679145yui_3_16_0_1_1422559808720_3989"><span class=
+=3D"yiv3191679145class" id=3D"yiv3191679145yui_3_16_0_1_1422559808720_6064"=
+>If one is not supposed to</span></div><blockquote class=3D"yiv3191679145cl=
+ass" id=3D"yiv3191679145yui_3_16_0_1_1422559808720_4075" style=3D"margin:0p=
+x 0px 0px 40px;padding:0px;"><div class=3D"yiv3191679145class" dir=3D"ltr" =
+id=3D"yiv3191679145yui_3_16_0_1_1422559808720_3989"><span class=3D"yiv31916=
+79145class" id=3D"yiv3191679145yui_3_16_0_1_1422559808720_4078">work on des=
+ire fulfillment(at least material ones)</span></div><div class=3D"yiv319167=
+9145class" dir=3D"ltr" id=3D"yiv3191679145yui_3_16_0_1_1422559808720_3989">=
+<span class=3D"yiv3191679145class" id=3D"yiv3191679145yui_3_16_0_1_14225598=
+08720_4079">have any raaga-dvesha towards any kind of work they are doing(e=
+specially the ones that they don't like)</span></div><div class=3D"yiv31916=
+79145class" dir=3D"ltr" id=3D"yiv3191679145yui_3_16_0_1_1422559808720_3989"=
+><span class=3D"yiv3191679145class" id=3D"yiv3191679145yui_3_16_0_1_1422559=
+808720_4711">expect no results(appreciation) in return</span></div></blockq=
+uote><div class=3D"yiv3191679145class" id=3D"yiv3191679145yui_3_16_0_1_1422=
+559808720_4501"><br class=3D"yiv3191679145class" clear=3D"none"></div><div =
+class=3D"yiv3191679145class" dir=3D"ltr" id=3D"yiv3191679145yui_3_16_0_1_14=
+22559808720_4502">then what is this "work towards your passion", "do what y=
+ou were born to do", "do what makes you happy", "find a job that you love",=
+ all these things I keep reading everywhere? they don't fit into the above =
+requirements.</div><div class=3D"yiv3191679145class" dir=3D"ltr" id=3D"yiv3=
+191679145yui_3_16_0_1_1422559808720_4502">are they just materialistic in na=
+ture?</div><div class=3D"yiv3191679145class" dir=3D"ltr" id=3D"yiv319167914=
+5yui_3_16_0_1_1422559808720_4502"><br class=3D"yiv3191679145class" clear=3D=
+"none"></div><div class=3D"yiv3191679145class" dir=3D"ltr" id=3D"yiv3191679=
+145yui_3_16_0_1_1422559808720_4502">Please help me understand.</div><div cl=
+ass=3D"yiv3191679145class" dir=3D"ltr" id=3D"yiv3191679145yui_3_16_0_1_1422=
+559808720_4502"><br class=3D"yiv3191679145class" clear=3D"none"></div><div =
+class=3D"yiv3191679145class" dir=3D"ltr" id=3D"yiv3191679145yui_3_16_0_1_14=
+22559808720_4502">Thanks in advance!</div><div class=3D"yiv3191679145class"=
+ dir=3D"ltr" id=3D"yiv3191679145yui_3_16_0_1_1422559808720_4502">Sushma</di=
+v> <div class=3D"yiv3191679145qtdSeparateBR"><br clear=3D"none"><br clear=
+=3D"none"></div><div class=3D"yiv3191679145yqt0831085028" id=3D"yiv31916791=
+45yqt39133"><div style=3D"display: block;" class=3D"yiv3191679145yahoo_quot=
+ed"> <div style=3D"font-family:HelveticaNeue, Helvetica Neue, Helvetica, Ar=
+ial, Lucida Grande, sans-serif;font-size:13px;"> <div style=3D"font-family:=
+HelveticaNeue, Helvetica Neue, Helvetica, Arial, Lucida Grande, sans-serif;=
+font-size:16px;"> <div dir=3D"ltr"> <font size=3D"2" face=3D"Arial"> On Thu=
+rsday, October 16, 2014 6:35 PM, "'Madhavan V.B.' vbmadhavan@... [ved=
+ic-wisdom]" <vedic-wisdom@yahoogroups.com> wrote:<br clear=3D"none"> =
+</font> </div>  <br clear=3D"none"><br clear=3D"none"> <div class=3D"yiv319=
+1679145y_msg_container"><div id=3D"yiv3191679145"><div>
+<span> </span>=
+
+
+
+<div id=3D"yiv3191679145ygrp-mlmsg">
+  <div id=3D"yiv3191679145ygrp-msg"=
+>
+
+
+    <div id=3D"yiv3191679145ygrp-text">
+      
+      
+      <div></div>=
+<div dir=3D"ltr"><div>Namasthe </div><div><br clear=3D"none"></div>I w=
+ould like to quote  Bhagavan Sri Ramana Maharishi 's reply here to a s=
+imilar question raised by a visitor.<div><br clear=3D"none"></div><div>Rega=
+rds</div><div>Madhavan<br clear=3D"none"></div><div><br clear=3D"none"></di=
+v><div><br clear=3D"none"></div><div>TALKS WITH RAMANA MAHARISHI</div><div>=
+<br clear=3D"none"></div><div>A visitor said: "One must become satiate with=
+ the fulfilment of </div><div>desires before they are renounced." Sri =
+Bhagavan smiled and cut </div><div>in: "Fire might as well be put out =
+by pouring spirit over the flames. </div><div>(All laugh). The more th=
+e desires are fulfilled, the deeper grows the </div><div>samskara. The=
+y must become weaker before they cease to assert </div><div>themselves=
+. That weakness is brought about by restraining oneself </div><div>and=
+ not by losing oneself in desires.   </div><div class=3D"yiv31916=
+79145yqt2845834678" id=3D"yiv3191679145yqt48146"><div class=3D"yiv319167914=
+5gmail_extra"><br clear=3D"none"><div class=3D"yiv3191679145gmail_quote">On=
+ Fri, Oct 17, 2014 at 12:27 AM, Sushma G V <a rel=3D"nofollow" shape=3D"rec=
+t" ymailto=3D"mailto:sushma_g_v@..." target=3D"_blank" href=3D"mailto=
+:sushma_g_v@...">sushma_g_v@...</a> [vedic-wisdom] <span dir=3D=
+"ltr"><<a rel=3D"nofollow" shape=3D"rect" ymailto=3D"mailto:vedic-wisdom=
+@yahoogroups.com" target=3D"_blank" href=3D"mailto:vedic-wisdom@yahoogroups=
+.com">vedic-wisdom@yahoogroups.com</a>></span> wrote:<br clear=3D"none">=
+<blockquote class=3D"yiv3191679145gmail_quote" style=3D"border-left:1px #cc=
+c solid;">
+
+
+<u></u>
+
+
+
+
+
+
+
+
+
+ 
+<div style=3D"background-color:#fff;">
+<spa=
+n> </span>
+
+
+<div>
+  <div>
+
+
+    <div>
+      
+      
+      <div></div>=
+<div style=3D"color:#000;background-color:#fff;font-family:HelveticaNeue, H=
+elvetica Neue, Helvetica, Arial, Lucida Grande, sans-serif;font-size:13px;"=
+><div><div>Namaste,</div><div><br clear=3D"none"></div><div>First of all, m=
+y apologies if my questions are out of context for this group. I only get t=
+hese kind of questions and I don't know where else to ask. Please let me kn=
+ow if I am out of context. Thanks!</div><div><br clear=3D"none"></div><div>=
+Coming to my question -</div><div><br clear=3D"none"></div><div>I've been r=
+eading Yoga vasishta. I see that in some stories when a person dies with a =
+strong desire, he becomes that in his next life, enabling him to fulfill th=
+at desire. But eventually, after many lifetimes, he comes back to doing tap=
+as once again.</div><div><br clear=3D"none"></div><div>I am a homemaker. Th=
+ere is some longing in me to become a career woman(or rather to be known as=
+ a career woman). So if I focus my energy in fulfilling that desire, experi=
+ence whatever there is to be experienced, hopefully not catch any additiona=
+l desires during that process, and finally fulfill that need in me - is tha=
+t time and energy well spent?</div><div><br clear=3D"none"></div><div>I mea=
+n, is fulfilling a desire a wise way of getting rid of that desire??</div><=
+div><br clear=3D"none"></div><div><br clear=3D"none"></div><div>Thanks in a=
+dvance!</div><div>Sushma</div></div><div><br clear=3D"none"></div></div><di=
+v></div>
+
+    </div>
+     
+
+    
+    <div style=3D"color:#fff;min-height:0;=
+"></div>
+
+
+</div>
+
+
+
+  
+
+
+
+
+
+
+</div></div></blockquote></div><br clear=3D"n=
+one"></div></div></div>
+
+
+    </div>
+     
+
+    
+    <div class=3D"yiv31916=
+79145yqt2845834678" id=3D"yiv3191679145yqt16731"><div style=3D"color:#fff;h=
+eight:0;"></div></div>
+
+
+</div><div class=3D"yiv3191679145yqt2845834678" id=
+=3D"yiv3191679145yqt45768"></div></div><br clear=3D"none"><br clear=3D"none=
+"></div>  </div> </div>  </div> </div></div></div></div>
+
+    </div>
+     
+=
+
+    
+    <div class=3D"yiv3191679145yqt0831085028" id=3D"yiv3191679145yqt9=
+9473"><div style=3D"color:#fff;height:0;"></div></div>
+
+
+</div><div class=
+=3D"yiv3191679145yqt0831085028" id=3D"yiv3191679145yqt36821"><style type=3D=
+"text/css">
+#yiv3191679145 #yiv3191679145 --
+  #yiv3191679145ygrp-mkp {
+bor=
+der:1px solid #d8d8d8;font-family:Arial;margin:10px 0;padding:0 10px;}
+
+#yi=
+v3191679145 #yiv3191679145ygrp-mkp hr {
+border:1px solid #d8d8d8;}
+
+#yiv319=
+1679145 #yiv3191679145ygrp-mkp #yiv3191679145hd {
+color:#628c2a;font-size:8=
+5%;font-weight:700;line-height:122%;margin:10px 0;}
+
+#yiv3191679145 #yiv319=
+1679145ygrp-mkp #yiv3191679145ads {
+margin-bottom:10px;}
+
+#yiv3191679145 #y=
+iv3191679145ygrp-mkp .yiv3191679145ad {
+padding:0 0;}
+
+#yiv3191679145 #yiv3=
+191679145ygrp-mkp .yiv3191679145ad p {
+margin:0;}
+
+#yiv3191679145 #yiv31916=
+79145ygrp-mkp .yiv3191679145ad a {
+color:#0000ff;text-decoration:none;}
+#yi=
+v3191679145 #yiv3191679145ygrp-sponsor #yiv3191679145ygrp-lc {
+font-family:=
+Arial;}
+
+#yiv3191679145 #yiv3191679145ygrp-sponsor #yiv3191679145ygrp-lc #y=
+iv3191679145hd {
+margin:10px 0px;font-weight:700;font-size:78%;line-height:=
+122%;}
+
+#yiv3191679145 #yiv3191679145ygrp-sponsor #yiv3191679145ygrp-lc .yi=
+v3191679145ad {
+margin-bottom:10px;padding:0 0;}
+
+#yiv3191679145 #yiv319167=
+9145actions {
+font-family:Verdana;font-size:11px;padding:10px 0;}
+
+#yiv3191=
+679145 #yiv3191679145activity {
+background-color:#e0ecee;float:left;font-fa=
+mily:Verdana;font-size:10px;padding:10px;}
+
+#yiv3191679145 #yiv3191679145ac=
+tivity span {
+font-weight:700;}
+
+#yiv3191679145 #yiv3191679145activity span=
+:first-child {
+text-transform:uppercase;}
+
+#yiv3191679145 #yiv3191679145act=
+ivity span a {
+color:#5085b6;text-decoration:none;}
+
+#yiv3191679145 #yiv319=
+1679145activity span span {
+color:#ff7900;}
+
+#yiv3191679145 #yiv3191679145a=
+ctivity span .yiv3191679145underline {
+text-decoration:underline;}
+
+#yiv319=
+1679145 .yiv3191679145attach {
+clear:both;display:table;font-family:Arial;f=
+ont-size:12px;padding:10px 0;width:400px;}
+
+#yiv3191679145 .yiv3191679145at=
+tach div a {
+text-decoration:none;}
+
+#yiv3191679145 .yiv3191679145attach im=
+g {
+border:none;padding-right:5px;}
+
+#yiv3191679145 .yiv3191679145attach la=
+bel {
+display:block;margin-bottom:5px;}
+
+#yiv3191679145 .yiv3191679145attac=
+h label a {
+text-decoration:none;}
+
+#yiv3191679145 blockquote {
+margin:0 0 =
+0 4px;}
+
+#yiv3191679145 .yiv3191679145bold {
+font-family:Arial;font-size:13=
+px;font-weight:700;}
+
+#yiv3191679145 .yiv3191679145bold a {
+text-decoration=
+:none;}
+
+#yiv3191679145 dd.yiv3191679145last p a {
+font-family:Verdana;font=
+-weight:700;}
+
+#yiv3191679145 dd.yiv3191679145last p span {
+margin-right:10=
+px;font-family:Verdana;font-weight:700;}
+
+#yiv3191679145 dd.yiv3191679145la=
+st p span.yiv3191679145yshortcuts {
+margin-right:0;}
+
+#yiv3191679145 div.yi=
+v3191679145attach-table div div a {
+text-decoration:none;}
+
+#yiv3191679145 =
+div.yiv3191679145attach-table {
+width:400px;}
+
+#yiv3191679145 div.yiv319167=
+9145file-title a, #yiv3191679145 div.yiv3191679145file-title a:active, #yiv=
+3191679145 div.yiv3191679145file-title a:hover, #yiv3191679145 div.yiv31916=
+79145file-title a:visited {
+text-decoration:none;}
+
+#yiv3191679145 div.yiv3=
+191679145photo-title a, #yiv3191679145 div.yiv3191679145photo-title a:activ=
+e, #yiv3191679145 div.yiv3191679145photo-title a:hover, #yiv3191679145 div.=
+yiv3191679145photo-title a:visited {
+text-decoration:none;}
+
+#yiv3191679145=
+ div#yiv3191679145ygrp-mlmsg #yiv3191679145ygrp-msg p a span.yiv3191679145y=
+shortcuts {
+font-family:Verdana;font-size:10px;font-weight:normal;}
+
+#yiv31=
+91679145 .yiv3191679145green {
+color:#628c2a;}
+
+#yiv3191679145 .yiv31916791=
+45MsoNormal {
+margin:0 0 0 0;}
+
+#yiv3191679145 o {
+font-size:0;}
+
+#yiv31916=
+79145 #yiv3191679145photos div {
+float:left;width:72px;}
+
+#yiv3191679145 #y=
+iv3191679145photos div div {
+border:1px solid #666666;height:62px;overflow:=
+hidden;width:62px;}
+
+#yiv3191679145 #yiv3191679145photos div label {
+color:=
+#666666;font-size:10px;overflow:hidden;text-align:center;white-space:nowrap=
+;width:64px;}
+
+#yiv3191679145 #yiv3191679145reco-category {
+font-size:77%;}=
+
+
+#yiv3191679145 #yiv3191679145reco-desc {
+font-size:77%;}
+
+#yiv3191679145 =
+.yiv3191679145replbq {
+margin:4px;}
+
+#yiv3191679145 #yiv3191679145ygrp-actb=
+ar div a:first-child {
+margin-right:2px;padding-right:5px;}
+
+#yiv3191679145=
+ #yiv3191679145ygrp-mlmsg {
+font-size:13px;font-family:Arial, helvetica, cl=
+ean, sans-serif;}
+
+#yiv3191679145 #yiv3191679145ygrp-mlmsg table {
+font-siz=
+e:inherit;font:100%;}
+
+#yiv3191679145 #yiv3191679145ygrp-mlmsg select, #yiv=
+3191679145 input, #yiv3191679145 textarea {
+font:99% Arial, Helvetica, clea=
+n, sans-serif;}
+
+#yiv3191679145 #yiv3191679145ygrp-mlmsg pre, #yiv319167914=
+5 code {
+font:115% monospace;}
+
+#yiv3191679145 #yiv3191679145ygrp-mlmsg * {=
+
+line-height:1.22em;}
+
+#yiv3191679145 #yiv3191679145ygrp-mlmsg #yiv31916791=
+45logo {
+padding-bottom:10px;}
+
+
+#yiv3191679145 #yiv3191679145ygrp-msg p a =
+{
+font-family:Verdana;}
+
+#yiv3191679145 #yiv3191679145ygrp-msg p#yiv3191679=
+145attach-count span {
+color:#1E66AE;font-weight:700;}
+
+#yiv3191679145 #yiv=
+3191679145ygrp-reco #yiv3191679145reco-head {
+color:#ff7900;font-weight:700=
+;}
+
+#yiv3191679145 #yiv3191679145ygrp-reco {
+margin-bottom:20px;padding:0px=
+;}
+
+#yiv3191679145 #yiv3191679145ygrp-sponsor #yiv3191679145ov li a {
+font-=
+size:130%;text-decoration:none;}
+
+#yiv3191679145 #yiv3191679145ygrp-sponsor=
+ #yiv3191679145ov li {
+font-size:77%;list-style-type:square;padding:6px 0;}=
+
+
+#yiv3191679145 #yiv3191679145ygrp-sponsor #yiv3191679145ov ul {
+margin:0;=
+padding:0 0 0 8px;}
+
+#yiv3191679145 #yiv3191679145ygrp-text {
+font-family:G=
+eorgia;}
+
+#yiv3191679145 #yiv3191679145ygrp-text p {
+margin:0 0 1em 0;}
+
+#y=
+iv3191679145 #yiv3191679145ygrp-text tt {
+font-size:120%;}
+
+#yiv3191679145 =
+#yiv3191679145ygrp-vital ul li:last-child {
+border-right:none !important;
+}=
+
+#yiv3191679145 
+</style></div></div><br><br></div> </blockquote>  </div> <=
+/div>   </div> </div></body></html>
+------=_Part_370548_534966435.1422765627692--
+
+

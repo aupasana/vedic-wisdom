@@ -1,0 +1,267 @@
+From isonineeraj@...  Wed Feb 17 11:07:48 2016
+Return-Path: <isonineeraj@...>
+Received: (qmail 20302 invoked by uid 102); 23 Jul 2015 01:21:07 -0000
+Received: from unknown (HELO mtaq2.grp.bf1.yahoo.com) (10.193.84.33)
+  by m8.grp.bf1.yahoo.com with SMTP; 23 Jul 2015 01:21:07 -0000
+Received: (qmail 446 invoked from network); 23 Jul 2015 01:21:07 -0000
+Received: from unknown (HELO mta1006.groups.mail.bf1.yahoo.com) (98.139.245.165)
+  by mtaq2.grp.bf1.yahoo.com with SMTP; 23 Jul 2015 01:21:07 -0000
+X-Original-Return-Path: <isonineeraj@...>
+Received-SPF: softfail (transitioning domain of gmail.com does not designate 66.196.81.201 as permitted sender)
+X-Rocket-Track: cat=UK; info=cconsam:UK;dmcu:UK<token=NO_MATCH>;ip:NN<ip=66.196.81.201,policy=n-w0,n100,g0,s>;ipst:GD<ip=66.196.81.201>;cmsgbl:UK<s=10,m=0>;cmsgbk:UK<s=10,m=0>;cmsgob:UK<s=10,m=0>;mip:UK<p=not_run>;cptron:UK<prob=0.27>;phhr:UK;sigk:UK<score=0.113>;ipsp:GD;csubbl:UK;csubbk:UK;url2db:NN<url=yahoogroups.com,pri=3>;wlrcpts:UK;sgor:UK;abaca:UK<315, fh=mta1006; fi=98.139.172.202:14050; rg=U; GT=1; fs=315; ns=298; ws=315,A,4,-7,78,0,0,0,-60,0,200,0,0,N,N; nn=0,0,78,20,200,0,0; cn=5,0,0,0,3,-14,0,2,0,0; ex=W,D,0001,ERTY; sk=Ld5hINVWE7t; yd=5,5,1,0.27; st=AAS; id=UwpA_Mb8-6N01217AP; rv=inbound.0.40+9-ge3275d4/98.139.172.202:14051; ts=M5eYe; gv=299; fp=RCgAQ; or=EA; os=P/////////E; fl=EIAFAA; ip=66.196.81.201; po=72.30.235.64; ht=1; so=3; oc=0; oL=3; co=n; hl=NB0BP2U39Ih; hv=1; ha=FuDPOchz66s; hs=CFp8DFHkPSw; ho=G6bDfZ9GCeL; hd=IyIAQ9rT0ut; hf=CXCeVMr6rlU; hF=HNjuMbDXmCs; hj=KS+OouLAg3/; hr=C505zTti/10; gt=1; sd=FAwRBx6abz6,1:0,0,1:0,0,0,0,1,1,1,0,w,w; ZM=BOhgx1HBkqb; ZB=HIFxLBppaoT; ZB=O+r+jGMvcNR; ZB=Mqc2TWuUaBK; ZB=EYzh8XRHDeD; ZB=PLO7igNvr3K; ZM=cL+vKafmrE; ZF=ILPvZQNgpt/; Zi=KX1i2JJM2tL;, SRV_OR=1,WS_OR=1,WSS_OR=1,OR=1,AB_WS_IP=0,AB_WSS_IP=0>
+X-Rocket-Filter: dmarc-result=pass;
+X-RocketAttachment: type=text/plain;type=text/html;
+X-Rocket-MIMEInfo: 001.001,SGVsbG8gZXZlcnlvbmUsIEFyZSB0aGVyZSBydWxlcyB0byB3ZWFy
+ aW5nIHJ1ZHJha3NoIG1hbGEgb3Igc3BoYXRpayBtYWxhID8gSSBndWVzcyBv
+ bmUgaXMgc3VwcG9zZWQgdG8gcmVtb3ZlIGl0IGR1cmluZyBiYXRoaW5nIGFu
+ ZCB0b2lsZXQuIFdoYXQgYWJvdXQgcmVzdCBvZiB0aGUgdGltZXMgbGlrZSBz
+ bGVlcGluZyBldGMgPyBSZWdhcmRzLCBOZWVyYWogU29uaSBPbiAyMi1KdWwt
+ MjAxNSAzOjQ4IHBtLCAiUmFrZXNoIFBhd2FyIHJha2VzaF9wYQEwAQEBAQN0
+ ZXh0L3BsYWluAwMwAgN0ZXh0L2h0bWwDAzI-
+X-YMailISG: SHqSwqoWLDvwSzxrRnNrH_EXK1vMZAgw_u7O8wIJh9MTCD6.
+ 4YfbAwN8HfDLjLxkFq0IwkEtwiohHW_4u9.w7b_XrphKpDfey_DmeYYgFcKV
+ ZDftijcVVTddgoh87_NSLmfYZlUhoByMLWUuYTGYIO76U3g.Zsgpb52vOgx1
+ WduMGABlqMFVVzXu7brbz1covHLtJ7Qxu7gm0DBkyWwvI7ibmGo.D0vSP0gE
+ ngG63gRyPNDRxDWLwuCOJ1mUlfPfg7FjWKIur5fqeEoOPuwkIXhzFeMqSXuG
+ 9E6hPPp7oGYcMZzkww8Gq0.G3s6egqtpL4PYCNiXDUKq8pGUy1bPc7TKG91W
+ yKrdHjkTuIvpiB9bw0Jaey5Hkb6PRxkXA2AeYMt2kueVfyipydcEmQ19C7eA
+ iRbDYWQA43wBYEzAcB4GV0dY9R3SzLhLsBVlyFiyKjHNW0CEw.IitrOMDnVJ
+ fLJbuS695tE4h3IB8aLrE3ViXgtX7_SxUnB5oEipIZm6XkRvITPs4ZJmPXVi
+ CLEQ3fNfgByeXaOuTGBv.oVcXuvEGCLVLUJI5uKQFXVVulS1lxUwEYtVAA0X
+ J8fCOPBAVy7llwJGpTg_aXQC6AnzXOcO5YNnqlrZCptS_LgTS8Daq2hdPOgK
+ VoSVyZiXNC5wsJSgHuBb_HQk_oM4bPi4qviJCWQbXjHfIb3O7Hj6jpZFXE4o
+ eVcrsUJkm2V3DcTMUBZx1GDuyDrf5CzP9cwN6tloBhcC_otf4e.FnE8xrqHF
+ 8cGAnkun26gaLbiunsBXYtrDdA7t3nLOBrKIzKcpVUBFJXZDqr6bhF78iR7i
+ ukW02OIUMGCctVdsv3GhyMkf.tJswYLV2dvgPYUFNeFUH5wxw1atX6BK_oRb
+ o_uZ2MZI0BKihI_TUA0bNVOd6ht6IwcTb1p0n5o.oYcBbpFRXPbslqrqA7s_
+ h6_UIsYaqYhe1yaMo_8R94rGBNisBi5h9vgW9a5wPFCHGWt97CuhS02Sf9hI
+ T4Gq4xNeAwUIsCWIKduTFaJ9MCJCKcQjVx_1pw86vg41A3bS7Rm5LC0Z.s75
+ i.6GtU5eYpqIOISSh_cvQtRTqGtE3vbVCzlcO8G8gh1zP4xLFBOvkaqBzV5V
+ I0M0ZjL23EQtbpOagRMdYTKXFCW_f5V3bOI2hLwoGZxsQOVPb1Z4S.lbzr9T
+ T1p3qZEMqZAqEI1myb3UmmUr70yH8QASKma76m3FfQK4Y46A.aofuqZsiYb4
+ A2hHP1Kfy39HbWbrxjDw5DjQJf4aTWKEHynWQkOaTo4GMsRITtVAmHGU8VZm
+ IVirTKn01tTneXluqkEXSU2_NbE1NcHTQg06WSY5Nro1V2eKGbmAqMojrUQ1
+ 1FaX0JmsMs4JKYQALhBprcdq7xvUzJ7wvksgMnbZzsTYK1vV4L6UQtzPABk_
+ .LNtgqo6MWXd2FQpZ5adPpnuEyfbagJIWRPJ6G4q9WLk382GRRVUplb8uyPS
+ lI27lG_LE4oc9tKrv063rVh7yBQ4RYxlQfDUqjGXQZihuwGFILjR3fbOb7Mr
+ 29ogoGoaC66k0mxLLzo4.14TKV8E99ddU8GhubO9TQ--
+X-RocketHELO: n11-vm10.bullet.mail.bf1.yahoo.com
+X-RocketMAILFROM: isonineeraj@...
+X-RocketRCPTTO: 0-vedic-wisdom@yahoogroups.com
+X-RocketMSGID:1437614467.101395.45502@...#0
+X-Originating-IP: [66.196.81.201]
+Authentication-Results: mta1006.groups.mail.bf1.yahoo.com  from=yahoogroups.com; domainkeys=neutral (no sig);  from=yahoogroups.com; dkim=pass (ok)
+Received: from 127.0.0.1  (EHLO n11-vm10.bullet.mail.bf1.yahoo.com) (66.196.81.201)
+  by mta1006.groups.mail.bf1.yahoo.com with SMTPS; Thu, 23 Jul 2015 01:21:07 +0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoogroups.com; s=echoe; t=1437614467; bh=P5Ds2hOovVtt4VcojoVjj7vO45zaT63QKjrsbS0BNFc=; h=In-Reply-To:References:Date:Subject:From:Reply-To:To:From:Subject; b=v7dIFKFZWSG8NVhNDqphu1ziqBg7jkmnsk/zxCKhVU2HQ5Ifc3mj7kDJHnOiCF8KxYY5FIbMvbmGLYA0EHOqi0p1JiGi6eZh10nrzNTbLWU6KhqX7fN4YSH05tdZnj11/S4Jd1QenLkCCnzRcrz/8eC59UnNam1ReNjEUBB1NaE=
+Received: from [72.30.235.64] by n11.bullet.mail.bf1.yahoo.com with NNFMP; 23 Jul 2015 01:21:07 -0000
+Received: from [10.193.242.235] by t1.bullet.mail.bf1.yahoo.com with NNFMP; 23 Jul 2015 01:21:07 -0000
+Received: from [127.0.0.1] by gapi8.grp.bf1.yahoo.com with NNFMP; 23 Jul 2015 01:21:07 -0000
+X-Sender: isonineeraj@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 32279 invoked by uid 102); 22 Jul 2015 15:38:27 -0000
+X-Received: from unknown (HELO mtaq6.grp.bf1.yahoo.com) (10.193.84.37)
+  by m6.grp.bf1.yahoo.com with SMTP; 22 Jul 2015 15:38:27 -0000
+X-Received: (qmail 8806 invoked from network); 22 Jul 2015 15:38:27 -0000
+X-Received: from unknown (HELO mta1006.groups.mail.bf1.yahoo.com) (98.139.245.165)
+  by mtaq6.grp.bf1.yahoo.com with SMTP; 22 Jul 2015 15:38:27 -0000
+X-Original-Return-Path: <isonineeraj@...>
+X-Received-SPF: pass (domain of gmail.com designates 209.85.214.172 as permitted sender)
+X-YMailISG: pakI46IWLDu.2R1NFbDfhQtz_vF2aFOazWAgNEM_K1FKVgE.
+ DgWcM83HYmfEC34kxeST4hldbLJMGRCg7sCRQ4tP2LBnlZKORoO46d4SQkZR
+ lryipKlowc__HRTudNFGfUII4TDaShQZ7ipCQDYXjoeVgmAZFPlxh993QAKF
+ ixZruuXoeYmRaj2uDsILQcknC7jiY7UF9qvBaUpB_KbQl.mfvSD_QjZ8LqlQ
+ nIj79s8HycNZGHjSOppRQjzMlPf3a6p4HTeizSPmG_ZF36rRueSYNGOqYqcS
+ e989LAK54VBV8_sML2FDn8JLhcexQcECffjia.po6xcPbKLixIo_rK9XjS6j
+ Qdp6ZO7JEsNgP5fi4qZ4jB4qMtSzFNgnDCwa9Jdy39LADscBrnhlpa2D2WWl
+ Kn_7haD3YAPp.2kZHY2dypR5Bt2njLbrpvtCBClJhABjjE3OY60B3UlgCkG4
+ 20cDP9GpMLS06IX5w_ztt2NODr6pQRJDv5pf8ZCCUlGRrA7Qzyfq6_E0zlVo
+ cD3i_Bz6EVhvkNKL8mctTF2GSdC0Sgbnflo.Sw5FFibHT.8JZWkKUh.o9zEE
+ aMhblhvNsCvMOn0D3aA0E64eobICUsAV3X6iAq68NlZ5AYyB9TVNB42jDHCD
+ 8nrWXIKlXAqJV3YF.h7IyjGCgPKwcYuCIma6ERRbuT3efPUPpSwxh9_ra_wu
+ qDIarPpAnYj1zwddCs0X8NXt4PXLT1aPpS8AvTkGB98qRHOTRa0cHittelDu
+ Ee7rXkSffUHOmpXe7fhFmWvFeJ9f_LTTczGrhq9ZFMulyaw12xOSIf6gx67c
+ U_f93hS.z_XzKV3pXT5QsEiY20i_HYuIw71i6ddqXEF69XyfTNnRQJAk61IP
+ OCiwIJypeisKDffY2DeEx2_NXBE6vCj8GYJEXu7wpGzddXZCtqL6EJ2l3liO
+ 5CrH8qaHik5NduH7r1UxjOStDz55YEEY.Mw9EeokuuReIwlGASmzeckjF8yE
+ GcSHfrpNqVzJl5Bid67rxMBAEnet7dFhekUhYA9Z0yTquNgNEDfIIDwX9HFN
+ nvPnzk02eMLpXnADjC5DKdTGM6CIq2PArBvVNu.kWjoc1MRiHe37QnKUXRTO
+ d3CITmoPNnXF2McIJggd_QwcgxCf2RVrl0mTV1FN4PkbVDlEENNaItwtXjnB
+ viDGv_NAQOE57KRhkwzDtVKjF4.bX11B8O.rwBgzcxmWefoiPLQlI9WrN4Yg
+ 0yleEPwUUj5ax2fyLhEMjX51AdKtNCsBB0hJKEMHQc4kHEZ94Ye3PLQgYUty
+ 2rmoHhmDmj1X8AhDMLktOR1org9M7.faGppUNZsvuOEaCgj379zTS7oOGrPS
+ .VaDgC1JAY.47tZUsnNXwOgS.t3X_FmSDM2d36qv3pVunF6FJlJbss7zgHaL
+ bGNXnuz8YwIw.jCVPFVbsHM9yjFKp8bwmwuEm8CnYNIw0JZjXCbn9vyUMgky
+ y8_UF3gPaoB.dgMgqjPi3Coi0AOyCYlx4aP4g8hzQ4hO2fYycIGQp79.8auV
+ Ya_bF7oPyfzlADv0Etei6Dvg5QGf9MAnM2RDw9tVPqKuKMXVZm5A9EZhcMVE
+ UQ6cvljxCrPNWy8nipVYT3ynB8HPUGTX1MnWKO_gG8VlLtN7JWtnT3M39UDH
+ pauY3hWFA.LAjP6iEezu6CUeDxiAA3_DGXP7G.0TIca22noiXpV4gL1YnBDg
+ mUlgCwmaezgDYPG3f9YGLx.Ex4VOs34aUO84
+Authentication-Results: mta1006.groups.mail.bf1.yahoo.com  from=gmail.com; domainkeys=neutral (no sig);  from=gmail.com; dkim=pass (ok)
+X-Received: from 127.0.0.1  (EHLO mail-ob0-f172.google.com) (209.85.214.172)
+  by mta1006.groups.mail.bf1.yahoo.com with SMTPS; Wed, 22 Jul 2015 15:38:27 +0000
+X-Received: by obre1 with SMTP id e1so136775447obr.1
+        for <vedic-wisdom@yahoogroups.com>; Wed, 22 Jul 2015 08:38:27 -0700 (PDT)
+MIME-Version: 1.0
+X-Received: by 10.60.58.225 with SMTP id u1mr3261582oeq.75.1437579506910; Wed,
+ 22 Jul 2015 08:38:26 -0700 (PDT)
+X-Received: by 10.202.175.79 with HTTP; Wed, 22 Jul 2015 08:38:26 -0700 (PDT)
+X-Received: by 10.202.175.79 with HTTP; Wed, 22 Jul 2015 08:38:26 -0700 (PDT)
+In-Reply-To: <975000070.268690.1437560097069.JavaMail.yahoo@...>
+References: <975000070.268690.1437560097069.JavaMail.yahoo@...>
+Date: Wed, 22 Jul 2015 08:38:26 -0700
+Message-ID: <CAHWwvJy1EMO0-LVtV_MAxzfdeAEnqL-jO7bOEopRQ--6OqA08w@...>
+Content-Type: multipart/alternative; boundary=089e013d07fed88ade051b788ffa
+X-Originating-IP: 98.139.245.165
+Subject: Re: [vedic-wisdom] Re: authentic rudraksh mala
+X-Yahoo-Group-Post: member; u=575019932; y=3ozKDRKBrhNf0Ix7ozcCkqdmfUmRp_4TXl_W-_Rwk-Ev0-ftkrVENg
+X-Yahoo-Profile: sonineerajb
+X-Original-From: Neeraj Soni <isonineeraj@...>
+Reply-To: Neeraj Soni <isonineeraj@...>
+X-Original-Return-Path: Neeraj Soni <isonineeraj@...>
+To: vedic-wisdom@yahoogroups.com
+X-Yahoo-Newman-Property: groups-system
+X-Yahoo-Newman-Id: groups-system
+X-eGroups-Approved-By: pvr108 via web; 22 Jul 2015 18:21:07 -0000
+From: Neeraj Soni <isonineeraj@...>
+
+
+--089e013d07fed88ade051b788ffa
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset="UTF-8"
+
+Hello everyone,
+
+
+Are there rules to wearing rudraksh mala or sphatik mala =
+?
+
+I guess one is supposed to remove it during bathing and toilet. What abo=
+ut
+
+rest of the times like sleeping etc ?
+
+
+Regards,
+Neeraj Soni
+On 22-Jul-=
+2015 3:48 pm, "Rakesh Pawar rakesh_pawar@...
+[vedic-wisdom]" <vedic-w=
+isdom@yahoogroups.com> wrote:
+
+
+>
+>
+> I dont think you will get genuine rud=
+raksha mala online. I don't remember
+> exactly but there is some way to che=
+ck the genuineness of rudraksha by
+> putting the bead in water. others may =
+comment on this, pls.
+>
+>
+
+--089e013d07fed88ade051b788ffa
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="UTF-8"
+
+<p dir=3D"ltr">Hello everyone, </p>
+<p dir=3D"ltr">Are there rules to weari=
+ng rudraksh mala or sphatik mala ? <br>
+I guess one is supposed to remove i=
+t during bathing and toilet. What about rest of the times like sleeping etc=
+ ? </p>
+<p dir=3D"ltr">Regards, <br>
+Neeraj Soni </p>
+<div class=3D"gmail_q=
+uote">On 22-Jul-2015 3:48 pm, "Rakesh Pawar <a href=3D"mailto:rakesh_p=
+awar@...">rakesh_pawar@...</a> [vedic-wisdom]" <<a href=
+=3D"mailto:vedic-wisdom@yahoogroups.com">vedic-wisdom@yahoogroups.com</a>&g=
+t; wrote:<br type=3D"attribution"><blockquote class=3D"gmail_quote" style=
+=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex">
+
+
+
+
+<u>=
+</u>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div style=3D"background-color:#fff">
+<span>=C2=A0<=
+/span>
+
+
+
+
+<div>
+  <div>
+
+
+
+
+    <div>
+
+
+      <p><div style=3D"color:#000;=
+background-color:#fff;font-family:HelveticaNeue,Helvetica Neue,Helvetica,Ar=
+ial,Lucida Grande,Sans-Serif;font-size:10px"><div dir=3D"ltr">I dont think =
+you will get genuine rudraksha mala online. I don't remember exactly bu=
+t there is some way to check the genuineness of rudraksha by putting the be=
+ad in water. others may comment on this, pls.</div></div></p>
+
+
+    </div>
+=
+   
+
+
+
+    <div style=3D"color:#fff;min-height:0"></div>
+
+
+
+
+</div>
+
+
+
+
+
+
+
+=
+
+
+
+
+
+
+
+
+
+
+
+
+</blockquote></div>
+
+--089e013d07fed88ade051b788ffa--
+
+

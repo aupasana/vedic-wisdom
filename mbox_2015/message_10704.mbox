@@ -1,0 +1,583 @@
+From sugamdeep@...  Wed Feb 17 11:07:48 2016
+Return-Path: <sugamdeep@...>
+Received: (qmail 24695 invoked by uid 102); 18 Aug 2015 16:14:00 -0000
+Received: from unknown (HELO mtaq6.grp.bf1.yahoo.com) (10.193.84.37)
+  by m7.grp.bf1.yahoo.com with SMTP; 18 Aug 2015 16:14:00 -0000
+Received: (qmail 2919 invoked from network); 18 Aug 2015 16:14:00 -0000
+Received: from unknown (HELO mta1002.groups.mail.bf1.yahoo.com) (98.139.170.166)
+  by mtaq6.grp.bf1.yahoo.com with SMTP; 18 Aug 2015 16:14:00 -0000
+X-Original-Return-Path: <sugamdeep@...>
+Received-SPF: softfail (transitioning domain of gmail.com does not designate 66.196.81.191 as permitted sender)
+X-Rocket-Track: cat=UK; info=cconsam:UK;dmcu:UK<token=NO_MATCH>;ip:NN<ip=66.196.81.191,policy=n-w0,n100,g0,s>;ipst:GD<ip=66.196.81.191>;cmsgbl:UK<s=38,m=0>;cmsgbk:UK<s=38,m=0>;cmsgob:UK<s=38,m=0>;mip:UK<p=not_run>;cptron:UK<prob=0.27>;phhr:UK;sigk:UK<score=0.141>;ipsp:GD;csubbl:UK;csubbk:UK;url2db:NN<url=yahoogroups.com,pri=3>;wlrcpts:UK;sgor:UK;abaca:UK<209, fh=mta1002; fi=98.139.172.204:14050; rg=U; GT=0; fs=209; ns=209; ws=302,A,-6,-13,-10,0,0,0,-60,0,200,0,0,90,N; nn=1,0,-11,20,200,0,0; cn=13,17,0,0,2,-25,0,18,0,0; ex=N,D,0001,EILRSTVY; sk=Idau9YOEmj3; yd=5,5,1,0.27; st=AAL; id=UwpCwgc6-7I161401A; rv=inbound.0.40+10-g178104b/98.139.172.204:14051; ts=NCP5j; gv=355; fp=RLgkQ; or=EA; os=P/////////E; fl=EIAFAA; ip=66.196.81.191; po=72.30.235.66; ht=1; so=3; oc=0; oL=3; co=n; hl=NB0BP2U39Ih; hv=1; ha=FuDPOchz66s; hs=CFp8DFHkPSw; ho=L/STO9te6QK; hd=IyIAQ9rT0ut; hf=D3T5vmGT6pZ; hF=PSf6Z9ICxjR; hj=FCkLKraqIzW; hr=C505zTti/10; sd=JxVXnIoUprS,1:1,18,0:1,30,0,0,1,1,1,0,w,w; ZM=BeElMTmXcsC; ZB=ETMwHM/Ftq+; ZB=M9uQ1kDmunT; ZB=GwfX5vFZbB9; ZB=PfoDjQnwQny; ZB=KXGCXIsNqKZ; ZM=cL+vKafmrE; ZM=CSTzLQMrSkY; ZU=Ke53ScCvS0L; Zu=IGvLlcZqyG7; ZU=LmQ1Urae8Mx; Zu=Dx5dYAAEmA6; ZM=OzswK4BBcfK; ZF=MucI91a7V9x; Zi=KT1i2J8Joss;, SRV_OR=1,WS_OR=1,WSS_OR=1,OR=1,AB_WS_IP=0,AB_WSS_IP=0>
+X-Rocket-Filter: dmarc-result=pass;
+X-RocketAttachment: type=text/plain;type=text/html;
+X-Rocket-MIMEInfo: 001.001,ZGVhciBzaXJ5ciBxdWVzdGlvbsKgIDEpIFNvbWVvbmUgY2hvb3Np
+ bmcgdGhlIHBhdGggb2Ygc3Bpcml0dWFsaXR5LCBpcyBpdCAncHJlLWRlc3Rp
+ bmVkJyBhcyBwZXIgb3VyIGhvcm9zY29wZT8gSE9yb3Njb3BlIHByZWRpY3Rz
+ IHlyIGZ1dHVyZSBidXQgdGhlIHBlcnNvbiBpbiBTcHJpdHVhbGl0eSBCZWxp
+ ZXZlIGFuZCBoYXZlIGZ1bGwgZmFpdGggSW4gSElNIGFuZCBIRSBpbiB0YWtl
+ cyBjYXJlIG9mIHlyIG5lZWRzIGFuZCBldmVyeXRoaW5nIGxlYQEwAQEBAQN0
+ ZXh0L3BsYWluAwMwAgN0ZXh0L2h0bWwDAzk-
+X-YMailISG: Y1URSKMWLDtCdOJBMUNqq5B1BevAaSy2FcTU8XC46MOifzNS
+ 0tJmu7jMl.ClDlVKwV8XKmoTAgWVH6zMJYcBFi33JcRtH7fszKmfdNNhP0gz
+ lh4LIbNSBXfrfAqg0DpftFelDJ6qZkP7gUzFBoeKqIBZJyETTAc.16KeB_es
+ 4Jv7HQPbObneflQK8p.P6dTL0pp2jtz.KvXCg.1858KdfzEDR9DmW3_eJ8u8
+ 3FFm37J67.FiXzrgUSoyVDxVSYAPZcA9_.B0g5huC4M8xl7ueIMpl4AKgTru
+ dbF40M_3.oZn8RXiY7FIR6zwaEFS4CDCRRM7.ZWheIestx93pwrOXVlDhQfz
+ xY_rsSeS3_K0O2H39DVd6ridSbFylyD73a5BRc6ztDLRWPVGt2.6wNBmhB6A
+ m0msAQElndeStEW8AXHovWlqJiFcwuCjcoRnBWW8jR8bC7IsSj9An6adsDmL
+ WUG2V9IBM3A4jwoB3vwoROU7vKVAgDvNmpkX34QlLA7GNixOdta5Xm44a9R7
+ 5XkBgUJHqJSApNz52P5TzR5qPb4gIrpzrfyQHukM9.gSYzLnZnIOtI3QNeLA
+ vrX0iYd2RWFCLoqgsHYey0uuiMeS9it5N.XWfsYyvYVj3ZWDrl_mfHBUZIiS
+ VLWyVY45k15P1DLCL4SSMlVOXOu8vfiHqWir2UKvqMDiq7tJDXWx9TPzhFYc
+ 7mS5tGdrsG6X76FAHgOu2ORLfu7sGhwiNFFwei8P7lEoZ61d4nXvwzYoWQGj
+ p4W1g1Vlv5__XS8IklPJ3anUjaFYBjQ4gP.XgKUl50QvQHZkWRM6MvYEccJv
+ FXsLuMw5_s9pua2cvxNpv3K14_DSLF0oaVyrIIBe8QVBIazUz_uj5wlY6uft
+ A5fKvZf6nhs9iRFVq7ES38N3NxrXPXRbFBP1gQP83iBlzT7XWT4H9RiGu8LV
+ 40v8cjeZ3mWoHD1D8FNGUF7e4JgFCbNp9FFccDN7MRVqI4paIBDxA41MjBdo
+ ESJwrA3f1jQw00x1K2Yo3CYSYcC7SE43I3CCl4JaMc_k3emdBkGt_Lau3lol
+ RNPQ5dftcTw64HDQaXoJvMH.YFIx3k.HqbfoYdoVEo5Utf4PN9ZcqmTTcHPm
+ MJdayscwRe6csCffaByzxpY1tS7H6LLk7Q7gy0DZ7GbnDBzRjSh7Tx.omTk5
+ a0zRdclhoLJnOaG2SQ2yvCkejUqw7XQABT3wxY0BkYP4qV13OSi9D_CYCyfq
+ nATfXiyF.XCE9wOLH5GHzG1gSqzn6jaCmjuwvczJ43MN1umbLpdCOvreRtFY
+ 3pglU2La_qAdWBHTExfc.SdkIhBThsA4Mc5AshX_mr8DRvenJOyzwcryTezS
+ 6FLxX0iWd81C3NIxptAuGyXljX3pEOz1FBQYnK13tb_MFafjHAUOH1PozQKR
+ y4QgVveldWgFGhQ5tz4ekuvQvFc7l_krxhv99XUndvtQl1hJG.OOnYyUPiYh
+ oh0CxKeHDqQPWCCSTUCt6V6coZo7XC0b9u7fomk_abBRFeXBMKCIEI39MNdI
+ bTuffVDLS6tQvGbOMy.1Wid8wUOwBT.xmEmk2Dvz.JIsNWOyKg5HUFPQvZyG
+ 3erAM1vqOFWjmVRIM.IMogqFq7A6Ivt3mTXNHdlCysJh1SrwphHhwzRwRvUk
+ PYIgDtY86U.OT7RjD5NZ0IA8JFuqUGLhfVkm9JTci3EhF4zkpo_BFkPhbm.b
+ fw--
+X-RocketHELO: n13-vm8.bullet.mail.bf1.yahoo.com
+X-RocketMAILFROM: sugamdeep@...
+X-RocketRCPTTO: 0-vedic-wisdom@yahoogroups.com
+X-RocketMSGID:1439914440.8737.97457@...#0
+X-Originating-IP: [66.196.81.191]
+Authentication-Results: mta1002.groups.mail.bf1.yahoo.com  from=yahoogroups.com; domainkeys=neutral (no sig);  from=yahoogroups.com; dkim=pass (ok)
+Received: from 127.0.0.1  (EHLO n13-vm8.bullet.mail.bf1.yahoo.com) (66.196.81.191)
+  by mta1002.groups.mail.bf1.yahoo.com with SMTPS; Tue, 18 Aug 2015 16:14:00 +0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoogroups.com; s=echoe; t=1439914439; bh=U3546uXIARX6eJCDz/bCinbDbS162f3FZFaN5rL7W6s=; h=In-Reply-To:References:Date:Subject:From:Reply-To:To:From:Subject; b=hXP6fUd/QmDp2m2Chd1zmgNcdCYw92PLAJ9fNg0E+iFD23OaxTZ8Wi77OslyZKUhbiNw2KYOGgePA8zpQpu3JXrMZxb+30v5zr4llcA0hzpyFylJPdI3ed90x52/sT2hxU28D9rlT85wPiY88xD7wcp9hc6ZzW+Ke5QB2K/fr2Y=
+Received: from [72.30.235.66] by n13.bullet.mail.bf1.yahoo.com with NNFMP; 18 Aug 2015 16:13:59 -0000
+Received: from [10.193.75.124] by t3.bullet.mail.bf1.yahoo.com with NNFMP; 18 Aug 2015 16:13:59 -0000
+Received: from [127.0.0.1] by gapi6.grp.bf1.yahoo.com with NNFMP; 18 Aug 2015 16:13:59 -0000
+X-Sender: sugamdeep@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 958 invoked by uid 102); 17 Aug 2015 16:07:03 -0000
+X-Received: from unknown (HELO mtaq2.grp.bf1.yahoo.com) (10.193.84.33)
+  by m7.grp.bf1.yahoo.com with SMTP; 17 Aug 2015 16:07:03 -0000
+X-Received: (qmail 25619 invoked from network); 17 Aug 2015 16:07:03 -0000
+X-Received: from unknown (HELO mta1005.groups.mail.bf1.yahoo.com) (98.139.245.164)
+  by mtaq2.grp.bf1.yahoo.com with SMTP; 17 Aug 2015 16:07:03 -0000
+X-Original-Return-Path: <sugamdeep@...>
+X-Received-SPF: pass (domain of gmail.com designates 209.85.214.176 as permitted sender)
+X-YMailISG: lVhOvlcWLDv.3QOyDPMDfxCiOYxJi432G965w7KLEhNXL5.k
+ adiO1HCx04H79p0eNGHomWprRyFA7rooZ32ykKlgGFN22nSI5IFCs0dIXRsO
+ L5Vn2wjEnN6caTsU.uM7pdXUYtozFq7MicrPex2Mly9Oo2qwZTmZMPSIPI5Q
+ wSKhbG_lHlDCRjweOtwK6P1eod7sqtAW58hCQpm0exwpkspjtAgGDUFecFxn
+ CdfJ4VufFKa7nDylPGiVV4rkZrWs.HqTqBZ5fF7D6n_26.0mx_rTmoWp0aIS
+ xgDPyO7dZYO8abCJ0.RjRriA9J3wLMrHUrpmGBJJxbiU74MZ8YNy7d.dLqzm
+ drksVGdcyNZxXEqW6GlIApW0yfl5_ih16p8eXts4UbmQLQpyGt4jc181swCd
+ bHMs1yDlzeDEnCJcXcUCBv7eNJGiK4dh.Fs8S4yEpdI8pOicUXnTm5N1CYIj
+ IOVDpePe5U5kiIFnQfjYYOHxbtHf.ft1Ad7DZjkag9i4myI_MsdGW19t5lMS
+ yKl_PbzefGuQMcW4GY2N5aJX602yhHbpCOoGA6tUVNh0vIfGHGv3waL5qU8x
+ youGfxtt4lU6Tjq4ddR0FdS7ZI4AKSUJWJA2pBJpy_ZgC7jFpeeVvHmCcX9H
+ XzDB..n9aBrjByK0uc3H1SmK4ey4ZWf_ajP1Z89D6LFM5pBLfNGSKiQ0p081
+ .9CMesvHz53f63jZuXTvce9Z2ZtOBpCs2LOcjTssuQcYNirFUfvrU1LffpUv
+ .3_UPnhlChImW5ryDdTbrJnUCiMt_9zQsiCP.h.jfaURPXFKIkz72BnzDxD9
+ kEpVMhxiQ3Bs7EtRlYU.wOSlSFceNWuCvFqrgLyE5oS2A6joK9ORwWYXNzKv
+ Fbnd9hqS4PHSoXIJrOgzkHNDi5WjchgCTwiyMsuC59PDIzbaUXUY7ShLaF3z
+ WZfD_VTcll4B5GdiIAwGvw.qnTt9XPTSZFcOb2Smru4wbIweNy3euAs2CH0p
+ 2wrlNferQGzbdqz42Je5BisPdy6rA2cqp_2OgJ7nKn_wkje81iNMJ0FMQgb1
+ 68jF80latXaLpBqGTWi_F6Iq3KtgOrOGjK4JPb.h848mI1fKAvak3XXKZBHR
+ NsS.aHEtwjpb0KLacrg5dlJPC.DYdbR7yGAS9dRzd8ZRDweBt1z_zwKe3spJ
+ CfwWXQJFELTirVko8ltPGUfzhqXp6yMyxL_VMmoe0qZ9a3rd1kAmiTmsklsA
+ 01sGUOkzHJr1.zodyaPEKWcXt33rwNB1nqrM3HVSyRZcXJnqcplNWk4E34hp
+ SDErnraq0iYv.g9fZ3j42a41XWFEZJ3aOnrZEtP6SL6Yvfw3FDzxUbtGI1Yy
+ 7zRQSew7jjux75ER9OskLWG4FRYPASipn_JGMTFulhoRWZ9GNwnm1Vtk8h8h
+ RUE67N3I9k0cwMiOCgqci95iN8TZyRyVsFrZ3qrK4SEkglXu7QKvlEcZri.D
+ N7.xTEgRgokdEgyKmP6DJuo90fbv77xzIeHV9rwWsTJb8tJJpbmIGi50XOJw
+ Cw0795swdOKoHaiEHlFveDTqWxbtLXbHV5EeXp26hxaiUoyr.bHXdmYs9xsH
+ czZ3ireQgjDwmK8rY5UanccblKHFXSP5A7g5doa.ROP6ecLVUN4pFnAdYXnC
+ GJeI8E5E45C1pD8TNJuL_IdGsLrqE2PavJdqdDx6obJXjuyEIE7zMPETOEUC
+ IPmI.tFpMDnv1sn55w7raxwPeF7m3PJ0HQ1VWy_PmoyYj2ADzANt4TkKJ.n1
+ sUjuwG2F5QZ2vIoiiDRN.q8ad3gwpjPwCpf8pmMl5cOPESSTRfTcd7rXDsI_
+ GSr0
+Authentication-Results: mta1005.groups.mail.bf1.yahoo.com  from=gmail.com; domainkeys=neutral (no sig);  from=gmail.com; dkim=pass (ok)
+X-Received: from 127.0.0.1  (EHLO mail-ob0-f176.google.com) (209.85.214.176)
+  by mta1005.groups.mail.bf1.yahoo.com with SMTPS; Mon, 17 Aug 2015 16:07:00 +0000
+X-Received: by obbop1 with SMTP id op1so116985583obb.2
+        for <vedic-wisdom@yahoogroups.com>; Mon, 17 Aug 2015 09:07:00 -0700 (PDT)
+MIME-Version: 1.0
+X-Received: by 10.60.145.228 with SMTP id sx4mr1768509oeb.79.1439827620214;
+ Mon, 17 Aug 2015 09:07:00 -0700 (PDT)
+X-Received: by 10.182.27.3 with HTTP; Mon, 17 Aug 2015 09:07:00 -0700 (PDT)
+In-Reply-To: <CAJ9joEZbOo-HZm5ToAbhA+468beUbJLvK8_SAePpYtkWWSiNFg@...>
+References: <mqoff7+toqd9h@...>
+	<1450292043.5092864.1439738037210.JavaMail.yahoo@...>
+	<CAJ9joEZbOo-HZm5ToAbhA+468beUbJLvK8_SAePpYtkWWSiNFg@...>
+Date: Mon, 17 Aug 2015 21:37:00 +0530
+Message-ID: <CA+MLLSyxUNtWmm-A9huvh6F-efpr2xO5pijg1qdkHs_YhjxsHQ@...>
+Content-Type: multipart/alternative; boundary=047d7b5d30dad746ba051d83fde6
+X-Originating-IP: 98.139.245.164
+Subject: Re: [vedic-wisdom] Re: Question on spiritual path
+X-Yahoo-Group-Post: member; u=576441204
+X-Original-From: nag venkat <sugamdeep@...>
+Reply-To: nag venkat <sugamdeep@...>
+X-Original-Return-Path: nag venkat <sugamdeep@...>
+To: vedic-wisdom@yahoogroups.com
+X-Yahoo-Newman-Property: groups-system
+X-Yahoo-Newman-Id: groups-system
+X-eGroups-Approved-By: pvr108 via web; 18 Aug 2015 09:13:59 -0000
+From: nag venkat <sugamdeep@...>
+
+
+--047d7b5d30dad746ba051d83fde6
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset="UTF-8"
+
+dear sir
+yr question 1) Someone choosing the path of spirituality, is it
+'p=
+re-destined' as per our horoscope?
+*HOroscope predicts yr future but the pe=
+rson in Sprituality Believe and
+have full faith In HIM and HE in takes care=
+ of yr needs and everything
+leave to HIm the almighty . No question and tim=
+e to think about the samll
+thing like Horoscope*
+2
+omeone deep into spiritu=
+ality and living the blissful state caused by
+mediation or homam, does he (=
+or she) cease to follow his (or her)
+astrological chart?
+*The person is alw=
+ays in Blissfull state where does the question of
+alstrological chart arise=
+s.You have left everything to Him and He does lead
+yr life.'*
+nag(beginer i=
+n spritual path)
+
+
+On 16 August 2015 at 21:05, Durgesh Mishra durgesh.mishr=
+a@...
+[vedic-wisdom] <vedic-wisdom@yahoogroups.com> wrote:
+
+
+>
+>
+> I =
+always believed in incorrigible fruits of Karma. And role of Sadhana as
+> c=
+orrective step to mend one's future actions.
+>
+> But when tell these things=
+ to others, they feel disillusioned, rather
+> disheartened. They feel what =
+use is their Karm-kand when it cannot alter
+> their Karmic fruits. Obviousl=
+y the world is full of such people who do not
+> intend to change their acti=
+ons for future karma. They are merely interested
+> in short cut methods to =
+avoid their Karmic fruits.
+>
+> My fear is, If they lessened their Karm-kand=
+a because of my opinion then
+> am I really doing any good to them.
+>
+> Rega=
+rds
+> Durgesh O Mishra
+>
+> On 16 August 2015 at 20:43, 'Narasimha P.V.R. Ra=
+o' pvr108@...
+> [vedic-wisdom] <vedic-wisdom@yahoogroups.com> wrote:
+=
+>
+>>
+>>
+>> Namaste Phil.
+>>
+>> I shared my 2 cents on Facebook at:
+>>
+>> ht=
+tps://www.facebook.com/pvr108/posts/10153142411433284
+>>
+>> You can read it=
+ without a Facebook account.
+>>
+>> Best regards,
+>> Narasimha
+>> --------
+>=
+> Astrology & Spirituality Resources: http://www.VedicAstrologer.org
+>> <ht=
+tp://www.vedicastrologer.org/>
+>> --------
+>>
+>> --------------------------=
+----
+>> *From:* "philstinnet@... [vedic-wisdom]" <
+>> vedic-wisdom@ya=
+hoogroups.com>
+>> *To:* vedic-wisdom@yahoogroups.com
+>> *Sent:* Saturday, A=
+ugust 15, 2015 6:45 PM
+>> *Subject:* [vedic-wisdom] Question on spiritual p=
+ath
+>>
+>>
+>> Dear Narasimha ji and group,
+>>
+>> I have two questions tortur=
+ing me for years. I do not have the answer.
+>> However, i am curious to kno=
+w the philosophy you (or anyone in the group)
+>> follow on this -
+>>
+>> 1) =
+Someone choosing the path of spirituality, is it 'pre-destined' as per
+>> o=
+ur horoscope?
+>>
+>> 2) Someone deep into spirituality and living the blissf=
+ul state caused by
+>> mediation or homam, does he (or she) cease to follow =
+his (or her)
+>> astrological chart?
+>>
+>> 3) How to validate the answers of=
+ these two questions given by you (or
+>> anyone from the group)?
+>>
+>> Than=
+ks
+
+>>
+>> Phil
+>>
+>>
+>>
+>>
+>
+>
+> --
+> "If you only have a hammer, you tend =
+to see every problem as a nail."
+>
+>
+>
+
+
+
+
+
+
+--
+NAG      MUMBAI
+
+--047d7b5d30dad746ba051d83fde6
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="UTF-8"
+
+<div dir=3D"ltr">dear sir<div>yr question=C2=A0<span style=3D"color:rgb(0,0=
+,0);font-family:HelveticaNeue,'Helvetica Neue',Helvetica,Arial,'=
+;Lucida Grande',sans-serif;font-size:16px">1) Someone choosing the path=
+ of spirituality, is it 'pre-destined' as per our horoscope?</span>=
+</div><div><span style=3D"color:rgb(0,0,0);font-family:HelveticaNeue,'H=
+elvetica Neue',Helvetica,Arial,'Lucida Grande',sans-serif;font-=
+size:16px"><b>HOroscope predicts yr future but the person in Sprituality Be=
+lieve and have full faith In HIM and HE in takes care of yr needs and every=
+thing leave to HIm the almighty . No question and time to think about the s=
+amll thing like Horoscope</b></span></div><div><span style=3D"color:rgb(0,0=
+,0);font-family:HelveticaNeue,'Helvetica Neue',Helvetica,Arial,'=
+;Lucida Grande',sans-serif;font-size:16px">2=C2=A0</span></div><h1 styl=
+e=3D"margin:0cm;text-align:justify"><span style=3D"font-size:12pt;font-weig=
+ht:normal">omeone deep into spirituality and living the blissful state caus=
+ed by mediation or homam, does he (or she) cease to follow his (or her) ast=
+rological chart?</span></h1><div><span style=3D"font-size:16px"><b>The pers=
+on is always in Blissfull state where does the question of alstrological ch=
+art arises.You have left everything to Him and He does lead yr life.'</=
+b></span></div><div><span style=3D"font-size:16px">nag(beginer in spritual =
+path)</span></div></div><div class=3D"gmail_extra"><br><div class=3D"gmail_=
+quote">On 16 August 2015 at 21:05, Durgesh Mishra <a href=3D"mailto:durgesh=
+.mishra@...">durgesh.mishra@...</a> [vedic-wisdom] <span dir=3D=
+"ltr"><<a href=3D"mailto:vedic-wisdom@yahoogroups.com" target=3D"_blank"=
+>vedic-wisdom@yahoogroups.com</a>></span> wrote:<br><blockquote class=3D=
+"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;padding=
+-left:1ex">
+
+
+
+
+<u></u>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div style=3D"background-color:#=
+fff">
+<span>=C2=A0</span>
+
+
+
+
+<div>
+  <div>
+
+
+
+
+    <div>
+
+
+      <p></p><d=
+iv dir=3D"ltr">I always believed in incorrigible fruits of Karma. And role =
+of Sadhana as corrective step to mend one's future actions.<div><br></d=
+iv><div>But when tell these things to others, they feel disillusioned, rath=
+er disheartened. They feel what use is their Karm-kand when it cannot alter=
+ their Karmic fruits. Obviously the world is full of such people who do not=
+ intend to change their actions for future karma. They are merely intereste=
+d in short cut methods to avoid their Karmic fruits.=C2=A0</div><div><br></=
+div><div>My fear is, If they lessened their Karm-kanda because of my opinio=
+n then am I really doing any good to them.=C2=A0</div><div><br></div><div>R=
+egards</div><div>Durgesh O Mishra</div></div><div class=3D"gmail_extra"><sp=
+an class=3D""><br><div class=3D"gmail_quote">On 16 August 2015 at 20:43, &#=
+39;Narasimha P.V.R. Rao' <a href=3D"mailto:pvr108@..." target=3D"=
+_blank">pvr108@...</a> [vedic-wisdom] <span dir=3D"ltr"><<a href=
+=3D"mailto:vedic-wisdom@yahoogroups.com" target=3D"_blank">vedic-wisdom@yah=
+oogroups.com</a>></span> wrote:<br><blockquote class=3D"gmail_quote" sty=
+le=3D"border-left:1px #ccc solid">
+
+
+
+
+<u></u>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div styl=
+e=3D"background-color:#fff">
+<span>=C2=A0</span>
+
+
+
+
+<div>
+  <div>
+
+
+
+
+    =
+<div>
+
+   
+      <p></p><div style=3D"color:#000;background-color:#fff;font=
+-family:HelveticaNeue,Helvetica Neue,Helvetica,Arial,Lucida Grande,sans-ser=
+if;font-size:13px"><div><div><div style=3D"background-color:rgb(255,255,255=
+)"><div style=3D"color:rgb(0,0,0);font-family:HelveticaNeue,'Helvetica =
+Neue',Helvetica,Arial,'Lucida Grande',sans-serif;font-size:13px=
+"><span>Namaste Phil.</span></div><div style=3D"color:rgb(0,0,0);font-famil=
+y:HelveticaNeue,'Helvetica Neue',Helvetica,Arial,'Lucida Grande=
+',sans-serif;font-size:13px"><span><br clear=3D"none"></span></div><div=
+ style=3D"color:rgb(0,0,0);font-family:HelveticaNeue,'Helvetica Neue=
+9;,Helvetica,Arial,'Lucida Grande',sans-serif;font-size:13px">I sha=
+red my 2 cents on Facebook at:</div><div style=3D"color:rgb(0,0,0);font-fam=
+ily:HelveticaNeue,'Helvetica Neue',Helvetica,Arial,'Lucida Gran=
+de',sans-serif;font-size:13px"><br></div><div dir=3D"ltr"><a href=3D"ht=
+tps://www.facebook.com/pvr108/posts/10153142411433284" target=3D"_blank">ht=
+tps://www.facebook.com/pvr108/posts/10153142411433284</a><br></div><div dir=
+=3D"ltr"><br></div><div dir=3D"ltr">You can read it without a Facebook acco=
+unt.</div><div style=3D"color:rgb(0,0,0);font-family:HelveticaNeue,'Hel=
+vetica Neue',Helvetica,Arial,'Lucida Grande',sans-serif;font-si=
+ze:13px"></div><div style=3D"color:rgb(0,0,0);font-family:HelveticaNeue,=
+9;Helvetica Neue',Helvetica,Arial,'Lucida Grande',sans-serif;fo=
+nt-size:13px"><br clear=3D"none"></div><div style=3D"color:rgb(0,0,0);font-=
+family:HelveticaNeue,'Helvetica Neue',Helvetica,Arial,'Lucida G=
+rande',sans-serif;font-size:13px"><div style=3D"color:rgb(0,0,0);font-s=
+ize:13px;font-family:arial,helvetica,clean,sans-serif;background-color:tran=
+sparent;font-style:normal">Best regards,<br clear=3D"none">Narasimha<br cle=
+ar=3D"none">--------<br clear=3D"none">Astrology & Spirituality Resourc=
+es: <a rel=3D"nofollow" shape=3D"rect" href=3D"http://www.vedicastrologer.o=
+rg/" target=3D"_blank">http://www.VedicAstrologer.org</a></div><div style=
+=3D"color:rgb(0,0,0);font-size:13px;font-family:arial,helvetica,clean,sans-=
+serif;background-color:transparent;font-style:normal">--------<br clear=3D"=
+none"><br clear=3D"none"></div></div> <blockquote style=3D"color:rgb(0,0,0)=
+;font-family:HelveticaNeue,'Helvetica Neue',Helvetica,Arial,'Lu=
+cida Grande',sans-serif;font-size:13px;border-left-width:2px;border-lef=
+t-style:solid;border-left-color:rgb(16,16,255);margin-left:5px;margin-top:5=
+px">  <div style=3D"font-family:HelveticaNeue,Helvetica Neue,Helvetica,Aria=
+l,Lucida Grande,sans-serif;font-size:13px"> <div style=3D"font-family:Helve=
+ticaNeue,Helvetica Neue,Helvetica,Arial,Lucida Grande,sans-serif;font-size:=
+16px"> <div dir=3D"ltr"> <hr size=3D"1">  <font size=3D"2" face=3D"Arial"> =
+<b><span style=3D"font-weight:bold">From:</span></b> "<a href=3D"mailt=
+o:philstinnet@..." target=3D"_blank">philstinnet@...</a> [vedic=
+-wisdom]" <<a href=3D"mailto:vedic-wisdom@yahoogroups.com" target=
+=3D"_blank">vedic-wisdom@yahoogroups.com</a>><br clear=3D"none"> <b><spa=
+n style=3D"font-weight:bold">To:</span></b> <a href=3D"mailto:vedic-wisdom@=
+yahoogroups.com" target=3D"_blank">vedic-wisdom@yahoogroups.com</a> <br cle=
+ar=3D"none"> <b><span style=3D"font-weight:bold">Sent:</span></b> Saturday,=
+ August 15, 2015 6:45 PM<br clear=3D"none"> <b><span style=3D"font-weight:b=
+old">Subject:</span></b> [vedic-wisdom] Question on spiritual path<br clear=
+=3D"none"> </font> </div><span> <div><br clear=3D"none"><div><div>
+<span>=
+=C2=A0</span>
+
+
+
+
+<div>
+  <div>
+
+
+
+
+    <div>
+
+
+      <div></div><div><span=
+>Dear Narasimha ji and group,</span></div><div><span><br clear=3D"none"></s=
+pan></div><div><span>I have two questions torturing me for years. I do not =
+have the answer. However, i am curious to know the philosophy you (or anyon=
+e in the group) follow on this -=C2=A0</span></div><div><span><br clear=3D"=
+none"></span></div><div><span>1) Someone choosing the path of spirituality,=
+ is it 'pre-destined' as per our horoscope?</span></div><div><span>=
+<br clear=3D"none"></span></div><div><span>2) Someone deep into spiritualit=
+y and living the blissful state caused by mediation or homam, does he (or s=
+he) cease to follow his (or her) astrological chart?</span></div><div><span=
+><br clear=3D"none"></span></div><div><span>3) How to validate the answers =
+of these two questions given by you (or anyone from the group)?</span></div=
+><div><span><br clear=3D"none"></span></div><div><span>Thanks</span></div><=
+div><span><br clear=3D"none"></span></div><div><span>Phil</span></div><div>=
+<span><br clear=3D"none"></span></div>
+
+
+    </div>
+
+
+
+
+    <div style=3D"c=
+olor:#fff;min-height:0"></div></div></div>
+
+
+
+
+</div></div><br clear=3D"non=
+e"><br clear=3D"none"></div> </span></div> </div> </blockquote>  </div></di=
+v></div></div><p></p>
+
+
+    </div>
+
+
+
+
+    <div style=3D"color:#fff;min-hei=
+ght:0"></div>
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div></div></blockquote></div>=
+<br><br clear=3D"all"><div><br></div></span>-- <br><div>"If you only h=
+ave a hammer, you tend to see every problem as a nail."</div>
+</div>
+<=
+p></p>
+
+
+    </div>
+
+
+
+
+    <div style=3D"color:#fff;min-height:0"></div>
+
+=
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</blockquote></div><br><br clear=3D"all"><div>=
+<br></div>-- <br><div class=3D"gmail_signature">NAG=C2=A0 =C2=A0 =C2=A0 MUM=
+BAI<br></div>
+</div>
+
+--047d7b5d30dad746ba051d83fde6--
+
+

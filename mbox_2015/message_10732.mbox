@@ -1,0 +1,815 @@
+From rajarshi14@...  Wed Feb 17 11:07:49 2016
+Return-Path: <rajarshi14@...>
+X-Sender: rajarshi14@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 30744 invoked by uid 102); 5 Nov 2015 16:37:18 -0000
+X-Received: from unknown (HELO mtaq4.grp.bf1.yahoo.com) (10.193.84.143)
+  by m3.grp.bf1.yahoo.com with SMTP; 5 Nov 2015 16:37:18 -0000
+X-Received: (qmail 10739 invoked from network); 5 Nov 2015 16:37:18 -0000
+X-Received: from unknown (HELO mta1006.groups.mail.ne1.yahoo.com) (98.138.100.121)
+  by mtaq4.grp.bf1.yahoo.com with SMTP; 5 Nov 2015 16:37:18 -0000
+X-Original-Return-Path: <rajarshi14@...>
+X-Received-SPF: none (domain of yahoo.co.in does not designate permitted sender hosts)
+X-YMailISG: cw8y9K4WLDv4KHPFanVaFKw3byAxsh.vi2zRqGUeFAt3j.fZ
+ nNTEGWF.1zS.8WkL__DiQF4AyevgYvh0UWDHY6xQYhRDmyxJhpdkqFzuw0Hz
+ jUToOkFqfH_LKfkrawcvtEEpGty.6kz8su3z58WTP6mwPFxMmNUE1w710lyn
+ Zn9Qq_8N1JCDOJQ_WMLRyi6lPF.ZLtkEkAV10WPJNNZwy4.KR6u9wvVs_Wbr
+ 7j8JfISgQL68FTW4zfj.4C.ftBEZtxl2X0gs98Wu9qlBoINjWvyUuQbWO23f
+ 64KhLmvp9GROdZ3F7c1CqamTjuUV5yG4pbP4A6SvfUdElgKf6sULHShXXA7U
+ A5JTRWzeeI6AvU02KIq8OaeRLPFY3v7CSNPxC9nBSvq4KCCN8eYTAGD8XqNV
+ xaNwvDbDxVBqRiQa3g0OvUlSDLXBlDYwwbGreUFh2yA8sCatrzL3ypprHA3W
+ 1JHPEo9SPxkSXDTTnZI0yA8EvwpjQT_zmBvLpqlrbEGp2M.BQ_xy7halvEGD
+ oxCuXZ.PBqYYbaE5bac9Tt8cFzNt1HVQ5wZed5JSm.EFc4Msi7lDW1Em.P_q
+ tic6Q4vFPd6bdMDO.w3Pk4fxb4k4r4RtFNiTuBgclLpyxq_IqdncwSxE7tcc
+ OkgMXL14L7rlZfP8KplB14ycisAvcGFA1YFksUxEJOJxh9KL4Rx5Z_ufZtiL
+ GOpRHrJ3VXu60jTdq.twDKl.QLJO0JBKGJyfSqn6e4MtzgEdxbEqCMGFZAxc
+ Vj2WIVU_6fuqkcwQZGxDDiroIazvX3P4bVzYvJF2I5CG.2EG50Iwl8PNZPR.
+ kxmlFPSOWsHojO0KTbuwKNUzvosN_skT4Z7kAFM5EueMEDDi5AqCPCGrJvkz
+ m2qc7VAGkGrh5jSqM5PUqv.BNQVsFAlWUEh345OVdVz.SBJ8O0GWoC7kruKQ
+ Kg80P8SPUXItwr5B..mAKdM0AAuTgSHFnZB_hLj_iWVYtkEhguCzsrM03Mcj
+ kROCvfAxBwGK2k5xdOQGS9r7LbbPe673DetadiC.AHBdH5sWckHtF7hMQ4Zb
+ TnzKEi2094Dh88qpbpH26_BZ7p6byEolUrhFgfantps4ZaI6zaPiCdAqkvKa
+ 1VBkeSe6FWHX1gu65pXfg.Wx0c303Y4kVyF6G4PBWJuxVUMTiEOtU8gkAkTQ
+ QgA1KdypQa5TZzBBU8mF1bVc4KbMTQbg69V1uWdRpWQc8hpBIqw6c25u9cjy
+ bDPoRWKjKKj.zWljmPF7HGGRs6vblQMI6sudke90IQmuif52H8ui4KlePZYA
+ c5f6d2uaYhc_1HjtLhkf3Fy6ri1u9pOZ0UR5GEE0JlnatcIBdarupgaWwfdO
+ sujcx9xCxTtm.MdesjlSqWALo6LjnwNAL.COEJWlSNUrsXYm2XfSbpDQwtir
+ kTRGRwNKee_.urdns1dXIJsJ9UbTmKdFMlRAwh6G5mRvOVdwLeOiWEsX7IS1
+ CR.KDHw9wez_D554ccESXcog2GyD0zzcEmParWk2OL875nn_oQ6wMnTspD5O
+ dlo8ZSl7tzLz52NkM9ABYXn2TDnNPjXV8SUhJPrBkCSih_V9U57x.oitlkKA
+ iQ--
+Authentication-Results: mta1006.groups.mail.ne1.yahoo.com  from=yahoo.co.in; domainkeys=neutral (no sig);  from=yahoo.co.in; dkim=pass (ok)
+X-Received: from 127.0.0.1  (EHLO nm6-vm2.bullet.mail.sg3.yahoo.com) (106.10.148.161)
+  by mta1006.groups.mail.ne1.yahoo.com with SMTPS; Thu, 05 Nov 2015 16:37:17 +0000
+X-Received: from [106.10.166.126] by nm6.bullet.mail.sg3.yahoo.com with NNFMP; 05 Nov 2015 16:37:14 -0000
+X-Received: from [106.10.151.170] by tm15.bullet.mail.sg3.yahoo.com with NNFMP; 05 Nov 2015 16:37:14 -0000
+X-Received: from [127.0.0.1] by omp1010.mail.sg3.yahoo.com with NNFMP; 05 Nov 2015 16:37:14 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 661825.15831.bm@...
+X-YMail-OSG: XRGtQmYVM1nCw5H8lfs8DkkIRzrdFya3ZeklofpiGgXyMFxRGSpZ0s7an45k0Qe
+ TrPoZdDUvSZjzYTaXPqZDRZqzfKGv729NLCs9.LMn.Hiyzof5vlH5xyUMaIQb7QtnEQb70p4YTct
+ Sd4diIFKX2nzaTzvykEdkA4CTFVMJYLg5A0t2FAYu1EwI6UCE53Cv7UygFX6wo1dUy8uttZG_6Hx
+ irsjoZw3xzFvNXisGCtWEvgD5s7K3KQvxPpiEDRIS7WD9qN310W9R4XcCFPqyckQ1wKk1dECOvDK
+ kcottwGmsqXuQLl2eTsxgvS2S4Ch3AhUN.YEh1yzZYDKDfbItp8Ss0lvJG61i36koQwZ3CxHMmqP
+ W6LpFPsCDSkgsHN7sQDYGeqi68PMgLVbGzhMySDSdwilOkUd62Lf61oD5tEmVas42lIGG5kBgf4o
+ BbW7wrg.WOPqLqukZcabNANoQyDjvxbfbT3Wi7u47DhoUcGCmItKoQ45j37SGQ.aiJixSuE.Psa6
+ RIsII1PYVF4pjg9Ai
+X-Received: by 106.10.196.95; Thu, 05 Nov 2015 16:37:14 +0000 
+Date: Thu, 5 Nov 2015 16:36:59 +0000 (UTC)
+To: "vedic-wisdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com>
+Message-ID: <1533955927.489312.1446741419288.JavaMail.yahoo@...>
+In-Reply-To: <528477788.239488.1446738115885.JavaMail.yahoo@...>
+References: <528477788.239488.1446738115885.JavaMail.yahoo@...>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_489311_2025040568.1446741419273"
+Content-Length: 42694
+X-Originating-IP: 98.138.100.121
+Reply-To: rajarshi nandy <rajarshi14@...>
+Subject: Re: [vedic-wisdom] Re: Homam
+X-Yahoo-Group-Post: member; u=216162964; y=3zqG2SBtGsAMZs7EivWwz-j4HaQmk7BL7GnfWFNrbJdZ2wUGig
+X-Yahoo-Profile: rajarshi14
+From: rajarshi nandy <rajarshi14@...>
+
+
+------=_Part_489311_2025040568.1446741419273
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Namaste,
+I was seeing this thread. Two small comments, feel free to ignore =
+them if they don't make sense.
+Firstly it is indeed true that for many trad=
+itional practices a Guru is needed, however it is neither sanguine nor fail=
+-proof, by which I mean there are often cases where even Guru may not be ab=
+le to save a disciple from a certain kind of experience. One of the main re=
+asons being in this point of Kali Yuga realistically speaking getting a Gur=
+u who has the Shakti and the Divine connect to pull a disciple off or cushi=
+on the disciple from all experiences or prepare the disciple properly and m=
+ake experiences digestible is quite rare to find. Gurus are many, but Gurus=
+ who can really control these stuff and give the right kind of Shakti are v=
+ery very rare, and it does not matter whether they are in some sampradaya o=
+r outside of all sampradaya.=C2=A0
+In such an environment doing ones own sa=
+dhana without waiting for a formal Guru is not a bad idea. Regarding homas =
+there are two kinds of homas. One where it is a process to connect to God u=
+sing Agni Tattwa. When one prays in a temple to an idol one is trying to us=
+e Prithiwi Tattwa. Otherwise, in principle, both are similar. Of course pra=
+ctical differences exist and that is due to the difference in the nature of=
+ the two great elements.=C2=A0
+Then there is the homa done for Kriya-s or s=
+pecific results. That is complex and may require guidance. But I think PVR =
+mentions in his manuals that he does not encourage such homas or one should=
+ ideally use these only for the purpose of worshiping deities.
+
+I started m=
+y first homa in 2007 when I did not know PVR or even this website. Infact I=
+ come from an environment when is not particularly religious or ritualistic=
+ and I had frankly never even seen a homa. But the year before that I had a=
+ strange and chance encounter with a spiritual man - who refuses to be addr=
+essed as a Guru - and he inspired me to try out spiritualiy. I became curio=
+us and started sadhana with mantra japa. Then one day I felt a strong desir=
+e to do homas. I asked some people around me and all of them unanimously to=
+ld me not to do so. I still did anyway. =C2=A0Since then it has been nearly=
+ 9 years I have been doing homas to different deities. Of course in between=
+ now and then I have come across more advaced yogis who have kidly helped m=
+e or directed me or told me a step here and step there, rest I just kept wa=
+lking. This led to some experiences too over the years. But none of these y=
+ogis were really traditional Gurus, nor did anyone ever give me formal diks=
+ha.
+One of the main sadhanas which I was fortunate enough to do was Chandi =
+homas. I remember one day I came across a very traditional individual who w=
+as shocked when I told him that I do this sadhana. He insisted that it cann=
+ot be done like this and it needs a guru and a diksha otherwise strong nega=
+tive consequences are bound to come due to the wrath of the Mother. Now I t=
+end to get bit aggressive when I find condescending people. So I told him t=
+hat I have done more than 500 Chandi homas (after which I have stopped coun=
+ting) and not only done them inside my home but in ancient and powerful Sha=
+kti peethas, in deserted locales, in off beat places, but places fit for Sh=
+akti sadhana, where many ordinary people would not venture easily. Now if h=
+e really believed what he said, that would mean that the Mother must have a=
+llowed me to do these, for I did not face any wrath but only more opportuni=
+ties to intensify the sadhana. So I am assuming the big boss is OK with me =
+doing things in a non-traditional fashion. He had nothing more to say.=C2=
+=A0
+I am not saying or suggesting that tradition is wrong, it is there for =
+a purpose but getting the spirit of the rules in Tradition is far more impo=
+rtant than blind following of the same. Traditions exist for the Deity, not=
+ the other way round. And given the point in time where we are, I am afraid=
+ there will be more and more souls who will worship and eventually interact=
+ with Deities outside of formal traditions. For a soul who has done sadhana=
+ and wants to do so, will always do so, Nature and the Deity will make it h=
+appen, irrespective of whether s/he lines up with a tradition or not, wheth=
+er s/he is born in India or South Pole. This is the new reality.
+On the oth=
+er hand if the mind has doubts about consequences of going in a non-traditi=
+onal manner, then one is better off not doing so. Because doubts make the s=
+adhana go wrong, and the mind itself will cause more obstructions that anyo=
+ne or anything else. Mind can be our best friend in the path, or our worst =
+enemy.
+
+* =C2=A0 =C2=A0 * =C2=A0 =C2=A0 *
+Coming to the dream that you saw,=
+ I would say it was a very significant dream. =C2=A0Snakes in dreams can ha=
+ve various meanings. Not all are good. But this one seems to me like a indi=
+cation of a very specific kind of spiritual expeirence to come, or would ha=
+ve come to you, had you not made any change =C2=A0in your routine sadhana.=
+=C2=A0
+Spirituality has two parts. We start off with a desire to experience=
+ God, we do whatever we think can help us in that, which can lead to experi=
+ences which tell us we maybe come a bit closer. Then comes digesting them. =
+To do so one has to have a stable mental and emotional condition.
+From what=
+ you described my sanguine feeling is that a strong experience was coming y=
+our way, but doubt and fear stopped it and made it recede back. Now spiritu=
+al experiences are not like daily states of consciousness. If they were, th=
+ey would be no good. They are different. And that came make us feel unnerve=
+d at times.
+Did this happen due to homa? I think it was destined for you at=
+ some point. It could as well have happened one early morning as you were h=
+aving a cup of tea without lifting a finger. What sadhana does - by which I=
+ mean homa, japa, yoga whatever - is change the patterns of karma and accel=
+erate the experiences that would have come to you anyway. But more than tha=
+t it helps your mind-body to stabilize which is vital to be able to integra=
+te and digest an experience when it comes.=C2=A0
+So without thinking about =
+it I would suggest that you keep doing sadhana, whatever it maybe. As you d=
+o more, you nervous system will grow stronger, your emotional, and mental s=
+heath with become calmer and stabler and maybe the next time the Snake come=
+s you won't feel unnerved! -:)
+Wish you all the best.
+-Regards=C2=A0Rajarsh=
+i
+
+
+
+I have a hundred lives before me yet/ To grasp thee in, O spirit ether=
+eal, / Be sure I will with heart insatiate/ Pursue thee like a hunter throu=
+gh them all. -Sri Aurobindo
+      From: "ManiBhushan surya manibhushan@yaho=
+o.com [vedic-wisdom]" <vedic-wisdom@yahoogroups.com>
+ To: "mitrabasuc@yahoo=
+.com [vedic-wisdom]" <vedic-wisdom@yahoogroups.com> 
+ Sent: Thursday, 5 Nov=
+ember 2015 9:11 PM
+ Subject: Re: [vedic-wisdom] Re: Homam
+   
+=C2=A0    Dea=
+r =C2=A0Mitra =C2=A0
+Namaste.=C2=A0
+
+=C2=A0Even I was curious . The mantras=
+ I was chanting were reverberating in me in the night and some times in the=
+ day. One night I don't know whether to call it dream but one snake with ra=
+diating light chanting the mantra =C2=A0was =C2=A0 Coming nearer to my head=
+ as if it was trying to take me into that. Then I waved it =C2=A0with =C2=
+=A0no no . Immediately it disappeared. Surprisingly the reverberation also =
+stopped. After two days I was down with fever and electric shocks.
+I am not=
+ doing homam. My father =C2=A0is against it from=C2=A0=C2=A0 the beginning.=
+ This incident made him =C2=A0take =C2=A0a strong stand that it is no good.=
+
+=C2=A0I =C2=A0am also looking for some one explain why is this happened to=
+ me. I never experienced that type of shocks . =C2=A0The snake. Oh my god h=
+ow can I forget it . =C2=A0So strange.=C2=A0
+
+Thanks=C2=A0Mani=C2=A0=C2=A0
+=
+
+
+
+Sent from Yahoo Mail for iPad
+
+
+
+On Thursday, November 5, 2015, 9:34 AM,=
+ mitrabasuc@... [vedic-wisdom] <vedic-wisdom@yahoogroups.com> wrote:
+=
+=C2=A0   Dear Mani,My Respect to you,I am curious if you could get the reas=
+on/logic of such electric shocks. I wish Sh. Narsimha ji or somebody with b=
+etter understanding in this group could throw a light on this experience.
+
+=
+  
+ 
+
+  #yiv6245221355 #yiv6245221355 -- #yiv6245221355ygrp-mkp {border:1px=
+ solid #d8d8d8;font-family:Arial;margin:10px 0;padding:0 10px;}#yiv62452213=
+55 #yiv6245221355ygrp-mkp hr {border:1px solid #d8d8d8;}#yiv6245221355 #yiv=
+6245221355ygrp-mkp #yiv6245221355hd {color:#628c2a;font-size:85%;font-weigh=
+t:700;line-height:122%;margin:10px 0;}#yiv6245221355 #yiv6245221355ygrp-mkp=
+ #yiv6245221355ads {margin-bottom:10px;}#yiv6245221355 #yiv6245221355ygrp-m=
+kp .yiv6245221355ad {padding:0 0;}#yiv6245221355 #yiv6245221355ygrp-mkp .yi=
+v6245221355ad p {margin:0;}#yiv6245221355 #yiv6245221355ygrp-mkp .yiv624522=
+1355ad a {color:#0000ff;text-decoration:none;}#yiv6245221355 #yiv6245221355=
+ygrp-sponsor #yiv6245221355ygrp-lc {font-family:Arial;}#yiv6245221355 #yiv6=
+245221355ygrp-sponsor #yiv6245221355ygrp-lc #yiv6245221355hd {margin:10px 0=
+px;font-weight:700;font-size:78%;line-height:122%;}#yiv6245221355 #yiv62452=
+21355ygrp-sponsor #yiv6245221355ygrp-lc .yiv6245221355ad {margin-bottom:10p=
+x;padding:0 0;}#yiv6245221355 #yiv6245221355actions {font-family:Verdana;fo=
+nt-size:11px;padding:10px 0;}#yiv6245221355 #yiv6245221355activity {backgro=
+und-color:#e0ecee;float:left;font-family:Verdana;font-size:10px;padding:10p=
+x;}#yiv6245221355 #yiv6245221355activity span {font-weight:700;}#yiv6245221=
+355 #yiv6245221355activity span:first-child {text-transform:uppercase;}#yiv=
+6245221355 #yiv6245221355activity span a {color:#5085b6;text-decoration:non=
+e;}#yiv6245221355 #yiv6245221355activity span span {color:#ff7900;}#yiv6245=
+221355 #yiv6245221355activity span .yiv6245221355underline {text-decoration=
+:underline;}#yiv6245221355 .yiv6245221355attach {clear:both;display:table;f=
+ont-family:Arial;font-size:12px;padding:10px 0;width:400px;}#yiv6245221355 =
+.yiv6245221355attach div a {text-decoration:none;}#yiv6245221355 .yiv624522=
+1355attach img {border:none;padding-right:5px;}#yiv6245221355 .yiv624522135=
+5attach label {display:block;margin-bottom:5px;}#yiv6245221355 .yiv62452213=
+55attach label a {text-decoration:none;}#yiv6245221355 blockquote {margin:0=
+ 0 0 4px;}#yiv6245221355 .yiv6245221355bold {font-family:Arial;font-size:13=
+px;font-weight:700;}#yiv6245221355 .yiv6245221355bold a {text-decoration:no=
+ne;}#yiv6245221355 dd.yiv6245221355last p a {font-family:Verdana;font-weigh=
+t:700;}#yiv6245221355 dd.yiv6245221355last p span {margin-right:10px;font-f=
+amily:Verdana;font-weight:700;}#yiv6245221355 dd.yiv6245221355last p span.y=
+iv6245221355yshortcuts {margin-right:0;}#yiv6245221355 div.yiv6245221355att=
+ach-table div div a {text-decoration:none;}#yiv6245221355 div.yiv6245221355=
+attach-table {width:400px;}#yiv6245221355 div.yiv6245221355file-title a, #y=
+iv6245221355 div.yiv6245221355file-title a:active, #yiv6245221355 div.yiv62=
+45221355file-title a:hover, #yiv6245221355 div.yiv6245221355file-title a:vi=
+sited {text-decoration:none;}#yiv6245221355 div.yiv6245221355photo-title a,=
+ #yiv6245221355 div.yiv6245221355photo-title a:active, #yiv6245221355 div.y=
+iv6245221355photo-title a:hover, #yiv6245221355 div.yiv6245221355photo-titl=
+e a:visited {text-decoration:none;}#yiv6245221355 div#yiv6245221355ygrp-mlm=
+sg #yiv6245221355ygrp-msg p a span.yiv6245221355yshortcuts {font-family:Ver=
+dana;font-size:10px;font-weight:normal;}#yiv6245221355 .yiv6245221355green =
+{color:#628c2a;}#yiv6245221355 .yiv6245221355MsoNormal {margin:0 0 0 0;}#yi=
+v6245221355 o {font-size:0;}#yiv6245221355 #yiv6245221355photos div {float:=
+left;width:72px;}#yiv6245221355 #yiv6245221355photos div div {border:1px so=
+lid #666666;height:62px;overflow:hidden;width:62px;}#yiv6245221355 #yiv6245=
+221355photos div label {color:#666666;font-size:10px;overflow:hidden;text-a=
+lign:center;white-space:nowrap;width:64px;}#yiv6245221355 #yiv6245221355rec=
+o-category {font-size:77%;}#yiv6245221355 #yiv6245221355reco-desc {font-siz=
+e:77%;}#yiv6245221355 .yiv6245221355replbq {margin:4px;}#yiv6245221355 #yiv=
+6245221355ygrp-actbar div a:first-child {margin-right:2px;padding-right:5px=
+;}#yiv6245221355 #yiv6245221355ygrp-mlmsg {font-size:13px;font-family:Arial=
+, helvetica, clean, sans-serif;}#yiv6245221355 #yiv6245221355ygrp-mlmsg tab=
+le {font-size:inherit;font:100%;}#yiv6245221355 #yiv6245221355ygrp-mlmsg se=
+lect, #yiv6245221355 input, #yiv6245221355 textarea {font:99% Arial, Helvet=
+ica, clean, sans-serif;}#yiv6245221355 #yiv6245221355ygrp-mlmsg pre, #yiv62=
+45221355 code {font:115% monospace;}#yiv6245221355 #yiv6245221355ygrp-mlmsg=
+ * {line-height:1.22em;}#yiv6245221355 #yiv6245221355ygrp-mlmsg #yiv6245221=
+355logo {padding-bottom:10px;}#yiv6245221355 #yiv6245221355ygrp-msg p a {fo=
+nt-family:Verdana;}#yiv6245221355 #yiv6245221355ygrp-msg p#yiv6245221355att=
+ach-count span {color:#1E66AE;font-weight:700;}#yiv6245221355 #yiv624522135=
+5ygrp-reco #yiv6245221355reco-head {color:#ff7900;font-weight:700;}#yiv6245=
+221355 #yiv6245221355ygrp-reco {margin-bottom:20px;padding:0px;}#yiv6245221=
+355 #yiv6245221355ygrp-sponsor #yiv6245221355ov li a {font-size:130%;text-d=
+ecoration:none;}#yiv6245221355 #yiv6245221355ygrp-sponsor #yiv6245221355ov =
+li {font-size:77%;list-style-type:square;padding:6px 0;}#yiv6245221355 #yiv=
+6245221355ygrp-sponsor #yiv6245221355ov ul {margin:0;padding:0 0 0 8px;}#yi=
+v6245221355 #yiv6245221355ygrp-text {font-family:Georgia;}#yiv6245221355 #y=
+iv6245221355ygrp-text p {margin:0 0 1em 0;}#yiv6245221355 #yiv6245221355ygr=
+p-text tt {font-size:120%;}#yiv6245221355 #yiv6245221355ygrp-vital ul li:la=
+st-child {border-right:none !important;}#yiv6245221355 
+
+  
+------=_Part_489311_2025040568.1446741419273
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><head></head><body><div style=3D"color:#000; background-color:#fff; f=
+ont-family:HelveticaNeue, Helvetica Neue, Helvetica, Arial, Lucida Grande, =
+Sans-Serif;font-size:12px"><div><span>Namaste,</span></div><div><span><br><=
+/span></div><div id=3D"yui_3_16_0_1_1446544625582_184339"><span id=3D"yui_3=
+_16_0_1_1446544625582_184369">I was seeing this thread. Two small comments,=
+ feel free to ignore them if they don't make sense.</span></div><div id=3D"=
+yui_3_16_0_1_1446544625582_184339"><span><br></span></div><div id=3D"yui_3_=
+16_0_1_1446544625582_184339"><span id=3D"yui_3_16_0_1_1446544625582_184425"=
+>Firstly it is indeed true that for many traditional practices a Guru is ne=
+eded, however it is neither sanguine nor fail-proof, by which I mean there =
+are often cases where even Guru may not be able to save a disciple from a c=
+ertain kind of experience. One of the main reasons being in this point of K=
+ali Yuga realistically speaking getting a Guru who has the Shakti and the D=
+ivine connect to pull a disciple off or cushion the disciple from all exper=
+iences or prepare the disciple properly and make experiences digestible is =
+quite rare to find. Gurus are many, but Gurus who can really control these =
+stuff and give the right kind of Shakti are very very rare, and it does not=
+ matter whether they are in some sampradaya or outside of all sampradaya.&n=
+bsp;</span></div><div id=3D"yui_3_16_0_1_1446544625582_184339"><span><br></=
+span></div><div id=3D"yui_3_16_0_1_1446544625582_184339"><span id=3D"yui_3_=
+16_0_1_1446544625582_184727">In such an environment doing ones own sadhana =
+without waiting for a formal Guru is not a bad idea. Regarding homas there =
+are two kinds of homas. One where it is a process to connect to God using A=
+gni Tattwa. When one prays in a temple to an idol one is trying to use Prit=
+hiwi Tattwa. Otherwise, in principle, both are similar. Of course practical=
+ differences exist and that is due to the difference in the nature of the t=
+wo great elements. </span></div><div id=3D"yui_3_16_0_1_1446544625582_=
+184339"><span><br></span></div><div id=3D"yui_3_16_0_1_1446544625582_184339=
+" dir=3D"ltr"><span id=3D"yui_3_16_0_1_1446544625582_184813">Then there is =
+the homa done for Kriya-s or specific results. That is complex and may requ=
+ire guidance. But I think PVR mentions in his manuals that he does not enco=
+urage such homas or one should ideally use these only for the purpose of wo=
+rshiping deities.</span></div><div id=3D"yui_3_16_0_1_1446544625582_184339"=
+ dir=3D"ltr"><span><br></span></div><div id=3D"yui_3_16_0_1_1446544625582_1=
+84339" dir=3D"ltr"><span><br></span></div><div id=3D"yui_3_16_0_1_144654462=
+5582_184339" dir=3D"ltr"><span id=3D"yui_3_16_0_1_1446544625582_184846">I s=
+tarted my first homa in 2007 when I did not know PVR or even this website. =
+Infact I come from an environment when is not particularly religious or rit=
+ualistic and I had frankly never even seen a homa. But the year before that=
+ I had a strange and chance encounter with a spiritual man - who refuses to=
+ be addressed as a Guru - and he inspired me to try out spiritualiy. I beca=
+me curious and started sadhana with mantra japa. Then one day I felt a stro=
+ng desire to do homas. I asked some people around me and all of them unanim=
+ously told me not to do so. I still did anyway.  Since then it has bee=
+n nearly 9 years I have been doing homas to different deities. Of course in=
+ between now and then I have come across more advaced yogis who have kidly =
+helped me or directed me or told me a step here and step there, rest I just=
+ kept walking. This led to some experiences too over the years. But none of=
+ these yogis were really traditional Gurus, nor did anyone ever give me for=
+mal diksha.</span></div><div id=3D"yui_3_16_0_1_1446544625582_184339" dir=
+=3D"ltr"><span><br></span></div><div id=3D"yui_3_16_0_1_1446544625582_18433=
+9" dir=3D"ltr"><span id=3D"yui_3_16_0_1_1446544625582_185296">One of the ma=
+in sadhanas which I was fortunate enough to do was Chandi homas. I remember=
+ one day I came across a very traditional individual who was shocked when I=
+ told him that I do this sadhana. He insisted that it cannot be done like t=
+his and it needs a guru and a diksha otherwise strong negative consequences=
+ are bound to come due to the wrath of the Mother. Now I tend to get bit ag=
+gressive when I find condescending people. So I told him that I have done m=
+ore than 500 Chandi homas (after which I have stopped counting) and not onl=
+y done them inside my home but in ancient and powerful Shakti peethas, in d=
+eserted locales, in off beat places, but places fit for Shakti sadhana, whe=
+re many ordinary people would not venture easily. Now if he really believed=
+ what he said, that would mean that the Mother must have allowed me to do t=
+hese, for I did not face any wrath but only more opportunities to intensify=
+ the sadhana. So I am assuming the big boss is OK with me doing things in a=
+ non-traditional fashion. He had nothing more to say. </span></div><di=
+v id=3D"yui_3_16_0_1_1446544625582_184339" dir=3D"ltr"><span><br></span></d=
+iv><div id=3D"yui_3_16_0_1_1446544625582_184339" dir=3D"ltr"><span id=3D"yu=
+i_3_16_0_1_1446544625582_185519">I am not saying or suggesting that traditi=
+on is wrong, it is there for a purpose but getting the spirit of the rules =
+in Tradition is far more important than blind following of the same. Tradit=
+ions exist for the Deity, not the other way round. And given the point in t=
+ime where we are, I am afraid there will be more and more souls who will wo=
+rship and eventually interact with Deities outside of formal traditions. Fo=
+r a soul who has done sadhana and wants to do so, will always do so, Nature=
+ and the Deity will make it happen, irrespective of whether s/he lines up w=
+ith a tradition or not, whether s/he is born in India or South Pole. This i=
+s the new reality.</span></div><div id=3D"yui_3_16_0_1_1446544625582_184339=
+" dir=3D"ltr"><span><br></span></div><div id=3D"yui_3_16_0_1_1446544625582_=
+184339" dir=3D"ltr"><span id=3D"yui_3_16_0_1_1446544625582_185858">On the o=
+ther hand if the mind has doubts about consequences of going in a non-tradi=
+tional manner, then one is better off not doing so. Because doubts make the=
+ sadhana go wrong, and the mind itself will cause more obstructions that an=
+yone or anything else. Mind can be our best friend in the path, or our wors=
+t enemy.</span></div><div id=3D"yui_3_16_0_1_1446544625582_184339" dir=3D"l=
+tr"><span><br></span></div><div id=3D"yui_3_16_0_1_1446544625582_184339" di=
+r=3D"ltr"><span><br></span></div><div id=3D"yui_3_16_0_1_1446544625582_1843=
+39" dir=3D"ltr"><span>*     *     *</span></div><div id=
+=3D"yui_3_16_0_1_1446544625582_184339" dir=3D"ltr"><span><br></span></div><=
+div id=3D"yui_3_16_0_1_1446544625582_184339" dir=3D"ltr"><span id=3D"yui_3_=
+16_0_1_1446544625582_185826">Coming to the dream that you saw, I would say =
+it was a very significant dream.  Snakes in dreams can have various me=
+anings. Not all are good. But this one seems to me like a indication of a v=
+ery specific kind of spiritual expeirence to come, or would have come to yo=
+u, had you not made any change  in your routine sadhana. </span><=
+/div><div id=3D"yui_3_16_0_1_1446544625582_184339" dir=3D"ltr"><span><br></=
+span></div><div id=3D"yui_3_16_0_1_1446544625582_184339" dir=3D"ltr">Spirit=
+uality has two parts. We start off with a desire to experience God, we do w=
+hatever we think can help us in that, which can lead to experiences which t=
+ell us we maybe come a bit closer. Then comes digesting them. To do so one =
+has to have a stable mental and emotional condition.</div><div id=3D"yui_3_=
+16_0_1_1446544625582_184339" dir=3D"ltr"><br></div><div id=3D"yui_3_16_0_1_=
+1446544625582_184339" dir=3D"ltr">From what you described my sanguine feeli=
+ng is that a strong experience was coming your way, but doubt and fear stop=
+ped it and made it recede back. Now spiritual experiences are not like dail=
+y states of consciousness. If they were, they would be no good. They are di=
+fferent. And that came make us feel unnerved at times.</div><div id=3D"yui_=
+3_16_0_1_1446544625582_184339" dir=3D"ltr"><br></div><div id=3D"yui_3_16_0_=
+1_1446544625582_184339" dir=3D"ltr">Did this happen due to homa? I think it=
+ was destined for you at some point. It could as well have happened one ear=
+ly morning as you were having a cup of tea without lifting a finger. What s=
+adhana does - by which I mean homa, japa, yoga whatever - is change the pat=
+terns of karma and accelerate the experiences that would have come to you a=
+nyway. But more than that it helps your mind-body to stabilize which is vit=
+al to be able to integrate and digest an experience when it comes. </d=
+iv><div id=3D"yui_3_16_0_1_1446544625582_184339" dir=3D"ltr"><br></div><div=
+ id=3D"yui_3_16_0_1_1446544625582_184339" dir=3D"ltr">So without thinking a=
+bout it I would suggest that you keep doing sadhana, whatever it maybe. As =
+you do more, you nervous system will grow stronger, your emotional, and men=
+tal sheath with become calmer and stabler and maybe the next time the Snake=
+ comes you won't feel unnerved! -:)</div><div id=3D"yui_3_16_0_1_1446544625=
+582_184339" dir=3D"ltr"><br></div><div id=3D"yui_3_16_0_1_1446544625582_184=
+339" dir=3D"ltr">Wish you all the best.</div><div id=3D"yui_3_16_0_1_144654=
+4625582_184339" dir=3D"ltr"><br></div><div id=3D"yui_3_16_0_1_1446544625582=
+_184339" dir=3D"ltr">-Regards</div><div id=3D"yui_3_16_0_1_1446544625582_18=
+4339" dir=3D"ltr"> Rajarshi</div><div id=3D"yui_3_16_0_1_1446544625582=
+_184339" dir=3D"ltr"><br></div><div id=3D"yui_3_16_0_1_1446544625582_184339=
+" dir=3D"ltr"><span><br></span></div><div id=3D"yui_3_16_0_1_1446544625582_=
+184339" dir=3D"ltr"><br></div><div class=3D"signature" id=3D"yui_3_16_0_1_1=
+446544625582_184329"><div id=3D"yui_3_16_0_1_1446544625582_185490"><span st=
+yle=3D"font-family:times new roman, new york, times, serif;"><br></span></d=
+iv><div id=3D"yui_3_16_0_1_1446544625582_184328"><i id=3D"yui_3_16_0_1_1446=
+544625582_184327"><b id=3D"yui_3_16_0_1_1446544625582_184326"><div class=3D=
+"MsoNormal" id=3D"yui_3_16_0_1_1446544625582_184325"><span style=3D"font-fa=
+mily:times new roman, new york, times, serif;" id=3D"yui_3_16_0_1_144654462=
+5582_184331"><b><span class=3D"Apple-style-span" style=3D"font-size: 16px;"=
+><b><span class=3D"Apple-style-span" style=3D"color:rgb(153, 153, 153);"></=
+span></b></span></b><span class=3D"yui_3_2_0_2_134243527249950" id=3D"yui_3=
+_16_0_1_1446544625582_185488">I have a hundred lives before me yet/ To gras=
+p thee in, O spirit ethereal, /</span> Be sure I will with heart insatiate/=
+ Pursue thee like a hunter through them all.</span><b><span style=3D"font-f=
+amily:times new roman, new york, times, serif;"> -Sri Aurobindo</span><span=
+ class=3D"yui_3_2_0_2_134243506227946 yui_3_2_0_2_134243527249952 yui_3_2_0=
+_2_137332740501958" style=3D"FONT-SIZE:10pt;COLOR:navy;FONT-FAMILY:Verdana;=
+"></span></b></div></b></i></div></div><br>  <div style=3D"font-family: Hel=
+veticaNeue, Helvetica Neue, Helvetica, Arial, Lucida Grande, Sans-Serif; fo=
+nt-size: 12px;" id=3D"yui_3_16_0_1_1446544625582_184324"> <div style=3D"fon=
+t-family: HelveticaNeue, Helvetica Neue, Helvetica, Arial, Lucida Grande, S=
+ans-Serif; font-size: 16px;" id=3D"yui_3_16_0_1_1446544625582_184323"> <div=
+ dir=3D"ltr" id=3D"yui_3_16_0_1_1446544625582_184322"> <hr size=3D"1">  <fo=
+nt size=3D"2" face=3D"Arial" id=3D"yui_3_16_0_1_1446544625582_184321"> <b><=
+span style=3D"font-weight:bold;">From:</span></b> "ManiBhushan surya manibh=
+ushan@... [vedic-wisdom]" <vedic-wisdom@yahoogroups.com><br> <b=
+><span style=3D"font-weight: bold;">To:</span></b> "mitrabasuc@... [v=
+edic-wisdom]" <vedic-wisdom@yahoogroups.com> <br> <b><span style=3D"f=
+ont-weight: bold;">Sent:</span></b> Thursday, 5 November 2015 9:11 PM<br> <=
+b><span style=3D"font-weight: bold;">Subject:</span></b> Re: [vedic-wisdom]=
+ Re: Homam<br> </font> </div> <div class=3D"y_msg_container"><br><div id=3D=
+"yiv6245221355"><div>
+<span style=3D"display:none;"> </span>
+
+
+<div id=
+=3D"yiv6245221355ygrp-mlmsg" style=3D"">
+  <div id=3D"yiv6245221355ygrp-msg=
+" style=3D"">
+
+
+    <div id=3D"yiv6245221355ygrp-text">
+      
+      
+     =
+ <div>
+                
+                Dear  Mitra  </div><div><=
+br clear=3D"none"></div><div>Namaste. <br clear=3D"none"><div><span><b=
+r clear=3D"none"></span></div><div><span> Even I was curious . The man=
+tras I was chanting were reverberating in me in the night and some times in=
+ the day. One night I don't know whether to call it dream but one snake wit=
+h radiating light chanting the mantra  was   Coming nearer to my =
+head as if it was trying to take me into that. Then I waved it  with &=
+nbsp;no no . Immediately it disappeared. Surprisingly the reverberation als=
+o stopped. After two days I was down with fever and electric shocks.</span>=
+</div><div><br clear=3D"none"></div><div>I am not doing homam. My father &n=
+bsp;is against it from <span>  the beginning. This incident made =
+him  take  a strong stand that it is no good.</span></div><div><b=
+r clear=3D"none"> I  am also looking for some one explain why is =
+this happened to me. I never experienced that type of shocks .  The sn=
+ake. Oh my god how can I forget it .  So strange. </div><div><br =
+clear=3D"none"></div><div><br clear=3D"none"></div><div>Thanks </div><=
+div>Mani</div><div>  </div><div><br clear=3D"none"></div><div><br=
+ clear=3D"none"></div><div><br clear=3D"none"></div><div><br clear=3D"none"=
+><a rel=3D"nofollow" shape=3D"rect" target=3D"_blank" href=3D"https://yho.c=
+om/footer0">Sent from Yahoo Mail for iPad</a><br clear=3D"none"><br clear=
+=3D"none"><div class=3D"qtdSeparateBR"><br><br></div><div class=3D"yiv62452=
+21355yqt1999795787" id=3D"yiv6245221355yqt16842"><div style=3D"font-size:15=
+px;color:#715FFA;margin-top:0;">On Thursday, November 5, 2015, 9:34 AM, mit=
+rabasuc@... [vedic-wisdom] <vedic-wisdom@yahoogroups.com> wrote=
+:</div><blockquote class=3D"yiv6245221355iosymail">
+<span> </span>
+
+
+<=
+div id=3D"yiv6245221355ygrp-mlmsg">
+  <div id=3D"yiv6245221355ygrp-msg">
+
+
+=
+    <div id=3D"yiv6245221355ygrp-text">
+      
+      
+      <div>Dear Mani,=
+</div><div>My Respect to you,</div><div>I am curious if you could get the r=
+eason/logic of such electric shocks. I wish Sh. Narsimha ji or somebody wit=
+h better understanding in this group could throw a light on this experience=
+.</div><div><br clear=3D"none"></div><div><br clear=3D"none"></div>
+
+    </=
+div>
+     
+
+    
+    <div style=3D"color:#fff;height:0;"></div></div>
+
+
+<bl=
+ockquote>
+            </blockquote></div></blockquote></div></div></div>
+
+ =
+   </div>
+     
+
+    
+    <div class=3D"yiv6245221355yqt1999795787" id=3D"y=
+iv6245221355yqt14839"><div style=3D"color:#fff;height:0;"></div></div>
+
+
+</=
+div><div class=3D"yiv6245221355yqt1999795787" id=3D"yiv6245221355yqt42701">=
+<style type=3D"text/css">
+#yiv6245221355 #yiv6245221355 --
+  #yiv6245221355=
+ygrp-mkp {
+border:1px solid #d8d8d8;font-family:Arial;margin:10px 0;padding=
+:0 10px;}
+
+#yiv6245221355 #yiv6245221355ygrp-mkp hr {
+border:1px solid #d8d=
+8d8;}
+
+#yiv6245221355 #yiv6245221355ygrp-mkp #yiv6245221355hd {
+color:#628c=
+2a;font-size:85%;font-weight:700;line-height:122%;margin:10px 0;}
+
+#yiv6245=
+221355 #yiv6245221355ygrp-mkp #yiv6245221355ads {
+margin-bottom:10px;}
+
+#yi=
+v6245221355 #yiv6245221355ygrp-mkp .yiv6245221355ad {
+padding:0 0;}
+
+#yiv62=
+45221355 #yiv6245221355ygrp-mkp .yiv6245221355ad p {
+margin:0;}
+
+#yiv624522=
+1355 #yiv6245221355ygrp-mkp .yiv6245221355ad a {
+color:#0000ff;text-decorat=
+ion:none;}
+#yiv6245221355 #yiv6245221355ygrp-sponsor #yiv6245221355ygrp-lc =
+{
+font-family:Arial;}
+
+#yiv6245221355 #yiv6245221355ygrp-sponsor #yiv624522=
+1355ygrp-lc #yiv6245221355hd {
+margin:10px 0px;font-weight:700;font-size:78=
+%;line-height:122%;}
+
+#yiv6245221355 #yiv6245221355ygrp-sponsor #yiv6245221=
+355ygrp-lc .yiv6245221355ad {
+margin-bottom:10px;padding:0 0;}
+
+#yiv6245221=
+355 #yiv6245221355actions {
+font-family:Verdana;font-size:11px;padding:10px=
+ 0;}
+
+#yiv6245221355 #yiv6245221355activity {
+background-color:#e0ecee;floa=
+t:left;font-family:Verdana;font-size:10px;padding:10px;}
+
+#yiv6245221355 #y=
+iv6245221355activity span {
+font-weight:700;}
+
+#yiv6245221355 #yiv624522135=
+5activity span:first-child {
+text-transform:uppercase;}
+
+#yiv6245221355 #yi=
+v6245221355activity span a {
+color:#5085b6;text-decoration:none;}
+
+#yiv6245=
+221355 #yiv6245221355activity span span {
+color:#ff7900;}
+
+#yiv6245221355 #=
+yiv6245221355activity span .yiv6245221355underline {
+text-decoration:underl=
+ine;}
+
+#yiv6245221355 .yiv6245221355attach {
+clear:both;display:table;font-=
+family:Arial;font-size:12px;padding:10px 0;width:400px;}
+
+#yiv6245221355 .y=
+iv6245221355attach div a {
+text-decoration:none;}
+
+#yiv6245221355 .yiv62452=
+21355attach img {
+border:none;padding-right:5px;}
+
+#yiv6245221355 .yiv62452=
+21355attach label {
+display:block;margin-bottom:5px;}
+
+#yiv6245221355 .yiv6=
+245221355attach label a {
+text-decoration:none;}
+
+#yiv6245221355 blockquote=
+ {
+margin:0 0 0 4px;}
+
+#yiv6245221355 .yiv6245221355bold {
+font-family:Aria=
+l;font-size:13px;font-weight:700;}
+
+#yiv6245221355 .yiv6245221355bold a {
+t=
+ext-decoration:none;}
+
+#yiv6245221355 dd.yiv6245221355last p a {
+font-famil=
+y:Verdana;font-weight:700;}
+
+#yiv6245221355 dd.yiv6245221355last p span {
+m=
+argin-right:10px;font-family:Verdana;font-weight:700;}
+
+#yiv6245221355 dd.y=
+iv6245221355last p span.yiv6245221355yshortcuts {
+margin-right:0;}
+
+#yiv624=
+5221355 div.yiv6245221355attach-table div div a {
+text-decoration:none;}
+
+#=
+yiv6245221355 div.yiv6245221355attach-table {
+width:400px;}
+
+#yiv6245221355=
+ div.yiv6245221355file-title a, #yiv6245221355 div.yiv6245221355file-title =
+a:active, #yiv6245221355 div.yiv6245221355file-title a:hover, #yiv624522135=
+5 div.yiv6245221355file-title a:visited {
+text-decoration:none;}
+
+#yiv62452=
+21355 div.yiv6245221355photo-title a, #yiv6245221355 div.yiv6245221355photo=
+-title a:active, #yiv6245221355 div.yiv6245221355photo-title a:hover, #yiv6=
+245221355 div.yiv6245221355photo-title a:visited {
+text-decoration:none;}
+
+=
+#yiv6245221355 div#yiv6245221355ygrp-mlmsg #yiv6245221355ygrp-msg p a span.=
+yiv6245221355yshortcuts {
+font-family:Verdana;font-size:10px;font-weight:no=
+rmal;}
+
+#yiv6245221355 .yiv6245221355green {
+color:#628c2a;}
+
+#yiv624522135=
+5 .yiv6245221355MsoNormal {
+margin:0 0 0 0;}
+
+#yiv6245221355 o {
+font-size:=
+0;}
+
+#yiv6245221355 #yiv6245221355photos div {
+float:left;width:72px;}
+
+#yi=
+v6245221355 #yiv6245221355photos div div {
+border:1px solid #666666;height:=
+62px;overflow:hidden;width:62px;}
+
+#yiv6245221355 #yiv6245221355photos div =
+label {
+color:#666666;font-size:10px;overflow:hidden;text-align:center;whit=
+e-space:nowrap;width:64px;}
+
+#yiv6245221355 #yiv6245221355reco-category {
+f=
+ont-size:77%;}
+
+#yiv6245221355 #yiv6245221355reco-desc {
+font-size:77%;}
+
+#=
+yiv6245221355 .yiv6245221355replbq {
+margin:4px;}
+
+#yiv6245221355 #yiv62452=
+21355ygrp-actbar div a:first-child {
+margin-right:2px;padding-right:5px;}
+
+=
+#yiv6245221355 #yiv6245221355ygrp-mlmsg {
+font-size:13px;font-family:Arial,=
+ helvetica, clean, sans-serif;}
+
+#yiv6245221355 #yiv6245221355ygrp-mlmsg ta=
+ble {
+font-size:inherit;font:100%;}
+
+#yiv6245221355 #yiv6245221355ygrp-mlms=
+g select, #yiv6245221355 input, #yiv6245221355 textarea {
+font:99% Arial, H=
+elvetica, clean, sans-serif;}
+
+#yiv6245221355 #yiv6245221355ygrp-mlmsg pre,=
+ #yiv6245221355 code {
+font:115% monospace;}
+
+#yiv6245221355 #yiv6245221355=
+ygrp-mlmsg * {
+line-height:1.22em;}
+
+#yiv6245221355 #yiv6245221355ygrp-mlms=
+g #yiv6245221355logo {
+padding-bottom:10px;}
+
+
+#yiv6245221355 #yiv624522135=
+5ygrp-msg p a {
+font-family:Verdana;}
+
+#yiv6245221355 #yiv6245221355ygrp-ms=
+g p#yiv6245221355attach-count span {
+color:#1E66AE;font-weight:700;}
+
+#yiv6=
+245221355 #yiv6245221355ygrp-reco #yiv6245221355reco-head {
+color:#ff7900;f=
+ont-weight:700;}
+
+#yiv6245221355 #yiv6245221355ygrp-reco {
+margin-bottom:20=
+px;padding:0px;}
+
+#yiv6245221355 #yiv6245221355ygrp-sponsor #yiv6245221355o=
+v li a {
+font-size:130%;text-decoration:none;}
+
+#yiv6245221355 #yiv62452213=
+55ygrp-sponsor #yiv6245221355ov li {
+font-size:77%;list-style-type:square;p=
+adding:6px 0;}
+
+#yiv6245221355 #yiv6245221355ygrp-sponsor #yiv6245221355ov =
+ul {
+margin:0;padding:0 0 0 8px;}
+
+#yiv6245221355 #yiv6245221355ygrp-text {=
+
+font-family:Georgia;}
+
+#yiv6245221355 #yiv6245221355ygrp-text p {
+margin:0=
+ 0 1em 0;}
+
+#yiv6245221355 #yiv6245221355ygrp-text tt {
+font-size:120%;}
+
+#=
+yiv6245221355 #yiv6245221355ygrp-vital ul li:last-child {
+border-right:none=
+ !important;
+}
+#yiv6245221355 
+</style></div></div><br><br></div> </div> </=
+div>  </div></body></html>
+------=_Part_489311_2025040568.1446741419273--
+
+

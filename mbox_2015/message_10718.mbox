@@ -1,0 +1,136 @@
+From mayankmp2003@...  Wed Feb 17 11:07:48 2016
+Return-Path: <mayankmp2003@...>
+X-Sender: mayankmp2003@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 19287 invoked by uid 102); 4 Oct 2015 12:19:40 -0000
+X-Received: from unknown (HELO mtaq5.grp.bf1.yahoo.com) (10.193.84.36)
+  by m8.grp.bf1.yahoo.com with SMTP; 4 Oct 2015 12:19:40 -0000
+X-Received: (qmail 1543 invoked from network); 4 Oct 2015 12:19:40 -0000
+X-Received: from unknown (HELO mta1001.groups.mail.ne1.yahoo.com) (98.138.215.81)
+  by mtaq5.grp.bf1.yahoo.com with SMTP; 4 Oct 2015 12:19:40 -0000
+X-Original-Return-Path: <mayankmp2003@...>
+X-Received-SPF: pass (domain of yahoo.com designates 106.10.151.163 as permitted sender)
+X-YMailISG: mxQme7gWLDtKM.vWVDcd7J8ovccyKcFJyFqd82zIlJ1YdYdN
+ jpyPurfqlYB4TZp8NbICTywH6uLZVDnR9tmMWB7Ko212fIKjOiGTY35DK8wg
+ kxjIfZgddDnIVwUrAplLSsNBqgWbKarPwSRItrhUnG1wg7lgDVZhM3hZGx6e
+ bhhI8nEl9dOVnLGNL6C..xZ5mGmHIL7O0RKmGPJUbnnktrIOtRoQjBP1s0L9
+ sXdzvvkrGir6I5NqvKv_wYlCWMeCxmwTMRSl5vlwNLOD4oWGssz1EYjzwVmN
+ Hd_h30aKfgEKAZOidaEX65GZ6XCwdZWgIPx4BQJj.llfxbEYPA9dgv_mG_sN
+ 3G1x.LCDc6Lb6LfAcxHb0EmPTbqXA.DCJNQx6nrX3gvjwBvGcaS2pjzylXYX
+ FRIfGhgDkW0TZvt3zDFJzsmD.cvG2kmJ6VYR2fCs9soRQfX9yAq7HHUk9Rey
+ mDSwl_fak0.MavnJtpxi.ZLrjF5XTITxUUlHAtAW4hx6RTgN.5f57AJJtcAi
+ wDRVAQtSdnceNlhjtUpufbP1g_a5G09fgvrLRNe9uGV85Ds_zpN21_xgwjLe
+ usRtSQAivPue2JMqflipnUv2P2FwEHkYKZdHEs2I0mWJo.O61hMbLHMHx4LU
+ TARTGh884yRo9gTXKsy1TZTCzmqn7ktxnOrYvb1IOBnxg9cjn2G.3hxocLAC
+ C5g2VxUWeUGon3E4u6rEQu2PIwFirhEhigFB2ZHOspVPdr1.c.0A7xVy1iwi
+ h8RQfKNKNgcillpBcS3cN_LJbfvDHiAilmNUL7OnUpdD.qYXwixeydRy9Zky
+ adQBfBa_AolE.fJZI55R8f5RNYsttHk10OQemIWSbSX_25_zru5eOi8z245x
+ 9F7V9etCtysJwEjB7pNbfi4mfAhKIJ5qlRFZR6phuhSe9U6Khn4ly_Ps22Py
+ 0F2ZAEBWVBLutOTwZYBFYEEHJgjv6Jg.Z_ZG2A0VDp6ctPpHYgVoEt6VUSXz
+ ZK7J3zif2rh6krUGt6YSXxOHrJQZgf2r_qPYqwL0NIJcFqwlQXNJnD0u_xtX
+ u8N44VsQY_6YLShNrIEKH0.FFGJtbKBFv5ycaRo55a0qs8NK886dMh0qex.Z
+ sqZMI.3wz65Xpz1I5LE1n..QwiZ3GeXKAJ4yK68QCk1WWyGCITbJF.mgAa_k
+ EDDOpsq7QDl2FhJNPyVcZJ04bjE0b.bDDmtuS9qqpEFbiZFn2QQLgrzpKEq_
+ TpHmOWZPf8Gr5iNtdSteXryLrqTeyOl2XxALHosefO2AiBZrZQ7mb0UgxyS2
+ L0j.OhwwjsB.IsV0XkTjy4uInqNSsLHcC3v0cbGm39nUQ_t0q7S.Q9K3iKJm
+ r4eN5fWRBahVhQhY2cROy.esS2o_LV6aN.4ohWoNXa8XfEAPpKTIoheufMko
+ r.indlEdTes6d084lsCrAy61EF6aeT6KbGZ2Vaxj45AloOhueQQ0ogdoqrOT
+ KD.29wKvW7l4pNJWnyMssagas4PuKDxNmKqxCLc4wOhCnwGGL0.nnvcZ4gs-
+Authentication-Results: mta1001.groups.mail.ne1.yahoo.com  from=yahoo.com; domainkeys=neutral (no sig);  from=yahoo.com; dkim=pass (ok)
+X-Received: from 127.0.0.1  (EHLO nm29-vm4.bullet.mail.sg3.yahoo.com) (106.10.151.163)
+  by mta1001.groups.mail.ne1.yahoo.com with SMTPS; Sun, 04 Oct 2015 12:19:39 +0000
+X-Received: from [106.10.166.127] by nm29.bullet.mail.sg3.yahoo.com with NNFMP; 04 Oct 2015 12:19:37 -0000
+X-Received: from [106.10.150.28] by tm16.bullet.mail.sg3.yahoo.com with NNFMP; 04 Oct 2015 12:19:37 -0000
+X-Received: from [127.0.0.1] by omp1029.mail.sg3.yahoo.com with NNFMP; 04 Oct 2015 12:19:37 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 83047.1600.bm@...
+X-YMail-OSG: nqUDijQVM1kqtOEXXDYzUsjfSDPWJiGi7q58RHQEPD4xjttuu2y7GJo7kx.pZgC
+ gX4HLXOtVd4ezhueW.H.FlwkOG5qKwlIeBr9GZk3nxvg71xMoXBwHMCfY0C2rELxWD9OMq0H80g1
+ HwqUpyGvTBPvDalBVqqDr1WRdgrQVyLgSX.9rHf7W5clInh5kCqjfcBUf9aw_O1jN6OJ2ybzgMCZ
+ OFARcWTFPaZe_GIrXRmhgcfT9LoM.f3cjEk2oktzwWU5h5M0RlzVFGE8d1wnzV3_z9uL_Oik841N
+ oCAf6zodo0mHcy933HaDhN4wlstYhHyXGXQHgIM.wIbYfCKzxgILV2F2vZvm6F5ujKpqxpo5zpdI
+ 7ARtqDUQOZ2I1_nShg2orBdtJb30A.Az_GmARw3LhAEH8acyV0x8Uw6IDcPdeJ5facg5GqJsAf39
+ 8.OQqGcCLPIjMGjV5K.zE5epNviCtWH_8aoc6wWp9kHl3HXtx4Tf3P_FnJtNrwB565A1et1jplYt
+ QNrblNIgEg28-
+X-Received: by 106.10.196.184; Sun, 04 Oct 2015 12:19:36 +0000 
+Date: Sun, 4 Oct 2015 12:19:36 +0000 (UTC)
+To: "Yahoo! Inc." <vedic-wisdom@yahoogroups.com>
+Message-ID: <1121068597.114185.1443961176284.JavaMail.yahoo@...>
+In-Reply-To: <415855014.92853.1442980595155.JavaMail.yahoo@...>
+References: <415855014.92853.1442980595155.JavaMail.yahoo@...>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_114184_74179647.1443961176284"
+Content-Length: 6246
+X-Originating-IP: 98.138.215.81
+Reply-To: Mayank Pathak <mayankmp2003@...>
+Subject: Fw: PP ayanmasa used for gandanta case studies .
+X-Yahoo-Group-Post: member; u=296412362; y=JQm-w3-V4sl0qAmhC2R2njubf-dBOTtOUEzlRTm3VC-giu7IkP9t
+X-Yahoo-Profile: mayankmp2003
+From: Mayank Pathak <mayankmp2003@...>
+
+
+------=_Part_114184_74179647.1443961176284
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_114183_35233747.1443961176281"
+
+
+------=_Part_114183_35233747.1443961176281
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Dear All,
+Pushya paksha ayanmasa makes better sense for the attach chart.
+I=
+ got this chart from article gandanta case studies from saptrishis website.=
+=C2=A0Thanks and best regards,Mayank Pathak.
+
+
+   
+------=_Part_114183_35233747.1443961176281
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"color:#000; background-color:#fff; font-family:He=
+lveticaNeue, Helvetica Neue, Helvetica, Arial, Lucida Grande, sans-serif;fo=
+nt-size:14px"><div id=3D"yui_3_16_0_1_1443951543499_17471"><span>Dear All,<=
+/span></div><div id=3D"yui_3_16_0_1_1443951543499_17471"><span><br></span><=
+/div><div id=3D"yui_3_16_0_1_1443951543499_17471"><span>Pushya paksha ayanm=
+asa makes better sense for the attach chart.</span></div><div id=3D"yui_3_1=
+6_0_1_1443951543499_17471"><span><br></span></div><div id=3D"yui_3_16_0_1_1=
+443951543499_17471"><span id=3D"yui_3_16_0_1_1443951543499_17617">I got thi=
+s chart from article gandanta case studies from saptrishis website.</span><=
+/div><div></div><div id=3D"yui_3_16_0_1_1443951543499_17486"> </div><d=
+iv class=3D"signature" id=3D"yui_3_16_0_1_1443951543499_17392"><div id=3D"y=
+ui_3_16_0_1_1443951543499_17485"><span id=3D"yui_3_16_0_1_1443951543499_174=
+84">Thanks and best regards,</span></div><div style=3D"color:rgb(0, 0, 0);f=
+ont-size:13px;font-family:arial, helvetica, clean, sans-serif;background-co=
+lor:transparent;font-style:normal;" id=3D"yui_3_16_0_1_1443951543499_17391"=
+><span id=3D"yui_3_16_0_1_1443951543499_17483">Mayank Pathak.</span></div><=
+/div><div class=3D"qtdSeparateBR" id=3D"yui_3_16_0_1_1443951543499_17482"><=
+br><br></div><div class=3D"yahoo_quoted" id=3D"yui_3_16_0_1_1443951543499_1=
+7474" style=3D"display: block;"><div style=3D"font-family: HelveticaNeue, H=
+elvetica Neue, Helvetica, Arial, Lucida Grande, sans-serif; font-size: 14px=
+;" id=3D"yui_3_16_0_1_1443951543499_17473"><div style=3D"font-family: Helve=
+ticaNeue, Helvetica Neue, Helvetica, Arial, Lucida Grande, Sans-Serif; font=
+-size: 16px;" id=3D"yui_3_16_0_1_1443951543499_17472"><div class=3D"y_msg_c=
+ontainer" id=3D"yui_3_16_0_1_1443951543499_17478"><br></div>  </div> </div>=
+  </div> </div></body></html>
+------=_Part_114183_35233747.1443961176281--
+
+
+------=_Part_114184_74179647.1443961176284
+Content-Type: application/octet-stream
+Content-Disposition: attachment; filename="gandanta case studies ex 3.jhd"
+Content-ID: <1c5d87c1-f3ec-2342-95fc-3237e5c4eb6d@...>
+
+[ Attachment content not displayed ]
+------=_Part_114184_74179647.1443961176284
+Content-Type: text/plain
+Content-Disposition: attachment; filename="gandanta case studies ex 3.txt"
+Content-ID: <5aaeca31-9791-39f0-ea0d-c7d8d4058679@...>
+
+[ Attachment content not displayed ]
+------=_Part_114184_74179647.1443961176284--
+
+

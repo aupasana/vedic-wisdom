@@ -1,0 +1,185 @@
+From sateeshastro@...  Wed Feb 17 11:07:48 2016
+Return-Path: <sateeshastro@...>
+X-Sender: sateeshastro@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 5138 invoked by uid 102); 12 Aug 2015 11:09:37 -0000
+X-Received: from unknown (HELO mtaq6.grp.bf1.yahoo.com) (10.193.84.37)
+  by m12.grp.bf1.yahoo.com with SMTP; 12 Aug 2015 11:09:37 -0000
+X-Received: (qmail 19339 invoked from network); 12 Aug 2015 11:09:37 -0000
+X-Received: from unknown (HELO mta1003.groups.mail.bf1.yahoo.com) (98.139.170.167)
+  by mtaq6.grp.bf1.yahoo.com with SMTP; 12 Aug 2015 11:09:37 -0000
+X-Original-Return-Path: <sateeshastro@...>
+X-Received-SPF: pass (domain of gmail.com designates 209.85.212.176 as permitted sender)
+X-YMailISG: 6n4OFzMWLDuOsWH0BYCBE4UEWGEi3.ON9MMfOMakNU4FhtJX
+ ypoXdsXKfg7ZsMhqyEMTPYJ3ZhBFP6Pd6t4Mewzuj0itH.jYXdCreLIgQIip
+ eI1FlEvX_cTw10G.0zc3PPBgZ1w00paYbb6oBuMxABQSdOmlca.soB0YyUZM
+ sgTeO1KJQYtdoi.G3L9TaIMn5ndRqsh2g3sVq3rcY61yaMQ6VsSCd6gO0C8g
+ _vZ3qJheBaubwZiNg0aiy1ETzz7FkfMRE6bEO4db.z5B2hlie6XWkNx7vhth
+ Vp5rf5e3Ugz6rfoI6rNtptyj3Cguep1.0_o5zIIOeVOaKNbkpf5iZ8XcEykh
+ fr.Cxq1STb9IvFrzJ2AUacZVOqkwvYGYOKlQwmVvHQSJtK.mJORTaXwkUlC9
+ 22tdYheZOx0v40ksK7ErXQqZtHJuDtSM947XX8sglW1CbQBik9NqTpUQxd2N
+ 5qW0qZITSg_m7_zc3mdy220.ETkInJZo1nDDFZVZxAs5uoNAMMBSk3kwXrAQ
+ 7EX01r0WchTB4M1f4R6EtGleBGMVGJb3kB3v0bWbSdkRRSui6y81aAi0Y1Mc
+ ifLmaphbAxBJYeA7k5ymlAjq7P1b3S4qGdf3bY8kE53ECa46Y6PjlSSPJBfI
+ Sf9SOc3QzICDnx_5HsECnHVVICSTReU5ZBmfPheaeFVraMk_8okSjfJgtHoG
+ GFW7FWQwRUbu4RBf3j9lXfYscNkpyyVp_YCyyCgEgeakHNSXkUJJz5k7Rr69
+ 8V6UnPY2ONXMQe2T7IxzR0ycjkqmxlln.cP4xrbt5uAzdL06sgwPozIdCR3Z
+ buBAjsV_0dMiin6mkamn0ttLJYQRO4G07IefL7Pn0sXKgRd6g5bqZENDvEKh
+ dhMN2mLzc2uj04qBB9arWHKU5EtdMbX5SiHD07.VXky5Sz1mZQsNA8kN.oAq
+ KDNzAaI4xQjvv7Kp0gZ8Wq0KvBTNi5PkQNoKra8h9jfkjeVkJIWsTg6ghezt
+ Rt76M5yjHxUuZ4zpEo.7oyt4nTrjyKfUK_mndAG.c5gkA7XaV1aj7x2quMEo
+ Y5wa6g09HuHDDGXxReQp.4Y2emgeEph5FwcIAhCUOTO9MjAyXsP.cTw8YacT
+ 9HN9ypSx95IOHZTsDzZtWbL2AzywqupQdFb8QuhKhvwCJOz2NQWp26rA.CgM
+ iOL1z6HE49zPncepdbumpfYmwVAjqzsA0U.Ft_9HzxAhGsSWjTtF8nJ3ALlA
+ RHlhRq38iRJjNKgvf_S6JCvII__iOeLQAaiV6WYDzKlUt7yYzrVlpA8ZSVz.
+ eq0FB.sj8pPi6m0QJcu4NGddUXkKPgnKXrkOHpDWZj6V_fL4huF.Qr0a4C4K
+ FdUAn1JzL1D_Eu3bp3SyiHtoC7Nn6NpQj0XsYPKi07X1KiWhU7OQwxm4Z52b
+ .pbvagISEyvbLMELjIIl2k0ztirrq1UVvFzmGK1Efo5X8GgxQrl5uoG9aFjK
+ taWPqBf1DLSJPPTLOu5mf098nRUguEoWxZFdaNMSv7q.b79Obj1anKaWJMQf
+ baXyqTU6GX0w0l5dGpGgaLOl7TDn17WYIwq0r0BoOJi9Fd4Mhax2KvBOPqOx
+ sxHTNmi6KLswL4c9pd97j2TlpVFD
+Authentication-Results: mta1003.groups.mail.bf1.yahoo.com  from=gmail.com; domainkeys=neutral (no sig);  from=gmail.com; dkim=pass (ok)
+X-Received: from 127.0.0.1  (EHLO mail-wi0-f176.google.com) (209.85.212.176)
+  by mta1003.groups.mail.bf1.yahoo.com with SMTPS; Wed, 12 Aug 2015 11:09:33 +0000
+X-Received: by wicja10 with SMTP id ja10so22827398wic.1
+        for <vedic-wisdom@yahoogroups.com>; Wed, 12 Aug 2015 04:09:32 -0700 (PDT)
+MIME-Version: 1.0
+X-Received: by 10.195.12.6 with SMTP id em6mr66454540wjd.150.1439377772179;
+ Wed, 12 Aug 2015 04:09:32 -0700 (PDT)
+X-Received: by 10.28.20.133 with HTTP; Wed, 12 Aug 2015 04:09:32 -0700 (PDT)
+In-Reply-To: <mqdgjt+45ip9b@...>
+References: <mqdbcc+13ojg3i@...>
+	<363555594.2787606.1439315878286.JavaMail.yahoo@...>
+	<mqdgjt+45ip9b@...>
+Date: Wed, 12 Aug 2015 16:39:32 +0530
+Message-ID: <CAE2RDrTrbhnf9aXRryUJGqOPqBvKgjgGp73sg=Wnz1089tKv2Q@...>
+To: vedic-wisdom@yahoogroups.com
+Content-Type: multipart/alternative; boundary=047d7bd91e50cef5fc051d1b40de
+X-Originating-IP: 98.139.170.167
+Subject: Re: [vedic-wisdom] A brush with death
+X-Yahoo-Group-Post: member; u=558882330; y=FsDF2USdQojHBXsi3G7AIZPVm71Bth02JzCOfa5BZ15hkDj0IyuxwEEhseVl3RY
+X-Yahoo-Profile: satishdesh@...
+From: satish deshpande <sateeshastro@...>
+
+
+--047d7bd91e50cef5fc051d1b40de
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Dear
+=E2=80=8Bnilesh=E2=80=8B
+ - Namaste
+
+=E2=80=8BGreat eye opener.
+
+Who i=
+s your GURU ?=E2=80=8B
+
+
+
+
+Yours sincerely
+       satish
+
+
+
+On 12 August 20=
+15 at 00:28, nikhilashish@... [vedic-wisdom] <
+vedic-wisdom@yahoogrou=
+ps.com> wrote:
+
+>
+>
+> > Is it a real incident or just a fictional story?
+>
+=
+> A real incident.
+>
+> Thanks for your appreciation.
+> 
+>
+
+--047d7bd91e50cef5fc051d1b40de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><div class=3D"gmail_default" style=3D"font-family:arial,he=
+lvetica,sans-serif;font-size:small"><br></div><div class=3D"gmail_extra"><b=
+r clear=3D"all"><div><div class=3D"gmail_signature"><div dir=3D"ltr"><div><=
+font color=3D"#0000ff">=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =
+=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0=C2=A0</font></div>D=
+ear <div class=3D"gmail_default" style=3D"font-family:arial,helvetica,sans-=
+serif;font-size:small;display:inline">=E2=80=8Bnilesh=E2=80=8B</div>=C2=A0-=
+ Namaste =C2=A0</div><div dir=3D"ltr"><br></div><div dir=3D"ltr"><div class=
+=3D"gmail_default" style=3D"font-family:arial,helvetica,sans-serif;font-siz=
+e:small">=E2=80=8BGreat eye opener.</div><div class=3D"gmail_default" style=
+=3D"font-family:arial,helvetica,sans-serif;font-size:small">=C2=A0</div><di=
+v class=3D"gmail_default" style=3D"font-family:arial,helvetica,sans-serif;f=
+ont-size:small">Who is your GURU ?=E2=80=8B</div><br><div><br></div><div><b=
+r><div><br></div><div>Yours sincerely</div><div>=C2=A0 =C2=A0 =C2=A0 =C2=A0=
+satish</div><div><br></div><div><span style=3D"color:rgb(0,0,255)">=C2=A0=
+=C2=A0</span><span style=3D"color:rgb(0,0,255)">=C2=A0</span><span style=3D=
+"color:rgb(0,0,255)">=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0=C2=A0</span></div></div></div></div></div>
+<br><div class=3D"gmail_quot=
+e">On 12 August 2015 at 00:28, <a href=3D"mailto:nikhilashish@...">ni=
+khilashish@...</a> [vedic-wisdom] <span dir=3D"ltr"><<a href=3D"ma=
+ilto:vedic-wisdom@yahoogroups.com" target=3D"_blank">vedic-wisdom@yahoogrou=
+ps.com</a>></span> wrote:<br><blockquote class=3D"gmail_quote" style=3D"=
+margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex">
+
+
+<u></u>
+
+=
+
+
+
+
+
+
+
+
+ 
+<div style=3D"background-color:#fff">
+<span>=C2=A0</span>
+
+
+<div>=
+
+  <div>
+
+
+    <div>
+      
+      
+      <p><span class=3D"">> Is it a r=
+eal incident or just a fictional story?<br><br></span>A real incident.<br><=
+br>Thanks for your appreciation.</p>
+
+    </div>
+     
+
+    
+    <div style=
+=3D"color:#fff;min-height:0"></div>
+
+
+</div>
+
+
+
+  
+
+
+
+
+
+
+</blockquote></div=
+><br></div></div>
+
+--047d7bd91e50cef5fc051d1b40de--
+
+

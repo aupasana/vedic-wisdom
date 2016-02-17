@@ -1,0 +1,88 @@
+From viveksharma_bt@...  Wed Feb 17 11:07:48 2016
+Return-Path: <viveksharma_bt@...>
+X-Sender: viveksharma_bt@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 301 invoked by uid 102); 26 Sep 2015 15:27:57 -0000
+X-Received: from unknown (HELO mtaq5.grp.bf1.yahoo.com) (10.193.84.36)
+  by m9.grp.bf1.yahoo.com with SMTP; 26 Sep 2015 15:27:57 -0000
+X-Received: (qmail 13135 invoked from network); 26 Sep 2015 15:27:57 -0000
+X-Received: from unknown (HELO mta1005.groups.mail.ne1.yahoo.com) (98.138.100.120)
+  by mtaq5.grp.bf1.yahoo.com with SMTP; 26 Sep 2015 15:27:57 -0000
+X-Original-Return-Path: <viveksharma_bt@...>
+X-Received-SPF: pass (domain of yahoo.com designates 106.10.149.40 as permitted sender)
+X-YMailISG: I_hJGmIWLDvBhruqtIHvepi588D4bfPiLgV2.MxXykt3NUAx
+ auCi6vJaIBnBczK1b6sUI8xFuA9KeQVg1pYw1ga0NTMyCP1emBQ.XhBobKGO
+ jgx3.P0HqsHxGut01CTn_dL1FS_FHabtmrUBLB8q2.XfxcIBVeCFTW5MKxTk
+ cxZVnuFcWk6JPmekLagLXz_o1jdg7pCqF9IFr_LAcBNNnK5KhXtz1awvWLPs
+ T5LTkfrvjE0wbK7MRp4zx3Bn1riZEWKFpRk8or_IWkOz3qBhKsJR2IS9O7t8
+ TnETqyNENwyKjceYHKzXl0iiZzN9qS5rLR7yrgW49OkChdDGhbhomjKyw82w
+ ivLKP3y5FcJ8DWTIgRO_3299IEtSLCg410plXkeeHAtInymfrZRQEanHULjo
+ VH90rccVdmbLBdFKnRqtdSg.8.I_RWUotxO1e8331rU1ENXCc46cFxBnDB_e
+ ThXJHjha80KwAjfGiKdD3DVM2yLr_yaBq81rsCUGSgshljbGcta6eKwHGHsi
+ Y6N9vN6tbgBXvhIBGT1NBwyF56YSM8LgwOBfJwMApRdDxdgvzGGH7Qa.YYjD
+ oV_6tyMqZ2ePubFI.2atPjWBjs41Xdmxfp4oGopdk_Eon3gERJw184Kzx8U3
+ T753p0Bp9ldngAfKBHFAtpOJb.2dTuKM6BBqV6onkgPGKmHP18SGGKvYmRno
+ SByQjp4QDjkiTAPlILDJ.v5uwfk9B04ai1OIi0k9_cbYnp_R1pEH8dHpgYf7
+ HE0wjSBtf2AQWKux9lzIlHCA3e9Er3Gvl.6jo9MIlrqXQAZcrFw6Luf0rD3Z
+ LjXa._xa8rkaLdvl2t8xfvsmEFCDHEFTrEXxQox7HlqzEAfOaI.PFYalJxw7
+ s8ddMK7vTrFazlESwM6oQAK1aJkZ.q.kcZMeFAGN0fLLRTJ694QEpVh2Dirz
+ kdtS4cjEwrcWwNbij7Ehx4ruaPhF2Mv.tPPUDDmF6LDFpG9LK9sVxEq08qxH
+ rnhSxwZDZI5JiCjXthUmozbRAkdE91Qy8shyNfy0nKXKwhNoQ7Cn1ZQH6Vzn
+ sZelBql6qrOSK7U3AsaA377WS3Ggs9IbJsVfcLnoC30yTcL2lkOWUkjKkSUx
+ iS643krHrHlt8c2e.VYGABmgyRCyIpLLebGq0RNNBrDJCRH4TPxJ81tUEoeH
+ HZI7h_vtNeQtxCDa4wq8HDJNlzg31waH0c8r3qg9n.oT6kS8cV_HNPNnrbE4
+ nGRfrzcRboNlWMYdRuogSFBCxxCayskFKmDUkSMkIzoY.EKyifpzaiuzUuZF
+ FyBn8zGng1nfcOeg6nOl0ggXvKCmJyLUhqJuz0c7EWpINTi2t2WhAkRpIMx6
+ 5I4lyeyiGbWNfDV2RtuAY2m_Zm9_4fPrJLRPL8ZcVuQcZ3iHeyXj3_QNw8ow
+ 8N3403bvcYwXvNdDq2mQCtYL4LKzVVqqRRroZcf8yYBBjfyAWM_iewjVmJni
+ _gENClI_
+Authentication-Results: mta1005.groups.mail.ne1.yahoo.com  from=yahoo.com; domainkeys=neutral (no sig);  from=yahoo.com; dkim=pass (ok)
+X-Received: from 127.0.0.1  (EHLO nm14-vm9.bullet.mail.sg3.yahoo.com) (106.10.149.40)
+  by mta1005.groups.mail.ne1.yahoo.com with SMTPS; Sat, 26 Sep 2015 15:27:57 +0000
+X-Received: from [106.10.166.118] by nm14.bullet.mail.sg3.yahoo.com with NNFMP; 26 Sep 2015 15:27:54 -0000
+X-Received: from [106.10.151.251] by tm7.bullet.mail.sg3.yahoo.com with NNFMP; 26 Sep 2015 15:27:54 -0000
+X-Received: from [127.0.0.1] by omp1022.mail.sg3.yahoo.com with NNFMP; 26 Sep 2015 15:27:54 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 169329.13753.bm@...
+X-YMail-OSG: O1dbaWcVM1nPPFhb4Ko8ztitcfMz_I8xt7uozNg0S6ClKELHxE.3xcAa1tAxXH2
+ 7n7gSu3nLEs6HBnzS2YHwOkM1Vn058M4ZWMG2BOE5QXzy6HLUFhMje5VDjXLB8L.Jbgft2rxirPJ
+ RzwqEsPyMEJcapm2azOGzzHw9VcIBsy_9DYGC9s0g.QzQepAR6ps.Jm0WqPyqdd39O.mgHIgnuV0
+ VsRErX05WCBWwvIaGbTjopc89H2evDIPYktLqWYLXvyrqtikaq5FSM4Gi47iyEXaM9kTbuOgqnF3
+ 7tXaLvkNipEPQPCw5vPSCSiZGCp4f8YktpMgRI7ZbO8sD30odZO6lngki_R47JpE96aVs9bXyG7x
+ FuShRDyIKv03.ktZY3RKtCX5U1MaT2YnbBJjTkPtO4advo.5qKwGUB4v_KM7Re6XDYK.FPgUk2o5
+ aS2SeWCrCjhkASI6UdyDpDA.TYvfsVBk5XDmFwH2B8zF1y0KKsRG76CJ0xeARBcMsx0Or0zLbEn4
+ BDbwdnT3w5vEX
+X-Received: by 106.10.197.99; Sat, 26 Sep 2015 15:26:13 +0000 
+Date: Sat, 26 Sep 2015 15:26:11 +0000 (UTC)
+To: "Yahoo! Inc." <vedic-wisdom@yahoogroups.com>
+Message-ID: <1644282128.986190.1443281171120.JavaMail.yahoo@...>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_986189_1656949271.1443281171117"
+Content-Length: 1291
+X-Originating-IP: 98.138.100.120
+Reply-To: vivek sharma <viveksharma_bt@...>
+Subject: A facebook  post about sadhana during Lunar Eclipse by Guru
+ Narasimha Rao
+X-Yahoo-Group-Post: member; u=142520461; y=n8OJiFi8i9C7Ed8M-XDKZ3SgIvKaiDDSJCi5yPOSnYFZveWPMSABdYc
+X-Yahoo-Profile: viveksharma_bt
+From: vivek sharma <viveksharma_bt@...>
+
+
+------=_Part_986189_1656949271.1443281171117
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear All,
+Please see the link below about Sadhana during Lunar Eclipse by Guru Narasimha Rao:
+https://www.facebook.com/pvr108/posts/10153226160608284
+
+Thanks,Vivek
+------=_Part_986189_1656949271.1443281171117
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html><body><div style="color:#000; background-color:#fff; font-family:verdana, helvetica, sans-serif;font-size:16px"><div id="yui_3_16_0_1_1443280744657_2714">Dear All,</div><div id="yui_3_16_0_1_1443280744657_2714"><br></div><div id="yui_3_16_0_1_1443280744657_2714">Please see the link below about Sadhana during Lunar Eclipse by Guru Narasimha Rao:</div><div id="yui_3_16_0_1_1443280744657_2714"><br></div><div id="yui_3_16_0_1_1443280744657_2714" dir="ltr"><a href="https://www.facebook.com/pvr108/posts/10153226160608284" id="yui_3_16_0_1_1443280744657_2883">https://www.facebook.com/pvr108/posts/10153226160608284</a><br></div><div id="yui_3_16_0_1_1443280744657_2714" dir="ltr"><br></div><div id="yui_3_16_0_1_1443280744657_2714" dir="ltr">Thanks,</div><div id="yui_3_16_0_1_1443280744657_2714" dir="ltr">Vivek</div></div></body></html>
+------=_Part_986189_1656949271.1443281171117--
+
+

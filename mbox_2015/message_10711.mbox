@@ -1,0 +1,657 @@
+From realraghu@...  Wed Feb 17 11:07:48 2016
+Return-Path: <realraghu@...>
+X-Sender: realraghu@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 13021 invoked by uid 102); 15 Sep 2015 00:49:47 -0000
+X-Received: from unknown (HELO mtaq6.grp.bf1.yahoo.com) (10.193.84.37)
+  by m8.grp.bf1.yahoo.com with SMTP; 15 Sep 2015 00:49:47 -0000
+X-Received: (qmail 25822 invoked from network); 15 Sep 2015 00:49:46 -0000
+X-Received: from unknown (HELO mta1001.groups.mail.ne1.yahoo.com) (98.138.215.81)
+  by mtaq6.grp.bf1.yahoo.com with SMTP; 15 Sep 2015 00:49:46 -0000
+X-Original-Return-Path: <realraghu@...>
+X-Received-SPF: pass (domain of yahoo.com designates 98.138.91.189 as permitted sender)
+X-YMailISG: tKB0hdkWLDtyJNYbmIUALTTv1i2JMdBNwDj0FigLr381iuop
+ aVAz5ksgudlA6w6ACcy5r6qFQlryl.w45durk42D.mgV6VHMXZ9jXr.x.mFz
+ Y9GLtQvWXoPYvooxWvJBFNJG9CnfwkXJ4sCqHKhvYhCESUHsbOGo5UZ_dmbK
+ SIWHS5QzXfRtRe5OpRyuPo.uNp45tIs2q172qc6SrfcOTFwPBJExDVsie_jD
+ vAF76cOzcp86UTe.KzF5OI5QLPETc69VGrZyn7l6E0MMDRzIDkMw68tHE2RD
+ HLUKFhKISTK.yUq6tPYaw3OX2_sbMJ2V4LHABVKCz9sJRwL5EkxqpFcB5Tg6
+ S3wDRB.dLbvMTlaW2ePflmZSoTwOwqIX9OXeYP4V3eaFszkRtoyWsQaAlcjG
+ XDGGljV4ZhwmU4PBDg9t7ebEDpRdz.BmIvXo1FdFhSJXu2fnG_5MyiYW8pcJ
+ jzGqr8hrkXCrb0cFVCP1HM5br_3kxKNOiG6NR4KwbMHsg2CTHd8xJRRvVGLE
+ QEa_GWMsJxEgpNvOqhYgIBSJbeDsxOxz52fiIf_zru5Aejqx3Jr4GBuRgF0a
+ 9vcysI_59Foq.Q9Zz3skUyNEawoAPEBWXY_n4IHWvK86Wg94myTeMmTwc.v1
+ MwVsadtS69N01ATWXAUYFHNAW1LaqbO_AhBOTe_zWMz2jpXUIujr4edCl1ZF
+ 5ry.QZwBJb5MTv9ansSjtpJlft8RGxvvEnYJqHPcDHQWFekgkWTfmi.k2vwK
+ 4o5y.js_Le8LitDIfNiq9bBpXmymsduU9bmqdyASoVsGc3F2iS2uhkssoKzD
+ ReZO5aVkpGxSwEh2kslgMoaKZXPKXtUbsayxp58H7q9ervxRYDfNtgvYYu1A
+ u0YAq6NhJcI3qJkLtOUHSW.bOwn87AOAX9RS67LGTNSNbeWXkoiDLMDY179c
+ De_oaJVO7cwEKQxtq9mk8it0fnIMYm_HqjzeFgqtGPFRHcQ7bgjHAJck9Xc2
+ JKaMCh9Cy.xLhaeG0Cabm7eFZ.xuJ7HDg1pMVu8YoMU9.gv4gTahXRI7jCKf
+ cAWMzp.hE2ltmC4P4Z_lD7C5Xsne.00cIgb0QV7hNLV1Oj3CJGhffJUZ1WZu
+ qgkyslj5VI0CYimhksegTnhObamoPChI_X3Iyk.LDO7L9quDOOCVUDujjTCf
+ 0U50kIVM4UD8069f73peLg9sN4K8OVavV.aeXbqBZdMPnjyPaHy_fslFNib7
+ sCw793HcUPy7gT_TYHhOoKyinykXAKA07hkb2o6z9whKH4DK4FY8HpNX6T2H
+ UDgYiFx1Mx74tbInQqx.f9ZlIEP8kxWdWIKDskujgKCBnKN8MGp9h3rpTxwS
+ 4zMwQ2j_fqYEH2.NmVS0Wtor71gtw5XQokEJIxz4bNfV.ndNHie00jJj9m2S
+ 6AbQcW_Z9cd9f9.OhrJMHsL1VAP73fezj1D.WyWS3zAomcvM4tCxXg8X2kY8
+ ovWjwH7A18MObGR7TeXkr0.2hPstiP.h8cz7KIFz6Q55NUIQpXoTWi7BYG5R
+ kXVdwAVgPZGBJeAbSIrCpFj6iTQXbRfyICBN790Q4dCe54uIC5lz0Xajkk83
+ CSOhlikufUgqB2ZuW_fxpEQ4giZZEZm0E71.kKI-
+Authentication-Results: mta1001.groups.mail.ne1.yahoo.com  from=yahoo.com; domainkeys=neutral (no sig);  from=yahoo.com; dkim=pass (ok)
+X-Received: from 127.0.0.1  (EHLO nm29-vm4.bullet.mail.ne1.yahoo.com) (98.138.91.189)
+  by mta1001.groups.mail.ne1.yahoo.com with SMTPS; Tue, 15 Sep 2015 00:49:44 +0000
+X-Received: from [98.138.100.115] by nm29.bullet.mail.ne1.yahoo.com with NNFMP; 15 Sep 2015 00:49:43 -0000
+X-Received: from [98.138.89.249] by tm106.bullet.mail.ne1.yahoo.com with NNFMP; 15 Sep 2015 00:49:43 -0000
+X-Received: from [127.0.0.1] by omp1041.mail.ne1.yahoo.com with NNFMP; 15 Sep 2015 00:49:43 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 859604.50824.bm@...
+X-YMail-OSG: c3QZNBkVM1njTPRYzJAk7DdNQoIwrE_OTiU6HfZWReY3hedIcqVBZry6Y4HyXXn
+ 1.mnE5UxPcRYh8.1B5tOKW59.htr6uSaw4_OnJvISN.6zp7OiHWvv1bPjKoOQHw.M8iGjmp.MJNF
+ hCq3s0XFZRNf7TEjzJEICBHvfMueVJ04scNZVUWWSeurdl1q_kRFnJrIt2BPU.2a5Lu4BnuSyDId
+ 0TSJ1EU_AKpiVrizKL0hUHWiayf7Zz7D6o9BcJM9o1OwazPWJ8kI_nXKYY0goP1mAo1mDoiXxgki
+ 7tiBuY4mFmpZXBtNicK6RELNGzs.FOjioAXimx00V8EJwUvXUFLqKZAccA_0pWiNaEGUTiP9B9nW
+ nY5fzGwty0feiSjj7Az8GDiJTN8FMPgq.LAOM26784TSXjkaPdM6oeknXI2TrOUrrV.C4lNXoBS6
+ ke.0phmV_97pDaNUylU0O_2cXImOQ0FzTdcPnflqa2yTysx7avWWZmV3080HWbKQY_K_5.NVA7a1
+ BeISYP3aui_tEuw--
+X-Received: by 98.138.105.207; Tue, 15 Sep 2015 00:49:43 +0000 
+Date: Tue, 15 Sep 2015 00:49:41 +0000 (UTC)
+To: "vedic-wisdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com>
+Message-ID: <1800577299.2715771.1442278181589.JavaMail.yahoo@...>
+In-Reply-To: <mt7pip+5s5v7g@...>
+References: <mt7pip+5s5v7g@...>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_2715770_1096281456.1442278181581"
+Content-Length: 31961
+X-Originating-IP: 98.138.215.81
+Reply-To: Raghunath Anisingaraju <realraghu@...>
+Subject: Re: [vedic-wisdom] Burning Pyre
+X-Yahoo-Group-Post: member; u=62734983; y=SNgik3uliDEEpdFlAWSMwSL1n2JqGxKBEAVw3WhtKXfW069p
+X-Yahoo-Profile: realraghu
+From: Raghunath Anisingaraju <realraghu@...>
+
+
+------=_Part_2715770_1096281456.1442278181581
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Wonderful article thanks for sharing this, just was meditating on mother=C2=
+=A0 Kali and got this email. 
+
+Raghu 
+www.tarabalam.com 
+
+
+     On Monday, =
+September 14, 2015 8:43 PM, "nikhilashish@... [vedic-wisdom]" <vedic-=
+wisdom@yahoogroups.com> wrote:
+   
+
+ =C2=A0   "If you can't take a little b=
+loody nose, maybe you ought to go back home and crawl under your bed. It's =
+not safe out here. It's wondrous with treasures to satiate desires both sub=
+tle and gross. But it's not for the timid." - Q, Star Trek TNG
+
+Who am I?
+
+=
+Am I a body which is believed to have a soul?
+
+I came into existence the mo=
+ment this body was conceived. It verifies my being, validates my life. It h=
+as a brain that makes sense of the gibberish that is thrown at it, finds a =
+purpose and leads me the way I am supposed to be led. My body also has a he=
+art. It feels, it loves and makes me desire everything more and more. An or=
+gan called soul is yet to be found.
+
+Then, there is the point when my body =
+exists but my brain and heart stop functioning. I sometimes wonder if I am =
+a body, how can I experience things that are way beyond its extremities. If=
+ I am a body, I shouldn't be dead before my body is incinerated on the fune=
+ral pyre.
+
+Perhaps, I am a soul which sometimes chooses to have a body.
+
+I =
+am here to learn, experience and discover. What I know prevails even when m=
+y body does not. I'll also teach, share and inspire; sometimes without my b=
+ody's intervention. I know, this body is an illusion although sometimes I p=
+refer not to remember this fact so that I can allow myself to indulge witho=
+ut worrying about the consequences and witness whatever transpires.
+
+Once I=
+ have experienced all there is to experience, learned whatever I need to le=
+arn, the illusion will help me break free from the life - death cycle and I=
+'ll return to my rightful place. But, if I am not careful, it will turn the=
+ cycle into a perpetual trap. I can be addicted to various bonds. The blind=
+ing emotions will never let me remember the fact which I had chosen to forg=
+et temporarily. Misguided by attachments, I'll be lost in a flurry of confl=
+icting anomalies. If, as fate would have it, that happens, I'll be drawn he=
+re at the temple of the dark, ultimate truth.
+
+This eerily calm place is ca=
+lled the Shmashan, the cremation ground - a gateway to both the heaven of m=
+oksh and the hell of rebirth. This place is where empty shells turn to ash,=
+ the worthless is disposed of and myths are dispelled. It is so attuned to =
+banishing the illusionary light that its mere mention maddens the ignorant =
+and drives them away.
+
+Detachment must come naturally - unabashed and free =
+from all comforting lures. There can't be even a trace of any worldly affai=
+r.=C2=A0 I must learn to separate the essence from the semblance. Once I ha=
+ve mastered the ensemble and the parts, I'll be free. My existence will be =
+devoid of sadness. I'll savor the pleasure in every possible way. Then, I'l=
+l get caught again. Only then, I'll be able to understand that like my capt=
+ivity, my freedom is also an illusion.
+
+The more I look at the funeral pyre=
+, the more it intrigues me. First, the blistering heat boils the flesh away=
+ from the bones; then, it chars them differently into a single substance, a=
+sh. So many bodies, so different from each other and yet, they all end up t=
+he same, indistinguishable from each other.
+
+Dancing on a whim, flowing tra=
+nscendentally, spreading warmth without bias, the fire that burns the funer=
+al pyre needs sustenance, produces smoke and leaves residue. It may brighte=
+n my surroundings, but it can't enlighten me.
+
+The fire that can enlighten =
+me does not brighten anything at all. It is darker than the darkest corner =
+of my psyche. It is omnipresent, relies on nothing and annihilates everythi=
+ng. The ignorant project it as a symbol of negativity the world over. The w=
+ise embrace it as the blessing of goddess Kali.
+
+Goddess Kali is the presid=
+ing deity of the Shmashan. She is the beginning, she is the end. A primal f=
+orce that enchants everything, she destroys worldly bondages while blessing=
+ with divine pleasures. She is the stark representation of the ultimate tru=
+th, she is the illusion. She is the one who dominates this universe. Damned=
+ or blessed, she listens to all.
+
+I don't need to call her. I don't need co=
+mplex procedures, long rituals or tongue twisting mantras to blend with her=
+. All I need is Kalika Ashtak.
+
+Kalika Ashtak is an eight versed hymn creat=
+ed by Adi Shankaracharya. It encompasses the energy that existed before the=
+ inception of time. It vibrates with the darkness that will prevail after e=
+verything else has perished. Everyone who should know it, knows it; many ex=
+perience divine joy reciting it; and some transcend the visible universe me=
+ditating on it. It can negate every negativity.
+
+I have my share of negativ=
+ity. It is way too potent for conventional means. It has a much larger sphe=
+re of influence. It affects everything associated with me; but, to my utter=
+ dismay, it hurts me the most.
+
+Kalika Ashtak protects me from my own negat=
+ivity. It engulfs my negativity with the darkness emanating from goddess Ka=
+li, transforms it into energy and channels it towards my Kundalini enabling=
+ me to achieve any goal.
+
+Tonight, it will enliven the Shmashan for me.
+
+ht=
+tp://chronicles-of-a-sadhak.blogspot.com/
+
+  #yiv9378720859 #yiv9378720859 =
+-- #yiv9378720859ygrp-mkp {border:1px solid #d8d8d8;font-family:Arial;margi=
+n:10px 0;padding:0 10px;}#yiv9378720859 #yiv9378720859ygrp-mkp hr {border:1=
+px solid #d8d8d8;}#yiv9378720859 #yiv9378720859ygrp-mkp #yiv9378720859hd {c=
+olor:#628c2a;font-size:85%;font-weight:700;line-height:122%;margin:10px 0;}=
+#yiv9378720859 #yiv9378720859ygrp-mkp #yiv9378720859ads {margin-bottom:10px=
+;}#yiv9378720859 #yiv9378720859ygrp-mkp .yiv9378720859ad {padding:0 0;}#yiv=
+9378720859 #yiv9378720859ygrp-mkp .yiv9378720859ad p {margin:0;}#yiv9378720=
+859 #yiv9378720859ygrp-mkp .yiv9378720859ad a {color:#0000ff;text-decoratio=
+n:none;}#yiv9378720859 #yiv9378720859ygrp-sponsor #yiv9378720859ygrp-lc {fo=
+nt-family:Arial;}#yiv9378720859 #yiv9378720859ygrp-sponsor #yiv9378720859yg=
+rp-lc #yiv9378720859hd {margin:10px 0px;font-weight:700;font-size:78%;line-=
+height:122%;}#yiv9378720859 #yiv9378720859ygrp-sponsor #yiv9378720859ygrp-l=
+c .yiv9378720859ad {margin-bottom:10px;padding:0 0;}#yiv9378720859 #yiv9378=
+720859actions {font-family:Verdana;font-size:11px;padding:10px 0;}#yiv93787=
+20859 #yiv9378720859activity {background-color:#e0ecee;float:left;font-fami=
+ly:Verdana;font-size:10px;padding:10px;}#yiv9378720859 #yiv9378720859activi=
+ty span {font-weight:700;}#yiv9378720859 #yiv9378720859activity span:first-=
+child {text-transform:uppercase;}#yiv9378720859 #yiv9378720859activity span=
+ a {color:#5085b6;text-decoration:none;}#yiv9378720859 #yiv9378720859activi=
+ty span span {color:#ff7900;}#yiv9378720859 #yiv9378720859activity span .yi=
+v9378720859underline {text-decoration:underline;}#yiv9378720859 .yiv9378720=
+859attach {clear:both;display:table;font-family:Arial;font-size:12px;paddin=
+g:10px 0;width:400px;}#yiv9378720859 .yiv9378720859attach div a {text-decor=
+ation:none;}#yiv9378720859 .yiv9378720859attach img {border:none;padding-ri=
+ght:5px;}#yiv9378720859 .yiv9378720859attach label {display:block;margin-bo=
+ttom:5px;}#yiv9378720859 .yiv9378720859attach label a {text-decoration:none=
+;}#yiv9378720859 blockquote {margin:0 0 0 4px;}#yiv9378720859 .yiv937872085=
+9bold {font-family:Arial;font-size:13px;font-weight:700;}#yiv9378720859 .yi=
+v9378720859bold a {text-decoration:none;}#yiv9378720859 dd.yiv9378720859las=
+t p a {font-family:Verdana;font-weight:700;}#yiv9378720859 dd.yiv9378720859=
+last p span {margin-right:10px;font-family:Verdana;font-weight:700;}#yiv937=
+8720859 dd.yiv9378720859last p span.yiv9378720859yshortcuts {margin-right:0=
+;}#yiv9378720859 div.yiv9378720859attach-table div div a {text-decoration:n=
+one;}#yiv9378720859 div.yiv9378720859attach-table {width:400px;}#yiv9378720=
+859 div.yiv9378720859file-title a, #yiv9378720859 div.yiv9378720859file-tit=
+le a:active, #yiv9378720859 div.yiv9378720859file-title a:hover, #yiv937872=
+0859 div.yiv9378720859file-title a:visited {text-decoration:none;}#yiv93787=
+20859 div.yiv9378720859photo-title a, #yiv9378720859 div.yiv9378720859photo=
+-title a:active, #yiv9378720859 div.yiv9378720859photo-title a:hover, #yiv9=
+378720859 div.yiv9378720859photo-title a:visited {text-decoration:none;}#yi=
+v9378720859 div#yiv9378720859ygrp-mlmsg #yiv9378720859ygrp-msg p a span.yiv=
+9378720859yshortcuts {font-family:Verdana;font-size:10px;font-weight:normal=
+;}#yiv9378720859 .yiv9378720859green {color:#628c2a;}#yiv9378720859 .yiv937=
+8720859MsoNormal {margin:0 0 0 0;}#yiv9378720859 o {font-size:0;}#yiv937872=
+0859 #yiv9378720859photos div {float:left;width:72px;}#yiv9378720859 #yiv93=
+78720859photos div div {border:1px solid #666666;height:62px;overflow:hidde=
+n;width:62px;}#yiv9378720859 #yiv9378720859photos div label {color:#666666;=
+font-size:10px;overflow:hidden;text-align:center;white-space:nowrap;width:6=
+4px;}#yiv9378720859 #yiv9378720859reco-category {font-size:77%;}#yiv9378720=
+859 #yiv9378720859reco-desc {font-size:77%;}#yiv9378720859 .yiv9378720859re=
+plbq {margin:4px;}#yiv9378720859 #yiv9378720859ygrp-actbar div a:first-chil=
+d {margin-right:2px;padding-right:5px;}#yiv9378720859 #yiv9378720859ygrp-ml=
+msg {font-size:13px;font-family:Arial, helvetica, clean, sans-serif;}#yiv93=
+78720859 #yiv9378720859ygrp-mlmsg table {font-size:inherit;font:100%;}#yiv9=
+378720859 #yiv9378720859ygrp-mlmsg select, #yiv9378720859 input, #yiv937872=
+0859 textarea {font:99% Arial, Helvetica, clean, sans-serif;}#yiv9378720859=
+ #yiv9378720859ygrp-mlmsg pre, #yiv9378720859 code {font:115% monospace;}#y=
+iv9378720859 #yiv9378720859ygrp-mlmsg * {line-height:1.22em;}#yiv9378720859=
+ #yiv9378720859ygrp-mlmsg #yiv9378720859logo {padding-bottom:10px;}#yiv9378=
+720859 #yiv9378720859ygrp-msg p a {font-family:Verdana;}#yiv9378720859 #yiv=
+9378720859ygrp-msg p#yiv9378720859attach-count span {color:#1E66AE;font-wei=
+ght:700;}#yiv9378720859 #yiv9378720859ygrp-reco #yiv9378720859reco-head {co=
+lor:#ff7900;font-weight:700;}#yiv9378720859 #yiv9378720859ygrp-reco {margin=
+-bottom:20px;padding:0px;}#yiv9378720859 #yiv9378720859ygrp-sponsor #yiv937=
+8720859ov li a {font-size:130%;text-decoration:none;}#yiv9378720859 #yiv937=
+8720859ygrp-sponsor #yiv9378720859ov li {font-size:77%;list-style-type:squa=
+re;padding:6px 0;}#yiv9378720859 #yiv9378720859ygrp-sponsor #yiv9378720859o=
+v ul {margin:0;padding:0 0 0 8px;}#yiv9378720859 #yiv9378720859ygrp-text {f=
+ont-family:Georgia;}#yiv9378720859 #yiv9378720859ygrp-text p {margin:0 0 1e=
+m 0;}#yiv9378720859 #yiv9378720859ygrp-text tt {font-size:120%;}#yiv9378720=
+859 #yiv9378720859ygrp-vital ul li:last-child {border-right:none !important=
+;}#yiv9378720859 
+
+  
+------=_Part_2715770_1096281456.1442278181581
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"color:#000; background-color:#fff; font-family:He=
+lveticaNeue, Helvetica Neue, Helvetica, Arial, Lucida Grande, sans-serif;fo=
+nt-size:13px"><div id=3D"yui_3_16_0_1_1442278225828_2953"><span id=3D"yui_3=
+_16_0_1_1442278225828_3098">Wonderful article thanks for sharing this, just=
+ was meditating on mother  Kali and got this email. <br></span></div><=
+div id=3D"yui_3_16_0_1_1442278225828_3018"><br><span></span></div><div id=
+=3D"yui_3_16_0_1_1442278225828_3019"><span>Raghu <br></span></div><div id=
+=3D"yui_3_16_0_1_1442278225828_3049" dir=3D"ltr"><span>www.tarabalam.com</s=
+pan></div>  <br><div class=3D"qtdSeparateBR"><br><br></div><div style=3D"di=
+splay: block;" class=3D"yahoo_quoted"> <div style=3D"font-family: Helvetica=
+Neue, Helvetica Neue, Helvetica, Arial, Lucida Grande, sans-serif; font-siz=
+e: 13px;"> <div style=3D"font-family: HelveticaNeue, Helvetica Neue, Helvet=
+ica, Arial, Lucida Grande, sans-serif; font-size: 16px;"> <div dir=3D"ltr">=
+ <font face=3D"Arial" size=3D"2"> On Monday, September 14, 2015 8:43 PM, "n=
+ikhilashish@... [vedic-wisdom]" <vedic-wisdom@yahoogroups.com> =
+wrote:<br> </font> </div>  <br><br> <div class=3D"y_msg_container"><div id=
+=3D"yiv9378720859"><div>
+<span style=3D"display:none;"> </span>
+
+
+<div=
+ id=3D"yiv9378720859ygrp-mlmsg" style=3D"">
+  <div id=3D"yiv9378720859ygrp-=
+msg" style=3D"">
+
+
+    <div id=3D"yiv9378720859ygrp-text">
+      
+      
+  =
+    <div>"If you can't take a little bloody nose, maybe you ought to go bac=
+k home and crawl under your bed. It's not safe out here. It's wondrous with=
+ treasures to satiate desires both subtle and gross. But it's not for the t=
+imid." - Q, Star Trek TNG<br clear=3D"none"><br clear=3D"none">Who am I?<br=
+ clear=3D"none"><br clear=3D"none">Am I a body which is believed to have a =
+soul?<br clear=3D"none"><br clear=3D"none">I came into existence the moment=
+ this body was conceived. It verifies my being, validates my life. It has a=
+ brain that makes sense of the gibberish that is thrown at it, finds a purp=
+ose and leads me the way I am supposed to be led. My body also has a heart.=
+ It feels, it loves and makes me desire everything more and more. An organ =
+called soul is yet to be found.<br clear=3D"none"><br clear=3D"none">Then, =
+there is the point when my body exists but my brain and heart stop function=
+ing. I sometimes wonder if I am a body, how can I experience things that ar=
+e way beyond its extremities. If I am a body, I shouldn't be dead before my=
+ body is incinerated on the funeral pyre.<br clear=3D"none"><br clear=3D"no=
+ne">Perhaps, I am a soul which sometimes chooses to have a body.<br clear=
+=3D"none"><br clear=3D"none">I am here to learn, experience and discover. W=
+hat I know prevails even when my body does not. I'll also teach, share and =
+inspire; sometimes without my body's intervention. I know, this body is an =
+illusion although sometimes I prefer not to remember this fact so that I ca=
+n allow myself to indulge without worrying about the consequences and witne=
+ss whatever transpires.<br clear=3D"none"><br clear=3D"none">Once I have ex=
+perienced all there is to experience, learned whatever I need to learn, the=
+ illusion will help me break free from the life - death cycle and I'll retu=
+rn to my rightful place. But, if I am not careful, it will turn the cycle i=
+nto a perpetual trap. I can be addicted to various bonds. The blinding emot=
+ions will never let me remember the fact which I had chosen to forget tempo=
+rarily. Misguided by attachments, I'll be lost in a flurry of conflicting a=
+nomalies. If, as fate would have it, that happens, I'll be drawn here at th=
+e temple of the dark, ultimate truth.<br clear=3D"none"><br clear=3D"none">=
+This eerily calm place is called the Shmashan, the cremation ground - a gat=
+eway to both the heaven of moksh and the hell of rebirth. This place is whe=
+re empty shells turn to ash, the worthless is disposed of and myths are dis=
+pelled. It is so attuned to banishing the illusionary light that its mere m=
+ention maddens the ignorant and drives them away.<br clear=3D"none"><br cle=
+ar=3D"none">Detachment must come naturally - unabashed and free from all co=
+mforting lures. There can't be even a trace of any worldly affair.  I =
+must learn to separate the essence from the semblance. Once I have mastered=
+ the ensemble and the parts, I'll be free. My existence will be devoid of s=
+adness. I'll savor the pleasure in every possible way. Then, I'll get caugh=
+t again. Only then, I'll be able to understand that like my captivity, my f=
+reedom is also an illusion.<br clear=3D"none"><br clear=3D"none">The more I=
+ look at the funeral pyre, the more it intrigues me. First, the blistering =
+heat boils the flesh away from the bones; then, it chars them differently i=
+nto a single substance, ash. So many bodies, so different from each other a=
+nd yet, they all end up the same, indistinguishable from each other.<br cle=
+ar=3D"none"><br clear=3D"none">Dancing on a whim, flowing transcendentally,=
+ spreading warmth without bias, the fire that burns the funeral pyre needs =
+sustenance, produces smoke and leaves residue. It may brighten my surroundi=
+ngs, but it can't enlighten me.<br clear=3D"none"><br clear=3D"none">The fi=
+re that can enlighten me does not brighten anything at all. It is darker th=
+an the darkest corner of my psyche. It is omnipresent, relies on nothing an=
+d annihilates everything. The ignorant project it as a symbol of negativity=
+ the world over. The wise embrace it as the blessing of goddess Kali.<br cl=
+ear=3D"none"><br clear=3D"none">Goddess Kali is the presiding deity of the =
+Shmashan. She is the beginning, she is the end. A primal force that enchant=
+s everything, she destroys worldly bondages while blessing with divine plea=
+sures. She is the stark representation of the ultimate truth, she is the il=
+lusion. She is the one who dominates this universe. Damned or blessed, she =
+listens to all.<br clear=3D"none"><br clear=3D"none">I don't need to call h=
+er. I don't need complex procedures, long rituals or tongue twisting mantra=
+s to blend with her. All I need is Kalika Ashtak.<br clear=3D"none"><br cle=
+ar=3D"none">Kalika Ashtak is an eight versed hymn created by Adi Shankarach=
+arya. It encompasses the energy that existed before the inception of time. =
+It vibrates with the darkness that will prevail after everything else has p=
+erished. Everyone who should know it, knows it; many experience divine joy =
+reciting it; and some transcend the visible universe meditating on it. It c=
+an negate every negativity.<br clear=3D"none"><br clear=3D"none">I have my =
+share of negativity. It is way too potent for conventional means. It has a =
+much larger sphere of influence. It affects everything associated with me; =
+but, to my utter dismay, it hurts me the most.<br clear=3D"none"><br clear=
+=3D"none">Kalika Ashtak protects me from my own negativity. It engulfs my n=
+egativity with the darkness emanating from goddess Kali, transforms it into=
+ energy and channels it towards my Kundalini enabling me to achieve any goa=
+l.<br clear=3D"none"><br clear=3D"none">Tonight, it will enliven the Shmash=
+an for me.<br clear=3D"none"><br clear=3D"none"><a rel=3D"nofollow" shape=
+=3D"rect" target=3D"_blank" href=3D"http://chronicles-of-a-sadhak.blogspot.=
+com/">http://chronicles-of-a-sadhak.blogspot.com/</a><br clear=3D"none"></d=
+iv><div><span><br class=3D"yiv9378720859yui-cursor" clear=3D"none"></span><=
+/div>
+
+    </div>
+     
+
+    
+    <div style=3D"color:#fff;height:0;"></div=
+></div>
+
+
+</div><style type=3D"text/css">
+#yiv9378720859 #yiv9378720859 --
+=
+  #yiv9378720859ygrp-mkp {
+border:1px solid #d8d8d8;font-family:Arial;margi=
+n:10px 0;padding:0 10px;}
+
+#yiv9378720859 #yiv9378720859ygrp-mkp hr {
+borde=
+r:1px solid #d8d8d8;}
+
+#yiv9378720859 #yiv9378720859ygrp-mkp #yiv9378720859=
+hd {
+color:#628c2a;font-size:85%;font-weight:700;line-height:122%;margin:10=
+px 0;}
+
+#yiv9378720859 #yiv9378720859ygrp-mkp #yiv9378720859ads {
+margin-bo=
+ttom:10px;}
+
+#yiv9378720859 #yiv9378720859ygrp-mkp .yiv9378720859ad {
+paddi=
+ng:0 0;}
+
+#yiv9378720859 #yiv9378720859ygrp-mkp .yiv9378720859ad p {
+margin=
+:0;}
+
+#yiv9378720859 #yiv9378720859ygrp-mkp .yiv9378720859ad a {
+color:#000=
+0ff;text-decoration:none;}
+#yiv9378720859 #yiv9378720859ygrp-sponsor #yiv93=
+78720859ygrp-lc {
+font-family:Arial;}
+
+#yiv9378720859 #yiv9378720859ygrp-sp=
+onsor #yiv9378720859ygrp-lc #yiv9378720859hd {
+margin:10px 0px;font-weight:=
+700;font-size:78%;line-height:122%;}
+
+#yiv9378720859 #yiv9378720859ygrp-spo=
+nsor #yiv9378720859ygrp-lc .yiv9378720859ad {
+margin-bottom:10px;padding:0 =
+0;}
+
+#yiv9378720859 #yiv9378720859actions {
+font-family:Verdana;font-size:1=
+1px;padding:10px 0;}
+
+#yiv9378720859 #yiv9378720859activity {
+background-co=
+lor:#e0ecee;float:left;font-family:Verdana;font-size:10px;padding:10px;}
+
+#=
+yiv9378720859 #yiv9378720859activity span {
+font-weight:700;}
+
+#yiv93787208=
+59 #yiv9378720859activity span:first-child {
+text-transform:uppercase;}
+
+#y=
+iv9378720859 #yiv9378720859activity span a {
+color:#5085b6;text-decoration:=
+none;}
+
+#yiv9378720859 #yiv9378720859activity span span {
+color:#ff7900;}
+
+=
+#yiv9378720859 #yiv9378720859activity span .yiv9378720859underline {
+text-d=
+ecoration:underline;}
+
+#yiv9378720859 .yiv9378720859attach {
+clear:both;dis=
+play:table;font-family:Arial;font-size:12px;padding:10px 0;width:400px;}
+
+#=
+yiv9378720859 .yiv9378720859attach div a {
+text-decoration:none;}
+
+#yiv9378=
+720859 .yiv9378720859attach img {
+border:none;padding-right:5px;}
+
+#yiv9378=
+720859 .yiv9378720859attach label {
+display:block;margin-bottom:5px;}
+
+#yiv=
+9378720859 .yiv9378720859attach label a {
+text-decoration:none;}
+
+#yiv93787=
+20859 blockquote {
+margin:0 0 0 4px;}
+
+#yiv9378720859 .yiv9378720859bold {
+=
+font-family:Arial;font-size:13px;font-weight:700;}
+
+#yiv9378720859 .yiv9378=
+720859bold a {
+text-decoration:none;}
+
+#yiv9378720859 dd.yiv9378720859last =
+p a {
+font-family:Verdana;font-weight:700;}
+
+#yiv9378720859 dd.yiv937872085=
+9last p span {
+margin-right:10px;font-family:Verdana;font-weight:700;}
+
+#yi=
+v9378720859 dd.yiv9378720859last p span.yiv9378720859yshortcuts {
+margin-ri=
+ght:0;}
+
+#yiv9378720859 div.yiv9378720859attach-table div div a {
+text-deco=
+ration:none;}
+
+#yiv9378720859 div.yiv9378720859attach-table {
+width:400px;}=
+
+
+#yiv9378720859 div.yiv9378720859file-title a, #yiv9378720859 div.yiv93787=
+20859file-title a:active, #yiv9378720859 div.yiv9378720859file-title a:hove=
+r, #yiv9378720859 div.yiv9378720859file-title a:visited {
+text-decoration:n=
+one;}
+
+#yiv9378720859 div.yiv9378720859photo-title a, #yiv9378720859 div.yi=
+v9378720859photo-title a:active, #yiv9378720859 div.yiv9378720859photo-titl=
+e a:hover, #yiv9378720859 div.yiv9378720859photo-title a:visited {
+text-dec=
+oration:none;}
+
+#yiv9378720859 div#yiv9378720859ygrp-mlmsg #yiv9378720859yg=
+rp-msg p a span.yiv9378720859yshortcuts {
+font-family:Verdana;font-size:10p=
+x;font-weight:normal;}
+
+#yiv9378720859 .yiv9378720859green {
+color:#628c2a;=
+}
+
+#yiv9378720859 .yiv9378720859MsoNormal {
+margin:0 0 0 0;}
+
+#yiv937872085=
+9 o {
+font-size:0;}
+
+#yiv9378720859 #yiv9378720859photos div {
+float:left;w=
+idth:72px;}
+
+#yiv9378720859 #yiv9378720859photos div div {
+border:1px solid=
+ #666666;height:62px;overflow:hidden;width:62px;}
+
+#yiv9378720859 #yiv93787=
+20859photos div label {
+color:#666666;font-size:10px;overflow:hidden;text-a=
+lign:center;white-space:nowrap;width:64px;}
+
+#yiv9378720859 #yiv9378720859r=
+eco-category {
+font-size:77%;}
+
+#yiv9378720859 #yiv9378720859reco-desc {
+fo=
+nt-size:77%;}
+
+#yiv9378720859 .yiv9378720859replbq {
+margin:4px;}
+
+#yiv9378=
+720859 #yiv9378720859ygrp-actbar div a:first-child {
+margin-right:2px;paddi=
+ng-right:5px;}
+
+#yiv9378720859 #yiv9378720859ygrp-mlmsg {
+font-size:13px;fo=
+nt-family:Arial, helvetica, clean, sans-serif;}
+
+#yiv9378720859 #yiv9378720=
+859ygrp-mlmsg table {
+font-size:inherit;font:100%;}
+
+#yiv9378720859 #yiv937=
+8720859ygrp-mlmsg select, #yiv9378720859 input, #yiv9378720859 textarea {
+f=
+ont:99% Arial, Helvetica, clean, sans-serif;}
+
+#yiv9378720859 #yiv937872085=
+9ygrp-mlmsg pre, #yiv9378720859 code {
+font:115% monospace;}
+
+#yiv937872085=
+9 #yiv9378720859ygrp-mlmsg * {
+line-height:1.22em;}
+
+#yiv9378720859 #yiv937=
+8720859ygrp-mlmsg #yiv9378720859logo {
+padding-bottom:10px;}
+
+
+#yiv93787208=
+59 #yiv9378720859ygrp-msg p a {
+font-family:Verdana;}
+
+#yiv9378720859 #yiv9=
+378720859ygrp-msg p#yiv9378720859attach-count span {
+color:#1E66AE;font-wei=
+ght:700;}
+
+#yiv9378720859 #yiv9378720859ygrp-reco #yiv9378720859reco-head {=
+
+color:#ff7900;font-weight:700;}
+
+#yiv9378720859 #yiv9378720859ygrp-reco {
+=
+margin-bottom:20px;padding:0px;}
+
+#yiv9378720859 #yiv9378720859ygrp-sponsor=
+ #yiv9378720859ov li a {
+font-size:130%;text-decoration:none;}
+
+#yiv9378720=
+859 #yiv9378720859ygrp-sponsor #yiv9378720859ov li {
+font-size:77%;list-sty=
+le-type:square;padding:6px 0;}
+
+#yiv9378720859 #yiv9378720859ygrp-sponsor #=
+yiv9378720859ov ul {
+margin:0;padding:0 0 0 8px;}
+
+#yiv9378720859 #yiv93787=
+20859ygrp-text {
+font-family:Georgia;}
+
+#yiv9378720859 #yiv9378720859ygrp-t=
+ext p {
+margin:0 0 1em 0;}
+
+#yiv9378720859 #yiv9378720859ygrp-text tt {
+fon=
+t-size:120%;}
+
+#yiv9378720859 #yiv9378720859ygrp-vital ul li:last-child {
+b=
+order-right:none !important;
+}
+#yiv9378720859 
+</style></div><br><br></div>=
+  </div> </div>  </div></div></body></html>
+------=_Part_2715770_1096281456.1442278181581--
+
+

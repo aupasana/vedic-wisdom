@@ -1,0 +1,597 @@
+From manibhushan@...  Wed Feb 17 11:07:49 2016
+Return-Path: <manibhushan@...>
+X-Sender: manibhushan@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 900 invoked by uid 102); 6 Nov 2015 05:19:38 -0000
+X-Received: from unknown (HELO mtaq1.grp.bf1.yahoo.com) (10.193.84.32)
+  by m15.grp.bf1.yahoo.com with SMTP; 6 Nov 2015 05:19:38 -0000
+X-Received: (qmail 2840 invoked from network); 6 Nov 2015 05:19:38 -0000
+X-Received: from unknown (HELO mta1004.groups.mail.ne1.yahoo.com) (98.138.100.119)
+  by mtaq1.grp.bf1.yahoo.com with SMTP; 6 Nov 2015 05:19:38 -0000
+X-Original-Return-Path: <manibhushan@...>
+X-Received-SPF: pass (domain of yahoo.com designates 98.138.91.148 as permitted sender)
+X-YMailISG: HXnooWAWLDvTugzcLruzTu.BXORBgK0NBveYb0DBzLowCWm.
+ wqcffyJUKvD1NLpbSy3gBC_sg6Lj11Nf7pd67w3k8eX1mdpbaIt96805rFLa
+ kPTZqrk631d82XsG4smpQo5OXbY9J8e66zQpa1.Mo2xFz.WFufN8DrQMOrTe
+ d8qT5jxa_aw8nHkX1hyrQ__RDVO1PoyLyzhKvdK.UYD0lAS9kfkX3fs7Bs7C
+ wK3xlytSfitASbYztiQMSQUpriS8z0jmQx2KMo1biHLr0I5GuZHKUsfN8kyn
+ 0RMFYkaWOyfuQQNdNElXOhYXSSaiHcWKVWOF1vUjPM3FFRnLACf1gc..zRk4
+ Aspvwd3CxyR32RTsXhyOOdD0zDimWPLzzhYF.o9rWpcO2Jo4uDLUu1oY3pzn
+ Ow2h_HcQQ1cYYjiqHtGI4T4vb7kCqQiIH2qZVcON2a_nXcmFVcMM.oyeVtod
+ DllW22Wb85fGoCYa91MfQ7_oQBRh0sy1rKW6yQdhcub0cnn5s5IDeaKaEQRQ
+ Y2Vvv9POVSCyLBmAyr64TsmgutUozlhsvO0dB0VTVppm89zd1XbbOcOZxNvO
+ OICpNEdXldgiYk4FPQq4Y0cQbw2peiGVqajiQQ17RwLOsIYJviqk8d0xZcwW
+ UuzgPyp9H9W2B9HlFK6ZvxRGMVZeR4DygUdy2k7dXOmgGYfbrIJai6nS9APF
+ BDICxfHTuLV8m.OaFUdiNMDazFX26sGvfMSCTcDpluIjVqwax.iHBbJI2KeQ
+ uXWaZF1WLo15BkH6_miRMKwYIu4nZN4MP.N4cB6WEDPPEwnRWMnqq2K26Uhg
+ Tk1WnOVAv5ouz1DbvRBGukLrb.diR75EaXlL6gNq9z39bHWdhjNgYFCjgadB
+ vg6qEafaNT0qrFmpHRFD3KgqZxOtc7qMtWv.JX2pmxKZEqSeH9ImFSIZY_Qm
+ SP1B3vhx5pvbN_JK.qZGv7YQI8evOHPnYGDUGTuxDCtTc144L6nlPZdJ12k3
+ _Kif5ERqOCbBi70Iz2F2DL44WpEWmpH7xhMYeSBYlbhKPYcuiL.eiIIyCyhx
+ 4EdEKqz87vnqbzxuxU00.8XUVfRUDA0g8rt4Y7ski1lPw56qz6ZxXfzV_U2s
+ VgNu0fzq5HENY8Szo8pUwR3m3KL8PudOpyjHxNwE_J9pp2Y89OyIosLrEebN
+ 5sevCmcizTlCqGevtR8QokrbgYMph9ZC4T8RGZ8_GAEs7nICusJiN9fDiRQy
+ PCvcDG1Wm.J0NlLoyvRvIFkSNjk9ilWm7C4yDs8fU3m8CGKfNW9i4Ql9nbgL
+ yHLkIVpnEda3CpY2RcThPux89nvcYt_bMf_a8GqIlv8Xy7qI2PZZ320ZKlBq
+ VYOl4MZ47GK3y6Z8Z3nnNPLSyDikIZ3oX_OVU3GxK1pQ6QYZCY5bz0NTzhXQ
+ d6LXFMlwx0NMhVsQl.Te_wiqKhyYNDgOLCLRiOrgxuTDip6ldUTYGhuyiGhE
+ fo3yua7NsoR9bzJmfDEo3oOKVHRDytGmXe6s.TeooN55lR8g6EMqt_ShMaB0
+ Vu9GXTeoB1wlPydxDKNuQo_yO3BNQfDHgME096U9Y7L.xHwmkj7Sx4I5Q4Nz
+ UhdVqWMJbnFvggyaBWAIq0dOzLO3MndO8bgxSQqrJr0JeGRwb7v0NDuOqBAL
+ toJW.5j.z3PPbZU-
+Authentication-Results: mta1004.groups.mail.ne1.yahoo.com  from=yahoo.com; domainkeys=neutral (no sig);  from=yahoo.com; dkim=pass (ok)
+X-Received: from 127.0.0.1  (EHLO nm18-vm3.bullet.mail.ne1.yahoo.com) (98.138.91.148)
+  by mta1004.groups.mail.ne1.yahoo.com with SMTPS; Fri, 06 Nov 2015 05:19:37 +0000
+X-Received: from [98.138.100.115] by nm18.bullet.mail.ne1.yahoo.com with NNFMP; 06 Nov 2015 05:19:37 -0000
+X-Received: from [98.138.87.11] by tm106.bullet.mail.ne1.yahoo.com with NNFMP; 06 Nov 2015 05:19:37 -0000
+X-Received: from [127.0.0.1] by omp1011.mail.ne1.yahoo.com with NNFMP; 06 Nov 2015 05:19:37 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 700289.22056.bm@...
+X-YMail-OSG: e7Nrs8AVM1l2eGQ4uP.w0qg_lk.2ojWGBlADegFov1UOZG7Byg60vQc5GXnJ5X7
+ PY8QE2vcvV9Expk_rB0bpISKbTY6eeKzxdCXZAKu7o4ANl4YZFtibWku1X6Hhz22wzCcOZKG_00N
+ ItAArpgaQGY8581gU8PNZKf7VpU2fpJEegxgiQDsyv5zuHwv68.RcYEj1Q63yeLxFbla9xYJH7i0
+ MusxuW4wDVSewAvNQ7IfdcEnjXz4rhKfH_LRdl3Re1iDgULnJYbZa3YbFc17h5iT6Z7b7lpQXZDx
+ scE44GkzawWzMdPCoOvtQvs7qUJnupfDpJpmV4j1MkISSgABF2MuflXWN2tFn4zEe2oQodf48DeY
+ iHDwbN8hc4XmIU2bguuUEmZUg9pFJW9FD4IcpbD6M3v40yDhmhjGGN2Dpaf2Xbu.JKUVIwlnImYN
+ dyKzruNImymlShwVT99XVs0oWyiX_YF9HAgzu2RjcZzG1ExjCJJ9x6LjgE6xgxMgL_KJCHlBZaIN
+ gsGliKR18jy89jbM3Hw--
+X-Received: by 98.138.105.240; Fri, 06 Nov 2015 05:19:37 +0000 
+Date: Fri, 6 Nov 2015 05:19:11 +0000 (UTC)
+To: "rajarshi nandy rajarshi14@... [vedic-wisdom]" <vedic-wisdom@yahoogroups.com>
+Message-ID: <1306292536.550684.1446787151969.JavaMail.yahoo@...>
+In-Reply-To: <1533955927.489312.1446741419288.JavaMail.yahoo@...>
+References: <1533955927.489312.1446741419288.JavaMail.yahoo@...>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_550683_371717997.1446787151951"
+Content-Length: 35892
+X-Originating-IP: 98.138.100.119
+Subject: Re: [vedic-wisdom] Re: Homam
+X-Yahoo-Group-Post: member; u=88547393; y=ibzVN7jDzS6-arWTB7v16-4gH4T8oe5eWsiBTDh01pfSd1NMQYA
+X-Yahoo-Profile: manibhushan
+From: ManiBhushan surya <manibhushan@...>
+
+
+------=_Part_550683_371717997.1446787151951
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+ blockquote, div.yahoo_quoted { margin-left: 0 !important; border-left:1px =
+#715FFA solid !important;  padding-left:1ex !important; background-color:wh=
+ite !important; }  Namasthe Rajarshiji,
+You =C2=A0have explained =C2=A0ever=
+ything like a =C2=A0 Raja Rushi .
+Thanks for sharing your experience and fo=
+r your subtle but significant =C2=A0guidance. I was doing =C2=A0namam chama=
+kam. While =C2=A0chanting the modalities about homam in chamakam, =C2=A0I s=
+tarted developing interest in doing homam.=C2=A0Before starting homam I mad=
+e so many enquiries and searched =C2=A0online .Finally I could get =C2=A0 I=
+nto pvr web site. =C2=A0 I was so involved I was doing homam for 2 to 3 hrs=
+. Not less than one and half hr.=C2=A0=C2=A0Thanq. =C2=A0Even I feel that t=
+o approach supreme no rituals are required . It is enough to have love. =C2=
+=A0You are right . =C2=A0We get annoyed if some one says that it is wrong =
+=C2=A0path and it is right path. Every path that takes us to supreme is rig=
+ht , I believe. =C2=A0But because of experience of shocks I have to stall h=
+omam. May be it is gods will that I should do silent sadhana. =C2=A0May be =
+if I was not having fever I would have continued. I was down with fever. It=
+ changed everything.You =C2=A0by sharing your experience =C2=A0inspired =C2=
+=A0me =C2=A0. Thanq. You r right.If God wills =C2=A0I start my homam again.=
+ I want to desperately. =C2=A0I am being pulled into this . I don't know th=
+e reason.=C2=A0Thank s =C2=A0once again. Next time I say to myself that I a=
+m not alone doing this without =C2=A0 any =C2=A0guru and =C2=A0against =C2=
+=A0tradition.=C2=A0
+Mani
+
+Sent from Yahoo Mail for iPad
+
+
+On Thursday, Nove=
+mber 5, 2015, 10:07 PM, rajarshi nandy rajarshi14@... [vedic-wisdom=
+] <vedic-wisdom@yahoogroups.com> wrote:
+
+=C2=A0   
+
+Namaste,
+I was seeing t=
+his thread. Two small comments, feel free to ignore them if they don't make=
+ sense.
+Firstly it is indeed true that for many traditional practices a Gur=
+u is needed, however it is neither sanguine nor fail-proof, by which I mean=
+ there are often cases where even Guru may not be able to save a disciple f=
+rom a certain kind of experience. One of the main reasons being in this poi=
+nt of Kali Yuga realistically speaking getting a Guru who has the Shakti an=
+d the Divine connect to pull a disciple off or cushion the disciple from al=
+l experiences or prepare the disciple properly and make experiences digesti=
+ble is quite rare to find. Gurus are many, but Gurus who can really control=
+ these stuff and give the right kind of Shakti are very very rare, and it d=
+oes not matter whether they are in some sampradaya or outside of all sampra=
+daya.=C2=A0
+In such an environment doing ones own sadhana without waiting f=
+or a formal Guru is not a bad idea. Regarding homas there are two kinds of =
+homas. One where it is a process to connect to God using Agni Tattwa. When =
+one prays in a temple to an idol one is trying to use Prithiwi Tattwa. Othe=
+rwise, in principle, both are similar. Of course practical differences exis=
+t and that is due to the difference in the nature of the two great elements=
+.=C2=A0
+Then there is the homa done for Kriya-s or specific results. That i=
+s complex and may require guidance. But I think PVR mentions in his manuals=
+ that he does not encourage such homas or one should ideally use these only=
+ for the purpose of worshiping deities.
+
+I started my first homa in 2007 wh=
+en I did not know PVR or even this website. Infact I come from an environme=
+nt when is not particularly religious or ritualistic and I had frankly neve=
+r even seen a homa. But the year before that I had a strange and chance enc=
+ounter with a spiritual man - who refuses to be addressed as a Guru - and h=
+e inspired me to try out spiritualiy. I became curious and started sadhana =
+with mantra japa. Then one day I felt a strong desire to do homas. I asked =
+some people around me and all of them unanimously told me not to do so. I s=
+till did anyway. =C2=A0Since then it has been nearly 9 years I have been do=
+ing homas to different deities. Of course in between now and then I have co=
+me across more advaced yogis who have kidly helped me or directed me or tol=
+d me a step here and step there, rest I just kept walking. This led to some=
+ experiences too over the years. But none of these yogis were really tradit=
+ional Gurus, nor did anyone ever give me formal diksha.
+One of the main sad=
+hanas which I was fortunate enough to do was Chandi homas. I remember one d=
+ay I came across a very traditional individual who was shocked when I told =
+him that I do this sadhana. He insisted that it cannot be done like this an=
+d it needs a guru and a diksha otherwise strong negative consequences are b=
+ound to come due to the wrath of the Mother. Now I tend to get bit aggressi=
+ve when I find condescending people. So I told him that I have done more th=
+an 500 Chandi homas (after which I have stopped counting) and not only done=
+ them inside my home but in ancient and powerful Shakti peethas, in deserte=
+d locales, in off beat places, but places fit for Shakti sadhana, where man=
+y ordinary people would not venture easily. Now if he really believed what =
+he said, that would mean that the Mother must have allowed me to do these, =
+for I did not face any wrath but only more opportunities to intensify the s=
+adhana. So I am assuming the big boss is OK with me doing things in a non-t=
+raditional fashion. He had nothing more to say.=C2=A0
+I am not saying or su=
+ggesting that tradition is wrong, it is there for a purpose but getting the=
+ spirit of the rules in Tradition is far more important than blind followin=
+g of the same. Traditions exist for the Deity, not the other way round. And=
+ given the point in time where we are, I am afraid there will be more and m=
+ore souls who will worship and eventually interact with Deities outside of =
+formal traditions. For a soul who has done sadhana and wants to do so, will=
+ always do so, Nature and the Deity will make it happen, irrespective of wh=
+ether s/he lines up with a tradition or not, whether s/he is born in India =
+or South Pole. This is the new reality.
+On the other hand if the mind has d=
+oubts about consequences of going in a non-traditional manner, then one is =
+better off not doing so. Because doubts make the sadhana go wrong, and the =
+mind itself will cause more obstructions that anyone or anything else. Mind=
+ can be our best friend in the path, or our worst enemy.
+
+* =C2=A0 =C2=A0 *=
+ =C2=A0 =C2=A0 *
+Coming to the dream that you saw, I would say it was a ver=
+y significant dream. =C2=A0Snakes in dreams can have various meanings. Not =
+all are good. But this one seems to me like a indication of a very specific=
+ kind of spiritual expeirence to come, or would have come to you, had you n=
+ot made any change =C2=A0in your routine sadhana.=C2=A0
+Spirituality has tw=
+o parts. We start off with a desire to experience God, we do whatever we th=
+ink can help us in that, which can lead to experiences which tell us we may=
+be come a bit closer. Then comes digesting them. To do so one has to have a=
+ stable mental and emotional condition.
+From what you described my sanguine=
+ feeling is that a strong experience was coming your way, but doubt and fea=
+r stopped it and made it recede back. Now spiritual experiences are not lik=
+e daily states of consciousness. If they were, they would be no good. They =
+are different. And that came make us feel unnerved at times.
+Did this happe=
+n due to homa? I think it was destined for you at some point. It could as w=
+ell have happened one early morning as you were having a cup of tea without=
+ lifting a finger. What sadhana does - by which I mean homa, japa, yoga wha=
+tever - is change the patterns of karma and accelerate the experiences that=
+ would have come to you anyway. But more than that it helps your mind-body =
+to stabilize which is vital to be able to integrate and digest an experienc=
+e when it comes.=C2=A0
+So without thinking about it I would suggest that yo=
+u keep doing sadhana, whatever it maybe. As you do more, you nervous system=
+ will grow stronger, your emotional, and mental sheath with become calmer a=
+nd stabler and maybe the next time the Snake comes you won't feel unnerved!=
+ -:)
+Wish you all the best.
+-Regards=C2=A0Rajarshi
+
+
+
+I have a hundred live=
+s before me yet/ To grasp thee in, O spirit ethereal, / Be sure I will with=
+ heart insatiate/ Pursue thee like a hunter through them all. -Sri Aurobind=
+o
+     From: "ManiBhushan surya manibhushan@... [vedic-wisdom]" <vedi=
+c-wisdom@yahoogroups.com>
+ To: "mitrabasuc@... [vedic-wisdom]" <vedic=
+-wisdom@yahoogroups.com> 
+ Sent: Thursday, 5 November 2015 9:11 PM
+ Subject=
+: Re: [vedic-wisdom] Re: Homam
+  
+=C2=A0    Dear =C2=A0Mitra =C2=A0
+Namaste=
+.=C2=A0
+
+=C2=A0Even I was curious . The mantras I was chanting were reverbe=
+rating in me in the night and some times in the day. One night I don't know=
+ whether to call it dream but one snake with radiating light chanting the m=
+antra =C2=A0was =C2=A0 Coming nearer to my head as if it was trying to take=
+ me into that. Then I waved it =C2=A0with =C2=A0no no . Immediately it disa=
+ppeared. Surprisingly the reverberation also stopped. After two days I was =
+down with fever and electric shocks.
+I am not doing homam. My father =C2=A0=
+is against it from=C2=A0=C2=A0 the beginning. This incident made him =C2=A0=
+take =C2=A0a strong stand that it is no good.
+=C2=A0I =C2=A0am also looking=
+ for some one explain why is this happened to me. I never experienced that =
+type of shocks . =C2=A0The snake. Oh my god how can I forget it . =C2=A0So =
+strange.=C2=A0
+
+Thanks=C2=A0Mani=C2=A0=C2=A0
+
+
+
+Sent from Yahoo Mail for iP=
+ad
+
+
+
+On Thursday, November 5, 2015, 9:34 AM, mitrabasuc@... [vedic-w=
+isdom] <vedic-wisdom@yahoogroups.com> wrote:
+=C2=A0   Dear Mani,My Respect =
+to you,I am curious if you could get the reason/logic of such electric shoc=
+ks. I wish Sh. Narsimha ji or somebody with better understanding in this gr=
+oup could throw a light on this experience.
+
+  
+ 
+
+  
+
+     
+ 
+
+
+------=_Part_550683_371717997.1446787151951
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+
+                <style type=3D"text/css" scoped=3D"">
+                    =
+blockquote, div.yahoo_quoted {
+                        margin-left: 0 !impo=
+rtant;
+                        border-left:1px #715FFA solid !important;
+  =
+                      padding-left:1ex !important;
+                        =
+background-color:white !important;
+                    }
+                </=
+style>
+                Namasthe Rajarshiji,<div><br></div><div>You  ha=
+ve explained  everything like a   Raja Rushi .</div><div><br><div=
+>Thanks for sharing your experience and for your subtle but significant &nb=
+sp;guidance. I was doing  namam chamakam. While  chanting the mod=
+alities about homam in chamakam,  I started developing interest in doi=
+ng homam.</div><div> Before starting homam I made so many enquiries an=
+d searched  online .Finally I could get   Into pvr web site. &nbs=
+p; I was so involved I was doing homam for 2 to 3 hrs. Not less than one an=
+d half hr. </div><div> </div><div>Thanq.  Even I feel that t=
+o approach supreme no rituals are required . It is enough to have love. &nb=
+sp;You are right .  We get annoyed if some one says that it is wrong &=
+nbsp;path and it is right path. Every path that takes us to supreme is righ=
+t , I believe.  But because of experience of shocks I have to stall ho=
+mam. May be it is gods will that I should do silent sadhana.  May be i=
+f I was not having fever I would have continued. I was down with fever. It =
+changed everything.You  <span style=3D"-webkit-text-size-adjust: auto;=
+">by sharing your experience  inspired </span><span style=3D"-webkit-t=
+ext-size-adjust: auto;"> me  . Thanq. You r right.</span></div><d=
+iv><span style=3D"-webkit-text-size-adjust: auto;">If God wills  I sta=
+rt my homam again. I want to desperately.  I am being pulled into this=
+ . I don't know the reason. </span></div><div>Thank s  once again=
+. Next time I say to myself that I am not alone doing this without   a=
+ny  guru and  against  tradition.</div><div> </div><div=
+><br></div><div>Mani<br><br><a href=3D"https://yho.com/footer0">Sent from Y=
+ahoo Mail for iPad</a><br><br><p style=3D"font-size: 15px; color: #715FFA; =
+padding-top: 0; margin-top: 0">On Thursday, November 5, 2015, 10:07 PM, raj=
+arshi nandy rajarshi14@... [vedic-wisdom] <vedic-wisdom@yahoogro=
+ups.com> wrote:</p><blockquote class=3D"iosymail">
+<span style=3D"displa=
+y:none;"> </span>
+
+
+<div id=3D"ygrp-mlmsg" style=3D"">
+  <div id=3D"yg=
+rp-msg" style=3D"">
+
+
+    <div id=3D"ygrp-text">
+      
+      
+      <p></p=
+><div style=3D"color:#000;background-color:#fff;font-family:HelveticaNeue, =
+Helvetica Neue, Helvetica, Arial, Lucida Grande, Sans-Serif;font-size:12px;=
+"><div><span>Namaste,</span></div><div><span><br clear=3D"none"></span></di=
+v><div id=3D"yui_3_16_0_1_1446544625582_184339"><span id=3D"yui_3_16_0_1_14=
+46544625582_184369">I was seeing this thread. Two small comments, feel free=
+ to ignore them if they don't make sense.</span></div><div id=3D"yui_3_16_0=
+_1_1446544625582_184339"><span><br clear=3D"none"></span></div><div id=3D"y=
+ui_3_16_0_1_1446544625582_184339"><span id=3D"yui_3_16_0_1_1446544625582_18=
+4425">Firstly it is indeed true that for many traditional practices a Guru =
+is needed, however it is neither sanguine nor fail-proof, by which I mean t=
+here are often cases where even Guru may not be able to save a disciple fro=
+m a certain kind of experience. One of the main reasons being in this point=
+ of Kali Yuga realistically speaking getting a Guru who has the Shakti and =
+the Divine connect to pull a disciple off or cushion the disciple from all =
+experiences or prepare the disciple properly and make experiences digestibl=
+e is quite rare to find. Gurus are many, but Gurus who can really control t=
+hese stuff and give the right kind of Shakti are very very rare, and it doe=
+s not matter whether they are in some sampradaya or outside of all samprada=
+ya. </span></div><div id=3D"yui_3_16_0_1_1446544625582_184339"><span><=
+br clear=3D"none"></span></div><div id=3D"yui_3_16_0_1_1446544625582_184339=
+"><span id=3D"yui_3_16_0_1_1446544625582_184727">In such an environment doi=
+ng ones own sadhana without waiting for a formal Guru is not a bad idea. Re=
+garding homas there are two kinds of homas. One where it is a process to co=
+nnect to God using Agni Tattwa. When one prays in a temple to an idol one i=
+s trying to use Prithiwi Tattwa. Otherwise, in principle, both are similar.=
+ Of course practical differences exist and that is due to the difference in=
+ the nature of the two great elements. </span></div><div id=3D"yui_3_1=
+6_0_1_1446544625582_184339"><span><br clear=3D"none"></span></div><div dir=
+=3D"ltr" id=3D"yui_3_16_0_1_1446544625582_184339"><span id=3D"yui_3_16_0_1_=
+1446544625582_184813">Then there is the homa done for Kriya-s or specific r=
+esults. That is complex and may require guidance. But I think PVR mentions =
+in his manuals that he does not encourage such homas or one should ideally =
+use these only for the purpose of worshiping deities.</span></div><div dir=
+=3D"ltr" id=3D"yui_3_16_0_1_1446544625582_184339"><span><br clear=3D"none">=
+</span></div><div dir=3D"ltr" id=3D"yui_3_16_0_1_1446544625582_184339"><spa=
+n><br clear=3D"none"></span></div><div dir=3D"ltr" id=3D"yui_3_16_0_1_14465=
+44625582_184339"><span id=3D"yui_3_16_0_1_1446544625582_184846">I started m=
+y first homa in 2007 when I did not know PVR or even this website. Infact I=
+ come from an environment when is not particularly religious or ritualistic=
+ and I had frankly never even seen a homa. But the year before that I had a=
+ strange and chance encounter with a spiritual man - who refuses to be addr=
+essed as a Guru - and he inspired me to try out spiritualiy. I became curio=
+us and started sadhana with mantra japa. Then one day I felt a strong desir=
+e to do homas. I asked some people around me and all of them unanimously to=
+ld me not to do so. I still did anyway.  Since then it has been nearly=
+ 9 years I have been doing homas to different deities. Of course in between=
+ now and then I have come across more advaced yogis who have kidly helped m=
+e or directed me or told me a step here and step there, rest I just kept wa=
+lking. This led to some experiences too over the years. But none of these y=
+ogis were really traditional Gurus, nor did anyone ever give me formal diks=
+ha.</span></div><div dir=3D"ltr" id=3D"yui_3_16_0_1_1446544625582_184339"><=
+span><br clear=3D"none"></span></div><div dir=3D"ltr" id=3D"yui_3_16_0_1_14=
+46544625582_184339"><span id=3D"yui_3_16_0_1_1446544625582_185296">One of t=
+he main sadhanas which I was fortunate enough to do was Chandi homas. I rem=
+ember one day I came across a very traditional individual who was shocked w=
+hen I told him that I do this sadhana. He insisted that it cannot be done l=
+ike this and it needs a guru and a diksha otherwise strong negative consequ=
+ences are bound to come due to the wrath of the Mother. Now I tend to get b=
+it aggressive when I find condescending people. So I told him that I have d=
+one more than 500 Chandi homas (after which I have stopped counting) and no=
+t only done them inside my home but in ancient and powerful Shakti peethas,=
+ in deserted locales, in off beat places, but places fit for Shakti sadhana=
+, where many ordinary people would not venture easily. Now if he really bel=
+ieved what he said, that would mean that the Mother must have allowed me to=
+ do these, for I did not face any wrath but only more opportunities to inte=
+nsify the sadhana. So I am assuming the big boss is OK with me doing things=
+ in a non-traditional fashion. He had nothing more to say. </span></di=
+v><div dir=3D"ltr" id=3D"yui_3_16_0_1_1446544625582_184339"><span><br clear=
+=3D"none"></span></div><div dir=3D"ltr" id=3D"yui_3_16_0_1_1446544625582_18=
+4339"><span id=3D"yui_3_16_0_1_1446544625582_185519">I am not saying or sug=
+gesting that tradition is wrong, it is there for a purpose but getting the =
+spirit of the rules in Tradition is far more important than blind following=
+ of the same. Traditions exist for the Deity, not the other way round. And =
+given the point in time where we are, I am afraid there will be more and mo=
+re souls who will worship and eventually interact with Deities outside of f=
+ormal traditions. For a soul who has done sadhana and wants to do so, will =
+always do so, Nature and the Deity will make it happen, irrespective of whe=
+ther s/he lines up with a tradition or not, whether s/he is born in India o=
+r South Pole. This is the new reality.</span></div><div dir=3D"ltr" id=3D"y=
+ui_3_16_0_1_1446544625582_184339"><span><br clear=3D"none"></span></div><di=
+v dir=3D"ltr" id=3D"yui_3_16_0_1_1446544625582_184339"><span id=3D"yui_3_16=
+_0_1_1446544625582_185858">On the other hand if the mind has doubts about c=
+onsequences of going in a non-traditional manner, then one is better off no=
+t doing so. Because doubts make the sadhana go wrong, and the mind itself w=
+ill cause more obstructions that anyone or anything else. Mind can be our b=
+est friend in the path, or our worst enemy.</span></div><div dir=3D"ltr" id=
+=3D"yui_3_16_0_1_1446544625582_184339"><span><br clear=3D"none"></span></di=
+v><div dir=3D"ltr" id=3D"yui_3_16_0_1_1446544625582_184339"><span><br clear=
+=3D"none"></span></div><div dir=3D"ltr" id=3D"yui_3_16_0_1_1446544625582_18=
+4339"><span>*     *     *</span></div><div dir=3D"ltr" =
+id=3D"yui_3_16_0_1_1446544625582_184339"><span><br clear=3D"none"></span></=
+div><div dir=3D"ltr" id=3D"yui_3_16_0_1_1446544625582_184339"><span id=3D"y=
+ui_3_16_0_1_1446544625582_185826">Coming to the dream that you saw, I would=
+ say it was a very significant dream.  Snakes in dreams can have vario=
+us meanings. Not all are good. But this one seems to me like a indication o=
+f a very specific kind of spiritual expeirence to come, or would have come =
+to you, had you not made any change  in your routine sadhana. </s=
+pan></div><div dir=3D"ltr" id=3D"yui_3_16_0_1_1446544625582_184339"><span><=
+br clear=3D"none"></span></div><div dir=3D"ltr" id=3D"yui_3_16_0_1_14465446=
+25582_184339">Spirituality has two parts. We start off with a desire to exp=
+erience God, we do whatever we think can help us in that, which can lead to=
+ experiences which tell us we maybe come a bit closer. Then comes digesting=
+ them. To do so one has to have a stable mental and emotional condition.</d=
+iv><div dir=3D"ltr" id=3D"yui_3_16_0_1_1446544625582_184339"><br clear=3D"n=
+one"></div><div dir=3D"ltr" id=3D"yui_3_16_0_1_1446544625582_184339">From w=
+hat you described my sanguine feeling is that a strong experience was comin=
+g your way, but doubt and fear stopped it and made it recede back. Now spir=
+itual experiences are not like daily states of consciousness. If they were,=
+ they would be no good. They are different. And that came make us feel unne=
+rved at times.</div><div dir=3D"ltr" id=3D"yui_3_16_0_1_1446544625582_18433=
+9"><br clear=3D"none"></div><div dir=3D"ltr" id=3D"yui_3_16_0_1_14465446255=
+82_184339">Did this happen due to homa? I think it was destined for you at =
+some point. It could as well have happened one early morning as you were ha=
+ving a cup of tea without lifting a finger. What sadhana does - by which I =
+mean homa, japa, yoga whatever - is change the patterns of karma and accele=
+rate the experiences that would have come to you anyway. But more than that=
+ it helps your mind-body to stabilize which is vital to be able to integrat=
+e and digest an experience when it comes. </div><div dir=3D"ltr" id=3D=
+"yui_3_16_0_1_1446544625582_184339"><br clear=3D"none"></div><div dir=3D"lt=
+r" id=3D"yui_3_16_0_1_1446544625582_184339">So without thinking about it I =
+would suggest that you keep doing sadhana, whatever it maybe. As you do mor=
+e, you nervous system will grow stronger, your emotional, and mental sheath=
+ with become calmer and stabler and maybe the next time the Snake comes you=
+ won't feel unnerved! -:)</div><div dir=3D"ltr" id=3D"yui_3_16_0_1_14465446=
+25582_184339"><br clear=3D"none"></div><div dir=3D"ltr" id=3D"yui_3_16_0_1_=
+1446544625582_184339">Wish you all the best.</div><div dir=3D"ltr" id=3D"yu=
+i_3_16_0_1_1446544625582_184339"><br clear=3D"none"></div><div dir=3D"ltr" =
+id=3D"yui_3_16_0_1_1446544625582_184339">-Regards</div><div dir=3D"ltr" id=
+=3D"yui_3_16_0_1_1446544625582_184339"> Rajarshi</div><div dir=3D"ltr"=
+ id=3D"yui_3_16_0_1_1446544625582_184339"><br clear=3D"none"></div><div dir=
+=3D"ltr" id=3D"yui_3_16_0_1_1446544625582_184339"><span><br clear=3D"none">=
+</span></div><div dir=3D"ltr" id=3D"yui_3_16_0_1_1446544625582_184339"><br =
+clear=3D"none"></div><div class=3D"signature" id=3D"yui_3_16_0_1_1446544625=
+582_184329"><div id=3D"yui_3_16_0_1_1446544625582_185490"><span style=3D"fo=
+nt-family:times new roman, new york, times, serif;"><br clear=3D"none"></sp=
+an></div><div id=3D"yui_3_16_0_1_1446544625582_184328"><i id=3D"yui_3_16_0_=
+1_1446544625582_184327"><b id=3D"yui_3_16_0_1_1446544625582_184326"></b></i=
+><div class=3D"MsoNormal" id=3D"yui_3_16_0_1_1446544625582_184325"><i><b><s=
+pan id=3D"yui_3_16_0_1_1446544625582_184331" style=3D"font-family:times new=
+ roman, new york, times, serif;"><b><span class=3D"Apple-style-span" style=
+=3D"font-size: 16px;"><b><span class=3D"Apple-style-span" style=3D"color:rg=
+b(153, 153, 153);"></span></b></span></b><span class=3D"yui_3_2_0_2_1342435=
+27249950" id=3D"yui_3_16_0_1_1446544625582_185488">I have a hundred lives b=
+efore me yet/ To grasp thee in, O spirit ethereal, /</span> Be sure I will =
+with heart insatiate/ Pursue thee like a hunter through them all.</span><b>=
+<span style=3D"font-family:times new roman, new york, times, serif;"> -Sri =
+Aurobindo</span><span class=3D"yui_3_2_0_2_134243506227946 yui_3_2_0_2_1342=
+43527249952 yui_3_2_0_2_137332740501958" style=3D"FONT-SIZE:10pt;COLOR:navy=
+;FONT-FAMILY:Verdana;"></span></b></b></i></div><i><b></b></i></div></div><=
+br clear=3D"none">  <div class=3D"yQTDBase yqt2596242270" id=3D"yqt57689"><=
+div id=3D"yui_3_16_0_1_1446544625582_184324" style=3D"font-family:Helvetica=
+Neue, Helvetica Neue, Helvetica, Arial, Lucida Grande, Sans-Serif;font-size=
+:12px;"> <div id=3D"yui_3_16_0_1_1446544625582_184323" style=3D"font-family=
+:HelveticaNeue, Helvetica Neue, Helvetica, Arial, Lucida Grande, Sans-Serif=
+;font-size:16px;"> <div dir=3D"ltr" id=3D"yui_3_16_0_1_1446544625582_184322=
+"> <hr size=3D"1">   <b><span style=3D"font-weight:bold;">From:</span></b> =
+"ManiBhushan surya manibhushan@... [vedic-wisdom]" <vedic-wisdom@y=
+ahoogroups.com><br clear=3D"none"> <b><span style=3D"font-weight:bold;">=
+To:</span></b> "mitrabasuc@... [vedic-wisdom]" <vedic-wisdom@yahoo=
+groups.com> <br clear=3D"none"> <b><span style=3D"font-weight:bold;">Sen=
+t:</span></b> Thursday, 5 November 2015 9:11 PM<br clear=3D"none"> <b><span=
+ style=3D"font-weight:bold;">Subject:</span></b> Re: [vedic-wisdom] Re: Hom=
+am<br clear=3D"none">  </div> <div class=3D"y_msg_container"><br clear=3D"n=
+one"><div id=3D"yiv6245221355"><div>
+<span> </span>
+
+
+<div id=3D"yiv62=
+45221355ygrp-mlmsg">
+  <div id=3D"yiv6245221355ygrp-msg">
+
+
+    <div id=3D"=
+yiv6245221355ygrp-text">
+      
+      
+      <div>
+                
+       =
+         Dear  Mitra  </div><div><br clear=3D"none"></div><div>Na=
+maste. <br clear=3D"none"><div><span><br clear=3D"none"></span></div><=
+div><span> Even I was curious . The mantras I was chanting were reverb=
+erating in me in the night and some times in the day. One night I don't kno=
+w whether to call it dream but one snake with radiating light chanting the =
+mantra  was   Coming nearer to my head as if it was trying to tak=
+e me into that. Then I waved it  with  no no . Immediately it dis=
+appeared. Surprisingly the reverberation also stopped. After two days I was=
+ down with fever and electric shocks.</span></div><div><br clear=3D"none"><=
+/div><div>I am not doing homam. My father  is against it from <sp=
+an>  the beginning. This incident made him  take  a strong s=
+tand that it is no good.</span></div><div><br clear=3D"none"> I  =
+am also looking for some one explain why is this happened to me. I never ex=
+perienced that type of shocks .  The snake. Oh my god how can I forget=
+ it .  So strange. </div><div><br clear=3D"none"></div><div><br c=
+lear=3D"none"></div><div>Thanks </div><div>Mani</div><div>  =
+</div><div><br clear=3D"none"></div><div><br clear=3D"none"></div><div><br =
+clear=3D"none"></div><div><br clear=3D"none"><a rel=3D"nofollow" shape=3D"r=
+ect" target=3D"_blank" href=3D"https://yho.com/footer0">Sent from Yahoo Mai=
+l for iPad</a><br clear=3D"none"><br clear=3D"none"><div class=3D"qtdSepara=
+teBR"><br clear=3D"none"><br clear=3D"none"></div><div class=3D"yiv62452213=
+55yqt1999795787" id=3D"yiv6245221355yqt16842"><div style=3D"font-size:15px;=
+color:#715FFA;margin-top:0;">On Thursday, November 5, 2015, 9:34 AM, mitrab=
+asuc@... [vedic-wisdom] <vedic-wisdom@yahoogroups.com> wrote:</=
+div><blockquote class=3D"yiv6245221355iosymail">
+<span> </span>
+
+
+<div=
+ id=3D"yiv6245221355ygrp-mlmsg">
+  <div id=3D"yiv6245221355ygrp-msg">
+
+
+   =
+ <div id=3D"yiv6245221355ygrp-text">
+      
+      
+      <div>Dear Mani,</d=
+iv><div>My Respect to you,</div><div>I am curious if you could get the reas=
+on/logic of such electric shocks. I wish Sh. Narsimha ji or somebody with b=
+etter understanding in this group could throw a light on this experience.</=
+div><div><br clear=3D"none"></div><div><br clear=3D"none"></div>
+
+    </div=
+>
+     
+
+    
+    <div style=3D"color:#fff;height:0;"></div></div>
+
+
+<block=
+quote>
+            </blockquote></div></blockquote></div></div></div>
+
+    =
+</div>
+     
+
+    
+    <div class=3D"yiv6245221355yqt1999795787" id=3D"yiv6=
+245221355yqt14839"><div style=3D"color:#fff;height:0;"></div></div>
+
+
+</div=
+><div class=3D"yiv6245221355yqt1999795787" id=3D"yiv6245221355yqt42701"></d=
+iv></div><br clear=3D"none"><br clear=3D"none"></div> </div> </div>  </div>=
+</div></div></div>
+
+    </div>
+     
+
+    
+    <div class=3D"yQTDBase yqt25=
+96242270" id=3D"yqt33311"><div style=3D"color:#fff;height:0;"></div></div>
+=
+
+
+<blockquote>
+            </blockquote></blockquote></div></div>
+------=_Part_550683_371717997.1446787151951--
+
+

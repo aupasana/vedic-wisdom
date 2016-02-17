@@ -1,0 +1,104 @@
+From durgesh.mishra@...  Wed Feb 17 11:07:49 2016
+Return-Path: <durgesh.mishra@...>
+X-Sender: durgesh.mishra@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 6408 invoked by uid 102); 19 Oct 2015 17:06:21 -0000
+X-Received: from unknown (HELO mtaq6.grp.bf1.yahoo.com) (10.193.84.37)
+  by m5.grp.bf1.yahoo.com with SMTP; 19 Oct 2015 17:06:21 -0000
+X-Received: (qmail 10819 invoked from network); 19 Oct 2015 17:06:21 -0000
+X-Received: from unknown (HELO mta1005.groups.mail.bf1.yahoo.com) (98.139.245.164)
+  by mtaq6.grp.bf1.yahoo.com with SMTP; 19 Oct 2015 17:06:21 -0000
+X-Original-Return-Path: <durgesh.mishra@...>
+X-Received-SPF: pass (domain of gmail.com designates 209.85.223.176 as permitted sender)
+X-YMailISG: BaESsvgWLDuYW_pcDGEKEQ40JMnaOe0M7hjHgbzYi4rrUokj
+ bUkyFCx1h6L2lhzyyHy.B_fYYUwi7FCahUxHdRIhM4cFfFBxxMvTU2t_lUYr
+ yfBUW_Z5X5u9hDfbGw_G8Vg6v4Gk0jS7oPSKcxxt6DjoMQ38YsHfesZ7eveE
+ h7L_yKV1h7O2O9YPqts.JpcczAQv0nMBg2RVzwIc3R3xeWIsk8Fztrz2cv_F
+ Dx.87NcjSQjMgAHlyaFzEzCAM1gcpDNd6ETKgx8Ppr.4dpllU3mHVZVCokEZ
+ GtMewek3wfmpxT.q.bv7qN5qvsBQPYXSeEJ9_DeGLsk1glEDPdSrbEO8n7ox
+ _fsSQ2yyS8ZllaYIC70XFGfJx9ueoGHlDIAeY9tUdL2OyaRkWMa43AbWbcwJ
+ _KmqpaE9KzEYJyfXFLaASMBxH7iv8RhpJZ.23JaZ3fGfIGEJXuriXST67sPA
+ ZOVGTIqEMuRrCWxwWK.7IGbPB67eKUl2isObFn8p7gJ43oi8rSgHrJyglRet
+ 26qyb52ofgeVz0JT.F5ndAa3k0Im4vOKggbgnCnh5MMcb37_bMnnFijnrjT4
+ LsJXGBKKlnLStFyiBAL9FfGomoVyXfKpVdgAvmfgg.jexE4MbJFhyXKZu_Dp
+ mt.mhlR5Qwp21BhYFDRwvaG4tDdbgtYsu9MnOycbRkUCzO_dOMUob5DztSxP
+ TzO5GJdEGZSrrCAawC8tEwb3gMXUVvGul1.h3MeJkKZzUkuJ1Q7Xvf4bI57l
+ 3joOGKuGfQetqy9kmH3UfwPC_Ge5S7fkDlxCsyqsdhHMgWuGp3umsQTtlR.g
+ WkDCIFgBdROJQvCiiHHkZ4iUrGE0Lp3q7l5RrscJcewRJDvq7luUURL3wuLY
+ Y4TpvGuVjwAG8NY9pQp6k8jAz34jcR2aZuq1SDFDemYkqtNI4GCt265eprqr
+ Ft_YPgU.pKpYil5oKbFxRf_EoUWCgEE4zGeG_3Riih0HkzCi9jQP1l5Ix8gg
+ Ju1Vhh0OmBcdPdQ8uCk0GsiDHx3iLxV.EXDTxQPB1vF.y1QzIkCUZqSVIlym
+ tViIqSmhtGFMvsVbAIrSYlBLc4p5FlOsy39v3dqLWn6axtBiadlRu73esTyA
+ ezEccDxi6cXW2Wl9j8smnsfvM6huHov5X_4ZnPlLEBb94jZzU.iLwt11in65
+ EaEFI25LBQ11jPJwJ7dFGWjfxXO9oP79oL44KBw8NoB8xsYhJWTqDvpxbSu8
+ 3u4i5eEiuritkTWECuUhl4m6KcPr6WlH9nggyh76fWs9V78sQh2ptmv9zccz
+ gFCOKCSyIIPV3SyQbXhlosGcUW4g5G2dVx46_zEIRDz_LytemzrbpcvI5ui2
+ B6v0e6xfljuM8JihlVxtZycEk8IzbF1dcFWHvUeHOlF_JQY4jpM3mTNlBu5v
+ FUfsQ9oQdvMFpL_D
+Authentication-Results: mta1005.groups.mail.bf1.yahoo.com  from=gmail.com; domainkeys=neutral (no sig);  from=gmail.com; dkim=pass (ok)
+X-Received: from 127.0.0.1  (EHLO mail-io0-f176.google.com) (209.85.223.176)
+  by mta1005.groups.mail.bf1.yahoo.com with SMTPS; Mon, 19 Oct 2015 17:06:21 +0000
+X-Received: by mail-io0-f176.google.com with SMTP id 1so201310658iow.1
+        for <vedic-wisdom@yahoogroups.com>; Mon, 19 Oct 2015 10:06:21 -0700 (PDT)
+MIME-Version: 1.0
+X-Received: by 10.107.136.216 with SMTP id s85mr28437656ioi.142.1445274380953;
+ Mon, 19 Oct 2015 10:06:20 -0700 (PDT)
+X-Received: by 10.36.203.70 with HTTP; Mon, 19 Oct 2015 10:06:20 -0700 (PDT)
+Date: Mon, 19 Oct 2015 22:36:20 +0530
+Message-ID: <CAJ9joEYwzqqyAjuzOV3_Bg5ZiewSjRBGe0NT0xeWgzn=vwn9DQ@...>
+To: vedic-wisdom@yahoogroups.com
+Content-Type: multipart/alternative; boundary=001a113ec0ca149b280522782a53
+X-Originating-IP: 98.139.245.164
+Subject: navami homam procedure
+X-Yahoo-Group-Post: member; u=550723118; y=gy8nOq2865mO9OrYj1-WWC0-ahvISAjglwmr4vzU3NlmBFkwHzlEggBY
+X-Yahoo-Profile: durgesh_for_you
+From: Durgesh Mishra <durgesh.mishra@...>
+
+
+--001a113ec0ca149b280522782a53
+Content-Type: text/plain; charset=UTF-8
+
+Namaste Gurujan,
+
+I use to perform Chandi Homam during Navratras. Since I could not finish
+the long saptashati mantras at one go, so I use to break it comfortably
+among 5-6 sessions so that the last day on navami I performed purnahuti and
+did kanya bhoj.
+
+But this time, when I started first session of homam, I felt inner
+inspiration and energy to finsih the entire saptashati in one go. So I did
+finish the whole yagya in 4-5 hours.
+
+Now, I am thinking of performing homam on the 9th day. But as Durga
+saptashati will take more time so I will not be able to do it last day.
+
+Please guide on homam, I should do on the 9th day.
+
+Regards
+Durgesh O Mishra
+
+-- 
+"If you only have a hammer, you tend to see every problem as a nail."
+
+--001a113ec0ca149b280522782a53
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Namaste Gurujan,<div><br></div><div>I use to perform Chand=
+i Homam during Navratras. Since I could not finish the long saptashati mant=
+ras at one go, so I use to break it comfortably among 5-6 sessions so that =
+the last day on navami I performed purnahuti and did kanya bhoj.</div><div>=
+<br></div><div>But this time, when I started first session of homam, I felt=
+ inner inspiration and energy to finsih the entire saptashati in one go. So=
+ I did finish the whole yagya in 4-5 hours.</div><div><br></div><div>Now, I=
+ am thinking of performing homam on the 9th day. But as Durga saptashati wi=
+ll take more time so I will not be able to do it last day.</div><div><br></=
+div><div>Please guide on homam, I should do on the 9th day.</div><div><br><=
+/div><div>Regards</div><div>Durgesh O Mishra<br clear=3D"all"><div><br></di=
+v>-- <br><div class=3D"gmail_signature">"If you only have a hammer, yo=
+u tend to see every problem as a nail."</div>
+</div></div>
+
+--001a113ec0ca149b280522782a53--
+
+

@@ -1,0 +1,365 @@
+From apparau77@...  Wed Feb 17 11:07:49 2016
+Return-Path: <apparau77@...>
+X-Sender: apparau77@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 14505 invoked by uid 102); 14 Dec 2015 08:18:06 -0000
+X-Received: from unknown (HELO mtaq6.grp.bf1.yahoo.com) (10.193.84.37)
+  by m8.grp.bf1.yahoo.com with SMTP; 14 Dec 2015 08:18:06 -0000
+X-Received: (qmail 18116 invoked from network); 14 Dec 2015 08:18:06 -0000
+X-Received: from unknown (HELO mta1006.groups.mail.ne1.yahoo.com) (98.138.100.121)
+  by mtaq6.grp.bf1.yahoo.com with SMTP; 14 Dec 2015 08:18:06 -0000
+X-Original-Return-Path: <apparau77@...>
+X-Received-SPF: none (domain of ymail.com does not designate permitted sender hosts)
+X-YMailISG: AJuvZ7kWLDsM0iVxGoci2PSyoqRjJQRxvtAfjGL_RZJ.gq_L
+ skQiMIWF0beuqL1DJlRlakAfZ3Wp4WQ1AWV9bIK0iMkUZ5yx1ywFZch0WkNx
+ dn6mcXFa3bRid24H.0FWdSkBtc7OORlfS5hGG5jHZiQl1WyqPOP0LR7c8Ura
+ zpz0NGgy53TQJ30ef3g3lz4jo0mk6vfBwdR.RuosnfuicOMRX2VYkgb..hy4
+ 3koHVru8MobAjvuMq0UJmCd9mdjeWC9qIJFJ5bQU6hrzfMKvxohJzqgv6fMD
+ perc6K27Bcj0ygNyKdTV3fB9AiAelJx1p650BPIpo74uRr8rGpREy_FBhZCd
+ UufpwMMxLl8qCTwrSDMlwtT078HNQcvCIn9On8e56OAxIQRHAJwTn4e5c5uJ
+ IakvD0gkW4RGfgIHBlUSAUIhbrtdlEPMc0RnzdZlEBQHy1y3zY0MsqUIqqSa
+ rRJ11NURrOCMKOf9EjKc_vHEGpFfTVL13ELrNYTU8Jk64nrueyHZq.RI5uuB
+ MAjzK4SmpjUYPVXJ5njXdl.jXZIA0OkMbG1YU.hJpe9ORItLWcW1Avh_ezHV
+ 4C26mkStXiWf32JE10K56ipJsEtSINfXP8S6gv_BcU3EqFccny.prINNa9ri
+ puz.pr2AIthwZCyyeMHjou7fDxY52y.Kr3jkyUBiioPuyu_W._Fp1utRJfDA
+ hL22Av4MzWAVF7Esi67AQcj154WaVapD5doZPL_EHPTqIZI8YuiJqgSOslBh
+ bdVAk2dKTMTKEbv5m5mlSsitOSb6eM7xeqcEoV_V4_bJk1_OXehKrr3H.bVU
+ YhdMeJpEWPtIHUWC0b.VWUzouAbuUOa2J7uP.Q8Gd76xmypoMHvycqiezCdn
+ IQbWmxfW3AktGvoAIr0r0_fJAJcp1kbcHrDHL21UsV7kC0v9ZdTuafpqjIaE
+ O.Z8SyQCbhT45BrE0scOvbh4fcVUNyAUv3SckdtHMt559Bkizp_FFvS4GuHW
+ zXLXTMKxbSzsTgPygSNCTCukbONTt5mEOcQQl3Z0DH31BQySwwIONfSZHyva
+ D.8t08f3xTBRxfUW3.ozYkJZ5lTB8dH78Jwz1.R0TwLYpe_91yWlhmfLbhyr
+ sKzcgNe5lIcHxIC.I8D5sAR1Yzsi8WDLf5IaBL3OO60Y6FjijoT7K7EQVnai
+ lCOlT2NEYOpOVvuh9j6.QEwLnu1nV.Ym2YT3aoZyw0I2G1OmP9Iouw.9Yl4X
+ V8nxPRdWeMJNMELa1ft4T3o4zj96hVH6Uorl277MzgPBRc1AcLwJuyR1kG00
+ JxZs44JuI7KjyqfyKS1N76uYOwgKTKbUR0ThJNH.oYz9zJh2E0RMLWCGm.Ka
+ 3eGWmbOcsJUIK4Te5K3bIxDYjhX3ihbMj2nDkVXCfQTIliXfMMJIAaQLdn.m
+ n7Mid6G__V5eQdJLSpur69NjyLlJfXvFcBcb2nqK7g3woycXh9J_3A--
+Authentication-Results: mta1006.groups.mail.ne1.yahoo.com  from=ymail.com; domainkeys=neutral (no sig);  from=ymail.com; dkim=pass (ok)
+X-Received: from 127.0.0.1  (EHLO nm49-vm6.bullet.mail.gq1.yahoo.com) (67.195.87.236)
+  by mta1006.groups.mail.ne1.yahoo.com with SMTPS; Mon, 14 Dec 2015 08:18:06 +0000
+X-Received: from [127.0.0.1] by nm49.bullet.mail.gq1.yahoo.com with NNFMP; 14 Dec 2015 08:18:03 -0000
+X-Received: from [98.137.12.56] by nm49.bullet.mail.gq1.yahoo.com with NNFMP; 14 Dec 2015 08:15:11 -0000
+X-Received: from [98.139.170.178] by tm1.bullet.mail.gq1.yahoo.com with NNFMP; 14 Dec 2015 08:15:11 -0000
+X-Received: from [98.139.213.14] by tm21.bullet.mail.bf1.yahoo.com with NNFMP; 14 Dec 2015 08:15:11 -0000
+X-Received: from [127.0.0.1] by smtp114.mail.bf1.yahoo.com with NNFMP; 14 Dec 2015 08:15:11 -0000
+X-Yahoo-Newman-Id: 322504.50945.bm@...
+X-Yahoo-Newman-Property: ymail-4
+X-YMail-OSG: ar4H1_wVM1k6L9PW0HzWXZ11QknkTLSS9EsAzXnzygOTjlN
+ .416VkHEiHbe5EtyM8JpLung2TCm7O1z41KmbZjaamCkp4dougMBShTVNMwx
+ og6adlE2.OhSYTxJ4pyZ9csEBg4h8yX5xrrNU6edcS7KyRmt5UxbOWo7Q2vs
+ h5jQ3Ai2J_kZJQKL6n3E15NpoIGFBhStdaByJxNO6K9DThrRIO16Xz99_cl8
+ eUFyAmNF1hoDfuknvdko6SRP26nECFXkNzCwW38VUcA0PUuG5etleXrFioE4
+ G.yl5V1UuMrZMtGAuCwcohXfG.FO0zwO2cGlU.VhnMSB1WFBWs6mpAnvct3Y
+ VMFMloCQcgNjVbJcez8A5_5koK.38T0b96lgMyqylFcNvzBFJS2azRhBcQA1
+ chNQQGU5SRXEScVM6MRrNVkcrf.BbaEoDLUDzehiVDYWYrM8NtYSD8T3qFS5
+ SFKDN6HwvcNRsDVwV31ScTTI_3Dz.qJCk3lCaJSTTlTzOrLYHUGnxCkk.g_O
+ .i5Rmrp5y3zaULl6R5Cmd7DQSkTPG
+X-Yahoo-SMTP: ai.SPaaswBA.f41UtPl25fAPyUzUfdg6Lbo1Gz2xF2o-
+To: "apparau" <apparau77@...>
+Date: Mon, 14 Dec 2015 16:15:07 +0800
+Message-ID: <013b01d13647$8d0b4900$a721db00$@...>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_013C_01D1368A.9B2F4C50"
+X-Mailer: Microsoft Outlook 14.0
+Thread-Index: AdE2R4rGHMxdXIzTRpyH7MQ07ahemQ==
+Content-Language: en-my
+X-Originating-IP: 98.138.100.121
+Subject: Second Marriage and Spouse Details
+X-Yahoo-Group-Post: member; u=545130519; y=YMLJCddFrJKDPNhPK-YrfmJbYxOFY7H0Ze2hHCwAuURG5QiBWCt-uaBxA-OIcA
+X-Yahoo-Profile: apparau77@...
+From: "apparau" <apparau77@...>
+
+
+------=_NextPart_000_013C_01D1368A.9B2F4C50
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Dear Respected Astrologers,
+
+ 
+
+Good Day, I am divorced person. Fully strug=
+gled in my first marital life. Very2 badly affected in my first marital lif=
+e. When I will marry?? how is the spouse attitude and behavior?? till now s=
+earching for the new bride unfortunately failed. Please analyze my chart an=
+d give me a good prediction.
+
+ 
+
+DOB: 20th Dec 1977 
+
+Time: 6.30AM 
+
+Place:=
+ Selama, Perak
+
+Country: Malaysia
+
+ 
+
+Thanks & Best Regards,
+
+Apparau
+
+
+------=_NextPart_000_013C_01D1368A.9B2F4C50
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D"http:=
+//www.w3.org/TR/REC-html40"><head><meta http-equiv=3DContent-Type content=
+=3D"text/html; charset=3Dutf-8"><meta name=3DGenerator content=3D"Microsoft=
+ Word 14 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	=
+{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-fa=
+mily:Consolas;
+	panose-1:2 11 6 9 2 2 4 3 2 4;}
+@font-face
+	{font-family:Ve=
+rdana;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+/* Style Definitions */
+p.MsoNormal=
+, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-s=
+ize:12.0pt;
+	font-family:"Times New Roman","serif";}
+a:link, span.MsoHyperl=
+ink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:vi=
+sited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	t=
+ext-decoration:underline;}
+p
+	{mso-style-priority:99;
+	mso-margin-top-alt:a=
+uto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	fon=
+t-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+code
+	{mso-style-pr=
+iority:99;
+	font-family:"Courier New";}
+pre
+	{mso-style-priority:99;
+	mso-s=
+tyle-link:"HTML Preformatted Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	f=
+ont-size:10.0pt;
+	font-family:"Courier New";}
+tt
+	{mso-style-priority:99;
+	=
+font-family:"Courier New";}
+span.HTMLPreformattedChar
+	{mso-style-name:"HTM=
+L Preformatted Char";
+	mso-style-priority:99;
+	mso-style-link:"HTML Preform=
+atted";
+	font-family:Consolas;}
+p.attach, li.attach, div.attach
+	{mso-style=
+-name:attach;
+	mso-style-priority:99;
+	mso-margin-top-alt:auto;
+	margin-rig=
+ht:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	font-size:9.0pt;
+	f=
+ont-family:"Arial","sans-serif";}
+p.bold, li.bold, div.bold
+	{mso-style-nam=
+e:bold;
+	mso-style-priority:99;
+	mso-margin-top-alt:auto;
+	margin-right:0cm=
+;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	font-size:10.0pt;
+	font-f=
+amily:"Arial","sans-serif";
+	font-weight:bold;}
+p.green, li.green, div.gree=
+n
+	{mso-style-name:green;
+	mso-style-priority:99;
+	mso-margin-top-alt:auto;=
+
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	font-si=
+ze:12.0pt;
+	font-family:"Times New Roman","serif";
+	color:#628C2A;}
+p.replb=
+q, li.replbq, div.replbq
+	{mso-style-name:replbq;
+	mso-style-priority:99;
+	=
+margin:3.0pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p=
+.ad, li.ad, div.ad
+	{mso-style-name:ad;
+	mso-style-priority:99;
+	mso-margin=
+-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left=
+:0cm;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.underli=
+ne, li.underline, div.underline
+	{mso-style-name:underline;
+	mso-style-prio=
+rity:99;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-al=
+t:auto;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"Times New Roman"=
+,"serif";}
+p.ad1, li.ad1, div.ad1
+	{mso-style-name:ad1;
+	mso-style-priority=
+:99;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:au=
+to;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"Times New Roman","se=
+rif";}
+p.ad2, li.ad2, div.ad2
+	{mso-style-name:ad2;
+	mso-style-priority:99;=
+
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	margin-bottom:7.5pt;
+	margin=
+-left:0cm;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.un=
+derline1, li.underline1, div.underline1
+	{mso-style-name:underline1;
+	mso-s=
+tyle-priority:99;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-=
+bottom-alt:auto;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"Times N=
+ew Roman","serif";
+	text-decoration:underline;}
+span.yshortcuts
+	{mso-style=
+-name:yshortcuts;}
+span.yshortcuts1
+	{mso-style-name:yshortcuts1;
+	font-fam=
+ily:"Verdana","sans-serif";
+	font-weight:bold;}
+span.yshortcuts2
+	{mso-styl=
+e-name:yshortcuts2;
+	font-family:"Verdana","sans-serif";
+	font-weight:norma=
+l;}
+span.EmailStyle34
+	{mso-style-type:personal;
+	font-family:"Calibri","sa=
+ns-serif";
+	color:#1F497D;}
+span.EmailStyle35
+	{mso-style-type:personal-rep=
+ly;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+.MsoChpDefault
+	{=
+mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:6=
+12.0pt 792.0pt;
+	margin:70.85pt 70.85pt 70.85pt 70.85pt;}
+div.WordSection1
+=
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults =
+v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xm=
+l>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o=
+:shapelayout></xml><![endif]--></head><body bgcolor=3Dwhite lang=3DEN-US li=
+nk=3Dblue vlink=3Dpurple><div class=3DWordSection1><p class=3DMsoNormal><sp=
+an style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F49=
+7D'>Dear Respected Astrologers,<o:p></o:p></span></p><p class=3DMsoNormal><=
+span style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F=
+497D'><o:p> </o:p></span></p><p class=3DMsoNormal><span style=3D'font-=
+size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497D'>Good Day, I a=
+m divorced person. Fully struggled in my first marital life. Very2 badly af=
+fected in my first marital life. When I will marry?? how is the spouse atti=
+tude and behavior?? till now searching for the new bride unfortunately fail=
+ed. Please analyze my chart and give me a good prediction.<o:p></o:p></span=
+></p><p class=3DMsoNormal><span style=3D'font-size:11.0pt;font-family:"Cali=
+bri","sans-serif";color:#1F497D'><o:p> </o:p></span></p><p class=3DMso=
+Normal><span style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";c=
+olor:#1F497D'>DOB: 20th Dec 1977 <o:p></o:p></span></p><p class=3DMsoNormal=
+><span style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#=
+1F497D'>Time: 6.30AM <o:p></o:p></span></p><p class=3DMsoNormal><span style=
+=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497D'>Plac=
+e: Selama, Perak<o:p></o:p></span></p><p class=3DMsoNormal><span style=3D'f=
+ont-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497D'>Country: =
+Malaysia<o:p></o:p></span></p><p class=3DMsoNormal><span style=3D'font-size=
+:11.0pt;font-family:"Calibri","sans-serif";color:#1F497D'><o:p> </o:p>=
+</span></p><p class=3DMsoNormal><span style=3D'font-size:11.0pt;font-family=
+:"Calibri","sans-serif";color:#1F497D'>Thanks & Best Regards,<o:p></o:p=
+></span></p><p class=3DMsoNormal><span style=3D'font-size:11.0pt;font-famil=
+y:"Calibri","sans-serif";color:#1F497D'>Apparau<o:p></o:p></span></p></div>=
+</body></html>
+------=_NextPart_000_013C_01D1368A.9B2F4C50--
+
+

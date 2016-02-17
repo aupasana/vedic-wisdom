@@ -1,0 +1,331 @@
+From durgesh.mishra@...  Wed Feb 17 11:07:48 2016
+Return-Path: <durgesh.mishra@...>
+X-Sender: durgesh.mishra@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 24438 invoked by uid 102); 16 Aug 2015 15:35:21 -0000
+X-Received: from unknown (HELO mtaq5.grp.bf1.yahoo.com) (10.193.84.36)
+  by m5.grp.bf1.yahoo.com with SMTP; 16 Aug 2015 15:35:21 -0000
+X-Received: (qmail 8550 invoked from network); 16 Aug 2015 15:35:21 -0000
+X-Received: from unknown (HELO mta1006.groups.mail.ne1.yahoo.com) (98.138.100.121)
+  by mtaq5.grp.bf1.yahoo.com with SMTP; 16 Aug 2015 15:35:21 -0000
+X-Original-Return-Path: <durgesh.mishra@...>
+X-Received-SPF: pass (domain of gmail.com designates 209.85.213.172 as permitted sender)
+X-YMailISG: 6fBWJFgWLDtpTonLORNbNPrSNmbn40zrOyLIFlulGQJQu4Ri
+ 4TgAhA7PVmNwLVLN2TKuD7ab5w.FvMvQ5fzvkTxU1JwWTqI6nsoWPjBecEjg
+ Z9WOllpfRvoQ._0WTg.aiKu1wP5dDGJmdWgS6bxiBpN7YZmVGyjrH9Z._WMl
+ 0FmL77zFIDAaM9Hk3mv1tckYT9ttbyntbwzk0Rpy6b5ktVz9KiA23gxwUpWr
+ _1BxCn7.oAMgaIL37KKFMy2htpVMzIUAuEx0TN_fE9Jz8jyFD2ruOZ66DSfU
+ QlxboL9icSTj9nACKHioOLZx.ck6MO3ccrAw3bwvzsyPAm63RwyfUkC6PIU4
+ ABCLfnTnflY9efejQf8qWqgmKYNnDE0H86ONbxDimxC8bEE2dwbpComi7H16
+ SXPN7VzKG1q1Sa.IWCRA6wpOvoHpHIrsKp1CgQ_L0GpWY9bmSYuwbcJ62uzS
+ OniA4D4msrV_VjdJVpkr4kTfmCIWGJ_hnlUjJz7sx71JqoIg.3K3wqdkG27c
+ uEe7SsyEJ1VlrwwNtaXVUraJvrRdpGmM6X7ReB99fH2d8jRHHspU5hzi1gdQ
+ tnbhE4qCNyaaax82nO4i9l2KbmLowwdew3aKq4Qo06XXk.87TfgTXdKER8Yc
+ AvXwfNVxO3LIc4eMh2_aWuZq18wscXWxVdCU3qmT7HCLAAjgZerJJvO9Sco_
+ QlMoKtV3N52jAajy8E1f1NzBk9X0ZvFZPMdYDN2brKnSO5rn3N_IVnwDkF23
+ Wqrv1z8p6QiFSBfWZXXQhvt41_piEKrHBQjrBJIxdnCQ0risKcXrsigCLkml
+ 4uBKIoFzkwnGlgcVh_IlxblAu8IcuwOYqKxeMGn3o5dXv75hgEv68TVPZVrQ
+ 9te5DPkNJBwAkeAD7yoUjjaIj8PS9gnE62HkLebL_l6WFgToKTCoo4YZlCYb
+ pEhFd4s2oqXcglJqNf6vPyisZ.4TS1SuVqYITbN5JveoGF0mEYFXTcELNTRF
+ WiQ9e9Wv_8bLtkYmosaCYWezULFOXGvP_DdR1GBykzNPZR7qMzByB3yIhhW7
+ jip_JLbH0mtML90ht16qPPTBWEYx1s31vJ7D2OYpKeOfAw4MHRK7IorqNx4b
+ VUBuj.FNmSIFMWVawXg53EaggheopaHqLPiQDCXipks0yYzjnIntyrVfA8i4
+ yiz6jImT7kNxWOxi9J.jcYjhC_hADFaNChvuI5FNXEwEh6dm_fYjiCwqmoaH
+ dJEJLylcWtq1ruK6Iyv8EEeV8JpUTiZShTzb6xKuCW7O6Ix8J2gIKOfX4fJT
+ oGsEsTxEG1Voq631_LScCRiWNXbLrWsqL0I5j2jmPf_hAx5VR67jCxDxa7pI
+ YRLEsxPQCxgzgRhyZVxZ_a.5w6nG9PXwIESyOalgXJ7UOK7IJV63GzPn6cQP
+ 9mnEpPZXn9INX8ta24OT6DiJvLqHLM6eqVyYx83OXDz1XKlMeb0PW.TWJs1Z
+ dxS0zfXtIx.bv6aqtNAkKk6bOmO1sXHT9wDC5jqyOi2aMkFqG17TmsYOaH_B
+ 2zMuEoK5TA_ZuHmNHJRAVRq3PuBKNU5xk8xGFElU62PGFS_weUGSlWX24zwp
+ iUezNXFL7pPxSreBF2JpjS4j8KXLKh5cGbPgQQDyroNfE0ajKnO58MhDo294
+ de2akn7l91_nW9zIB1jXPJfscfAzAt16FPsiMd7V4chqQ6oKTUBMqYYa.PUA
+ JV_Nt9WgVDmOdWw0e0sN20VyVq4UzFz1XvkSbsBA_DxcAWbL6Gbovkq5D.N5
+ 9LTpjk0f2WSSfZnUOCZpnN1yBMEBbATyJf7_dibv5JHRxOvpdE.6wFjnnkv8
+ wNQ-
+Authentication-Results: mta1006.groups.mail.ne1.yahoo.com  from=gmail.com; domainkeys=neutral (no sig);  from=gmail.com; dkim=pass (ok)
+X-Received: from 127.0.0.1  (EHLO mail-ig0-f172.google.com) (209.85.213.172)
+  by mta1006.groups.mail.ne1.yahoo.com with SMTPS; Sun, 16 Aug 2015 15:35:21 +0000
+X-Received: by igui7 with SMTP id i7so41372921igu.1
+        for <vedic-wisdom@yahoogroups.com>; Sun, 16 Aug 2015 08:35:20 -0700 (PDT)
+MIME-Version: 1.0
+X-Received: by 10.50.41.36 with SMTP id c4mr11164045igl.97.1439739320473; Sun,
+ 16 Aug 2015 08:35:20 -0700 (PDT)
+X-Received: by 10.36.211.86 with HTTP; Sun, 16 Aug 2015 08:35:20 -0700 (PDT)
+In-Reply-To: <1450292043.5092864.1439738037210.JavaMail.yahoo@...>
+References: <mqoff7+toqd9h@...>
+	<1450292043.5092864.1439738037210.JavaMail.yahoo@...>
+Date: Sun, 16 Aug 2015 21:05:20 +0530
+Message-ID: <CAJ9joEZbOo-HZm5ToAbhA+468beUbJLvK8_SAePpYtkWWSiNFg@...>
+To: vedic-wisdom@yahoogroups.com
+Content-Type: multipart/alternative; boundary=089e01176f6fc41f29051d6f6ed7
+X-Originating-IP: 98.138.100.121
+Subject: Re: [vedic-wisdom] Re: Question on spiritual path
+X-Yahoo-Group-Post: member; u=550723118; y=v8JXM9BZuhoeM7UzS6Wz42725Mpx6aj2oC6F_yP4sa8Mmq2x8SoMbpAZ
+X-Yahoo-Profile: durgesh_for_you
+From: Durgesh Mishra <durgesh.mishra@...>
+
+
+--089e01176f6fc41f29051d6f6ed7
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+I always believed in incorrigible fruits of Karma. And role of Sadhana as
+c=
+orrective step to mend one's future actions.
+
+But when tell these things to=
+ others, they feel disillusioned, rather
+disheartened. They feel what use i=
+s their Karm-kand when it cannot alter
+their Karmic fruits. Obviously the w=
+orld is full of such people who do not
+intend to change their actions for f=
+uture karma. They are merely interested
+in short cut methods to avoid their=
+ Karmic fruits.
+
+My fear is, If they lessened their Karm-kanda because of m=
+y opinion then am
+I really doing any good to them.
+
+Regards
+Durgesh O Mishr=
+a
+
+On 16 August 2015 at 20:43, 'Narasimha P.V.R. Rao' pvr108@...
+[ved=
+ic-wisdom] <vedic-wisdom@yahoogroups.com> wrote:
+
+>
+>
+> Namaste Phil.
+>
+> I=
+ shared my 2 cents on Facebook at:
+>
+> https://www.facebook.com/pvr108/post=
+s/10153142411433284
+>
+> You can read it without a Facebook account.
+>
+> Bes=
+t regards,
+> Narasimha
+> --------
+> Astrology & Spirituality Resources: htt=
+p://www.VedicAstrologer.org
+> <http://www.vedicastrologer.org/>
+> --------
+=
+>
+> ------------------------------
+> *From:* "philstinnet@... [vedic-=
+wisdom]" <
+> vedic-wisdom@yahoogroups.com>
+> *To:* vedic-wisdom@yahoogroups=
+.com
+> *Sent:* Saturday, August 15, 2015 6:45 PM
+> *Subject:* [vedic-wisdom=
+] Question on spiritual path
+>
+>
+> Dear Narasimha ji and group,
+>
+> I have =
+two questions torturing me for years. I do not have the answer.
+> However, =
+i am curious to know the philosophy you (or anyone in the group)
+> follow o=
+n this -
+>
+> 1) Someone choosing the path of spirituality, is it 'pre-desti=
+ned' as per
+> our horoscope?
+>
+> 2) Someone deep into spirituality and livi=
+ng the blissful state caused by
+> mediation or homam, does he (or she) ceas=
+e to follow his (or her)
+> astrological chart?
+>
+> 3) How to validate the a=
+nswers of these two questions given by you (or
+> anyone from the group)?
+>
+=
+> Thanks
+>
+> Phil
+>
+>
+>
+> 
+>
+
+
+
+-- 
+"If you only have a hammer, you tend to=
+ see every problem as a nail."
+
+--089e01176f6fc41f29051d6f6ed7
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">I always believed in incorrigible fruits of Karma. And rol=
+e of Sadhana as corrective step to mend one's future actions.<div><br><=
+/div><div>But when tell these things to others, they feel disillusioned, ra=
+ther disheartened. They feel what use is their Karm-kand when it cannot alt=
+er their Karmic fruits. Obviously the world is full of such people who do n=
+ot intend to change their actions for future karma. They are merely interes=
+ted in short cut methods to avoid their Karmic fruits.=C2=A0</div><div><br>=
+</div><div>My fear is, If they lessened their Karm-kanda because of my opin=
+ion then am I really doing any good to them.=C2=A0</div><div><br></div><div=
+>Regards</div><div>Durgesh O Mishra</div></div><div class=3D"gmail_extra"><=
+br><div class=3D"gmail_quote">On 16 August 2015 at 20:43, 'Narasimha P.=
+V.R. Rao' <a href=3D"mailto:pvr108@...">pvr108@...</a> [ved=
+ic-wisdom] <span dir=3D"ltr"><<a href=3D"mailto:vedic-wisdom@yahoogroups=
+.com" target=3D"_blank">vedic-wisdom@yahoogroups.com</a>></span> wrote:<=
+br><blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left=
+:1px #ccc solid;padding-left:1ex">
+
+
+<u></u>
+
+
+
+
+
+
+
+
+
+ 
+<div style=3D"backg=
+round-color:#fff">
+<span>=C2=A0</span>
+
+
+<div>
+  <div>
+
+
+    <div>
+      
+ =
+     
+      <p></p><div style=3D"color:#000;background-color:#fff;font-fami=
+ly:HelveticaNeue,Helvetica Neue,Helvetica,Arial,Lucida Grande,sans-serif;fo=
+nt-size:13px"><div><div><div style=3D"background-color:rgb(255,255,255)"><d=
+iv style=3D"color:rgb(0,0,0);font-family:HelveticaNeue,'Helvetica Neue&=
+#39;,Helvetica,Arial,'Lucida Grande',sans-serif;font-size:13px"><sp=
+an>Namaste Phil.</span></div><div style=3D"color:rgb(0,0,0);font-family:Hel=
+veticaNeue,'Helvetica Neue',Helvetica,Arial,'Lucida Grande'=
+,sans-serif;font-size:13px"><span><br clear=3D"none"></span></div><div styl=
+e=3D"color:rgb(0,0,0);font-family:HelveticaNeue,'Helvetica Neue',He=
+lvetica,Arial,'Lucida Grande',sans-serif;font-size:13px">I shared m=
+y 2 cents on Facebook at:</div><div style=3D"color:rgb(0,0,0);font-family:H=
+elveticaNeue,'Helvetica Neue',Helvetica,Arial,'Lucida Grande=
+9;,sans-serif;font-size:13px"><br></div><div dir=3D"ltr"><a href=3D"https:/=
+/www.facebook.com/pvr108/posts/10153142411433284" target=3D"_blank">https:/=
+/www.facebook.com/pvr108/posts/10153142411433284</a><br></div><div dir=3D"l=
+tr"><br></div><div dir=3D"ltr">You can read it without a Facebook account.<=
+/div><div style=3D"color:rgb(0,0,0);font-family:HelveticaNeue,'Helvetic=
+a Neue',Helvetica,Arial,'Lucida Grande',sans-serif;font-size:13=
+px"></div><div style=3D"color:rgb(0,0,0);font-family:HelveticaNeue,'Hel=
+vetica Neue',Helvetica,Arial,'Lucida Grande',sans-serif;font-si=
+ze:13px"><br clear=3D"none"></div><div style=3D"color:rgb(0,0,0);font-famil=
+y:HelveticaNeue,'Helvetica Neue',Helvetica,Arial,'Lucida Grande=
+',sans-serif;font-size:13px"><div style=3D"color:rgb(0,0,0);font-size:1=
+3px;font-family:arial,helvetica,clean,sans-serif;background-color:transpare=
+nt;font-style:normal">Best regards,<br clear=3D"none">Narasimha<br clear=3D=
+"none">--------<br clear=3D"none">Astrology & Spirituality Resources: <=
+a rel=3D"nofollow" shape=3D"rect" href=3D"http://www.vedicastrologer.org/" =
+target=3D"_blank">http://www.VedicAstrologer.org</a></div><div style=3D"col=
+or:rgb(0,0,0);font-size:13px;font-family:arial,helvetica,clean,sans-serif;b=
+ackground-color:transparent;font-style:normal">--------<br clear=3D"none"><=
+br clear=3D"none"></div></div> <blockquote style=3D"color:rgb(0,0,0);font-f=
+amily:HelveticaNeue,'Helvetica Neue',Helvetica,Arial,'Lucida Gr=
+ande',sans-serif;font-size:13px;border-left-width:2px;border-left-style=
+:solid;border-left-color:rgb(16,16,255);margin-left:5px;margin-top:5px">  <=
+div style=3D"font-family:HelveticaNeue,Helvetica Neue,Helvetica,Arial,Lucid=
+a Grande,sans-serif;font-size:13px"> <div style=3D"font-family:HelveticaNeu=
+e,Helvetica Neue,Helvetica,Arial,Lucida Grande,sans-serif;font-size:16px"> =
+<div dir=3D"ltr"> <hr size=3D"1">  <font size=3D"2" face=3D"Arial"> <b><spa=
+n style=3D"font-weight:bold">From:</span></b> "<a href=3D"mailto:phils=
+tinnet@..." target=3D"_blank">philstinnet@...</a> [vedic-wisdom=
+]" <<a href=3D"mailto:vedic-wisdom@yahoogroups.com" target=3D"_blan=
+k">vedic-wisdom@yahoogroups.com</a>><br clear=3D"none"> <b><span style=
+=3D"font-weight:bold">To:</span></b> <a href=3D"mailto:vedic-wisdom@yahoogr=
+oups.com" target=3D"_blank">vedic-wisdom@yahoogroups.com</a> <br clear=3D"n=
+one"> <b><span style=3D"font-weight:bold">Sent:</span></b> Saturday, August=
+ 15, 2015 6:45 PM<br clear=3D"none"> <b><span style=3D"font-weight:bold">Su=
+bject:</span></b> [vedic-wisdom] Question on spiritual path<br clear=3D"non=
+e"> </font> </div><span class=3D""> <div><br clear=3D"none"><div><div>
+<spa=
+n>=C2=A0</span>
+
+
+<div>
+  <div>
+
+
+    <div>
+      
+      
+      <div></div>=
+<div><span>Dear Narasimha ji and group,</span></div><div><span><br clear=3D=
+"none"></span></div><div><span>I have two questions torturing me for years.=
+ I do not have the answer. However, i am curious to know the philosophy you=
+ (or anyone in the group) follow on this -=C2=A0</span></div><div><span><br=
+ clear=3D"none"></span></div><div><span>1) Someone choosing the path of spi=
+rituality, is it 'pre-destined' as per our horoscope?</span></div><=
+div><span><br clear=3D"none"></span></div><div><span>2) Someone deep into s=
+pirituality and living the blissful state caused by mediation or homam, doe=
+s he (or she) cease to follow his (or her) astrological chart?</span></div>=
+<div><span><br clear=3D"none"></span></div><div><span>3) How to validate th=
+e answers of these two questions given by you (or anyone from the group)?</=
+span></div><div><span><br clear=3D"none"></span></div><div><span>Thanks</sp=
+an></div><div><span><br clear=3D"none"></span></div><div><span>Phil</span><=
+/div><div><span><br clear=3D"none"></span></div>
+
+    </div>
+     
+
+    
+  =
+  <div style=3D"color:#fff;min-height:0"></div></div></div>
+
+
+</div></div><=
+br clear=3D"none"><br clear=3D"none"></div> </span></div> </div> </blockquo=
+te>  </div></div></div></div><p></p>
+
+    </div>
+     
+
+    
+    <div style=
+=3D"color:#fff;min-height:0"></div>
+
+
+</div>
+
+
+
+  
+
+
+
+
+
+
+</blockquote></div=
+><br><br clear=3D"all"><div><br></div>-- <br><div class=3D"gmail_signature"=
+>"If you only have a hammer, you tend to see every problem as a nail.&=
+quot;</div>
+</div>
+
+--089e01176f6fc41f29051d6f6ed7--
+
+

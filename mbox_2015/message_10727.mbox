@@ -1,0 +1,140 @@
+From manibhushan@...  Wed Feb 17 11:07:49 2016
+Return-Path: <manibhushan@...>
+X-Sender: manibhushan@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 31819 invoked by uid 102); 3 Nov 2015 15:06:57 -0000
+X-Received: from unknown (HELO mtaq6.grp.bf1.yahoo.com) (10.193.84.37)
+  by m10.grp.bf1.yahoo.com with SMTP; 3 Nov 2015 15:06:57 -0000
+X-Received: (qmail 16676 invoked from network); 3 Nov 2015 15:06:57 -0000
+X-Received: from unknown (HELO mta1002.groups.mail.ne1.yahoo.com) (98.138.215.82)
+  by mtaq6.grp.bf1.yahoo.com with SMTP; 3 Nov 2015 15:06:57 -0000
+X-Original-Return-Path: <manibhushan@...>
+X-Received-SPF: pass (domain of yahoo.com designates 98.138.91.182 as permitted sender)
+X-YMailISG: LgsNxHUWLDuDVj4mXxjr.MHOTQcmBjLwr6sJAeBAttMt.Amh
+ QO1hnv9Wr0eIB0jp_SNrWFIetuR_uOfAP1tYed3hdNR5dEozxT_DMH7P0dqM
+ A6MAo2ef9nyKtQdkWoxi2YGR3LOK3qdoKLC4SIeCpcjoSNe_o3y6xyKZvs_x
+ sFxK5w39FvwmBB5nB9sLaSt4tpOldOuYR5vMQgz4fsw40BJnJ45WK3jFR0UD
+ jU468GhCR0bMXI9LXJguHeIKfsXDIQIBWwRVt3RuHA7M4RlOvpKvOFMmE8JR
+ PmDMbLEd1hM9Q69_psbHh9Tupa4MJ5K5kuwWLoWuxq05pvOpyE6npPTBmqDe
+ lOQOCdx4MZ62EyBs.olV4vUXt3MhhRf1h8SsyTkF8.RJhw8ix8arD36AhHp7
+ tfKguALGdNHbMy6puj3vT3OoPwpngXhTyIcwDkDT.4mRE3.hoeyvl4WYpZVr
+ UHDBFTpO4HPlmLWEBifpE7Kl5jLR3e1s70j8jMWTH9jUpjQMjb_ksYLnBzMf
+ mtJtR8li.UwMCDZpvkdvt6rHInXo5PC7JqhCPgkuSdYEPPZQGU3nQIa3yRX6
+ pBu.XOmhvgfJIxwrCaacxIzWfAJSqlkgMt.UlJOmoFzJhoEkOC9KkccHYjMO
+ uVXgTzxHfCVDBVDkQFivBXo1hYZFN3nAfoNG1nU4XDfGs2jKBdztW0iBGvNJ
+ lVpAo3qT1_imDadOgEhYhcr.u2zrfUOovs2tYjSWPrYcwPSoyCmUB7aJYqBK
+ ESnhpXbqpd2PfYX0L1uKy9rodQtaIJtd7i4zgZC.4.EsCwp1SFUvWyzXnOWC
+ C7SfmVl_aocndPZLnL8SJ8vGB3licwW28VkEF075y8weoZ1Q6K7W3s8cLtIx
+ UEMScM0oZbEb6tQqLb6UTPBMxqGUV.AM48hA1vQXIaOJlsIzUtHcf8OxLsR.
+ sZ6VzucASDRgKzBeq79nMTfHdgWMxzpHtREr.IZc9HMdVGVum2TRLgTP9AVB
+ xh7dvOfiiSN2Wovc3lKj6BH0usaXm8Fdo8KFNHbL17zgBAsEWlZA_lAJHVce
+ okGKZGHtM_t86.fV7rbztzk.td.Rda1tpBge0QD9pdugvB0lINt668W3YkQ3
+ 2IgvOq5VdaCGu90Rsqwca71F6.CFl3S_dj1b1fCmHnVbdbg9QY2zfqRKlyjY
+ 1Yz54w5eXOSaBxoa9kaSV3ZlCGQ.tHKTRZvOsGtU2UTwCTd0K2jDaQMxLBlm
+ sHTlNyUi6YGKVCQoqHPqvVw0GNvTh38AmuQrAhB0DNaUXtK7pHuVtDtksPiU
+ a1rHYKPYQWJSpyhrpZNt8EdXRDj77ajg03wbTrHnjDOVwgTCMvgQqJSml71k
+ cseFTSeW9uko7RvoLWs.9UuXGUSux0NLK6SEySrFENaNhsMDkqljcyoMd0gi
+ xsRTGp3ddkOdE_Cn2JX0JYXA7iouzr5zxJfYtHgE3uyhzYr5y4h.G8qqvtSj
+ S39VjlGyxiBWOEEjiAo1w1FSg6wY0HZc7QRi0BZcLa3iUBBPDY8g7Md5Fxo6
+ 8UQp2M7EpFR3l7igptziKPOf_LXc
+Authentication-Results: mta1002.groups.mail.ne1.yahoo.com  from=yahoo.com; domainkeys=neutral (no sig);  from=yahoo.com; dkim=pass (ok)
+X-Received: from 127.0.0.1  (EHLO nm22-vm4.bullet.mail.ne1.yahoo.com) (98.138.91.182)
+  by mta1002.groups.mail.ne1.yahoo.com with SMTPS; Tue, 03 Nov 2015 15:06:57 +0000
+X-Received: from [98.138.100.118] by nm22.bullet.mail.ne1.yahoo.com with NNFMP; 03 Nov 2015 15:06:57 -0000
+X-Received: from [98.138.87.10] by tm109.bullet.mail.ne1.yahoo.com with NNFMP; 03 Nov 2015 15:06:56 -0000
+X-Received: from [127.0.0.1] by omp1010.mail.ne1.yahoo.com with NNFMP; 03 Nov 2015 15:06:56 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 894794.30789.bm@...
+X-YMail-OSG: jwCjg20VM1nb5dFrmWW93G58wgY6GEjdMnTUvO6SOlPlR7_K3WhBXND8P8D5f6h
+ V8LjIFW.oXQtA_6UBnMLvQlJN77e3O8jYo3uA0UDKC0vAfHatZWppu5eACsVIWYd6YiuAvUi0dxu
+ G8OHAKx88cIqMfRwo9jgWU1ef3dfpjNtumgaa89.2jMU59JnREWZ4lUxCfTqXHFq8sGumsqLWVXS
+ h9_d3boHb3E8IaSANPfLboabvK5hgsDPp0UbpUl.o6jVylr9zCYFR1xUkOs2nBBtJSYeAvB231yC
+ 4wkaGBiFUvLJSyNA8Wa0B7d9HMKxm2cvqQZd8N2b7M7AdB7.0QJ3vkON9M891nxt08o4TwfkLMIS
+ 7FSDardT187kUdVKVaPZRPTJrXzMbUaw7z8UixP8v_YqDVwBLHR9zWHLj3rtTjdKYN5aD0YH2enJ
+ BeVje8SEKwuObGoU21Rq8572R_H5KJX4KGQ6d2NAPViYGBHyACvD5RTnck8vA1ryNy.lheG61XPY
+ GEDOT5M.rQrM-
+X-Received: by 98.138.105.227; Tue, 03 Nov 2015 15:06:56 +0000 
+Date: Tue, 3 Nov 2015 15:06:52 +0000 (UTC)
+To: yahoogroups <vedic-wisdom@yahoogroups.com>
+Message-ID: <895253503.1201050.1446563212420.JavaMail.yahoo@...>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_1201049_657552382.1446563212417"
+References: <895253503.1201050.1446563212420.JavaMail.yahoo@...>
+Content-Length: 3218
+X-Originating-IP: 98.138.215.82
+Subject: Homam
+X-Yahoo-Group-Post: member; u=88547393; y=tmFpl7eUaZVeuBKZpTKJAfThmUW3r85XoFpCIGtTpbgiAqR3pZo
+X-Yahoo-Profile: manibhushan
+From: ManiBhushan surya <manibhushan@...>
+
+
+------=_Part_1201049_657552382.1446563212417
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+ blockquote, div.yahoo_quoted { margin-left: 0 !important; border-left:1px =
+#715FFA solid !important;  padding-left:1ex !important; background-color:wh=
+ite !important; }  Sir, recently I was just verifying my experience =C2=A0a=
+bout homam =C2=A0with one learned spiritual person with the hope of getting=
+ guidance. =C2=A0I already shared my experience in this platform . I had =
+=C2=A0a feeling of moving electric shocks =C2=A0all through my body after d=
+oing homam for 3 months.=C2=A0
+=C2=A0 He was taken aback =C2=A0and said How=
+ can u do homam women should not do =C2=A0homam . And without guru how can =
+u chant mantram that too in homam. You should not do .=C2=A0
+Narasimha rao =
+Garu=C2=A0After speaking to him I felt =C2=A0so great full to you . But for=
+ you I would not have had the experience of doing homam. People =C2=A0are =
+=C2=A0bent upon=C2=A0creating =C2=A0more and more fears =C2=A0driving them =
+away from the truth.=C2=A0You r really great =C2=A0open minded =C2=A0and gr=
+ounded as well. I am going through your articles on face book =C2=A0You are=
+ really inspiring .
+ThanqMani
+
+
+
+
+Sent from Yahoo Mail for iPad
+
+------=_Part_1201049_657552382.1446563212417
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+
+                <style type=3D"text/css" scoped=3D"">
+                    =
+blockquote, div.yahoo_quoted {
+                        margin-left: 0 !impo=
+rtant;
+                        border-left:1px #715FFA solid !important;
+  =
+                      padding-left:1ex !important;
+                        =
+background-color:white !important;
+                    }
+                </=
+style>
+                Sir, recently I was just verifying my experience &nb=
+sp;about homam  with one learned spiritual person with the hope of get=
+ting guidance.  I already shared my experience in this platform . I ha=
+d  a feeling of moving electric shocks  all through my body after=
+ doing homam for 3 months. <div><span style=3D"-webkit-text-size-adjus=
+t: auto;"><br></span></div><div><span style=3D"-webkit-text-size-adjust: au=
+to;">  He was taken aback  and said How can u do homam women shou=
+ld not do  homam . And without guru how can u chant mantram that too i=
+n homam. You should not do . </span><div><div><div><br></div><div>Nara=
+simha rao Garu </div><div>After speaking to him I felt  so great =
+full to you . But for you I would not have had the experience of doing homa=
+m. People  are  bent upon <span style=3D"-webkit-text-size-a=
+djust: auto;">creating  more and more fears  driving them away fr=
+om the truth. </span></div><div>You r really great  open minded &=
+nbsp;and grounded as well. I am going through your articles on face book &n=
+bsp;You are really inspiring .</div><div><br></div><div>Thanq</div><div>Man=
+i</div><div><br></div><div><br></div><div><br><br><br><a href=3D"https://yh=
+o.com/footer0">Sent from Yahoo Mail for iPad</a><br>
+            </div></di=
+v></div></div>
+------=_Part_1201049_657552382.1446563212417--
+
+

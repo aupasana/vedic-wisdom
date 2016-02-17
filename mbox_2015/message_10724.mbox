@@ -1,0 +1,525 @@
+From pvr108@...  Wed Feb 17 11:07:49 2016
+Return-Path: <pvr108@...>
+X-Sender: pvr108@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 19199 invoked by uid 102); 17 Oct 2015 19:43:43 -0000
+X-Received: from unknown (HELO mtaq3.grp.bf1.yahoo.com) (10.193.84.142)
+  by m1.grp.bf1.yahoo.com with SMTP; 17 Oct 2015 19:43:43 -0000
+X-Received: (qmail 24268 invoked from network); 17 Oct 2015 19:43:43 -0000
+X-Received: from unknown (HELO mta1002.groups.mail.bf1.yahoo.com) (98.139.170.166)
+  by mtaq3.grp.bf1.yahoo.com with SMTP; 17 Oct 2015 19:43:43 -0000
+X-Original-Return-Path: <pvr108@...>
+X-Received-SPF: pass (domain of yahoo.com designates 98.139.212.179 as permitted sender)
+X-YMailISG: WnbZ_TYWLDtiC7Rx62MlwaVIunRTpaBBdIUw6Zdiyj69yypo
+ zO69Y5TtL0oDS_LRn0sX5T9YVnsBby0eaZRhrrovmHSlM0wpGhHriPU_aNsY
+ aV5TjLfa238zCU6D6auGs.2MgZ4stJsdHclZADNlBlwcgS1cvZt7QCFjJDcf
+ RtRAW7GoBIqy_.yc01Wrp.bpU19NpjljTU8c5skQ8PRUFm37RXQp0O7mQVM_
+ W17vGSsPlEPCmnyWocgqV4KTTgLUCK.8N9ZBHCStwZtTDNDMulrtGZi8H_zb
+ S7DcYGwm0EQJPb8eKfMOrEynQ3SHCBm2amdLBlMPoVxWebobYa0U8OVdZ6dD
+ ypyuEJGLcPPPgrPk5cWv3.uZEoYguSf.xa9gLepTHqxwd.CMY5DLE7UdXLsk
+ usfRx6xxWkffWxmI.r8Kx32bzQehgUJI.GDWFrbYlbvPWBoQL5ben9NPIxdk
+ CwyZ_Tn9V4asjoixzvFyKq7mZQAFs6Jm6fFBYHkhEIAlPcx9xmX3nfCclrqF
+ .J_H6OUE486bCmw4qa7ca7Rtex8oSBYZx8aox2PN8gVuH4t17.dO.1xQkfmv
+ tn8XI6e.5D2zOcKehYH1RAAp1IPVQeEcDqRk0YQ65GwsmzoiGOxeWmj4MlN9
+ g7zUEKQaEpSqoQjYkN8fR6bGKDYgoEkn_0ee44oBZXe0nwNGQ8KGBh653HnA
+ k.h4QFbZJ1P04I6Hc6PUi5JCpaMUJWHqItXjSe2mg6J4Rt9DFSVbnUyUEcrx
+ PSJhScAF3nKmHUjvTBBupxF.jxEmrXWDf1QRDWxOgD9ccOo1WFhjBZKD3v5Y
+ G.Hdk6glsqO767Mowmd3xn0EjlbmKWt7y4YoZDF7RyzD29ofov0ZWI91k.ND
+ M06j3VCw6yoxImfhlE20zWmUBluCwJEuuE2SvO2REush38pINxQjQX4hKPa3
+ MbJY16fvoEuUdfdUJsTaSUwcFjvRtI5X7Sx.ln9Ieux71f9nX3RSWxvZ1LwR
+ UCmYbtwhrFmykhW4u2LlbBYqjVstBMNZzJV1zIE7hG4CsQ16ldE5lAOhIRTF
+ 0FbKn8C1QOWeL.S1FOeQpjJEd4RyP52VBZlOQny_Ujuh_F09mhxz8lo9QG6a
+ JRafjB7FMRzMPTZYq.HUD2j7a4vqOctWWOsmWvTojKhFkXoqUGhXtAVtdm.Y
+ NB.YkzmX7XAcA0yd5jbMzpiyPV1952r3i8_fo.w9CCjfNTSZv7zl37HqMOco
+ o.pphfWSGhvyBhXZCKYjejThkv1XtQevc8TEjQTprfPaiKFm3bvSckHa4ecJ
+ AUDa.4kexDGW2_db2hGAgkn0WgymJtQtaeFwH2T5QXSIluTISo0H0r8ddkRY
+ dN.zHJCJ4MHo0m38FEMoMBqQpyPcFnLOGysm45.bqcm2eEGgQC_.4uiq73RT
+ mnCB70AqDl1e_VPlTFj5V54N3eCBpmHcEeNwLW2ZftJ5dF3jL9A2TiHGd4II
+ CqzPCL.DAM87zwnwlCb05alj.5pR3MtODi0V3qQjJhFlD6VnPOLbk2zD_Fl_
+ GBNTHvPRxdJeroA6szmw68BIlhb2UWdaZb2eM5ktlylSOCGVcl5QaP.UWrYz
+ HggVY8dF1ycg94.v8iv0Zg2b7SLBa3myzP.x90BlGU4TPCAGAaOQQvc83U91
+ .zDVoQ--
+Authentication-Results: mta1002.groups.mail.bf1.yahoo.com  from=yahoo.com; domainkeys=neutral (no sig);  from=yahoo.com; dkim=pass (ok)
+X-Received: from 127.0.0.1  (EHLO nm20.bullet.mail.bf1.yahoo.com) (98.139.212.179)
+  by mta1002.groups.mail.bf1.yahoo.com with SMTPS; Sat, 17 Oct 2015 19:43:43 +0000
+X-Received: from [98.139.215.141] by nm20.bullet.mail.bf1.yahoo.com with NNFMP; 17 Oct 2015 19:43:43 -0000
+X-Received: from [98.139.212.231] by tm12.bullet.mail.bf1.yahoo.com with NNFMP; 17 Oct 2015 19:43:43 -0000
+X-Received: from [127.0.0.1] by omp1040.mail.bf1.yahoo.com with NNFMP; 17 Oct 2015 19:43:43 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 143976.51455.bm@...
+X-YMail-OSG: QNg8hDwVM1kNzMZ_7NQDG8jIInOhZGJtZ50MlkFOrPotC73ISJIV2a8hl_rqbAa
+ HjQaWy3_qtlG5wuhbiMuEMlUqsAa3xp2nb2zmzll9U9_d0x_Yv2MSTLZTzCCb8g8BkacX4_xRQe8
+ jtndM17oriBS1Hy162B.aB8m8EaHRrG4u0OOFSkquxiBUW2P8.bNYqNk_caGJmIXqBEGzo48txlO
+ 2bhv.ng876FiPNT.FksnQ67ww9MjCzo4r9uuy514H36AoBobmvHE_Uib01LcfFFBb_Bq5deiC3eZ
+ JMVBibKiJHW6sajfT0l9tnNiV4BjxelLDEm.Z3ebQiRlxNzwNJhtTfadHd.XJkLgI9VgbNNqZ5Y9
+ rOiWxacfRqsqy1f.RkZj2SrfLfrrB885VofVJruk4TUyVntYS2OP2QOkiaGY5jWv4x3DYHOrPv78
+ AweHqeG8tg8jhfevU_SexqEfYrfDIHpfsSW_zmFun8vGyFMnNSUsIQXHrQUIUmr1xuPg3NKoUV5I
+ h.n26sE3D2g--
+X-Received: by 76.13.26.127; Sat, 17 Oct 2015 19:43:42 +0000 
+Date: Sat, 17 Oct 2015 19:43:42 +0000 (UTC)
+To: "vedic-wisdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com>
+Message-ID: <74260567.1947949.1445111022170.JavaMail.yahoo@...>
+In-Reply-To: <CAJ9joEbHjzJL9Jf5Nwsa1Vngor=d=TEywM9_PgEiV8B1m3oS7w@...>
+References: <CAJ9joEbHjzJL9Jf5Nwsa1Vngor=d=TEywM9_PgEiV8B1m3oS7w@...>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_1947948_969628197.1445111022164"
+Content-Length: 16873
+X-Originating-IP: 98.139.170.166
+Reply-To: "Narasimha P.V.R. Rao" <pvr108@...>
+Subject: Re: shaap vimochan for Durga Saptashati
+X-Yahoo-Group-Post: member; u=77866142; y=vIggtDJWHBxZApqX2FwJ_6kuy9JyqtU2i-dAqbuAgRhy
+X-Yahoo-Profile: pvr108
+From: "Narasimha P.V.R. Rao" <pvr108@...>
+
+
+------=_Part_1947948_969628197.1445111022164
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Namaste,
+Please see my small writeup on Facebook on curses on powerful mant=
+ras:=C2=A0https://www.facebook.com/pvr108/posts/10152840918603284
+You don't=
+ need to have a Facebook account to click on the link and read it.
+Best reg=
+ards,
+Narasimha
+--------
+Astrology & Spirituality Resources: http://www.Ved=
+icAstrologer.org--------
+
+ 
+      From: "Durgesh Mishra durgesh.mishra@gmai=
+l.com [vedic-wisdom]" <vedic-wisdom@yahoogroups.com>
+ To: vedic-wisdom@yaho=
+ogroups.com 
+ Sent: Wednesday, October 14, 2015 2:03 AM
+ Subject: [vedic-wi=
+sdom] shaap vimochan for Durga Saptashati
+   
+=C2=A0   Namaste Gurujan,
+I c=
+ame across this article about shaap vimochan and utkeelan before reading Du=
+rga Saptashati. I have never done this.
+Please share your views about it.
+h=
+ttp://www.sanatangyanpeeth.in/durga-saptashati-utkeelan/
+
+RegardsDurgesh O =
+Mishra     
+ #yiv1541015387 #yiv1541015387 -- #yiv1541015387ygrp-mkp {borde=
+r:1px solid #d8d8d8;font-family:Arial;margin:10px 0;padding:0 10px;}#yiv154=
+1015387 #yiv1541015387ygrp-mkp hr {border:1px solid #d8d8d8;}#yiv1541015387=
+ #yiv1541015387ygrp-mkp #yiv1541015387hd {color:#628c2a;font-size:85%;font-=
+weight:700;line-height:122%;margin:10px 0;}#yiv1541015387 #yiv1541015387ygr=
+p-mkp #yiv1541015387ads {margin-bottom:10px;}#yiv1541015387 #yiv1541015387y=
+grp-mkp .yiv1541015387ad {padding:0 0;}#yiv1541015387 #yiv1541015387ygrp-mk=
+p .yiv1541015387ad p {margin:0;}#yiv1541015387 #yiv1541015387ygrp-mkp .yiv1=
+541015387ad a {color:#0000ff;text-decoration:none;}#yiv1541015387 #yiv15410=
+15387ygrp-sponsor #yiv1541015387ygrp-lc {font-family:Arial;}#yiv1541015387 =
+#yiv1541015387ygrp-sponsor #yiv1541015387ygrp-lc #yiv1541015387hd {margin:1=
+0px 0px;font-weight:700;font-size:78%;line-height:122%;}#yiv1541015387 #yiv=
+1541015387ygrp-sponsor #yiv1541015387ygrp-lc .yiv1541015387ad {margin-botto=
+m:10px;padding:0 0;}#yiv1541015387 #yiv1541015387actions {font-family:Verda=
+na;font-size:11px;padding:10px 0;}#yiv1541015387 #yiv1541015387activity {ba=
+ckground-color:#e0ecee;float:left;font-family:Verdana;font-size:10px;paddin=
+g:10px;}#yiv1541015387 #yiv1541015387activity span {font-weight:700;}#yiv15=
+41015387 #yiv1541015387activity span:first-child {text-transform:uppercase;=
+}#yiv1541015387 #yiv1541015387activity span a {color:#5085b6;text-decoratio=
+n:none;}#yiv1541015387 #yiv1541015387activity span span {color:#ff7900;}#yi=
+v1541015387 #yiv1541015387activity span .yiv1541015387underline {text-decor=
+ation:underline;}#yiv1541015387 .yiv1541015387attach {clear:both;display:ta=
+ble;font-family:Arial;font-size:12px;padding:10px 0;width:400px;}#yiv154101=
+5387 .yiv1541015387attach div a {text-decoration:none;}#yiv1541015387 .yiv1=
+541015387attach img {border:none;padding-right:5px;}#yiv1541015387 .yiv1541=
+015387attach label {display:block;margin-bottom:5px;}#yiv1541015387 .yiv154=
+1015387attach label a {text-decoration:none;}#yiv1541015387 blockquote {mar=
+gin:0 0 0 4px;}#yiv1541015387 .yiv1541015387bold {font-family:Arial;font-si=
+ze:13px;font-weight:700;}#yiv1541015387 .yiv1541015387bold a {text-decorati=
+on:none;}#yiv1541015387 dd.yiv1541015387last p a {font-family:Verdana;font-=
+weight:700;}#yiv1541015387 dd.yiv1541015387last p span {margin-right:10px;f=
+ont-family:Verdana;font-weight:700;}#yiv1541015387 dd.yiv1541015387last p s=
+pan.yiv1541015387yshortcuts {margin-right:0;}#yiv1541015387 div.yiv15410153=
+87attach-table div div a {text-decoration:none;}#yiv1541015387 div.yiv15410=
+15387attach-table {width:400px;}#yiv1541015387 div.yiv1541015387file-title =
+a, #yiv1541015387 div.yiv1541015387file-title a:active, #yiv1541015387 div.=
+yiv1541015387file-title a:hover, #yiv1541015387 div.yiv1541015387file-title=
+ a:visited {text-decoration:none;}#yiv1541015387 div.yiv1541015387photo-tit=
+le a, #yiv1541015387 div.yiv1541015387photo-title a:active, #yiv1541015387 =
+div.yiv1541015387photo-title a:hover, #yiv1541015387 div.yiv1541015387photo=
+-title a:visited {text-decoration:none;}#yiv1541015387 div#yiv1541015387ygr=
+p-mlmsg #yiv1541015387ygrp-msg p a span.yiv1541015387yshortcuts {font-famil=
+y:Verdana;font-size:10px;font-weight:normal;}#yiv1541015387 .yiv1541015387g=
+reen {color:#628c2a;}#yiv1541015387 .yiv1541015387MsoNormal {margin:0 0 0 0=
+;}#yiv1541015387 o {font-size:0;}#yiv1541015387 #yiv1541015387photos div {f=
+loat:left;width:72px;}#yiv1541015387 #yiv1541015387photos div div {border:1=
+px solid #666666;height:62px;overflow:hidden;width:62px;}#yiv1541015387 #yi=
+v1541015387photos div label {color:#666666;font-size:10px;overflow:hidden;t=
+ext-align:center;white-space:nowrap;width:64px;}#yiv1541015387 #yiv15410153=
+87reco-category {font-size:77%;}#yiv1541015387 #yiv1541015387reco-desc {fon=
+t-size:77%;}#yiv1541015387 .yiv1541015387replbq {margin:4px;}#yiv1541015387=
+ #yiv1541015387ygrp-actbar div a:first-child {margin-right:2px;padding-righ=
+t:5px;}#yiv1541015387 #yiv1541015387ygrp-mlmsg {font-size:13px;font-family:=
+Arial, helvetica, clean, sans-serif;}#yiv1541015387 #yiv1541015387ygrp-mlms=
+g table {font-size:inherit;font:100%;}#yiv1541015387 #yiv1541015387ygrp-mlm=
+sg select, #yiv1541015387 input, #yiv1541015387 textarea {font:99% Arial, H=
+elvetica, clean, sans-serif;}#yiv1541015387 #yiv1541015387ygrp-mlmsg pre, #=
+yiv1541015387 code {font:115% monospace;}#yiv1541015387 #yiv1541015387ygrp-=
+mlmsg * {line-height:1.22em;}#yiv1541015387 #yiv1541015387ygrp-mlmsg #yiv15=
+41015387logo {padding-bottom:10px;}#yiv1541015387 #yiv1541015387ygrp-msg p =
+a {font-family:Verdana;}#yiv1541015387 #yiv1541015387ygrp-msg p#yiv15410153=
+87attach-count span {color:#1E66AE;font-weight:700;}#yiv1541015387 #yiv1541=
+015387ygrp-reco #yiv1541015387reco-head {color:#ff7900;font-weight:700;}#yi=
+v1541015387 #yiv1541015387ygrp-reco {margin-bottom:20px;padding:0px;}#yiv15=
+41015387 #yiv1541015387ygrp-sponsor #yiv1541015387ov li a {font-size:130%;t=
+ext-decoration:none;}#yiv1541015387 #yiv1541015387ygrp-sponsor #yiv15410153=
+87ov li {font-size:77%;list-style-type:square;padding:6px 0;}#yiv1541015387=
+ #yiv1541015387ygrp-sponsor #yiv1541015387ov ul {margin:0;padding:0 0 0 8px=
+;}#yiv1541015387 #yiv1541015387ygrp-text {font-family:Georgia;}#yiv15410153=
+87 #yiv1541015387ygrp-text p {margin:0 0 1em 0;}#yiv1541015387 #yiv15410153=
+87ygrp-text tt {font-size:120%;}#yiv1541015387 #yiv1541015387ygrp-vital ul =
+li:last-child {border-right:none !important;}#yiv1541015387
+------=_Part_1947948_969628197.1445111022164
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><head></head><body><div style=3D"color:#000; background-color:#fff; f=
+ont-family:HelveticaNeue, Helvetica Neue, Helvetica, Arial, Lucida Grande, =
+sans-serif;font-size:13px"><div id=3D"yui_3_16_0_1_1445087537432_23219"><sp=
+an id=3D"yui_3_16_0_1_1445087537432_23879">Namaste,</span></div><div id=3D"=
+yui_3_16_0_1_1445087537432_23219"><span><br></span></div><div id=3D"yui_3_1=
+6_0_1_1445087537432_23219" dir=3D"ltr"><span id=3D"yui_3_16_0_1_14450875374=
+32_24042">Please see my small writeup on Facebook on curses on powerful man=
+tras: </span><a href=3D"https://www.facebook.com/pvr108/posts/10152840=
+918603284" id=3D"yui_3_16_0_1_1445087537432_24037">https://www.facebook.com=
+/pvr108/posts/10152840918603284</a></div><div id=3D"yui_3_16_0_1_1445087537=
+432_23219" dir=3D"ltr"><br></div><div id=3D"yui_3_16_0_1_1445087537432_2321=
+9" dir=3D"ltr">You don't need to have a Facebook account to click on the li=
+nk and read it.</div><div></div><div id=3D"yui_3_16_0_1_1445087537432_23221=
+"><br></div><div class=3D"signature" id=3D"yui_3_16_0_1_1445087537432_23224=
+"><div style=3D"color:rgb(0, 0, 0);font-size:13px;font-family:arial, helvet=
+ica, clean, sans-serif;background-color:transparent;font-style:normal;" id=
+=3D"yui_3_16_0_1_1445087537432_23223">Best regards,<br>Narasimha<br>-------=
+-<br>Astrology & Spirituality Resources: <a rel=3D"nofollow" target=3D"=
+_blank" href=3D"http://www.vedicastrologer.org/">http://www.VedicAstrologer=
+.org</a></div><div style=3D"color:rgb(0, 0, 0);font-size:13px;font-family:a=
+rial, helvetica, clean, sans-serif;background-color:transparent;font-style:=
+normal;" id=3D"yui_3_16_0_1_1445087537432_23226">--------<br></div></div><b=
+r> <blockquote style=3D"border-left: 2px solid rgb(16, 16, 255); margin-lef=
+t: 5px; margin-top: 5px; padding-left: 5px;" id=3D"yui_3_16_0_1_14450875374=
+32_23737">  <div style=3D"font-family: HelveticaNeue, Helvetica Neue, Helve=
+tica, Arial, Lucida Grande, sans-serif; font-size: 13px;" id=3D"yui_3_16_0_=
+1_1445087537432_23736"> <div style=3D"font-family: HelveticaNeue, Helvetica=
+ Neue, Helvetica, Arial, Lucida Grande, sans-serif; font-size: 16px;" id=3D=
+"yui_3_16_0_1_1445087537432_23735"> <div dir=3D"ltr" id=3D"yui_3_16_0_1_144=
+5087537432_23742"> <hr size=3D"1" id=3D"yui_3_16_0_1_1445087537432_23912"> =
+ <font size=3D"2" face=3D"Arial" id=3D"yui_3_16_0_1_1445087537432_23741"> <=
+b><span style=3D"font-weight:bold;">From:</span></b> "Durgesh Mishra durges=
+h.mishra@... [vedic-wisdom]" <vedic-wisdom@yahoogroups.com><br>=
+ <b><span style=3D"font-weight: bold;">To:</span></b> vedic-wisdom@yahoogro=
+ups.com <br> <b><span style=3D"font-weight: bold;">Sent:</span></b> Wednesd=
+ay, October 14, 2015 2:03 AM<br> <b id=3D"yui_3_16_0_1_1445087537432_23896"=
+><span style=3D"font-weight: bold;" id=3D"yui_3_16_0_1_1445087537432_23895"=
+>Subject:</span></b> [vedic-wisdom] shaap vimochan for Durga Saptashati<br>=
+ </font> </div> <div class=3D"y_msg_container" id=3D"yui_3_16_0_1_144508753=
+7432_23734"><br><div id=3D"yiv1541015387"><div id=3D"yui_3_16_0_1_144508753=
+7432_23733">
+<span style=3D"display:none;"> </span>
+
+
+<div id=3D"yiv15=
+41015387ygrp-mlmsg" style=3D"">
+  <div id=3D"yiv1541015387ygrp-msg" style=
+=3D"">
+
+
+    <div id=3D"yiv1541015387ygrp-text">
+      
+      
+      <div><=
+/div><div dir=3D"ltr" id=3D"yui_3_16_0_1_1445087537432_23732">Namaste Guruj=
+an,
+<div id=3D"yui_3_16_0_1_1445087537432_23763"><br clear=3D"none"></div><=
+div id=3D"yui_3_16_0_1_1445087537432_23779">I came across this article abou=
+t shaap vimochan and utkeelan before reading Durga Saptashati. I have never=
+ done this.</div><div id=3D"yui_3_16_0_1_1445087537432_23765"><br clear=3D"=
+none"></div><div id=3D"yui_3_16_0_1_1445087537432_23777">Please share your =
+views about it.</div><div id=3D"yui_3_16_0_1_1445087537432_23739"><br clear=
+=3D"none"></div><div id=3D"yui_3_16_0_1_1445087537432_23731"><a rel=3D"nofo=
+llow" shape=3D"rect" target=3D"_blank" href=3D"http://www.sanatangyanpeeth.=
+in/durga-saptashati-utkeelan/" id=3D"yui_3_16_0_1_1445087537432_23730">http=
+://www.sanatangyanpeeth.in/durga-saptashati-utkeelan/</a><br clear=3D"none"=
+></div><div id=3D"yui_3_16_0_1_1445087537432_23782"><br clear=3D"none"></di=
+v><div id=3D"yui_3_16_0_1_1445087537432_23821">Regards</div><div id=3D"yui_=
+3_16_0_1_1445087537432_23775">Durgesh O Mishra</div></div>
+
+
+    </div>
+   =
+  
+
+    
+    <div style=3D"color:#fff;height:0;" id=3D"yui_3_16_0_1_1445087=
+537432_23767"></div></div></div></div></div></div> </div> </div> </blockquo=
+te>  <style type=3D"text/css">
+#yiv1541015387 #yiv1541015387 --
+  #yiv15410=
+15387ygrp-mkp {
+border:1px solid #d8d8d8;font-family:Arial;margin:10px 0;pa=
+dding:0 10px;}
+
+#yiv1541015387 #yiv1541015387ygrp-mkp hr {
+border:1px solid=
+ #d8d8d8;}
+
+#yiv1541015387 #yiv1541015387ygrp-mkp #yiv1541015387hd {
+color:=
+#628c2a;font-size:85%;font-weight:700;line-height:122%;margin:10px 0;}
+
+#yi=
+v1541015387 #yiv1541015387ygrp-mkp #yiv1541015387ads {
+margin-bottom:10px;}=
+
+
+#yiv1541015387 #yiv1541015387ygrp-mkp .yiv1541015387ad {
+padding:0 0;}
+
+#=
+yiv1541015387 #yiv1541015387ygrp-mkp .yiv1541015387ad p {
+margin:0;}
+
+#yiv1=
+541015387 #yiv1541015387ygrp-mkp .yiv1541015387ad a {
+color:#0000ff;text-de=
+coration:none;}
+#yiv1541015387 #yiv1541015387ygrp-sponsor #yiv1541015387ygr=
+p-lc {
+font-family:Arial;}
+
+#yiv1541015387 #yiv1541015387ygrp-sponsor #yiv1=
+541015387ygrp-lc #yiv1541015387hd {
+margin:10px 0px;font-weight:700;font-si=
+ze:78%;line-height:122%;}
+
+#yiv1541015387 #yiv1541015387ygrp-sponsor #yiv15=
+41015387ygrp-lc .yiv1541015387ad {
+margin-bottom:10px;padding:0 0;}
+
+#yiv15=
+41015387 #yiv1541015387actions {
+font-family:Verdana;font-size:11px;padding=
+:10px 0;}
+
+#yiv1541015387 #yiv1541015387activity {
+background-color:#e0ecee=
+;float:left;font-family:Verdana;font-size:10px;padding:10px;}
+
+#yiv15410153=
+87 #yiv1541015387activity span {
+font-weight:700;}
+
+#yiv1541015387 #yiv1541=
+015387activity span:first-child {
+text-transform:uppercase;}
+
+#yiv154101538=
+7 #yiv1541015387activity span a {
+color:#5085b6;text-decoration:none;}
+
+#yi=
+v1541015387 #yiv1541015387activity span span {
+color:#ff7900;}
+
+#yiv1541015=
+387 #yiv1541015387activity span .yiv1541015387underline {
+text-decoration:u=
+nderline;}
+
+#yiv1541015387 .yiv1541015387attach {
+clear:both;display:table;=
+font-family:Arial;font-size:12px;padding:10px 0;width:400px;}
+
+#yiv15410153=
+87 .yiv1541015387attach div a {
+text-decoration:none;}
+
+#yiv1541015387 .yiv=
+1541015387attach img {
+border:none;padding-right:5px;}
+
+#yiv1541015387 .yiv=
+1541015387attach label {
+display:block;margin-bottom:5px;}
+
+#yiv1541015387 =
+.yiv1541015387attach label a {
+text-decoration:none;}
+
+#yiv1541015387 block=
+quote {
+margin:0 0 0 4px;}
+
+#yiv1541015387 .yiv1541015387bold {
+font-family=
+:Arial;font-size:13px;font-weight:700;}
+
+#yiv1541015387 .yiv1541015387bold =
+a {
+text-decoration:none;}
+
+#yiv1541015387 dd.yiv1541015387last p a {
+font-=
+family:Verdana;font-weight:700;}
+
+#yiv1541015387 dd.yiv1541015387last p spa=
+n {
+margin-right:10px;font-family:Verdana;font-weight:700;}
+
+#yiv1541015387=
+ dd.yiv1541015387last p span.yiv1541015387yshortcuts {
+margin-right:0;}
+
+#y=
+iv1541015387 div.yiv1541015387attach-table div div a {
+text-decoration:none=
+;}
+
+#yiv1541015387 div.yiv1541015387attach-table {
+width:400px;}
+
+#yiv15410=
+15387 div.yiv1541015387file-title a, #yiv1541015387 div.yiv1541015387file-t=
+itle a:active, #yiv1541015387 div.yiv1541015387file-title a:hover, #yiv1541=
+015387 div.yiv1541015387file-title a:visited {
+text-decoration:none;}
+
+#yiv=
+1541015387 div.yiv1541015387photo-title a, #yiv1541015387 div.yiv1541015387=
+photo-title a:active, #yiv1541015387 div.yiv1541015387photo-title a:hover, =
+#yiv1541015387 div.yiv1541015387photo-title a:visited {
+text-decoration:non=
+e;}
+
+#yiv1541015387 div#yiv1541015387ygrp-mlmsg #yiv1541015387ygrp-msg p a =
+span.yiv1541015387yshortcuts {
+font-family:Verdana;font-size:10px;font-weig=
+ht:normal;}
+
+#yiv1541015387 .yiv1541015387green {
+color:#628c2a;}
+
+#yiv1541=
+015387 .yiv1541015387MsoNormal {
+margin:0 0 0 0;}
+
+#yiv1541015387 o {
+font-=
+size:0;}
+
+#yiv1541015387 #yiv1541015387photos div {
+float:left;width:72px;}=
+
+
+#yiv1541015387 #yiv1541015387photos div div {
+border:1px solid #666666;he=
+ight:62px;overflow:hidden;width:62px;}
+
+#yiv1541015387 #yiv1541015387photos=
+ div label {
+color:#666666;font-size:10px;overflow:hidden;text-align:center=
+;white-space:nowrap;width:64px;}
+
+#yiv1541015387 #yiv1541015387reco-categor=
+y {
+font-size:77%;}
+
+#yiv1541015387 #yiv1541015387reco-desc {
+font-size:77%=
+;}
+
+#yiv1541015387 .yiv1541015387replbq {
+margin:4px;}
+
+#yiv1541015387 #yiv=
+1541015387ygrp-actbar div a:first-child {
+margin-right:2px;padding-right:5p=
+x;}
+
+#yiv1541015387 #yiv1541015387ygrp-mlmsg {
+font-size:13px;font-family:A=
+rial, helvetica, clean, sans-serif;}
+
+#yiv1541015387 #yiv1541015387ygrp-mlm=
+sg table {
+font-size:inherit;font:100%;}
+
+#yiv1541015387 #yiv1541015387ygrp=
+-mlmsg select, #yiv1541015387 input, #yiv1541015387 textarea {
+font:99% Ari=
+al, Helvetica, clean, sans-serif;}
+
+#yiv1541015387 #yiv1541015387ygrp-mlmsg=
+ pre, #yiv1541015387 code {
+font:115% monospace;}
+
+#yiv1541015387 #yiv15410=
+15387ygrp-mlmsg * {
+line-height:1.22em;}
+
+#yiv1541015387 #yiv1541015387ygrp=
+-mlmsg #yiv1541015387logo {
+padding-bottom:10px;}
+
+
+#yiv1541015387 #yiv1541=
+015387ygrp-msg p a {
+font-family:Verdana;}
+
+#yiv1541015387 #yiv1541015387yg=
+rp-msg p#yiv1541015387attach-count span {
+color:#1E66AE;font-weight:700;}
+
+=
+#yiv1541015387 #yiv1541015387ygrp-reco #yiv1541015387reco-head {
+color:#ff7=
+900;font-weight:700;}
+
+#yiv1541015387 #yiv1541015387ygrp-reco {
+margin-bott=
+om:20px;padding:0px;}
+
+#yiv1541015387 #yiv1541015387ygrp-sponsor #yiv154101=
+5387ov li a {
+font-size:130%;text-decoration:none;}
+
+#yiv1541015387 #yiv154=
+1015387ygrp-sponsor #yiv1541015387ov li {
+font-size:77%;list-style-type:squ=
+are;padding:6px 0;}
+
+#yiv1541015387 #yiv1541015387ygrp-sponsor #yiv15410153=
+87ov ul {
+margin:0;padding:0 0 0 8px;}
+
+#yiv1541015387 #yiv1541015387ygrp-t=
+ext {
+font-family:Georgia;}
+
+#yiv1541015387 #yiv1541015387ygrp-text p {
+mar=
+gin:0 0 1em 0;}
+
+#yiv1541015387 #yiv1541015387ygrp-text tt {
+font-size:120%=
+;}
+
+#yiv1541015387 #yiv1541015387ygrp-vital ul li:last-child {
+border-right=
+:none !important;
+}
+#yiv1541015387 
+</style></div></body></html>
+------=_Part_1947948_969628197.1445111022164--
+
+

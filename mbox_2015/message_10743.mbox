@@ -1,0 +1,491 @@
+From rashmihpatel@...  Wed Feb 17 11:07:49 2016
+Return-Path: <rashmihpatel@...>
+X-Sender: rashmihpatel@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 35923 invoked by uid 102); 3 Dec 2015 21:26:06 -0000
+X-Received: from unknown (HELO mtaq2.grp.bf1.yahoo.com) (10.193.84.33)
+  by m14.grp.bf1.yahoo.com with SMTP; 3 Dec 2015 21:26:06 -0000
+X-Received: (qmail 21979 invoked from network); 3 Dec 2015 21:26:06 -0000
+X-Received: from unknown (HELO mta1005.groups.mail.ne1.yahoo.com) (98.138.100.120)
+  by mtaq2.grp.bf1.yahoo.com with SMTP; 3 Dec 2015 21:26:06 -0000
+X-Original-Return-Path: <rashmihpatel@...>
+X-Received-SPF: pass (domain of yahoo.com designates 98.138.91.114 as permitted sender)
+X-YMailISG: va1mtHYWLDs52GqTTl4AZ2y5gtK0IGry7VHPFr4p7s4y1kaw
+ ivg6ajWgDV3SSQ4T4fWR3DKWZmWN6Sn__cgcw5ONzN5aEzHZ3QrHtIyX_Mxs
+ mgoIcYpapYn4wRCMyXRWQt1U4akWYfzWEQ62hQPIul0nLQaSKKwYcPt5R66i
+ JIFpW7.qWE2FNmeNWMJk.jgSpIDIsYYJiCFyY3gFEQTic.2D0ojjloB9MtAa
+ 64S8U4_maajrnG4ifrr13rXvDOCz8b.rXxWx2MDyafI3qVD7jodfAHamsXdP
+ ZSgGoMY0ClRZJQs..rMFjph0aeOgTi6XdMUc_Gx1hB.6cwcS4YWzNyux6yF_
+ nYd8gaCsUejMUg4ycqHDNAA.G49sHXuh_E348LTLZBn73RQlwEXeN1XVL2Ly
+ W7gKxFSNMMSpfKk62lpAHNO7KMF4AHrnyCGHhJT7k9EN2Vzkjl6URAWv7JAb
+ An3xy1h7dzuGrOLBFjsSUaeOS3zSo0AyEXQythW1U_1vtFTs7i3QOJQgE8hG
+ QxfloNdqQG.u0Y6HkMckTG2Og_GQA8DRtvIHthtopVai6s265F8q.ginb0q2
+ Yx5QvXzkHLoV.MuCSDFvJR5R1bSxKwRk5VTOVIGyqS9fzY6xzUtmBRADx8rR
+ muow0m5tHyRGijmuETpLz3qsrZuhGgr.3.z0SXafp7vSvhcQCOrX_bYUi_x_
+ VdULO60ZnTG_7aCRSiED8McIFgiH7NYvYit9BXrS9JSwTsPlvKqC21HLNRBF
+ ekJ9FbkVbLni9emzY3AughouhDYhigAghLWv8Tn78FNcKCKrZSaeLnN9nalE
+ .V5DQEqc_zgjQf8z0EsLTydMTpDLziX1cyOPAc0BE2A_vTwtva0pScQzeley
+ gy5dwMpyQeq1_5klodLL2ZQTHr10Zx73mD7gjJy_PkD2TZ03t8lbV_fZ25ow
+ ym_UUFIi6wOAUpRWd3bbnz3_hcam7NRXRv7IgO58On5DbcGOCUGNWUUOA1ei
+ 4IZlFQa5ySOmDpjBxfKdOQCUHLJklyQ3pBRRsvzBqsKiWO6eEs4FZ6KPpSGh
+ PsTmeki4_i5_nrxnQ8rGS0Xfje0NEk_DjVUBA2hxTKc34XYSBwuk0vgZVS2p
+ vWMgDdixqXMLPBM_elXBCsfI8l4RPyP5Yowio2jpCm0tLneZwHT5s47jCiIq
+ pqFl_Vnw4pW3wU1g2lh1GuINHWzJgRYhgmydbwErfuTPKChqc9ITeRVNkAf2
+ Pg.3BxhwMs3WWgnjZExxeetlNCaIPb1dx0P6r1hczlcjMJa1VnYcGpAKKh.o
+ 0Fn6fh56E_jT.kjGi5A1HN2XjcdNGLMdM7jWGBSpZMd6Wtis7uf9.wYuJgDF
+ w3zV8kjkgotgJMOwG97lwuCdAhB2xrW075kjtN0XjCOeEVxUUfGsV3O_93V2
+ 02vGjgYoGFK6Idmszvnf38M1Q5yOfQ9oO7VugE2A5nZ9kCDU8VTymkt9upOM
+ NfyIpoyrdGSUlrwwZ9fUuQ8LqjGNtDe1cZq0JARuddeBpXBfc0uR3apDFGNn
+ ksvzSK6E6o5k2wC1Bfq4O9yorWWEk9.oI5kcDnBFj79seWmP06aGlqesS25t
+ 9YbHvzfF2ob.KiW90KfYB.mk_V2GTAR7An7xrvMfYXPn2zHvYikUciKZ2ape
+ WcLYVCUgHK1BF2P1_Lnru4MWTzjp.inb0beYUKRuG9X9PHtf0FCZGdqmmpQb
+ GIft7GfnJ21x6Q--
+Authentication-Results: mta1005.groups.mail.ne1.yahoo.com  from=yahoo.com; domainkeys=neutral (no sig);  from=yahoo.com; dkim=pass (ok)
+X-Received: from 127.0.0.1  (EHLO nm21-vm6.bullet.mail.ne1.yahoo.com) (98.138.91.114)
+  by mta1005.groups.mail.ne1.yahoo.com with SMTPS; Thu, 03 Dec 2015 21:26:06 +0000
+X-Received: from [98.138.100.118] by nm21.bullet.mail.ne1.yahoo.com with NNFMP; 03 Dec 2015 21:26:06 -0000
+X-Received: from [98.138.89.251] by tm109.bullet.mail.ne1.yahoo.com with NNFMP; 03 Dec 2015 21:26:06 -0000
+X-Received: from [127.0.0.1] by omp1043.mail.ne1.yahoo.com with NNFMP; 03 Dec 2015 21:26:06 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 53170.30694.bm@...
+X-YMail-OSG: hs9jXfIVM1lPTh8Qzv6wjMF87h5i9jVFvu1bYwUmooRBmsEueeGXI85wRlaBB3e
+ rIn689zzk412Np_yokiM3GxujRFBoPuCMoTi8MSih6H2xiM6OvotBkLLD1h_IEhD19CV8Z6joVQL
+ RN.7T5_sDG21C49DLtaRJ5_WywBZTFJLhO6snbuJgF89LWM4GhR_nTBVVKuhGdO43IALXPXv0_50
+ ..jw2n.erjw0cMvHzIl.TuYjnm7OU0ZbxPsz3RuM0tvy6FnbRiGY.mVWFADpfrunEXpDT_NnTGno
+ GcDred8r_vqK6vNGYpjiLYlNMKLKXrdp3YWVjJOqkRQYyuVMthW5KCLnoUxQFGtikZZQgW.ozYaC
+ PW6A35BrHZ_hxTOQopXluTpBUlm27DInOJDGQQhiOIZmogDBUZd.WqmeCtjlkZWng4zNH4d0rRw4
+ ThZFlHR4au8gHVzx7GJJYlDh4Rml1x4yBR6bzhasP2T2byUxbWofgN.x7vZFlpmNrMFZcH8HCipk
+ _atkC4qfnjgrPGcKoH371Xg--
+X-Received: by 98.138.105.240; Thu, 03 Dec 2015 21:26:05 +0000 
+Date: Thu, 3 Dec 2015 21:26:04 +0000 (UTC)
+To: "vedic-wisdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com>
+Message-ID: <748478092.12159428.1449177965036.JavaMail.yahoo@...>
+In-Reply-To: <n3q08t+1b31k66@...>
+References: <n3q08t+1b31k66@...>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_12159427_72675877.1449177965024"
+Content-Length: 22314
+X-Originating-IP: 98.138.100.120
+Reply-To: rashmi patel <rashmihpatel@...>
+Subject: Re: [vedic-wisdom] Mitra Dev form of Sun God
+X-Yahoo-Group-Post: member; u=305462788; y=PLWT7TuVphD3DvmSuZt4hj-s1QnzopmCL7VE-Didr7ABwJn6U7jB
+X-Yahoo-Profile: rashmihpatel
+From: rashmi patel <rashmihpatel@...>
+
+
+------=_Part_12159427_72675877.1449177965024
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Oh god I never heard about mitra dev form of sun god 
+
+
+    On Thursday, De=
+cember 3, 2015 1:05 PM, "anp10033@... [vedic-wisdom]" <vedic-wisdom@y=
+ahoogroups.com> wrote:
+ 
+
+ =C2=A0   Namaste Dear Members,
+Hope all are well=
+. Can someone please tell me:
+1. Where I can find a picture of the Mitra De=
+v form of Sun God? I think each of the 12 forms has a separate form, and th=
+e usual Sun God is represented as being seated in the chariot driven by a c=
+harioteer and 7 different colored horses.
+2. I heard that Gujarat has many =
+Temples dedicated to the Sun God, which of these would be for the Mitra Dev=
+ roop of the Lord?
+3. Is there a Dhyana Mantra and other Mantras for Mitra =
+Dev?
+Thank you very much for your help.
+Alamelu Narayanaswamy  #yiv14235827=
+59 #yiv1423582759 -- #yiv1423582759ygrp-mkp {border:1px solid #d8d8d8;font-=
+family:Arial;margin:10px 0;padding:0 10px;}#yiv1423582759 #yiv1423582759ygr=
+p-mkp hr {border:1px solid #d8d8d8;}#yiv1423582759 #yiv1423582759ygrp-mkp #=
+yiv1423582759hd {color:#628c2a;font-size:85%;font-weight:700;line-height:12=
+2%;margin:10px 0;}#yiv1423582759 #yiv1423582759ygrp-mkp #yiv1423582759ads {=
+margin-bottom:10px;}#yiv1423582759 #yiv1423582759ygrp-mkp .yiv1423582759ad =
+{padding:0 0;}#yiv1423582759 #yiv1423582759ygrp-mkp .yiv1423582759ad p {mar=
+gin:0;}#yiv1423582759 #yiv1423582759ygrp-mkp .yiv1423582759ad a {color:#000=
+0ff;text-decoration:none;}#yiv1423582759 #yiv1423582759ygrp-sponsor #yiv142=
+3582759ygrp-lc {font-family:Arial;}#yiv1423582759 #yiv1423582759ygrp-sponso=
+r #yiv1423582759ygrp-lc #yiv1423582759hd {margin:10px 0px;font-weight:700;f=
+ont-size:78%;line-height:122%;}#yiv1423582759 #yiv1423582759ygrp-sponsor #y=
+iv1423582759ygrp-lc .yiv1423582759ad {margin-bottom:10px;padding:0 0;}#yiv1=
+423582759 #yiv1423582759actions {font-family:Verdana;font-size:11px;padding=
+:10px 0;}#yiv1423582759 #yiv1423582759activity {background-color:#e0ecee;fl=
+oat:left;font-family:Verdana;font-size:10px;padding:10px;}#yiv1423582759 #y=
+iv1423582759activity span {font-weight:700;}#yiv1423582759 #yiv1423582759ac=
+tivity span:first-child {text-transform:uppercase;}#yiv1423582759 #yiv14235=
+82759activity span a {color:#5085b6;text-decoration:none;}#yiv1423582759 #y=
+iv1423582759activity span span {color:#ff7900;}#yiv1423582759 #yiv142358275=
+9activity span .yiv1423582759underline {text-decoration:underline;}#yiv1423=
+582759 .yiv1423582759attach {clear:both;display:table;font-family:Arial;fon=
+t-size:12px;padding:10px 0;width:400px;}#yiv1423582759 .yiv1423582759attach=
+ div a {text-decoration:none;}#yiv1423582759 .yiv1423582759attach img {bord=
+er:none;padding-right:5px;}#yiv1423582759 .yiv1423582759attach label {displ=
+ay:block;margin-bottom:5px;}#yiv1423582759 .yiv1423582759attach label a {te=
+xt-decoration:none;}#yiv1423582759 blockquote {margin:0 0 0 4px;}#yiv142358=
+2759 .yiv1423582759bold {font-family:Arial;font-size:13px;font-weight:700;}=
+#yiv1423582759 .yiv1423582759bold a {text-decoration:none;}#yiv1423582759 d=
+d.yiv1423582759last p a {font-family:Verdana;font-weight:700;}#yiv142358275=
+9 dd.yiv1423582759last p span {margin-right:10px;font-family:Verdana;font-w=
+eight:700;}#yiv1423582759 dd.yiv1423582759last p span.yiv1423582759yshortcu=
+ts {margin-right:0;}#yiv1423582759 div.yiv1423582759attach-table div div a =
+{text-decoration:none;}#yiv1423582759 div.yiv1423582759attach-table {width:=
+400px;}#yiv1423582759 div.yiv1423582759file-title a, #yiv1423582759 div.yiv=
+1423582759file-title a:active, #yiv1423582759 div.yiv1423582759file-title a=
+:hover, #yiv1423582759 div.yiv1423582759file-title a:visited {text-decorati=
+on:none;}#yiv1423582759 div.yiv1423582759photo-title a, #yiv1423582759 div.=
+yiv1423582759photo-title a:active, #yiv1423582759 div.yiv1423582759photo-ti=
+tle a:hover, #yiv1423582759 div.yiv1423582759photo-title a:visited {text-de=
+coration:none;}#yiv1423582759 div#yiv1423582759ygrp-mlmsg #yiv1423582759ygr=
+p-msg p a span.yiv1423582759yshortcuts {font-family:Verdana;font-size:10px;=
+font-weight:normal;}#yiv1423582759 .yiv1423582759green {color:#628c2a;}#yiv=
+1423582759 .yiv1423582759MsoNormal {margin:0 0 0 0;}#yiv1423582759 o {font-=
+size:0;}#yiv1423582759 #yiv1423582759photos div {float:left;width:72px;}#yi=
+v1423582759 #yiv1423582759photos div div {border:1px solid #666666;height:6=
+2px;overflow:hidden;width:62px;}#yiv1423582759 #yiv1423582759photos div lab=
+el {color:#666666;font-size:10px;overflow:hidden;text-align:center;white-sp=
+ace:nowrap;width:64px;}#yiv1423582759 #yiv1423582759reco-category {font-siz=
+e:77%;}#yiv1423582759 #yiv1423582759reco-desc {font-size:77%;}#yiv142358275=
+9 .yiv1423582759replbq {margin:4px;}#yiv1423582759 #yiv1423582759ygrp-actba=
+r div a:first-child {margin-right:2px;padding-right:5px;}#yiv1423582759 #yi=
+v1423582759ygrp-mlmsg {font-size:13px;font-family:Arial, helvetica, clean, =
+sans-serif;}#yiv1423582759 #yiv1423582759ygrp-mlmsg table {font-size:inheri=
+t;font:100%;}#yiv1423582759 #yiv1423582759ygrp-mlmsg select, #yiv1423582759=
+ input, #yiv1423582759 textarea {font:99% Arial, Helvetica, clean, sans-ser=
+if;}#yiv1423582759 #yiv1423582759ygrp-mlmsg pre, #yiv1423582759 code {font:=
+115% monospace;}#yiv1423582759 #yiv1423582759ygrp-mlmsg * {line-height:1.22=
+em;}#yiv1423582759 #yiv1423582759ygrp-mlmsg #yiv1423582759logo {padding-bot=
+tom:10px;}#yiv1423582759 #yiv1423582759ygrp-msg p a {font-family:Verdana;}#=
+yiv1423582759 #yiv1423582759ygrp-msg p#yiv1423582759attach-count span {colo=
+r:#1E66AE;font-weight:700;}#yiv1423582759 #yiv1423582759ygrp-reco #yiv14235=
+82759reco-head {color:#ff7900;font-weight:700;}#yiv1423582759 #yiv142358275=
+9ygrp-reco {margin-bottom:20px;padding:0px;}#yiv1423582759 #yiv1423582759yg=
+rp-sponsor #yiv1423582759ov li a {font-size:130%;text-decoration:none;}#yiv=
+1423582759 #yiv1423582759ygrp-sponsor #yiv1423582759ov li {font-size:77%;li=
+st-style-type:square;padding:6px 0;}#yiv1423582759 #yiv1423582759ygrp-spons=
+or #yiv1423582759ov ul {margin:0;padding:0 0 0 8px;}#yiv1423582759 #yiv1423=
+582759ygrp-text {font-family:Georgia;}#yiv1423582759 #yiv1423582759ygrp-tex=
+t p {margin:0 0 1em 0;}#yiv1423582759 #yiv1423582759ygrp-text tt {font-size=
+:120%;}#yiv1423582759 #yiv1423582759ygrp-vital ul li:last-child {border-rig=
+ht:none !important;}#yiv1423582759 
+
+  
+------=_Part_12159427_72675877.1449177965024
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><head></head><body><div style=3D"color:#000; background-color:#fff; f=
+ont-family:HelveticaNeue-Light, Helvetica Neue Light, Helvetica Neue, Helve=
+tica, Arial, Lucida Grande, sans-serif;font-size:16px"><div><span>Oh god I =
+never heard about mitra dev form of sun god</span></div> <br><div class=3D"=
+qtdSeparateBR"><br><br></div><div class=3D"yahoo_quoted" style=3D"display: =
+block;"> <div style=3D"font-family: HelveticaNeue-Light, Helvetica Neue Lig=
+ht, Helvetica Neue, Helvetica, Arial, Lucida Grande, sans-serif; font-size:=
+ 16px;"> <div style=3D"font-family: HelveticaNeue, Helvetica Neue, Helvetic=
+a, Arial, Lucida Grande, sans-serif; font-size: 16px;"> <div dir=3D"ltr"><f=
+ont face=3D"Arial" size=3D"2"> On Thursday, December 3, 2015 1:05 PM, "anp1=
+0033@... [vedic-wisdom]" <vedic-wisdom@yahoogroups.com> wrote:<=
+br></font></div>  <br><br> <div class=3D"y_msg_container"><div id=3D"yiv142=
+3582759"><div>
+<span style=3D"display: none;"> </span>
+
+
+<div id=3D"yi=
+v1423582759ygrp-mlmsg">
+  <div id=3D"yiv1423582759ygrp-msg">
+
+
+    <div id=
+=3D"yiv1423582759ygrp-text">
+      
+      
+      <div></div><div><span>Nama=
+ste Dear Members,</span></div><div><span><br clear=3D"none"></span></div><d=
+iv><span>Hope all are well. Can someone please tell me:</span></div><div><s=
+pan><br clear=3D"none"></span></div><div><span>1. Where I can find a pictur=
+e of the Mitra Dev form of Sun God? I think each of the 12 forms has a sepa=
+rate form, and the usual Sun God is represented as being seated in the char=
+iot driven by a charioteer and 7 different colored horses.</span></div><div=
+><span><br clear=3D"none"></span></div><div><span>2. I heard that Gujarat h=
+as many Temples dedicated to the Sun God, which of these would be for the M=
+itra Dev roop of the Lord?</span></div><div><span><br clear=3D"none"></span=
+></div><div><span>3. Is there a Dhyana Mantra and other Mantras for Mitra D=
+ev?</span></div><div><span><br clear=3D"none"></span></div><div><span>Thank=
+ you very much for your help.</span></div><div><span><br clear=3D"none"></s=
+pan></div><div><span>Alamelu Narayanaswamy</span></div>
+
+    </div>
+     
+
+=
+    
+    <div style=3D"height: 0px; color: rgb(255, 255, 255);"></div></div=
+>
+
+
+</div><style type=3D"text/css">
+#yiv1423582759 #yiv1423582759 --
+  #yiv=
+1423582759ygrp-mkp {
+border:1px solid #d8d8d8;font-family:Arial;margin:10px=
+ 0;padding:0 10px;}
+
+#yiv1423582759 #yiv1423582759ygrp-mkp hr {
+border:1px =
+solid #d8d8d8;}
+
+#yiv1423582759 #yiv1423582759ygrp-mkp #yiv1423582759hd {
+c=
+olor:#628c2a;font-size:85%;font-weight:700;line-height:122%;margin:10px 0;}=
+
+
+#yiv1423582759 #yiv1423582759ygrp-mkp #yiv1423582759ads {
+margin-bottom:1=
+0px;}
+
+#yiv1423582759 #yiv1423582759ygrp-mkp .yiv1423582759ad {
+padding:0 0=
+;}
+
+#yiv1423582759 #yiv1423582759ygrp-mkp .yiv1423582759ad p {
+margin:0;}
+
+=
+#yiv1423582759 #yiv1423582759ygrp-mkp .yiv1423582759ad a {
+color:#0000ff;te=
+xt-decoration:none;}
+#yiv1423582759 #yiv1423582759ygrp-sponsor #yiv14235827=
+59ygrp-lc {
+font-family:Arial;}
+
+#yiv1423582759 #yiv1423582759ygrp-sponsor =
+#yiv1423582759ygrp-lc #yiv1423582759hd {
+margin:10px 0px;font-weight:700;fo=
+nt-size:78%;line-height:122%;}
+
+#yiv1423582759 #yiv1423582759ygrp-sponsor #=
+yiv1423582759ygrp-lc .yiv1423582759ad {
+margin-bottom:10px;padding:0 0;}
+
+#=
+yiv1423582759 #yiv1423582759actions {
+font-family:Verdana;font-size:11px;pa=
+dding:10px 0;}
+
+#yiv1423582759 #yiv1423582759activity {
+background-color:#e=
+0ecee;float:left;font-family:Verdana;font-size:10px;padding:10px;}
+
+#yiv142=
+3582759 #yiv1423582759activity span {
+font-weight:700;}
+
+#yiv1423582759 #yi=
+v1423582759activity span:first-child {
+text-transform:uppercase;}
+
+#yiv1423=
+582759 #yiv1423582759activity span a {
+color:#5085b6;text-decoration:none;}=
+
+
+#yiv1423582759 #yiv1423582759activity span span {
+color:#ff7900;}
+
+#yiv14=
+23582759 #yiv1423582759activity span .yiv1423582759underline {
+text-decorat=
+ion:underline;}
+
+#yiv1423582759 .yiv1423582759attach {
+clear:both;display:t=
+able;font-family:Arial;font-size:12px;padding:10px 0;width:400px;}
+
+#yiv142=
+3582759 .yiv1423582759attach div a {
+text-decoration:none;}
+
+#yiv1423582759=
+ .yiv1423582759attach img {
+border:none;padding-right:5px;}
+
+#yiv1423582759=
+ .yiv1423582759attach label {
+display:block;margin-bottom:5px;}
+
+#yiv142358=
+2759 .yiv1423582759attach label a {
+text-decoration:none;}
+
+#yiv1423582759 =
+blockquote {
+margin:0 0 0 4px;}
+
+#yiv1423582759 .yiv1423582759bold {
+font-f=
+amily:Arial;font-size:13px;font-weight:700;}
+
+#yiv1423582759 .yiv1423582759=
+bold a {
+text-decoration:none;}
+
+#yiv1423582759 dd.yiv1423582759last p a {
+=
+font-family:Verdana;font-weight:700;}
+
+#yiv1423582759 dd.yiv1423582759last =
+p span {
+margin-right:10px;font-family:Verdana;font-weight:700;}
+
+#yiv14235=
+82759 dd.yiv1423582759last p span.yiv1423582759yshortcuts {
+margin-right:0;=
+}
+
+#yiv1423582759 div.yiv1423582759attach-table div div a {
+text-decoration=
+:none;}
+
+#yiv1423582759 div.yiv1423582759attach-table {
+width:400px;}
+
+#yiv=
+1423582759 div.yiv1423582759file-title a, #yiv1423582759 div.yiv1423582759f=
+ile-title a:active, #yiv1423582759 div.yiv1423582759file-title a:hover, #yi=
+v1423582759 div.yiv1423582759file-title a:visited {
+text-decoration:none;}
+=
+
+#yiv1423582759 div.yiv1423582759photo-title a, #yiv1423582759 div.yiv14235=
+82759photo-title a:active, #yiv1423582759 div.yiv1423582759photo-title a:ho=
+ver, #yiv1423582759 div.yiv1423582759photo-title a:visited {
+text-decoratio=
+n:none;}
+
+#yiv1423582759 div#yiv1423582759ygrp-mlmsg #yiv1423582759ygrp-msg=
+ p a span.yiv1423582759yshortcuts {
+font-family:Verdana;font-size:10px;font=
+-weight:normal;}
+
+#yiv1423582759 .yiv1423582759green {
+color:#628c2a;}
+
+#yi=
+v1423582759 .yiv1423582759MsoNormal {
+margin:0 0 0 0;}
+
+#yiv1423582759 o {
+=
+font-size:0;}
+
+#yiv1423582759 #yiv1423582759photos div {
+float:left;width:7=
+2px;}
+
+#yiv1423582759 #yiv1423582759photos div div {
+border:1px solid #6666=
+66;height:62px;overflow:hidden;width:62px;}
+
+#yiv1423582759 #yiv1423582759p=
+hotos div label {
+color:#666666;font-size:10px;overflow:hidden;text-align:c=
+enter;white-space:nowrap;width:64px;}
+
+#yiv1423582759 #yiv1423582759reco-ca=
+tegory {
+font-size:77%;}
+
+#yiv1423582759 #yiv1423582759reco-desc {
+font-siz=
+e:77%;}
+
+#yiv1423582759 .yiv1423582759replbq {
+margin:4px;}
+
+#yiv1423582759=
+ #yiv1423582759ygrp-actbar div a:first-child {
+margin-right:2px;padding-rig=
+ht:5px;}
+
+#yiv1423582759 #yiv1423582759ygrp-mlmsg {
+font-size:13px;font-fam=
+ily:Arial, helvetica, clean, sans-serif;}
+
+#yiv1423582759 #yiv1423582759ygr=
+p-mlmsg table {
+font-size:inherit;font:100%;}
+
+#yiv1423582759 #yiv142358275=
+9ygrp-mlmsg select, #yiv1423582759 input, #yiv1423582759 textarea {
+font:99=
+% Arial, Helvetica, clean, sans-serif;}
+
+#yiv1423582759 #yiv1423582759ygrp-=
+mlmsg pre, #yiv1423582759 code {
+font:115% monospace;}
+
+#yiv1423582759 #yiv=
+1423582759ygrp-mlmsg * {
+line-height:1.22em;}
+
+#yiv1423582759 #yiv142358275=
+9ygrp-mlmsg #yiv1423582759logo {
+padding-bottom:10px;}
+
+
+#yiv1423582759 #yi=
+v1423582759ygrp-msg p a {
+font-family:Verdana;}
+
+#yiv1423582759 #yiv1423582=
+759ygrp-msg p#yiv1423582759attach-count span {
+color:#1E66AE;font-weight:70=
+0;}
+
+#yiv1423582759 #yiv1423582759ygrp-reco #yiv1423582759reco-head {
+color=
+:#ff7900;font-weight:700;}
+
+#yiv1423582759 #yiv1423582759ygrp-reco {
+margin=
+-bottom:20px;padding:0px;}
+
+#yiv1423582759 #yiv1423582759ygrp-sponsor #yiv1=
+423582759ov li a {
+font-size:130%;text-decoration:none;}
+
+#yiv1423582759 #y=
+iv1423582759ygrp-sponsor #yiv1423582759ov li {
+font-size:77%;list-style-typ=
+e:square;padding:6px 0;}
+
+#yiv1423582759 #yiv1423582759ygrp-sponsor #yiv142=
+3582759ov ul {
+margin:0;padding:0 0 0 8px;}
+
+#yiv1423582759 #yiv1423582759y=
+grp-text {
+font-family:Georgia;}
+
+#yiv1423582759 #yiv1423582759ygrp-text p =
+{
+margin:0 0 1em 0;}
+
+#yiv1423582759 #yiv1423582759ygrp-text tt {
+font-size=
+:120%;}
+
+#yiv1423582759 #yiv1423582759ygrp-vital ul li:last-child {
+border-=
+right:none !important;
+}
+#yiv1423582759 
+</style></div><br><br></div>  </di=
+v> </div>  </div></div></body></html>
+------=_Part_12159427_72675877.1449177965024--
+
+

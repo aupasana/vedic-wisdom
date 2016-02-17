@@ -1,0 +1,88 @@
+From durgesh.mishra@...  Wed Feb 17 11:07:48 2016
+Return-Path: <durgesh.mishra@...>
+X-Sender: durgesh.mishra@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 65058 invoked by uid 102); 21 Jul 2015 07:18:09 -0000
+X-Received: from unknown (HELO mtaq1.grp.bf1.yahoo.com) (10.193.84.32)
+  by m13.grp.bf1.yahoo.com with SMTP; 21 Jul 2015 07:18:09 -0000
+X-Received: (qmail 21394 invoked from network); 21 Jul 2015 07:18:09 -0000
+X-Received: from unknown (HELO mta1002.groups.mail.ne1.yahoo.com) (98.138.215.82)
+  by mtaq1.grp.bf1.yahoo.com with SMTP; 21 Jul 2015 07:18:09 -0000
+X-Original-Return-Path: <durgesh.mishra@...>
+X-Received-SPF: pass (domain of gmail.com designates 209.85.223.175 as permitted sender)
+X-YMailISG: 9Cy7cowWLDvRuXp5u60W4vMt7rDjBG_zIjQrnRmEEa9U2rDD
+ UIK7hjmFlqbaPL2cqEVjlCzKBp.whPPJ5CL23Ds91Z3S0hWKM1_ZuGA3MmjF
+ OV44AnUiu2ca5sUEpy4w4ndeO7CvhHFTNLQsRLmFGpH3V1SAKTgAbkMnYo5.
+ s1GKV5nEoFzHkEGEzxEFtW6H5CqjT.xt1S_q3ZWVGa2dhiKjrJc96fs1PXyb
+ CFVmLMvL.IbRslLUjTak5lhvjItYJTAVf5F2HZfh5bUHXGvMTIdrP1kDBEjj
+ _aCUkCAszWlO6VWNZV8Q2yaaT86YWuK8zhyBTcw86Vh2d6Mx00JN3hlYjwzP
+ otGYGO5wjvpZY1GIjsMTbmth6k0ZIhbEpjUUujTe1x5D4L_VR6Opm_Gy.QDp
+ xqgZUSYsfCQrFTZbRMHfQLpOyRouBIXE4AuF5XtSagJEfJxcxmYTBogIOUtH
+ nGZXI7afghR.yUYtklF4jNjMRXqZZ4pY5GJ707ZCvH0.s3XXCcTR6lZyLT1o
+ PsG8L3nvcsLoukzjMgzGCAe0e3uLf8bZILF039dW9u2WFqs1hQIqfIthOHDa
+ p7m4pXLE3AGWXSXEdzgfNSHCKvQVaE2D56CjIM2IqXXQXtdP51rlVZEGfkP4
+ kXli3VDvm25rEEAiPLrBcPKphgf1FLIw1N5oMaT1tkuPx5FNj.FGtkYwbrx6
+ bIvw0.yFotxEpUe_kGGKA_rzHAg_b.3pc03hO2..IEPOcNSUKzKMRdj6LdGs
+ QPQrWdQzIoKKGbZiOQyjAI_sLD0LrgwO8j6g891JpABZcBPWUGLW1o6TtOZn
+ Pnhj4F5vwCuVyzEJ019iqJq2E6DSBZgrOsXjzj8tE1DAExcoqq7o8jSCCj3v
+ IgtJ01G8cppLWJZ6tdYmtWdEd0wC5D8jLhSVRsPygDUSpA6odD1sOF7k1ALq
+ XqF0uyN7scdTKoxy32wLyzWFKBUUQwgtdBLbhXLuiSGOX6wl584zC6BI._BO
+ Fn4y6.nFYVaRJmf3AlTEtxJnSqI_LnX4bdgKjyTKuxEdfAfaU7yMSXRmd0gr
+ MoM52wn91GuYYs1gvRbk5s6e5yWsDxfNffF0uqN03yM3PinQVghIcSKvTas.
+ uqp3UyhB7Z_AUQq0ny.NCd.ucYziXqTxaiCbDf6dIpzpuZTXImFaI7a4z_wM
+ LRinRBVAfgC9Yyi0wCa8T73rzvh89RBgfaHut7lwG0Xhl16g.bWklw8lSSQL
+ 9G_EqD1bzU9KRySn6ep1YXV2qFYs3NqzrccW6kGavFjraK2LT.E6b0Ja6BL5
+ 9R_7pXXXINppex8t0TEq_wcrEKndtYViMonuYk8CyG2Na0GlQ1jxo.k1eK1g
+ fq2zrYIDt6gCT27NcknirZ3MoLKrIz68QWHKg8sIpSNh.FXXECi5d6swUHBk
+ zNB1ypcuYM7V_6CL142x33Nek2UZL38naDpv980-
+Authentication-Results: mta1002.groups.mail.ne1.yahoo.com  from=gmail.com; domainkeys=neutral (no sig);  from=gmail.com; dkim=pass (ok)
+X-Received: from 127.0.0.1  (EHLO mail-ie0-f175.google.com) (209.85.223.175)
+  by mta1002.groups.mail.ne1.yahoo.com with SMTPS; Tue, 21 Jul 2015 07:18:09 +0000
+X-Received: by iebmu5 with SMTP id mu5so135018397ieb.1;
+        Tue, 21 Jul 2015 00:18:08 -0700 (PDT)
+MIME-Version: 1.0
+X-Received: by 10.107.138.152 with SMTP id c24mr32321536ioj.74.1437463088606;
+ Tue, 21 Jul 2015 00:18:08 -0700 (PDT)
+X-Received: by 10.36.217.22 with HTTP; Tue, 21 Jul 2015 00:18:08 -0700 (PDT)
+Date: Tue, 21 Jul 2015 12:48:08 +0530
+Message-ID: <CAJ9joEY1SvfuAvusWXu=jTo3H5oZJ+L1vdk7=yyd-oaRET92KA@...>
+To: vedic-astrology@yahoogroups.com, vedic-wisdom@yahoogroups.com, 
+	sohamsa@yahoogroups.com
+Content-Type: multipart/alternative; boundary=001a113f2b4ec6359f051b5d74fa
+X-Originating-IP: 98.138.215.82
+Subject: authentic rudraksh mala
+X-Yahoo-Group-Post: member; u=550723118; y=17mxHgWR7o57clshbIL-yhDUMYdf8SWIN42EZnO-wLHCEDRQW4_KqSyx
+X-Yahoo-Profile: durgesh_for_you
+From: Durgesh Mishra <durgesh.mishra@...>
+
+
+--001a113f2b4ec6359f051b5d74fa
+Content-Type: text/plain; charset=UTF-8
+
+Respected Gurujan,
+
+I have been wearing rudraksh since last 7-8 years. And yesterday the thread
+broke. So I have to purchase new rudraksh mala.
+
+does anybody have ordered it online ?
+
+any suggestion on authentic source.
+
+Regards
+Durgesh O Mishra
+
+--001a113f2b4ec6359f051b5d74fa
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Respected Gurujan,
+<div><br></div><div>I have been wearing=
+ rudraksh since last 7-8 years. And yesterday the thread broke. So I have t=
+o purchase new rudraksh mala.</div><div><br></div><div>does anybody have or=
+dered it online ?</div><div><br></div><div>any suggestion on authentic sour=
+ce.</div><div><br></div><div>Regards</div><div>Durgesh O Mishra</div></div>=
+
+
+--001a113f2b4ec6359f051b5d74fa--
+
+
