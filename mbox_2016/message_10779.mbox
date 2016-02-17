@@ -1,0 +1,656 @@
+From rajarshi14@...  Wed Feb 17 11:07:50 2016
+Return-Path: <rajarshi14@...>
+X-Sender: rajarshi14@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 46962 invoked by uid 102); 8 Feb 2016 23:01:38 -0000
+X-Received: from unknown (HELO mtaq6.grp.bf1.yahoo.com) (10.193.84.37)
+  by m14.grp.bf1.yahoo.com with SMTP; 8 Feb 2016 23:01:38 -0000
+X-Received: (qmail 8167 invoked from network); 8 Feb 2016 23:01:38 -0000
+X-Received: from unknown (HELO mta1004.groups.mail.ne1.yahoo.com) (98.138.100.119)
+  by mtaq6.grp.bf1.yahoo.com with SMTP; 8 Feb 2016 23:01:38 -0000
+X-Original-Return-Path: <rajarshi14@...>
+X-Received-SPF: none (domain of yahoo.co.in does not designate permitted sender hosts)
+X-YMailISG: IXfrkRAWLDuCLhdphKlntd89dsoEzpxJYdc9caQmJJIJ0JIv
+ Yk32dPC.RIHlvJeGYj2lP4WD7_DavbJCBdzj2FQTmybVpHTBk_YwkGOHLW8l
+ 2WHn5NE9waayV7nrrqII1Qm1HHgrZhJBK1liEmOrvkbgo7EBbUPS9tMoBQ5f
+ hPX.D5TlzzVRSzNVSjk7XVM.pI8SBDikCZnkvPXVFbk3gIYdkVr8PP9PsyqG
+ tzeBTVoj7Ltbq0UzHVquoFsrx01AYAWJl3.5v3EpAD9rr0qql1aaaUCE3CS7
+ US4.fMRnLzcf68iNpQwTG3CYh2dKeNDs3M3UiutOqYPsUUKm8CQsvQHWVFDq
+ wE4D_xD6Maw0EbANt0I5wnySkF22WHmQ4RF7FU94zqv4M2vagCkXx33qxDWX
+ bytX3rbodCo7p06jhG8AGYfgUpjhYgJRGfNBvGNK.akh2tqqWUBXQ0ULkZRx
+ PgMYpGJXxzDyPNh4BVHPPdBJBwnzrFVaudaoVScfexXIbUekwYEYHWczBI8c
+ WnPXCUM8MqyxqcGJOuhIU9dK2P5ENyOtlufYhBYCb9wMslxI9BPYWZYcdz2W
+ IDV1LefnvGF_RRfcpADsTkdiAbWnV6jAEriTtMH_XqzoFGqYn_0qaB7RObHa
+ ZT09.tTtc4gEUopPbj8CBy5STnLgeoTQUhlUgJAezGVMTs1GrGw.JiPI04P2
+ hTQ72e6gkLKa3CYaQ0e4VFW386_LLQu8xeQ17Rkcnfvu.m6D5lPAbANH.6qO
+ F.hVPXxylSZhR9TMoCUo4Qw2ghX7Im8IVbG9OopslslY24Hs7mjOMyte2lR5
+ r4vk3uG8l0FEMsO5CCaLYIh.H4J2CNpg0WRrYiexqQMjB6Iyu1iCcDpjyZ35
+ JB80MrtFdUem372lyeaZXGak456taJzM3Zz6SDlDA1SDHjWRxezhUUi.fl0r
+ ESpbIRg534GyHokynrjiRWWSEskGD0tcCrYFQZu.2h4QR51tVgl0Ya9F3f2n
+ 1ejufpXQOZeYXeWSCAzAhAsafsgg.GZO4rg.swn.dF35b2WYFRKZQ4Mr.H72
+ hAXTPZG3tCe93VEGzrCzaKHiy03A1gc0q4WdJelEqvQEKySuyfd2InIcVcq4
+ mYDm1muYqKPIlNK9TxX1v8KqPayElFGJDysG0F6UP4F3WK5e14MHzgTAZj0z
+ dPMAMwZ3yPZ.tM7.9M51V1Anx3NDFJRsvD2hYRZP1qYjqIUk_fbPf.I79G25
+ hHo0aDt8a0LeBVUQjZU3KxpyUcTRldaRMUJJ2qIFFr1hjm1nUIYD_L40qoGX
+ Kzo.rGNEnBDYku9uCoVs6GvLY9eLkBtFJzcyaM5UuFwhE6C2ar7g008QXnIJ
+ QqxfiudRQx1GlmPCFahpmYbRfbbcaiI9
+Authentication-Results: mta1004.groups.mail.ne1.yahoo.com  from=yahoo.co.in; domainkeys=neutral (no sig);  from=yahoo.co.in; dkim=pass (ok)
+X-Received: from 127.0.0.1  (EHLO nm32-vm7.bullet.mail.ne1.yahoo.com) (98.138.229.55)
+  by mta1004.groups.mail.ne1.yahoo.com with SMTPS; Mon, 08 Feb 2016 23:01:37 +0000
+X-Received: from [127.0.0.1] by nm32.bullet.mail.ne1.yahoo.com with NNFMP; 08 Feb 2016 23:01:37 -0000
+X-Received: from [98.138.100.116] by nm32.bullet.mail.ne1.yahoo.com with NNFMP; 08 Feb 2016 22:58:47 -0000
+X-Received: from [106.10.166.125] by tm107.bullet.mail.ne1.yahoo.com with NNFMP; 08 Feb 2016 22:58:46 -0000
+X-Received: from [106.10.151.138] by tm14.bullet.mail.sg3.yahoo.com with NNFMP; 08 Feb 2016 22:58:45 -0000
+X-Received: from [127.0.0.1] by omp1006.mail.sg3.yahoo.com with NNFMP; 08 Feb 2016 22:58:45 -0000
+X-Yahoo-Newman-Property: ymail-4
+X-Yahoo-Newman-Id: 714006.84979.bm@...
+X-YMail-OSG: Ka3VQJ8VRDsVfZ8MgAog0UFUSqMcmgNCqkRkenaqWHAWYYw-
+X-Received: by 106.10.196.94; Mon, 08 Feb 2016 22:58:45 +0000 
+Date: Mon, 8 Feb 2016 22:58:44 +0000 (UTC)
+To: "vedic-wisdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com>
+Message-ID: <1997215191.744924.1454972324760.JavaMail.yahoo@...>
+In-Reply-To: <n9b19h+mhqjso@...>
+References: <n9b19h+mhqjso@...>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_744923_134749912.1454972324747"
+Content-Length: 34086
+X-Originating-IP: 98.138.100.119
+Reply-To: rajarshi nandy <rajarshi14@...>
+Subject: Re: [vedic-wisdom] Surrender
+X-Yahoo-Group-Post: member; u=216162964; y=4ymF5hTy_bdSg46cy8rQReTch0szP-_wetogavE5eTgyjdNN3Q
+X-Yahoo-Profile: rajarshi14
+From: rajarshi nandy <rajarshi14@...>
+
+
+------=_Part_744923_134749912.1454972324747
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+There is always freewill, infact a general and good thumb-rule is that as l=
+ong as one is wondering (philosophically at least) whether freewill exists =
+or not, practically one has freewill and would do good to use it appropriat=
+ely. To be beyond freewill, well, one just knows organically as that happen=
+s. As long as there is a mental/emotional association with an action, then =
+there is the possibility of reaping some reaction - good or bad - for that =
+action. Therefore it but vital to use discrimination in action as far as po=
+ssible.
+When we are advised to be spontaneous, we must understand that ther=
+e is, simplistically speaking, two basic division inside a human being - th=
+e surperficial/surface personality which we all have, and a deeper being wh=
+ich has to be found (by sadhana). The surface personality is an aggregation=
+/accumulation of various conditionings and tendencies gathered in one or ma=
+ny lifetimes. There is nothing particularly divine about it. When we functi=
+on through this, which most of us do, we are leading a normal life. But whe=
+n through the process of sadhana - any sadhana that is working - we are abl=
+e to go deeper with and function from THAT Being which lies hidden behind o=
+ur daily personality, THEN the matter of spontaneity actually comes up. Eve=
+n in ordinary existence that Being keeps sending out a guidance to us but d=
+ue to various aquired mental and emotional tendencies we keep ignoring its =
+advice. The more we ignore, the more it recedes to the background and its v=
+oice gets overpowered by the clamour of out mental fluctuations. This is wh=
+at is known in normal language as the Viveka - discrimination. But when by =
+sadhana a seeker learns to go deeper, the first step for which maybe calmin=
+g the external mind and emotions, then one can eventually discover a clear =
+and spontaneous and sure guidance, for it uses not the mental reason, or is=
+ not driven by emotions vacillations at all, but is connected in some pecul=
+iar way to the Divine. This spontenity is prized. Then one may say, as one =
+goes deeper and this state of living from within becomes more settled, that=
+ one is but a mere instrument in the flow of the Divine Rhythm. Before that=
+, we are all subject to out free wills and repercussions thereof.=C2=A0
+Oft=
+en by a generic use of the term spontaneity, or inner voice, we mean a norm=
+al reaction that we have been inculcating to situations and which has becom=
+e so ingrained that we do not even think before we act into it. For example=
+ an aggressive person whose first reaction to every situaiton is an act of =
+aggression, will always *spontaneously* behave that way whenever a difficul=
+t life situation comes up. Or an escapist who has been escaping all his lif=
+e will first automatically think of escaping from a difficult situation bec=
+ause thath is what his conditioned response is. =C2=A0That too is spontaneo=
+us, but spiritually useless. If anything it reinforces the tendencies that =
+we live by. The spiritual spontaneity arises as one goes deeper within, whi=
+ch of course is not easy and needs lot of practice and effort, unless one i=
+s very very pure (internally), which is too rare in this age..
+IMO the line=
+ from the Aghora book should be taken as an attitude to be inculcated as a =
+method of sadhana. To develop surrender, and as we try we may find resistan=
+ce - due to deep conditioned responses - which means we still have to make =
+conscious freewill choices and live by them, and also is an indication that=
+ we may need to work on perfecting surrender. If surrender is truly perfect=
+, there is no need for anything. But then, as in all things in spiritual li=
+fe, none of it is easy, and we have to keep trying and trying..
+BTW one of =
+the very typical sadhanas is to imagine the form of the choosen deity in th=
+e heart and meditate thus... if this practice is done daily, with patience,=
+ and sincerity, it can, so people say, bring many benefits eventually.
+Hope=
+ this helps.
+-Regards=C2=A0Rajarshi
+
+
+
+=C2=A0
+I have a hundred lives before=
+ me yet/ To grasp thee in, O spirit ethereal, / Be sure I will with heart i=
+nsatiate/ Pursue thee like a hunter through them all. -Sri Aurobindo
+
+     =
+ From: "puloma_dasgupta@... [vedic-wisdom]" <vedic-wisdom@yahoogroups=
+.com>
+ To: vedic-wisdom@yahoogroups.com 
+ Sent: Tuesday, 9 February 2016 2:=
+58 AM
+ Subject: [vedic-wisdom] Surrender
+   
+=C2=A0   "Arguably the most fu=
+ndamental of these realisations is this: the essence of living with reality=
+ is to continually surrender to what is. You have already created your own =
+personal universe with your karmas and now you must live in it. (...) If ha=
+ving decided to surrender you are willing to keep surrendering, and then yo=
+u surrender some more, you will simplify your personal choreography to the =
+more manageable - if still convoluted - process of resolving how, when, and=
+ what to yield."
+ - Robert Svoboda, The Law of Karma, Pg 9
+For those who ma=
+ke it a point to cooperate with the Divine/Cosmic Will and flow with it rat=
+her than force their free will (if there is one) on it, do you try to guard=
+ against your tendency to negative/undesirable actions if they come up? How=
+ do you do so while still being spontaneous? Is the practice of self-awaren=
+ess antithetical to surrender?
+
+  #yiv4114009502 #yiv4114009502 -- #yiv4114=
+009502ygrp-mkp {border:1px solid #d8d8d8;font-family:Arial;margin:10px 0;pa=
+dding:0 10px;}#yiv4114009502 #yiv4114009502ygrp-mkp hr {border:1px solid #d=
+8d8d8;}#yiv4114009502 #yiv4114009502ygrp-mkp #yiv4114009502hd {color:#628c2=
+a;font-size:85%;font-weight:700;line-height:122%;margin:10px 0;}#yiv4114009=
+502 #yiv4114009502ygrp-mkp #yiv4114009502ads {margin-bottom:10px;}#yiv41140=
+09502 #yiv4114009502ygrp-mkp .yiv4114009502ad {padding:0 0;}#yiv4114009502 =
+#yiv4114009502ygrp-mkp .yiv4114009502ad p {margin:0;}#yiv4114009502 #yiv411=
+4009502ygrp-mkp .yiv4114009502ad a {color:#0000ff;text-decoration:none;}#yi=
+v4114009502 #yiv4114009502ygrp-sponsor #yiv4114009502ygrp-lc {font-family:A=
+rial;}#yiv4114009502 #yiv4114009502ygrp-sponsor #yiv4114009502ygrp-lc #yiv4=
+114009502hd {margin:10px 0px;font-weight:700;font-size:78%;line-height:122%=
+;}#yiv4114009502 #yiv4114009502ygrp-sponsor #yiv4114009502ygrp-lc .yiv41140=
+09502ad {margin-bottom:10px;padding:0 0;}#yiv4114009502 #yiv4114009502actio=
+ns {font-family:Verdana;font-size:11px;padding:10px 0;}#yiv4114009502 #yiv4=
+114009502activity {background-color:#e0ecee;float:left;font-family:Verdana;=
+font-size:10px;padding:10px;}#yiv4114009502 #yiv4114009502activity span {fo=
+nt-weight:700;}#yiv4114009502 #yiv4114009502activity span:first-child {text=
+-transform:uppercase;}#yiv4114009502 #yiv4114009502activity span a {color:#=
+5085b6;text-decoration:none;}#yiv4114009502 #yiv4114009502activity span spa=
+n {color:#ff7900;}#yiv4114009502 #yiv4114009502activity span .yiv4114009502=
+underline {text-decoration:underline;}#yiv4114009502 .yiv4114009502attach {=
+clear:both;display:table;font-family:Arial;font-size:12px;padding:10px 0;wi=
+dth:400px;}#yiv4114009502 .yiv4114009502attach div a {text-decoration:none;=
+}#yiv4114009502 .yiv4114009502attach img {border:none;padding-right:5px;}#y=
+iv4114009502 .yiv4114009502attach label {display:block;margin-bottom:5px;}#=
+yiv4114009502 .yiv4114009502attach label a {text-decoration:none;}#yiv41140=
+09502 blockquote {margin:0 0 0 4px;}#yiv4114009502 .yiv4114009502bold {font=
+-family:Arial;font-size:13px;font-weight:700;}#yiv4114009502 .yiv4114009502=
+bold a {text-decoration:none;}#yiv4114009502 dd.yiv4114009502last p a {font=
+-family:Verdana;font-weight:700;}#yiv4114009502 dd.yiv4114009502last p span=
+ {margin-right:10px;font-family:Verdana;font-weight:700;}#yiv4114009502 dd.=
+yiv4114009502last p span.yiv4114009502yshortcuts {margin-right:0;}#yiv41140=
+09502 div.yiv4114009502attach-table div div a {text-decoration:none;}#yiv41=
+14009502 div.yiv4114009502attach-table {width:400px;}#yiv4114009502 div.yiv=
+4114009502file-title a, #yiv4114009502 div.yiv4114009502file-title a:active=
+, #yiv4114009502 div.yiv4114009502file-title a:hover, #yiv4114009502 div.yi=
+v4114009502file-title a:visited {text-decoration:none;}#yiv4114009502 div.y=
+iv4114009502photo-title a, #yiv4114009502 div.yiv4114009502photo-title a:ac=
+tive, #yiv4114009502 div.yiv4114009502photo-title a:hover, #yiv4114009502 d=
+iv.yiv4114009502photo-title a:visited {text-decoration:none;}#yiv4114009502=
+ div#yiv4114009502ygrp-mlmsg #yiv4114009502ygrp-msg p a span.yiv4114009502y=
+shortcuts {font-family:Verdana;font-size:10px;font-weight:normal;}#yiv41140=
+09502 .yiv4114009502green {color:#628c2a;}#yiv4114009502 .yiv4114009502MsoN=
+ormal {margin:0 0 0 0;}#yiv4114009502 o {font-size:0;}#yiv4114009502 #yiv41=
+14009502photos div {float:left;width:72px;}#yiv4114009502 #yiv4114009502pho=
+tos div div {border:1px solid #666666;height:62px;overflow:hidden;width:62p=
+x;}#yiv4114009502 #yiv4114009502photos div label {color:#666666;font-size:1=
+0px;overflow:hidden;text-align:center;white-space:nowrap;width:64px;}#yiv41=
+14009502 #yiv4114009502reco-category {font-size:77%;}#yiv4114009502 #yiv411=
+4009502reco-desc {font-size:77%;}#yiv4114009502 .yiv4114009502replbq {margi=
+n:4px;}#yiv4114009502 #yiv4114009502ygrp-actbar div a:first-child {margin-r=
+ight:2px;padding-right:5px;}#yiv4114009502 #yiv4114009502ygrp-mlmsg {font-s=
+ize:13px;font-family:Arial, helvetica, clean, sans-serif;}#yiv4114009502 #y=
+iv4114009502ygrp-mlmsg table {font-size:inherit;font:100%;}#yiv4114009502 #=
+yiv4114009502ygrp-mlmsg select, #yiv4114009502 input, #yiv4114009502 textar=
+ea {font:99% Arial, Helvetica, clean, sans-serif;}#yiv4114009502 #yiv411400=
+9502ygrp-mlmsg pre, #yiv4114009502 code {font:115% monospace;}#yiv411400950=
+2 #yiv4114009502ygrp-mlmsg * {line-height:1.22em;}#yiv4114009502 #yiv411400=
+9502ygrp-mlmsg #yiv4114009502logo {padding-bottom:10px;}#yiv4114009502 #yiv=
+4114009502ygrp-msg p a {font-family:Verdana;}#yiv4114009502 #yiv4114009502y=
+grp-msg p#yiv4114009502attach-count span {color:#1E66AE;font-weight:700;}#y=
+iv4114009502 #yiv4114009502ygrp-reco #yiv4114009502reco-head {color:#ff7900=
+;font-weight:700;}#yiv4114009502 #yiv4114009502ygrp-reco {margin-bottom:20p=
+x;padding:0px;}#yiv4114009502 #yiv4114009502ygrp-sponsor #yiv4114009502ov l=
+i a {font-size:130%;text-decoration:none;}#yiv4114009502 #yiv4114009502ygrp=
+-sponsor #yiv4114009502ov li {font-size:77%;list-style-type:square;padding:=
+6px 0;}#yiv4114009502 #yiv4114009502ygrp-sponsor #yiv4114009502ov ul {margi=
+n:0;padding:0 0 0 8px;}#yiv4114009502 #yiv4114009502ygrp-text {font-family:=
+Georgia;}#yiv4114009502 #yiv4114009502ygrp-text p {margin:0 0 1em 0;}#yiv41=
+14009502 #yiv4114009502ygrp-text tt {font-size:120%;}#yiv4114009502 #yiv411=
+4009502ygrp-vital ul li:last-child {border-right:none !important;}#yiv41140=
+09502 
+
+  
+------=_Part_744923_134749912.1454972324747
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><head></head><body><div style=3D"color:#000; background-color:#fff; f=
+ont-family:HelveticaNeue, Helvetica Neue, Helvetica, Arial, Lucida Grande, =
+Sans-Serif;font-size:12px"><div id=3D"yui_3_16_0_1_1454937201388_31994" dir=
+=3D"ltr"><span id=3D"yui_3_16_0_1_1454937201388_32094">There is always free=
+will, infact a general and good thumb-rule is that as long as one is wonder=
+ing (philosophically at least) whether freewill exists or not, practically =
+one has freewill and would do good to use it appropriately. To be beyond fr=
+eewill, well, one just knows organically as that happens. As long as there =
+is a mental/emotional association with an action, then there is the possibi=
+lity of reaping some reaction - good or bad - for that action. Therefore it=
+ but vital to use discrimination in action as far as possible.</span></div>=
+<div id=3D"yui_3_16_0_1_1454937201388_31994" dir=3D"ltr"><span><br></span><=
+/div><div id=3D"yui_3_16_0_1_1454937201388_31994" dir=3D"ltr"><span id=3D"y=
+ui_3_16_0_1_1454937201388_32264">When we are advised to be spontaneous, we =
+must understand that there is, simplistically speaking, two basic division =
+inside a human being - the surperficial/surface personality which we all ha=
+ve, and a deeper being which has to be found (by sadhana). The surface pers=
+onality is an aggregation/accumulation of various conditionings and tendenc=
+ies gathered in one or many lifetimes. There is nothing particularly divine=
+ about it. When we function through this, which most of us do, we are leadi=
+ng a normal life. But when through the process of sadhana - any sadhana tha=
+t is working - we are able to go deeper with and function from THAT Being w=
+hich lies hidden behind our daily personality, THEN the matter of spontanei=
+ty actually comes up. Even in ordinary existence that Being keeps sending o=
+ut a guidance to us but due to various aquired mental and emotional tendenc=
+ies we keep ignoring its advice. The more we ignore, the more it recedes to=
+ the background and its voice gets overpowered by the clamour of out mental=
+ fluctuations. This is what is known in normal language as the Viveka - dis=
+crimination. But when by sadhana a seeker learns to go deeper, the first st=
+ep for which maybe calming the external mind and emotions, then one can eve=
+ntually discover a clear and spontaneous and sure guidance, for it uses not=
+ the mental reason, or is not driven by emotions vacillations at all, but i=
+s connected in some peculiar way to the Divine. This spontenity is prized. =
+Then one may say, as one goes deeper and this state of living from within b=
+ecomes more settled, that one is but a mere instrument in the flow of the D=
+ivine Rhythm. Before that, we are all subject to out free wills and repercu=
+ssions thereof. </span></div><div id=3D"yui_3_16_0_1_1454937201388_319=
+94" dir=3D"ltr"><span><br></span></div><div id=3D"yui_3_16_0_1_145493720138=
+8_31994" dir=3D"ltr">Often by a generic use of the term spontaneity, or inn=
+er voice, we mean a normal reaction that we have been inculcating to situat=
+ions and which has become so ingrained that we do not even think before we =
+act into it. For example an aggressive person whose first reaction to every=
+ situaiton is an act of aggression, will always *spontaneously* behave that=
+ way whenever a difficult life situation comes up. Or an escapist who has b=
+een escaping all his life will first automatically think of escaping from a=
+ difficult situation because thath is what his conditioned response is. &nb=
+sp;That too is spontaneous, but spiritually useless. If anything it reinfor=
+ces the tendencies that we live by. The spiritual spontaneity arises as one=
+ goes deeper within, which of course is not easy and needs lot of practice =
+and effort, unless one is very very pure (internally), which is too rare in=
+ this age..</div><div id=3D"yui_3_16_0_1_1454937201388_31994" dir=3D"ltr"><=
+br></div><div id=3D"yui_3_16_0_1_1454937201388_31994" dir=3D"ltr">IMO the l=
+ine from the Aghora book should be taken as an attitude to be inculcated as=
+ a method of sadhana. To develop surrender, and as we try we may find resis=
+tance - due to deep conditioned responses - which means we still have to ma=
+ke conscious freewill choices and live by them, and also is an indication t=
+hat we may need to work on perfecting surrender. If surrender is truly perf=
+ect, there is no need for anything. But then, as in all things in spiritual=
+ life, none of it is easy, and we have to keep trying and trying..</div><di=
+v id=3D"yui_3_16_0_1_1454937201388_31994" dir=3D"ltr"><br></div><div id=3D"=
+yui_3_16_0_1_1454937201388_31994" dir=3D"ltr">BTW one of the very typical s=
+adhanas is to imagine the form of the choosen deity in the heart and medita=
+te thus... if this practice is done daily, with patience, and sincerity, it=
+ can, so people say, bring many benefits eventually.</div><div id=3D"yui_3_=
+16_0_1_1454937201388_31994" dir=3D"ltr"><br></div><div id=3D"yui_3_16_0_1_1=
+454937201388_31994" dir=3D"ltr">Hope this helps.</div><div id=3D"yui_3_16_0=
+_1_1454937201388_31994" dir=3D"ltr"><br></div><div id=3D"yui_3_16_0_1_14549=
+37201388_31994" dir=3D"ltr">-Regards</div><div id=3D"yui_3_16_0_1_145493720=
+1388_31994" dir=3D"ltr"> Rajarshi</div><div id=3D"yui_3_16_0_1_1454937=
+201388_31994" dir=3D"ltr"><span><br></span></div><div id=3D"yui_3_16_0_1_14=
+54937201388_31994" dir=3D"ltr"><span><br></span></div><div id=3D"yui_3_16_0=
+_1_1454937201388_31994" dir=3D"ltr"><span><br></span></div><div id=3D"yui_3=
+_16_0_1_1454937201388_31994" dir=3D"ltr"><span><br></span></div><div></div>=
+<div id=3D"yui_3_16_0_1_1454937201388_32099"> </div><div class=3D"sign=
+ature" id=3D"yui_3_16_0_1_1454937201388_32101"><div id=3D"yui_3_16_0_1_1454=
+937201388_32100"><span style=3D"font-family:times new roman, new york, time=
+s, serif;"><br></span></div><div id=3D"yui_3_16_0_1_1454937201388_32129"><i=
+ id=3D"yui_3_16_0_1_1454937201388_32128"><b id=3D"yui_3_16_0_1_145493720138=
+8_32127"><div class=3D"MsoNormal" id=3D"yui_3_16_0_1_1454937201388_32126"><=
+span style=3D"font-family:times new roman, new york, times, serif;" id=3D"y=
+ui_3_16_0_1_1454937201388_32125"><b><span class=3D"Apple-style-span" style=
+=3D"font-size:16px;"><b><span class=3D"Apple-style-span" style=3D"color:rgb=
+(153, 153, 153);"></span></b></span></b><span class=3D"yui_3_2_0_2_13424352=
+7249950" id=3D"yui_3_16_0_1_1454937201388_32136">I have a hundred lives bef=
+ore me yet/ To grasp thee in, O spirit ethereal, /</span> Be sure I will wi=
+th heart insatiate/ Pursue thee like a hunter through them all.</span><b><s=
+pan style=3D"font-family:times new roman, new york, times, serif;"> -Sri Au=
+robindo</span><span class=3D"yui_3_2_0_2_134243506227946 yui_3_2_0_2_134243=
+527249952 yui_3_2_0_2_137332740501958" style=3D"FONT-SIZE:10pt;COLOR:navy;F=
+ONT-FAMILY:Verdana;"></span></b></div></b></i></div></div><div class=3D"qtd=
+SeparateBR" id=3D"yui_3_16_0_1_1454937201388_32131"><br><br></div><div clas=
+s=3D"yahoo_quoted" id=3D"yui_3_16_0_1_1454937201388_31967" style=3D"display=
+: block;">  <div style=3D"font-family: HelveticaNeue, Helvetica Neue, Helve=
+tica, Arial, Lucida Grande, Sans-Serif; font-size: 12px;" id=3D"yui_3_16_0_=
+1_1454937201388_31966"> <div style=3D"font-family: HelveticaNeue, Helvetica=
+ Neue, Helvetica, Arial, Lucida Grande, Sans-Serif; font-size: 16px;" id=3D=
+"yui_3_16_0_1_1454937201388_31965"> <div dir=3D"ltr" id=3D"yui_3_16_0_1_145=
+4937201388_31979"> <font size=3D"2" face=3D"Arial" id=3D"yui_3_16_0_1_14549=
+37201388_31978"> <hr size=3D"1" id=3D"yui_3_16_0_1_1454937201388_32133"> <b=
+><span style=3D"font-weight:bold;">From:</span></b> "puloma_dasgupta@yahoo.=
+com [vedic-wisdom]" <vedic-wisdom@yahoogroups.com><br> <b><span style=
+=3D"font-weight: bold;">To:</span></b> vedic-wisdom@yahoogroups.com <br> <b=
+><span style=3D"font-weight: bold;">Sent:</span></b> Tuesday, 9 February 20=
+16 2:58 AM<br> <b><span style=3D"font-weight: bold;">Subject:</span></b> [v=
+edic-wisdom] Surrender<br> </font> </div> <div class=3D"y_msg_container" id=
+=3D"yui_3_16_0_1_1454937201388_31964"><br><div id=3D"yiv4114009502"><div id=
+=3D"yui_3_16_0_1_1454937201388_31963">
+<span style=3D"display:none;"> =
+</span>
+
+
+<div id=3D"yiv4114009502ygrp-mlmsg" style=3D"position:relative;">=
+
+  <div id=3D"yiv4114009502ygrp-msg" style=3D"z-index:1;">
+
+
+    <div id=3D=
+"yiv4114009502ygrp-text">
+      
+      
+      <div></div><div id=3D"yui_3_1=
+6_0_1_1454937201388_31962">"Arguably the most fundamental of these realisat=
+ions is this: the 
+essence of living with reality is to continually surrend=
+er to what is. 
+You have already created your own personal universe with yo=
+ur karmas and
+ now you must live in it. (...) If having decided to surrende=
+r you are 
+willing to keep surrendering, and then you surrender some more, =
+you will
+ simplify your personal choreography to the more manageable - if s=
+till 
+convoluted - process of resolving how, when, and what to yield."<br c=
+lear=3D"none"> - Robert Svoboda, The Law of Karma, Pg 9</div><div><br clear=
+=3D"none"></div><div>For 
+those who make it a point to cooperate with the D=
+ivine/Cosmic Will and flow with it rather than force 
+their free will (if t=
+here is one) on it, do you try to guard against your 
+tendency to negative/=
+undesirable actions if they come up? How do you do so while 
+still being sp=
+ontaneous? Is the practice of self-awareness antithetical to surrender?<br =
+clear=3D"none"></div><div><span><br clear=3D"none" class=3D"yiv4114009502yu=
+i-cursor"></span></div>
+
+    </div>
+     
+
+    
+    <div style=3D"color:#ff=
+f;height:0;"></div></div>
+
+
+</div><style type=3D"text/css">
+#yiv4114009502 =
+#yiv4114009502 --
+  #yiv4114009502ygrp-mkp {
+border:1px solid #d8d8d8;font-=
+family:Arial;margin:10px 0;padding:0 10px;}
+
+#yiv4114009502 #yiv4114009502y=
+grp-mkp hr {
+border:1px solid #d8d8d8;}
+
+#yiv4114009502 #yiv4114009502ygrp-=
+mkp #yiv4114009502hd {
+color:#628c2a;font-size:85%;font-weight:700;line-hei=
+ght:122%;margin:10px 0;}
+
+#yiv4114009502 #yiv4114009502ygrp-mkp #yiv4114009=
+502ads {
+margin-bottom:10px;}
+
+#yiv4114009502 #yiv4114009502ygrp-mkp .yiv41=
+14009502ad {
+padding:0 0;}
+
+#yiv4114009502 #yiv4114009502ygrp-mkp .yiv41140=
+09502ad p {
+margin:0;}
+
+#yiv4114009502 #yiv4114009502ygrp-mkp .yiv411400950=
+2ad a {
+color:#0000ff;text-decoration:none;}
+#yiv4114009502 #yiv4114009502y=
+grp-sponsor #yiv4114009502ygrp-lc {
+font-family:Arial;}
+
+#yiv4114009502 #yi=
+v4114009502ygrp-sponsor #yiv4114009502ygrp-lc #yiv4114009502hd {
+margin:10p=
+x 0px;font-weight:700;font-size:78%;line-height:122%;}
+
+#yiv4114009502 #yiv=
+4114009502ygrp-sponsor #yiv4114009502ygrp-lc .yiv4114009502ad {
+margin-bott=
+om:10px;padding:0 0;}
+
+#yiv4114009502 #yiv4114009502actions {
+font-family:V=
+erdana;font-size:11px;padding:10px 0;}
+
+#yiv4114009502 #yiv4114009502activi=
+ty {
+background-color:#e0ecee;float:left;font-family:Verdana;font-size:10px=
+;padding:10px;}
+
+#yiv4114009502 #yiv4114009502activity span {
+font-weight:7=
+00;}
+
+#yiv4114009502 #yiv4114009502activity span:first-child {
+text-transfo=
+rm:uppercase;}
+
+#yiv4114009502 #yiv4114009502activity span a {
+color:#5085b=
+6;text-decoration:none;}
+
+#yiv4114009502 #yiv4114009502activity span span {=
+
+color:#ff7900;}
+
+#yiv4114009502 #yiv4114009502activity span .yiv4114009502=
+underline {
+text-decoration:underline;}
+
+#yiv4114009502 .yiv4114009502attac=
+h {
+clear:both;display:table;font-family:Arial;font-size:12px;padding:10px =
+0;width:400px;}
+
+#yiv4114009502 .yiv4114009502attach div a {
+text-decoratio=
+n:none;}
+
+#yiv4114009502 .yiv4114009502attach img {
+border:none;padding-rig=
+ht:5px;}
+
+#yiv4114009502 .yiv4114009502attach label {
+display:block;margin-=
+bottom:5px;}
+
+#yiv4114009502 .yiv4114009502attach label a {
+text-decoration=
+:none;}
+
+#yiv4114009502 blockquote {
+margin:0 0 0 4px;}
+
+#yiv4114009502 .yi=
+v4114009502bold {
+font-family:Arial;font-size:13px;font-weight:700;}
+
+#yiv4=
+114009502 .yiv4114009502bold a {
+text-decoration:none;}
+
+#yiv4114009502 dd.=
+yiv4114009502last p a {
+font-family:Verdana;font-weight:700;}
+
+#yiv41140095=
+02 dd.yiv4114009502last p span {
+margin-right:10px;font-family:Verdana;font=
+-weight:700;}
+
+#yiv4114009502 dd.yiv4114009502last p span.yiv4114009502ysho=
+rtcuts {
+margin-right:0;}
+
+#yiv4114009502 div.yiv4114009502attach-table div=
+ div a {
+text-decoration:none;}
+
+#yiv4114009502 div.yiv4114009502attach-tab=
+le {
+width:400px;}
+
+#yiv4114009502 div.yiv4114009502file-title a, #yiv41140=
+09502 div.yiv4114009502file-title a:active, #yiv4114009502 div.yiv411400950=
+2file-title a:hover, #yiv4114009502 div.yiv4114009502file-title a:visited {=
+
+text-decoration:none;}
+
+#yiv4114009502 div.yiv4114009502photo-title a, #yi=
+v4114009502 div.yiv4114009502photo-title a:active, #yiv4114009502 div.yiv41=
+14009502photo-title a:hover, #yiv4114009502 div.yiv4114009502photo-title a:=
+visited {
+text-decoration:none;}
+
+#yiv4114009502 div#yiv4114009502ygrp-mlms=
+g #yiv4114009502ygrp-msg p a span.yiv4114009502yshortcuts {
+font-family:Ver=
+dana;font-size:10px;font-weight:normal;}
+
+#yiv4114009502 .yiv4114009502gree=
+n {
+color:#628c2a;}
+
+#yiv4114009502 .yiv4114009502MsoNormal {
+margin:0 0 0 =
+0;}
+
+#yiv4114009502 o {
+font-size:0;}
+
+#yiv4114009502 #yiv4114009502photos =
+div {
+float:left;width:72px;}
+
+#yiv4114009502 #yiv4114009502photos div div =
+{
+border:1px solid #666666;height:62px;overflow:hidden;width:62px;}
+
+#yiv41=
+14009502 #yiv4114009502photos div label {
+color:#666666;font-size:10px;over=
+flow:hidden;text-align:center;white-space:nowrap;width:64px;}
+
+#yiv41140095=
+02 #yiv4114009502reco-category {
+font-size:77%;}
+
+#yiv4114009502 #yiv411400=
+9502reco-desc {
+font-size:77%;}
+
+#yiv4114009502 .yiv4114009502replbq {
+marg=
+in:4px;}
+
+#yiv4114009502 #yiv4114009502ygrp-actbar div a:first-child {
+marg=
+in-right:2px;padding-right:5px;}
+
+#yiv4114009502 #yiv4114009502ygrp-mlmsg {=
+
+font-size:13px;font-family:Arial, helvetica, clean, sans-serif;}
+
+#yiv4114=
+009502 #yiv4114009502ygrp-mlmsg table {
+font-size:inherit;font:100%;}
+
+#yiv=
+4114009502 #yiv4114009502ygrp-mlmsg select, #yiv4114009502 input, #yiv41140=
+09502 textarea {
+font:99% Arial, Helvetica, clean, sans-serif;}
+
+#yiv411400=
+9502 #yiv4114009502ygrp-mlmsg pre, #yiv4114009502 code {
+font:115% monospac=
+e;}
+
+#yiv4114009502 #yiv4114009502ygrp-mlmsg * {
+line-height:1.22em;}
+
+#yiv=
+4114009502 #yiv4114009502ygrp-mlmsg #yiv4114009502logo {
+padding-bottom:10p=
+x;}
+
+
+#yiv4114009502 #yiv4114009502ygrp-msg p a {
+font-family:Verdana;}
+
+#y=
+iv4114009502 #yiv4114009502ygrp-msg p#yiv4114009502attach-count span {
+colo=
+r:#1E66AE;font-weight:700;}
+
+#yiv4114009502 #yiv4114009502ygrp-reco #yiv411=
+4009502reco-head {
+color:#ff7900;font-weight:700;}
+
+#yiv4114009502 #yiv4114=
+009502ygrp-reco {
+margin-bottom:20px;padding:0px;}
+
+#yiv4114009502 #yiv4114=
+009502ygrp-sponsor #yiv4114009502ov li a {
+font-size:130%;text-decoration:n=
+one;}
+
+#yiv4114009502 #yiv4114009502ygrp-sponsor #yiv4114009502ov li {
+font=
+-size:77%;list-style-type:square;padding:6px 0;}
+
+#yiv4114009502 #yiv411400=
+9502ygrp-sponsor #yiv4114009502ov ul {
+margin:0;padding:0 0 0 8px;}
+
+#yiv41=
+14009502 #yiv4114009502ygrp-text {
+font-family:Georgia;}
+
+#yiv4114009502 #y=
+iv4114009502ygrp-text p {
+margin:0 0 1em 0;}
+
+#yiv4114009502 #yiv4114009502=
+ygrp-text tt {
+font-size:120%;}
+
+#yiv4114009502 #yiv4114009502ygrp-vital ul=
+ li:last-child {
+border-right:none !important;
+}
+#yiv4114009502 
+</style></=
+div><br><br></div> </div> </div>  </div></div></body></html>
+------=_Part_744923_134749912.1454972324747--
+
+

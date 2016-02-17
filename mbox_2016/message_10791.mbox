@@ -1,0 +1,94 @@
+From vernman1976@...  Wed Feb 17 11:07:50 2016
+Return-Path: <vernman1976@...>
+X-Sender: vernman1976@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 25705 invoked by uid 102); 12 Feb 2016 05:07:03 -0000
+X-Received: from unknown (HELO mtaq2.grp.bf1.yahoo.com) (10.193.84.33)
+  by m12.grp.bf1.yahoo.com with SMTP; 12 Feb 2016 05:07:03 -0000
+X-Received: (qmail 2841 invoked from network); 12 Feb 2016 05:07:03 -0000
+X-Received: from unknown (HELO mta1006.groups.mail.bf1.yahoo.com) (98.139.245.165)
+  by mtaq2.grp.bf1.yahoo.com with SMTP; 12 Feb 2016 05:07:03 -0000
+X-Original-Return-Path: <vernman1976@...>
+X-Received-SPF: pass (domain of gmail.com designates 209.85.160.171 as permitted sender)
+X-YMailISG: dY2vRHMWLDsBRzkS3mfRT9Pg72s.xfeFrAomlFOBkEch4bjf
+ FPboI_rjDmNffpICQ_D5yD4vXIEL43ndwY_dq8esK2XixsIaUFKph9o8upPf
+ iJmuUiXT.ivmvWzGpzf1lAQpvuEEMWheW24mzepQWM864SlvRkAgRDJD1vd7
+ YHWwmydRcqDWb9c7JpTcbosTdDf_VK8sjTnHA3aWlvk6khRO63KPbj4q86dJ
+ 3UePr5xTDX43q40PfrgHFEbpobhdyXXuGB_t4Krz5tkayWZstVDWdpyMNhVo
+ Pu3.9bVnxa1jr_AYBpnL5jqPxBHDKN2ckhcQ_g3iTamAaX3eD6C.UuAhQW6d
+ PVMcG._E6pw0HxRvltM2IiGlLllpGnYTYFicxeeeego7kRqDO1.Wbw5hTCkD
+ pEdo1eSV_IsXN8w48tUG4ehjjfTF1P7yXhYMGCX4b01Y6JgK2vjm62MUCK.k
+ WDLr7Z0jM1Ngf7XNFTYle6R.5CMwmJKyNTEG9LOiJWG117E7RiOEy1z2aIUF
+ m2B6JQGfmaxSOdOWFZ16yuOC3_YjxXfT86iroBk..DqvhwYCQP6p5lJQzfsA
+ 7aH7bSyMeJvpFBv20P.iOPmUQ6sivwvKhYhl26LiBce30qw6NML6WaZPp1Bk
+ adFKeNoSS_xJKp30SDj5rTumnBUjumVN_GHmypy_rO3xXWBKjkPnZ5nqKD.V
+ isfgOUcNTjzOmvsJgPZv382OAk8lPuC6i_nVc_LikWtlvhFVlhg5VlFJyuPc
+ gWeID0fMgPLSXNKzq4fb01lsx5PkA9_CEJWSJNK5RUPV0_5wQelXOzAXCpS2
+ 4WUviiCmUCGG3QlGT8oGkvjG8zMnncriFKqe8iDSOfluP73neigG8UR_i15u
+ Ks1Llrry4raz4rFXt0n2J9pt36HYDcqEXjgYXSJ2f_LitqVXAFz5Rxn_lDI0
+ saIzNIlMlSyFnLQfcW7muCQDr1K8HnNFSVW9LDMXKSatMkXLWDpYFQc9BRm9
+ fuWozP2Nwz8OBy0gslT1tO.SyjGknwmaaohFUhUt_jYE3dG4TkhEuYShRPck
+ HHL_hb7_S.mD8BHWAMWrgkOpPv30YiqeXtqQuYga6Qzgld1xyljdnZqTcHJi
+ WLh00KRy7qqpUSVTmgVRlW6mzp7ScgEBSS3z28bqkcun_B5o5mF533lgknpo
+ yydhm3vlOzJBXSTqRLbV6Yi.zTHFvGv01vzwETgph1lrWbeI8hnpT0AWV70P
+ TfitNSU5.bPbhiFfliG2tQEO1IhdUKQy0nCBqhc-
+Authentication-Results: mta1006.groups.mail.bf1.yahoo.com  from=gmail.com; domainkeys=neutral (no sig);  from=gmail.com; dkim=pass (ok)
+X-Received: from 127.0.0.1  (EHLO mail-yk0-f171.google.com) (209.85.160.171)
+  by mta1006.groups.mail.bf1.yahoo.com with SMTPS; Fri, 12 Feb 2016 05:07:03 +0000
+X-Received: by mail-yk0-f171.google.com with SMTP id u9so30237128ykd.1
+        for <vedic-wisdom@yahoogroups.com>; Thu, 11 Feb 2016 21:07:03 -0800 (PST)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:in-reply-to:references:date
+         :message-id:subject:from:to:content-type;
+        bh=W5ZoHguAiIPFE5zeZrCnLotdCp27omAHbRaOJczHNlM=;
+        b=RdreopDZdp9a4XwXEiIYfNgzjeg9pqvtTVsMkgma1BlId3BVgLewXq2iMpfe+8FLkR
+         zcFweviWwazzV6tPDcqE4vdKhD883wrabIOoHXHKyOYWS9mZF2PR792bwnbuicDgK+v6
+         2S9Dbd0+CEy5Der1wPKI7T5gMQLEgPOjYABC+R0+8O9HQ8w0e9saZbY0DI9jZ+n0CD8j
+         snepXAGw13CnL4PClFB5LUT5NeNE9zjBZEWxZMt7D23Yq0VKGYtpLlBvCplLlcM+DrR0
+         qwYOovUcGfjc1e8a4s3y7UzTm33wv2Z3+4uk1B/xGf7HpNFZBvaFLSM0Wm5vanqcnDbE
+         yKsA==
+X-Gm-Message-State: AG10YOTARCjE40os1hs8oGgup0ZXktexOlxDtqE77XVCplK9e7e4BcAD675APYdWX9kLQGzz15Ygf5xNOtxnTw==
+MIME-Version: 1.0
+X-Received: by 10.37.47.76 with SMTP id v73mr26036570ybv.42.1455253623188;
+ Thu, 11 Feb 2016 21:07:03 -0800 (PST)
+X-Received: by 10.37.59.67 with HTTP; Thu, 11 Feb 2016 21:07:03 -0800 (PST)
+In-Reply-To: <n9glc8+1d189nh@...>
+References: <n9gfj5+1bv3mbm@...>
+	<1343976818.1897018.1455149712045.JavaMail.yahoo@...>
+	<n9glc8+1d189nh@...>
+Date: Fri, 12 Feb 2016 13:07:03 +0800
+Message-ID: <CAL0=tHaHZZvoQ6_TqdvbXNKxq-4kkDGSemgM0WLjsgFejPydag@...>
+To: vedic-wisdom@yahoogroups.com
+Content-Type: multipart/alternative; boundary=001a1140b9c044b45f052b8ba366
+X-Originating-IP: 98.139.245.165
+Subject: Re: [vedic-wisdom] Brahmacharya
+X-Yahoo-Group-Post: member; u=550672628; y=pfkRM-QscDMwqQ21nAz-xyRcRdwm_rQyStXhMA5hHoHmxW_K-WjV
+X-Yahoo-Profile: vernman_1976
+From: s s <vernman1976@...>
+
+
+--001a1140b9c044b45f052b8ba366
+Content-Type: text/plain; charset=UTF-8
+
+please google mantak chia....there are techniques....tantric and
+taoist....where you sublimate through sex....it was even mentioned in
+thirumoolars thirumantiram....it was called pariyanga yoga......instead of
+suppressing.....you channel the energy into higher centres....best of both
+worlds!.....takes a bit of practice though......and a proper partner{if you
+can get one}....good luck!
+
+--001a1140b9c044b45f052b8ba366
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">please google mantak chia....there are techniques....tantr=
+ic and taoist....where you sublimate through sex....it was even mentioned i=
+n thirumoolars thirumantiram....it was called pariyanga yoga......instead o=
+f suppressing.....you channel the energy into higher centres....best of bot=
+h worlds!.....takes a bit of practice though......and a proper partner{if y=
+ou can get one}....good luck!</div>
+
+--001a1140b9c044b45f052b8ba366--
+
+

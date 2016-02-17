@@ -1,0 +1,139 @@
+From ni_aparna@...  Wed Feb 17 11:07:49 2016
+Return-Path: <ni_aparna@...>
+X-Sender: ni_aparna@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 1495 invoked by uid 102); 7 Jan 2016 15:02:34 -0000
+X-Received: from unknown (HELO mtaq3.grp.bf1.yahoo.com) (10.193.84.142)
+  by m6.grp.bf1.yahoo.com with SMTP; 7 Jan 2016 15:02:34 -0000
+X-Received: (qmail 25242 invoked from network); 7 Jan 2016 15:02:34 -0000
+X-Received: from unknown (HELO mta1002.groups.mail.ne1.yahoo.com) (98.138.215.82)
+  by mtaq3.grp.bf1.yahoo.com with SMTP; 7 Jan 2016 15:02:34 -0000
+X-Original-Return-Path: <ni_aparna@...>
+X-Received-SPF: pass (domain of yahoo.com designates 98.136.218.95 as permitted sender)
+X-YMailISG: l7QZPE4WLDsY_uZ.Xh9zB9OEmpiVidSBSb9LkGtsDPLUSzY_
+ 1xNtaM1A9.R4wEvETYpoYqWeqDX4hE_VUtDeaqiYfmuYKnneE_dxi9Sg9LDh
+ mS56DstRpgfecDuc5l6KJbnU_zU91mE8kZdNAG1uKSin6f9XA91gsFiFuwUc
+ tFhGlaypq8fmP7m5sz3GdTmhlPciXEh5dmQFrcHqMx2KIGOVSGvR0Qh2MBR1
+ wfTsAcQKRy9VvdTR.s2wmgDmMTeoFUbNoulTh1NZyx7Tp_D_mizskvdBedYP
+ X8XZRFvKCGquxD2ngWSTzby.BF3wcXeKR1qMn_tLH32PliV8qbwFIoo.vm_S
+ BhHpWgmRlL1GiJJ2pEuWTSYMIQ3mpoVDFPGEVUGibBTPUfa76lr4NrdNYHcz
+ _pk2MPTivawVMpWTp2cBMavFDWzMNFQjtUOzKpLtT4vO7rq06cb_8GrJLdtI
+ LzswWSWSq15B_W8wdx2UgaeAAPc810LgzWzfe_tzG.0IwhL._NZ0QD0dXCa7
+ v.MkvAZarMXr14bvxZD0VgCd7fTyCE5thorW.CzxqBFF_SsWvDv2sUVOkC.9
+ BDXMWB.MIoHjgfX8umqJo915LSQTo8JgJFasB8zOZL2eGYOtjtrH1lrlOpSU
+ B5z6_zq4KnajePcsGeEt7SMykJ2sBg0LzloSE4N8vlqx2Rri4INDgtKPzNZF
+ H5r2nbdgNmVFYk0vH3xRrs5FrSQ4rd_9mc4ihU9cni5kOAR4sBidOrTzRcCT
+ .tb9mqMHqys_DSIH4Prb0QTvys6Q3rBnwsU7UFkNlZeClp99aWH5Hw_SyWDx
+ LoiyRmWnhERoIhQ4fyDU3OEjM_KDRt6bRUtJ4yDl3CQQkQutFQlg9.ws8rZE
+ U9.qQnx5c4iiHtDI42rXJFj3WSzT2CoAWU4b7sRV1FeaCCs.PMgWSqXhyV.E
+ .l6s5ZsTG25S4_2giloHmw4aX3dfrd7ooFafuJcRaY50S_zvFgLfOB1cfrBv
+ iKJ11Z4s4Ok6VpjKAI66ZDnlCUPihvanPs0uLnaOSwETAEqZyYqvQ0IiKCzy
+ AGD20ooEgww1mXhyT8HvgNSHY6OJLTmxFYqxTpVjU1YwCXUHXYyFK7bwxHpM
+ b00L8oFuL8XSEy8r1CTv4n7ou0CFn2WonZBu4foKG6t.Xj8oYO9qi98rCNTT
+ _qvvYDELwT_P2C0Qdt.pYnC5Ndc7DAqD3.CfrnryGKFB8lirRrKjKKCuPTr6
+ .pIUU_jyyauC9seQT07XxV1J86U_doDIHPJ_j8DQVsUNFBzSWUucChVZYmAc
+ BBKmJPNtlrAe8O2EfUGj7ZcQ8A9ypcMEihXnIWxz_1H.4J_ddIlCMxTN0Nkf
+ LoZt6s60z6aNQzptXAw41fxWiorpYyib0BeoE2FFPSEtRKHiS4LmthGL252R
+ yAuQvreZLdJqTWTg3vZxuHIpiNyhbeeRU4j5sJW6Htgk5Bt31M8UOCZF1mI6
+ LG_eh0GGk88-
+Authentication-Results: mta1002.groups.mail.ne1.yahoo.com  from=yahoo.com; domainkeys=neutral (no sig);  from=yahoo.com; dkim=pass (ok)
+X-Received: from 127.0.0.1  (EHLO nm10-vm4.bullet.mail.gq1.yahoo.com) (98.136.218.95)
+  by mta1002.groups.mail.ne1.yahoo.com with SMTPS; Thu, 07 Jan 2016 15:02:34 +0000
+X-Received: from [98.137.12.60] by nm10.bullet.mail.gq1.yahoo.com with NNFMP; 07 Jan 2016 15:02:34 -0000
+X-Received: from [98.137.12.194] by tm5.bullet.mail.gq1.yahoo.com with NNFMP; 07 Jan 2016 15:02:34 -0000
+X-Received: from [127.0.0.1] by omp1002.mail.gq1.yahoo.com with NNFMP; 07 Jan 2016 15:02:34 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 100466.37822.bm@...
+X-YMail-OSG: DteV6HMVM1mTSTPK3MFA1oScaiazQKFRC2Ofk4seiBvszkXKq4ZTyp_SvU2BHhu
+ LLOh_R3qQ1xRhqkNeZV1Y.4phQyXz2syNwANY0uJ3O7jy5jZo4QrM2ZGA6_Pm0g0afOuiMsZqmvG
+ PFRyIodLbQSuaQwBbtyajSigp5AgU8ebpZ5upeGx_e5ssHvbJqPgPltdyE.vmd.bXa5KduH8EOdB
+ 5iYQBo9CY.pFSu63nvokPn4SDiCXx2dKb7ugrsgMBV3cBSKcLeB4dFx5jbgRy8eaTe83XN1EEiR2
+ ZWHR.hefJfBXshNWTeeQZ7eB38bCOYyPxBU_KhpQSxmgaYXTGKF3rs8F3ctphhkyO7c4rEfcU6.u
+ taw_2G1kO0It6PVdGCH4akKiVS.6yB3CPlac58FozUEaS2UmmToPRv1xdAjNNr5E_iEndD2nErpN
+ lRdeFUX0wjxAGWbPf1w5E3CwCOeZ75Z4srKSCZQcx6o9Lay.KRFrJTHuaikJ54a1_2tej0ibocOq
+ 1SPzh
+X-Received: by 216.39.60.208; Thu, 07 Jan 2016 15:02:33 +0000 
+Date: Thu, 7 Jan 2016 15:02:27 +0000 (UTC)
+To: "vedic-wisdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com>
+Message-ID: <381950494.1491862.1452178947447.JavaMail.yahoo@...>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_1491861_1555852069.1452178947442"
+References: <381950494.1491862.1452178947447.JavaMail.yahoo.ref@...>
+Content-Length: 4025
+X-Originating-IP: 98.138.215.82
+Reply-To: Aparna Patil <ni_aparna@...>
+Subject: Yantras and Durga Saptashati
+X-Yahoo-Group-Post: member; u=87303888; y=qSHrNBDLPnDM6xnPO6DtEekThyT8p674Xi4wITmArB-8igtW
+X-Yahoo-Profile: ni_aparna
+From: Aparna Patil <ni_aparna@...>
+
+
+------=_Part_1491861_1555852069.1452178947442
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Namaste,
+I have two questions.
+
+1.)
+I am an architect and along with the ma=
+instream projects I also practice Vaastushastra. I have used Yantras to enh=
+ance/modify energies in homes and businesses and have seen positive results=
+. I am aware of several Vedic Yantras and want to study their geometrics, e=
+nergy patterns and their significance in depth and detail. Can someone plea=
+se point me to the right source or suggest a reference to study Vedic Yantr=
+as. Thank You. 
+
+2.)I would like to know how to worship Divine Mother. I pe=
+rform the daily pooja and chant the Navarnav mantra for Mother. I have the =
+Durga Saptashati in Sanskrit with me and want to do a Parayan. For Durga Sa=
+ptashati a lot of Sanskara need to be done before the main Parayan begins a=
+nd takes a lot of time. I have not been able to do a Parayan due to time co=
+nstraints. My question is 'Is is OK to read just one chapter or portions of=
+ the Saptashati on a daily basis? Which ones and how does one do it? Many T=
+hanks. 
+
+Warm regards,Geeta. =C2=A0
+------=_Part_1491861_1555852069.1452178947442
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><head></head><body><div style=3D"color:#000; background-color:#fff; f=
+ont-family:garamond, new york, times, serif;font-size:16px"><div id=3D"yui_=
+3_16_0_1_1452176948383_3009"><span id=3D"yui_3_16_0_1_1452176948383_3060">N=
+amaste,</span></div><div id=3D"yui_3_16_0_1_1452176948383_3393"><br><span i=
+d=3D"yui_3_16_0_1_1452176948383_3060"></span></div><div id=3D"yui_3_16_0_1_=
+1452176948383_3527"><span id=3D"yui_3_16_0_1_1452176948383_3060">I have two=
+ questions.<br></span></div><div id=3D"yui_3_16_0_1_1452176948383_3061"><br=
+></div><div id=3D"yui_3_16_0_1_1452176948383_3415">1.)<br><span id=3D"yui_3=
+_16_0_1_1452176948383_3060"></span></div><div id=3D"yui_3_16_0_1_1452176948=
+383_3094" dir=3D"ltr"><span class=3D"" id=3D"yui_3_16_0_1_1452176948383_306=
+0">I am an architect and along with the mainstream projects I also practice=
+ Vaastushastra. I have used Yantras to enhance/modify energies in homes and=
+ businesses and have seen positive results. </span><span id=3D"yui_3_16_0_1=
+_1452176948383_3060">I am aware of several Vedic Yantras and want to study =
+their geometrics, energy patterns and their significance in depth and detai=
+l. Can someone please point me to the right source or suggest a reference t=
+o study Vedic Yantras. Thank You. <br></span></div><div id=3D"yui_3_16_0_1_=
+1452176948383_3416" dir=3D"ltr"><br><span id=3D"yui_3_16_0_1_1452176948383_=
+3060"></span></div><div id=3D"yui_3_16_0_1_1452176948383_3452" dir=3D"ltr">=
+<span id=3D"yui_3_16_0_1_1452176948383_3060">2.)</span></div><div id=3D"yui=
+_3_16_0_1_1452176948383_3599" dir=3D"ltr"><span id=3D"yui_3_16_0_1_14521769=
+48383_3060">I would like to know how to worship Divine Mother. I perform th=
+e daily pooja and chant the Navarnav mantra for Mother. I have the Durga Sa=
+ptashati in Sanskrit with me and want to do a Parayan. For Durga Saptashati=
+ a lot of Sanskara need to be done before the main Parayan begins and takes=
+ a lot of time. </span><span id=3D"yui_3_16_0_1_1452176948383_3060">I have =
+not been able to do a Parayan due to time constraints. My question is 'Is i=
+s OK to read just one chapter or portions of the Saptashati on a daily basi=
+s? Which ones and how does one do it? Many Thanks. <br></span></div><div id=
+=3D"yui_3_16_0_1_1452176948383_3332" dir=3D"ltr"><br><span id=3D"yui_3_16_0=
+_1_1452176948383_3060"></span></div><div id=3D"yui_3_16_0_1_1452176948383_3=
+321" dir=3D"ltr"><span id=3D"yui_3_16_0_1_1452176948383_3060">Warm regards,=
+</span></div><div id=3D"yui_3_16_0_1_1452176948383_3322" dir=3D"ltr"><span =
+id=3D"yui_3_16_0_1_1452176948383_3060">Geeta. </span></div><div id=3D"yui_3=
+_16_0_1_1452176948383_3054"> </div></div></body></html>
+------=_Part_1491861_1555852069.1452178947442--
+
+

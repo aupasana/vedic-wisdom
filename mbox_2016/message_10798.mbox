@@ -1,0 +1,209 @@
+From manoj108@...  Wed Feb 17 11:07:50 2016
+Return-Path: <manoj108@...>
+X-Sender: manoj108@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 31260 invoked by uid 102); 16 Feb 2016 02:30:12 -0000
+X-Received: from unknown (HELO mtaq2.grp.bf1.yahoo.com) (10.193.84.33)
+  by m12.grp.bf1.yahoo.com with SMTP; 16 Feb 2016 02:30:12 -0000
+X-Received: (qmail 7177 invoked from network); 16 Feb 2016 02:30:12 -0000
+X-Received: from unknown (HELO mta1006.groups.mail.bf1.yahoo.com) (98.139.245.165)
+  by mtaq2.grp.bf1.yahoo.com with SMTP; 16 Feb 2016 02:30:12 -0000
+X-Original-Return-Path: <manoj108@...>
+X-Received-SPF: pass (domain of gmail.com designates 209.85.213.43 as permitted sender)
+X-YMailISG: Te82TDEWLDuiDo8cI9Z1W5hwPj.QwRVag84wz9FvRoGcGff.
+ YxKSBj0yWDU9MBcdHEiHMJ_TrkLSRwfO_MIg102OFAPAlRgDveT7pZYgf3.B
+ FNhhE4Cznj1GgjW2r5bL03ldkGvMSNzrdYLWUgP4aEw8nJsEwnV0kPHo6z5q
+ W9J2x1dJ5YWFf2zG5uKRUvqZ_EKCVc27GMMjTPOkQwLaaST6xi8ROkTifFLf
+ jL43EoVkjc2Aoc9EPfKMqD8_w1vnnV_gmgqLgUJGzFXP3lug98jD.yrMyCK6
+ Zyt58mhKIgy9Yh9M0tZrI8CIciUoMUt7.kvlWaPZS7lFmq8u6J9eyToLj2ZH
+ xilT4FI7Ec5pYA42n9fDP8j2O48KidrEsHeh6beODN6mXp53kYz1GPx1QjL3
+ TkBjV0uLxkLQ4E6ortui5lqFB3xAtPx1.fKIO6wwATjdWCUJGr.9tWBqawVg
+ 9HitVC8JjyWUmuuvJ0aRLaVFPrWUrzwP3XhOuTIg7KH5A69P8wAPbWPstjzh
+ KCItXH.22howk20w8zkihSGH1Zc2SarGIGLy3AjegK1jnG1goR_ImlCfQL4S
+ swiTSAzdrIJRdm5DOPGeu.nQZlCMVVF_4sqvlE_qGeIm91jdqsbSz7.qP4QH
+ lvLrcNLcJzrYaL4MB_b0clgbl8hqH1KQABkn.J.RaqaWGhRzMzlRDGlyUNe.
+ crxWD2mwX8hhqlko2umAmHpNsxKikMJXPGm98Lf7K.ICglcp_TKtSi2mvC.l
+ zGUBdQTolCds2AHm97ZPzyGydIfQzYqi10d82PGUFqp4eVLcAk2cZknvpu1T
+ zvBV_ngmhtEZ9x82uQuR1iywmDtpnRLDxwnUnc0s89JZgiVn0EupssKVbZ4W
+ NHkZDziZsngUJ55dnQ1KNlV0RDkpCW3.NVSvw.ZLAbjZDbFzqyVXgAbwsiO4
+ IFr.silgChKiYKPWoWaGLPjBJQHjOvL7ez8MzfI6W5rsj95PUQtbrSWOg9Uk
+ kbxz4wrkVcBHp98N9pc0a55uvSWXfo1ESd1GgJq2RGUMQxP6tbtYMMIDS3S6
+ xI7itBIX_2atFc6RsZe6DZez3dwLihWegjQvYKbaI93DGNU1Mx4AcgsQhf.Z
+ Q86uzksWKL5UrdSNFIR7hbjZSTbDcy9LseFL9jxvx6o8BgF8ogMSqAXXjIKo
+ EGF_GcbztGoe6etjoGFpjW1P0fXKwGetUzigjKstsWvpvPRCzera650XBeUP
+ IbedP7mxLM.IlKzzdO_wqlnZ7AuVjqY7MGRNHTN16hvFVJnhMhymg9jHt.2U
+ QBlGp0l_Os9HaAp31o_lRbyXp7U5SbK0nm64PXoCOBDn7UnyOJ2ye499AopA
+ 9yr_its7c2RA5u0ffwTxQMZIJUG2RRWNvA0pU9mSh3Sugh428x8QazxKE5wX
+ 7s5ZNNxzCt.PubO5.iHqZOD4dPLPSibC7QP2lIK3K3ye.GcqC5AV9AwHQPtJ
+ FxE6dKLyateb0e3lLKaK0i2tS1BRN5vv.B1Q55uosfvTKLrZxSiRN7ZNdVOi
+ cmnG1hbVx0hnMo9kEBlSFjwHq3tFX2JjgBr.Zg--
+Authentication-Results: mta1006.groups.mail.bf1.yahoo.com  from=gmail.com; domainkeys=neutral (no sig);  from=gmail.com; dkim=pass (ok)
+X-Received: from 127.0.0.1  (EHLO mail-vk0-f43.google.com) (209.85.213.43)
+  by mta1006.groups.mail.bf1.yahoo.com with SMTPS; Tue, 16 Feb 2016 02:30:11 +0000
+X-Received: by mail-vk0-f43.google.com with SMTP id e6so121561256vkh.2
+        for <vedic-wisdom@yahoogroups.com>; Mon, 15 Feb 2016 18:30:11 -0800 (PST)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:in-reply-to:references:from:date
+         :message-id:subject:to:content-type;
+        bh=N3BeY5YSv1B46QUTmYe3N5n/q+0bA4subKUF0YhulWA=;
+        b=QvYmhaNWe3SGcsLS/ieN/jsAlktrfIgfOSP2YLOw69Wc7wNSY3FWJIz1R2GiRlLPqf
+         ClvweR/6W94DnkbyPViL9BZqsiSeBtKKqroKxLLDEDB4Gpllfj+MWvYEWm9HZS/6IOPu
+         3RDkZIt+MdoEP2glveNmqikLv1HQzSpahIO28+mNmJm3B9RbCGM8DcNe6SRXqyVpcjr+
+         XmXo1qx65vQTP/NU9+NF5f1LTDKU9x8K0/FgsXM+o3o4K/w3b9ZKa1tbpdZG2mUeg5el
+         cMnxAS0PvzPVbhpVhGJGwRrKxiJi2KqQAzhYbBwiw3gDeT43ScDFVT0FVh1ECUfAenXz
+         cEsA==
+X-Gm-Message-State: AG10YOQr+mc2i/0j1rpEORv8gXIzzfGBaLhwLZgVwTyJtTcAs++hTUmPAcXKXcSQOfUOS9Fo609tCt/b7QqwyA==
+X-Received: by 10.31.194.10 with SMTP id s10mr16192667vkf.72.1455589811310;
+ Mon, 15 Feb 2016 18:30:11 -0800 (PST)
+MIME-Version: 1.0
+X-Received: by 10.103.106.66 with HTTP; Mon, 15 Feb 2016 18:29:51 -0800 (PST)
+In-Reply-To: <n9tlbp+mg8r0k@...>
+References: <n9tlbp+mg8r0k@...>
+Date: Tue, 16 Feb 2016 07:59:51 +0530
+Message-ID: <CAJP0tz2X_hdS8n2j-u-iV-1LaHLP_KeM3QXuUhPRBWUwWCStYA@...>
+To: vedic-wisdom@yahoogroups.com
+Content-Type: multipart/alternative; boundary=001a114661dca4559b052bd9e95c
+X-Originating-IP: 98.139.245.165
+Subject: Re: [vedic-wisdom] Making every action an offering to the Divine
+X-Yahoo-Group-Post: member; u=314524488; y=ne5ZW7W_4HOIdO33i1geD_Leyp1F2P5grD642wV1h8JOpOrlCGsDhulounA
+X-Yahoo-Profile: manojag
+From: manoj agarwal <manoj108@...>
+
+
+--001a114661dca4559b052bd9e95c
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+The meaning of offering ones action lies in the fact that we do not have
+co=
+ntrol over the result of our actions, What ever action we may do would
+resu=
+lt into four different results viz.1. Get what was expected. 2. Get
+more th=
+an expected.3. Get less than expected.4. Get something totally
+something di=
+fferent.
+We can and must do all our actions wit the best of our ability ' k=
+oshalam'
+and leave the results of the action to the Lord who is the giver o=
+f the
+fruits of our action and take the results as 'PRASAD' from the almigh=
+ty.
+Once we accept this fact and do all our Karma to the best of our abilit=
+y
+and take the results as prasad,
+slowly our mind will become 'nirmal' and =
+we will be ready for Gyana.
+
+On Tue, Feb 16, 2016 at 4:31 AM, puloma_dasgup=
+ta@... [vedic-wisdom] <
+vedic-wisdom@yahoogroups.com> wrote:
+
+>
+>
+> M=
+aking everything we do through the day an offering to the divine, to the
+> =
+ultimate source of all, is sometimes said to be a sadhana. But what does it=
+
+> mean to make everything into an offering? How does one do so? Does simpl=
+y
+> intending so while going about our activities amount to offering? If
+> =
+'giving up the fruits' of the actions performed, good or bad, is the
+> mean=
+ing of offering, then how does one even do that? What does actually
+> 'givi=
+ng up the fruits' mean and how is it achieved? Also, what does it mean
+> to=
+ 'offer oneself' to the Divine?
+> 
+>
+
+--001a114661dca4559b052bd9e95c
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><div class=3D"gmail_default" style=3D"font-family:arial,he=
+lvetica,sans-serif;font-size:small">The meaning of offering ones action lie=
+s in the fact that we do not have control over the result of our actions, W=
+hat ever action we may do would result into four different results viz.1. G=
+et what was expected. 2. Get more than expected.3. Get less than expected.4=
+. Get something totally something different.=C2=A0</div><div class=3D"gmail=
+_default" style=3D"font-family:arial,helvetica,sans-serif;font-size:small">=
+We can and must do all our actions wit the best of our ability ' koshal=
+am' and leave the results of the action to the Lord who is the giver of=
+ the fruits of our action and take the results as 'PRASAD' from the=
+ almighty.</div><div class=3D"gmail_default" style=3D"font-family:arial,hel=
+vetica,sans-serif;font-size:small">Once we accept this fact and do all our =
+Karma to the best of our ability and take the results as prasad,</div><div =
+class=3D"gmail_default" style=3D"font-family:arial,helvetica,sans-serif;fon=
+t-size:small">slowly our mind will become 'nirmal' and we will be r=
+eady for Gyana.</div></div><div class=3D"gmail_extra"><br><div class=3D"gma=
+il_quote">On Tue, Feb 16, 2016 at 4:31 AM, <a href=3D"mailto:puloma_dasgupt=
+a@...">puloma_dasgupta@...</a> [vedic-wisdom] <span dir=3D"ltr"=
+><<a href=3D"mailto:vedic-wisdom@yahoogroups.com" target=3D"_blank">vedi=
+c-wisdom@yahoogroups.com</a>></span> wrote:<br><blockquote class=3D"gmai=
+l_quote" style=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left=
+:1ex">
+
+
+<u></u>
+
+
+
+
+
+
+
+
+
+ 
+<div style=3D"background-color:#fff">
+<span>=C2=
+=A0</span>
+
+
+<div>
+  <div>
+
+
+    <div>
+      
+      
+      <p>Making everyt=
+hing we do through the day an offering to the divine, to the ultimate sourc=
+e of all, is sometimes said to be a sadhana. But what does it mean to make =
+everything into an offering? How does one do so? Does simply intending so w=
+hile going about our activities amount to offering? If 'giving up the f=
+ruits' of the actions performed, good or bad, is the meaning of offerin=
+g, then how does one even do that? What does actually 'giving up the fr=
+uits' mean and how is it achieved? Also, what does it mean to 'offe=
+r oneself' to the Divine?</p>
+
+    </div>
+     
+
+    
+    <div style=3D=
+"color:#fff;min-height:0"></div>
+
+
+</div>
+
+
+
+  
+
+
+
+
+
+
+</blockquote></div><b=
+r></div>
+
+--001a114661dca4559b052bd9e95c--
+
+

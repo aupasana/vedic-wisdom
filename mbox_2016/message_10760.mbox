@@ -1,0 +1,335 @@
+From ajit.krishnan@...  Wed Feb 17 11:07:49 2016
+Return-Path: <ajit.krishnan@...>
+X-Sender: ajit.krishnan@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 54466 invoked by uid 102); 7 Jan 2016 18:35:25 -0000
+X-Received: from unknown (HELO mtaq2.grp.bf1.yahoo.com) (10.193.84.33)
+  by m14.grp.bf1.yahoo.com with SMTP; 7 Jan 2016 18:35:25 -0000
+X-Received: (qmail 8097 invoked from network); 7 Jan 2016 18:35:25 -0000
+X-Received: from unknown (HELO mta1005.groups.mail.bf1.yahoo.com) (98.139.245.164)
+  by mtaq2.grp.bf1.yahoo.com with SMTP; 7 Jan 2016 18:35:25 -0000
+X-Original-Return-Path: <ajit.krishnan@...>
+X-Received-SPF: pass (domain of gmail.com designates 209.85.220.182 as permitted sender)
+X-YMailISG: 5kpnIWwWLDuTx02J95NYt.VMZWc3aLh3YHgHwQ1H7F_gtc7_
+ Nybsf0UiTIkw0Kefl9x5RjuWALbH3S2GHr1eRNn3dS.uPgbbBtBN0zlqpdLA
+ 3_xFzvATy08yq3YF9GJz4ls1CySWfP6oc9UihvMM86PLJPe9rTlVx1F1zhpm
+ ulGKO9NyICS5lVxuESjisKj6yN.cJSu4IDxvIxPZFFaOYXzEVBOPZC2C1dih
+ dwExt5UFNW8pQ8mJkaSrZAKwmwI5V6DDoP8hBD5l2RvcKmHQ4ZhZ86ew4UAB
+ Q3SMRVMEEKVkJnD9a481XiZtTnsSRS9aX73o0UOMvJ1OSr3D8.1VSV68p7St
+ xsSwaT9RnsFFP1u59WMZGHD71mxllEkbOG3mlJUt5kmMuHsakigUHCozH6gJ
+ 5PIGbmVtvGp5osKUu1jW2chLWcoaPKVRac62TQXCQf8y05PwHl8Gp6IVehyM
+ tzhoEAQl2FAuPg2J_QKebRQxV_6OMnoIqRxjAZKIukoK0xHWWhEO2VqHL8GQ
+ OCxuiXgTw3lFK2NmqSdoTp4uoGhxwrEcnXgKbDX4HglDSvLrxB5KyGUKI5rw
+ kVT95UeSG8mgU1DEilOiFUyr7pwjzNo7JkufDZcni8yM2DG8z1LNdPiil1_h
+ f.gNf3toDcTTQbU9nxngxEf.g7nPWmDyOXLPgBg71vIQv5eQ.LO3ITMCUiWI
+ jKEJ04bMr5SqO6YTdIqa2or1TsuPbGfcEPuG9Ulvj0FuriMjgm1z_3MDaP1j
+ 7n4UQ6Rh5RYYMiBtClNU7MPe5iqSVzACSFBsQDbLVZbc6uwbDJs6pBU6nlMq
+ J.P2kO83C8O_8PcPrp5Df.tOB9F5.UZVhruea52YIwL_XRJdV9G6ZPcmbpc3
+ u23ZbsCtX7xQ_FEdKE.aT1M7GDYEcPSs8USUNmds5Idz.qi0MEulgIaOP3Ta
+ fQxppHu6RisDCKr8TY0UFXTr0IEBhejX9ejH5OB1ZPJsGFLuVn4nLmPK0KJZ
+ F9k2CgUAnKuhmBpLKJfMBPoy5FP6O8Aih7Dv0cgt3sQsg1i10MeIYTt0Pmnt
+ WFHO8PSQQ6vcmj.dSeS3Wom.Xdh.7PXw.lr4_dHsZme2WQCq0LbkgIQBFZP.
+ hYPKTuR8bDNnDJIxnNmyqNneeDw9.jHWRI.XruTLb1wwiCRjwphSvHNTb3Z8
+ JvwS1QV7tZHOx_N4y5g998Rs5C3OBNBJWDRoXeRfxvwCyTZfQwQtkS9DBjD.
+ S3YqJEVhm.0ILzReGMZfWsyedFuDaxqw08PQ8Z32835fVMJ5kVutHzWBs8AF
+ qo7nYITGIH2Pxp3HEeU4IPY3tjOfsvjoEq9lE6SkVRtwKExt.G.2jBN8vRV7
+ m52CzflqsROqKvOFwho2Ms0iK.oQrxGjdp_xuxEhYLspr1C9mGDCT5VOtG.R
+ kiXH9yttDDJPZqcI843PnorIKtFRVCGLZnlYl.tXyAfQ2Ps14rNzb20J3o7c
+ wnoZvi2y1HGhdZJbu8XZF8SPtDYgubC6bNnf6AP6pvsm3ho6KNYnyTpIrWsR
+ CrbQ0zeGm72KP4xueqEHYBRfGbdqIcMoTaqPZq8ecYRicI8_J1U8ed1DK4Lr
+ tkWNSqZtGMrmUEnJ7Oieli7J9nhMV3if_rzfXAzo.yhhBKGkwrGlW5NpNVOs
+ FfoHgh76xvVqUGLeaOeN5BYpjnzgLcXn72164.fyvaS1k020BSGS3rbch.Wl
+ 9ytqeCNZATKoENdq.e.vx2B6FG3Zm.LaPzgh0T8McN5s5gUGJC7_CUSBABy5
+ k9Tt80sBMl87Y1K2
+Authentication-Results: mta1005.groups.mail.bf1.yahoo.com  from=gmail.com; domainkeys=neutral (no sig);  from=gmail.com; dkim=pass (ok)
+X-Received: from 127.0.0.1  (EHLO mail-qk0-f182.google.com) (209.85.220.182)
+  by mta1005.groups.mail.bf1.yahoo.com with SMTPS; Thu, 07 Jan 2016 18:35:25 +0000
+X-Received: by mail-qk0-f182.google.com with SMTP id h11so47768043qke.1
+        for <vedic-wisdom@yahoogroups.com>; Thu, 07 Jan 2016 10:35:25 -0800 (PST)
+X-Received: by 10.55.52.211 with SMTP id b202mr83786306qka.27.1452191420767;
+ Thu, 07 Jan 2016 10:30:20 -0800 (PST)
+MIME-Version: 1.0
+X-Received: by 10.55.217.92 with HTTP; Thu, 7 Jan 2016 10:30:01 -0800 (PST)
+In-Reply-To: <04BB546F-2D73-4DCA-A7F6-CDE9BA03FF06@...>
+References: <381950494.1491862.1452178947447.JavaMail.yahoo.ref@...>
+ <381950494.1491862.1452178947447.JavaMail.yahoo@...> <04BB546F-2D73-4DCA-A7F6-CDE9BA03FF06@...>
+Date: Thu, 7 Jan 2016 10:30:01 -0800
+Message-ID: <CAJY401WDmFo6dsnYm6zQehAmVMDMDmKx0KjRZTTREQwJfng3+g@...>
+To: "vedic-wisdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com>
+Content-Type: multipart/alternative; boundary=001a11470d08c7e43d0528c2a95c
+X-Originating-IP: 98.139.245.164
+Subject: Re: [vedic-wisdom] Yantras and Durga Saptashati
+X-Yahoo-Group-Post: member; u=209203520; y=UFEWOROBl22YiLar7hReaEQzwl09kiWyhGoIaIzOtQXVcTE
+X-Yahoo-Profile: ajit_sjc
+From: Ajit Krishnan <ajit.krishnan@...>
+
+
+--001a11470d08c7e43d0528c2a95c
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+namaste,
+
+> Regarding Durga shapshati It takes me only 25 minutes
+
+Many peo=
+ple that are comfortable with the text take 60 minutes or so to
+recite it (=
+without angas). Though it can be done a little faster, a 25
+minute parayana=
+ is practically impossible for most of us.
+
+> a lot of Sanskara need to be =
+done before the main Parayan begins
+
+Though it is always nice to do things =
+elaborately, especially on special
+occasions, it is not necessary. You can =
+stick with just the main parayana,
+especially if you are doing it as a regu=
+lar sadhana.
+
+> Is is OK to read just one chapter or portions of the Saptas=
+hati
+
+Yes.
+
+> Which ones and how does one do it
+
+The durga-saptashloki has =
+only 7 slokas from the saptashati. You can repeat
+that. Or, you can read ju=
+st the first charitra. Or, you can read the first
+chapter, or the chapter w=
+ith narayani stuti (namastasyai).
+
+Alternatively, read the whole text over =
+a few days. Read at least one
+chapter per sitting, and if possible, end eac=
+h sitting with a chapter that
+has a positive energy to it (i.e. devi defeat=
+s the asuras).
+
+sasneham,
+
+    ajit
+
+
+
+
+On Thu, Jan 7, 2016 at 9:43 AM, kau=
+shal prasad kaushal_bhilai@...
+[vedic-wisdom] <vedic-wisdom@yahoogrou=
+ps.com> wrote:
+
+>
+>
+> Regarding Durga shapshati It takes me only 25 minutes=
+ to complete the
+> same, I am doing durga shapt shati sadhana by using Bij =
+Mantra sadhna as
+> guided by Guru avadoot Baba shivanand if someone is intr=
+ested to take
+> benefit please ask me to attend one day diksha event or log=
+on to wesite
+> daily and I feeling very energetic and lucky.
+>
+> Sent from =
+my iPhone
+>
+> On 07-Jan-2016, at 20:32, Aparna Patil ni_aparna@... [v=
+edic-wisdom]
+> <vedic-wisdom@yahoogroups.com> wrote:
+>
+>
+>
+> Namaste,
+>
+> I=
+ have two questions.
+>
+> 1.)
+> I am an architect and along with the mainstr=
+eam projects I also practice
+> Vaastushastra. I have used Yantras to enhanc=
+e/modify energies in homes and
+> businesses and have seen positive results.=
+ I am aware of several Vedic
+> Yantras and want to study their geometrics, =
+energy patterns and their
+> significance in depth and detail. Can someone p=
+lease point me to the right
+> source or suggest a reference to study Vedic =
+Yantras. Thank You.
+>
+> 2.)
+> I would like to know how to worship Divine Mo=
+ther. I perform the daily
+> pooja and chant the Navarnav mantra for Mother.=
+ I have the Durga Saptashati
+> in Sanskrit with me and want to do a Parayan=
+. For Durga Saptashati a lot of
+> Sanskara need to be done before the main =
+Parayan begins and takes a lot of
+> time. I have not been able to do a Para=
+yan due to time constraints. My
+> question is 'Is is OK to read just one ch=
+apter or portions of the
+> Saptashati on a daily basis? Which ones and how =
+does one do it? Many
+> Thanks.
+>
+> Warm regards,
+> Geeta.
+>
+>
+>
+>
+> 
+>
+
+--001a11470d08c7e43d0528c2a95c
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">namaste,<div class=3D"gmail_extra"><br></div><div class=3D=
+"gmail_extra">> Regarding Durga shapshati It takes me only 25 minutes<br=
+></div><div class=3D"gmail_extra"><br></div><div class=3D"gmail_extra">Many=
+ people that are comfortable with the text take 60 minutes or so to recite =
+it (without angas). Though it can be done a little faster, a 25 minute para=
+yana is practically impossible for most of us.</div><div class=3D"gmail_ext=
+ra"><br></div><div class=3D"gmail_extra">> a lot of Sanskara need to be =
+done before the main Parayan begins<br></div><div class=3D"gmail_extra"><br=
+></div><div class=3D"gmail_extra">Though it is always nice to do things ela=
+borately, especially on special occasions, it is not necessary. You can sti=
+ck with just the main parayana, especially if you are doing it as a regular=
+ sadhana.</div><div class=3D"gmail_extra"><br></div><div class=3D"gmail_ext=
+ra">> Is is OK to read just one chapter or portions of the Saptashati</d=
+iv><div class=3D"gmail_extra"><br></div><div class=3D"gmail_extra">Yes.</di=
+v><div class=3D"gmail_extra"><br></div><div class=3D"gmail_extra">> Whic=
+h ones and how does one do it</div><div class=3D"gmail_extra"><br></div><di=
+v class=3D"gmail_extra">The durga-saptashloki has only 7 slokas from the sa=
+ptashati. You can repeat that. Or, you can read just the first charitra. Or=
+, you can read the first chapter, or the chapter with narayani stuti (namas=
+tasyai).</div><div class=3D"gmail_extra"><br></div><div class=3D"gmail_extr=
+a">Alternatively, read the whole text over a few days. Read at least one ch=
+apter per sitting, and if possible, end each sitting with a chapter that ha=
+s a positive energy to it (i.e. devi defeats the asuras).</div><div class=
+=3D"gmail_extra"><br></div><div class=3D"gmail_extra">sasneham,<br></div><d=
+iv class=3D"gmail_extra"><br></div><div class=3D"gmail_extra">=C2=A0 =C2=A0=
+ ajit</div><div class=3D"gmail_extra"><br></div><div class=3D"gmail_extra">=
+<br></div><div class=3D"gmail_extra"><div><div><div dir=3D"ltr"><div>=C2=A0=
+</div></div></div></div>
+<br><div class=3D"gmail_quote">On Thu, Jan 7, 2016=
+ at 9:43 AM, kaushal prasad <a href=3D"mailto:kaushal_bhilai@..." tar=
+get=3D"_blank">kaushal_bhilai@...</a> [vedic-wisdom] <span dir=3D"ltr=
+"><<a href=3D"mailto:vedic-wisdom@yahoogroups.com" target=3D"_blank">ved=
+ic-wisdom@yahoogroups.com</a>></span> wrote:<br><blockquote class=3D"gma=
+il_quote" style=3D"margin:0px 0px 0px 0.8ex;border-left-width:1px;border-le=
+ft-color:rgb(204,204,204);border-left-style:solid;padding-left:1ex">
+
+
+
+
+
+
+=
+        
+<div dir=3D"auto">
+
+
+
+
+<br><br>
+
+
+
+
+<div>Regarding Durga shapshati=
+ It takes me only 25 minutes to complete the same, I am doing durga shapt s=
+hati sadhana by using Bij Mantra sadhna as guided by Guru avadoot Baba shiv=
+anand if someone is intrested to take benefit please ask me to attend one d=
+ay diksha event or logon to wesite daily and I feeling very energetic and l=
+ucky.<br><br>Sent from my iPhone</div><span><div><br>On 07-Jan-2016, at 20:=
+32, Aparna Patil <a href=3D"mailto:ni_aparna@..." target=3D"_blank">n=
+i_aparna@...</a> [vedic-wisdom] <<a href=3D"mailto:vedic-wisdom@ya=
+hoogroups.com" target=3D"_blank">vedic-wisdom@yahoogroups.com</a>> wrote=
+:<br><br></div><blockquote type=3D"cite"><div>
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+<span>=C2=A0<=
+/span>
+
+
+
+    <div>
+      
+      
+      <p></p><div style=3D"color:rgb(0,0,=
+0);font-family:garamond,'new york',times,serif;font-size:16px;backg=
+round-color:rgb(255,255,255)"><div><span>Namaste,</span></div><div><br><spa=
+n></span></div><div><span>I have two questions.<br></span></div><div><br></=
+div><div>1.)<br><span></span></div><div dir=3D"ltr"><span>I am an architect=
+ and along with the mainstream projects I also practice Vaastushastra. I ha=
+ve used Yantras to enhance/modify energies in homes and businesses and have=
+ seen positive results. </span><span>I am aware of several Vedic Yantras an=
+d want to study their geometrics, energy patterns and their significance in=
+ depth and detail. Can someone please point me to the right source or sugge=
+st a reference to study Vedic Yantras. Thank You. <br></span></div><div dir=
+=3D"ltr"><br><span></span></div><div dir=3D"ltr"><span>2.)</span></div><div=
+ dir=3D"ltr"><span>I would like to know how to worship Divine Mother. I per=
+form the daily pooja and chant the Navarnav mantra for Mother. I have the D=
+urga Saptashati in Sanskrit with me and want to do a Parayan. For Durga Sap=
+tashati a lot of Sanskara need to be done before the main Parayan begins an=
+d takes a lot of time. </span><span>I have not been able to do a Parayan du=
+e to time constraints. My question is 'Is is OK to read just one chapte=
+r or portions of the Saptashati on a daily basis? Which ones and how does o=
+ne do it? Many Thanks. <br></span></div><div dir=3D"ltr"><br><span></span><=
+/div><div dir=3D"ltr"><span>Warm regards,</span></div><div dir=3D"ltr"><spa=
+n>Geeta. </span></div><div>=C2=A0</div></div><p></p>
+
+    </div>
+     
+
+   =
+ 
+
+
+
+
+
+
+
+</div></blockquote>
+
+
+
+
+
+<br>
+
+
+<br>
+
+
+
+
+<div width=3D"1" style=3D=
+"color:white;clear:both"></div>
+</blockquote></div><br></div></div>
+
+--001a11470d08c7e43d0528c2a95c--
+
+

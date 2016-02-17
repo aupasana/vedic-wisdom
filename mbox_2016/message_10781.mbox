@@ -1,0 +1,206 @@
+From sateeshastro@...  Wed Feb 17 11:07:50 2016
+Return-Path: <sateeshastro@...>
+X-Sender: sateeshastro@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 57048 invoked by uid 102); 9 Feb 2016 11:51:40 -0000
+X-Received: from unknown (HELO mtaq2.grp.bf1.yahoo.com) (10.193.84.33)
+  by m1.grp.bf1.yahoo.com with SMTP; 9 Feb 2016 11:51:40 -0000
+X-Received: (qmail 21296 invoked from network); 9 Feb 2016 11:51:40 -0000
+X-Received: from unknown (HELO mta1005.groups.mail.bf1.yahoo.com) (98.139.245.164)
+  by mtaq2.grp.bf1.yahoo.com with SMTP; 9 Feb 2016 11:51:40 -0000
+X-Original-Return-Path: <sateeshastro@...>
+X-Received-SPF: pass (domain of gmail.com designates 74.125.82.53 as permitted sender)
+X-YMailISG: PD23PvgWLDtahAcEbS4eqHn_a2fFFLdTFxrTDl1Tg3xqKdIs
+ jCqEnluG2jeQVMHmO_cbqqBRrH41_x8uCv2ZKyNwHCfEKtWDlRcwHsNqQaYa
+ Tz6fzuLi6Sha4J9Zo4tfaYpHORaR0MwkiJrps5B31zR3pCHPBgGyk0sQLDS.
+ KHtoLZiffP00gqW5Jc2rs78TnQI1NzGpak8qpM.m5CaE5_k9QWrrKTvSsF5N
+ wLu5B7OlSmZP0l.fu5FEsTvhP.ywZPd1VnCQrheVKzPoq7as.bYLdR_zxXwG
+ qE3w8VSeyoJTBCOsbfyymPw4Tw68yNEP4f9S.mNZuFVuTr9hl_BjOI3rS7th
+ v7gsADIj2vfs0qaKl0y2YfyATGePYubznvPnrF07i07YwsRHGmszLmCdFaJH
+ vrCa6Nh5EsHDuZB1l0NOW0m7sDQ5fyrF_ZCrErJyXIkI6tIX_zF3lar50BHJ
+ WBvY7XCa4Cdp5vExDMxp8foAcqygbCZXj4M5J.vQWkTjGkJIAPilim58uMzt
+ phHW6b4amNZVTbTo22k3fx93oNRYI6l9D.eSOJXOib4mEOz5QdeqpwfyibM1
+ nIKYSUnYpM5m.SFDIjnbgPiD.gr3aR93V8xTOAM.gZbCoSGR7ON7NlIIRDmU
+ JlWTZAiueXWU625WFwDbwnYgKoweVZg_9SDee3yK.8I2j0vs9SyGkSxXtQu1
+ 4cB8UKE1oJ67M_UfElu60Rg4ajMikmjhPANBE_5YyMNdmpuWS0Yl4wd_SLso
+ ybZn4YNgl18Ru1mdzhtiB.dnrsFa7_MgyVy_n4gDuNA3ETx4Rwhq3WV7jd1N
+ _ZdvIpXcL2zA2TE4kr9bgKudS0CaajYyaxpPO1xvvc1W.1Lmrdmc0.KR.22F
+ c3x5odoEviieTIUK_LvNKRwrB0Lfm0yQYI1qgnvaXaw69llAiX1balyr0Kbv
+ 22SiFcOdgvA0cFCemn0XkdKQoVNES2Esrq9rvjnVZc59xQ0Cqlty_bDUUSLW
+ zDRUb4meBJ97_3LckgN5gKsXjQ9owNW3eOyGvteHszcvYMSAzTjAAKDkii.3
+ yavBTvNHCAPWD9AdZLiD_Y_UC4zdmDo1Km0l4j0B9CB_qw8F1GqvWIxMuTHT
+ IM2KBBfHT8Pk1RIg20qTopFWHwj4ipsgxjJ0_W1e9c5dXsDGAEWdy2IM7DC6
+ 6qsvuS3np8AC2LKricOnZx89js7_LVNl6Eu.rBVB07LtcU6rWR20xHEl6rKv
+ FdR1qFwsirNQY0jHI2pkLa0OdolsbyqzwnxCcRRMpOZURCv.eYi6K3gX8ZX_
+ oN5bREUG0cXD._lPjgyf0hkW.5g.opYkbn9sS5ZinMbChoC47NH_CMUclURH
+ .wP5Z0UX6oWum1RG8LFwvpN2fwbSoZj74RIHMO9SHjqbFboC0deS.pUs5xGs
+ YspDGDH3sXsTSDChMGsHK0D3oVprL6IXyTcUEB5wtwEdYKCVJhSTaCzoxvRK
+ t_cKxG_vV6NsBj6IPPtaYpQsfum88r_yVREti2jZD4_LoZWX06Nsp9P8Khnt
+ y.5l3Ak67joRLNQRz64SwLoy1A--
+Authentication-Results: mta1005.groups.mail.bf1.yahoo.com  from=gmail.com; domainkeys=neutral (no sig);  from=gmail.com; dkim=pass (ok)
+X-Received: from 127.0.0.1  (EHLO mail-wm0-f53.google.com) (74.125.82.53)
+  by mta1005.groups.mail.bf1.yahoo.com with SMTPS; Tue, 09 Feb 2016 11:51:40 +0000
+X-Received: by mail-wm0-f53.google.com with SMTP id p63so19606690wmp.1
+        for <vedic-wisdom@yahoogroups.com>; Tue, 09 Feb 2016 03:51:40 -0800 (PST)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:in-reply-to:references:date
+         :message-id:subject:from:to:content-type;
+        bh=wGB7ve+6J6+1Mv24M/XHQwrgFna41S7P2cWYlORrVfM=;
+        b=QMI8sdmsl/m4TWYeML/gD4FUTGvCCU6fb+KnvbRMkxZfH8RtEcE3OBUCJC+0wLE33L
+         QdUswXtZGDj3CKOzdr+jtid98JXKBEH27PlweS4oQp62Tt/RWSFwTRUdytaZN0A1YBhF
+         YH/Ebl9+AZx5TTIJXbBLUiOfCD3nQyFxxoEhlvvj2yRcxvtm55kkDGTPxoOR6T7faF5c
+         1jLjb6nnhhR/qP4XGC2p3+dqgqBdCmS4Lgasok9baAYcdLmkNucrNgnXoP7jP/nAkwgQ
+         VUapyKZe30zmhLvtm3P20A4c59623LmODEfuZ8EIwhFQgiBWTpWvM2iiAGRH5pCt4iOi
+         qDtw==
+X-Gm-Message-State: AG10YOS/Y6x+6vI8QkQVFl2gaQBYZWKHGcqW2wp2YpKcb3h+2Z+j2s720QvPJqSSdx94lkWr9rI66hhWkQEpGw==
+MIME-Version: 1.0
+X-Received: by 10.194.80.65 with SMTP id p1mr37688800wjx.152.1455018699434;
+ Tue, 09 Feb 2016 03:51:39 -0800 (PST)
+X-Received: by 10.194.82.36 with HTTP; Tue, 9 Feb 2016 03:51:39 -0800 (PST)
+In-Reply-To: <n94so2+1atchbh@...>
+References: <n943pf+1btqfke@...>
+	<CAE2RDrTo6D9qRb81eHTjHx0kg_JojQ==mXz+U5XgjCd2z0x9DA@...>
+	<n94so2+1atchbh@...>
+Date: Tue, 9 Feb 2016 17:21:39 +0530
+Message-ID: <CAE2RDrSMi3zD0rxbP4xrd4aOw=cEExej_myvgFeonYdeTGn4PQ@...>
+To: vedic-wisdom@yahoogroups.com
+Content-Type: multipart/alternative; boundary=047d7bb03edcb8b4ef052b54f0e4
+X-Originating-IP: 98.139.245.164
+Subject: Re: [vedic-wisdom] Re: Mantra for Ma Ugra Tara
+X-Yahoo-Group-Post: member; u=558882330; y=1Z1vtQV2xlpqxeWHuHAh8i5OXHgBGQXRZavDSZYRXdcgvFgQ_6o5BJvsJYAPt_4
+X-Yahoo-Profile: satishdesh@...
+From: satish deshpande <sateeshastro@...>
+
+
+--047d7bb03edcb8b4ef052b54f0e4
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+=E2=80=8B=E2=80=8B
+ Namaste
+=E2=80=8Bpuloma
+
+It would be better to recite o=
+r do Chandi { saptashati }patha.  =E2=80=8B
+
+
+
+Yours sincerely
+       satis=
+h
+
+
+
+On 6 February 2016 at 19:03, puloma_dasgupta@... [vedic-wisdom] =
+<
+vedic-wisdom@yahoogroups.com> wrote:
+
+>
+>
+> Thank you Satish ji! Doctors =
+have been able to help somewhat, but almost
+> nothing else has been working=
+.
+>
+> I have heard the same about Tantra sadhana, but haven't come across t=
+he
+> right guru yet, though I have spoken to a few good ones. Would repeati=
+ng
+> the mantra for Ma Tara without initiation and guidance for the purpose=
+ of
+> mental peace amount to Tantra sadhana?
+> 
+>
+
+--047d7bb03edcb8b4ef052b54f0e4
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><div class=3D"gmail_default" style=3D"font-family:arial,he=
+lvetica,sans-serif;font-size:small"><br></div><div class=3D"gmail_extra"><b=
+r clear=3D"all"><div><div class=3D"gmail_signature"><div dir=3D"ltr"><div><=
+font color=3D"#0000ff">=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =
+=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0=C2=A0</font></div><=
+div class=3D"gmail_default" style=3D"font-family:arial,helvetica,sans-serif=
+;font-size:small;display:inline">=E2=80=8B=E2=80=8B</div>=C2=A0Namaste =C2=
+=A0<div class=3D"gmail_default" style=3D"font-family:arial,helvetica,sans-s=
+erif;font-size:small;display:inline">=E2=80=8Bpuloma</div></div><div dir=3D=
+"ltr"><div class=3D"gmail_default" style=3D"font-family:arial,helvetica,san=
+s-serif;font-size:small;display:inline"><br></div></div><div dir=3D"ltr"><d=
+iv class=3D"gmail_default" style=3D"font-family:arial,helvetica,sans-serif;=
+font-size:small;display:inline">It would be better to recite or do Chandi {=
+ saptashati }patha. =C2=A0=E2=80=8B</div><div><br></div><div><br><div><br><=
+/div><div>Yours sincerely</div><div>=C2=A0 =C2=A0 =C2=A0 =C2=A0satish</div>=
+<div><br></div><div><span style=3D"color:rgb(0,0,255)">=C2=A0=C2=A0</span><=
+span style=3D"color:rgb(0,0,255)">=C2=A0</span><span style=3D"color:rgb(0,0=
+,255)">=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0=C2=A0</span>=
+</div></div></div></div></div>
+<br><div class=3D"gmail_quote">On 6 February=
+ 2016 at 19:03, <a href=3D"mailto:puloma_dasgupta@...">puloma_dasgupt=
+a@...</a> [vedic-wisdom] <span dir=3D"ltr"><<a href=3D"mailto:vedi=
+c-wisdom@yahoogroups.com" target=3D"_blank">vedic-wisdom@yahoogroups.com</a=
+>></span> wrote:<br><blockquote class=3D"gmail_quote" style=3D"margin:0 =
+0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex">
+
+
+<u></u>
+
+
+
+
+
+
+
+
+
+ =
+
+<div style=3D"background-color:#fff">
+<span>=C2=A0</span>
+
+
+<div>
+  <div>
+=
+
+
+    <div>
+      
+      
+      <p>Thank you Satish ji! Doctors have been a=
+ble to help somewhat, but almost nothing else has been working. <br>
+<br>
+I=
+ have heard the same about Tantra sadhana, but haven't come across the =
+right guru yet, though I have spoken to a few good ones. Would repeating th=
+e mantra for Ma Tara without initiation and guidance for the purpose of men=
+tal peace amount to Tantra sadhana? <br>
+</p>
+
+    </div><span class=3D"">
+=
+     
+
+    
+    <div style=3D"color:#fff;min-height:0"></div>
+
+
+</div>
+
+
+
+ =
+ 
+
+
+
+
+
+
+</blockquote></div><br></div></div>
+
+--047d7bb03edcb8b4ef052b54f0e4--
+
+

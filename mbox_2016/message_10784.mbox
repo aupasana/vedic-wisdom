@@ -1,0 +1,588 @@
+From philstinnet@...  Wed Feb 17 11:07:50 2016
+Return-Path: <philstinnet@...>
+X-Sender: philstinnet@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 5615 invoked by uid 102); 10 Feb 2016 17:12:20 -0000
+X-Received: from unknown (HELO mtaq5.grp.bf1.yahoo.com) (10.193.84.36)
+  by m3.grp.bf1.yahoo.com with SMTP; 10 Feb 2016 17:12:20 -0000
+X-Received: (qmail 13985 invoked from network); 10 Feb 2016 17:12:20 -0000
+X-Received: from unknown (HELO mta1003.groups.mail.bf1.yahoo.com) (98.139.170.167)
+  by mtaq5.grp.bf1.yahoo.com with SMTP; 10 Feb 2016 17:12:20 -0000
+X-Original-Return-Path: <philstinnet@...>
+X-Received-SPF: pass (domain of yahoo.com designates 98.139.213.152 as permitted sender)
+X-YMailISG: WHNkdp4WLDuRFs.NrmyThxKlTG2OlLp.Oh2atyGNrUOZdLBq
+ _RQSQDeXTGR.cqJN.wjAbLcDojlpwAWWd5NwOc_twlcfDktguI0OXPlw__Jn
+ 7YzBgF.HforcYsbntMNeLrh4FvOxjmapnX3v6Pq0xV5.xmJ8eaYtBleb3_09
+ 4E1eK0qvfLkPz2zClG8pQPPrf6cbByAz2PJVjneYMNUb5irAH1EgG7TMRgo6
+ 3tqcp9Tt409XYAffde78rJ6nbm0mg3iXQFgOmwY5VE1Lt4WrMzJ39TmfS5Sv
+ xHFPuoXN_MrJ4Vu.ab0bMyfy5zo7PQVbCsnMCa7SmFl3R6Q8wwdHruSFf7uL
+ jkkj3Tyu7dkUS_le6FZC0k4lQ.PXZI_F7S7awai49vmivIOxVuGWB6.aFNcZ
+ ZkUhUFgTftMPiBHqJytXoLRK7P5jog_yMISQZSFIp0SyhmPD9_QcjlyTNNbb
+ 8T1Qa.RLqPKoUoopZ4kYsLlUrN3kq0r8s09BRlW8hIM_47h0YmCV3LUyOZjn
+ T9Msv_sPmYH_boCizcNWH23tJxHrbBLl5hTJJVwcyb3fGYpDBQ8tUN8I0zKc
+ E2s3XIGwmjHY5XnfSq6.KNMAhwP0T3IJdd9iw7bg3VWw6nHnwRw_t_ZDiz0s
+ RPkWuNoTbeytSCcdEok4FepORoJe9cH0YLnyppYpZnBnV1xavw_Vl0onRQuG
+ xE5T3_Yw1LbJ3Tx2fd7YUpUPalqOIM_Z6m_5179P1ipmfkEpA3jsB3I36PXH
+ 7J045Syq7iaKnkssOVhRaenGgbB6OqCyX6LOeCDvUWQ.ijZHLKG_IsFHRluh
+ EdhSqne20aXxqwJ2Fna_9X3N6bBcKPHkUgPsklAV9q4VxGGZPlVaqSqC8Bks
+ 7sU5q_qs0WOQYbH6Oi4_XMowiPjU.axs_DokjY8Ov5yXVj8DGEYeGcZaTbDp
+ ma93WQ4tc75Y7UQEGCBBUWl6am3QIyiVHU2c.A1Klw31YmGMsNqJ7Q_XlImn
+ oRdqC_mDetxUiYPjmX8DdYsBG0q0w0ZkAmlfODXZPWcZBgY9r9MyuoAEHT0N
+ xPzzCbEgOyCMoRoQInUvmMOblAbopEG3O5lefgexyHQcMo_dPJGXr59RDvYd
+ VzVyfw1AW8xGV9Kz8W.0KkVT8AlRuT08Kh0ooaI.xNez01llqcD.jTwediAK
+ z4qNl9tDDE9ymWHybP1Sv4R2K4VHiR4BrmupiURzbl8qClhUZZY9dTyYYeaL
+ dLhCxE0IXn2.N3J4i3O7lXqFQKFBH1RsVfi_PqkmCzGrpXvT7vK7LNWDheGv
+ tv8M8YdRNa9zlvYZvAcpjqAvRMGSqf.ioXphQ4xQJvWhEdutkvwBFxkHDxU_
+ rvPOdlO8PJINgAH1faMXQlFqyY7NnrYoB2sm6lf5Fo7.3CtYfNtHBwpQ18PK
+ nbc6mu.iMSVe9U4dk1iKM_ez4uwfhprVgL.3bWOYTxCBkLLxfOgYpdzffQ--
+Authentication-Results: mta1003.groups.mail.bf1.yahoo.com  from=yahoo.com; domainkeys=neutral (no sig);  from=yahoo.com; dkim=pass (ok)
+X-Received: from 127.0.0.1  (EHLO nm11-vm1.bullet.mail.bf1.yahoo.com) (98.139.213.152)
+  by mta1003.groups.mail.bf1.yahoo.com with SMTPS; Wed, 10 Feb 2016 17:12:17 +0000
+X-Received: from [98.139.215.140] by nm11.bullet.mail.bf1.yahoo.com with NNFMP; 10 Feb 2016 17:12:16 -0000
+X-Received: from [98.139.212.203] by tm11.bullet.mail.bf1.yahoo.com with NNFMP; 10 Feb 2016 17:12:16 -0000
+X-Received: from [127.0.0.1] by omp1012.mail.bf1.yahoo.com with NNFMP; 10 Feb 2016 17:12:16 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 788218.65598.bm@...
+X-YMail-OSG: hUIIve0VM1mNMHI5iOCKtQZnTNvhV.i6Ri4HSScRJZxy3KJDQGnhCFU.ECsOQ8r
+ dxk7GXW7ZVg1KdK0rIXhyz1lVx8LNbVGVd.t_Bf6Jaf6BR8yHa7aGJATZrTXMv7XGzrBerzSOwSF
+ _egkiv1Ind_gen038S81T7dA.Qu9PFNc8qn2LYZESdyY07x0Je3s7onp.9vsocc7SDzyllHvyePa
+ 4y7dTfdJ5NiUegVjkK1VVCfrAOrKUia_zRHjUc.foOVnqMy0s3YxePEMFzoUYnsV9gfgaylQ90mx
+ crOkwbauadxQi5VxDFF.rf.hmqMaQwKvimVbzXymDPLoZAus0Y7SuV_HilcMbr7kLYrC_vzk1g8y
+ MrTCwL4om7Mw4IeBAPBaXHll_fPq6pjgIYj.20BEB1olUMrx8qPkKoCTV3z6BhqDYtlt0bFKXRWq
+ 2L1.J.1ZI.g98RPk8FuOIvZAVkLXGLIuFYKTajDzfMrJAOpkXf47legsDZNu2NFqcOQ--
+X-Received: by 76.13.27.50; Wed, 10 Feb 2016 17:12:16 +0000 
+Date: Wed, 10 Feb 2016 17:11:37 +0000 (UTC)
+To: "vedic-wisdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com>
+Message-ID: <74793418.2191108.1455124297456.JavaMail.yahoo@...>
+In-Reply-To: <n9fiv0+mgi271@...>
+References: <n9fiv0+mgi271@...>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_2191107_132129188.1455124297286"
+Content-Length: 28017
+X-Originating-IP: 98.139.170.167
+Reply-To: Phil Stinnet <philstinnet@...>
+Subject: Re: [vedic-wisdom] Brahmacharya
+X-Yahoo-Group-Post: member; u=521812586; y=XkG-Q03li_CpC0gRrNWjDJccwMYsv3K2BiPdNO_WnSOtXfV-QV0
+X-Yahoo-Profile: philstinnet
+From: Phil Stinnet <philstinnet@...>
+
+
+------=_Part_2191107_132129188.1455124297286
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Dear Puloma ji,=C2=A0
+Celibacy must be in mind and thought and not just act=
+ion.
+Your brain can tell your mind to entertain celibacy. Your mind will fo=
+llow the advice of your brain as long as determination is strong. Once in a=
+ while, there will be an itch (to have sex or masturbate) emanating from bo=
+dy. This itch will try to control your mind. =C2=A0But, if your brain can a=
+ct as an 'entity-in-charge', you can divert your mind from sexual appetite =
+to something more divine.
+This is manageable so far.
+The biggest problem co=
+mes when you are asleep. Brain is absent. Body still demands pleasure. Body=
+ will easily overpower mind. Mind will start to generate sexual dreams. But=
+, there is no brain to judge the situation and you will end up having 'wet =
+dreams'.=C2=A0
+It is almost impossible to maintain celibacy if you are in y=
+our prime of your testosterone curve. Those who claim to have maintained ce=
+libacy in their prime must be having low level of testosterone to begin wit=
+h.=C2=A0
+It was not until I hit 34 when i was able to maintain celibacy (in=
+cluding no wet dreams and sexual thoughts) for a minimum of 1 month. But, i=
+t is still hard; however, not as hard as it was in early 20s.
+I will strong=
+ly urge you to practise celibacy for one month before you start reading boo=
+ks on it.
+I think i did not help you much in this email except sharing my f=
+ailure and frustration.=C2=A0
+Thanks
+Phil =C2=A0=C2=A0
+
+
+
+
+ 
+
+    On Wednes=
+day, February 10, 2016 6:54 AM, "puloma_dasgupta@... [vedic-wisdom]" =
+<vedic-wisdom@yahoogroups.com> wrote:
+ 
+
+ =C2=A0   Namaste!
+
+I have been co=
+nsidering the idea of taking this practice up for some time now. I have rea=
+d Sivananda's booklet on Brahmacharya and Narasimha ji's advice on the same=
+ in the book Vedic Wisdom. I have discussed with some sadhakas and one yogi=
+ about it and I have two major doubts:
+
+1. I have heard that this practice =
+of curbing lust could lead to a development of a lot anger in one. Is this =
+so? Does anybody know how this is to be managed during the practice? 
+
+2. C=
+ould this practice lead to a greater sexual appetite than what was there be=
+fore embarking on it? If so, is this to be managed solely by will power? Ar=
+e there other ways? Could somebody point me to good study material on this?=
+
+
+While the chance of greater spiritual progress upon practicing Brahmachar=
+ya makes me interested in it, I am also concerned that it could prove count=
+erproductive. Would like to hear suggestions and advice.
+
+Pranam!  #yiv0088=
+577536 -- #yiv0088577536ygrp-mkp {border:1px solid #d8d8d8;font-family:Aria=
+l;margin:10px 0;padding:0 10px;}#yiv0088577536 #yiv0088577536ygrp-mkp hr {b=
+order:1px solid #d8d8d8;}#yiv0088577536 #yiv0088577536ygrp-mkp #yiv00885775=
+36hd {color:#628c2a;font-size:85%;font-weight:700;line-height:122%;margin:1=
+0px 0;}#yiv0088577536 #yiv0088577536ygrp-mkp #yiv0088577536ads {margin-bott=
+om:10px;}#yiv0088577536 #yiv0088577536ygrp-mkp .yiv0088577536ad {padding:0 =
+0;}#yiv0088577536 #yiv0088577536ygrp-mkp .yiv0088577536ad p {margin:0;}#yiv=
+0088577536 #yiv0088577536ygrp-mkp .yiv0088577536ad a {color:#0000ff;text-de=
+coration:none;}#yiv0088577536 #yiv0088577536ygrp-sponsor #yiv0088577536ygrp=
+-lc {font-family:Arial;}#yiv0088577536 #yiv0088577536ygrp-sponsor #yiv00885=
+77536ygrp-lc #yiv0088577536hd {margin:10px 0px;font-weight:700;font-size:78=
+%;line-height:122%;}#yiv0088577536 #yiv0088577536ygrp-sponsor #yiv008857753=
+6ygrp-lc .yiv0088577536ad {margin-bottom:10px;padding:0 0;}#yiv0088577536 #=
+yiv0088577536actions {font-family:Verdana;font-size:11px;padding:10px 0;}#y=
+iv0088577536 #yiv0088577536activity {background-color:#e0ecee;float:left;fo=
+nt-family:Verdana;font-size:10px;padding:10px;}#yiv0088577536 #yiv008857753=
+6activity span {font-weight:700;}#yiv0088577536 #yiv0088577536activity span=
+:first-child {text-transform:uppercase;}#yiv0088577536 #yiv0088577536activi=
+ty span a {color:#5085b6;text-decoration:none;}#yiv0088577536 #yiv008857753=
+6activity span span {color:#ff7900;}#yiv0088577536 #yiv0088577536activity s=
+pan .yiv0088577536underline {text-decoration:underline;}#yiv0088577536 .yiv=
+0088577536attach {clear:both;display:table;font-family:Arial;font-size:12px=
+;padding:10px 0;width:400px;}#yiv0088577536 .yiv0088577536attach div a {tex=
+t-decoration:none;}#yiv0088577536 .yiv0088577536attach img {border:none;pad=
+ding-right:5px;}#yiv0088577536 .yiv0088577536attach label {display:block;ma=
+rgin-bottom:5px;}#yiv0088577536 .yiv0088577536attach label a {text-decorati=
+on:none;}#yiv0088577536 blockquote {margin:0 0 0 4px;}#yiv0088577536 .yiv00=
+88577536bold {font-family:Arial;font-size:13px;font-weight:700;}#yiv0088577=
+536 .yiv0088577536bold a {text-decoration:none;}#yiv0088577536 dd.yiv008857=
+7536last p a {font-family:Verdana;font-weight:700;}#yiv0088577536 dd.yiv008=
+8577536last p span {margin-right:10px;font-family:Verdana;font-weight:700;}=
+#yiv0088577536 dd.yiv0088577536last p span.yiv0088577536yshortcuts {margin-=
+right:0;}#yiv0088577536 div.yiv0088577536attach-table div div a {text-decor=
+ation:none;}#yiv0088577536 div.yiv0088577536attach-table {width:400px;}#yiv=
+0088577536 div.yiv0088577536file-title a, #yiv0088577536 div.yiv0088577536f=
+ile-title a:active, #yiv0088577536 div.yiv0088577536file-title a:hover, #yi=
+v0088577536 div.yiv0088577536file-title a:visited {text-decoration:none;}#y=
+iv0088577536 div.yiv0088577536photo-title a, #yiv0088577536 div.yiv00885775=
+36photo-title a:active, #yiv0088577536 div.yiv0088577536photo-title a:hover=
+, #yiv0088577536 div.yiv0088577536photo-title a:visited {text-decoration:no=
+ne;}#yiv0088577536 div#yiv0088577536ygrp-mlmsg #yiv0088577536ygrp-msg p a s=
+pan.yiv0088577536yshortcuts {font-family:Verdana;font-size:10px;font-weight=
+:normal;}#yiv0088577536 .yiv0088577536green {color:#628c2a;}#yiv0088577536 =
+.yiv0088577536MsoNormal {margin:0 0 0 0;}#yiv0088577536 o {font-size:0;}#yi=
+v0088577536 #yiv0088577536photos div {float:left;width:72px;}#yiv0088577536=
+ #yiv0088577536photos div div {border:1px solid #666666;height:62px;overflo=
+w:hidden;width:62px;}#yiv0088577536 #yiv0088577536photos div label {color:#=
+666666;font-size:10px;overflow:hidden;text-align:center;white-space:nowrap;=
+width:64px;}#yiv0088577536  #yiv0088577536reco-category {font-size:77%;}#yi=
+v0088577536 #yiv0088577536reco-desc {font-size:77%;}#yiv0088577536 .yiv0088=
+577536replbq {margin:4px;}#yiv0088577536 #yiv0088577536ygrp-actbar div a:fi=
+rst-child {margin-right:2px;padding-right:5px;}#yiv0088577536 #yiv008857753=
+6ygrp-mlmsg {font-size:13px;font-family:Arial, helvetica, clean, sans-serif=
+;}#yiv0088577536 #yiv0088577536ygrp-mlmsg table {font-size:inherit;font:100=
+%;}#yiv0088577536 #yiv0088577536ygrp-mlmsg select, #yiv0088577536 input, #y=
+iv0088577536 textarea {font:99% Arial, Helvetica, clean, sans-serif;}#yiv00=
+88577536 #yiv0088577536ygrp-mlmsg pre, #yiv0088577536 code {font:115% monos=
+pace;}#yiv0088577536 #yiv0088577536ygrp-mlmsg * {line-height:1.22em;}#yiv00=
+88577536 #yiv0088577536ygrp-mlmsg #yiv0088577536logo {padding-bottom:10px;}=
+#yiv0088577536 #yiv0088577536ygrp-msg p a {font-family:Verdana;}#yiv0088577=
+536 #yiv0088577536ygrp-msg p#yiv0088577536attach-count span {color:#1E66AE;=
+font-weight:700;}#yiv0088577536 #yiv0088577536ygrp-reco #yiv0088577536reco-=
+head {color:#ff7900;font-weight:700;}#yiv0088577536 #yiv0088577536ygrp-reco=
+ {margin-bottom:20px;padding:0px;}#yiv0088577536 #yiv0088577536ygrp-sponsor=
+ #yiv0088577536ov li a {font-size:130%;text-decoration:none;}#yiv0088577536=
+ #yiv0088577536ygrp-sponsor #yiv0088577536ov li {font-size:77%;list-style-t=
+ype:square;padding:6px 0;}#yiv0088577536 #yiv0088577536ygrp-sponsor #yiv008=
+8577536ov ul {margin:0;padding:0 0 0 8px;}#yiv0088577536 #yiv0088577536ygrp=
+-text {font-family:Georgia;}#yiv0088577536 #yiv0088577536ygrp-text p {margi=
+n:0 0 1em 0;}#yiv0088577536 #yiv0088577536ygrp-text tt {font-size:120%;}#yi=
+v0088577536 #yiv0088577536ygrp-vital ul li:last-child {border-right:none !i=
+mportant;}#yiv0088577536 
+
+  
+------=_Part_2191107_132129188.1455124297286
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><head></head><body><div style=3D"color:#000; background-color:#fff; f=
+ont-family:times new roman, new york, times, serif;font-size:16px"><div id=
+=3D"yiv0088577536"><div id=3D"yui_3_16_0_1_1455119349277_7108"><div style=
+=3D"color:#000;background-color:#fff;font-family:times new roman, new york,=
+ times, serif;font-size:16px;" id=3D"yui_3_16_0_1_1455119349277_7107"><div =
+id=3D"yiv0088577536yui_3_16_0_1_1455119349277_4617"><span id=3D"yiv00885775=
+36yui_3_16_0_1_1455119349277_4714">Dear Puloma ji, </span></div><div i=
+d=3D"yiv0088577536yui_3_16_0_1_1455119349277_4617"><span><br clear=3D"none"=
+></span></div><div id=3D"yiv0088577536yui_3_16_0_1_1455119349277_4617"><spa=
+n id=3D"yiv0088577536yui_3_16_0_1_1455119349277_4909">Celibacy must be in m=
+ind and thought and not just action.</span></div><div id=3D"yiv0088577536yu=
+i_3_16_0_1_1455119349277_4617"><span><br clear=3D"none"></span></div><div d=
+ir=3D"ltr" id=3D"yiv0088577536yui_3_16_0_1_1455119349277_4617">Your brain c=
+an tell your mind to entertain celibacy. Your mind will follow the advice o=
+f your brain as long as determination is strong. Once in a while, there wil=
+l be an itch (to have sex or masturbate) emanating from body. This itch wil=
+l try to control your mind.  But, if your brain can act as an 'entity-=
+in-charge', you can divert your mind from sexual appetite to something more=
+ divine.</div><div dir=3D"ltr" id=3D"yiv0088577536yui_3_16_0_1_145511934927=
+7_4617"><br clear=3D"none"></div><div dir=3D"ltr" id=3D"yiv0088577536yui_3_=
+16_0_1_1455119349277_4617">This is manageable so far.</div><div dir=3D"ltr"=
+ id=3D"yiv0088577536yui_3_16_0_1_1455119349277_4617"><br clear=3D"none"></d=
+iv><div dir=3D"ltr" id=3D"yiv0088577536yui_3_16_0_1_1455119349277_4617">The=
+ biggest problem comes when you are asleep. Brain is absent. Body still dem=
+ands pleasure. Body will easily overpower mind. Mind will start to generate=
+ sexual dreams. But, there is no brain to judge the situation and you will =
+end up having 'wet dreams'. </div><div dir=3D"ltr" id=3D"yiv0088577536=
+yui_3_16_0_1_1455119349277_4617"><br clear=3D"none"></div><div dir=3D"ltr" =
+id=3D"yiv0088577536yui_3_16_0_1_1455119349277_4617">It is almost impossible=
+ to maintain celibacy if you are in your prime of your testosterone curve. =
+Those who claim to have maintained celibacy in their prime must be having l=
+ow level of testosterone to begin with. </div><div dir=3D"ltr" id=3D"y=
+iv0088577536yui_3_16_0_1_1455119349277_4617"><br clear=3D"none"></div><div =
+dir=3D"ltr" id=3D"yiv0088577536yui_3_16_0_1_1455119349277_4617">It was not =
+until I hit 34 when i was able to maintain celibacy (including no wet dream=
+s and sexual thoughts) for a minimum of 1 month. But, it is still hard; how=
+ever, not as hard as it was in early 20s.</div><div dir=3D"ltr" id=3D"yiv00=
+88577536yui_3_16_0_1_1455119349277_4617"><br></div><div dir=3D"ltr" id=3D"y=
+iv0088577536yui_3_16_0_1_1455119349277_4617">I will strongly urge you to pr=
+actise celibacy for one month before you start reading books on it.</div><d=
+iv dir=3D"ltr" id=3D"yiv0088577536yui_3_16_0_1_1455119349277_4617"><br></di=
+v><div dir=3D"ltr" id=3D"yiv0088577536yui_3_16_0_1_1455119349277_4617">I th=
+ink i did not help you much in this email except sharing my failure and fru=
+stration. </div><div dir=3D"ltr" id=3D"yiv0088577536yui_3_16_0_1_14551=
+19349277_4617"><br></div><div dir=3D"ltr" id=3D"yiv0088577536yui_3_16_0_1_1=
+455119349277_4617">Thanks</div><div dir=3D"ltr" id=3D"yiv0088577536yui_3_16=
+_0_1_1455119349277_4617"><br></div><div dir=3D"ltr" id=3D"yiv0088577536yui_=
+3_16_0_1_1455119349277_4617">Phil   </div><div dir=3D"ltr" id=3D"=
+yiv0088577536yui_3_16_0_1_1455119349277_4617"><br></div><div dir=3D"ltr" id=
+=3D"yiv0088577536yui_3_16_0_1_1455119349277_4617"><br></div><div dir=3D"ltr=
+" id=3D"yiv0088577536yui_3_16_0_1_1455119349277_4617"><br></div><div dir=3D=
+"ltr" id=3D"yiv0088577536yui_3_16_0_1_1455119349277_4617"><br clear=3D"none=
+"></div><div dir=3D"ltr" id=3D"yiv0088577536yui_3_16_0_1_1455119349277_4617=
+"><br clear=3D"none"></div> <div class=3D"yiv0088577536qtdSeparateBR" id=3D=
+"yui_3_16_0_1_1455119349277_7144"><br clear=3D"none"><br clear=3D"none"></d=
+iv></div></div></div><div class=3D".yiv0088577536yahoo_quoted"> <div style=
+=3D"font-family:times new roman, new york, times, serif;font-size:16px;"> <=
+div style=3D"font-family:HelveticaNeue, Helvetica Neue, Helvetica, Arial, L=
+ucida Grande, sans-serif;font-size:16px;"> <div dir=3D"ltr"><font size=3D"2=
+" face=3D"Arial"> On Wednesday, February 10, 2016 6:54 AM, "puloma_dasgupta=
+@... [vedic-wisdom]" <vedic-wisdom@yahoogroups.com> wrote:<br c=
+lear=3D"none"></font></div>  <br clear=3D"none"><br clear=3D"none"> <div cl=
+ass=3D"yiv0088577536y_msg_container"><div id=3D"yiv0088577536"><div>
+<span =
+style=3D"display:none;"> </span>
+
+
+<div id=3D"yiv0088577536ygrp-mlmsg"=
+ style=3D"position:relative;">
+  <div id=3D"yiv0088577536ygrp-msg" style=3D=
+"z-index:1;">
+
+
+    <div id=3D"yiv0088577536ygrp-text">
+      
+      
+     =
+ <div>Namaste!<br clear=3D"none">
+<br clear=3D"none">
+I have been consideri=
+ng the idea of taking this practice up for some time now. I have read Sivan=
+anda's booklet on Brahmacharya and Narasimha ji's advice on the same in the=
+ book Vedic Wisdom. I have discussed with some sadhakas and one yogi about =
+it and I have two major doubts:<br clear=3D"none">
+<br clear=3D"none">
+1. I=
+ have heard that this practice of curbing lust could lead to a development =
+of a lot anger in one. Is this so? Does anybody know how this is to be mana=
+ged during the practice? <br clear=3D"none">
+<br clear=3D"none">
+2. Could t=
+his practice lead to a greater sexual appetite than what was there before e=
+mbarking on it? If so, is this to be managed solely by will power? Are ther=
+e other ways? Could somebody point me to good study material on this?<br cl=
+ear=3D"none">
+<br clear=3D"none">
+While the chance of greater spiritual pro=
+gress upon practicing Brahmacharya makes me interested in it, I am also con=
+cerned that it could prove counterproductive. Would like to hear suggestion=
+s and advice.<br clear=3D"none">
+<br clear=3D"none">
+Pranam!</div>
+
+    </d=
+iv>
+     
+
+    
+    <div style=3D"color:#fff;height:0;"></div></div></div>
+=
+
+
+</div><style type=3D"text/css">
+#yiv0088577536   --
+  #yiv0088577536ygrp-=
+mkp {
+border:1px solid #d8d8d8;font-family:Arial;margin:10px 0;padding:0 10=
+px;}
+
+#yiv0088577536  #yiv0088577536ygrp-mkp hr {
+border:1px solid #d8d8d8;=
+}
+
+#yiv0088577536  #yiv0088577536ygrp-mkp #yiv0088577536hd {
+color:#628c2a;=
+font-size:85%;font-weight:700;line-height:122%;margin:10px 0;}
+
+#yiv0088577=
+536  #yiv0088577536ygrp-mkp #yiv0088577536ads {
+margin-bottom:10px;}
+
+#yiv0=
+088577536  #yiv0088577536ygrp-mkp .yiv0088577536ad {
+padding:0 0;}
+
+#yiv008=
+8577536  #yiv0088577536ygrp-mkp .yiv0088577536ad p {
+margin:0;}
+
+#yiv008857=
+7536  #yiv0088577536ygrp-mkp .yiv0088577536ad a {
+color:#0000ff;text-decora=
+tion:none;}
+#yiv0088577536  #yiv0088577536ygrp-sponsor #yiv0088577536ygrp-l=
+c {
+font-family:Arial;}
+
+#yiv0088577536  #yiv0088577536ygrp-sponsor #yiv008=
+8577536ygrp-lc #yiv0088577536hd {
+margin:10px 0px;font-weight:700;font-size=
+:78%;line-height:122%;}
+
+#yiv0088577536  #yiv0088577536ygrp-sponsor #yiv008=
+8577536ygrp-lc .yiv0088577536ad {
+margin-bottom:10px;padding:0 0;}
+
+#yiv008=
+8577536  #yiv0088577536actions {
+font-family:Verdana;font-size:11px;padding=
+:10px 0;}
+
+#yiv0088577536  #yiv0088577536activity {
+background-color:#e0ece=
+e;float:left;font-family:Verdana;font-size:10px;padding:10px;}
+
+#yiv0088577=
+536  #yiv0088577536activity span {
+font-weight:700;}
+
+#yiv0088577536  #yiv0=
+088577536activity span:first-child {
+text-transform:uppercase;}
+
+#yiv008857=
+7536  #yiv0088577536activity span a {
+color:#5085b6;text-decoration:none;}
+=
+
+#yiv0088577536  #yiv0088577536activity span span {
+color:#ff7900;}
+
+#yiv00=
+88577536  #yiv0088577536activity span .yiv0088577536underline {
+text-decora=
+tion:underline;}
+
+#yiv0088577536  .yiv0088577536attach {
+clear:both;display=
+:table;font-family:Arial;font-size:12px;padding:10px 0;width:400px;}
+
+#yiv0=
+088577536  .yiv0088577536attach div a {
+text-decoration:none;}
+
+#yiv0088577=
+536  .yiv0088577536attach img {
+border:none;padding-right:5px;}
+
+#yiv008857=
+7536  .yiv0088577536attach label {
+display:block;margin-bottom:5px;}
+
+#yiv0=
+088577536  .yiv0088577536attach label a {
+text-decoration:none;}
+
+#yiv00885=
+77536  blockquote {
+margin:0 0 0 4px;}
+
+#yiv0088577536  .yiv0088577536bold =
+{
+font-family:Arial;font-size:13px;font-weight:700;}
+
+#yiv0088577536  .yiv0=
+088577536bold a {
+text-decoration:none;}
+
+#yiv0088577536  dd.yiv0088577536l=
+ast p a {
+font-family:Verdana;font-weight:700;}
+
+#yiv0088577536  dd.yiv0088=
+577536last p span {
+margin-right:10px;font-family:Verdana;font-weight:700;}=
+
+
+#yiv0088577536  dd.yiv0088577536last p span.yiv0088577536yshortcuts {
+mar=
+gin-right:0;}
+
+#yiv0088577536  div.yiv0088577536attach-table div div a {
+te=
+xt-decoration:none;}
+
+#yiv0088577536  div.yiv0088577536attach-table {
+width=
+:400px;}
+
+#yiv0088577536  div.yiv0088577536file-title a, #yiv0088577536  di=
+v.yiv0088577536file-title a:active, #yiv0088577536  div.yiv0088577536file-t=
+itle a:hover, #yiv0088577536  div.yiv0088577536file-title a:visited {
+text-=
+decoration:none;}
+
+#yiv0088577536  div.yiv0088577536photo-title a, #yiv0088=
+577536  div.yiv0088577536photo-title a:active, #yiv0088577536  div.yiv00885=
+77536photo-title a:hover, #yiv0088577536  div.yiv0088577536photo-title a:vi=
+sited {
+text-decoration:none;}
+
+#yiv0088577536  div#yiv0088577536ygrp-mlmsg=
+ #yiv0088577536ygrp-msg p a span.yiv0088577536yshortcuts {
+font-family:Verd=
+ana;font-size:10px;font-weight:normal;}
+
+#yiv0088577536  .yiv0088577536gree=
+n {
+color:#628c2a;}
+
+#yiv0088577536  .yiv0088577536MsoNormal {
+margin:0 0 0=
+ 0;}
+
+#yiv0088577536  o {
+font-size:0;}
+
+#yiv0088577536  #yiv0088577536phot=
+os div {
+float:left;width:72px;}
+
+#yiv0088577536  #yiv0088577536photos div =
+div {
+border:1px solid #666666;height:62px;overflow:hidden;width:62px;}
+
+#y=
+iv0088577536  #yiv0088577536photos div label {
+color:#666666;font-size:10px=
+;overflow:hidden;text-align:center;white-space:nowrap;width:64px;}
+
+#yiv008=
+8577536  #yiv0088577536reco-category {
+font-size:77%;}
+
+#yiv0088577536  #yi=
+v0088577536reco-desc {
+font-size:77%;}
+
+#yiv0088577536  .yiv0088577536replb=
+q {
+margin:4px;}
+
+#yiv0088577536  #yiv0088577536ygrp-actbar div a:first-chi=
+ld {
+margin-right:2px;padding-right:5px;}
+
+#yiv0088577536  #yiv0088577536yg=
+rp-mlmsg {
+font-size:13px;font-family:Arial, helvetica, clean, sans-serif;}=
+
+
+#yiv0088577536  #yiv0088577536ygrp-mlmsg table {
+font-size:inherit;font:1=
+00%;}
+
+#yiv0088577536  #yiv0088577536ygrp-mlmsg select, #yiv0088577536  inp=
+ut, #yiv0088577536  textarea {
+font:99% Arial, Helvetica, clean, sans-serif=
+;}
+
+#yiv0088577536  #yiv0088577536ygrp-mlmsg pre, #yiv0088577536  code {
+fo=
+nt:115% monospace;}
+
+#yiv0088577536  #yiv0088577536ygrp-mlmsg * {
+line-heig=
+ht:1.22em;}
+
+#yiv0088577536  #yiv0088577536ygrp-mlmsg #yiv0088577536logo {
+=
+padding-bottom:10px;}
+
+
+#yiv0088577536  #yiv0088577536ygrp-msg p a {
+font-f=
+amily:Verdana;}
+
+#yiv0088577536  #yiv0088577536ygrp-msg p#yiv0088577536atta=
+ch-count span {
+color:#1E66AE;font-weight:700;}
+
+#yiv0088577536  #yiv008857=
+7536ygrp-reco #yiv0088577536reco-head {
+color:#ff7900;font-weight:700;}
+
+#y=
+iv0088577536  #yiv0088577536ygrp-reco {
+margin-bottom:20px;padding:0px;}
+
+#=
+yiv0088577536  #yiv0088577536ygrp-sponsor #yiv0088577536ov li a {
+font-size=
+:130%;text-decoration:none;}
+
+#yiv0088577536  #yiv0088577536ygrp-sponsor #y=
+iv0088577536ov li {
+font-size:77%;list-style-type:square;padding:6px 0;}
+
+#=
+yiv0088577536  #yiv0088577536ygrp-sponsor #yiv0088577536ov ul {
+margin:0;pa=
+dding:0 0 0 8px;}
+
+#yiv0088577536  #yiv0088577536ygrp-text {
+font-family:Ge=
+orgia;}
+
+#yiv0088577536  #yiv0088577536ygrp-text p {
+margin:0 0 1em 0;}
+
+#y=
+iv0088577536  #yiv0088577536ygrp-text tt {
+font-size:120%;}
+
+#yiv0088577536=
+  #yiv0088577536ygrp-vital ul li:last-child {
+border-right:none !important;=
+}
+#yiv0088577536 </style></div><br clear=3D"none"><br clear=3D"none"></div>=
+  </div> </div>  </div></div></body></html>
+------=_Part_2191107_132129188.1455124297286--
+
+

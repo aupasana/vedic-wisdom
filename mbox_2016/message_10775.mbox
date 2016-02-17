@@ -1,0 +1,284 @@
+From sateeshastro@...  Wed Feb 17 11:07:50 2016
+Return-Path: <sateeshastro@...>
+X-Sender: sateeshastro@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 45395 invoked by uid 102); 6 Feb 2016 11:57:13 -0000
+X-Received: from unknown (HELO mtaq6.grp.bf1.yahoo.com) (10.193.84.37)
+  by m13.grp.bf1.yahoo.com with SMTP; 6 Feb 2016 11:57:13 -0000
+X-Received: (qmail 2328 invoked from network); 6 Feb 2016 11:57:13 -0000
+X-Received: from unknown (HELO mta1006.groups.mail.bf1.yahoo.com) (98.139.245.165)
+  by mtaq6.grp.bf1.yahoo.com with SMTP; 6 Feb 2016 11:57:13 -0000
+X-Original-Return-Path: <sateeshastro@...>
+X-Received-SPF: pass (domain of gmail.com designates 74.125.82.52 as permitted sender)
+X-YMailISG: Z0FYGK0WLDsZXpnbzaiDvqMcJdS2fiEM459VrjzWqzMj7gOD
+ RL7lxiSEyDnXBYTROgVJdUWR3qWoGbht0WnAykXrRY70MJ_EyubhIG5X8PNn
+ yeK5XiPc8XaWZDvNAVQ28.rH0M7W8kvtu09P3k6KM3GomngkrCGDJzo3K7.T
+ 9sAAvCie9SUi3ethc4xnQciYpRx0d_KuKUvbgELKyJtwxeq3bbD4Ujilq0Mw
+ 6mTKVZQKZLy8DwEPhSKDHbpjkhqqI..hRqKTGYByPd5EHrO6EttCfZqSPw8r
+ PKAqHMcLM71aWzekD0Ve8awFrans6y.YcDm6fZJ8zxrnRA6OQUnlzNOwaDh1
+ BnXzH1rS27DfDLboSwysjBJOIh6ejyZwkPzLFFmYn_6Rsv3m0naPOaFAR.uq
+ GqrSr7ZDafp9p14Vow6oG9ch5C9js4P_2msbnTLGcCZNHHRGD1oIC5sSVb3h
+ qBDHAYpXeigDBzUISSObitV7LQzbBKnVG_CZNoVlS6bv61ThEO8W44RRFJwV
+ 20mFdg8kJEUzL0cBn9J31NSS1.WDJh5k._OHcDKGJ4ZzEZfxZCJCtS9lCVJI
+ _fIp8lHmcBNA62nwgTMK7gZBjBUEb769jzG1lWKo_n8lieoRP8CY5L36.yh_
+ 5pNona286KsIfzgIh..27Y4NMPfUY8FxOialZjj4.zt5EGNmBmk1WlGbhYCh
+ raas.0TtYVyr2qOJgCi8JRfbXec470QdTdPLPAb5hA.ue2nCb.1mQVfXqiDp
+ zNw.GY9EzZa.PrqNvJ6v0arvHEhuz8ATpRuAt1M0TYVLj72ibmxFBtmeWagI
+ HZaqCw7EtWrGFdYXvqZYNzuci8mqVC20x2l.ooROzvrxEBcjKM_eAmNqIpY3
+ ePjiTKCiR5et4sgkyExqANsWUfGp0sZUr5vNOWbbvNkiKyHHlpXjmZYoKGuo
+ pY12Eo5N6JjKwKLivM8u6.3ymUk89IU.5CakE5_iEbEGUQFoYGCcUDdVuOTX
+ HZ0gfnsiSeNEpKoeScB5GidVMuWILbHo_7FZ25N6FME6V1gNgwZ2nNgaUknc
+ exS56HWxWV8XiD7VsnqmG1dh6La7dGhUZQk.mCzPM6oziNht4WKPPYo2vJjh
+ o.Iz1fKL78kER1M0wsQPSj88TL1vIjcYrsuHYz8oRuJM4xC5CwWqe0DEbO0x
+ PRpaiU6dazEcLKMCIXTaQ3tmlH57xQ6KR3menHRcMS47EawDIeUu5hC20tWV
+ DRG_iASvD2b_x0c.sRN2bTsIHSoBaC9djOzsJPJwTZyccGlCj.o42_xUTwmX
+ OkLB2EVsqwcwrgU1EzTk0YwLM9oyvFmP0cGjyB_PKS3o3_LiAGj.HP_TiNbq
+ Z.7NcwJTp9l7Ci36G4K3zxoWzeYuPfsGbSaS9x2aqom2Oa_iuy6T2C5LWvQy
+ MWmOxVtwLqEgtrJe9cgtgL2jA6q2Q.fFiGJlNMGiEuFnUNg9wsbtBLmYGmvO
+ xQlPCtQRN.kQVABLIKzcB0tyQiKhzzIpxBQAbW9TqvIoy7CKsz5xvm2rfsQZ
+ YmQ_jyxzk5aiBFRlX6xsU55hMvBfyPxZX9_O4PD954dXTpT.ajqA4HMBW5VU
+ twApO34N2QtIbSpeYnnx5NI9kzPywac.XaEsZw--
+Authentication-Results: mta1006.groups.mail.bf1.yahoo.com  from=gmail.com; domainkeys=neutral (no sig);  from=gmail.com; dkim=pass (ok)
+X-Received: from 127.0.0.1  (EHLO mail-wm0-f52.google.com) (74.125.82.52)
+  by mta1006.groups.mail.bf1.yahoo.com with SMTPS; Sat, 06 Feb 2016 11:57:13 +0000
+X-Received: by mail-wm0-f52.google.com with SMTP id 128so101516014wmz.1
+        for <vedic-wisdom@yahoogroups.com>; Sat, 06 Feb 2016 03:57:13 -0800 (PST)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:in-reply-to:references:date
+         :message-id:subject:from:to:content-type;
+        bh=qwSJpBHWYNCb74Q0ZkTXOeJ+wdbSgoXm6Y0wGkZe7tM=;
+        b=Se8Ko0BSnJXxbqqoibQZc+hJ5iTPu2bGVqoK9IGZ4bgfPr/KCcSEJ+P9vXMDKurzQM
+         WZ9MIOJVPY14SCwJEvx0ZPSRWZFWLZjd1LbkTf2/FoKvHmPomqtW5NpTaaXMY9Joz/bW
+         i9hf5JeJXqdoVjMa6S7wEV1Py+P+uei8i2YQcJPTMqumsQmyCMadx6q7B2HnbexkyvIf
+         /VnHc1TqtP5/mB9jmWp4kPIZXZ/tXh8JOcM9MuuLKsyrDUMWWzqsTzrbgu3/2uQARYWV
+         9Y0h069mWUG2s7YLqVyrqbJ98wqR8YCYOrjCCuudlngblUrQYssOce1h5CxQHwy9fB+r
+         Cjpg==
+X-Gm-Message-State: AG10YOR8izGYnx84AWA0mqNz5G50M6ZlZQmC7ofNlz3skV8EzNeZ4OvuJD0pabM+fyTBLJ1X5MakdqDi8i0lQw==
+MIME-Version: 1.0
+X-Received: by 10.28.140.210 with SMTP id o201mr21692305wmd.28.1454759833190;
+ Sat, 06 Feb 2016 03:57:13 -0800 (PST)
+X-Received: by 10.194.82.36 with HTTP; Sat, 6 Feb 2016 03:57:13 -0800 (PST)
+In-Reply-To: <n943pf+1btqfke@...>
+References: <n943pf+1btqfke@...>
+Date: Sat, 6 Feb 2016 17:27:13 +0530
+Message-ID: <CAE2RDrTo6D9qRb81eHTjHx0kg_JojQ==mXz+U5XgjCd2z0x9DA@...>
+To: vedic-wisdom@yahoogroups.com
+Content-Type: multipart/alternative; boundary=001a1145b682174ace052b18abe8
+X-Originating-IP: 98.139.245.165
+Subject: Re: [vedic-wisdom] Mantra for Ma Ugra Tara
+X-Yahoo-Group-Post: member; u=558882330; y=iyUqmU6SCYFrJA5zR-giQPRXqlJXhLpnRoP4l8cXRBgbFfD9z-Ilqh3DsYpFxOQ
+X-Yahoo-Profile: satishdesh@...
+From: satish deshpande <sateeshastro@...>
+
+
+--001a1145b682174ace052b18abe8
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Dear
+=E2=80=8B puloma=E2=80=8B
+ - Namaste
+
+=E2=80=8BTantra sadhana of tara =
+is not done unless and until you have good
+competent guru. Better do have s=
+econd / third opinions for your problems.
+
+
+
+
+Yours sincerely
+       satish=
+
+
+
+
+On 6 February 2016 at 11:57, puloma_dasgupta@... [vedic-wisdom] <=
+
+vedic-wisdom@yahoogroups.com> wrote:
+
+>
+>
+> Namaste!
+>
+>
+> I have been adv=
+ised by the author of the following blogpost to practice
+> Ugra Tara japa f=
+or mental peace in the comments section:
+>
+> The Devatas of Aghora and Tant=
+ra: The Great Widow
+> <https://mmpandit.wordpress.com/2015/06/23/the-devata=
+s-of-aghora-and-tantra-the-great-widow/>
+> [image: image]
+> <https://mmpand=
+it.wordpress.com/2015/06/23/the-devatas-of-aghora-and-tantra-the-great-wido=
+w/>
+> The Devatas of Aghora and Tantra: The Great Widow
+> <https://mmpandit=
+.wordpress.com/2015/06/23/the-devatas-of-aghora-and-tantra-the-great-widow/=
+>
+> Everybody in this Universe worships fortune. There are not too many peo=
+ple
+> in this world who won't worship fortune and why not? after all, if Sh=
+e
+> smiles on you,...
+> View on mmpandit.wordpres...
+> <https://mmpandit.wo=
+rdpress.com/2015/06/23/the-devatas-of-aghora-and-tantra-the-great-widow/>
+>=
+ Preview by Yahoo
+>
+>
+> I have researched online for the mantra and it seem=
+s to be Om Hrim Strim
+> Hum Phat. Can somebody with adequate knowledge abou=
+t this tell me if this
+> mantra is correct or direct me to another link whe=
+re I can find out? Is Hum
+> pronounced as Hoom Or Ham?
+>
+>
+> Pranam!
+>
+>
+> =
+Puloma
+>
+> 
+>
+
+--001a1145b682174ace052b18abe8
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><div class=3D"gmail_default" style=3D"font-family:arial,he=
+lvetica,sans-serif;font-size:small"><br></div><div class=3D"gmail_extra"><b=
+r clear=3D"all"><div><div class=3D"gmail_signature"><div dir=3D"ltr"><div><=
+font color=3D"#0000ff">=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =
+=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0=C2=A0</font></div>D=
+ear<div class=3D"gmail_default" style=3D"font-family:arial,helvetica,sans-s=
+erif;font-size:small;display:inline">=E2=80=8B puloma=E2=80=8B</div> =C2=A0=
+- Namaste =C2=A0</div><div dir=3D"ltr"><br></div><div dir=3D"ltr"><div clas=
+s=3D"gmail_default" style=3D"font-family:arial,helvetica,sans-serif;font-si=
+ze:small">=E2=80=8BTantra sadhana of tara is not done unless and until you =
+have good competent guru. Better do have second / third opinions for your p=
+roblems.</div><br><div><br></div><div><br><div><br></div><div>Yours sincere=
+ly</div><div>=C2=A0 =C2=A0 =C2=A0 =C2=A0satish</div><div><br></div><div><sp=
+an style=3D"color:rgb(0,0,255)">=C2=A0=C2=A0</span><span style=3D"color:rgb=
+(0,0,255)">=C2=A0</span><span style=3D"color:rgb(0,0,255)">=C2=A0 =C2=A0 =
+=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0=C2=A0</span></div></div></div></d=
+iv></div>
+<br><div class=3D"gmail_quote">On 6 February 2016 at 11:57, <a hr=
+ef=3D"mailto:puloma_dasgupta@...">puloma_dasgupta@...</a> [vedi=
+c-wisdom] <span dir=3D"ltr"><<a href=3D"mailto:vedic-wisdom@yahoogroups.=
+com" target=3D"_blank">vedic-wisdom@yahoogroups.com</a>></span> wrote:<b=
+r><blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:=
+1px #ccc solid;padding-left:1ex">
+
+
+<u></u>
+
+
+
+
+
+
+
+
+
+ 
+<div style=3D"backgr=
+ound-color:#fff">
+<span>=C2=A0</span>
+
+
+<div>
+  <div>
+
+
+    <div>
+      
+  =
+    
+      <p></p><p><span>Namaste!</span></p><p><br><span></span></p><p><s=
+pan>I have been advised by the author of the following blogpost to practice=
+ Ugra Tara japa for mental peace in the comments section:</span></p><p><spa=
+n><a rel=3D"nofollow" href=3D"https://mmpandit.wordpress.com/2015/06/23/the=
+-devatas-of-aghora-and-tantra-the-great-widow/" target=3D"_blank">The Devat=
+as of Aghora and Tantra: The Great Widow</a></span></p><div style=3D"width:=
+450px"> <table style=3D"width:450px;height:170px;margin-top:5px;margin-bott=
+om:5px" cellpadding=3D"0" cellspacing=3D"0"> <tbody><tr> <td colspan=3D"6" =
+style=3D"height:1px;background-color:#e5e5e5"> <div style=3D"min-height:1px=
+;background-color:#e5e5e5"></div> </td> </tr> <tr> <td rowspan=3D"2" style=
+=3D"width:1px;background-color:#e5e5e5"> <div style=3D"width:1px;background=
+-color:#e5e5e5"></div> </td>  <td rowspan=3D"2" style=3D"vertical-align:mid=
+dle;width:168px;height:168px;background-color:#000000"> <div style=3D"width=
+:168px" align=3D"center"> <a rel=3D"nofollow" href=3D"https://mmpandit.word=
+press.com/2015/06/23/the-devatas-of-aghora-and-tantra-the-great-widow/" sty=
+le=3D"text-decoration:none;color:#000000" target=3D"_blank"> <img alt=3D"im=
+age" src=3D"https://mmpandit.files.wordpress.com/2011/04/img_9791_dark_smal=
+lest.jpg" style=3D"margin:auto" height=3D"112" width=3D"168"> </a> </div> <=
+/td> <td rowspan=3D"2" style=3D"width:1px;background-color:#e5e5e5"> <div s=
+tyle=3D"width:1px;background-color:#e5e5e5"></div> </td>  <td colspan=3D"2"=
+ style=3D"width:100%;vertical-align:middle"> <div style=3D"background-color=
+:#ffffff;min-height:130px;width:279px"> <div style=3D"padding:7px 20px 0px =
+14px"> <span></span> <span></span> <a rel=3D"nofollow" href=3D"https://mmpa=
+ndit.wordpress.com/2015/06/23/the-devatas-of-aghora-and-tantra-the-great-wi=
+dow/" style=3D"text-decoration:none;color:#000000" target=3D"_blank"> <span=
+ style=3D"margin:0;font-weight:normal;margin-bottom:4px;font-size:18px;max-=
+height:43px;color:#000000;overflow:hidden">The Devatas of Aghora and Tantra=
+: The Great Widow</span> </a>  <div style=3D"font-size:13px;color:#999999;m=
+ax-height:81px;overflow:hidden">Everybody in this Universe worships fortune=
+. There are not too many people in this world who won't worship fortune=
+ and why not? after all, if She smiles on you,...</div>  </div> </div> </td=
+> <td rowspan=3D"2" style=3D"width:1px;background-color:#e5e5e5"> <div styl=
+e=3D"width:1px;background-color:#e5e5e5"></div> </td> </tr><tr> <td style=
+=3D"width:100%;vertical-align:middle"> <div style=3D"font-size:0pt;padding:=
+7px 20px 9px 15px"> <a rel=3D"nofollow" href=3D"https://mmpandit.wordpress.=
+com/2015/06/23/the-devatas-of-aghora-and-tantra-the-great-widow/" style=3D"=
+color:black;text-decoration:none" target=3D"_blank"> <span style=3D"max-wid=
+th:179px;min-width:119px;overflow:hidden;max-height:13px"><span style=3D"ve=
+rtical-align:middle;font-size:9px;color:#999999"> View on <span style=3D"fo=
+nt-weight:bold">mmpandit.wordpres...</span></span></span> </a>  </div> </td=
+> <td style=3D"vertical-align:middle;width:100px"> <div style=3D"padding:9p=
+x 20px 12px 0px;max-width:100px;min-width:80px;overflow:hidden;text-align:r=
+ight;max-height:13px;font-size:0pt"> <span style=3D"vertical-align:middle;f=
+ont-size:9px;color:#999999"> Preview by Yahoo </span> </div> </td> </tr>  <=
+tr> <td colspan=3D"6" style=3D"height:1px;background-color:#e5e5e5"> <div s=
+tyle=3D"min-height:1px;background-color:#e5e5e5"></div> </td> </tr> </tbody=
+></table> </div><p><span><br></span></p><p><span> I have researched online =
+for the mantra and it seems to be Om Hrim Strim Hum Phat. Can somebody with=
+ adequate knowledge about this tell me if this mantra is correct or direct =
+me to another link where I can find out? Is Hum pronounced as Hoom Or Ham? =
+<br></span></p><p><br><span></span><span>Pranam!</span></p><p><br><span></s=
+pan></p><p><span>Puloma<br></span></p><p></p>
+
+    </div>
+     
+
+    
+    <=
+div style=3D"color:#fff;min-height:0"></div>
+
+
+</div>
+
+
+
+  
+
+
+
+
+
+
+</blockqu=
+ote></div><br></div></div>
+
+--001a1145b682174ace052b18abe8--
+
+

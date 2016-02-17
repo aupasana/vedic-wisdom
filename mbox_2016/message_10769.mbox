@@ -1,0 +1,92 @@
+From amit.vankadia@...  Wed Feb 17 11:07:49 2016
+Return-Path: <amit.vankadia@...>
+X-Sender: amit.vankadia@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 26480 invoked by uid 102); 1 Feb 2016 14:19:47 -0000
+X-Received: from unknown (HELO mtaq4.grp.bf1.yahoo.com) (10.193.84.143)
+  by m12.grp.bf1.yahoo.com with SMTP; 1 Feb 2016 14:19:47 -0000
+X-Received: (qmail 13232 invoked from network); 1 Feb 2016 14:19:47 -0000
+X-Received: from unknown (HELO mta1004.groups.mail.ne1.yahoo.com) (98.138.100.119)
+  by mtaq4.grp.bf1.yahoo.com with SMTP; 1 Feb 2016 14:19:47 -0000
+X-Original-Return-Path: <amit.vankadia@...>
+X-Received-SPF: pass (domain of gmail.com designates 209.85.213.174 as permitted sender)
+X-YMailISG: OXwwvxAWLDvougaRalFIq1ZSS1fJNG1iyRFpbiyAbx2tGyqz
+ dbF2pIh4QbsnmkiOoCombWH85HnN0Ft3A6kUk7KeT7OI3my8fZuj03WL21AJ
+ AIhi1fkMlVttnwIQ_1UfpsE4fr0.SfWUu66Dnodj1BpA4vX7oHvP4Yx9VhLj
+ U3jIaXMwYWd54gjiZzlNQjnrg.Imktlw_2b6YkZfdz63mf7ucfAodRgNA7tm
+ AA8Y4yvL7iFyv4.g66.phhFs3dD.nZS5bagx6XGUzzSI4hGxxaIlDqyHKySz
+ KAhfcTdIwjwjW0ZVwuTMyVylHjfVVdd4nrs.AU5Em9Ni4Qflt48MIPutQDKi
+ y1VI7fTPOFBdt7eAqTv5vSUnJ6mQxhO484k9mHHXh53YkpFfNIqXNGxQ9FTc
+ A6CMdAMyyq0wVBaNKX7.C5tRNKJK7PLzJZFdC8bCEoGVxpQSx5BGlmqp15ER
+ 5Rk_YmL828tN0toSnY.QIX3Z3Ch.FQvOQHb8tVIosFPVzbSBxTJQN8g9OeQq
+ 2JUvQNnGtgtpsG5gJmQ5k.vDUxPb.4B_rsVRnSO.5n9IKUcauv6k5BfLHgV4
+ Qvfgd03zLLLQpkbKCZMk3B8PaP.wud3hy262rpsYNYObsI_CQ4jNpzQEIxoS
+ Y.5PTCDeqpyK7ZzB7PcsiR_YWtVjML.G4ulLE2JeDPHAjY00CTLs.qx2YXUF
+ _3mPtYAX0hnnT3vJxqttKAiaOOtWKw8.polDPmjQc.evNF6BEqjQcujB0Suw
+ YwWXwJAg30xVlGtzL816QtmgIx8lSb9ld3PoiIMxgx0oBENyAa8NrUXodCi3
+ qjX8kxL7HCmItC2VQIThuP8umcn5uGAHfGotkAqWg1hlNnx2dXJA200LoX.0
+ Lp9V.qKZDryav2ovH0liMKfX_GG5oAFRSBQbFR1bYaFLB6YMyGVZpF93KlMy
+ lke8zbdWxyDt.xz6AqiUvATVMViSx91F6w.pstMAKbjJgVVDc0buMB6c9N4H
+ 3HXbbTmpOqTslwxFgixt5EkzVasczDPGG6OcJnp6Wkpwc6yi5PIwURtZr.5N
+ NhEPnPX1e5OTbEwDe2dqV2lNIR2r_9I4lSmm6prkv4bySDdTt7VZe4oJjPBB
+ FVQSR0zaKztINHjIlhOQuJEqsLQ5h2jqadudWPD4O1mBWWfFymtTy.AZof9b
+ gKtOIHaoKQnwwwowrSKzwt5b_2YJDN8jZ2tK8DpaSrfEP2zWKgKi9KBZ
+Authentication-Results: mta1004.groups.mail.ne1.yahoo.com  from=gmail.com; domainkeys=neutral (no sig);  from=gmail.com; dkim=pass (ok)
+X-Received: from 127.0.0.1  (EHLO mail-ig0-f174.google.com) (209.85.213.174)
+  by mta1004.groups.mail.ne1.yahoo.com with SMTPS; Mon, 01 Feb 2016 14:19:47 +0000
+X-Received: by mail-ig0-f174.google.com with SMTP id z14so35783508igp.1
+        for <vedic-wisdom@yahoogroups.com>; Mon, 01 Feb 2016 06:19:46 -0800 (PST)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:date:message-id:subject:from:to
+         :content-type;
+        bh=VpZSXIfswVS+frkHgB5dSU7Jti2PoIRNroxVtzTfgsQ=;
+        b=Fja2VslbMpejbtKfNSFTWyuyRlATnV6uCpzU9Ys6MIlbDYt3u7RqX5fR3+VUSR1CcL
+         MP1KoqArgoZ5Jw1RzgqTth2LaVVlhj8e1vjd2/DQn/koSqqW2UMCSCBPXmXRrGESOH5Q
+         HeHuZ1AcPSyjdhTfvpl03CgCRSP2v1wNzW6ID3ZnEYZUPVlTSrAIl64kwILvOGooTjSQ
+         wUdUbbm8ycK+cOLM/cGqGZyUsCnYbIsn77af/78FnYwY+vkk+Ypml3V1Q3eUDQIlRVj6
+         0oBe9etyjuxjdc2MNnGTMQxIBDs056t+HNbJPis1d87BrFvXFqGvIDWkY8bP1vpj8niw
+         DVmQ==
+X-Gm-Message-State: AG10YOQ4HkfQDQaoa/vMesZGDlBkSshbX/B3f9Iff/gUD3GbYxEq3m/Pz/s4h8OxyLGZoTGFU/7KnkA+83boIQ==
+MIME-Version: 1.0
+X-Received: by 10.50.143.4 with SMTP id sa4mr11613729igb.26.1454336386676;
+ Mon, 01 Feb 2016 06:19:46 -0800 (PST)
+X-Received: by 10.107.16.10 with HTTP; Mon, 1 Feb 2016 06:19:46 -0800 (PST)
+X-Received: by 10.107.16.10 with HTTP; Mon, 1 Feb 2016 06:19:46 -0800 (PST)
+Date: Mon, 1 Feb 2016 09:19:46 -0500
+Message-ID: <CAAAmiM=6Bd6YC6rvUp81eP0tzOif10aRLB7A2XJ-VDCWSx75Pw@...>
+To: vedic-wisdom@yahoogroups.com
+Content-Type: multipart/alternative; boundary=001a1134bce2b64459052ab613aa
+X-Originating-IP: 98.138.100.119
+Subject: Re: Ganapathi Homam Few questions...Thanks for your help...
+X-Yahoo-Group-Post: member; u=550366991; y=wDMd-cBRuQfO0_NA2SFuQdcDnI9gttC-mM_sg-CeUuJzAsP_2ysGPlJo_bem-6bAjQdbWFCfW79_Qog
+X-Yahoo-Profile: moonrumble
+From: Amit Patel <amit.vankadia@...>
+
+
+--001a1134bce2b64459052ab613aa
+Content-Type: text/plain; charset=UTF-8
+
+Vasavi Ji,
+
+I recently started doing more regular ganapati homam.
+
+I am too interested in knowing answers to your query.
+
+If you can summarize your discussion with Narsimha Ji, it will be helpful
+to all who are new to doing daily homam.
+
+Thanks
+
+--001a1134bce2b64459052ab613aa
+Content-Type: text/html; charset=UTF-8
+
+<p dir="ltr">Vasavi Ji, </p>
+<p dir="ltr">I recently started doing more regular ganapati homam. </p>
+<p dir="ltr">I am too interested in knowing answers to your query. </p>
+<p dir="ltr">If you can summarize your discussion with Narsimha Ji, it will be helpful to all who are new to doing daily homam. </p>
+<p dir="ltr">Thanks </p>
+
+--001a1134bce2b64459052ab613aa--
+
+

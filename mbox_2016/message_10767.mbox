@@ -1,0 +1,582 @@
+From vasavi_rani@...  Wed Feb 17 11:07:49 2016
+Return-Path: <vasavi_rani@...>
+X-Sender: vasavi_rani@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 20344 invoked by uid 102); 31 Jan 2016 21:25:21 -0000
+X-Received: from unknown (HELO mtaq4.grp.bf1.yahoo.com) (10.193.84.143)
+  by m16.grp.bf1.yahoo.com with SMTP; 31 Jan 2016 21:25:21 -0000
+X-Received: (qmail 10590 invoked from network); 31 Jan 2016 21:25:21 -0000
+X-Received: from unknown (HELO mta1006.groups.mail.ne1.yahoo.com) (98.138.100.121)
+  by mtaq4.grp.bf1.yahoo.com with SMTP; 31 Jan 2016 21:25:21 -0000
+X-Original-Return-Path: <vasavi_rani@...>
+X-Received-SPF: pass (domain of yahoo.com designates 98.138.91.166 as permitted sender)
+X-YMailISG: FAkmSyoWLDsR0aGWs39dfnmur8paeBI8jF4WLKEEZhJSBGfD
+ FEm6zlJa1Hci_YNNJaKj0sXeJ96keXnIqMpxw0WR2lNJ9tGWUgj3X3v2_2J5
+ YGvxxtiS2MQz41CUEpFzBp3RnhasWTcm.F5EM4Lre0wRq.3Nv.Nt3RuWKpEM
+ eRkeT4OxSw2MpssLrIxqUmYO1NLEic5mK7eajHapCBpb_NlZm55t5qN7Aibe
+ oMxiBVsLvlg0VNTJuPScZPQNoKELEKEo8h0o0eK7ErMeExHTh7onfVsRT_M3
+ DiTrpKKONYwR_EqmyHDR8MJawfyEOGM6DXO53QfCYGBCXb_0J23ZlURzwSwT
+ ShzVMSql.QGB_82oxWjUJPBYEEKPuq4h_wVDIoR65p5P2P3kWga2NtE1qH2m
+ Sg_.V0gVLXYZBLOXs1cA5h8NLp6e_mGrAeyUu6WPg7cKVrXiivj1jtYcvdh3
+ zu43GA5qMvKwUD6EolGWJibcrufKukSDj5YER7632ztug7mR0Jp2GVJkg1ct
+ 4XHKNSeOboN6OMfJuWPgODhNxymPEeYaTZtLEweMiXY8UEpPWxqib6FfuAY.
+ BVM0hzZJIHH2XfWOx5S4wju_WMZz_gg.oxG8Ak7OTBCofpf6FqEjdmkzEc7a
+ 50uT9Dz8UYgM.Qsh8E8ItO94bN_B8MdaPWT4y0iuV3VhajpZkBj_2Q5yH7i7
+ 8TBQr5aPosBseLZA5ScVK7gy41AylNvFGuCPl4K2MhkvlezsW6OxKUNx_Gxm
+ Q9L.WW7FKoL331cXdH24C9AT6PBkpy301eDtVPquSbfUxkSlPEiRjE.hvZ0S
+ UeSfkXGTfcuj2yTOxeQSMIeFuTi6tWIlVC_9AE9S79BQEg2JZNpQHoqRWZ1p
+ uRDfJgf9X0syf.E2l9_xSUeSQWFGxsUmBPqbRjELSkQY7.5cAB.v5fEpZsGX
+ okc2s8xsOPtx2e.DRtmy_klsS.k_LlWyZQDAjiZbFM6nvtGfCcKUEDOMZhVY
+ DyaAGMvLuM3K1Us4leD.4Co1sxx07GW_PV.8Ff8eGcT70FShth2JILDvdxyR
+ JaWDUc1PZ_.0dUNJc1iEsKI3UdSeBcEeMrqQemGolfFkwBDpY4Gzfl3PNEeX
+ ErHCDiMIpEuII5GvThW_5SEF_E9GJrZpXf4vrsHWEIPwkVjNUVaR1kuMYtoW
+ bZ1CvjkPfEP91HdL8z_WVX9LfoU7xKKFNsTUkmruloWRd047YChufiaLUFun
+ GoF1tPeTVBr3vrqrvvxVxcvEFUtcHrj0C4Ii2Nw82nQXFtarljPiqFKKBrrd
+ 6vUaprPYFFDSn9vwnv50L75ybuc3HDDtBHFHEJZbVUDRyOMW_vSPX3gUhibA
+ CKiwE43xESsUpJ8pzUYBHARdSU4go3g5gQ--
+Authentication-Results: mta1006.groups.mail.ne1.yahoo.com  from=yahoo.com; domainkeys=neutral (no sig);  from=yahoo.com; dkim=pass (ok)
+X-Received: from 127.0.0.1  (EHLO nm6-vm4.bullet.mail.ne1.yahoo.com) (98.138.91.166)
+  by mta1006.groups.mail.ne1.yahoo.com with SMTPS; Sun, 31 Jan 2016 21:25:21 +0000
+X-Received: from [98.138.226.178] by nm6.bullet.mail.ne1.yahoo.com with NNFMP; 31 Jan 2016 21:25:21 -0000
+X-Received: from [98.138.86.157] by tm13.bullet.mail.ne1.yahoo.com with NNFMP; 31 Jan 2016 21:25:21 -0000
+X-Received: from [127.0.0.1] by omp1015.mail.ne1.yahoo.com with NNFMP; 31 Jan 2016 21:25:21 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 57338.78228.bm@...
+X-YMail-OSG: Y5.UD1sVM1lVrKcAcYwYd6Ec0cPUiXwfoP0lOtVnmJGhSf4ZaKToHH2rMFuQJCt
+ y7npYKRGx1UJvWEKaKi_7AUxOfR8kVZXBs10wVSXu2JPbb7wZ_1YiQfXnEj4TzEjo5k_zpOJK7SN
+ a4MFF.sgPD99qmhV4Ywa39Bv90dkMyp7Lj1rZoJoGHxNpQoylhbZfIseCiGEsnFoH5aen11Y2U8m
+ gWvx5i5YlnnhZ9cQX18712h_j899gPtJJ457cTbSpwtKIUIK3U9SHwwqyB1dOVsv2ap7TBD8PH0h
+ 35dwZowHsYTZq6.BE6ohNrJe11vjkNL6P9y5stp3jhemozc1MhAmjUGTgyuLJTfnq2MQCDK9L4FA
+ IOHfWLMPqLluYKxqPhmzw8pqJ3uP.P8BOrjU6yGcYve572HYzxm_tMaNvaNM61j9cs3zMb1XlbHj
+ U_DO7n6g2dv7FeSqjTuYopFG9FWYaOveYz3sQCBr4D2HhKRMi2zWxe_ppd292AcCji9bZyQge94S
+ 5H2xKzBkhQK5vJtC4i361OgrSkxs2l8jQXHxbIOq59oqZ5u7HMXl6xA--
+X-Received: by 98.138.105.249; Sun, 31 Jan 2016 21:25:20 +0000 
+Date: Sun, 31 Jan 2016 21:25:20 +0000 (UTC)
+To: "vedic-wisdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com>, 
+	"Narasimha P.V.R. Rao" <pvr108@...>
+Message-ID: <329300447.2462223.1454275520127.JavaMail.yahoo@...>
+In-Reply-To: <275446653.2322758.1454223592126.JavaMail.yahoo@...>
+References: <275446653.2322758.1454223592126.JavaMail.yahoo.ref@...> <275446653.2322758.1454223592126.JavaMail.yahoo@...>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_2462222_344766888.1454275520116"
+Content-Length: 28127
+X-Originating-IP: 98.138.100.121
+Reply-To: vasavi <vasavi_rani@...>
+Subject: Re: [vedic-wisdom] Ganapathi Homam Few questions...Thanks for your
+ help...
+X-Yahoo-Group-Post: member; u=386413323; y=k5Iwl8dquZ4_9wr3PUusdd0a7sFk3qlADjeaUeICgvfEMECEZow
+X-Yahoo-Profile: vasavi_rani
+From: vasavi <vasavi_rani@...>
+
+
+------=_Part_2462222_344766888.1454275520116
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+PVRji,
+Thanks for taking time to talk to me this morning. We already discus=
+sed several topics over the phone. Kindly disregard this email.
+Regards,Vas=
+avi 
+
+    On Sunday, January 31, 2016 1:00 AM, "vasavi vasavi_rani@...=
+m [vedic-wisdom]" <vedic-wisdom@yahoogroups.com> wrote:
+ 
+
+ =C2=A0   Namast=
+e PVR Ji.,
+I have few questions pertaining to Homa procedure...Can you kind=
+ly advise on below questions...i thank you for the same and appreciate your=
+ help..
+While i have added few sections myself to the homa manual such as b=
+hootochhatana., guru worship along with guru panchapooja and detailed kalas=
+a pooja...my questions are pertaining to offerings to
+1. Rakshasas: Usually=
+ in the beginnning of the homam, after agni pratishthapana, we offer one bu=
+rning stick to rakshasas on South-west side..this is not included in the ma=
+nual? can i do this?if so, at what step is it appropriate to include? (afte=
+r or before chatvari...)...should the stick by slight burnt or half burn?
+2=
+. Ashadikpalaka homam: In the given procedure, we invite ashtadikpalakas bu=
+t are not giving them any offerings in the fire after invitation. Usually t=
+his is carried out at the end after main homam. Can i include this?=C2=A0
+3=
+. Aayudha homam: offerings to aayudhas=C2=A0
+4. Vahana homam: offerings to =
+various vahanas
+5. Navagrahas: same here...there is no mention of navagraha=
+s, i would like to include this step may be with 1 step sloka or moola mant=
+ra is this ok?
+=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=
+=C2=A0=C2=A0I am planning on including the above steps after main homam, pu=
+nah pooja and before uttarangam? does that make sense? can i ? if yes, prio=
+r to uttarangam or the most app place to include?
+
+6. Prior to vasodhara an=
+d purnahuti, can i add a step of offering to Ganapathi chanting =C2=A0moola=
+mantra 8 times (for forgiveness for any mistakes committed thus far in the =
+process) (specific to ganapathi homam)
+=C2=A0if i want to perform shodasopo=
+achara, then i assume i complete all 16 steps of worship prior to main homa=
+? please correct me if i am wrong. should i stop after pushpai offering...d=
+o main homa... then continue offering remaining steps such as dhoopam deepa=
+m etc or can i complete all 16 steps at once and then start main homam? the=
+ reason i am asking is....since we offer managala arathi in 16 upacharas...=
+and mangal aarathi is a concluding step...i wanted to know if it is ok to s=
+tart main homam after mangala aarathi (esp following agni prathishthapana)?=
+
+7. Should it be ok for ladies to wear pavitram left hand?
+Thanks much and =
+i appreciate your help
+
+Regards,Vasavi  #yiv7361959041 #yiv7361959041 -- #y=
+iv7361959041ygrp-mkp {border:1px solid #d8d8d8;font-family:Arial;margin:10p=
+x 0;padding:0 10px;}#yiv7361959041 #yiv7361959041ygrp-mkp hr {border:1px so=
+lid #d8d8d8;}#yiv7361959041 #yiv7361959041ygrp-mkp #yiv7361959041hd {color:=
+#628c2a;font-size:85%;font-weight:700;line-height:122%;margin:10px 0;}#yiv7=
+361959041 #yiv7361959041ygrp-mkp #yiv7361959041ads {margin-bottom:10px;}#yi=
+v7361959041 #yiv7361959041ygrp-mkp .yiv7361959041ad {padding:0 0;}#yiv73619=
+59041 #yiv7361959041ygrp-mkp .yiv7361959041ad p {margin:0;}#yiv7361959041 #=
+yiv7361959041ygrp-mkp .yiv7361959041ad a {color:#0000ff;text-decoration:non=
+e;}#yiv7361959041 #yiv7361959041ygrp-sponsor #yiv7361959041ygrp-lc {font-fa=
+mily:Arial;}#yiv7361959041 #yiv7361959041ygrp-sponsor #yiv7361959041ygrp-lc=
+ #yiv7361959041hd {margin:10px 0px;font-weight:700;font-size:78%;line-heigh=
+t:122%;}#yiv7361959041 #yiv7361959041ygrp-sponsor #yiv7361959041ygrp-lc .yi=
+v7361959041ad {margin-bottom:10px;padding:0 0;}#yiv7361959041 #yiv736195904=
+1actions {font-family:Verdana;font-size:11px;padding:10px 0;}#yiv7361959041=
+ #yiv7361959041activity {background-color:#e0ecee;float:left;font-family:Ve=
+rdana;font-size:10px;padding:10px;}#yiv7361959041 #yiv7361959041activity sp=
+an {font-weight:700;}#yiv7361959041 #yiv7361959041activity span:first-child=
+ {text-transform:uppercase;}#yiv7361959041 #yiv7361959041activity span a {c=
+olor:#5085b6;text-decoration:none;}#yiv7361959041 #yiv7361959041activity sp=
+an span {color:#ff7900;}#yiv7361959041 #yiv7361959041activity span .yiv7361=
+959041underline {text-decoration:underline;}#yiv7361959041 .yiv7361959041at=
+tach {clear:both;display:table;font-family:Arial;font-size:12px;padding:10p=
+x 0;width:400px;}#yiv7361959041 .yiv7361959041attach div a {text-decoration=
+:none;}#yiv7361959041 .yiv7361959041attach img {border:none;padding-right:5=
+px;}#yiv7361959041 .yiv7361959041attach label {display:block;margin-bottom:=
+5px;}#yiv7361959041 .yiv7361959041attach label a {text-decoration:none;}#yi=
+v7361959041 blockquote {margin:0 0 0 4px;}#yiv7361959041 .yiv7361959041bold=
+ {font-family:Arial;font-size:13px;font-weight:700;}#yiv7361959041 .yiv7361=
+959041bold a {text-decoration:none;}#yiv7361959041 dd.yiv7361959041last p a=
+ {font-family:Verdana;font-weight:700;}#yiv7361959041 dd.yiv7361959041last =
+p span {margin-right:10px;font-family:Verdana;font-weight:700;}#yiv73619590=
+41 dd.yiv7361959041last p span.yiv7361959041yshortcuts {margin-right:0;}#yi=
+v7361959041 div.yiv7361959041attach-table div div a {text-decoration:none;}=
+#yiv7361959041 div.yiv7361959041attach-table {width:400px;}#yiv7361959041 d=
+iv.yiv7361959041file-title a, #yiv7361959041 div.yiv7361959041file-title a:=
+active, #yiv7361959041 div.yiv7361959041file-title a:hover, #yiv7361959041 =
+div.yiv7361959041file-title a:visited {text-decoration:none;}#yiv7361959041=
+ div.yiv7361959041photo-title a, #yiv7361959041 div.yiv7361959041photo-titl=
+e a:active, #yiv7361959041 div.yiv7361959041photo-title a:hover, #yiv736195=
+9041 div.yiv7361959041photo-title a:visited {text-decoration:none;}#yiv7361=
+959041 div#yiv7361959041ygrp-mlmsg #yiv7361959041ygrp-msg p a span.yiv73619=
+59041yshortcuts {font-family:Verdana;font-size:10px;font-weight:normal;}#yi=
+v7361959041 .yiv7361959041green {color:#628c2a;}#yiv7361959041 .yiv73619590=
+41MsoNormal {margin:0 0 0 0;}#yiv7361959041 o {font-size:0;}#yiv7361959041 =
+#yiv7361959041photos div {float:left;width:72px;}#yiv7361959041 #yiv7361959=
+041photos div div {border:1px solid #666666;height:62px;overflow:hidden;wid=
+th:62px;}#yiv7361959041 #yiv7361959041photos div label {color:#666666;font-=
+size:10px;overflow:hidden;text-align:center;white-space:nowrap;width:64px;}=
+#yiv7361959041 #yiv7361959041reco-category {font-size:77%;}#yiv7361959041 #=
+yiv7361959041reco-desc {font-size:77%;}#yiv7361959041 .yiv7361959041replbq =
+{margin:4px;}#yiv7361959041 #yiv7361959041ygrp-actbar div a:first-child {ma=
+rgin-right:2px;padding-right:5px;}#yiv7361959041 #yiv7361959041ygrp-mlmsg {=
+font-size:13px;font-family:Arial, helvetica, clean, sans-serif;}#yiv7361959=
+041 #yiv7361959041ygrp-mlmsg table {font-size:inherit;font:100%;}#yiv736195=
+9041 #yiv7361959041ygrp-mlmsg select, #yiv7361959041 input, #yiv7361959041 =
+textarea {font:99% Arial, Helvetica, clean, sans-serif;}#yiv7361959041 #yiv=
+7361959041ygrp-mlmsg pre, #yiv7361959041 code {font:115% monospace;}#yiv736=
+1959041 #yiv7361959041ygrp-mlmsg * {line-height:1.22em;}#yiv7361959041 #yiv=
+7361959041ygrp-mlmsg #yiv7361959041logo {padding-bottom:10px;}#yiv736195904=
+1 #yiv7361959041ygrp-msg p a {font-family:Verdana;}#yiv7361959041 #yiv73619=
+59041ygrp-msg p#yiv7361959041attach-count span {color:#1E66AE;font-weight:7=
+00;}#yiv7361959041 #yiv7361959041ygrp-reco #yiv7361959041reco-head {color:#=
+ff7900;font-weight:700;}#yiv7361959041 #yiv7361959041ygrp-reco {margin-bott=
+om:20px;padding:0px;}#yiv7361959041 #yiv7361959041ygrp-sponsor #yiv73619590=
+41ov li a {font-size:130%;text-decoration:none;}#yiv7361959041 #yiv73619590=
+41ygrp-sponsor #yiv7361959041ov li {font-size:77%;list-style-type:square;pa=
+dding:6px 0;}#yiv7361959041 #yiv7361959041ygrp-sponsor #yiv7361959041ov ul =
+{margin:0;padding:0 0 0 8px;}#yiv7361959041 #yiv7361959041ygrp-text {font-f=
+amily:Georgia;}#yiv7361959041 #yiv7361959041ygrp-text p {margin:0 0 1em 0;}=
+#yiv7361959041 #yiv7361959041ygrp-text tt {font-size:120%;}#yiv7361959041 #=
+yiv7361959041ygrp-vital ul li:last-child {border-right:none !important;}#yi=
+v7361959041 
+
+  
+------=_Part_2462222_344766888.1454275520116
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><head></head><body><div style=3D"color:#000; background-color:#fff; f=
+ont-family:HelveticaNeue, Helvetica Neue, Helvetica, Arial, Lucida Grande, =
+sans-serif;font-size:16px"><div id=3D"yui_3_16_0_1_1454275478961_2795"><spa=
+n id=3D"yui_3_16_0_1_1454275478961_2794">PVRji,</span></div><div id=3D"yui_=
+3_16_0_1_1454275478961_2796"><span><br></span></div><div id=3D"yui_3_16_0_1=
+_1454275478961_2798"><span id=3D"yui_3_16_0_1_1454275478961_2797">Thanks fo=
+r taking time to talk to me this morning. We already discussed several topi=
+cs over the phone. Kindly disregard this email.</span></div><div id=3D"yui_=
+3_16_0_1_1454275478961_2801"><span><br></span></div><div id=3D"yui_3_16_0_1=
+_1454275478961_2803"><span id=3D"yui_3_16_0_1_1454275478961_2802">Regards,<=
+/span></div><div id=3D"yui_3_16_0_1_1454275478961_2805"><span id=3D"yui_3_1=
+6_0_1_1454275478961_2804">Vasavi</span></div> <div class=3D"qtdSeparateBR">=
+<br><br></div><div class=3D"yahoo_quoted" style=3D"display: block;"> <div s=
+tyle=3D"font-family: HelveticaNeue, Helvetica Neue, Helvetica, Arial, Lucid=
+a Grande, sans-serif; font-size: 16px;"> <div style=3D"font-family: Helveti=
+caNeue, Helvetica Neue, Helvetica, Arial, Lucida Grande, sans-serif; font-s=
+ize: 16px;"> <div dir=3D"ltr"><font size=3D"2" face=3D"Arial"> On Sunday, J=
+anuary 31, 2016 1:00 AM, "vasavi vasavi_rani@... [vedic-wisdom]" <=
+vedic-wisdom@yahoogroups.com> wrote:<br></font></div>  <br><br> <div cla=
+ss=3D"y_msg_container"><div id=3D"yiv7361959041"><div>
+<span style=3D"displ=
+ay:none;"> </span>
+
+
+<div id=3D"yiv7361959041ygrp-mlmsg" style=3D"posi=
+tion:relative;">
+  <div id=3D"yiv7361959041ygrp-msg" style=3D"z-index:1;">
+=
+
+
+    <div id=3D"yiv7361959041ygrp-text">
+      
+      
+      <div></div><d=
+iv style=3D"color:#000;background-color:#fff;font-family:HelveticaNeue, Hel=
+vetica Neue, Helvetica, Arial, Lucida Grande, sans-serif;font-size:16px;"><=
+div id=3D"yiv7361959041yui_3_16_0_1_1454221664026_2540">Namaste PVR Ji.,</d=
+iv><div id=3D"yiv7361959041yui_3_16_0_1_1454221664026_2535"><br clear=3D"no=
+ne"></div><div id=3D"yiv7361959041yui_3_16_0_1_1454221664026_2539">I have f=
+ew questions pertaining to Homa procedure...Can you kindly advise on below =
+questions...i thank you for the same and appreciate your help..</div><div i=
+d=3D"yiv7361959041yui_3_16_0_1_1454221664026_2499"><br clear=3D"none"></div=
+><div id=3D"yiv7361959041yui_3_16_0_1_1454221664026_2500">While i have adde=
+d few sections myself to the homa manual such as bhootochhatana., guru wors=
+hip along with guru panchapooja and detailed kalasa pooja...my questions ar=
+e pertaining to offerings to</div><div id=3D"yiv7361959041yui_3_16_0_1_1454=
+221664026_2500"><br clear=3D"none"></div><div id=3D"yiv7361959041yui_3_16_0=
+_1_1454221664026_2500">1. Rakshasas: Usually in the beginnning of the homam=
+, after agni pratishthapana, we offer one burning stick to rakshasas on Sou=
+th-west side..this is not included in the manual? can i do this?if so, at w=
+hat step is it appropriate to include? (after or before chatvari...)...shou=
+ld the stick by slight burnt or half burn?</div><div id=3D"yiv7361959041yui=
+_3_16_0_1_1454221664026_2500"><br clear=3D"none"></div><div id=3D"yiv736195=
+9041yui_3_16_0_1_1454221664026_2500">2. Ashadikpalaka homam: In the given p=
+rocedure, we invite ashtadikpalakas but are not giving them any offerings i=
+n the fire after invitation. Usually this is carried out at the end after m=
+ain homam. Can i include this? </div><div id=3D"yiv7361959041yui_3_16_=
+0_1_1454221664026_2500"><br clear=3D"none"></div><div class=3D"yiv736195904=
+1class" dir=3D"ltr" id=3D"yiv7361959041yui_3_16_0_1_1454221664026_2500">3. =
+Aayudha homam: offerings to aayudhas </div><div class=3D"yiv7361959041=
+class" dir=3D"ltr" id=3D"yiv7361959041yui_3_16_0_1_1454221664026_2500"><br =
+clear=3D"none" class=3D"yiv7361959041class" id=3D"yiv7361959041yui_3_16_0_1=
+_1454221664026_2794"></div><div class=3D"yiv7361959041class" dir=3D"ltr" id=
+=3D"yiv7361959041yui_3_16_0_1_1454221664026_2500">4. Vahana homam: offering=
+s to various vahanas</div><div id=3D"yiv7361959041yui_3_16_0_1_145422166402=
+6_2500"><br clear=3D"none"></div><div id=3D"yiv7361959041yui_3_16_0_1_14542=
+21664026_2500">5. Navagrahas: same here...there is no mention of navagrahas=
+, i would like to include this step may be with 1 step sloka or moola mantr=
+a is this ok?</div><div id=3D"yiv7361959041yui_3_16_0_1_1454221664026_2500"=
+><br clear=3D"none"></div><div dir=3D"ltr" id=3D"yiv7361959041yui_3_16_0_1_=
+1454221664026_2500">         &=
+nbsp;  I am planning on including the above steps after main homa=
+m, punah pooja and before uttarangam? does that make sense? can i ? if yes,=
+ prior to uttarangam or the most app place to include?<br clear=3D"none"></=
+div><div id=3D"yiv7361959041yui_3_16_0_1_1454221664026_2500"><br clear=3D"n=
+one"></div><div dir=3D"ltr" id=3D"yiv7361959041yui_3_16_0_1_1454221664026_2=
+500">6. Prior to vasodhara and purnahuti, can i add a step of offering to G=
+anapathi chanting  moolamantra 8 times (for forgiveness for any mistak=
+es committed thus far in the process) (specific to ganapathi homam)</div><d=
+iv dir=3D"ltr" id=3D"yiv7361959041yui_3_16_0_1_1454221664026_2500"><br clea=
+r=3D"none"></div><div dir=3D"ltr" id=3D"yiv7361959041yui_3_16_0_1_145422166=
+4026_2500"> if i want to perform shodasopoachara, then i assume i comp=
+lete all 16 steps of worship prior to main homa? please correct me if i am =
+wrong. should i stop after pushpai offering...do main homa... then continue=
+ offering remaining steps such as dhoopam deepam etc or can i complete all =
+16 steps at once and then start main homam? the reason i am asking is....si=
+nce we offer managala arathi in 16 upacharas...and mangal aarathi is a conc=
+luding step...i wanted to know if it is ok to start main homam after mangal=
+a aarathi (esp following agni prathishthapana)?</div><div dir=3D"ltr" id=3D=
+"yiv7361959041yui_3_16_0_1_1454221664026_2500"><br clear=3D"none"></div><di=
+v dir=3D"ltr" id=3D"yiv7361959041yui_3_16_0_1_1454221664026_2500">7. Should=
+ it be ok for ladies to wear pavitram left hand?</div><div dir=3D"ltr" id=
+=3D"yiv7361959041yui_3_16_0_1_1454221664026_2500"><br clear=3D"none"></div>=
+<div dir=3D"ltr" id=3D"yiv7361959041yui_3_16_0_1_1454221664026_2500">Thanks=
+ much and i appreciate your help</div><div dir=3D"ltr" id=3D"yiv7361959041y=
+ui_3_16_0_1_1454221664026_2500"><br clear=3D"none"></div><div dir=3D"ltr" i=
+d=3D"yiv7361959041yui_3_16_0_1_1454221664026_2500"><br clear=3D"none"></div=
+><div dir=3D"ltr" id=3D"yiv7361959041yui_3_16_0_1_1454221664026_2500">Regar=
+ds,</div><div dir=3D"ltr" id=3D"yiv7361959041yui_3_16_0_1_1454221664026_250=
+0">Vasavi</div></div>
+
+    </div>
+     
+
+    
+    <div style=3D"color:#fff;=
+height:0;"></div></div>
+
+
+</div><style type=3D"text/css">
+#yiv7361959041 #y=
+iv7361959041 --
+  #yiv7361959041ygrp-mkp {
+border:1px solid #d8d8d8;font-fa=
+mily:Arial;margin:10px 0;padding:0 10px;}
+
+#yiv7361959041 #yiv7361959041ygr=
+p-mkp hr {
+border:1px solid #d8d8d8;}
+
+#yiv7361959041 #yiv7361959041ygrp-mk=
+p #yiv7361959041hd {
+color:#628c2a;font-size:85%;font-weight:700;line-heigh=
+t:122%;margin:10px 0;}
+
+#yiv7361959041 #yiv7361959041ygrp-mkp #yiv736195904=
+1ads {
+margin-bottom:10px;}
+
+#yiv7361959041 #yiv7361959041ygrp-mkp .yiv7361=
+959041ad {
+padding:0 0;}
+
+#yiv7361959041 #yiv7361959041ygrp-mkp .yiv7361959=
+041ad p {
+margin:0;}
+
+#yiv7361959041 #yiv7361959041ygrp-mkp .yiv7361959041a=
+d a {
+color:#0000ff;text-decoration:none;}
+#yiv7361959041 #yiv7361959041ygr=
+p-sponsor #yiv7361959041ygrp-lc {
+font-family:Arial;}
+
+#yiv7361959041 #yiv7=
+361959041ygrp-sponsor #yiv7361959041ygrp-lc #yiv7361959041hd {
+margin:10px =
+0px;font-weight:700;font-size:78%;line-height:122%;}
+
+#yiv7361959041 #yiv73=
+61959041ygrp-sponsor #yiv7361959041ygrp-lc .yiv7361959041ad {
+margin-bottom=
+:10px;padding:0 0;}
+
+#yiv7361959041 #yiv7361959041actions {
+font-family:Ver=
+dana;font-size:11px;padding:10px 0;}
+
+#yiv7361959041 #yiv7361959041activity=
+ {
+background-color:#e0ecee;float:left;font-family:Verdana;font-size:10px;p=
+adding:10px;}
+
+#yiv7361959041 #yiv7361959041activity span {
+font-weight:700=
+;}
+
+#yiv7361959041 #yiv7361959041activity span:first-child {
+text-transform=
+:uppercase;}
+
+#yiv7361959041 #yiv7361959041activity span a {
+color:#5085b6;=
+text-decoration:none;}
+
+#yiv7361959041 #yiv7361959041activity span span {
+c=
+olor:#ff7900;}
+
+#yiv7361959041 #yiv7361959041activity span .yiv7361959041un=
+derline {
+text-decoration:underline;}
+
+#yiv7361959041 .yiv7361959041attach =
+{
+clear:both;display:table;font-family:Arial;font-size:12px;padding:10px 0;=
+width:400px;}
+
+#yiv7361959041 .yiv7361959041attach div a {
+text-decoration:=
+none;}
+
+#yiv7361959041 .yiv7361959041attach img {
+border:none;padding-right=
+:5px;}
+
+#yiv7361959041 .yiv7361959041attach label {
+display:block;margin-bo=
+ttom:5px;}
+
+#yiv7361959041 .yiv7361959041attach label a {
+text-decoration:n=
+one;}
+
+#yiv7361959041 blockquote {
+margin:0 0 0 4px;}
+
+#yiv7361959041 .yiv7=
+361959041bold {
+font-family:Arial;font-size:13px;font-weight:700;}
+
+#yiv736=
+1959041 .yiv7361959041bold a {
+text-decoration:none;}
+
+#yiv7361959041 dd.yi=
+v7361959041last p a {
+font-family:Verdana;font-weight:700;}
+
+#yiv7361959041=
+ dd.yiv7361959041last p span {
+margin-right:10px;font-family:Verdana;font-w=
+eight:700;}
+
+#yiv7361959041 dd.yiv7361959041last p span.yiv7361959041yshort=
+cuts {
+margin-right:0;}
+
+#yiv7361959041 div.yiv7361959041attach-table div d=
+iv a {
+text-decoration:none;}
+
+#yiv7361959041 div.yiv7361959041attach-table=
+ {
+width:400px;}
+
+#yiv7361959041 div.yiv7361959041file-title a, #yiv7361959=
+041 div.yiv7361959041file-title a:active, #yiv7361959041 div.yiv7361959041f=
+ile-title a:hover, #yiv7361959041 div.yiv7361959041file-title a:visited {
+t=
+ext-decoration:none;}
+
+#yiv7361959041 div.yiv7361959041photo-title a, #yiv7=
+361959041 div.yiv7361959041photo-title a:active, #yiv7361959041 div.yiv7361=
+959041photo-title a:hover, #yiv7361959041 div.yiv7361959041photo-title a:vi=
+sited {
+text-decoration:none;}
+
+#yiv7361959041 div#yiv7361959041ygrp-mlmsg =
+#yiv7361959041ygrp-msg p a span.yiv7361959041yshortcuts {
+font-family:Verda=
+na;font-size:10px;font-weight:normal;}
+
+#yiv7361959041 .yiv7361959041green =
+{
+color:#628c2a;}
+
+#yiv7361959041 .yiv7361959041MsoNormal {
+margin:0 0 0 0;=
+}
+
+#yiv7361959041 o {
+font-size:0;}
+
+#yiv7361959041 #yiv7361959041photos di=
+v {
+float:left;width:72px;}
+
+#yiv7361959041 #yiv7361959041photos div div {
+=
+border:1px solid #666666;height:62px;overflow:hidden;width:62px;}
+
+#yiv7361=
+959041 #yiv7361959041photos div label {
+color:#666666;font-size:10px;overfl=
+ow:hidden;text-align:center;white-space:nowrap;width:64px;}
+
+#yiv7361959041=
+ #yiv7361959041reco-category {
+font-size:77%;}
+
+#yiv7361959041 #yiv73619590=
+41reco-desc {
+font-size:77%;}
+
+#yiv7361959041 .yiv7361959041replbq {
+margin=
+:4px;}
+
+#yiv7361959041 #yiv7361959041ygrp-actbar div a:first-child {
+margin=
+-right:2px;padding-right:5px;}
+
+#yiv7361959041 #yiv7361959041ygrp-mlmsg {
+f=
+ont-size:13px;font-family:Arial, helvetica, clean, sans-serif;}
+
+#yiv736195=
+9041 #yiv7361959041ygrp-mlmsg table {
+font-size:inherit;font:100%;}
+
+#yiv73=
+61959041 #yiv7361959041ygrp-mlmsg select, #yiv7361959041 input, #yiv7361959=
+041 textarea {
+font:99% Arial, Helvetica, clean, sans-serif;}
+
+#yiv73619590=
+41 #yiv7361959041ygrp-mlmsg pre, #yiv7361959041 code {
+font:115% monospace;=
+}
+
+#yiv7361959041 #yiv7361959041ygrp-mlmsg * {
+line-height:1.22em;}
+
+#yiv73=
+61959041 #yiv7361959041ygrp-mlmsg #yiv7361959041logo {
+padding-bottom:10px;=
+}
+
+
+#yiv7361959041 #yiv7361959041ygrp-msg p a {
+font-family:Verdana;}
+
+#yiv=
+7361959041 #yiv7361959041ygrp-msg p#yiv7361959041attach-count span {
+color:=
+#1E66AE;font-weight:700;}
+
+#yiv7361959041 #yiv7361959041ygrp-reco #yiv73619=
+59041reco-head {
+color:#ff7900;font-weight:700;}
+
+#yiv7361959041 #yiv736195=
+9041ygrp-reco {
+margin-bottom:20px;padding:0px;}
+
+#yiv7361959041 #yiv736195=
+9041ygrp-sponsor #yiv7361959041ov li a {
+font-size:130%;text-decoration:non=
+e;}
+
+#yiv7361959041 #yiv7361959041ygrp-sponsor #yiv7361959041ov li {
+font-s=
+ize:77%;list-style-type:square;padding:6px 0;}
+
+#yiv7361959041 #yiv73619590=
+41ygrp-sponsor #yiv7361959041ov ul {
+margin:0;padding:0 0 0 8px;}
+
+#yiv7361=
+959041 #yiv7361959041ygrp-text {
+font-family:Georgia;}
+
+#yiv7361959041 #yiv=
+7361959041ygrp-text p {
+margin:0 0 1em 0;}
+
+#yiv7361959041 #yiv7361959041yg=
+rp-text tt {
+font-size:120%;}
+
+#yiv7361959041 #yiv7361959041ygrp-vital ul l=
+i:last-child {
+border-right:none !important;
+}
+#yiv7361959041 
+</style></di=
+v><br><br></div>  </div> </div>  </div></div></body></html>
+------=_Part_2462222_344766888.1454275520116--
+
+

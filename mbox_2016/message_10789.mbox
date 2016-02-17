@@ -1,0 +1,679 @@
+From vasavi_rani@...  Wed Feb 17 11:07:50 2016
+Return-Path: <vasavi_rani@...>
+X-Sender: vasavi_rani@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 15505 invoked by uid 102); 11 Feb 2016 00:18:14 -0000
+X-Received: from unknown (HELO mtaq5.grp.bf1.yahoo.com) (10.193.84.36)
+  by m5.grp.bf1.yahoo.com with SMTP; 11 Feb 2016 00:18:14 -0000
+X-Received: (qmail 17283 invoked from network); 11 Feb 2016 00:18:14 -0000
+X-Received: from unknown (HELO mta1002.groups.mail.ne1.yahoo.com) (98.138.215.82)
+  by mtaq5.grp.bf1.yahoo.com with SMTP; 11 Feb 2016 00:18:14 -0000
+X-Original-Return-Path: <vasavi_rani@...>
+X-Received-SPF: pass (domain of yahoo.com designates 98.138.229.47 as permitted sender)
+X-YMailISG: YIHwNzYWLDsD6WnMHSz5PJg3nZeB1Ts23hlppzxVBDNkZmw6
+ 3A4nb5i3EJB3bm7MRQUqNPD5Pyx08L6NZiobbUc2.7gv3jW__yWTDV9HmVj4
+ 2w6V.ixv37EOtTm5hFSbLTIlpLWr4LeRLpZtNE4PyjBYZSBKn0IzMoy0i3mb
+ NV8MmHW14GvvaxYPsex4QRdsH8feJRG0DaJ2sTRzxOHDEI7a79HCpZOajIea
+ XdC8Gjb5uVEx17d7thOYSp0GaqAJJsluFopNE7rFvGAx9EfWABev4gTKebqm
+ PM1shlD83aiyqahxZuvqSkAOEr4PAL0eK.a4B6Xr21e1DgPV3Ow2b2daLdD5
+ M5AS6HxeMFWw0jE3TiENYOCRbaBLl4uzY0OgKu57WZdJiSoq8QBVxrT2mW1y
+ XdKfLzj4vzoU_nB28rrc5V9R15HmUgn3_IjDRwy2HbO4myTjQk_9sriu5JE7
+ 13LBuaEVCypeibFVx5jso2eFhnpvqTaymcIlUVv33ctNO5zP0H0cE4orbb.4
+ UdMGBjmu7yf2zoV6JkK4n1sVvfXTgPGip1r9J6kHg2kcKx1w5wiUfCscMqAr
+ ZP49A2lnOmgnQL0apu9i_zApV737M6d_ChOKNSjjGiby22xdJIrCtkk1d0ST
+ Rfl4pPug4M9vVvFpGJYYEc2.BwIKU_jerN4zdFZlQXa0XeBo5C4gegUATlfJ
+ zjK3DcXiXTAtJaVLJzO15JJnoL6mk_22zE9pte_OZoHAql5bYSFQrCZUF7U7
+ s9VetmuSvwFs1WTq7t6pf3I45WyCw9ff3jtzZgSwJPjc9FGYVW_SStwMfyJa
+ PYkfnN0XTf_6Y2USF_dE8RlBoiZyyof_YPX6ywNOMIHprXEJ_pcDcnz.1Dbn
+ H850qoRX.s5Az1miFhKFYnYDt8NUZSx7uQBWA_jZAlo0I6Tc_wXAUiwRbGaO
+ PIId3usNmfjlv8zMhSQdmv_ktsb5VV142AD2LYHMxfm_gJ8rmlCY_veVxiya
+ fJR6guhOUWeCcxRqTkrSABAodNnlgUoMfbGsm4u94zfwWMDLhOeycVznRu1n
+ lTRT3kRCwJPxChYd9jY3f97TxxGyifPIvGQ5TT4GZzCxTMUFTqoyIT20Tpvh
+ a5MSQtYpGrHUpvnx0oSylT5BxfbpVRTUgt8DEVJ.SeF70Jd3EMwIjnJxQKq6
+ PTe6sq4dVfzlUrjCphyGyLbAPWF3msmWP9EeHbrM2r2k31F5Pxgisd2_h7aE
+ rL9.tbQABwiSzbffJm9ezxLZZsUVEBE5jOWqpsHFOvg5o0c3dR2qT0OZMWE_
+ B6sj0_gQ519lianiT4G3GdosBzn_w1ujOLybEjT_Q.8p1DARxj61_tMWXJfz
+ B0jVpb1nsO2uAXC7TQ--
+Authentication-Results: mta1002.groups.mail.ne1.yahoo.com  from=yahoo.com; domainkeys=neutral (no sig);  from=yahoo.com; dkim=pass (ok)
+X-Received: from 127.0.0.1  (EHLO nm31-vm7.bullet.mail.ne1.yahoo.com) (98.138.229.47)
+  by mta1002.groups.mail.ne1.yahoo.com with SMTPS; Thu, 11 Feb 2016 00:18:13 +0000
+X-Received: from [127.0.0.1] by nm31.bullet.mail.ne1.yahoo.com with NNFMP; 11 Feb 2016 00:18:13 -0000
+X-Received: from [98.138.101.130] by nm31.bullet.mail.ne1.yahoo.com with NNFMP; 11 Feb 2016 00:15:13 -0000
+X-Received: from [98.138.87.4] by tm18.bullet.mail.ne1.yahoo.com with NNFMP; 11 Feb 2016 00:15:12 -0000
+X-Received: from [127.0.0.1] by omp1004.mail.ne1.yahoo.com with NNFMP; 11 Feb 2016 00:15:12 -0000
+X-Yahoo-Newman-Property: ymail-4
+X-Yahoo-Newman-Id: 971028.75012.bm@...
+X-YMail-OSG: TC4Tld0VRDvC9LTZin3_5qu1mE2h8VYGiZ1nxGGBmjTZsi4.
+X-Received: by 98.138.105.198; Thu, 11 Feb 2016 00:15:12 +0000 
+Date: Thu, 11 Feb 2016 00:15:12 +0000 (UTC)
+To: "vedic-wisdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com>
+Message-ID: <1343976818.1897018.1455149712045.JavaMail.yahoo@...>
+In-Reply-To: <n9gfj5+1bv3mbm@...>
+References: <n9gfj5+1bv3mbm@...>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_1897017_223378940.1455149712033"
+Content-Length: 35624
+X-Originating-IP: 98.138.215.82
+Reply-To: vasavi <vasavi_rani@...>
+Subject: Re: [vedic-wisdom] Brahmacharya
+X-Yahoo-Group-Post: member; u=386413323; y=x20vv5lODURMIJhVkJDSlNtKMr7PRzPi2pC2JL9zmg2gQ1e1Ppw
+X-Yahoo-Profile: vasavi_rani
+From: vasavi <vasavi_rani@...>
+
+
+------=_Part_1897017_223378940.1455149712033
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Namaste,
+I will clear few misinterpretations and will close it here. I am n=
+ot trying to convince you nor should you agree with what i am saying. Now c=
+iting your quote:=C2=A0 =C2=A0=C2=A0 =C2=A0 <<<<Puloma>>>I really do not be=
+lieve the whole purpose of a woman's life is to give offspring, unless a wo=
+man feels so about herself. It is, after all, about sex and kids that we ar=
+e talking here, so I will side with the feminists on this thing.
+
+Vasavi - =
+I think you got me completely wrong here. While the purpose of woman life i=
+s nurturing the human race with the help of a male counterpart, do not tie =
+it to some mere sex. Here the goal and objective is to give birth and becom=
+e a mother through "union" with spouse and not tied to a pleasure but for a=
+ dharmic purpose. Any union with a goal to give birth in a dharmic way is N=
+OT a sin or can be just rubbed off by saying mere sex or kids. If you speak=
+ about svadharma, then becoming a mother is her dharma...as a matter of fac=
+t more than becoming a sanyasin...
+<<<<Puloma>>> And if we let hormones rul=
+e us (not that they won't be there), is that a good sign on any spiritual p=
+ath? Isn't any path all about bringing senses, mind et al under control?
+
+V=
+asavi:=C2=A0i don't consider it as letting hormones rule us. It is letting =
+our body do its course of action. That is sareera dharma too.....You can al=
+ways have your body and mind in control with meditation and spirituality wi=
+thout sacrificing any thing in life.=C2=A0
+My understanding is that the way=
+ you are interpreting and understanding the concept of union and brahmachar=
+ya and the idea of perceiving union as impure and sin is not correct. You n=
+eed to get that right. As long as union is dharmic with a purpose of offspr=
+ing its not sin.=C2=A0
+Let me tell you another thing, when you have a taken=
+ a oath to be a celibate, even a minor distraction or mental deviation from=
+ that is considered a greatest sin, leave the major part and liberation. We=
+ have seen how people miserably failed in that aspect and defamed themselve=
+s. Control is not easy, it comes with severe penance, practice and age. If =
+mind and body are not fully "matured" and spiritually grown, they will alwa=
+ys make you drive more towards the path that you don't want to get into...=
+=C2=A0
+RK was married and a liberated soul., Lahiri mahasaya was married an=
+d a liberated soul...There are several other souls who are married, with ki=
+ds and liberated.....
+Hari om... 
+
+    On Wednesday, February 10, 2016 5:03=
+ PM, "puloma_dasgupta@... [vedic-wisdom]" <vedic-wisdom@yahoogroups.c=
+om> wrote:
+ 
+
+ =C2=A0   Namaste Vasavi ji!
+
+Thank you for your response! It=
+ was very heartfelt. 
+
+I will have to look that up about testosterone. Than=
+ks for telling me. Don't quite know the details.
+
+I do not plan to marry or=
+ have children. This is well understood by my parents who are supportive an=
+d know my inclinations. I have a normal menstrual cycle but still do not fe=
+el *much need* for a relationship or sex. I have zero wish for experiencing=
+ maternity. I guess the initial attempts of all those desiring brahmacharya=
+, male or female, have failed. And if we let hormones rule us (not that the=
+y won't be there), is that a good sign on any spiritual path? Isn't any pat=
+h all about bringing senses, mind et al under control?
+
+Though people's opi=
+nions on this will differ, I don't feel from within, yet, that it is my dha=
+rma to bear kids. Also, on a side note, I really do not believe the whole p=
+urpose of a woman's life is to give offspring, unless a woman feels so abou=
+t herself. It is, after all, about sex and kids that we are talking here, s=
+o I will side with the feminists on this thing. I think all dharma is svadh=
+arma, as I have heard some sadhakas and others agree too. If I did feel it =
+was natural to me, I would not have forced myself.
+
+My interest in this ari=
+ses from a need to advance spiritually as much as possible and cut off all =
+that is unnecessary. The goal is liberation, of course, and I can't afford =
+to dilly-dally. I am just a beginner, so it will already take many more bir=
+ths, I suppose.... I would like to do the most I can in this life. 
+
+Of cou=
+rse, I do believe there is nothing at all impure per se about having and re=
+aring kids. However, with that level of involvement in family life and resp=
+onsibility, I personally wouldn't be able to focus on 'looking within' as m=
+uch as I want to. I am presently doing very less if you count the time take=
+n on practices per day, but my efforts are gradually taking more of my time=
+ (two years back I could hardly sit for two minutes!), and I wouldn't mind =
+spending most of my day on this. Also, I would make a pretty bad family per=
+son, being as introverted and unsocial as I am! :)
+
+About the path. I have =
+bhakthi for Ma, but I have not abandoned jnana. The main practice I do is a=
+ self-awareness meditation, apart from japa and reciting texts.
+
+Lastly, th=
+ere is a guru I know who I look to for guidance, who I trust the most, thou=
+gh I am not initiated by her. At least not yet. She is not always available=
+ and does not like being spoken about so I will refrain from divulging deta=
+ils about her. I think she would not suggest that I marry unless I really w=
+anted to.
+
+Thank you again for your inputs Vasavi ji! I may not agree but i=
+t was very kind of you to give some woman-to-woman advice.  #yiv0123375908 =
+#yiv0123375908 -- #yiv0123375908ygrp-mkp {border:1px solid #d8d8d8;font-fam=
+ily:Arial;margin:10px 0;padding:0 10px;}#yiv0123375908 #yiv0123375908ygrp-m=
+kp hr {border:1px solid #d8d8d8;}#yiv0123375908 #yiv0123375908ygrp-mkp #yiv=
+0123375908hd {color:#628c2a;font-size:85%;font-weight:700;line-height:122%;=
+margin:10px 0;}#yiv0123375908 #yiv0123375908ygrp-mkp #yiv0123375908ads {mar=
+gin-bottom:10px;}#yiv0123375908 #yiv0123375908ygrp-mkp .yiv0123375908ad {pa=
+dding:0 0;}#yiv0123375908 #yiv0123375908ygrp-mkp .yiv0123375908ad p {margin=
+:0;}#yiv0123375908 #yiv0123375908ygrp-mkp .yiv0123375908ad a {color:#0000ff=
+;text-decoration:none;}#yiv0123375908 #yiv0123375908ygrp-sponsor #yiv012337=
+5908ygrp-lc {font-family:Arial;}#yiv0123375908 #yiv0123375908ygrp-sponsor #=
+yiv0123375908ygrp-lc #yiv0123375908hd {margin:10px 0px;font-weight:700;font=
+-size:78%;line-height:122%;}#yiv0123375908 #yiv0123375908ygrp-sponsor #yiv0=
+123375908ygrp-lc .yiv0123375908ad {margin-bottom:10px;padding:0 0;}#yiv0123=
+375908 #yiv0123375908actions {font-family:Verdana;font-size:11px;padding:10=
+px 0;}#yiv0123375908 #yiv0123375908activity {background-color:#e0ecee;float=
+:left;font-family:Verdana;font-size:10px;padding:10px;}#yiv0123375908 #yiv0=
+123375908activity span {font-weight:700;}#yiv0123375908 #yiv0123375908activ=
+ity span:first-child {text-transform:uppercase;}#yiv0123375908 #yiv01233759=
+08activity span a {color:#5085b6;text-decoration:none;}#yiv0123375908 #yiv0=
+123375908activity span span {color:#ff7900;}#yiv0123375908 #yiv0123375908ac=
+tivity span .yiv0123375908underline {text-decoration:underline;}#yiv0123375=
+908 .yiv0123375908attach {clear:both;display:table;font-family:Arial;font-s=
+ize:12px;padding:10px 0;width:400px;}#yiv0123375908 .yiv0123375908attach di=
+v a {text-decoration:none;}#yiv0123375908 .yiv0123375908attach img {border:=
+none;padding-right:5px;}#yiv0123375908 .yiv0123375908attach label {display:=
+block;margin-bottom:5px;}#yiv0123375908 .yiv0123375908attach label a {text-=
+decoration:none;}#yiv0123375908 blockquote {margin:0 0 0 4px;}#yiv012337590=
+8 .yiv0123375908bold {font-family:Arial;font-size:13px;font-weight:700;}#yi=
+v0123375908 .yiv0123375908bold a {text-decoration:none;}#yiv0123375908 dd.y=
+iv0123375908last p a {font-family:Verdana;font-weight:700;}#yiv0123375908 d=
+d.yiv0123375908last p span {margin-right:10px;font-family:Verdana;font-weig=
+ht:700;}#yiv0123375908 dd.yiv0123375908last p span.yiv0123375908yshortcuts =
+{margin-right:0;}#yiv0123375908 div.yiv0123375908attach-table div div a {te=
+xt-decoration:none;}#yiv0123375908 div.yiv0123375908attach-table {width:400=
+px;}#yiv0123375908 div.yiv0123375908file-title a, #yiv0123375908 div.yiv012=
+3375908file-title a:active, #yiv0123375908 div.yiv0123375908file-title a:ho=
+ver, #yiv0123375908 div.yiv0123375908file-title a:visited {text-decoration:=
+none;}#yiv0123375908 div.yiv0123375908photo-title a, #yiv0123375908 div.yiv=
+0123375908photo-title a:active, #yiv0123375908 div.yiv0123375908photo-title=
+ a:hover, #yiv0123375908 div.yiv0123375908photo-title a:visited {text-decor=
+ation:none;}#yiv0123375908 div#yiv0123375908ygrp-mlmsg #yiv0123375908ygrp-m=
+sg p a span.yiv0123375908yshortcuts {font-family:Verdana;font-size:10px;fon=
+t-weight:normal;}#yiv0123375908 .yiv0123375908green {color:#628c2a;}#yiv012=
+3375908 .yiv0123375908MsoNormal {margin:0 0 0 0;}#yiv0123375908 o {font-siz=
+e:0;}#yiv0123375908 #yiv0123375908photos div {float:left;width:72px;}#yiv01=
+23375908 #yiv0123375908photos div div {border:1px solid #666666;height:62px=
+;overflow:hidden;width:62px;}#yiv0123375908 #yiv0123375908photos div label =
+{color:#666666;font-size:10px;overflow:hidden;text-align:center;white-space=
+:nowrap;width:64px;}#yiv0123375908 #yiv0123375908reco-category {font-size:7=
+7%;}#yiv0123375908 #yiv0123375908reco-desc {font-size:77%;}#yiv0123375908 .=
+yiv0123375908replbq {margin:4px;}#yiv0123375908 #yiv0123375908ygrp-actbar d=
+iv a:first-child {margin-right:2px;padding-right:5px;}#yiv0123375908 #yiv01=
+23375908ygrp-mlmsg {font-size:13px;font-family:Arial, helvetica, clean, san=
+s-serif;}#yiv0123375908 #yiv0123375908ygrp-mlmsg table {font-size:inherit;f=
+ont:100%;}#yiv0123375908 #yiv0123375908ygrp-mlmsg select, #yiv0123375908 in=
+put, #yiv0123375908 textarea {font:99% Arial, Helvetica, clean, sans-serif;=
+}#yiv0123375908 #yiv0123375908ygrp-mlmsg pre, #yiv0123375908 code {font:115=
+% monospace;}#yiv0123375908 #yiv0123375908ygrp-mlmsg * {line-height:1.22em;=
+}#yiv0123375908 #yiv0123375908ygrp-mlmsg #yiv0123375908logo {padding-bottom=
+:10px;}#yiv0123375908 #yiv0123375908ygrp-msg p a {font-family:Verdana;}#yiv=
+0123375908 #yiv0123375908ygrp-msg p#yiv0123375908attach-count span {color:#=
+1E66AE;font-weight:700;}#yiv0123375908 #yiv0123375908ygrp-reco #yiv01233759=
+08reco-head {color:#ff7900;font-weight:700;}#yiv0123375908 #yiv0123375908yg=
+rp-reco {margin-bottom:20px;padding:0px;}#yiv0123375908 #yiv0123375908ygrp-=
+sponsor #yiv0123375908ov li a {font-size:130%;text-decoration:none;}#yiv012=
+3375908 #yiv0123375908ygrp-sponsor #yiv0123375908ov li {font-size:77%;list-=
+style-type:square;padding:6px 0;}#yiv0123375908 #yiv0123375908ygrp-sponsor =
+#yiv0123375908ov ul {margin:0;padding:0 0 0 8px;}#yiv0123375908 #yiv0123375=
+908ygrp-text {font-family:Georgia;}#yiv0123375908 #yiv0123375908ygrp-text p=
+ {margin:0 0 1em 0;}#yiv0123375908 #yiv0123375908ygrp-text tt {font-size:12=
+0%;}#yiv0123375908 #yiv0123375908ygrp-vital ul li:last-child {border-right:=
+none !important;}#yiv0123375908 
+
+  
+------=_Part_1897017_223378940.1455149712033
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><head></head><body><div style=3D"color:#000; background-color:#fff; f=
+ont-family:HelveticaNeue, Helvetica Neue, Helvetica, Arial, Lucida Grande, =
+sans-serif;font-size:16px"><div dir=3D"ltr" id=3D"yui_3_16_0_1_145514831393=
+6_2826"><span>Namaste,</span></div><div dir=3D"ltr" id=3D"yui_3_16_0_1_1455=
+148313936_2826"><span><br></span></div><div dir=3D"ltr" id=3D"yui_3_16_0_1_=
+1455148313936_2826"><span id=3D"yui_3_16_0_1_1455148313936_2825">I will cle=
+ar few misinterpretations and will close it here. I am not trying to convin=
+ce you nor should you agree with what i am saying. Now citing your quote:</=
+span></div><div dir=3D"ltr" id=3D"yui_3_16_0_1_1455148313936_2826"><span id=
+=3D"yui_3_16_0_1_1455148313936_2882" class=3D"">   </span></div><=
+div dir=3D"ltr" id=3D"yui_3_16_0_1_1455148313936_2826"><span style=3D"font-=
+family: Georgia; font-size: 13px; line-height: 15.86px;" id=3D"yui_3_16_0_1=
+_1455148313936_2884" class=3D""><i id=3D"yui_3_16_0_1_1455148313936_2899">&=
+nbsp;   <<<<Puloma>>>I really do not believe the =
+whole purpose of a woman's life is to give offspring, unless a woman feels =
+so about herself. It is, after all, about sex and kids that we are talking =
+here, so I will side with the feminists on this thing.</i></span><span><br>=
+</span></div><div dir=3D"ltr" id=3D"yui_3_16_0_1_1455148313936_2826"><span =
+style=3D"font-family: Georgia; font-size: 13px; line-height: 15.86px;" clas=
+s=3D""><i><br></i></span></div><div dir=3D"ltr" id=3D"yui_3_16_0_1_14551483=
+13936_2826"><span style=3D"font-family: Georgia; font-size: 13px; line-heig=
+ht: 15.86px;" class=3D"" id=3D"yui_3_16_0_1_1455148313936_3026"><span id=3D=
+"yui_3_16_0_1_1455148313936_3025">Vasavi - I think you got me completely wr=
+ong here. While the purpose of woman life is nurturing the human race with =
+the help of a male counterpart, do not tie it to some mere sex. Here the go=
+al and objective is to give birth and become a mother through "union" with =
+spouse and not tied to a pleasure but for a dharmic purpose. Any union with=
+ a goal to give birth in a dharmic way is NOT a sin or can be just rubbed o=
+ff by saying mere sex or kids. If you speak about svadharma, then becoming =
+a mother is her dharma...as a matter of fact more than becoming a sanyasin.=
+..</span></span></div><div dir=3D"ltr" id=3D"yui_3_16_0_1_1455148313936_282=
+6"><span style=3D"font-family: Georgia; font-size: 13px; line-height: 15.86=
+px;" class=3D""><span><br></span></span></div><div dir=3D"ltr" id=3D"yui_3_=
+16_0_1_1455148313936_2826"><span style=3D"font-family: Georgia; font-size: =
+13px; line-height: 15.86px;" class=3D"" id=3D"yui_3_16_0_1_1455148313936_33=
+85"><span style=3D"line-height: 15.86px;" id=3D"yui_3_16_0_1_1455148313936_=
+3382" class=3D""><i id=3D"yui_3_16_0_1_1455148313936_3412"><<<<=
+Puloma>>> And if we let hormones rule us (not that they won't be t=
+here), is that a good sign on any spiritual path? Isn't any path all about =
+bringing senses, mind et al under control?</i></span><br clear=3D"none" sty=
+le=3D"line-height: 15.86px;" id=3D"yui_3_16_0_1_1455148313936_3384" class=
+=3D""></span></div><div dir=3D"ltr" id=3D"yui_3_16_0_1_1455148313936_2826">=
+<span style=3D"font-family: Georgia; font-size: 13px; line-height: 15.86px;=
+" class=3D""><span style=3D"line-height: 15.86px;" class=3D""><i><br></i></=
+span></span></div><div dir=3D"ltr" id=3D"yui_3_16_0_1_1455148313936_2826"><=
+span style=3D"font-family: Georgia; font-size: 13px; line-height: 15.86px;"=
+ class=3D"" id=3D"yui_3_16_0_1_1455148313936_3450"><span style=3D"line-heig=
+ht: 15.86px;" class=3D"" id=3D"yui_3_16_0_1_1455148313936_3449"><span id=3D=
+"yui_3_16_0_1_1455148313936_3448">Vasavi:</span><i id=3D"yui_3_16_0_1_14551=
+48313936_3528"> </i>i don't consider it as letting hormones rule us. I=
+t is letting our body do its course of action. That is sareera dharma too..=
+...You can always have your body and mind in control with meditation and sp=
+irituality without sacrificing any thing in life. </span></span></div>=
+<div dir=3D"ltr" id=3D"yui_3_16_0_1_1455148313936_2826"><span style=3D"font=
+-family: Georgia; font-size: 13px; line-height: 15.86px;" class=3D""><span =
+style=3D"line-height: 15.86px;" class=3D""><br></span></span></div><div dir=
+=3D"ltr" id=3D"yui_3_16_0_1_1455148313936_2826"><span style=3D"font-family:=
+ Georgia; font-size: 13px; line-height: 15.86px;" class=3D"" id=3D"yui_3_16=
+_0_1_1455148313936_3692"><span style=3D"line-height: 15.86px;" class=3D"" i=
+d=3D"yui_3_16_0_1_1455148313936_3691">My understanding is that the way you =
+are interpreting and understanding the concept of union and brahmacharya an=
+d the idea of perceiving union as impure and sin is not correct. You need t=
+o get that right. As long as union is dharmic with a purpose of offspring i=
+ts not sin. </span></span></div><div dir=3D"ltr" id=3D"yui_3_16_0_1_14=
+55148313936_2826"><span style=3D"font-family: Georgia; font-size: 13px; lin=
+e-height: 15.86px;" class=3D""><span style=3D"line-height: 15.86px;" class=
+=3D""><br></span></span></div><div dir=3D"ltr" id=3D"yui_3_16_0_1_145514831=
+3936_2826"><span style=3D"font-family: Georgia; font-size: 13px; line-heigh=
+t: 15.86px;" class=3D"" id=3D"yui_3_16_0_1_1455148313936_3904"><span style=
+=3D"line-height: 15.86px;" class=3D"" id=3D"yui_3_16_0_1_1455148313936_3903=
+">Let me tell you another thing, when you have a taken a oath to be a celib=
+ate, even a minor distraction or mental deviation from that is considered a=
+ greatest sin, leave the major part and liberation. We have seen how people=
+ miserably failed in that aspect and defamed themselves. Control is not eas=
+y, it comes with severe penance, practice and age. If mind and body are not=
+ fully "matured" and spiritually grown, they will always make you drive mor=
+e towards the path that you don't want to get into... </span></span></=
+div><div dir=3D"ltr" id=3D"yui_3_16_0_1_1455148313936_2826"><span style=3D"=
+font-family: Georgia; font-size: 13px; line-height: 15.86px;" class=3D""><s=
+pan style=3D"line-height: 15.86px;" class=3D""><br></span></span></div><div=
+ dir=3D"ltr" id=3D"yui_3_16_0_1_1455148313936_2826"><span style=3D"font-fam=
+ily: Georgia; font-size: 13px; line-height: 15.86px;" class=3D"" id=3D"yui_=
+3_16_0_1_1455148313936_4115"><span style=3D"line-height: 15.86px;" class=3D=
+"" id=3D"yui_3_16_0_1_1455148313936_4114">RK was married and a liberated so=
+ul., Lahiri mahasaya was married and a liberated soul...There are several o=
+ther souls who are married, with kids and liberated.....</span></span></div=
+><div dir=3D"ltr" id=3D"yui_3_16_0_1_1455148313936_2826"><span style=3D"fon=
+t-family: Georgia; font-size: 13px; line-height: 15.86px;" class=3D""><span=
+ style=3D"line-height: 15.86px;" class=3D""><br></span></span></div><div di=
+r=3D"ltr" id=3D"yui_3_16_0_1_1455148313936_2826"><span style=3D"font-family=
+: Georgia; font-size: 13px; line-height: 15.86px;" class=3D""><span style=
+=3D"line-height: 15.86px;" class=3D"">Hari om...</span></span></div> <div c=
+lass=3D"qtdSeparateBR"><br><br></div><div class=3D"yahoo_quoted" style=3D"d=
+isplay: block;"> <div style=3D"font-family: HelveticaNeue, Helvetica Neue, =
+Helvetica, Arial, Lucida Grande, sans-serif; font-size: 16px;"> <div style=
+=3D"font-family: HelveticaNeue, Helvetica Neue, Helvetica, Arial, Lucida Gr=
+ande, sans-serif; font-size: 16px;"> <div dir=3D"ltr"><font size=3D"2" face=
+=3D"Arial"> On Wednesday, February 10, 2016 5:03 PM, "puloma_dasgupta@yahoo=
+.com [vedic-wisdom]" <vedic-wisdom@yahoogroups.com> wrote:<br></font>=
+</div>  <br><br> <div class=3D"y_msg_container"><div id=3D"yiv0123375908"><=
+div>
+<span style=3D"display:none;"> </span>
+
+
+<div id=3D"yiv0123375908=
+ygrp-mlmsg" style=3D"position:relative;">
+  <div id=3D"yiv0123375908ygrp-ms=
+g" style=3D"z-index:1;">
+
+
+    <div id=3D"yiv0123375908ygrp-text">
+      
+ =
+     
+      <div>Namaste Vasavi ji!<br clear=3D"none"><br clear=3D"none">Th=
+ank you for your response! It was very heartfelt. <br clear=3D"none"><br cl=
+ear=3D"none">I will have to look that up about testosterone. Thanks for tel=
+ling me. Don't quite know the details.<br clear=3D"none"><br clear=3D"none"=
+>I do not plan to marry or have children. This is well understood by my par=
+ents who are supportive and know my inclinations. I have a normal menstrual=
+ cycle but still do not feel *much need* for a relationship or sex. I have =
+zero wish for experiencing maternity. I guess the initial attempts of all t=
+hose desiring brahmacharya, male or female, have failed. And if we let horm=
+ones rule us (not that they won't be there), is that a good sign on any spi=
+ritual path? Isn't any path all about bringing senses, mind et al under con=
+trol?<br clear=3D"none"><br clear=3D"none">Though people's opinions on this=
+ will differ, I don't feel from within, yet, that it is my dharma to bear k=
+ids. Also, on a side note, I really do not believe the whole purpose of a 
+=
+woman's life is to give offspring, unless a woman feels so about herself. I=
+t is, after all, about sex and kids 
+that we are talking here, so I will si=
+de with the feminists on this thing. I think all dharma is svadharma, as I =
+have heard some sadhakas and others agree too. If I did feel it was natural=
+ to me, I would not have forced myself.<br clear=3D"none"><br clear=3D"none=
+">My interest in this arises from a need to advance spiritually as much as =
+possible and cut off all that is unnecessary. The goal is liberation, of co=
+urse, and I can't afford to dilly-dally. I am just a beginner, so it will a=
+lready take many more births, I suppose.... I would like to do the most I c=
+an in this life. <br clear=3D"none"><br clear=3D"none">Of course, I do beli=
+eve there is nothing at all impure per se about having and rearing kids. Ho=
+wever, with that level of involvement in family life and responsibility, I =
+personally wouldn't be able to focus on 'looking within' as much as I want =
+to. I am presently doing very less if you count the time taken on practices=
+ per day, but my efforts are gradually taking more of my time (two years ba=
+ck I could hardly sit for two minutes!), and I wouldn't mind spending most =
+of my day on this. Also, I would make a pretty bad family person, being as =
+introverted and unsocial as I am! :)<br clear=3D"none"><br clear=3D"none">A=
+bout the path. I have bhakthi for Ma, but I have not abandoned jnana. The m=
+ain practice I do is a self-awareness meditation, apart from japa and recit=
+ing texts.<br clear=3D"none"><br clear=3D"none">Lastly, there is a guru I k=
+now who I look to for guidance, who I trust the most, though I am not initi=
+ated by her. At least not yet. She is not always available and does not lik=
+e being spoken about so I will refrain from divulging details about her. I =
+think she would not suggest that I marry unless I really wanted to.<br clea=
+r=3D"none"><br clear=3D"none">Thank you again for your inputs Vasavi ji! I =
+may not agree but it was very kind of you to give some woman-to-woman advic=
+e.</div>
+
+    </div>
+     
+
+    
+    <div style=3D"color:#fff;height:0;"></=
+div></div>
+
+
+</div><style type=3D"text/css">
+#yiv0123375908 #yiv0123375908 =
+--
+  #yiv0123375908ygrp-mkp {
+border:1px solid #d8d8d8;font-family:Arial;ma=
+rgin:10px 0;padding:0 10px;}
+
+#yiv0123375908 #yiv0123375908ygrp-mkp hr {
+bo=
+rder:1px solid #d8d8d8;}
+
+#yiv0123375908 #yiv0123375908ygrp-mkp #yiv0123375=
+908hd {
+color:#628c2a;font-size:85%;font-weight:700;line-height:122%;margin=
+:10px 0;}
+
+#yiv0123375908 #yiv0123375908ygrp-mkp #yiv0123375908ads {
+margin=
+-bottom:10px;}
+
+#yiv0123375908 #yiv0123375908ygrp-mkp .yiv0123375908ad {
+pa=
+dding:0 0;}
+
+#yiv0123375908 #yiv0123375908ygrp-mkp .yiv0123375908ad p {
+mar=
+gin:0;}
+
+#yiv0123375908 #yiv0123375908ygrp-mkp .yiv0123375908ad a {
+color:#=
+0000ff;text-decoration:none;}
+#yiv0123375908 #yiv0123375908ygrp-sponsor #yi=
+v0123375908ygrp-lc {
+font-family:Arial;}
+
+#yiv0123375908 #yiv0123375908ygrp=
+-sponsor #yiv0123375908ygrp-lc #yiv0123375908hd {
+margin:10px 0px;font-weig=
+ht:700;font-size:78%;line-height:122%;}
+
+#yiv0123375908 #yiv0123375908ygrp-=
+sponsor #yiv0123375908ygrp-lc .yiv0123375908ad {
+margin-bottom:10px;padding=
+:0 0;}
+
+#yiv0123375908 #yiv0123375908actions {
+font-family:Verdana;font-siz=
+e:11px;padding:10px 0;}
+
+#yiv0123375908 #yiv0123375908activity {
+background=
+-color:#e0ecee;float:left;font-family:Verdana;font-size:10px;padding:10px;}=
+
+
+#yiv0123375908 #yiv0123375908activity span {
+font-weight:700;}
+
+#yiv01233=
+75908 #yiv0123375908activity span:first-child {
+text-transform:uppercase;}
+=
+
+#yiv0123375908 #yiv0123375908activity span a {
+color:#5085b6;text-decorati=
+on:none;}
+
+#yiv0123375908 #yiv0123375908activity span span {
+color:#ff7900;=
+}
+
+#yiv0123375908 #yiv0123375908activity span .yiv0123375908underline {
+tex=
+t-decoration:underline;}
+
+#yiv0123375908 .yiv0123375908attach {
+clear:both;=
+display:table;font-family:Arial;font-size:12px;padding:10px 0;width:400px;}=
+
+
+#yiv0123375908 .yiv0123375908attach div a {
+text-decoration:none;}
+
+#yiv0=
+123375908 .yiv0123375908attach img {
+border:none;padding-right:5px;}
+
+#yiv0=
+123375908 .yiv0123375908attach label {
+display:block;margin-bottom:5px;}
+
+#=
+yiv0123375908 .yiv0123375908attach label a {
+text-decoration:none;}
+
+#yiv01=
+23375908 blockquote {
+margin:0 0 0 4px;}
+
+#yiv0123375908 .yiv0123375908bold=
+ {
+font-family:Arial;font-size:13px;font-weight:700;}
+
+#yiv0123375908 .yiv0=
+123375908bold a {
+text-decoration:none;}
+
+#yiv0123375908 dd.yiv0123375908la=
+st p a {
+font-family:Verdana;font-weight:700;}
+
+#yiv0123375908 dd.yiv012337=
+5908last p span {
+margin-right:10px;font-family:Verdana;font-weight:700;}
+
+=
+#yiv0123375908 dd.yiv0123375908last p span.yiv0123375908yshortcuts {
+margin=
+-right:0;}
+
+#yiv0123375908 div.yiv0123375908attach-table div div a {
+text-d=
+ecoration:none;}
+
+#yiv0123375908 div.yiv0123375908attach-table {
+width:400p=
+x;}
+
+#yiv0123375908 div.yiv0123375908file-title a, #yiv0123375908 div.yiv01=
+23375908file-title a:active, #yiv0123375908 div.yiv0123375908file-title a:h=
+over, #yiv0123375908 div.yiv0123375908file-title a:visited {
+text-decoratio=
+n:none;}
+
+#yiv0123375908 div.yiv0123375908photo-title a, #yiv0123375908 div=
+.yiv0123375908photo-title a:active, #yiv0123375908 div.yiv0123375908photo-t=
+itle a:hover, #yiv0123375908 div.yiv0123375908photo-title a:visited {
+text-=
+decoration:none;}
+
+#yiv0123375908 div#yiv0123375908ygrp-mlmsg #yiv012337590=
+8ygrp-msg p a span.yiv0123375908yshortcuts {
+font-family:Verdana;font-size:=
+10px;font-weight:normal;}
+
+#yiv0123375908 .yiv0123375908green {
+color:#628c=
+2a;}
+
+#yiv0123375908 .yiv0123375908MsoNormal {
+margin:0 0 0 0;}
+
+#yiv012337=
+5908 o {
+font-size:0;}
+
+#yiv0123375908 #yiv0123375908photos div {
+float:lef=
+t;width:72px;}
+
+#yiv0123375908 #yiv0123375908photos div div {
+border:1px so=
+lid #666666;height:62px;overflow:hidden;width:62px;}
+
+#yiv0123375908 #yiv01=
+23375908photos div label {
+color:#666666;font-size:10px;overflow:hidden;tex=
+t-align:center;white-space:nowrap;width:64px;}
+
+#yiv0123375908 #yiv01233759=
+08reco-category {
+font-size:77%;}
+
+#yiv0123375908 #yiv0123375908reco-desc {=
+
+font-size:77%;}
+
+#yiv0123375908 .yiv0123375908replbq {
+margin:4px;}
+
+#yiv0=
+123375908 #yiv0123375908ygrp-actbar div a:first-child {
+margin-right:2px;pa=
+dding-right:5px;}
+
+#yiv0123375908 #yiv0123375908ygrp-mlmsg {
+font-size:13px=
+;font-family:Arial, helvetica, clean, sans-serif;}
+
+#yiv0123375908 #yiv0123=
+375908ygrp-mlmsg table {
+font-size:inherit;font:100%;}
+
+#yiv0123375908 #yiv=
+0123375908ygrp-mlmsg select, #yiv0123375908 input, #yiv0123375908 textarea =
+{
+font:99% Arial, Helvetica, clean, sans-serif;}
+
+#yiv0123375908 #yiv012337=
+5908ygrp-mlmsg pre, #yiv0123375908 code {
+font:115% monospace;}
+
+#yiv012337=
+5908 #yiv0123375908ygrp-mlmsg * {
+line-height:1.22em;}
+
+#yiv0123375908 #yiv=
+0123375908ygrp-mlmsg #yiv0123375908logo {
+padding-bottom:10px;}
+
+
+#yiv01233=
+75908 #yiv0123375908ygrp-msg p a {
+font-family:Verdana;}
+
+#yiv0123375908 #y=
+iv0123375908ygrp-msg p#yiv0123375908attach-count span {
+color:#1E66AE;font-=
+weight:700;}
+
+#yiv0123375908 #yiv0123375908ygrp-reco #yiv0123375908reco-hea=
+d {
+color:#ff7900;font-weight:700;}
+
+#yiv0123375908 #yiv0123375908ygrp-reco=
+ {
+margin-bottom:20px;padding:0px;}
+
+#yiv0123375908 #yiv0123375908ygrp-spon=
+sor #yiv0123375908ov li a {
+font-size:130%;text-decoration:none;}
+
+#yiv0123=
+375908 #yiv0123375908ygrp-sponsor #yiv0123375908ov li {
+font-size:77%;list-=
+style-type:square;padding:6px 0;}
+
+#yiv0123375908 #yiv0123375908ygrp-sponso=
+r #yiv0123375908ov ul {
+margin:0;padding:0 0 0 8px;}
+
+#yiv0123375908 #yiv01=
+23375908ygrp-text {
+font-family:Georgia;}
+
+#yiv0123375908 #yiv0123375908ygr=
+p-text p {
+margin:0 0 1em 0;}
+
+#yiv0123375908 #yiv0123375908ygrp-text tt {
+=
+font-size:120%;}
+
+#yiv0123375908 #yiv0123375908ygrp-vital ul li:last-child =
+{
+border-right:none !important;
+}
+#yiv0123375908 
+</style></div><br><br></d=
+iv>  </div> </div>  </div></div></body></html>
+------=_Part_1897017_223378940.1455149712033--
+
+
