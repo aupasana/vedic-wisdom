@@ -1,0 +1,308 @@
+From pvr108@...  Wed Feb 17 11:07:48 2016
+Return-Path: <pvr108@...>
+X-Sender: pvr108@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 8145 invoked by uid 102); 20 Jul 2015 16:13:37 -0000
+X-Received: from unknown (HELO mtaq1.grp.bf1.yahoo.com) (10.193.84.32)
+  by m8.grp.bf1.yahoo.com with SMTP; 20 Jul 2015 16:13:37 -0000
+X-Received: (qmail 20293 invoked from network); 20 Jul 2015 16:13:37 -0000
+X-Received: from unknown (HELO mta1005.groups.mail.bf1.yahoo.com) (98.139.245.164)
+  by mtaq1.grp.bf1.yahoo.com with SMTP; 20 Jul 2015 16:13:37 -0000
+X-Original-Return-Path: <pvr108@...>
+X-Received-SPF: pass (domain of yahoo.com designates 72.30.239.142 as permitted sender)
+X-YMailISG: Ek1OYbIWLDti5ehjXwf4U7XzDJlSbPkCP6Lhbed3g41OPUVd
+ wqN4dLU3FjXmdlO5aKOWpk1JVCPaIpqshZCPb6YlPQfUvSbAj5SV7SQcIHh5
+ YzC.yLUZB1jaG4nUcVZfhtlyl_kUkXCJHV.z15DSRaN0vtPONwnl48K0Z4GM
+ D3n0hG3oSdrOriRdRrEC6b.q2ovdOtxyCc.Xmg76UkWtcLyVachVVSigZCv9
+ JRCrAlupLbh.0_5ApDEy3WVFqBzhw2cf.Rg5AvrZFncHXJkHyqRqGHIhZ3WF
+ nmN9k46JuWvnm4pCf8mu.0JA2FALmtmMI6GZQEIoWlJL68rlcPsSJEe5KQ.C
+ b.1kUqP7sUF_WTaepsk1czGWwtAEU3tqoX5PSrsNs5LOzV0ZekSC02ERYjIa
+ S_pcx.8EpsM_5pbM4JOxtnwKuIzIBXUFCyevomj.bKE.OpSZj176EzLwbd9N
+ .W10eGvET7oZXTUgtaobJDDlVgGPvAuJDsOYKi8UVXndAEyO.aQBCqyA9Qkk
+ cUYwwLO.uQgjUmfJ_8xMW8eWa1WEjLfVMoosotIVffEyQcK75zsaKnknq9yk
+ Qf.O7yvcygARrPsApnGU18AeuOE1fdYJNNsb6UBUwFKiOR9t3toRkiWchh6V
+ 2WP2C.veDmrtc5fqaQKaPobT39rA8kvY6tZyhXTCiL2Kt2Fh_ybI0_IHpjtM
+ 1uuYbQAhlcYRF05eb9pBZt8Lqd5vz.e9BiK94mUqAiYKxUP43YHgBdqHPZQg
+ S2x11iMRHIdmmrZK8m2aog9gM5EO_YlTCBSm9p1FmyJqEcwCzViGsrlTsVOT
+ UsLqzIbc34FDoP3kcWwlDjBqhLW26Dc6l2H2Z9rOMsEUAnfwILWhuqlroFfE
+ uyyi9hGv00p638WYv0qhSWffK52wgBdML3F9s__ZVF9TmbPD.hU_.if3.K_w
+ jvL7M4NlxU_UAaB1aimaFR9315yhiQVi6g6HNIYJ17AKDs2YZnDu2cMCh_HU
+ Ogqq02aCpyjZPvsan6CfGpxh7EUVavsg1z9kABAV0cLojKQogvF1gV1rSijt
+ 1bpJXOtXgKEM7T0wvxWvCeu7wyBSSNnvc7Q3iJCwMk7qLte.nyjMHDmalKBP
+ VbPWvuj53.PmhdAqj.ktSGGtq0CuVQ96aQyacIAMTHc_OAE4ZXA7iB03Bx_C
+ ZBDzOXivInhoz9apHPrzpYBrAhgBd5_LAIiGL3p4_mGx3bFKS.I7ZJpxr2kh
+ mqkux8s7NdKjieflEczUyOLp5I.5EgHnfwqqo5284Gfu5Ht90G0L138KJnhU
+ 7p4yeQvlbFqonyoQFLPVLAMhE_I8PMtRRK5T2CYJ92CJWCsXD2oqBkjnA8fx
+ ZXSXgtQQ4KK9QBSVH.7O4Ou8UoY5E_rQGrF4gOHZs2.f2wzGmOdv6hE4EuN8
+ z1tCsxC5AX.M2D41wQGB_7zGJTCARVZAHmOB6PKG8Y4s39Fnvp4pcFOnvaNd
+ Q5geieO1_TKqRCaNuYfDaEivw7uERjbwfjY9Q5YOTv.mlQyxMhYnTmzH9KDG
+ Iz3JnFRFXL0lerFVhmZeRZC.qEUkWO212A--
+Authentication-Results: mta1005.groups.mail.bf1.yahoo.com  from=yahoo.com; domainkeys=neutral (no sig);  from=yahoo.com; dkim=pass (ok)
+X-Received: from 127.0.0.1  (EHLO nm32-vm6.bullet.mail.bf1.yahoo.com) (72.30.239.142)
+  by mta1005.groups.mail.bf1.yahoo.com with SMTPS; Mon, 20 Jul 2015 16:13:32 +0000
+X-Received: from [98.139.215.142] by nm32.bullet.mail.bf1.yahoo.com with NNFMP; 20 Jul 2015 16:13:32 -0000
+X-Received: from [98.139.212.211] by tm13.bullet.mail.bf1.yahoo.com with NNFMP; 20 Jul 2015 16:13:32 -0000
+X-Received: from [127.0.0.1] by omp1020.mail.bf1.yahoo.com with NNFMP; 20 Jul 2015 16:13:32 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 342066.35475.bm@...
+X-YMail-OSG: U1w7yNQVM1llTkkdOaqxx0E5PvIWzHgsAfPzzK.RffdV6rhQjRQj2U.Qjge4bEm
+ yI663Q7.hfi5A0kcDylSoXvf7AfLOxhCV6er_OEt1LwLmB.ePUBsCtQk.V3Wz152hmxICxSzWWLj
+ RDPBOUjmvn3QtswUkeEVL6InP4kP.t32J_.zdZfiYyaTBBtG_k2R8x826oIJNUZDHRsv2o.FT9mv
+ evKzZTgW4o6mJUGwFnvt6x2hHhrcLJxZRMKyVZvMbMIRaoaJ09abmXuPf4pbUxsl7dMt1hjzjaBa
+ pjIK6GdW.CmlGJHcajJwPqdpHGOCcYbn3MuvHOiHmCErK5OVfojQQn3o5w_sGwWAUwLo.0QIVme7
+ A31lErlSFLb4cx5r26yQNQEcSiZJHNln.xSor2uk.aCOjN1zV823iGDEaIkhpRSbn3Z0HJ1P31Ye
+ V6zo5IY027O78JJG0.nTuKmGiHj9bIqVHhhPvPKl_GEhEvpOtRorQI4vtNdn7wEtr6rigqIVUSuE
+ VIGoWE7ObST9Q.ZU-
+X-Received: by 76.13.26.156; Mon, 20 Jul 2015 16:13:31 +0000 
+Date: Mon, 20 Jul 2015 16:13:31 +0000 (UTC)
+To: "vedic-astrology@yahoogroups.com" <vedic-astrology@yahoogroups.com>, 
+	Jyotish Group <jyotishgroup@yahoogroups.com>, 
+	"jyotishwritings@yahoogroups.com" <jyotishwritings@yahoogroups.com>, 
+	Vedic Wisdom <vedic-wisdom@yahoogroups.com>
+Message-ID: <2062411126.1132311.1437408811146.JavaMail.yahoo@...>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_1132310_1361699274.1437408811137"
+Content-Length: 15481
+X-Originating-IP: 98.139.245.164
+Reply-To: "Narasimha P.V.R. Rao" <pvr108@...>
+Subject: Worship of Mahavidyas (Re: Question on Palan Devata)
+X-Yahoo-Group-Post: member; u=77866142; y=1nXf714BFIeVSW19LrZEO3k-iPl1S97DFSQwFKfZaoBW
+X-Yahoo-Profile: pvr108
+From: "Narasimha P.V.R. Rao" <pvr108@...>
+
+
+------=_Part_1132310_1361699274.1437408811137
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Namaste madam,
+
+Some traditions in Orissa recommend Dasa Mahavidyas as pala=
+na devata. I too taught it as that is what my guru Pt Sanjay Rath taught me=
+.
+But, later, as I understood Mahavidyas better, I stopped suggesting them =
+for material purposes. Vidya is knowledge. Mahavidya is supreme knowledge. =
+The only supreme knowledge is that of Self, that which removes all cravings=
+ and aversions from the mind and makes one equanimous and detached. Mahavid=
+yas represent various facets of that knowledge.
+Though Dhoomavati, Ugra Tar=
+a, Kala Bhairava etc are worshiped in a smashan normally, that is not neces=
+sary. The more important thing is that only those whose *mind* is like a sm=
+ashan (with various desires and cravings burnt and nearly reduced to ashes)=
+ should worship them. Then they can help one overcome the remaining few bas=
+ic desires (that are far tougher to overcome!) and remove any traces of I-n=
+ess, so that one is liberated.
+It is unwise to pray to Bagalamukhi for vict=
+ory in court cases or to Dhoomavati for getting a job or to Chhinnamasta fo=
+r getting money, though some astrologers suggest those mantras based on cha=
+rt. Better pray to "regular" deities for such purposes. For example, worshi=
+p Ganesha for Ketu in your example!
+One should approach Mahavidyas only for=
+ liberation.
+Of course, if you approach them for money, career etc, it is n=
+ot that something terrible will happen. Most likely, the deity will not res=
+pond, i.e. nothing will happen. In an extremely rare case, the deity may re=
+spond and something terrible may happen.
+But, if that is the case, it means=
+ that the native was actually ready for the lessons taught by that deity an=
+d the resulting spiritual progress, though the native did not realize it or=
+ want it.
+Best regards,
+Narasimha
+--------
+Astrology & Spirituality Resourc=
+es:=C2=A0http://www.VedicAstrologer.org--------
+
+
+To:=C2=A0"pvr108@...=
+m" <pvr108@...>=C2=A0
+Sent:=C2=A0Sunday, July 19, 2015 8:16 AM
+Subjec=
+t:=C2=A0Question on Palan Devata
+
+Dear Guruji,
+I have been listening to you=
+r youtube classes. I have completed 107 classes.=C2=A0Apart from that I hav=
+e joined a local institution=C2=A0as well for learning astrology.
+My palan =
+devata is Dhoomavati. By google search I=C2=A0have=C2=A0started reciting th=
+e mantra 'om dhoom dhoom dhoomavati thah thah'.However some of the web-site=
+s talk about lot many things. e.g.1) You should not pray the goddess if you=
+ are married. The goddess herself is presentation of a widow.2) You should =
+not recite mantras related to the goddess at home. You should do it only ne=
+ar crematorium etc.
+Is it safe for a normal person who is not pursuing any =
+of the dasha-mahavidyas to recite this mantra?Could you please help me with=
+ mantra if the palan devata is related to ketu....
+Thanks and Regards,<dele=
+ted>
+
+------=_Part_1132310_1361699274.1437408811137
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"color:#000; background-color:#fff; font-family:He=
+lveticaNeue, Helvetica Neue, Helvetica, Arial, Lucida Grande, sans-serif;fo=
+nt-size:13px"><div id=3D"yui_3_16_0_1_1437408511206_11315"><span style=3D"b=
+ackground-color: transparent;" id=3D"yui_3_16_0_1_1437408511206_11448">Nama=
+ste madam,</span><br></div><div class=3D"signature" id=3D"yui_3_16_0_1_1437=
+408511206_11311"><div style=3D"color:rgb(0, 0, 0);font-size:13px;font-famil=
+y:arial, helvetica, clean, sans-serif;background-color:transparent;font-sty=
+le:normal;" id=3D"yui_3_16_0_1_1437408511206_11310"><div id=3D"yiv835778476=
+8yui_3_16_0_1_1437401655474_15261" style=3D"font-family: HelveticaNeue, 'He=
+lvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif;" class=3D""><=
+span id=3D"yiv8357784768yui_3_16_0_1_1437401655474_15467" class=3D""><br cl=
+ear=3D"none" id=3D"yiv8357784768yui_3_16_0_1_1437401655474_15466" class=3D"=
+"></span></div><div dir=3D"ltr" id=3D"yiv8357784768yui_3_16_0_1_14374016554=
+74_15261" style=3D"font-family: HelveticaNeue, 'Helvetica Neue', Helvetica,=
+ Arial, 'Lucida Grande', sans-serif;" class=3D""><span id=3D"yiv8357784768y=
+ui_3_16_0_1_1437401655474_15287" class=3D"">Some traditions in Orissa recom=
+mend Dasa Mahavidyas as palana devata. I too taught it as that is what my g=
+uru Pt Sanjay Rath taught me.</span></div><div id=3D"yiv8357784768yui_3_16_=
+0_1_1437401655474_15261" style=3D"font-family: HelveticaNeue, 'Helvetica Ne=
+ue', Helvetica, Arial, 'Lucida Grande', sans-serif;" class=3D""><br clear=
+=3D"none" id=3D"yui_3_16_0_1_1437408511206_11332" class=3D""></div><div id=
+=3D"yiv8357784768yui_3_16_0_1_1437401655474_15261" style=3D"font-family: He=
+lveticaNeue, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-seri=
+f;" class=3D""><span id=3D"yiv8357784768yui_3_16_0_1_1437401655474_15304" c=
+lass=3D"">But, later, as I understood Mahavidyas better, I stopped suggesti=
+ng them for material purposes. Vidya is knowledge. Mahavidya is supreme kno=
+wledge. The only supreme knowledge is that of Self, that which removes all =
+cravings and aversions from the mind and makes one equanimous and detached.=
+ Mahavidyas represent various facets of that knowledge.</span></div><div id=
+=3D"yiv8357784768yui_3_16_0_1_1437401655474_15261" style=3D"font-family: He=
+lveticaNeue, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-seri=
+f;" class=3D""><br clear=3D"none" id=3D"yui_3_16_0_1_1437408511206_11337" c=
+lass=3D""></div><div dir=3D"ltr" id=3D"yiv8357784768yui_3_16_0_1_1437401655=
+474_15261" style=3D"font-family: HelveticaNeue, 'Helvetica Neue', Helvetica=
+, Arial, 'Lucida Grande', sans-serif;" class=3D""><span id=3D"yiv8357784768=
+yui_3_16_0_1_1437401655474_15714" class=3D"">Though Dhoomavati, Ugra Tara, =
+Kala Bhairava etc are worshiped in a smashan normally, that is not necessar=
+y. The more important thing is that only those whose *mind* is like a smash=
+an (with various desires and cravings burnt and nearly reduced to ashes) sh=
+ould worship them. Then they can help one overcome the remaining few basic =
+desires (that are far tougher to overcome!) and remove any traces of I-ness=
+, so that one is liberated.</span></div><div id=3D"yiv8357784768yui_3_16_0_=
+1_1437401655474_15261" style=3D"font-family: HelveticaNeue, 'Helvetica Neue=
+', Helvetica, Arial, 'Lucida Grande', sans-serif;" class=3D""><span id=3D"y=
+iv8357784768yui_3_16_0_1_1437401655474_15676" class=3D""><br clear=3D"none"=
+ id=3D"yiv8357784768yui_3_16_0_1_1437401655474_15675" class=3D""></span></d=
+iv><div id=3D"yiv8357784768yui_3_16_0_1_1437401655474_15261" style=3D"font-=
+family: HelveticaNeue, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande',=
+ sans-serif;" class=3D""><span id=3D"yiv8357784768yui_3_16_0_1_143740165547=
+4_15671" class=3D"">It is unwise to pray to Bagalamukhi for victory in cour=
+t cases or to Dhoomavati for getting a job or to Chhinnamasta for getting m=
+oney, though some astrologers suggest those mantras based on chart. Better =
+pray to "regular" deities for such purposes. For example, worship Ganesha f=
+or Ketu in your example!</span></div><div id=3D"yiv8357784768yui_3_16_0_1_1=
+437401655474_15261" style=3D"font-family: HelveticaNeue, 'Helvetica Neue', =
+Helvetica, Arial, 'Lucida Grande', sans-serif;" class=3D""><br clear=3D"non=
+e" id=3D"yui_3_16_0_1_1437408511206_11347" class=3D""></div><div id=3D"yiv8=
+357784768yui_3_16_0_1_1437401655474_15261" style=3D"font-family: HelveticaN=
+eue, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif;" clas=
+s=3D""><span id=3D"yiv8357784768yui_3_16_0_1_1437401655474_15813" class=3D"=
+">One should approach Mahavidyas only for liberation.</span></div><div id=
+=3D"yiv8357784768yui_3_16_0_1_1437401655474_15261" style=3D"font-family: He=
+lveticaNeue, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-seri=
+f;" class=3D""><span id=3D"yiv8357784768yui_3_16_0_1_1437401655474_15882" c=
+lass=3D""><br clear=3D"none" id=3D"yiv8357784768yui_3_16_0_1_1437401655474_=
+15881" class=3D""></span></div><div id=3D"yiv8357784768yui_3_16_0_1_1437401=
+655474_15261" style=3D"font-family: HelveticaNeue, 'Helvetica Neue', Helvet=
+ica, Arial, 'Lucida Grande', sans-serif;" class=3D""><span id=3D"yiv8357784=
+768yui_3_16_0_1_1437401655474_15826" class=3D"">Of course, if you approach =
+them for money, career etc, it is not that something terrible will happen. =
+Most likely, the deity will not respond, i.e. nothing will happen. In an ex=
+tremely rare case, the deity may respond and something terrible may happen.=
+</span></div><div id=3D"yiv8357784768yui_3_16_0_1_1437401655474_15261" styl=
+e=3D"font-family: HelveticaNeue, 'Helvetica Neue', Helvetica, Arial, 'Lucid=
+a Grande', sans-serif;" class=3D""><br clear=3D"none" id=3D"yui_3_16_0_1_14=
+37408511206_11357" class=3D""></div><div id=3D"yiv8357784768yui_3_16_0_1_14=
+37401655474_15261" style=3D"font-family: HelveticaNeue, 'Helvetica Neue', H=
+elvetica, Arial, 'Lucida Grande', sans-serif;" class=3D""><span id=3D"yiv83=
+57784768yui_3_16_0_1_1437401655474_15877" class=3D"">But, if that is the ca=
+se, it means that the native was actually ready for the lessons taught by t=
+hat deity and the resulting spiritual progress, though the native did not r=
+ealize it or want it.</span></div><div id=3D"yiv8357784768yui_3_16_0_1_1437=
+401655474_15261" style=3D"font-family: HelveticaNeue, 'Helvetica Neue', Hel=
+vetica, Arial, 'Lucida Grande', sans-serif;" class=3D""><br clear=3D"none" =
+id=3D"yui_3_16_0_1_1437408511206_11362" class=3D""></div><div id=3D"yiv8357=
+784768yui_3_16_0_1_1437401655474_15261" style=3D"font-family: HelveticaNeue=
+, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif;" class=
+=3D""><span id=3D"yiv8357784768yui_3_16_0_1_1437401655474_15678" style=3D"f=
+ont-family: arial, helvetica, clean, sans-serif; background-color: transpar=
+ent;" class=3D"">Best regards,</span><br clear=3D"none" id=3D"yui_3_16_0_1_=
+1437408511206_11366" class=3D""></div><div class=3D"" id=3D"yiv8357784768yu=
+i_3_16_0_1_1437401655474_15264" style=3D"font-family: HelveticaNeue, 'Helve=
+tica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif;"><div id=3D"yiv8=
+357784768yui_3_16_0_1_1437401655474_15263" style=3D"font-family: arial, hel=
+vetica, clean, sans-serif; background-color: transparent;" class=3D"">Naras=
+imha<br clear=3D"none" id=3D"yui_3_16_0_1_1437408511206_11370" class=3D"">-=
+-------<br clear=3D"none" id=3D"yui_3_16_0_1_1437408511206_11372" class=3D"=
+">Astrology & Spirituality Resources: <a rel=3D"nofollow" shape=3D=
+"rect" id=3D"yiv8357784768yui_3_16_0_1_1437401655474_15266" target=3D"_blan=
+k" href=3D"http://www.vedicastrologer.org/" style=3D"color: rgb(25, 106, 21=
+2);" class=3D"">http://www.VedicAstrologer.org</a></div><div class=3D"" id=
+=3D"yiv8357784768yqt40136"><div id=3D"yiv8357784768yui_3_16_0_1_14374016554=
+74_15282" style=3D"font-family: arial, helvetica, clean, sans-serif; backgr=
+ound-color: transparent;" class=3D"">--------<br clear=3D"none" id=3D"yui_3=
+_16_0_1_1437408511206_11377" class=3D""></div></div></div><br clear=3D"none=
+" style=3D"font-family: HelveticaNeue, 'Helvetica Neue', Helvetica, Arial, =
+'Lucida Grande', sans-serif;" id=3D"yui_3_16_0_1_1437408511206_11379" class=
+=3D""><div class=3D"" id=3D"yiv8357784768yqt08948" style=3D"font-family: He=
+lveticaNeue, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-seri=
+f;"><blockquote id=3D"yiv8357784768yui_3_16_0_1_1437401655474_15272" style=
+=3D"margin-top: 5px; margin-left: 5px; border-left-width: 2px; border-left-=
+style: solid; border-left-color: rgb(16, 16, 255); padding-left: 5px;" clas=
+s=3D""><div id=3D"yiv8357784768yui_3_16_0_1_1437401655474_15271" class=3D""=
+><div id=3D"yiv8357784768yui_3_16_0_1_1437401655474_15270" style=3D"font-si=
+ze: 16px;" class=3D""><div dir=3D"ltr" id=3D"yiv8357784768yui_3_16_0_1_1437=
+401655474_15269" class=3D""><hr id=3D"yiv8357784768yui_3_16_0_1_14374016554=
+74_15280" size=3D"1" class=3D""><font id=3D"yiv8357784768yui_3_16_0_1_14374=
+01655474_15268" size=3D"2" face=3D"Arial" class=3D""><b id=3D"yui_3_16_0_1_=
+1437408511206_11392" class=3D"">To:</b> "pvr108@..." <pvr108@=
+yahoo.com> <br clear=3D"none" id=3D"yui_3_16_0_1_1437408511206_1139=
+4" class=3D""><b id=3D"yui_3_16_0_1_1437408511206_11396" class=3D"">Sent:</=
+b> Sunday, July 19, 2015 8:16 AM<br clear=3D"none" id=3D"yui_3_16_0_1_=
+1437408511206_11398" class=3D""><b id=3D"yui_3_16_0_1_1437408511206_11400" =
+class=3D"">Subject:</b> Question on Palan Devata<br clear=3D"none" id=
+=3D"yui_3_16_0_1_1437408511206_11402" class=3D""></font></div><div class=3D=
+"" id=3D"yiv8357784768yui_3_16_0_1_1437401655474_15274"><br clear=3D"none" =
+id=3D"yui_3_16_0_1_1437408511206_11405" class=3D""><div id=3D"yiv8357784768=
+" class=3D""><div id=3D"yiv8357784768yui_3_16_0_1_1437401655474_15307" clas=
+s=3D""><div id=3D"yiv8357784768yui_3_16_0_1_1437401655474_15306" class=3D""=
+><div id=3D"yiv8357784768yui_3_16_0_1_1437307152463_20921" class=3D"">Dear =
+Guruji,</div><div id=3D"yiv8357784768yui_3_16_0_1_1437307152463_20862" clas=
+s=3D""><br clear=3D"none" id=3D"yui_3_16_0_1_1437408511206_11412" class=3D"=
+"></div><div dir=3D"ltr" id=3D"yiv8357784768yui_3_16_0_1_1437307152463_2086=
+3" class=3D"">I have been listening to your youtube classes. I have complet=
+ed 107 classes. Apart from that I have joined a local institution =
+;as well for learning astrology.</div><div dir=3D"ltr" id=3D"yiv8357784768y=
+ui_3_16_0_1_1437307152463_20861" class=3D""><br clear=3D"none" id=3D"yui_3_=
+16_0_1_1437408511206_11416" class=3D""></div><div dir=3D"ltr" id=3D"yiv8357=
+784768yui_3_16_0_1_1437307152463_20827" class=3D"">My palan devata is Dhoom=
+avati. By google search I have started reciting the mantra 'om dh=
+oom dhoom dhoomavati thah thah'.</div><div dir=3D"ltr" id=3D"yiv8357784768y=
+ui_3_16_0_1_1437307152463_20828" class=3D"">However some of the web-sites t=
+alk about lot many things. e.g.</div><div dir=3D"ltr" id=3D"yiv8357784768yu=
+i_3_16_0_1_1437307152463_20846" class=3D"">1) You should not pray the godde=
+ss if you are married. The goddess herself is presentation of a widow.</div=
+><div dir=3D"ltr" id=3D"yiv8357784768yui_3_16_0_1_1437307152463_20931" clas=
+s=3D"">2) You should not recite mantras related to the goddess at home. You=
+ should do it only near crematorium etc.</div><div dir=3D"ltr" id=3D"yiv835=
+7784768yui_3_16_0_1_1437307152463_20871" class=3D""><br clear=3D"none" id=
+=3D"yui_3_16_0_1_1437408511206_11423" class=3D""></div><div dir=3D"ltr" id=
+=3D"yiv8357784768yui_3_16_0_1_1437307152463_20872" class=3D"">Is it safe fo=
+r a normal person who is not pursuing any of the dasha-mahavidyas to recite=
+ this mantra?</div><div dir=3D"ltr" id=3D"yiv8357784768yui_3_16_0_1_1437307=
+152463_20873" class=3D"">Could you please help me with mantra if the palan =
+devata is related to ketu....</div><div dir=3D"ltr" id=3D"yiv8357784768yui_=
+3_16_0_1_1437307152463_20909" class=3D""><br clear=3D"none" id=3D"yui_3_16_=
+0_1_1437408511206_11428" class=3D""></div><div id=3D"yiv8357784768yui_3_16_=
+0_1_1437307152463_20830" class=3D"">Thanks and Regards,</div><div id=3D"yiv=
+8357784768yui_3_16_0_1_1437307152463_20831" dir=3D"ltr" class=3D""><dele=
+ted></div></div></div></div></div></div></div></blockquote></div></div><=
+/div></div></body></html>
+------=_Part_1132310_1361699274.1437408811137--
+
+

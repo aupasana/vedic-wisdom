@@ -1,0 +1,367 @@
+From pvr108@...  Wed Feb 17 11:10:39 2016
+Return-Path: <pvr108@...>
+X-Sender: pvr108@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 66191 invoked by uid 102); 31 Jul 2013 02:36:28 -0000
+X-Received: from unknown (HELO mtaq6.grp.bf1.yahoo.com) (10.193.84.37)
+  by m8.grp.bf1.yahoo.com with SMTP; 31 Jul 2013 02:36:28 -0000
+X-Received: (qmail 18855 invoked from network); 31 Jul 2013 02:36:27 -0000
+X-Received: from unknown (HELO nm2-vm5.bullet.mail.ne1.yahoo.com) (98.138.91.224)
+  by mtaq6.grp.bf1.yahoo.com with SMTP; 31 Jul 2013 02:36:27 -0000
+X-Received: from [98.138.226.179] by nm2.bullet.mail.ne1.yahoo.com with NNFMP; 31 Jul 2013 02:36:27 -0000
+X-Received: from [98.138.87.3] by tm14.bullet.mail.ne1.yahoo.com with NNFMP; 31 Jul 2013 02:36:27 -0000
+X-Received: from [127.0.0.1] by omp1003.mail.ne1.yahoo.com with NNFMP; 31 Jul 2013 02:36:27 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 303029.51749.bm@...
+X-Received: (qmail 17298 invoked by uid 60001); 31 Jul 2013 02:36:27 -0000
+X-YMail-OSG: 2pEODD0VM1l7qQ4zK_na17PnUZh3R6N6f0Q0P7gsLWemgQh
+ gw_tRe0Qvwnx1e09Hu35WsnShVIn8SoiyACbbqXkXQ7TVTXz0nbNQ86kBL_R
+ tJnE1miGzW6Pw9Elpiw3EwBftFJRl2aLAkKHDaQQG9ubfYcAQthC4Mfygzo_
+ lxxEEaA4ySmbvX3K6dASqowMimYP7JLe3PH0eD6E_Oq_PIuJm0W4wAeYFhji
+ ATaMvxRfTFRytEaOHHqDROaCNT7Scz4V29GzvRj9YfDHnlHuWPza2dKQAsVE
+ f6pADjV0sCTVif5iEQf6oPeGecrE2JJuA7VC2G_pG88nQ_fsiUV_6IW4ZkyL
+ Le0RdgfPS3vXU3HXBLN117cGPyCzjUQb96NtGiVI0k8b9qqLa6_wLVbwDACn
+ 4QAsI3hqKKsfekVPRNiODXFnpdEQQEd13nkae5yrsrFX_s2yxe1.pj77EIel
+ iovK2L2eWxRvBt1c48zXxNIK_pkJudqzjErJcAfzRtxNnRr_hBPWHYRYJQjM
+ gyJjDINvRuPRbYBtMurs_5KF99Tt6D.eCb.f7zdSlKIkqE6F95POHf97u8VR
+ EZFXiw2J5U4e5.aNzdwaLbbF8N3Sor4_.XKWa2zenGvfI1vsKCSy8x4dmPkA
+ REkofSl9zTJ4lMveluDnW8q6ESOF8hWsFm8Tg2aNb1bFr8mDvBFxxRJCRx9R
+ IzONi7bsXKt2IWv35UdchMTLCQnTNsID_TL86DhpHn_kRC9ECstBEPpZ3AnM
+ 1Y1X_qAwlDMBZ9lScdOMldIMrp.QFfG4JjKBBH74lkcToSiGrs2.JCNQVrQD
+ QNMuMIXfaaCORKAAUEp7ouKqvNGe5V0tmypphCSYIgnmnbe5WCMcWgqy2XP7
+ BMKDmAqLMt3xyS35jIQZp1K0wGgI8Hn6FowPBkq9kNHmYDOkGb4E45Zlr2lV
+ x8nWRTNkJIGgg_4GVDs2DolBqOVLqGUpV4FJdkv1x_ILGFw7nRTXvtvo0AlR
+ b6WdBnBuGz7xP7y5S566i3ee8xJH9X9FGNMYQrj5CGadXAWYIEhYfedmP6Y1
+ t3JbQFwjA4_N7hZ8QnJKXE74FAFU9YbUMubHXAhNqIRqd47Y36MovxNrrwz.
+ fy913BZpGC_8rdfGXoojky4abrebWn2ONgs5DuTw_YcnBej_hIHCgLpJ4bTA
+ zRSivMFihU2gonWkyluhZdTLiGXu08FLgvvJZO3YYgwqQ.siDl2oiGXK7l8O
+ TSedOYEBLh4U7FOjLik0Fk83u4POraqI76Bye4N4e4O.iBNZC0dKaN6wF7Xz
+ GzKEVRwBo22QdNZHFYkPt3uU_abbvMg.Q0pBEaSETLY1sk5rhTpJRqqT4Ojo
+ 3WlM_Iq6XvWnkQJ0ygvvkF0j2bEF6fsgntZCoPXbfG55DcA--
+X-Received: from [72.70.55.223] by web122105.mail.ne1.yahoo.com via HTTP; Tue, 30 Jul 2013 19:36:27 PDT
+X-Rocket-MIMEInfo: 002.001,TmFtYXN0ZSBEdXJnZXNoLArCoApUaGVyZSBpcyBubyBzaW5nbGUgYW5zd2VyLiBXZSBhcmUgYWx3YXlzIHB1bGxlZCBpbiBkaWZmZXJlbnQgZGlyZWN0aW9ucyBieSBkaWZmZXJlbnQgcmluYXMgYW5kIGRoYXJtYXMuIE9uZSBuZWVkcyB0byBKVURHRSB3aGljaCBkaGFybWEgaXMgaGlnaGVyIGFuZCB3aGljaCByaW5hIGlzIG1vcmUgaW1wb3J0YW50LgoKwqAKRGVwZW5kaW5nIG9uIG9uZSdzIGluZGl2aWR1YWwgY2lyY3Vtc3RhbmNlcywgb25lIG9mIHRoZSBmb2xsb3dpbmcgbWF5IGJlIHRoZSBiZXN0IG9wdGkBMAEBAQE-
+X-Mailer: YahooMailWebService/0.8.151.566
+References: <CAJ9joEbTQgfw=gkBGL6yG1mFwacVD2kEkSpSekmtVHhJ9nuD5A@...>
+Message-ID: <1375238187.98672.YahooMailNeo@...>
+Date: Tue, 30 Jul 2013 19:36:27 -0700 (PDT)
+To: "vedic-wisdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com>
+In-Reply-To: <CAJ9joEbTQgfw=gkBGL6yG1mFwacVD2kEkSpSekmtVHhJ9nuD5A@...>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="-1999499579-1327553319-1375238187=:98672"
+X-Originating-IP: 10.193.84.37
+X-eGroups-Msg-Info: 1:12:0:0:0
+From: "Narasimha P.V.R. Rao" <pvr108@...>
+Reply-To: "Narasimha P.V.R. Rao" <pvr108@...>
+Subject: Re: most difficult question
+X-Yahoo-Group-Post: member; u=77866142; y=tUcwrP5eqQ2yOrkyHFt1oXhopEgcgRwhviRA5nVBYy6c
+X-Yahoo-Profile: pvr108
+
+
+---1999499579-1327553319-1375238187=:98672
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Namaste Durgesh,
+=C2=A0
+There is no single answer. We are always pulled in =
+different directions by different rinas and dharmas. One needs to JUDGE whi=
+ch dharma is higher and which rina is more important.
+
+=C2=A0
+Depending on =
+one's individual circumstances, one of the following may be the best option=
+:
+=C2=A0
+(1) Ignore the complaining wife/husband. Don't fight or argue, but=
+ keep doing your sadhana. As time progresses, (a) she may see the positive =
+change in your attitude and stop complaining, (b) she may just get used to =
+it and accept her fate, (c) she may keep complaining and YOU may get used t=
+o that complaints and accept your fate.
+=C2=A0
+(2) Talk to her/him and find=
+ some compromise that is acceptable. Instead of doing 1 hour sadhana, may b=
+e do half hour and spend more time doing something she likes.
+=C2=A0
+(3) Gi=
+ve up your idea of sadhana and take whatever you are able to do, as sanctio=
+ned by your wife/husband, as your sadhana. For example, cooking, cleaning d=
+ishes, washing clothes, taking her to a movie, massaging her feet, taking k=
+ids to activities etc can also be sadhanas.
+=C2=A0
+Any activity can be done=
+ with a protesting/dissenting attitudeor an agitated mind, or with love and=
+ caring and a calm and composed mind. Every activity involves interacting w=
+ith some objects. Just as god is in idol and fire, he is in vegetables you =
+cut, food you cook, feet you massage etc. If you see an action as a chore o=
+r look at it or its object(s) with an impure mind (e.g. with lust or with a=
+nger or with frustration) or focus more of your attention on yourself, then=
+ it becomes impure. If you approach the action with a calm and devoted mind=
+, see the action and its object(s)with love, devotion and caring and focus =
+the more of your attention on the action and its objects (rather than youse=
+lf and your own happiness), then it becomes a ritual or sadhana.
+=C2=A0
+Of =
+course, in some actions one hates, it is very difficult to bring that calmn=
+ess and caring. In some other actions (e.g. sex), one may become too selfis=
+h or self-absorbed and think too much about one's own sensations, to look a=
+t the action and other persons/objects with love, caring, devotion.
+
+=C2=A0=
+
+Thus, we normally don't talk about converting all actions into sadhana and=
+ talk about japam, homam etc. It is easier in those to look at the action a=
+nd its objects with a sense of purity and devotion. However, if that is not=
+ possible and one has to do some other actions, why note TRY to convert the=
+m into sadhana? Try to perform the action with a calm, stable, selfless min=
+d, focus attention on the action and its objects and imbibe love and caring=
+ into your thinking.
+=C2=A0
+*=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0 *=
+=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0 *
+=C2=A0
+In fact, at some stage,=
+ (3) has to become part of one's sadhana. One has to convert every action i=
+nto a sadhana. Just doing japam or homam for an hour or two may not cut it.=
+
+=C2=A0
+If you live in a really cold country, your room can get very cold. =
+If you turn the heater on for an hour everyday and keep it off rest of the =
+time, the room will overall be very cold. Similarly, if you do sadhana for =
+an hour, you may feel better, but the normal attitude returns. To make perm=
+anent progress, the heater has to be on most of the day! Of course, as you =
+cannot do japam or homam for 12 hours a day, you have to convert whatever y=
+ou do (eating, driving to work, your work, driving back, cooking, eating, t=
+alking to people, etc) into sadhana. At some stage, every seeker will have =
+to start doing it.
+
+=C2=A0
+Best regards,
+Narasimha
+--------
+Astrology & Spi=
+rituality Resources: http://www.VedicAstrologer.org
+--------
+
+=C2=A0
+
+
+>___=
+_____________________________
+>From: Durgesh Mishra <durgesh.mishra@gmail.c=
+om>
+>To: vedic-wisdom@yahoogroups.com 
+>Sent: Tuesday, July 30, 2013 11:43 =
+AM
+>Subject: [vedic-wisdom] most difficult question
+> 
+>
+>
+>=C2=A0 
+>Dear A=
+ll,
+>
+>
+>If you are interested in spiritual sadhana, dhyaan, homam, fasting=
+ etc and your spouse doesn't like you doing it ? then what should you do ?=
+=C2=A0
+>
+>
+>Regards
+>Durgesh O Mishra
+>
+>
+>-- 
+>"If you only have a hammer,=
+ you tend to see every problem as a nail." 
+> 
+>
+>
+---1999499579-1327553319-1375238187=:98672
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"color:#000; background-color:#fff; font-family:ar=
+ial, helvetica, sans-serif;font-size:12pt"><div><font size=3D"3"><span>Nama=
+ste Durgesh,</span></font></div><div style=3D"color: rgb(0, 0, 0); font-siz=
+e: 16px; font-family: arial,helvetica,sans-serif; background-color: transpa=
+rent; font-style: normal;"><font size=3D"3"><span> </span></font></div=
+><div style=3D"color: rgb(0, 0, 0); font-size: 16px; font-family: arial,hel=
+vetica,sans-serif; background-color: transparent; font-style: normal;"><fon=
+t size=3D"3"><span>There is no single answer. We are always pulled in diffe=
+rent directions by different rinas and dharmas. One needs to JUDGE which dh=
+arma is higher and which rina is more important.<br></span></font></div><di=
+v style=3D"color: rgb(0, 0, 0); font-size: 13px; font-family: arial,helveti=
+ca,sans-serif; background-color: transparent; font-style: normal;"><font si=
+ze=3D"3"><span> </span></font></div><div style=3D"color: rgb(0, 0, 0);=
+ font-size:
+ 13px; font-family: arial,helvetica,sans-serif; background-colo=
+r: transparent; font-style: normal;"><font size=3D"3"><span>Depending on on=
+e's individual circumstances, one of the following may be the best option:<=
+/span></font></div><div style=3D"color: rgb(0, 0, 0); font-size: 13px; font=
+-family: arial,helvetica,sans-serif; background-color: transparent; font-st=
+yle: normal;"><font size=3D"3"><span> </span></font></div><div style=
+=3D"color: rgb(0, 0, 0); font-size: 13px; font-family: arial,helvetica,sans=
+-serif; background-color: transparent; font-style: normal;"><font size=3D"3=
+"><span>(1) Ignore the complaining wife/husband. Don't fight or argue, but =
+keep doing your sadhana. As time progresses, (a) she may see the positive c=
+hange in your attitude and stop complaining, (b) she may just get used to i=
+t and accept her fate, (c) she may keep complaining and YOU may get used to=
+ that complaints and accept your fate.</span></font></div><div style=3D"col=
+or: rgb(0, 0, 0);
+ font-size: 13px; font-family: arial,helvetica,sans-serif=
+; background-color: transparent; font-style: normal;"><font size=3D"3"><spa=
+n> </span></font></div><div style=3D"color: rgb(0, 0, 0); font-size: 1=
+3px; font-family: arial,helvetica,sans-serif; background-color: transparent=
+; font-style: normal;"><font size=3D"3"><span>(2) Talk to her/him and find =
+some compromise that is acceptable. Instead of doing 1 hour sadhana, may be=
+ do half hour and spend more time doing something she likes.</span></font><=
+/div><div style=3D"color: rgb(0, 0, 0); font-size: 13px; font-family: arial=
+,helvetica,sans-serif; background-color: transparent; font-style: normal;">=
+<font size=3D"3"><span> </span></font></div><div style=3D"color: rgb(0=
+, 0, 0); font-size: 13px; font-family: arial,helvetica,sans-serif; backgrou=
+nd-color: transparent; font-style: normal;"><font size=3D"3"><span>(3) Give=
+ up your idea of sadhana and take whatever you are able to do, as sanctione=
+d by your wife/husband,
+ as your sadhana. For example, cooking, cleaning di=
+shes, washing clothes, taking her to a movie, massaging her feet, taking ki=
+ds to activities etc can also be sadhanas.</span></font></div><div style=3D=
+"color: rgb(0, 0, 0); font-size: 13px; font-family: arial,helvetica,sans-se=
+rif; background-color: transparent; font-style: normal;"><font size=3D"3"><=
+span> </span></font></div><div style=3D"color: rgb(0, 0, 0); font-size=
+: 13px; font-family: arial,helvetica,sans-serif; background-color: transpar=
+ent; font-style: normal;"><font size=3D"3"><span>Any activity can be done w=
+ith a protesting/dissenting attitude or an agitated mind, or with love and =
+caring and a calm and composed mind. Every activity involves interacting wi=
+th some objects. Just as god is in idol and fire, he is in vegetables you c=
+ut, food you cook, feet you massage etc. If you see an action as a chore or=
+ look at it or its object(s) with an impure mind (e.g. with lust or with an=
+ger or with frustration)
+ or focus more of your attention on yourself, then=
+ it becomes impure. If you approach the action with a calm and devoted mind=
+, see the action and its object(s) </span></font><font size=3D"3"><span><fo=
+nt size=3D"3"><span>with love, devotion and caring</span></font> and focus =
+the more of your attention on the action and its objects (rather than youse=
+lf and your own happiness), then it becomes a ritual or sadhana.</span></fo=
+nt></div><div style=3D"color: rgb(0, 0, 0); font-size: 13px; font-family: a=
+rial,helvetica,sans-serif; background-color: transparent; font-style: norma=
+l;"><font size=3D"3"><span> </span></font></div><div style=3D"color: r=
+gb(0, 0, 0); font-size: 13px; font-family: arial,helvetica,sans-serif; back=
+ground-color: transparent; font-style: normal;"><font size=3D"3"><span>Of c=
+ourse, in some actions one hates, it is very difficult to bring that calmne=
+ss and caring. In some other actions (e.g. sex), one may become too selfish=
+ or self-absorbed and think
+ too much about one's own sensations, to look a=
+t the action and other persons/objects with love, caring, devotion.<br></sp=
+an></font></div><div style=3D"color: rgb(0, 0, 0); font-size: 13px; font-fa=
+mily: arial,helvetica,sans-serif; background-color: transparent; font-style=
+: normal;"><font size=3D"3"><span> </span></font></div><div style=3D"c=
+olor: rgb(0, 0, 0); font-size: 13px; font-family: arial,helvetica,sans-seri=
+f; background-color: transparent; font-style: normal;"><font size=3D"3"><sp=
+an>Thus, we normally don't talk about converting all actions into sadhana a=
+nd talk about japam, homam etc. It is easier in those to look at the action=
+ and its objects with a sense of purity and devotion. However, if that is n=
+ot possible and one has to do some other actions, why note TRY to convert t=
+hem into sadhana? Try to perform the action with a calm, stable, selfless m=
+ind, focus attention on the action and its objects and imbibe love and cari=
+ng into your
+ thinking.</span></font></div><div style=3D"color: rgb(0, 0, 0=
+); font-size: 13px; font-family: arial,helvetica,sans-serif; background-col=
+or: transparent; font-style: normal;"><font size=3D"3"><span> </span><=
+/font></div><div style=3D"color: rgb(0, 0, 0); font-size: 13px; font-family=
+: arial,helvetica,sans-serif; background-color: transparent; font-style: no=
+rmal;"><font size=3D"3"><span>*</span></font><font size=3D"3"><span> &=
+nbsp;      *</span></font><font size=3D"3"><span>&=
+nbsp;       *</span></font></div><div style=
+=3D"color: rgb(0, 0, 0); font-size: 13px; font-family: arial,helvetica,sans=
+-serif; background-color: transparent; font-style: normal;"><font size=3D"3=
+"><span> </span></font></div><div style=3D"color: rgb(0, 0, 0); font-s=
+ize: 13px; font-family: arial,helvetica,sans-serif; background-color: trans=
+parent; font-style: normal;"><font size=3D"3"><span>In fact, at some stage,=
+ (3) has to become part of
+ one's sadhana. One has to convert every action =
+into a sadhana. Just doing japam or homam for an hour or two may not cut it=
+.</span></font></div><div style=3D"color: rgb(0, 0, 0); font-size: 13px; fo=
+nt-family: arial,helvetica,sans-serif; background-color: transparent; font-=
+style: normal;"><font size=3D"3"><span> </span></font></div><div style=
+=3D"color: rgb(0, 0, 0); font-size: 13px; font-family: arial,helvetica,sans=
+-serif; background-color: transparent; font-style: normal;"><font size=3D"3=
+"><span>If you live in a really cold country, your room can get very cold. =
+If you turn the heater on for an hour everyday and keep it off rest of the =
+time, the room will overall be very cold. Similarly, if you do sadhana for =
+an hour, you may feel better, but the normal attitude returns. To make perm=
+anent progress, the heater has to be on most of the day! Of course, as you =
+cannot do japam or homam for 12 hours a day, you have to convert whatever y=
+ou do (eating, driving to
+ work, your work, driving back, cooking, eating, =
+talking to people, etc) into sadhana. At some stage, every seeker will have=
+ to start doing it.<br></span></font></div><div><font size=3D"3"> </fo=
+nt></div><div style=3D"color:rgb(0, 0, 0);font-size:13px;font-family:arial,=
+ helvetica, clean, sans-serif;background-color:transparent;font-style:norma=
+l;"><font size=3D"3">Best regards,<br>Narasimha<br>--------<br>Astrology &a=
+mp; Spirituality Resources: <a rel=3D"nofollow" target=3D"_blank" href=3D"h=
+ttp://www.vedicastrologer.org/">http://www.VedicAstrologer.org</a></font></=
+div><div style=3D"color:rgb(0, 0, 0);font-size:13px;font-family:arial, helv=
+etica, clean, sans-serif;background-color:transparent;font-style:normal;"><=
+font size=3D"3">--------<br></font></div><div><font size=3D"3"> <br></=
+font><blockquote style=3D"border-left: 2px solid rgb(16, 16, 255); margin-l=
+eft: 5px; margin-top: 5px; padding-left: 5px;"><font size=3D"3">  </font><d=
+iv style=3D"font-family: arial, helvetica,
+ sans-serif; font-size: 12pt;"><=
+font size=3D"3"> </font><div style=3D"font-family: times new roman, new yor=
+k, times, serif; font-size: 12pt;"><font size=3D"3"> </font><div dir=3D"ltr=
+"><font size=3D"3"> </font><hr size=3D"1"><font size=3D"3">  </font><font f=
+ace=3D"Arial" size=3D"2"><font size=3D"3"> </font><b><span style=3D"font-we=
+ight:bold;">From:</span></b> Durgesh Mishra <durgesh.mishra@...>=
+;<br> <b><span style=3D"font-weight: bold;">To:</span></b> vedic-wisdom@yah=
+oogroups.com <br> <b><span style=3D"font-weight: bold;">Sent:</span></b> Tu=
+esday, July 30, 2013 11:43 AM<br> <b><span style=3D"font-weight: bold;">Sub=
+ject:</span></b> [vedic-wisdom] most difficult question<br> </font> </div> =
+<div class=3D"y_msg_container"><br><div id=3D"yiv4668777549">
+
+
+
+
+
+
+
+
+
+
+
+
+
+=
+<div>
+<span style=3D"display:none;"> </span>
+
+
+
+    <div id=3D"yiv4668=
+777549ygrp-text">
+      
+      
+      <div dir=3D"ltr">Dear All,<div><br></=
+div><div>If you are interested in spiritual sadhana, dhyaan, homam, fasting=
+ etc and your spouse doesn't like you doing it ? then what should you do ?&=
+nbsp;</div><div><br></div><div>Regards</div>
+<div>Durgesh O Mishra<br clear=
+=3D"all"><div><br></div>-- <br>"If you only have a hammer, you tend to see =
+every problem as a nail."
+</div></div>
+
+
+    </div>
+     
+
+
+
+</div>
+
+
+
+
+</d=
+iv><br><br></div> </div> </div> </blockquote></div>   </div></body></html>
+---1999499579-1327553319-1375238187=:98672--
+
+

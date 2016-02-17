@@ -1,0 +1,530 @@
+From pvr108@...  Wed Feb 17 11:07:37 2016
+Return-Path: <pvr108@...>
+X-Sender: pvr108@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 90301 invoked by uid 102); 27 Feb 2014 00:34:34 -0000
+X-Received: from unknown (HELO mtaq3.grp.bf1.yahoo.com) (10.193.84.142)
+  by m5.grp.bf1.yahoo.com with SMTP; 27 Feb 2014 00:34:34 -0000
+X-Received: (qmail 26268 invoked from network); 27 Feb 2014 00:34:34 -0000
+X-Received: from unknown (HELO nm19-vm4.bullet.mail.ne1.yahoo.com) (98.138.91.179)
+  by mtaq3.grp.bf1.yahoo.com with SMTP; 27 Feb 2014 00:34:34 -0000
+X-Received: from [98.138.101.129] by nm19.bullet.mail.ne1.yahoo.com with NNFMP; 27 Feb 2014 00:34:34 -0000
+X-Received: from [98.138.89.240] by tm17.bullet.mail.ne1.yahoo.com with NNFMP; 27 Feb 2014 00:34:34 -0000
+X-Received: from [127.0.0.1] by omp1013.mail.ne1.yahoo.com with NNFMP; 27 Feb 2014 00:34:34 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 445441.73614.bm@...
+X-Received: (qmail 90857 invoked by uid 60001); 27 Feb 2014 00:34:34 -0000
+X-YMail-OSG: pNz2r8oVM1nqBtxCgypdQoQqP9g52OwM3li13hCaDJtWuwp
+ JxvS3BpIgBZL7Hy91XSEhtx56DIMFEf22d01zi_nGVzWmDUZDkAb0YhD_Gj8
+ 16SL_JaHw2ydbssxKPesGhBXckAwfhDav6FAopMoTiGWfwF9PeNXKF2_w5Ky
+ 5D1ymjHl9Q6qj4T90CNBb.ChYWieggmkNlgw9FRn2AZlCJO6.RoZCQ.PykTR
+ zkiHHKApg5Ci2903lSYe_DN.OM1wKnUGynreiJsJdeJo8exd2fChRifQta9B
+ 8zwsLQy6LyXH6QDcrkeDG3pY3jxl3JmfmeIzaPIdLPjObp7QdmSB0qm875VF
+ bN6xEaxwDgepzREB8zbr4ZJZr_vnIKgObeLUSAIQiH4rtoSUS074fTE4.NHE
+ kQ7lBM_YdkaK67L0MGnkdGlzBLEL6AmhgGcB5_5CjAXSqlZxDgDT5VcnNf1V
+ USOlt_3iVjGEvbOApgfbiuD4X.2pdqGhAOh0QFGtE4nqox_jEWNmrGONpbCe
+ 4ikcTiFhPFFvnSQua_KnT.7EjXZKI1lNAClEXqtGL5gNFnGetAOC5r.SwsiQ
+ tMZoJu823cRG4Q39m.z_HbkL5Lfzki7GDZfXyb97OKcRSpP_GhSy545WW45m
+ 6GNLjZjJqfNgx938LzUHii7XdXspujSsZBHqXGWYZHLdUSj65ZXEXls4Buit
+ Z6QIiOEQ6zkYPJyFVUnEcK_ZuTGKGcAoBAQ_OHhXMKXz9lKOhLOHI.I8mFTS
+ D0TZtIbeoUSFkwAP3zTau8DgeAdTq64rUnm5MNBUP1EFrOy..Phnvl_zYAIW
+ .CWkxGrxwr_YQWLU1wZK42jAdFsKYvT1.darvzAS6N4XQkhcjGucDDjRmqni
+ AblD40hkOMmK1bFKzBB7n4OvBEpwWNPCIXKoeCgTsbJ8UyHJFcNMixSD6S1y
+ iby4KNWYzp4_CJKqU6eRT4AH_HDvKbOOeUrAHVTn3YLMxly0ILjmWC7aqqNE
+ X91kv7n9pvrwvppHPhQHJ28fWAudhulOz.oeM2.XFFiDDHwODVvv0_aJzbxT
+ QGBIB.3vhdAxRTqeINiaUimtdM2S.0E6SqhhpODLmvtgcO7mC8BVXOzH6ARS
+ osu7lUt1h._I2o5lp.vnv8I.uPpmy6kNGfAJyrtmyKYn6zd3g0NEqWsFYF7C
+ nhT_jwvSJb2jnyjpFpV1XvjumhLcO7nomAMcQKrs5wCvq6Y7fq06Cl0ZqbJr
+ 2xx3XScT2BBR0KQFN2gCDJEJsGvnz1m43y.BLjarQiclgj3JWTgXpBk3rltE
+ nalIz9NrZs8h.1gZ8szwsL9NTEM0WgFV3SWYByWS3BfcTyyXMWx7TUhxvVyM
+ ooq5DPWJ5PeghOFAXJGJyZSyY51cFoMWcWHI6JQDDYJbiPb4sRHmw8YeBKdb
+ GTtc2r_wR3QXXcn9nVyJDKAuPPfnhUF9BcqMfh_GncJ90X9uAS3DeaLE8aue
+ _pMCRsz3zcaB.Cd7jCquopFJBWcOPcREfl1u9o2jmCvRY3obo9.btVX7G0dZ
+ 8q7ucHYQAF3fpr0znDmjeRZrgMeAZaPVyjoAbMnsiJv0etdZCGRrjUWpUJhe
+ qOji8fQNvy8wuanxZgb1pIhzTM1647ZTzfWvjOtgbkFa.pPCNoPuxZL05Zmm
+ HBOW5hKebykfFWrgkxRfNXYrnulBfbTmLSZdSvfGEFEg1ZN4kr_2vRPaXozV
+ 1AmAaQY5UM51zLRSZ6ZYPmIYR2I5032rzZfIh7jMmdz5Bg5UvNVJhWlOgEpq
+ HL3BUBaV8eNTw77i_R8AJByZdBMI0xbgIQv4_yPkcQU2Xh9cggD83zeW6Uli
+ iVqADDyR5ympAzRHjEf89rdet6II.W4RakjA.gX6soMTaYNdJeT0iShti3Dy
+ uTlfW1RQnZ5Z5EWnDoKnQ8DHVtxE0FGRHDwlCewzRDZWTF_qIIfCvtmzSD6t
+ 6oA5Ho7q_wnaVURahvOZYfCZGeg2bH1VnE3i7ENNGweWm89Ixq11nGQAEpLx
+ anQ0_FpKCiV9CDqydX_SPQC7vV50qYyb_fczt8VODIH6AOad2fI818J5kiMp
+ agxFI6KNffdV_Au9Rd3V6U7Gqd38J8.u4h36TiIJ02yaApVbkj49JKv6EHkf
+ JhbYTVKzb5SpBF08J4_ksxW3H7IzGZHGkl5Rrgu3CVMj4GvshiGIIQtkh8oj
+ LOcgdlbMLu4H5nZszNVAkrTzNm68Yj21WDaFpU6KFKhL0zf6W2O8psyxDqzO
+ QuN949RZ3vCNtamDRdnqmwKrIlwIvQDDCPxNLdLF9mH3G9rmw9ZRG2w--
+X-Received: from [173.48.58.98] by web122104.mail.ne1.yahoo.com via HTTP; Wed, 26 Feb 2014 16:34:34 PST
+X-Rocket-MIMEInfo: 002.001,TmFtYXN0ZSBTaXIsCgpXZWxjb21lIHRvIFVTIQoKClN1cHBvc2UgYSB0aXRoaSBzdGFydHMgYXQgOCBhbSBJU1Qgb24gRmViIDIwIG1vcm5pbmcgaW4gSW5kaWEuIEFzIHRpdGhpIGlzIGJhc2VkIG9uIHRoZSBhbmdsZSBiZXR3ZWVuIFN1biBhbmQgTW9vbiAoaS5lLiBNb29uJ3MgcGhhc2UpLCBpdCB3aWxsIHN0YXJ0IGF0IHRoZSBzYW1lIG1vbWVudCBpbiBVUyB0b28uIFdoZXJlIHlvdSBsaXZlLCB0aGlzIHdvdWxkIGNvcnJlc3BvbmQgdG8gOTozMCBwbSBvbiBGZWIgMTkgbmlnaHQuCgpDb252ZXJ0IGFsbCABMAEBAQE-
+X-Mailer: YahooMailWebService/0.8.177.636
+References: <CAJn+cQhqUoMS1XGCjSrEojOhcUFrFf0sXv=ihDdi3zP2PZcQKg@...>
+Message-ID: <1393461274.74113.YahooMailNeo@...>
+Date: Wed, 26 Feb 2014 16:34:34 -0800 (PST)
+To: "vedic-wisdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com>
+In-Reply-To: <CAJn+cQhqUoMS1XGCjSrEojOhcUFrFf0sXv=ihDdi3zP2PZcQKg@...>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="-851882195-825748206-1393461274=:74113"
+X-Originating-IP: 10.193.84.142
+X-eGroups-Msg-Info: 1:12:0:0:0
+From: "Narasimha P.V.R. Rao" <pvr108@...>
+Reply-To: "Narasimha P.V.R. Rao" <pvr108@...>
+Subject: Re: How to Determine Muhurta / Festival /events day when in USA
+X-Yahoo-Group-Post: member; u=77866142; y=DORMCKnWumIWHI_aRIo-GNp4XGcSTLASB0NIrybp4jJ1
+X-Yahoo-Profile: pvr108
+
+
+---851882195-825748206-1393461274=:74113
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Namaste Sir,
+
+Welcome to US!
+
+
+Suppose a tithi starts at 8 am IST on Feb 20=
+ morning in India. As tithi is based on the angle between Sun and Moon (i.e=
+. Moon's phase), it will start at the same moment in US too. Where you live=
+, this would correspond to 9:30 pm on Feb 19 night.
+
+Convert all start/end =
+times of tithis/nakshatras in this manner.
+
+Now, deciding when to celebrate=
+ a festival is slightly tricky. For each festival/religious day, there is a=
+n epoch time. Usually it is the sunrise time. On whichever day the tithi of=
+ interest is active at sunrise, that day is celebrated as the religious day=
+.
+
+However, there are some exceptions, as some religious observations are n=
+ot made at sunrise, but at other times. For example, Satya Narayana pooja i=
+s supposed to be done at sunset. If one wants to do Satya Narayana pooja on=
+ a Pournima day (like I do every month), the ideal method is to pick the da=
+y when Pournima tithi is active at sunset. Main prayer of Maha/masa Shiva R=
+atri is supposed to be at midnight. So the ideal method is to pick the nigh=
+t when Krishna Chaturdasi tithi is active at midnight. But, for most religi=
+ous days, sunrise is used.
+
+My humble suggestion is to ignore the thumbrule=
+e and make sure that the tithi of interest is active when YOU actually do s=
+ome prayer/pooja/ritual for that tithi/special day.
+Best regards,
+
+Narasimh=
+a
+--------
+Astrology & Spirituality Resources: http://www.VedicAstrologer.o=
+rg
+--------
+
+
+
+
+>________________________________
+> From: Rohit Upadhyay <r=
+ohitupadhyay@...>
+>To: vedic-wisdom@yahoogroups.com 
+>Sent: Wednesday=
+, February 26, 2014 2:47 PM
+>Subject: [vedic-wisdom] How to Determine Muhur=
+ta / Festival /events day when in USA
+> 
+>
+>
+>=C2=A0 
+>Dear All , 
+>
+>Not s=
+ure if this question is already asked in the forum 
+>
+>I just relocated to =
+USA and have a time difference of about 13.5 hours with India timezone.
+>
+>=
+My question is say for Maha Shivaratri what date/time should we follow , wi=
+ll it be India time or current timezone . As per India time it has started =
+, but if we follow US time it will not start until tomorrow.
+>
+>Please advi=
+se.
+>
+>Thanks and Regards
+>Rohit
+>
+>
+>
+>
+---851882195-825748206-1393461274=:74113
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"color:#000; background-color:#fff; font-family:ar=
+ial, helvetica, sans-serif;font-size:10pt"><div><span>Namaste Sir,</span></=
+div><div style=3D"color: rgb(0, 0, 0); font-size: 13.3333px; font-family: a=
+rial,helvetica,sans-serif; background-color: transparent; font-style: norma=
+l;"><br><span></span></div><div style=3D"color: rgb(0, 0, 0); font-size: 13=
+.3333px; font-family: arial,helvetica,sans-serif; background-color: transpa=
+rent; font-style: normal;"><span>Welcome to US!<br></span></div><div style=
+=3D"color: rgb(0, 0, 0); font-size: 13.3333px; font-family: arial,helvetica=
+,sans-serif; background-color: transparent; font-style: normal;"><br><span>=
+</span></div><div style=3D"color: rgb(0, 0, 0); font-size: 13.3333px; font-=
+family: arial,helvetica,sans-serif; background-color: transparent; font-sty=
+le: normal;"><span>Suppose a tithi starts at 8 am IST on Feb 20 morning in =
+India. As tithi is based on the angle between Sun and Moon (i.e. Moon's pha=
+se),
+ it will start at the same moment in US too. Where you live, this woul=
+d correspond to 9:30 pm on Feb 19 night.</span></div><div style=3D"color: r=
+gb(0, 0, 0); font-size: 13.3333px; font-family: arial,helvetica,sans-serif;=
+ background-color: transparent; font-style: normal;"><br><span></span></div=
+><div style=3D"color: rgb(0, 0, 0); font-size: 13.3333px; font-family: aria=
+l,helvetica,sans-serif; background-color: transparent; font-style: normal;"=
+><span>Convert all start/end times of tithis/nakshatras in this manner.</sp=
+an></div><div style=3D"color: rgb(0, 0, 0); font-size: 13.3333px; font-fami=
+ly: arial,helvetica,sans-serif; background-color: transparent; font-style: =
+normal;"><br><span></span></div><div style=3D"color: rgb(0, 0, 0); font-siz=
+e: 13.3333px; font-family: arial,helvetica,sans-serif; background-color: tr=
+ansparent; font-style: normal;"><span>Now, deciding when to celebrate a fes=
+tival is slightly tricky. For each festival/religious day, there is an epoc=
+h
+ time. Usually it is the sunrise time. On whichever day the tithi of inte=
+rest is active at sunrise, that day is celebrated as the religious day.</sp=
+an></div><div style=3D"color: rgb(0, 0, 0); font-size: 13.3333px; font-fami=
+ly: arial,helvetica,sans-serif; background-color: transparent; font-style: =
+normal;"><br><span></span></div><div style=3D"color: rgb(0, 0, 0); font-siz=
+e: 13.3333px; font-family: arial,helvetica,sans-serif; background-color: tr=
+ansparent; font-style: normal;"><span>However, there are some exceptions, a=
+s some religious observations are not made at sunrise, but at other times. =
+For example, Satya Narayana pooja is supposed to be done at sunset. If one =
+wants to do Satya Narayana pooja on a Pournima day (like I do every month),=
+ the ideal method is to pick the day when Pournima tithi is active at sunse=
+t. Main prayer of Maha/masa Shiva Ratri is supposed to be at midnight. So t=
+he ideal method is to pick the night when Krishna Chaturdasi tithi is
+ acti=
+ve at midnight. But, for most religious days, sunrise is used.</span></div>=
+<div style=3D"color: rgb(0, 0, 0); font-size: 13.3333px; font-family: arial=
+,helvetica,sans-serif; background-color: transparent; font-style: normal;">=
+<br><span></span></div><div style=3D"color: rgb(0, 0, 0); font-size: 13.333=
+3px; font-family: arial,helvetica,sans-serif; background-color: transparent=
+; font-style: normal;"><span>My humble suggestion is to ignore the thumbrul=
+ee and make sure that the tithi of interest is active when YOU actually do =
+some prayer/pooja/ritual for that tithi/special day.</span></div><div style=
+=3D"color: rgb(0, 0, 0); font-size: 13.3333px; font-family: arial,helvetica=
+,sans-serif; background-color: transparent; font-style: normal;"><br><span>=
+</span></div>Best regards,<br><div style=3D"color:rgb(0, 0, 0);font-size:13=
+px;font-family:arial, helvetica, clean, sans-serif;background-color:transpa=
+rent;font-style:normal;">Narasimha<br>--------<br>Astrology &
+ Spiritua=
+lity Resources: <a rel=3D"nofollow" target=3D"_blank" href=3D"http://www.ve=
+dicastrologer.org/">http://www.VedicAstrologer.org</a></div><div style=3D"c=
+olor:rgb(0, 0, 0);font-size:13px;font-family:arial, helvetica, clean, sans-=
+serif;background-color:transparent;font-style:normal;">--------<br></div><d=
+iv><br><blockquote style=3D"border-left: 2px solid rgb(16, 16, 255); margin=
+-left: 5px; margin-top: 5px; padding-left: 5px;">  <div style=3D"font-famil=
+y: arial, helvetica, sans-serif; font-size: 10pt;"> <div style=3D"font-fami=
+ly: times new roman, new york, times, serif; font-size: 12pt;"> <div dir=3D=
+"ltr"> <hr size=3D"1">  <font face=3D"Arial" size=3D"2"> <b><span style=3D"=
+font-weight:bold;">From:</span></b> Rohit Upadhyay <rohitupadhyay@gmail.=
+com><br> <b><span style=3D"font-weight: bold;">To:</span></b> vedic-wisd=
+om@yahoogroups.com <br> <b><span style=3D"font-weight: bold;">Sent:</span><=
+/b> Wednesday, February 26, 2014 2:47 PM<br> <b><span style=3D"font-weight:=
+
+ bold;">Subject:</span></b> [vedic-wisdom] How to Determine Muhurta / Fest=
+ival /events day when in USA<br> </font> </div> <div class=3D"y_msg_contain=
+er"><br><div id=3D"yiv6387749195"><div>
+<span style=3D"display:none;"> =
+;</span>
+
+
+<div id=3D"yiv6387749195ygrp-mlmsg" style=3D"">
+  <div id=3D"yiv=
+6387749195ygrp-msg" style=3D"">
+
+
+    <div id=3D"yiv6387749195ygrp-text">
+ =
+     
+      
+      <div dir=3D"ltr"><div><div><div><div>Dear All , <br clea=
+r=3D"none"><br clear=3D"none"></div>Not sure if this question is already as=
+ked in the forum <br clear=3D"none"><br clear=3D"none">I just relocated to =
+USA and have a time difference of about 13.5 hours with India timezone.<br =
+clear=3D"none"><br clear=3D"none">
+</div>My question is say for Maha Shivar=
+atri what date/time should we follow , will it be India time or current tim=
+ezone . As per India time it has started , but if we follow US time it will=
+ not start until tomorrow.<br clear=3D"none"><br clear=3D"none">
+</div>Plea=
+se advise.<br clear=3D"none"><br clear=3D"none"></div>Thanks and Regards<br=
+ clear=3D"none">Rohit<br clear=3D"none"></div>
+
+
+    </div>
+     
+
+    
+   =
+ <div style=3D"color:#fff;height:0;"></div></div>
+
+
+</div><style type=3D"te=
+xt/css">
+#yiv6387749195 #yiv6387749195 --
+  #yiv6387749195ygrp-mkp {
+border=
+:1px solid #d8d8d8;font-family:Arial;margin:10px 0;padding:0 10px;}
+
+#yiv63=
+87749195 #yiv6387749195ygrp-mkp hr {
+border:1px solid #d8d8d8;}
+
+#yiv638774=
+9195 #yiv6387749195ygrp-mkp #yiv6387749195hd {
+color:#628c2a;font-size:85%;=
+font-weight:700;line-height:122%;margin:10px 0;}
+
+#yiv6387749195 #yiv638774=
+9195ygrp-mkp #yiv6387749195ads {
+margin-bottom:10px;}
+
+#yiv6387749195 #yiv6=
+387749195ygrp-mkp .yiv6387749195ad {
+padding:0 0;}
+
+#yiv6387749195 #yiv6387=
+749195ygrp-mkp .yiv6387749195ad p {
+margin:0;}
+
+#yiv6387749195 #yiv63877491=
+95ygrp-mkp .yiv6387749195ad a {
+color:#0000ff;text-decoration:none;}
+#yiv63=
+87749195 #yiv6387749195ygrp-sponsor #yiv6387749195ygrp-lc {
+font-family:Ari=
+al;}
+
+#yiv6387749195 #yiv6387749195ygrp-sponsor #yiv6387749195ygrp-lc #yiv6=
+387749195hd {
+margin:10px 0px;font-weight:700;font-size:78%;line-height:122=
+%;}
+
+#yiv6387749195 #yiv6387749195ygrp-sponsor #yiv6387749195ygrp-lc .yiv63=
+87749195ad {
+margin-bottom:10px;padding:0 0;}
+
+#yiv6387749195 #yiv638774919=
+5actions {
+font-family:Verdana;font-size:11px;padding:10px 0;}
+
+#yiv6387749=
+195 #yiv6387749195activity {
+background-color:#e0ecee;float:left;font-famil=
+y:Verdana;font-size:10px;padding:10px;}
+
+#yiv6387749195 #yiv6387749195activ=
+ity span {
+font-weight:700;}
+
+#yiv6387749195 #yiv6387749195activity span:fi=
+rst-child {
+text-transform:uppercase;}
+
+#yiv6387749195 #yiv6387749195activi=
+ty span a {
+color:#5085b6;text-decoration:none;}
+
+#yiv6387749195 #yiv638774=
+9195activity span span {
+color:#ff7900;}
+
+#yiv6387749195 #yiv6387749195acti=
+vity span .yiv6387749195underline {
+text-decoration:underline;}
+
+#yiv638774=
+9195 .yiv6387749195attach {
+clear:both;display:table;font-family:Arial;font=
+-size:12px;padding:10px 0;width:400px;}
+
+#yiv6387749195 .yiv6387749195attac=
+h div a {
+text-decoration:none;}
+
+#yiv6387749195 .yiv6387749195attach img {=
+
+border:none;padding-right:5px;}
+
+#yiv6387749195 .yiv6387749195attach label=
+ {
+display:block;margin-bottom:5px;}
+
+#yiv6387749195 .yiv6387749195attach l=
+abel a {
+text-decoration:none;}
+
+#yiv6387749195 blockquote {
+margin:0 0 0 4=
+px;}
+
+#yiv6387749195 .yiv6387749195bold {
+font-family:Arial;font-size:13px;=
+font-weight:700;}
+
+#yiv6387749195 .yiv6387749195bold a {
+text-decoration:no=
+ne;}
+
+#yiv6387749195 dd.yiv6387749195last p a {
+font-family:Verdana;font-we=
+ight:700;}
+
+#yiv6387749195 dd.yiv6387749195last p span {
+margin-right:10px;=
+font-family:Verdana;font-weight:700;}
+
+#yiv6387749195 dd.yiv6387749195last =
+p span.yiv6387749195yshortcuts {
+margin-right:0;}
+
+#yiv6387749195 div.yiv63=
+87749195attach-table div div a {
+text-decoration:none;}
+
+#yiv6387749195 div=
+.yiv6387749195attach-table {
+width:400px;}
+
+#yiv6387749195 div.yiv638774919=
+5file-title a, #yiv6387749195 div.yiv6387749195file-title a:active, #yiv638=
+7749195 div.yiv6387749195file-title a:hover, #yiv6387749195 div.yiv63877491=
+95file-title a:visited {
+text-decoration:none;}
+
+#yiv6387749195 div.yiv6387=
+749195photo-title a, #yiv6387749195 div.yiv6387749195photo-title a:active, =
+#yiv6387749195 div.yiv6387749195photo-title a:hover, #yiv6387749195 div.yiv=
+6387749195photo-title a:visited {
+text-decoration:none;}
+
+#yiv6387749195 di=
+v#yiv6387749195ygrp-mlmsg #yiv6387749195ygrp-msg p a span.yiv6387749195ysho=
+rtcuts {
+font-family:Verdana;font-size:10px;font-weight:normal;}
+
+#yiv63877=
+49195 .yiv6387749195green {
+color:#628c2a;}
+
+#yiv6387749195 .yiv6387749195M=
+soNormal {
+margin:0 0 0 0;}
+
+#yiv6387749195 o {
+font-size:0;}
+
+#yiv63877491=
+95 #yiv6387749195photos div {
+float:left;width:72px;}
+
+#yiv6387749195 #yiv6=
+387749195photos div div {
+border:1px solid #666666;height:62px;overflow:hid=
+den;width:62px;}
+
+#yiv6387749195 #yiv6387749195photos div label {
+color:#66=
+6666;font-size:10px;overflow:hidden;text-align:center;white-space:nowrap;wi=
+dth:64px;}
+
+#yiv6387749195 #yiv6387749195reco-category {
+font-size:77%;}
+
+#=
+yiv6387749195 #yiv6387749195reco-desc {
+font-size:77%;}
+
+#yiv6387749195 .yi=
+v6387749195replbq {
+margin:4px;}
+
+#yiv6387749195 #yiv6387749195ygrp-actbar =
+div a:first-child {
+margin-right:2px;padding-right:5px;}
+
+#yiv6387749195 #y=
+iv6387749195ygrp-mlmsg {
+font-size:13px;font-family:Arial, helvetica, clean=
+, sans-serif;}
+
+#yiv6387749195 #yiv6387749195ygrp-mlmsg table {
+font-size:i=
+nherit;font:100%;}
+
+#yiv6387749195 #yiv6387749195ygrp-mlmsg select, #yiv638=
+7749195 input, #yiv6387749195 textarea {
+font:99% Arial, Helvetica, clean, =
+sans-serif;}
+
+#yiv6387749195 #yiv6387749195ygrp-mlmsg pre, #yiv6387749195 c=
+ode {
+font:115% monospace;}
+
+#yiv6387749195 #yiv6387749195ygrp-mlmsg * {
+li=
+ne-height:1.22em;}
+
+#yiv6387749195 #yiv6387749195ygrp-mlmsg #yiv6387749195l=
+ogo {
+padding-bottom:10px;}
+
+
+#yiv6387749195 #yiv6387749195ygrp-msg p a {
+f=
+ont-family:Verdana;}
+
+#yiv6387749195 #yiv6387749195ygrp-msg p#yiv6387749195=
+attach-count span {
+color:#1E66AE;font-weight:700;}
+
+#yiv6387749195 #yiv638=
+7749195ygrp-reco #yiv6387749195reco-head {
+color:#ff7900;font-weight:700;}
+=
+
+#yiv6387749195 #yiv6387749195ygrp-reco {
+margin-bottom:20px;padding:0px;}
+=
+
+#yiv6387749195 #yiv6387749195ygrp-sponsor #yiv6387749195ov li a {
+font-siz=
+e:130%;text-decoration:none;}
+
+#yiv6387749195 #yiv6387749195ygrp-sponsor #y=
+iv6387749195ov li {
+font-size:77%;list-style-type:square;padding:6px 0;}
+
+#=
+yiv6387749195 #yiv6387749195ygrp-sponsor #yiv6387749195ov ul {
+margin:0;pad=
+ding:0 0 0 8px;}
+
+#yiv6387749195 #yiv6387749195ygrp-text {
+font-family:Geor=
+gia;}
+
+#yiv6387749195 #yiv6387749195ygrp-text p {
+margin:0 0 1em 0;}
+
+#yiv6=
+387749195 #yiv6387749195ygrp-text tt {
+font-size:120%;}
+
+#yiv6387749195 #yi=
+v6387749195ygrp-vital ul li:last-child {
+border-right:none !important;
+}
+#y=
+iv6387749195 
+</style></div><br><br></div> </div> </div> </blockquote></div=
+>   </div></body></html>
+---851882195-825748206-1393461274=:74113--
+
+

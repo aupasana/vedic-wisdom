@@ -1,0 +1,471 @@
+From vinayakmechie@...  Wed Feb 17 11:10:21 2016
+Return-Path: <vinayakmechie@...>
+X-Sender: vinayakmechie@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 97609 invoked from network); 2 Sep 2012 06:49:56 -0000
+X-Received: from unknown (98.137.35.161)
+  by m10.grp.sp2.yahoo.com with QMQP; 2 Sep 2012 06:49:56 -0000
+X-Received: from unknown (HELO nm12-vm2.bullet.mail.ne1.yahoo.com) (98.138.91.88)
+  by mta5.grp.sp2.yahoo.com with SMTP; 2 Sep 2012 06:49:56 -0000
+X-Received: from [98.138.90.55] by nm12.bullet.mail.ne1.yahoo.com with NNFMP; 02 Sep 2012 06:49:55 -0000
+X-Received: from [98.138.89.165] by tm8.bullet.mail.ne1.yahoo.com with NNFMP; 02 Sep 2012 06:49:55 -0000
+X-Received: from [127.0.0.1] by omp1021.mail.ne1.yahoo.com with NNFMP; 02 Sep 2012 06:49:55 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 756621.8001.bm@...
+X-Received: (qmail 99199 invoked by uid 60001); 2 Sep 2012 06:49:55 -0000
+X-YMail-OSG: ChZUpYwVM1k4yPQ.xOhf_MWeYS5eD87TxDfOxVJgs8gOLzi
+ lV4iTRbkDalR8KIqgHHGejsl_tDGgqPot4eQcFi6OXmdX.hOa3avm7RVnT5u
+ xjrKNWGO4.WIvAQEk2.TArLCn6xihOg9xJdElEeOcjUnoY7095kB6yqj5w4m
+ mo2Zx80_uRSiksaG.S6RQ_qYnWoxCQ36bkvhK2YqVEQNtfo9kR._8Ed8Z3U4
+ Uqf9c0e6sf6o5q0Mx1uaFCPk0Zvqno0hoC_BopKUBGMECmV5dH.Q7RKX2Vfz
+ FnBHTBr1vTJjtDZ0.2nG34BI42o.M8Agki3M8kFSjv6DDXeZ2s.YoOeR7IsB
+ hv27876dnXZV_Z8JmUAx0haJ6tkZeSMbnRJ6I0tw20_zmB2aX56358NlOGHj
+ 5my3iGmxDrMWxIarOouYp1LhRWnQrkCt0D2QK0rTY0NLyCXd0P4VVTiC7h5C
+ MKWgXwPOXEuxrQeMLKprRUcRq23Icgi9TWLVJUIQ0mpyy_BcdiegiWk9wHx3
+ o4jeKett7LUPivhfaXjt056CzZrmADOaGCLCexa1EAQHFdzM9eQ5OWGQL4Lx
+ Jf6d20Cbh20RtvU17H9.caN4Hk1dJ5nvAxz1euUrdQrKDCrSDWrjFgLvSw1O
+ QaBjObv4gkzBW1RqMxyWTEf1c68CLsCSGFH1vz0sUJSzcMdZVEL958ahHoUd
+ V9k.pD.PSKishhDuhxMylwLAFDvCpDVcesaAJr5_L7Uyomn.0qLdfHmZKKwy
+ Nvf60GQfopaEPSqawLb0q2ljH9CffLsqhzWGmqZBqh85BAjytebRLI1TEhes
+ l6_SdL3E6woScx.qmE_0H.pmMZxv0PsgWlSx_5O1j9i9ovFguOCWhUIOgf02
+ tR6G2lNfPOt4fAAaNRE8ji8xEOOYbV.MEv.lOH5p37piHONDuDWEAmlDvLn.
+ Jzp3dotTQJR_mnwJGuKbzVLaQVljqq_eSsZS9GhT0ePfTsuYw2T8W6S6kRE6
+ BnNiGOVgRC.SiXDQcKvto.s8RRnVy.9DQ2QuG3FikmcXtHnRYd36XN4LIFA7
+ MyJ6CX4GgIbgDxuPZVw8lVzY4H7kAkc5ZDBYrga3Uq.X0lVorDjYwa9GW5aJ
+ QKi7ofeB4zvugc0c1uW1TSaxLxiHYpeGu1NcMl9d59qnftqympTCkoxG9KMG
+ 4GTSaUkrUhSWhjZ6VfN1GlIn5qzkK50r1sK02Zvucv1n45rqdv7sfWvF5YT0
+ hTumf7EYlr8A5NLXuQS_kKsYptEvaeldjdXzvqCZ_CYxEDAwOnYlQKfkqW52
+ tcCVGF6KzIH.MEc1stF32bvopIlgVQB7SoIhgOx4.MR1anKMfWZ2WYKdbfYR
+ JB3EJstBQ5RjYi8l4rwpEc2udPGxKXUNLwappbasyAvJOcqbQhmq7u1vA9LE
+ FDTmDTjxUhDLcRxgxsDIs_xNnkGt0ifM3s76uO2ZQg7GT9I5_E1ufCsTrW3i
+ vgWu5G_7wRDjz8vKuc89UWashhXSKNfrb1f4WDcRiskkQduU25Ah3EPrdGi3
+ DlYEpv5l3SJ701pA.i1HuSYeqhHwM1za6AR1VS.LGJR1boCcbpwWtm8sOzUL
+ QzEaYiuvtV1_vUYuVaZgv5UMnxKD_oFVfUd8T2iW9_vqCVZxJX1gPhjvwlcz
+ uO0mSq7qWlrhCZ7BiSMaYENVHQoK4EhJjylkuoIX1uKyr5dFeVxOnLSy.BWC
+ 7ss12.brRpNOaUZrVV3MDCUsTDYia4uDqpILe4quHLGtdmwGKwEbNbghMmAX
+ zA9qV0h2l3eBcbHSDnSSrdogO0taPbbQqmB4HthbkQ2hm1bOWPEdUdy2zkuE
+ zICItZHfLra.b94uzDtwx92yDg9Tu_J57Sf.6wul2iHavCE6WapGT6ng5Cg-
+ -
+X-Received: from [180.215.26.200] by web120704.mail.ne1.yahoo.com via HTTP; Sat, 01 Sep 2012 23:49:55 PDT
+X-Mailer: YahooMailClassic/15.0.8 YahooMailWebService/0.8.121.416
+Message-ID: <1346568595.79040.YahooMailClassic@...>
+Date: Sat, 1 Sep 2012 23:49:55 -0700 (PDT)
+To: vedic-wisdom@yahoogroups.com
+In-Reply-To: <1346555905.69403.YahooMailNeo@...>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="1167350687-1637660528-1346568595=:79040"
+X-Originating-IP: 98.138.91.88
+X-eGroups-Msg-Info: 1:12:0:0:0
+From: vinayak tandle <vinayakmechie@...>
+Subject: Re: [vedic-wisdom] RE: Burning Bad Karma: Homa / Sudarshan Kriya
+X-Yahoo-Group-Post: member; u=241754584; y=_ThAxfpra2Zr8kPW6S6iPJpajzaQg7Ho72No--LSxdpNm7Z80aXdLQ
+X-Yahoo-Profile: vinayakmechie
+
+
+--1167350687-1637660528-1346568595=:79040
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Namaste Guruji,
+I consider you as my Guru as you are the one of the 4
+promi=
+nent people who have influenced & inspired me on spiritual path(whatever
+li=
+ttle I do) & I find your explanations
+very very convincing. As always I fou=
+nd this reply too very convincing
+& clear. I know you for past 5 years & ha=
+ve gone through your emails,
+Astrology lessons & your book too.=C2=A0
+Wante=
+d to do homa read about it, saw the
+videos but could not do it yet. I found=
+ sudarshan kriya very effective &
+moreover need not arrange for things as r=
+equired in doing homa. So just was
+curious to know the comparision of homa =
+& kriya.
+
+
+Regarding the organization putting a price tag on what they
+teac=
+h: they are taking the price & doing social service through it,
+schools, re=
+habilitation etc., For people who cant afford the price tag its free
+for th=
+em. I personally found sudarshan kriya very effective as also is the same
+w=
+ith some of my friends. We pay money for doing a course & that money is def=
+initely
+utilized for good deeds.
+
+
+I know you know things very well. =C2=A0=
+In case you have not experienced the sudarshan
+kriya then the answer to thi=
+s email will be complete after you practice it for
+some time & share your e=
+xperience as I find your explanations very precise
+up to the level you know=
+ it.
+
+One more thing in a video it was said that kriya burns bad
+karma. May=
+ you please specifically answer to this whether kriya or homa burns
+bad kar=
+ma or its just for spiritual progress & we have to experience the
+bad karma=
+ anyway.
+
+
+I feel very lucky to know you & others who made me do
+something =
+spiritual.
+Regards
+Vinayak
+--- On Sun, 9/2/12, Narasimha P.V.R. Rao <pvr@ch=
+arter.net> wrote:
+
+From: Narasimha P.V.R. Rao <pvr@...>
+Subject: [v=
+edic-wisdom] RE: Burning Bad Karma: Homa / Sudarshan Kriya
+To: "vedic-wisdo=
+m@yahoogroups.com" <vedic-wisdom@yahoogroups.com>
+Date: Sunday, September 2=
+, 2012, 8:48 AM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=C2=A0
+
+
+
+  
+
+
+    
+      
+      
+      Nam=
+aste,
+=C2=A0
+There are many spiritual practices that increase one's spiritu=
+al strength, just as there are many foods that increase one's physical stre=
+ngth.
+=C2=A0
+*=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0 *=C2=A0=C2=A0=C2=
+=A0=C2=A0=C2=A0=C2=A0=C2=A0 *
+=C2=A0
+Do you get more strength by eating cas=
+hews, raisins, fruits and milk or by eating cooked rice, dal and vegetables=
+ or by eating chapati and curries or sandwiches or pasta or so many other s=
+tyles of food?
+=C2=A0
+It is possible to get balanced nutrition through each=
+ style. However, if one likes chapati and curries, forcing one to eat pasta=
+ may not work. If one likes grilled sandwiches, forcing one to eat rice and=
+ dal may not work.
+=C2=A0
+Similarly, do you get more spiritual strength by =
+doing homam with a mantra or japam with a mantra or pranayama with a
+ mantr=
+a or so many sadhana paths?
+=C2=A0
+It is possible to get balanced spiritual=
+ progress through each path. However, if one likes singing prayers, forcing=
+ one to do pranayama may not work. If one likes japam, forcing one to do ho=
+mam may not work.
+=C2=A0
+*=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0 *=C2=
+=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0 *
+=C2=A0
+What style of food one eat=
+s, how many times a day one eats, how much food one eats each time is secon=
+dary (though it matters too). How well one is enjoying food and digesting i=
+t is primary.
+=C2=A0
+Similarly, what sadhana one does, how many years one d=
+oes sadhana for and how many hours one spends in sadhana everyday is second=
+ary (though it matters too). How involved one is in and how much one is enj=
+oying sadhana is primary.
+=C2=A0
+If one finds a sadhana that one can enjoy =
+and engage in without forcing oneself mechanically and if one feels love an=
+d attachment to the tools, symbols
+ and steps involved in that sadhana, one=
+ is lucky. Otherwise, one may engage in a sadhana mechanically for a long t=
+ime without making much progress.
+=C2=A0
+But, realize that one may have to =
+try many cuisines before finding what one really loves. Secondly, one may d=
+islike a cuisine at first and slowly get hooked. All these variables are th=
+ere. But, eventually, one needs to enjoy what one is eating, to digest well=
+. Similarly, one needs to eventually start enjoying one's sadhana, to progr=
+ess spiritually.
+=C2=A0
+*=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0 *=C2=A0=
+=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0 *
+=C2=A0
+Having said that, fire is som=
+ething separate and special. Almost every ancient culture and civilization =
+worshipped god in sacred fire.
+=C2=A0
+No matter what kind of food one eats,=
+ eating some ginger can provoke one's appetite and make one digest better. =
+Similarly, no matter what kind of sadhana one does, doing some fire worship=
+ can
+ provoke one's internal fire and make one digest better.
+=C2=A0
+Also, =
+just as a good nutritionist working with one can help one in picking the ri=
+ght balance of foods, a good guru or mentor working with one can help one i=
+n picking the right balance of sadhanas.
+=C2=A0
+So a good guru/mentor and c=
+ompany of fire are two things that put one in good stead, irrespective of w=
+hat else one does.
+=C2=A0
+*=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0 *=C2=
+=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0 *
+=C2=A0
+I do not like to comment o=
+n specific people or organizations. But, I'd *in general* be suspicious of =
+anyone who says they have a special and effective spiritual path, then cont=
+rols and guards the details tightly and puts a price on it. That is not the=
+ way of rishis. That is not the way of Sanatana Dharma.
+=C2=A0
+But if one t=
+ries such a path and benefits, good for them. I'd personally stay away from=
+ such organizations.
+=C2=A0
+BTW, I am
+ not a "guruji", though I answered yo=
+ur question.
+=C2=A0
+Best regards,
+Narasimha
+--------
+Astrology & Spirituali=
+ty Resources: http://www.VedicAstrologer.org 
+--------
+=C2=A0
+> Dear Guruji=
+, 
+> 
+> Please explain do we burn bad karma by performing homa or
+> sudarsh=
+an kriya o\f art of living. Among Homa & Sudarshan
+> Kriya which is stronge=
+r. Please elaborate 
+> 
+> Regards 
+> Vinayak 
+
+
+
+    
+     
+
+    
+    
+
+
+
+
+=
+
+
+  
+
+
+
+
+
+
+
+
+
+--1167350687-1637660528-1346568595=:79040
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<table cellspacing=3D"0" cellpadding=3D"0" border=3D"0" ><tr><td valign=3D"=
+top" style=3D"font: inherit;"><p class=3D"MsoNormal">Namaste Guruji,</p><p =
+class=3D"MsoNormal"><br></p><p class=3D"MsoNormal">I consider you as my Gur=
+u as you are the one of the 4
+prominent people who have influenced & in=
+spired me on spiritual path(whatever
+little I do) & <b>I find your expl=
+anations
+very very convincing</b>. As always I found this reply too very co=
+nvincing
+& clear. I know you for past 5 years & have gone through y=
+our emails,
+Astrology lessons & your book too. </p><p class=3D"Mso=
+Normal"><br></p><p class=3D"MsoNormal">Wanted to do homa read about it, saw=
+ the
+videos but could not do it yet. I found sudarshan kriya very effective=
+ &
+moreover need not arrange for things as required in doing homa. So j=
+ust was
+curious to know the comparision of homa & kriya.</p>
+
+<p class=
+=3D"MsoNormal"><br></p><p class=3D"MsoNormal">Regarding the organization pu=
+tting a price tag on what they
+teach: they are taking the price & doing=
+ social service through it,
+schools, rehabilitation etc., For people who ca=
+nt afford the price tag its free
+for them. I personally found sudarshan kri=
+ya very effective as also is the same
+with some of my friends. We pay money=
+ for doing a course & that money is definitely
+utilized for good deeds.=
+</p><p class=3D"MsoNormal"><br></p>
+
+<p class=3D"MsoNormal">I know you know=
+ things very well.  In case you have not experienced the sudarshan
+kri=
+ya then the answer to this email will be complete after you practice it for=
+
+some time & share your experience as I find your explanations very pre=
+cise
+up to the level you know it.</p>
+
+<p class=3D"MsoNormal">One more thin=
+g in a video it was said that kriya burns bad
+karma. May you please specifi=
+cally answer to this whether kriya or homa burns
+bad karma or its just for =
+spiritual progress & we have to experience the
+bad karma anyway.</p><p =
+class=3D"MsoNormal"><br></p>
+
+<p class=3D"MsoNormal">I feel very lucky to k=
+now you & others who made me do
+something spiritual.</p><p class=3D"Mso=
+Normal"><br></p><p class=3D"MsoNormal">Regards</p><p class=3D"MsoNormal"><b=
+r></p><p class=3D"MsoNormal">Vinayak</p><br>--- On <b>Sun, 9/2/12, Narasimh=
+a P.V.R. Rao <i><pvr@...></i></b> wrote:<br><blockquote style=
+=3D"border-left: 2px solid rgb(16, 16, 255); margin-left: 5px; padding-left=
+: 5px;"><br>From: Narasimha P.V.R. Rao <pvr@...><br>Subject: =
+[vedic-wisdom] RE: Burning Bad Karma: Homa / Sudarshan Kriya<br>To: "vedic-=
+wisdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com><br>Date: Sunda=
+y, September 2, 2012, 8:48 AM<br><br><div id=3D"yiv803454747">
+
+
+
+
+
+
+
+
+
+
+
+
+=
+
+<div>
+<span style=3D"display:none;"> </span>
+
+
+
+    <div id=3D"yiv803=
+454747ygrp-text">
+      
+      
+      <p></p><div style=3D"color:#000;backg=
+round-color:#fff;font-family:arial, helvetica, sans-serif;font-size:10pt;">=
+Namaste,<br> <br>There are many spiritual practices that increase one'=
+s spiritual strength, just as there are many foods that increase one's phys=
+ical strength.<br> <br>*        *&n=
+bsp;       *<br> <br>Do you get more str=
+ength by eating cashews, raisins, fruits and milk or by eating cooked rice,=
+ dal and vegetables or by eating chapati and curries or sandwiches or pasta=
+ or so many other styles of food?<br> <br>It is possible to get balanc=
+ed nutrition through each style. However, if one likes chapati and curries,=
+ forcing one to eat pasta may not work. If one likes grilled sandwiches, fo=
+rcing one to eat rice and dal may not work.<br> <br>Similarly, do you =
+get more spiritual strength by doing homam with a mantra or japam with a ma=
+ntra or pranayama with a
+ mantra or so many sadhana paths?<br> <br>It =
+is possible to get balanced spiritual progress through each path. However, =
+if one likes singing prayers, forcing one to do pranayama may not work. If =
+one likes japam, forcing one to do homam may not work.<br> <br>* =
+       *      &=
+nbsp; *<br> <br>What style of food one eats, how many times a day one =
+eats, how much food one eats each time is secondary (though it matters too)=
+. How well one is enjoying food and digesting it is primary.<br> <br>S=
+imilarly, what sadhana one does, how many years one does sadhana for and ho=
+w many hours one spends in sadhana everyday is secondary (though it matters=
+ too). How involved one is in and how much one is enjoying sadhana is prima=
+ry.<br> <br>If one finds a sadhana that one can enjoy and engage in wi=
+thout forcing oneself mechanically and if one feels love and attachment to =
+the tools, symbols
+ and steps involved in that sadhana, one is lucky. Other=
+wise, one may engage in a sadhana mechanically for a long time without maki=
+ng much progress.<br> <br>But, realize that one may have to try many c=
+uisines before finding what one really loves. Secondly, one may dislike a c=
+uisine at first and slowly get hooked. All these variables are there. But, =
+eventually, one needs to enjoy what one is eating, to digest well. Similarl=
+y, one needs to eventually start enjoying one's sadhana, to progress spirit=
+ually.<br> <br>*        * &nbs=
+p;      *<br> <br>Having said that, fire is s=
+omething separate and special. Almost every ancient culture and civilizatio=
+n worshipped god in sacred fire.<br> <br>No matter what kind of food o=
+ne eats, eating some ginger can provoke one's appetite and make one digest =
+better. Similarly, no matter what kind of sadhana one does, doing some fire=
+ worship can
+ provoke one's internal fire and make one digest better.<br>&n=
+bsp;<br>Also, just as a good nutritionist working with one can help one in =
+picking the right balance of foods, a good guru or mentor working with one =
+can help one in picking the right balance of sadhanas.<br> <br>So a go=
+od guru/mentor and company of fire are two things that put one in good stea=
+d, irrespective of what else one does.<br> <br>*   &nbs=
+p;    *        *<br> =
+;<br>I do not like to comment on specific people or organizations. But, I'd=
+ *in general* be suspicious of anyone who says they have a special and effe=
+ctive spiritual path, then controls and guards the details tightly and puts=
+ a price on it. That is not the way of rishis. That is not the way of Sanat=
+ana Dharma.<br> <br>But if one tries such a path and benefits, good fo=
+r them. I'd personally stay away from such organizations.<br> <br>BTW,=
+ I am
+ not a "guruji", though I answered your question.<br> <br>Best r=
+egards,<br>Narasimha<br>--------<br>Astrology & Spirituality Resources:=
+ http://www.VedicAstrologer.org <br>--------<br> <br>> Dear Guruji,=
+ <br>> <br>> Please explain do we burn bad karma by performing homa o=
+r<br>> sudarshan kriya o\f art of living. Among Homa & Sudarshan<br>=
+> Kriya which is stronger. Please elaborate <br>> <br>> Regards <b=
+r>> Vinayak <br><br></div>
+
+    </div>
+     
+
+
+
+</div>
+
+
+
+
+
+</div></bloc=
+kquote></td></tr></table>
+--1167350687-1637660528-1346568595=:79040--
+
+

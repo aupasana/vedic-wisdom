@@ -1,0 +1,227 @@
+From pvr108@...  Wed Feb 17 11:07:48 2016
+Return-Path: <pvr108@...>
+X-Sender: pvr108@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 55764 invoked by uid 102); 23 Jul 2015 01:47:26 -0000
+X-Received: from unknown (HELO mtaq4.grp.bf1.yahoo.com) (10.193.84.143)
+  by m15.grp.bf1.yahoo.com with SMTP; 23 Jul 2015 01:47:26 -0000
+X-Received: (qmail 800 invoked from network); 23 Jul 2015 01:47:26 -0000
+X-Received: from unknown (HELO mta1003.groups.mail.bf1.yahoo.com) (98.139.170.167)
+  by mtaq4.grp.bf1.yahoo.com with SMTP; 23 Jul 2015 01:47:26 -0000
+X-Original-Return-Path: <pvr108@...>
+X-Received-SPF: pass (domain of yahoo.com designates 98.139.212.163 as permitted sender)
+X-YMailISG: XqKkEiwWLDtxxgoRcyuUaLYVXZAJ4I3noSeTe.SGVO8AP3l7
+ DRT76c3xZXs3TJysOEDIkF_mJUyQF_Bc9tsXn7xSvkMn9VkWV6vFhhl9rgjo
+ SUKh8YBhIzRutLPs6xU.rqhZZ3wKAYMYVhOc6kpg0_NF8xU_uCbSY_a063oA
+ zm1TwSH53cA9UC55P68z6jSdHgj_IlI92r.7OX3q5YcX8g1g_cb7c.Cy9epe
+ 8QtYevITCHFG87LMuQRfopSwJAxV5bnHu0fFOCRp6ajo58brkFNFgB_ilYv6
+ QnLX7EvWsbxCRDxgxU2hg7kPN7La_BBTZDDIIdINsrR.x_9S_0NVUjUR5lX1
+ .gz.2EikrxNkbRZfWHKef_sQPQ3nAYiYodw4yIFjQdaIn1BT_8LMhJdFIroN
+ k5N.KYaXFNJ1zLIp4WuhfxQE1dywjAmZls_Ul_1OOjfc8lXIyJfAysb3gNvS
+ CkSnR_1dpXUS1CfpFUvUx_pJlGOdfDHaE1HRJ.uJlC75pvohjnprl9mLl9L9
+ mgFwdUoTwVCgXSpAOYm3vP7MyEhm.i9Zo2SAyt.tGTPkjbcvZtH0TNNRzTfW
+ z3l8TkYADYgwZb0GzoFD9mBXTdcRNRYjU6shmCZ3gsN409ctjed.9Fj9fl_W
+ 3dt.9CWKmVHmGoCMzchc.cYpZK2GbdOo2_aioHtXZ4GILx3RnpslRGEc7JBA
+ qjWB9msiEeMiCMHGg6WxKc0cfQhWJiVDsQam2as_sJVBJ6xsBffCG7fmUOTP
+ OiqAlJLHSj5PyH9f1.Klwk81ST7PKDwAshL1VxclvT6d2iFnNvkBWm4mK9Tm
+ doqtPc7OaJQh1TnOf7lLxRdK7sroNxfHhQbHYpdWo5440d8cFjElckr9DX_n
+ ddD7miXjXYfnCtmei.j_MlHQR77zYor2g5TtoGx_zDYuQWrCCNvlBx1MWA5P
+ Z9B_NyugzzZ.samRLvujaWGMozS8B3arcwsZRfFvALP.MPIt9JHPDGGlaI82
+ 49p5vBykMDbaxx7CLZJ3iHSvo0Ej_BtsHB0Pb0TGyTdhQHYGyziT5A8Il8K.
+ KUEzef.Evepn7aYW.V_F.eD1K7vavY5S4Fm215HgBAuk8WtCKj99LKCynIJa
+ xhh1itpRY_tRtsa07E39MdxKY9sh9iDKxrV3xRSujfI33hhSeK1GPRs1LHeo
+ NgaWYWw81FaK7fTynd9uXeUYQYT5oTqApbnXw9X5j943vJcK1a1vUewEbj97
+ QgcnXiFcT9qi3Ycl0u3vd9tXl3IZCNl_qkSAgv96OdpQF8JfjIVYTJm4jFWS
+ hgbkO2U.qdqRe46FQE7pYjrnDip5GroXoTVOzH.0QIRr9mQy9QKsnva1Ldhr
+ PsvmzSP2vmA8pJmcoGJaGECIa8P88G18MYN_KSjsNnq.c1MsJtG58DZ0fQIy
+ AKfiw0UR3txZ0phndRYikaLYizN0nv9kH5FUb338VPJNV43HV7eldL7W6OVc
+ JPA6u2SW_uwJUlSMK.oMCEACWE_B2ByDuVMLCNJrkGE.YJUbwUZ4vf3bkqPz
+ dU5p0NUGeSoKL.2AkAU-
+Authentication-Results: mta1003.groups.mail.bf1.yahoo.com  from=yahoo.com; domainkeys=neutral (no sig);  from=yahoo.com; dkim=pass (ok)
+X-Received: from 127.0.0.1  (EHLO nm4.bullet.mail.bf1.yahoo.com) (98.139.212.163)
+  by mta1003.groups.mail.bf1.yahoo.com with SMTPS; Thu, 23 Jul 2015 01:47:26 +0000
+X-Received: from [66.196.81.170] by nm4.bullet.mail.bf1.yahoo.com with NNFMP; 23 Jul 2015 01:47:25 -0000
+X-Received: from [98.139.212.218] by tm16.bullet.mail.bf1.yahoo.com with NNFMP; 23 Jul 2015 01:47:25 -0000
+X-Received: from [127.0.0.1] by omp1027.mail.bf1.yahoo.com with NNFMP; 23 Jul 2015 01:47:25 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 949946.90675.bm@...
+X-YMail-OSG: R4sIrWYVM1mpbk9pv2L_VDXn.UkFeJn7eBef9PGArepqILRr3bFIzl1rDuhCdyF
+ IctoDAoBbzK81IppQa_S2Hfuqmss_8M8oiPHtS13SWp1N9id4xGRUrt7NQuKORg10MR2HH_zilU2
+ c3oBuI9gVjrSIHl0Ojx4Wt_PDxXey8M8fcwt8fPn2ZkzNnU54lLoqm6CJk14aQdQ5kLS8BCgAmKr
+ BybYGuVZ2IfEoxD_b65SBJhOlyQ2uPdXD0NT0fPeSbLWcJ6IWpMM7JIluiEDVHnFYFv09hrcvn6b
+ Rgm.MnA9DNwPxPOgFaJsdYJXcHzOqeWDi8gNK0qJDGuaN_zH4vVrob8VOxI0gbPkRATukDnnE1tE
+ Yuyq1J4clOKpYJGqtfYOgxwdePy1g6R15lseL.cm9Krw4Z4.qTXl8bR_VI9Kn9g1ZmDDiyFHdC.m
+ AqHCqZSE1iILBh1W14oc0z_KjoS0Xk99B9xmxBwmL4h_m0Ot33Lz_c44qAM8xTswZo1silbR4uFv
+ c2rRhS.sRcZJWUw--
+X-Received: by 76.13.27.134; Thu, 23 Jul 2015 01:47:25 +0000 
+Date: Thu, 23 Jul 2015 01:47:24 +0000 (UTC)
+To: Vedicastro <vedic-astrology@yahoogroups.com>, 
+	Vedic Wisdom <vedic-wisdom@yahoogroups.com>, 
+	"jyotishwritings@yahoogroups.com" <jyotishwritings@yahoogroups.com>, 
+	Jyotish Group <jyotishgroup@yahoogroups.com>
+Message-ID: <186951354.919190.1437616044817.JavaMail.yahoo@...>
+In-Reply-To: <1387330080.550169.1437583103579.JavaMail.yahoo@...>
+References: <1387330080.550169.1437583103579.JavaMail.yahoo@...>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_919189_222075596.1437616044811"
+Content-Length: 9524
+X-Originating-IP: 98.139.170.167
+Reply-To: "Narasimha P.V.R. Rao" <pvr108@...>
+Subject: Re: Worship of Mahavidyas
+X-Yahoo-Group-Post: member; u=77866142; y=D266bUDKGY3Jaflz3E24yPkdhySP6_PuadJax6hlIH6p
+X-Yahoo-Profile: pvr108
+From: "Narasimha P.V.R. Rao" <pvr108@...>
+
+
+------=_Part_919189_222075596.1437616044811
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Namaste,
+There is no special procedure to stop a Mahavidya sadhana.
+They ar=
+e not egoistic people like us, who get offended that somebody left them!
+Bu=
+t, IF someone is actually fit for a Mahavidya and She started working with =
+one, She will work on the person even if he stops her mantra. But then, it =
+is not a bad thing. If troubles occur, it may feel like a bad thing to the =
+person in the short term (could be decades, which is very very short term f=
+or deities), but eventually it will be for good!
+There is one more thing!
+S=
+omeone may not be worshiping a Mahavidya explicitly, but may make progress =
+due to vasanas and that Mahavidya's blessings may come to that person autom=
+atically. Specific mantras of Mahavidyas are ONE way to invoke their influe=
+nce on on, but not the only way!
+Even if one does not know what brain is, s=
+till one has a brain and that functions within one. Similarly, even if one =
+does not know deities, they exist within one as subtler aspects of one's hi=
+gher personality. They do manifest within one.
+If one overcomes all kinds o=
+f fears, sense of shame and self-consciousness, possibly Bhairavi's blessin=
+gs are there and Bhairavi is manifesting within one and guiding one towards=
+ liberation. One may not worship Bhairavi with any mantra and may not even =
+know the name. But She does not care and may be working through that person=
+...
+Best regards,
+Narasimha
+--------
+Astrology & Spirituality Resources: ht=
+tp://www.VedicAstrologer.org--------
+
+ 
+    Dear Sir,
+I have my experience =
+in worshiping =C2=A0Maha Vidya, Sri Kamala .Mantra I used, Om Aim Hrim Shri=
+m Kleem Hasouh Jagatprasutyai Namah. I wanted a change in my life, some how=
+ it changed my residence, place of work, also at last I had a critical acci=
+dent which broke my T5 bone in spine. As you said I feel your understanding=
+ in worshiping dasa maha vidya is correct thank you for sharing your knowle=
+dge.
+Also is there any special way or procedures to end worshiping Dasa Mah=
+a Vidya's.
+I am from Sri Lanka in our History Book MAHA WANSAYA, =C2=A0King=
+ Pandukabhaya in Anuradhapura era, used to worship Bagalamuki Devi, he had =
+his throne until his death (he reined 77 years=C2=A0437 BC =E2=80=93 367 BC=
+). =C2=A0=C2=A0
+Regards<deleted>   
+
+------=_Part_919189_222075596.1437616044811
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"color:#000; background-color:#fff; font-family:He=
+lveticaNeue, Helvetica Neue, Helvetica, Arial, Lucida Grande, sans-serif;fo=
+nt-size:13px"><div id=3D"yui_3_16_0_1_1437482802552_38375"><span id=3D"yui_=
+3_16_0_1_1437482802552_38374">Namaste,</span></div><div id=3D"yui_3_16_0_1_=
+1437482802552_38373"><span><br></span></div><div id=3D"yui_3_16_0_1_1437482=
+802552_38372"><span id=3D"yui_3_16_0_1_1437482802552_38371">There is no spe=
+cial procedure to stop a Mahavidya sadhana.</span></div><div id=3D"yui_3_16=
+_0_1_1437482802552_38376"><span><br></span></div><div id=3D"yui_3_16_0_1_14=
+37482802552_38250"><span id=3D"yui_3_16_0_1_1437482802552_38249">They are n=
+ot egoistic people like us, who get offended that somebody left them!</span=
+></div><div id=3D"yui_3_16_0_1_1437482802552_38250"><span id=3D"yui_3_16_0_=
+1_1437482802552_38465"><br id=3D"yui_3_16_0_1_1437482802552_38464"></span><=
+/div><div id=3D"yui_3_16_0_1_1437482802552_38250" dir=3D"ltr"><span id=3D"y=
+ui_3_16_0_1_1437482802552_38365">But, IF someone is actually fit for a Maha=
+vidya and She started working with one, She will work on the person even if=
+ he stops her mantra. But then, it is not a bad thing. If troubles occur, i=
+t may feel like a bad thing to the person in the short term (could be decad=
+es, which is very very short term for deities), but eventually it will be f=
+or good!</span></div><div id=3D"yui_3_16_0_1_1437482802552_38250" dir=3D"lt=
+r"><span><br></span></div><div id=3D"yui_3_16_0_1_1437482802552_38250" dir=
+=3D"ltr"><span id=3D"yui_3_16_0_1_1437482802552_38935">There is one more th=
+ing!</span></div><div id=3D"yui_3_16_0_1_1437482802552_38250" dir=3D"ltr"><=
+span><br></span></div><div id=3D"yui_3_16_0_1_1437482802552_38250" dir=3D"l=
+tr"><span id=3D"yui_3_16_0_1_1437482802552_38806">Someone may not be worshi=
+ping a Mahavidya explicitly, but may make progress due to vasanas and that =
+Mahavidya's blessings may come to that person automatically. Specific mantr=
+as of Mahavidyas are ONE way to invoke their influence on on, but not the o=
+nly way!</span></div><div id=3D"yui_3_16_0_1_1437482802552_38250" dir=3D"lt=
+r"><span><br></span></div><div id=3D"yui_3_16_0_1_1437482802552_38250" dir=
+=3D"ltr"><span id=3D"yui_3_16_0_1_1437482802552_38877">Even if one does not=
+ know what brain is, still one has a brain and that functions within one. S=
+imilarly, even if one does not know deities, they exist within one as subtl=
+er aspects of one's higher personality. They do manifest within one.</span>=
+</div><div id=3D"yui_3_16_0_1_1437482802552_38250" dir=3D"ltr"><span><br></=
+span></div><div id=3D"yui_3_16_0_1_1437482802552_38250" dir=3D"ltr"><span i=
+d=3D"yui_3_16_0_1_1437482802552_38917">If one overcomes all kinds of fears,=
+ sense of shame and self-consciousness, possibly Bhairavi's blessings are t=
+here and Bhairavi is manifesting within one and guiding one towards liberat=
+ion. One may not worship Bhairavi with any mantra and may not even know the=
+ name. But She does not care and may be working through that person...</spa=
+n></div><div></div><div id=3D"yui_3_16_0_1_1437482802552_38228"><br></div><=
+div class=3D"signature" id=3D"yui_3_16_0_1_1437482802552_38230"><div style=
+=3D"color:rgb(0, 0, 0);font-size:13px;font-family:arial, helvetica, clean, =
+sans-serif;background-color:transparent;font-style:normal;" id=3D"yui_3_16_=
+0_1_1437482802552_38243">Best regards,<br>Narasimha<br>--------<br>Astrolog=
+y & Spirituality Resources: <a rel=3D"nofollow" target=3D"_blank" href=
+=3D"http://www.vedicastrologer.org/" id=3D"yui_3_16_0_1_1437482802552_38461=
+">http://www.VedicAstrologer.org</a></div><div style=3D"color:rgb(0, 0, 0);=
+font-size:13px;font-family:arial, helvetica, clean, sans-serif;background-c=
+olor:transparent;font-style:normal;" id=3D"yui_3_16_0_1_1437482802552_38229=
+">--------<br id=3D"yui_3_16_0_1_1437482802552_38428"><br></div></div> <blo=
+ckquote style=3D"border-left: 2px solid rgb(16, 16, 255); margin-left: 5px;=
+ margin-top: 5px; padding-left: 5px;" id=3D"yui_3_16_0_1_1437482802552_3823=
+5">  <div style=3D"font-family: HelveticaNeue, Helvetica Neue, Helvetica, A=
+rial, Lucida Grande, sans-serif; font-size: 13px;" id=3D"yui_3_16_0_1_14374=
+82802552_38234"> <div style=3D"font-family: HelveticaNeue, Helvetica Neue, =
+Helvetica, Arial, Lucida Grande, sans-serif; font-size: 16px;" id=3D"yui_3_=
+16_0_1_1437482802552_38233"> <div dir=3D"ltr" id=3D"yui_3_16_0_1_1437482802=
+552_38232"> </div><div class=3D"y_msg_container" id=3D"yui_3_16_0_1_1437482=
+802552_38254"><div id=3D"yiv3951126342"><div id=3D"yui_3_16_0_1_14374828025=
+52_38253"><div style=3D"color:#000;background-color:#fff;font-family:Helvet=
+icaNeue, Helvetica Neue, Helvetica, Arial, Lucida Grande, sans-serif;font-s=
+ize:14px;" id=3D"yui_3_16_0_1_1437482802552_38252"><div id=3D"yiv3951126342=
+"><div id=3D"yiv3951126342yui_3_16_0_1_1437582060413_5996"><div style=3D"co=
+lor:#000;background-color:#fff;font-family:HelveticaNeue, Helvetica Neue, H=
+elvetica, Arial, Lucida Grande, sans-serif;font-size:14px;" id=3D"yiv395112=
+6342yui_3_16_0_1_1437582060413_5995"><div id=3D"yiv3951126342yui_3_16_0_1_1=
+437580296473_9316">Dear Sir,</div><div id=3D"yiv3951126342yui_3_16_0_1_1437=
+580296473_9316"><br></div><div id=3D"yiv3951126342yui_3_16_0_1_143758029647=
+3_9316" dir=3D"ltr">I have my experience in worshiping  Maha Vidya, Sr=
+i Kamala .Mantra I used, Om Aim Hrim Shrim Kleem Hasouh Jagatprasutyai Nama=
+h. I wanted a change in my life, some how it changed my residence, place of=
+ work, also at last I had a critical accident which broke my T5 bone in spi=
+ne. As you said I feel your understanding in worshiping dasa maha vidya is =
+correct thank you for sharing your knowledge.</div><div id=3D"yiv3951126342=
+yui_3_16_0_1_1437580296473_9316" dir=3D"ltr"><br></div><div id=3D"yiv395112=
+6342yui_3_16_0_1_1437580296473_9316" dir=3D"ltr">Also is there any special =
+way or procedures to end worshiping Dasa Maha Vidya's.</div><div id=3D"yiv3=
+951126342yui_3_16_0_1_1437580296473_9316" dir=3D"ltr"><br></div><div id=3D"=
+yiv3951126342yui_3_16_0_1_1437580296473_9316" dir=3D"ltr">I am from Sri Lan=
+ka in our History Book MAHA WANSAYA,  King Pandukabhaya in Anuradhapur=
+a era, used to worship Bagalamuki Devi, he had his throne until his death (=
+he reined 77 years <span style=3D"font-family:sans-serif;font-size:12.=
+3199996948242px;line-height:18.4799995422363px;background-color:rgb(249, 24=
+9, 249);" id=3D"yiv3951126342yui_3_16_0_1_1437582060413_6745" class=3D"yiv3=
+951126342">437 BC =E2=80=93 367 BC</span>).   </div><div id=3D"yi=
+v3951126342yui_3_16_0_1_1437580296473_9316" dir=3D"ltr"><br></div><div id=
+=3D"yiv3951126342yui_3_16_0_1_1437580296473_9316" dir=3D"ltr">Regards</div>=
+<div id=3D"yiv3951126342yui_3_16_0_1_1437580296473_9316" dir=3D"ltr"><de=
+leted></div></div></div></div></div></div></div></div> </div> </div> </b=
+lockquote>  </div></body></html>
+------=_Part_919189_222075596.1437616044811--
+
+

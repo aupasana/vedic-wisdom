@@ -1,0 +1,549 @@
+From pvr108@...  Wed Feb 17 11:07:48 2016
+Return-Path: <pvr108@...>
+X-Sender: pvr108@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 23814 invoked by uid 102); 21 Jul 2015 01:54:12 -0000
+X-Received: from unknown (HELO mtaq1.grp.bf1.yahoo.com) (10.193.84.32)
+  by m6.grp.bf1.yahoo.com with SMTP; 21 Jul 2015 01:54:12 -0000
+X-Received: (qmail 8224 invoked from network); 21 Jul 2015 01:54:12 -0000
+X-Received: from unknown (HELO mta1004.groups.mail.bf1.yahoo.com) (98.139.245.163)
+  by mtaq1.grp.bf1.yahoo.com with SMTP; 21 Jul 2015 01:54:12 -0000
+X-Original-Return-Path: <pvr108@...>
+X-Received-SPF: pass (domain of yahoo.com designates 216.109.114.219 as permitted sender)
+X-YMailISG: s5uTOt8WLDsQNHk2IaoXhbtcseVf3K4LmXKwklFPw1eb6YD3
+ 9wa.CbeRqyAeQQYw1hCnvCxbgic6CDjLUhqUtDrWoxCshmfHKfcRIwsrlqUp
+ eJotOhgzh6FiF7xwkM8Q6YFLPhy1GQ_YI5DpnfVJ2eTfIF9q6DPeRvg6YeVT
+ NvTeubRZ48qvh3Qne7LUO5IVas3_zbeN4AVwMOe9FcBDtj0WhO2XAfhdyKa.
+ MCuQy6sN4P0LxeX6wHYGLpHqMGnRPZyk.vQnbP.TymkUz2Zmsbcj7oeNKmMt
+ wEJZBm3A0lBwsOG1NQvmgiWi99bxFqCbRsLSA8w800mmKjRmB4PyQn4rlaJw
+ oUowxsDM2_N4ET38BazDvzssDCcLqKnCsoN.x9dQPpGKfhqgqXArK9odF88X
+ 6yk6wLhveYLY6gjnrVXJacnX1vgQCLkYjB9_.rPQIGZzDpOBzE9XNEhOWd_V
+ nvSQ0EafqGJWrFjPxD.dlSKxGoIXxYqXNtuwlA0Emvp1FwVXH4rINCJZ7esI
+ I8hLjdS6Q7QtbBmKJ.RrFQ6SwdlAqLXKpxthcQNaB46Qq3eR2kPyyw0sGFfj
+ mlV3d4Kwo0jFq1OZzgJZeT9aWtn9rv5BITLfGsLOutIyxBFq1bfB1GJYuFjU
+ cSGiLrBIVGihfdRH7B1UMdRWjN6cvGpQWCh6p8jtBau6OONGYgsLuflJnJof
+ ChBRsNqp3MGQqHr_nEICRKn4vgtMRg5D4IyoqBqL2JGrd_jgppojKNj0KBop
+ LThBkmeS2AVMa68q7CKCuWe6bibCPqUTc9hlQTToTx8x2CLo67Fm5_Qvjbiz
+ zCR9WMkQ5D0_pmrw4m5lMrjKSe1s_oH.LS4BASYdkga7FteJfqX.Lm1soaXM
+ B9_cMNXwPhI7dt1R0N7YsciNBhnukbhz7_KjVG9EUVuZ7wuNkKhszYurx2Nb
+ rKHYjyKg0.DAxgzLmcFEWQIvRe09J3fG7.wTwteMuGeLXJdEVNYQ45lBy9JG
+ iMFiXYSuSvCfciyg7KPNFxZLU.RUnRXcrL_vpQ2h8g2BwBW1vUbzE0PbHOJb
+ 2S6zy9hY14xbhfSIt_iv1ju8trwqBAPKj295iul3NhargPxECf.6p5gpMPD_
+ 2EfNNOSzakhUogoDEdDVZU.YdbI91xFI_8StebtNdd8zO2bMoRhAOoKUwIJJ
+ bGxqSpkGG9ASadSN5Fcrxn7NUmkMH2UrhVqbA0wFCHcdr6J8RajeBHBPw8pc
+ 18cPtwUyMQENSNNOovbe079i56o7qr3zlREDktkmaxUGCI1mWYRMst5yS6Bw
+ z9QTXjEz4B2d1BQOFx5UWaWDH9W0fE0QfMSNlOeU5Ap8.Abl7XsR.c2j8.QR
+ ZoOYEPGN5AIlX7mUdeM21Su1p5kCR4Mr4iIIMPcYdDFG6Dm0wQ.PQK3UOVJi
+ XKyAAINFf6_U8qZt37q72WAqOUqmx0PofCD1H29uh4Pt9cinToEk7siT309F
+ 8Z54Ed0DOZpCugocjDwTMGwCYpnup87wjrZB14adI2hik2H1uifO75NgBDTa
+ C6tJ6PCf0b4f2WavWm5Ss7mFZvwpicM8Hd3qiNtTGFJ7o5N9Pmf.8tZd1KMW
+ gr0-
+Authentication-Results: mta1004.groups.mail.bf1.yahoo.com  from=yahoo.com; domainkeys=neutral (no sig);  from=yahoo.com; dkim=pass (ok)
+X-Received: from 127.0.0.1  (EHLO nm47-vm10.bullet.mail.bf1.yahoo.com) (216.109.114.219)
+  by mta1004.groups.mail.bf1.yahoo.com with SMTPS; Tue, 21 Jul 2015 01:54:11 +0000
+X-Received: from [66.196.81.173] by nm47.bullet.mail.bf1.yahoo.com with NNFMP; 21 Jul 2015 01:54:11 -0000
+X-Received: from [98.139.212.230] by tm19.bullet.mail.bf1.yahoo.com with NNFMP; 21 Jul 2015 01:54:11 -0000
+X-Received: from [127.0.0.1] by omp1039.mail.bf1.yahoo.com with NNFMP; 21 Jul 2015 01:54:11 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 740492.1283.bm@...
+X-YMail-OSG: V0qWyJkVM1nw87ozxfgX4st32PZMIbt3FYJowHvo8A8C9Rtmjwv0D5pMVtewYFK
+ 2FsTh3v9fprjRPsz6rFq3JtZSmuN1TkONO_7AjhLcR0AT8zIfXQbLWt9nC4yNLiA3dUe9V1HFQlE
+ 8gF5FJbZi0Iwp3jKDgNb30yQbtgd3G0z7a6BChdw00RGX8lLjEbZand.FTJV0LPvChPBPcHTz_JG
+ VfBTAaAO9dfL7JHwAdGa2A1H5CzdbwkbCcZVyVBxvHPegE47uRieRcEtWGBXlUaW2ZdmTJQoUqVy
+ V2GKIeNzcg8qyO_d3soq907_cuXBbq.RHuYUC5V.QylrRmxGb7TdTMocz_O1Flq56dHUpaMHANuK
+ nIpmiywiabue58012N4jX1dCfPPK5nIWPuBjJFBtotEqZjwxN7oY8Xtmi7JfJ7kJbubdw_oyjo5b
+ tE8E079dSOlKCbAAsJuUvW3iKanL1Kpdv_3FC2Tr06Ui5xun7sRyAqUqu_mjCzoQ0MIZsvzxULyZ
+ ELmh8uPXe
+X-Received: by 76.13.27.6; Tue, 21 Jul 2015 01:54:11 +0000 
+Date: Tue, 21 Jul 2015 01:54:10 +0000 (UTC)
+To: "vedic-wisdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com>
+Message-ID: <214018571.1544545.1437443650529.JavaMail.yahoo@...>
+In-Reply-To: <1436866132.11538.YahooMailIosMobile@...>
+References: <1436866132.11538.YahooMailIosMobile@...>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_1544544_1788305205.1437443650521"
+Content-Length: 18805
+X-Originating-IP: 98.139.245.163
+Reply-To: "Narasimha P.V.R. Rao" <pvr108@...>
+Subject: Re: Homam
+X-Yahoo-Group-Post: member; u=77866142; y=7XfeVQRN05wfu1fy1WN_daEinwUh9GElRq442KOjy1w7
+X-Yahoo-Profile: pvr108
+From: "Narasimha P.V.R. Rao" <pvr108@...>
+
+
+------=_Part_1544544_1788305205.1437443650521
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Namaste,
+This is not the age of sadhana. People don't do much sadhana and d=
+iscourage others who do it. What to do - that is the nature of these times.=
+.
+There are clearly vasanas pulling you towards sadhana...
+
+If you do not i=
+gnore your physical well-being, i.e. sit in a comfortable and sustainable p=
+osture and do homa without getting stressed out, there is no harm in doing =
+homa for long hours.
+Some people consider it ok to sit in a sofa with a poo=
+r posture and watch TV for long hours, but think that doing homa for long h=
+ours can be harmful. How strange!
+Don't push yourself, enjoy it and do it i=
+n a natural way that does not cause physical or mental strain. There is no =
+problem with long hours then.
+Best regards,
+Narasimha
+--------
+Astrology & =
+Spirituality Resources: http://www.VedicAstrologer.org--------
+
+ 
+      Fro=
+m: "ManiBhushan surya manibhushan@... [vedic-wisdom]" <vedic-wisdom@y=
+ahoogroups.com>
+ To: vedic-wisdom@yahoogroups.com 
+ Sent: Tuesday, July 14,=
+ 2015 5:28 AM
+ Subject: [vedic-wisdom] Homam=C2=A0   
+| Mr Narasimha Rao 
+S=
+ir,
+I am doing Homam for 3 hrs starting with ganapathi Homam continuing Siv=
+a Homam chanting namak chamakam also along with 2/3 Veda mantra like mrutyu=
+njaya man tram and Sarva mandala mangalye also daily.
+I am enjoying but my =
+father doesn't want me to do it. He expresses so many apprehensions like la=
+dies should not do long hrs is not good health will get affected.
+I am doin=
+g Homam following ur document only . Thanks For providing this opportunity.=
+ Can u pl advise me something on the above.especially on long hrs. I wish t=
+hat at least for one day I do Homam for whole day. If u clear the apprehens=
+ions I shall be thankful to you.
+RegardsMani |
+
+
+   
+ #yiv0760045970 #yiv07=
+60045970 -- #yiv0760045970ygrp-mkp {border:1px solid #d8d8d8;font-family:Ar=
+ial;margin:10px 0;padding:0 10px;}#yiv0760045970 #yiv0760045970ygrp-mkp hr =
+{border:1px solid #d8d8d8;}#yiv0760045970 #yiv0760045970ygrp-mkp #yiv076004=
+5970hd {color:#628c2a;font-size:85%;font-weight:700;line-height:122%;margin=
+:10px 0;}#yiv0760045970 #yiv0760045970ygrp-mkp #yiv0760045970ads {margin-bo=
+ttom:10px;}#yiv0760045970 #yiv0760045970ygrp-mkp .yiv0760045970ad {padding:=
+0 0;}#yiv0760045970 #yiv0760045970ygrp-mkp .yiv0760045970ad p {margin:0;}#y=
+iv0760045970 #yiv0760045970ygrp-mkp .yiv0760045970ad a {color:#0000ff;text-=
+decoration:none;}#yiv0760045970 #yiv0760045970ygrp-sponsor #yiv0760045970yg=
+rp-lc {font-family:Arial;}#yiv0760045970 #yiv0760045970ygrp-sponsor #yiv076=
+0045970ygrp-lc #yiv0760045970hd {margin:10px 0px;font-weight:700;font-size:=
+78%;line-height:122%;}#yiv0760045970 #yiv0760045970ygrp-sponsor #yiv0760045=
+970ygrp-lc .yiv0760045970ad {margin-bottom:10px;padding:0 0;}#yiv0760045970=
+ #yiv0760045970actions {font-family:Verdana;font-size:11px;padding:10px 0;}=
+#yiv0760045970 #yiv0760045970activity {background-color:#e0ecee;float:left;=
+font-family:Verdana;font-size:10px;padding:10px;}#yiv0760045970 #yiv0760045=
+970activity span {font-weight:700;}#yiv0760045970 #yiv0760045970activity sp=
+an:first-child {text-transform:uppercase;}#yiv0760045970 #yiv0760045970acti=
+vity span a {color:#5085b6;text-decoration:none;}#yiv0760045970 #yiv0760045=
+970activity span span {color:#ff7900;}#yiv0760045970 #yiv0760045970activity=
+ span .yiv0760045970underline {text-decoration:underline;}#yiv0760045970 .y=
+iv0760045970attach {clear:both;display:table;font-family:Arial;font-size:12=
+px;padding:10px 0;width:400px;}#yiv0760045970 .yiv0760045970attach div a {t=
+ext-decoration:none;}#yiv0760045970 .yiv0760045970attach img {border:none;p=
+adding-right:5px;}#yiv0760045970 .yiv0760045970attach label {display:block;=
+margin-bottom:5px;}#yiv0760045970 .yiv0760045970attach label a {text-decora=
+tion:none;}#yiv0760045970 blockquote {margin:0 0 0 4px;}#yiv0760045970 .yiv=
+0760045970bold {font-family:Arial;font-size:13px;font-weight:700;}#yiv07600=
+45970 .yiv0760045970bold a {text-decoration:none;}#yiv0760045970 dd.yiv0760=
+045970last p a {font-family:Verdana;font-weight:700;}#yiv0760045970 dd.yiv0=
+760045970last p span {margin-right:10px;font-family:Verdana;font-weight:700=
+;}#yiv0760045970 dd.yiv0760045970last p span.yiv0760045970yshortcuts {margi=
+n-right:0;}#yiv0760045970 div.yiv0760045970attach-table div div a {text-dec=
+oration:none;}#yiv0760045970 div.yiv0760045970attach-table {width:400px;}#y=
+iv0760045970 div.yiv0760045970file-title a, #yiv0760045970 div.yiv076004597=
+0file-title a:active, #yiv0760045970 div.yiv0760045970file-title a:hover, #=
+yiv0760045970 div.yiv0760045970file-title a:visited {text-decoration:none;}=
+#yiv0760045970 div.yiv0760045970photo-title a, #yiv0760045970 div.yiv076004=
+5970photo-title a:active, #yiv0760045970 div.yiv0760045970photo-title a:hov=
+er, #yiv0760045970 div.yiv0760045970photo-title a:visited {text-decoration:=
+none;}#yiv0760045970 div#yiv0760045970ygrp-mlmsg #yiv0760045970ygrp-msg p a=
+ span.yiv0760045970yshortcuts {font-family:Verdana;font-size:10px;font-weig=
+ht:normal;}#yiv0760045970 .yiv0760045970green {color:#628c2a;}#yiv076004597=
+0 .yiv0760045970MsoNormal {margin:0 0 0 0;}#yiv0760045970 o {font-size:0;}#=
+yiv0760045970 #yiv0760045970photos div {float:left;width:72px;}#yiv07600459=
+70 #yiv0760045970photos div div {border:1px solid #666666;height:62px;overf=
+low:hidden;width:62px;}#yiv0760045970 #yiv0760045970photos div label {color=
+:#666666;font-size:10px;overflow:hidden;text-align:center;white-space:nowra=
+p;width:64px;}#yiv0760045970 #yiv0760045970reco-category {font-size:77%;}#y=
+iv0760045970 #yiv0760045970reco-desc {font-size:77%;}#yiv0760045970 .yiv076=
+0045970replbq {margin:4px;}#yiv0760045970 #yiv0760045970ygrp-actbar div a:f=
+irst-child {margin-right:2px;padding-right:5px;}#yiv0760045970 #yiv07600459=
+70ygrp-mlmsg {font-size:13px;font-family:Arial, helvetica, clean, sans-seri=
+f;}#yiv0760045970 #yiv0760045970ygrp-mlmsg table {font-size:inherit;font:10=
+0%;}#yiv0760045970 #yiv0760045970ygrp-mlmsg select, #yiv0760045970 input, #=
+yiv0760045970 textarea {font:99% Arial, Helvetica, clean, sans-serif;}#yiv0=
+760045970 #yiv0760045970ygrp-mlmsg pre, #yiv0760045970 code {font:115% mono=
+space;}#yiv0760045970 #yiv0760045970ygrp-mlmsg * {line-height:1.22em;}#yiv0=
+760045970 #yiv0760045970ygrp-mlmsg #yiv0760045970logo {padding-bottom:10px;=
+}#yiv0760045970 #yiv0760045970ygrp-msg p a {font-family:Verdana;}#yiv076004=
+5970 #yiv0760045970ygrp-msg p#yiv0760045970attach-count span {color:#1E66AE=
+;font-weight:700;}#yiv0760045970 #yiv0760045970ygrp-reco #yiv0760045970reco=
+-head {color:#ff7900;font-weight:700;}#yiv0760045970 #yiv0760045970ygrp-rec=
+o {margin-bottom:20px;padding:0px;}#yiv0760045970 #yiv0760045970ygrp-sponso=
+r #yiv0760045970ov li a {font-size:130%;text-decoration:none;}#yiv076004597=
+0 #yiv0760045970ygrp-sponsor #yiv0760045970ov li {font-size:77%;list-style-=
+type:square;padding:6px 0;}#yiv0760045970 #yiv0760045970ygrp-sponsor #yiv07=
+60045970ov ul {margin:0;padding:0 0 0 8px;}#yiv0760045970 #yiv0760045970ygr=
+p-text {font-family:Georgia;}#yiv0760045970 #yiv0760045970ygrp-text p {marg=
+in:0 0 1em 0;}#yiv0760045970 #yiv0760045970ygrp-text tt {font-size:120%;}#y=
+iv0760045970 #yiv0760045970ygrp-vital ul li:last-child {border-right:none !=
+important;}#yiv0760045970
+------=_Part_1544544_1788305205.1437443650521
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"color:#000; background-color:#fff; font-family:He=
+lveticaNeue, Helvetica Neue, Helvetica, Arial, Lucida Grande, sans-serif;fo=
+nt-size:13px"><div id=3D"yui_3_16_0_1_1436963110321_121313"><span id=3D"yui=
+_3_16_0_1_1436963110321_121432">Namaste,</span></div><div id=3D"yui_3_16_0_=
+1_1436963110321_121403"><span><br></span></div><div dir=3D"ltr" id=3D"yui_3=
+_16_0_1_1436963110321_121311"><span id=3D"yui_3_16_0_1_1436963110321_121310=
+">This is not the age of sadhana. People don't do much sadhana and discoura=
+ge others who do it. What to do - that is the nature of these times..</span=
+></div><div dir=3D"ltr" id=3D"yui_3_16_0_1_1436963110321_121409"><span><br>=
+</span></div><div dir=3D"ltr" id=3D"yui_3_16_0_1_1436963110321_121308">Ther=
+e are clearly vasanas pulling you towards sadhana...<br></div><div dir=3D"l=
+tr" id=3D"yui_3_16_0_1_1436963110321_121411"><br></div><div dir=3D"ltr" id=
+=3D"yui_3_16_0_1_1436963110321_121306">If you do not ignore your physical w=
+ell-being, i.e. sit in a comfortable and sustainable posture and do homa wi=
+thout getting stressed out, there is no harm in doing homa for long hours.<=
+/div><div dir=3D"ltr" id=3D"yui_3_16_0_1_1436963110321_121252"><br></div><d=
+iv dir=3D"ltr" id=3D"yui_3_16_0_1_1436963110321_121250">Some people conside=
+r it ok to sit in a sofa with a poor posture and watch TV for long hours, b=
+ut think that doing homa for long hours can be harmful. How strange!</div><=
+div dir=3D"ltr" id=3D"yui_3_16_0_1_1436963110321_121250"><br></div><div dir=
+=3D"ltr" id=3D"yui_3_16_0_1_1436963110321_121250">Don't push yourself, enjo=
+y it and do it in a natural way that does not cause physical or mental stra=
+in. There is no problem with long hours then.</div><div></div><div id=3D"yu=
+i_3_16_0_1_1436963110321_121053"><br></div><div class=3D"signature" id=3D"y=
+ui_3_16_0_1_1436963110321_121056"><div style=3D"color:rgb(0, 0, 0);font-siz=
+e:13px;font-family:arial, helvetica, clean, sans-serif;background-color:tra=
+nsparent;font-style:normal;" id=3D"yui_3_16_0_1_1436963110321_121055">Best =
+regards,<br>Narasimha<br>--------<br>Astrology & Spirituality Resources=
+: <a rel=3D"nofollow" target=3D"_blank" href=3D"http://www.vedicastrologer.=
+org/">http://www.VedicAstrologer.org</a></div><div style=3D"color:rgb(0, 0,=
+ 0);font-size:13px;font-family:arial, helvetica, clean, sans-serif;backgrou=
+nd-color:transparent;font-style:normal;" id=3D"yui_3_16_0_1_1436963110321_1=
+21058">--------<br></div></div><br> <blockquote style=3D"border-left: 2px s=
+olid rgb(16, 16, 255); margin-left: 5px; margin-top: 5px; padding-left: 5px=
+;" id=3D"yui_3_16_0_1_1436963110321_121065">  <div style=3D"font-family: He=
+lveticaNeue, Helvetica Neue, Helvetica, Arial, Lucida Grande, sans-serif; f=
+ont-size: 13px;" id=3D"yui_3_16_0_1_1436963110321_121064"> <div style=3D"fo=
+nt-family: HelveticaNeue, Helvetica Neue, Helvetica, Arial, Lucida Grande, =
+sans-serif; font-size: 16px;" id=3D"yui_3_16_0_1_1436963110321_121063"> <di=
+v dir=3D"ltr" id=3D"yui_3_16_0_1_1436963110321_121096"> <hr size=3D"1">  <f=
+ont size=3D"2" face=3D"Arial" id=3D"yui_3_16_0_1_1436963110321_121120"> <b>=
+<span style=3D"font-weight:bold;">From:</span></b> "ManiBhushan surya manib=
+hushan@... [vedic-wisdom]" <vedic-wisdom@yahoogroups.com><br> <=
+b id=3D"yui_3_16_0_1_1436963110321_121145"><span style=3D"font-weight: bold=
+;" id=3D"yui_3_16_0_1_1436963110321_121144">To:</span></b> vedic-wisdom@yah=
+oogroups.com <br> <b><span style=3D"font-weight: bold;">Sent:</span></b> Tu=
+esday, July 14, 2015 5:28 AM<br> <b><span style=3D"font-weight: bold;">Subj=
+ect:</span></b> [vedic-wisdom] Homam</font></div><div class=3D"y_msg_contai=
+ner" id=3D"yui_3_16_0_1_1436963110321_121062"><div id=3D"yiv0760045970"><di=
+v id=3D"yui_3_16_0_1_1436963110321_121061">
+<span style=3D"display:none;">&=
+nbsp;</span>
+
+
+<div id=3D"yiv0760045970ygrp-mlmsg" style=3D"">
+  <div id=3D=
+"yiv0760045970ygrp-msg" style=3D"">
+
+
+    <div id=3D"yiv0760045970ygrp-text=
+">
+      
+      
+      <div></div><table cellspacing=3D"0" cellpadding=3D"0=
+" border=3D"0" id=3D"yui_3_16_0_1_1436963110321_121071"><tbody id=3D"yui_3_=
+16_0_1_1436963110321_121070"><tr id=3D"yui_3_16_0_1_1436963110321_121069"><=
+td colspan=3D"1" rowspan=3D"1" valign=3D"top" id=3D"yui_3_16_0_1_1436963110=
+321_121068"><div id=3D"yiv0760045970yahoo__compose_area" style=3D"backgroun=
+d-color:white;font-family:HelveticaNeue-Regular, Helvetica;">Mr Narasimha R=
+ao <br clear=3D"none">Sir,<div id=3D"yui_3_16_0_1_1436963110321_121151"><br=
+ clear=3D"none"></div><div id=3D"yui_3_16_0_1_1436963110321_121123">I am do=
+ing Homam for 3 hrs starting with ganapathi Homam continuing Siva  Homam ch=
+anting namak chamakam also along with 2/3 Veda mantra like mrutyunjaya man =
+tram and  Sarva mandala mangalye also daily.</div><div><br clear=3D"none"><=
+/div><div id=3D"yui_3_16_0_1_1436963110321_121303">I am enjoying but my fat=
+her doesn't want me to do it. He expresses so many apprehensions like ladie=
+s should not do long hrs is not good health will get affected.</div><div><b=
+r clear=3D"none"></div><div id=3D"yui_3_16_0_1_1436963110321_121067">I am d=
+oing Homam  following ur document only .  Thanks   For  providing this oppo=
+rtunity.  Can u pl advise me something on the above.especially on long hrs.=
+ I wish that at least for one day I do Homam for whole day. If u clear the =
+apprehensions I shall be thankful to
+ you.</div><div><br clear=3D"none"></d=
+iv><div>Regards</div><div>Mani</div></div></td></tr></tbody></table></div><=
+/div></div></div></div><br></div> </div> </div> </blockquote>  <style type=
+=3D"text/css">
+#yiv0760045970 #yiv0760045970 --
+  #yiv0760045970ygrp-mkp {
+=
+border:1px solid #d8d8d8;font-family:Arial;margin:10px 0;padding:0 10px;}
+
+=
+#yiv0760045970 #yiv0760045970ygrp-mkp hr {
+border:1px solid #d8d8d8;}
+
+#yiv=
+0760045970 #yiv0760045970ygrp-mkp #yiv0760045970hd {
+color:#628c2a;font-siz=
+e:85%;font-weight:700;line-height:122%;margin:10px 0;}
+
+#yiv0760045970 #yiv=
+0760045970ygrp-mkp #yiv0760045970ads {
+margin-bottom:10px;}
+
+#yiv0760045970=
+ #yiv0760045970ygrp-mkp .yiv0760045970ad {
+padding:0 0;}
+
+#yiv0760045970 #y=
+iv0760045970ygrp-mkp .yiv0760045970ad p {
+margin:0;}
+
+#yiv0760045970 #yiv07=
+60045970ygrp-mkp .yiv0760045970ad a {
+color:#0000ff;text-decoration:none;}
+=
+#yiv0760045970 #yiv0760045970ygrp-sponsor #yiv0760045970ygrp-lc {
+font-fami=
+ly:Arial;}
+
+#yiv0760045970 #yiv0760045970ygrp-sponsor #yiv0760045970ygrp-lc=
+ #yiv0760045970hd {
+margin:10px 0px;font-weight:700;font-size:78%;line-heig=
+ht:122%;}
+
+#yiv0760045970 #yiv0760045970ygrp-sponsor #yiv0760045970ygrp-lc =
+.yiv0760045970ad {
+margin-bottom:10px;padding:0 0;}
+
+#yiv0760045970 #yiv076=
+0045970actions {
+font-family:Verdana;font-size:11px;padding:10px 0;}
+
+#yiv0=
+760045970 #yiv0760045970activity {
+background-color:#e0ecee;float:left;font=
+-family:Verdana;font-size:10px;padding:10px;}
+
+#yiv0760045970 #yiv076004597=
+0activity span {
+font-weight:700;}
+
+#yiv0760045970 #yiv0760045970activity s=
+pan:first-child {
+text-transform:uppercase;}
+
+#yiv0760045970 #yiv0760045970=
+activity span a {
+color:#5085b6;text-decoration:none;}
+
+#yiv0760045970 #yiv=
+0760045970activity span span {
+color:#ff7900;}
+
+#yiv0760045970 #yiv07600459=
+70activity span .yiv0760045970underline {
+text-decoration:underline;}
+
+#yiv=
+0760045970 .yiv0760045970attach {
+clear:both;display:table;font-family:Aria=
+l;font-size:12px;padding:10px 0;width:400px;}
+
+#yiv0760045970 .yiv076004597=
+0attach div a {
+text-decoration:none;}
+
+#yiv0760045970 .yiv0760045970attach=
+ img {
+border:none;padding-right:5px;}
+
+#yiv0760045970 .yiv0760045970attach=
+ label {
+display:block;margin-bottom:5px;}
+
+#yiv0760045970 .yiv0760045970at=
+tach label a {
+text-decoration:none;}
+
+#yiv0760045970 blockquote {
+margin:0=
+ 0 0 4px;}
+
+#yiv0760045970 .yiv0760045970bold {
+font-family:Arial;font-size=
+:13px;font-weight:700;}
+
+#yiv0760045970 .yiv0760045970bold a {
+text-decorat=
+ion:none;}
+
+#yiv0760045970 dd.yiv0760045970last p a {
+font-family:Verdana;f=
+ont-weight:700;}
+
+#yiv0760045970 dd.yiv0760045970last p span {
+margin-right=
+:10px;font-family:Verdana;font-weight:700;}
+
+#yiv0760045970 dd.yiv076004597=
+0last p span.yiv0760045970yshortcuts {
+margin-right:0;}
+
+#yiv0760045970 div=
+.yiv0760045970attach-table div div a {
+text-decoration:none;}
+
+#yiv07600459=
+70 div.yiv0760045970attach-table {
+width:400px;}
+
+#yiv0760045970 div.yiv076=
+0045970file-title a, #yiv0760045970 div.yiv0760045970file-title a:active, #=
+yiv0760045970 div.yiv0760045970file-title a:hover, #yiv0760045970 div.yiv07=
+60045970file-title a:visited {
+text-decoration:none;}
+
+#yiv0760045970 div.y=
+iv0760045970photo-title a, #yiv0760045970 div.yiv0760045970photo-title a:ac=
+tive, #yiv0760045970 div.yiv0760045970photo-title a:hover, #yiv0760045970 d=
+iv.yiv0760045970photo-title a:visited {
+text-decoration:none;}
+
+#yiv0760045=
+970 div#yiv0760045970ygrp-mlmsg #yiv0760045970ygrp-msg p a span.yiv07600459=
+70yshortcuts {
+font-family:Verdana;font-size:10px;font-weight:normal;}
+
+#yi=
+v0760045970 .yiv0760045970green {
+color:#628c2a;}
+
+#yiv0760045970 .yiv07600=
+45970MsoNormal {
+margin:0 0 0 0;}
+
+#yiv0760045970 o {
+font-size:0;}
+
+#yiv07=
+60045970 #yiv0760045970photos div {
+float:left;width:72px;}
+
+#yiv0760045970=
+ #yiv0760045970photos div div {
+border:1px solid #666666;height:62px;overfl=
+ow:hidden;width:62px;}
+
+#yiv0760045970 #yiv0760045970photos div label {
+col=
+or:#666666;font-size:10px;overflow:hidden;text-align:center;white-space:now=
+rap;width:64px;}
+
+#yiv0760045970 #yiv0760045970reco-category {
+font-size:77=
+%;}
+
+#yiv0760045970 #yiv0760045970reco-desc {
+font-size:77%;}
+
+#yiv07600459=
+70 .yiv0760045970replbq {
+margin:4px;}
+
+#yiv0760045970 #yiv0760045970ygrp-a=
+ctbar div a:first-child {
+margin-right:2px;padding-right:5px;}
+
+#yiv0760045=
+970 #yiv0760045970ygrp-mlmsg {
+font-size:13px;font-family:Arial, helvetica,=
+ clean, sans-serif;}
+
+#yiv0760045970 #yiv0760045970ygrp-mlmsg table {
+font-=
+size:inherit;font:100%;}
+
+#yiv0760045970 #yiv0760045970ygrp-mlmsg select, #=
+yiv0760045970 input, #yiv0760045970 textarea {
+font:99% Arial, Helvetica, c=
+lean, sans-serif;}
+
+#yiv0760045970 #yiv0760045970ygrp-mlmsg pre, #yiv076004=
+5970 code {
+font:115% monospace;}
+
+#yiv0760045970 #yiv0760045970ygrp-mlmsg =
+* {
+line-height:1.22em;}
+
+#yiv0760045970 #yiv0760045970ygrp-mlmsg #yiv07600=
+45970logo {
+padding-bottom:10px;}
+
+
+#yiv0760045970 #yiv0760045970ygrp-msg p=
+ a {
+font-family:Verdana;}
+
+#yiv0760045970 #yiv0760045970ygrp-msg p#yiv0760=
+045970attach-count span {
+color:#1E66AE;font-weight:700;}
+
+#yiv0760045970 #=
+yiv0760045970ygrp-reco #yiv0760045970reco-head {
+color:#ff7900;font-weight:=
+700;}
+
+#yiv0760045970 #yiv0760045970ygrp-reco {
+margin-bottom:20px;padding:=
+0px;}
+
+#yiv0760045970 #yiv0760045970ygrp-sponsor #yiv0760045970ov li a {
+fo=
+nt-size:130%;text-decoration:none;}
+
+#yiv0760045970 #yiv0760045970ygrp-spon=
+sor #yiv0760045970ov li {
+font-size:77%;list-style-type:square;padding:6px =
+0;}
+
+#yiv0760045970 #yiv0760045970ygrp-sponsor #yiv0760045970ov ul {
+margin=
+:0;padding:0 0 0 8px;}
+
+#yiv0760045970 #yiv0760045970ygrp-text {
+font-famil=
+y:Georgia;}
+
+#yiv0760045970 #yiv0760045970ygrp-text p {
+margin:0 0 1em 0;}
+=
+
+#yiv0760045970 #yiv0760045970ygrp-text tt {
+font-size:120%;}
+
+#yiv07600459=
+70 #yiv0760045970ygrp-vital ul li:last-child {
+border-right:none !important=
+;
+}
+#yiv0760045970 
+</style></div></body></html>
+------=_Part_1544544_1788305205.1437443650521--
+
+

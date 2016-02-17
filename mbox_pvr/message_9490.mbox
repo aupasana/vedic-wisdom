@@ -1,0 +1,387 @@
+From pvr108@...  Wed Feb 17 11:10:38 2016
+Return-Path: <pvr108@...>
+X-Sender: pvr108@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 34660 invoked by uid 102); 22 Jul 2013 16:47:55 -0000
+X-Received: from unknown (HELO mtaq5.grp.bf1.yahoo.com) (10.193.84.36)
+  by m8.grp.bf1.yahoo.com with SMTP; 22 Jul 2013 16:47:55 -0000
+X-Received: (qmail 6392 invoked from network); 22 Jul 2013 16:47:55 -0000
+X-Received: from unknown (HELO nm22-vm3.bullet.mail.ne1.yahoo.com) (98.138.91.152)
+  by mtaq5.grp.bf1.yahoo.com with SMTP; 22 Jul 2013 16:47:55 -0000
+X-Received: from [98.138.90.49] by nm22.bullet.mail.ne1.yahoo.com with NNFMP; 22 Jul 2013 16:47:54 -0000
+X-Received: from [98.138.89.233] by tm2.bullet.mail.ne1.yahoo.com with NNFMP; 22 Jul 2013 16:47:54 -0000
+X-Received: from [127.0.0.1] by omp1048.mail.ne1.yahoo.com with NNFMP; 22 Jul 2013 16:47:54 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 589387.88475.bm@...
+X-Received: (qmail 28773 invoked by uid 60001); 22 Jul 2013 16:47:54 -0000
+X-YMail-OSG: kzc_oUQVM1nremOoiISNFBA3PEglTVeuvOVA79F4APWio2d
+ 1CKGai0dUruAx35AZvYRNctlxOvQ8im5rYz5xp.MB_4N7qHDgiQm2RMHxZZ4
+ 3kIevOe0hpfZIZWz_BeN7KGhyyKDgEi94t0xwOBx_XzdXd21HW_yH2x.zJKo
+ K4sTbz9uGpp3TRMptmJYtiyhNFrbUyiu0rUFLgQ_bVmNNQUddkcVLhDbA0C9
+ gsZWnCwZcrClTDPCw9bAHtuiqpPg81x5u51V9VL1lp91bjc1ubAilKyv8YC5
+ rmrMOwuKNb09dYON4WXKBK2.NvkEMzEfuJcLUFMYoc5KJj1GtL9fqW6wQb8T
+ 98Q5i6lOb40m4EG_JwrxJTwjajyQsL89nGQG7sPJodhRD4MNz3kl2knformI
+ oDST.Xcu7xvAH2_oJK1ZSnM2aTcZuFTez50tLkChdoPDdtT.Ua3BKgO7C9WW
+ R65F1x2A6s3pX2gXsUvtP25A.er0EN8csFb77xHNihXjH30nBbj5DcQH2oMH
+ 0v_oAvkb9l8SYJTIsAJgF.W9S1lfglaQlPshShFPQ6n4LgayWHt4wWxZ_1wa
+ kZmK6vWIcYGCzX7fMbMCiGAW3DnG_KDVPrQQVJvXWbPeBhPyUqPXw16twlc6
+ DdjFjBod65OSQLXuZv2W7aezXlDRMncaldhgqJb6TkvW3I7g5Xp9bxM1g2XL
+ Bw6FvwSsc.hlvy7Nr0S7vALqAWBxBU7ot.5rMY2cW.4tNgPFAFgZwRU3gJE4
+ LsBJtErWXDvnfULcuTpFMDhgkVjHct5RwRMyo3vOw2feavPWUSCTHUbn2MBN
+ lhPF4iAdvwG2DAIXmPrZUNw4QvZOrl.6p047_C2SpAG28NFqRsvC5IktOdIp
+ iwXIf_IhqEmJ_7OKpeR0G.yD4aussmKjtXh88s09qRTwhQmd7ptuBJEMVMfj
+ 1vFzpHGqFnzoGFjv7cGZj.x3Kv4dLeALm.qg855u5kOIJb3zlpbRb9kVwKZ4
+ UjFyboTo1uyQDXGLaqyVPiMbG.DfoqKiMFsARLzsUi2oI5.eRHNihCnrFUQz
+ ie5LMKoHpgN5zet.wAZlU5SlvRWz8RKIysqG2NF7PUfcqQK2SYl0Ri__abyR
+ YdxNqiF3RePxE9188_3gqa2zciamgN5ZIl4m.fFug8BDayUlIuvU5JCDV1yO
+ 4JQI_x5incwSKA6742ejMDhRCyBREGK8ujFrdJWiu5cNWtZ_KiCsfzxkspNh
+ Leb7sQyWJeITw1ak8QNTx9zvAwyBi2uiOuAByQ.Sqexh.9viwB8WZ0oSOQM3
+ BTHQg6NY9KGT92421o6IJo6GFiqxDE8lZK.Evz7I2zQL2gnbatutUJbC8fnC
+ ZH7NqaQSaB8Bfd9pisX2FqnD8.GZWG3uSgq6Vbe3Y89MNXqUZWdRvrgmyCY6
+ by_t3cJXM8hjwH7B_RiPIOXsEU1grC81aqokLpoVmuTO73VbHHBQH90JKtka
+ Tj43AevSF9WYJEzkSFTYPvyQFoezALNhHLpcjSucmQTl_SqZniOeG_lY5Yw6
+ xYst3s0ZIxEnh6mJgeknBhMFyvh2EtgYTZG6kI4JNLGm.twsrRcmQUAtrJc0
+ mOsFIxuGypiXT02QlLjk8r.zCNVe1KGFR8LuYI6sG5_FekK0DQ7VVW9rK492
+ MwDbgDsTlwqVPyVc0c.dB6Xk0iPUgPTrXdaIY0.zmAoVUBUz2bPoLdlXtJcs
+ xdfl8nqc3kgCmQf4pvX2B7v9gfZYqcm90_wjk9ccg_Z2gx9VFNLuWgW36b_d
+ eu5uqiiX9bjGBZju7jhVlKtn_08.miWb21.GGpuW7JZcKbRPlXusoMOE9vKh
+ 0nn7r3E.82NF9_Ifkl6AbU7DLblDTx7WU9nXOO4KjfDBoL9NexBXCtoPNnPz
+ ekZjezx.06SFKeGBEegmh5toIEYN57AVpaN9axSIdtpGvIZKPawHhjdSnRoM
+ zTPOhQZ46Lg0UJQi81XqRvtoVuh9oL7BJjJYK44cxux55KSZpRMSCFcYc2J3
+ OPxPzdrkhTn13YNy4a3noOzQ5nMOW3IjNgJQSRFyZSKLW8nCYHWtV.Tu6Smj
+ 8a7k_ByfcOAySpT2fr1qz3lLUCeKHRW.mBeJnFyY-
+X-Received: from [216.31.219.19] by web122105.mail.ne1.yahoo.com via HTTP; Mon, 22 Jul 2013 09:47:54 PDT
+X-Rocket-MIMEInfo: 002.001,TmFtYXN0ZSBmcmllbmRzLArCoApUaGlzIHlhaG9vZ3JvdXAgaXMgTk9UIGZvciBhc3Ryb2xvZ3kgZGlzY3Vzc2lvbnMsIGl0IGlzIGZvciBzcGlyaXR1YWxpdHkgZGlzY3Vzc2lvbnMuIFRoYXQgaXMgZXhwbGljaXRseSBtZW50aW9uZWQgb24gdGhlIG1haW4gcGFnZSBvZiB0aGlzIHlhaG9vZ3JvdXAuCsKgCkFtYW4gamksIEkgcHJpdmF0ZWx5IHdhcm5lZCB5b3UgdG8gbm90IHNlbmQgYW55IGFzdHJvbG9neSBtYWlscyB0byB2ZWRpYy13aXNkb20geWFob29ncm91cCBhbmQgeWV0IHlvdSBrZWVwIHZpb2xhdGkBMAEBAQE-
+X-Mailer: YahooMailWebService/0.8.150.561
+References: <CAAUtiTBGnf57CGamKycA3=Spk1ZbUydGvs0gv9q3ahEAz9zyUA@...> <1374510128.90473.YahooMailNeo@...>
+Message-ID: <1374511674.28061.YahooMailNeo@...>
+Date: Mon, 22 Jul 2013 09:47:54 -0700 (PDT)
+To: "vedic-wisdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com>
+In-Reply-To: <1374510128.90473.YahooMailNeo@...>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="-1999499579-2140747527-1374511674=:28061"
+X-Originating-IP: 10.193.84.36
+X-eGroups-Msg-Info: 1:12:0:0:0
+From: "Narasimha P.V.R. Rao" <pvr108@...>
+Reply-To: "Narasimha P.V.R. Rao" <pvr108@...>
+Subject: Re: Help Required - Calculating Narasimha ji's marriage date
+X-Yahoo-Group-Post: member; u=77866142; y=GGqVeWp1gdu14Fky7Lk9ayGrT6UX91mcbkC-LINiUSDl
+X-Yahoo-Profile: pvr108
+
+
+---1999499579-2140747527-1374511674=:28061
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Namaste friends,
+=C2=A0
+This yahoogroup is NOT for astrology discussions, i=
+t is for spirituality discussions. That is explicitly mentioned on the main=
+ page of this yahoogroup.
+=C2=A0
+Aman ji, I privately warned you to not sen=
+d any astrology mails to vedic-wisdom yahoogroup and yet you keep violating=
+ the charter. There are tens of yahoogroups dedicated to astrology. If you =
+can't get membership on one of them, that does not justify spamming this ya=
+hoogroup, even after my warning to you. Sorry, I am banning you from this y=
+ahoogroup.
+=C2=A0
+Other people who discuss astrology here may be banned aft=
+er or even without a warning.
+=C2=A0
+Best wishes for Guru Pournima to all o=
+f you!
+
+=C2=A0
+Best regards,
+Narasimha
+--------
+Astrology & Spirituality Re=
+sources: http://www.VedicAstrologer.org
+--------
+
+=C2=A0
+
+
+>_______________=
+_________________
+> From: Aman Gupta <am_gup1234@...>
+>To: "vedic-w=
+isdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com> 
+>Sent: Monday, July =
+22, 2013 12:22 PM
+>Subject: Re: [vedic-wisdom] Re: Help Required - Calculat=
+ing Narasimha ji's marriage date
+> 
+>
+>
+>=C2=A0 
+>Thanks Ujjwal ji for your=
+ response.
+>
+>
+>Apologies for sending this query on this group, but I've se=
+nt request for membership to vedic-astrology@yahoogroups and it is pending =
+with the group owner.But this query was giving me nightmares for sometime, =
+thats why asked here.
+>
+>
+>Your response is logical but my problem is if th=
+is person would have come to me, in say, 1991 to predict his marriage, how =
+would I know if its 1993, because 1996 combination seems stronger to me tha=
+n 1993. It could also have happened that the native could not get marry in =
+1993 and then 1996 would be the option. In other words, if there are multip=
+le yogs for marriage, what are the final deciding factors.
+>
+>
+>
+>
+>Regards=
+,
+>Aman
+>
+>
+>
+>________________________________
+> From: Ujjwal Trivedi <ujj=
+waltrivedi@...>
+>To: vedic-wisdom@yahoogroups.com 
+>Sent: Monday, 22 =
+July 2013, 18:31
+>Subject: [vedic-wisdom] Re: Help Required - Calculating N=
+arasimha ji's marriage date
+> 
+>
+>
+>=C2=A0 
+>Hi Aman,=C2=A0
+>
+>
+>This is no=
+t correct group for such queries.
+>Please ask this on vedic-astrology@yahoo=
+...
+>
+>
+>Also, the answer to your question seems more logical than astrolog=
+ical.=C2=A0
+>
+>
+>93 falls before 96. Marriage would have likely taken place=
+ in 96 if he did not marry in 93.=C2=A0
+>
+>
+>If there are five likely dates=
+ of an event happening - it may happen on any of them. It is hard to say wh=
+en will it take place exactly.=C2=A0
+>It also does not indicate that event =
+will take place every time it is likely. If marriage has happened once, the=
+ next likely time may indicate something related to the relationship or mar=
+ital life, or some other business partnership or some other thing indicated=
+ by 7th house.=C2=A0
+>
+>-- 
+>
+>Regards, 
+>Ujjwal=C2=A0
+>
+>
+>
+>
+> 
+>
+>
+---1999499579-2140747527-1374511674=:28061
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"color:#000; background-color:#fff; font-family:ar=
+ial, helvetica, sans-serif;font-size:10pt"><div><span>Namaste friends,</spa=
+n></div><div style=3D"color: rgb(0, 0, 0); font-size: 13.3333px; font-famil=
+y: arial,helvetica,sans-serif; background-color: transparent; font-style: n=
+ormal;"><span> </span></div><div style=3D"color: rgb(0, 0, 0); font-si=
+ze: 13.3333px; font-family: arial,helvetica,sans-serif; background-color: t=
+ransparent; font-style: normal;"><span>This </span><span><span>yahoogroup <=
+/span>is NOT for astrology discussions, it is for spirituality discussions.=
+ That is explicitly mentioned on the main page of this yahoogroup.</span></=
+div><div style=3D"color: rgb(0, 0, 0); font-size: 13.3333px; font-family: a=
+rial,helvetica,sans-serif; background-color: transparent; font-style: norma=
+l;"><span> </span></div><div style=3D"color: rgb(0, 0, 0); font-size: =
+13.3333px; font-family: arial,helvetica,sans-serif; background-color:
+ tran=
+sparent; font-style: normal;"><span>Aman ji, I privately warned you to not =
+send any astrology mails to vedic-wisdom yahoogroup and yet you keep violat=
+ing the charter. There are tens of yahoogroups dedicated to astrology. If y=
+ou can't get membership on one of them, that does not justify spamming this=
+ yahoogroup, even after my warning to you. Sorry, I am banning you from thi=
+s yahoogroup.</span></div><div style=3D"color: rgb(0, 0, 0); font-size: 13.=
+3333px; font-family: arial,helvetica,sans-serif; background-color: transpar=
+ent; font-style: normal;"><span> </span></div><div style=3D"color: rgb=
+(0, 0, 0); font-family: arial,helvetica,sans-serif; background-color: trans=
+parent; font-style: normal;"><span style=3D"font-size: 16px;"><span>Other p=
+eople who discuss astrology here may be banned after or even without a warn=
+ing.</span></span></div><div style=3D"color: rgb(0, 0, 0); font-size: 13.33=
+33px; font-family: arial,helvetica,sans-serif; background-color:
+ transpare=
+nt; font-style: normal;"><span> </span></div><div style=3D"color: rgb(=
+0, 0, 0); font-size: 13.3333px; font-family: arial,helvetica,sans-serif; ba=
+ckground-color: transparent; font-style: normal;"><span>Best wishes for Gur=
+u Pournima to all of you!<br></span></div><div> </div><div style=3D"co=
+lor:rgb(0, 0, 0);font-size:13px;font-family:arial, helvetica, clean, sans-s=
+erif;background-color:transparent;font-style:normal;">Best regards,<br>Nara=
+simha<br>--------<br>Astrology & Spirituality Resources: <a rel=3D"nofo=
+llow" target=3D"_blank" href=3D"http://www.vedicastrologer.org/">http://www=
+.VedicAstrologer.org</a></div><div style=3D"color:rgb(0, 0, 0);font-size:13=
+px;font-family:arial, helvetica, clean, sans-serif;background-color:transpa=
+rent;font-style:normal;">--------<br></div><div> <br><blockquote style=
+=3D"border-left: 2px solid rgb(16, 16, 255); margin-left: 5px; margin-top: =
+5px; padding-left: 5px;">  <div style=3D"font-family: arial, helvetica,
+ sa=
+ns-serif; font-size: 10pt;"> <div style=3D"font-family: times new roman, ne=
+w york, times, serif; font-size: 12pt;"> <div dir=3D"ltr"> <hr size=3D"1"> =
+ <font face=3D"Arial" size=3D"2"> <b><span style=3D"font-weight:bold;">From=
+:</span></b> Aman Gupta <am_gup1234@...><br> <b><span style=
+=3D"font-weight: bold;">To:</span></b> "vedic-wisdom@yahoogroups.com" <v=
+edic-wisdom@yahoogroups.com> <br> <b><span style=3D"font-weight: bold;">=
+Sent:</span></b> Monday, July 22, 2013 12:22 PM<br> <b><span style=3D"font-=
+weight: bold;">Subject:</span></b> Re: [vedic-wisdom] Re: Help Required - C=
+alculating Narasimha ji's marriage date<br> </font> </div> <div class=3D"y_=
+msg_container"><br><div id=3D"yiv8655567295">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div>
+<span styl=
+e=3D"display:none;"> </span>
+
+
+
+    <div id=3D"yiv8655567295ygrp-text"=
+>
+      
+      
+      <div style=3D"color:#000;background-color:#fff;font-f=
+amily:times new roman, new york, times, serif;font-size:12pt;"><div>Thanks =
+Ujjwal ji for your response.</div><div><br></div><div style=3D"color:rgb(0,=
+ 0, 0);font-size:16px;font-family:'times new roman', 'new york', times, ser=
+if;background-color:transparent;font-style:normal;">Apologies for sending t=
+his query on this group, but I've sent request for membership to vedic-astr=
+ology@yahoogroups and it is pending with the group owner.<span style=3D"bac=
+kground-color:transparent;">But this query was giving me nightmares for som=
+etime, thats why asked here.</span></div><div style=3D"color:rgb(0, 0, 0);f=
+ont-size:16px;font-family:'times new roman', 'new york', times, serif;backg=
+round-color:transparent;font-style:normal;"><span style=3D"background-color=
+:transparent;"><br></span></div><div style=3D"color:rgb(0, 0, 0);font-size:=
+16px;font-family:'times new roman', 'new york', times,
+ serif;background-co=
+lor:transparent;font-style:normal;">Your response is logical but my problem=
+ is if this person would have come to me, in say, 1991 to predict his marri=
+age, how would I know if its 1993, because 1996 combination seems stronger =
+to me than 1993. It could also have happened that the native could not get =
+marry in 1993 and then 1996 would be the option. In other words, if there a=
+re multiple yogs for marriage, what are the final deciding factors.</div><d=
+iv style=3D"color:rgb(0, 0, 0);font-size:16px;font-family:'times new roman'=
+, 'new york', times, serif;background-color:transparent;font-style:normal;"=
+><br></div><div style=3D"color:rgb(0, 0, 0);font-size:16px;font-family:'tim=
+es new roman', 'new york', times, serif;background-color:transparent;font-s=
+tyle:normal;"><br></div><div style=3D"color:rgb(0, 0, 0);font-size:16px;fon=
+t-family:'times new roman', 'new york', times, serif;background-color:trans=
+parent;
+font-style:normal;">Regards,</div><div style=3D"color:rgb(0, 0, 0);=
+font-size:16px;font-family:'times new roman', 'new york', times, serif;back=
+ground-color:transparent;font-style:normal;">Aman</div><div><br></div>  <di=
+v style=3D"font-family:'times new roman', 'new york', times, serif;font-siz=
+e:12pt;"> <div style=3D"font-family:'times new roman', 'new york', times, s=
+erif;font-size:12pt;"> <div dir=3D"ltr"> <hr size=3D"1">  <font face=3D"Ari=
+al" size=3D"2"> <b><span style=3D"font-weight:bold;">From:</span></b> Ujjwa=
+l Trivedi <ujjwaltrivedi@...><br> <b><span style=3D"font-weight=
+:bold;">To:</span></b> vedic-wisdom@yahoogroups.com <br> <b><span style=3D"=
+font-weight:bold;">Sent:</span></b> Monday, 22 July 2013, 18:31<br> <b><spa=
+n style=3D"font-weight:bold;">Subject:</span></b> [vedic-wisdom] Re: Help R=
+equired - Calculating Narasimha ji's marriage date<br> </font> </div> <div =
+class=3D"yiv8655567295y_msg_container"><br><div id=3D"yiv8655567295">
+
+
+
+
+
+=
+
+
+
+
+
+
+
+
+<div>
+<span> </span>
+
+
+
+    <div id=3D"yiv8655567295ygrp-text"=
+>
+      
+      
+      <div dir=3D"ltr">Hi Aman, <div><br></div><div>Th=
+is is not correct group for such queries.<div>Please ask this on vedic-astr=
+ology@yahoo...</div><div><br></div><div>Also, the answer to your question s=
+eems more logical than astrological. </div>
+
+<div><br></div><div>93 fa=
+lls before 96. Marriage would have likely taken place in 96 if he did not m=
+arry in 93. </div><div><br></div><div>If there are five likely dates o=
+f an event happening - it may happen on any of them. It is hard to say when=
+ will it take place exactly. </div>
+
+<div>It also does not indicate th=
+at event will take place every time it is likely. If marriage has happened =
+once, the next likely time may indicate something related to the relationsh=
+ip or marital life, or some other business partnership or some other thing =
+indicated by 7th house. </div>
+
+<div><br></div>-- <br><div dir=3D"ltr"=
+>Regards, <br>Ujjwal <br><br></div>
+</div></div>
+
+
+    </div>
+     
+
+
+=
+
+</div>
+
+
+
+
+</div><br><br></div> </div> </div>  </div>
+
+    </div>
+     
+
+
+=
+
+</div>
+
+
+
+
+
+</div><br><br></div> </div> </div> </blockquote></div>   </div=
+></body></html>
+---1999499579-2140747527-1374511674=:28061--
+
+

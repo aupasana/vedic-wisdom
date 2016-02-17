@@ -1,0 +1,589 @@
+From pvr108@...  Wed Feb 17 11:07:49 2016
+Return-Path: <pvr108@...>
+X-Sender: pvr108@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 4898 invoked by uid 102); 17 Oct 2015 13:04:45 -0000
+X-Received: from unknown (HELO mtaq2.grp.bf1.yahoo.com) (10.193.84.33)
+  by m6.grp.bf1.yahoo.com with SMTP; 17 Oct 2015 13:04:45 -0000
+X-Received: (qmail 5476 invoked from network); 17 Oct 2015 13:04:45 -0000
+X-Received: from unknown (HELO mta1002.groups.mail.bf1.yahoo.com) (98.139.170.166)
+  by mtaq2.grp.bf1.yahoo.com with SMTP; 17 Oct 2015 13:04:45 -0000
+X-Original-Return-Path: <pvr108@...>
+X-Received-SPF: pass (domain of yahoo.com designates 98.139.212.163 as permitted sender)
+X-YMailISG: naJjk4UWLDtohXgUVtL_4YtvKVu8EWlmxhLAhAx8RWqhu3xu
+ Jph1fBI6bktmcEW.t_URZs_F.KVdz2il_U4mFKIrtkga7exhD9StENns3kzW
+ OjqRa_wdXTxe2vS1v_yCQ.PViLLpVYMY81ptsvmgLloFfAXL8eGJl0Sp.RK_
+ Uj9rnjhREygSidBzNp3zd1FuEW5xIL2avAhGX9aX34ZLp8wvwCe4SUqe6b6W
+ bt.eX38Qisl46SoUVVkhy8rzuDr66X7gixK86029tbaRZk08ZNCufvtTIsPU
+ T5J_c_Ye3rlcoDqWmotzRmSDAGMnpQyQCkvN8Xt3DwEDrnxn0dd3U68wHqi2
+ 1emMpN6ki9.KTOzB4AXUtNrMSJFDfmKuSc0HCSVfxOGApgMdzzFw7XJeWBNa
+ VlQTu6UKyNDl8y_UqAK7cjQpDb6dMxBYPgGsrywsrQfqeVU8X8GqthLesq6v
+ wSOPcAkEOmnGKHqbjz2N4vgyYoDKCHE7mNVXjsyyVV74piuzXFzRr7I0qve.
+ bfQcGPi8VrGnuPiNd65iYoBIy.Cl0XKXYREl0965BSLobCw.wk04.uOv4BVr
+ 2aLB5oemDeeevX6uo484gN747kBP_nZ_mWK5.l.19JuPO3oyvsh928udKaZf
+ phUqda3.sVZ0n_LnSJd1ZnV2Q4q2s9Ngm7JrMNgsydFzE81bHFbMXWXkldET
+ GhIiKse.5dr4tRQQnCi9jK4fXS7Uye3D4_Ifg.0t7nU4p1fNmg.5tNWHtr2z
+ gACDro3o8IAb1bxXjKbdOkTbin7YcZcS5wFprmqtvN8b6qW7UNL3IeuLYFeP
+ cO2UKN8QRHgFcuiC8Yy6cJKJycNlpf47otapGgrw6htfxbBSzUHWWuEzWVU9
+ 3AmD.NMA3Xb9jTkTJ28KoTUfWQfGvJOXGQ1M8OyxaRb.A2cje6N9kX.5kdDs
+ Hzeo3ToCzAjwgiIFyj9IhHUQpSWODittrxQvqpxNgLmMA_J1niA53PcpROII
+ fDQh7vLX458Zbw_7aznFidrcrRk.lfChPnpfsW8zqWxvwS.DqiTqOSJft82F
+ 2YE2yQXhwK8EWXWmoKCPgdhjQwxHJYLKRIOXaCI.81SwYQloitqV4dd6_krj
+ oaQHN3f26bMBtCyz8qissNXEXSNBxjnD_Nl_6Ed_P8s7knePyEHhjHDRjxuc
+ 51Fs0ERUDI8dcKmuoOcVg_UoBAPMbV7uSs9xbcJlfjQrZTNMt4gFaj9XaPEe
+ BR5xZpWXTDFbVwOSU205bzWl4RS6OcWfB2_GI78KaFp4ZR1ZoWQA5kuFC3TG
+ n08jlulKHQjGo2lRsWk68EBRjx47PBuIWCi.czCaWN6QjOzjNK7E8x6AYS2k
+ RyHhWodVeyvOqXjAj3OEFatXPO.hkkkw.8cLhFaDoWmWm82U_Lq8qW7_zd3M
+ q9yZcoAmtueorIb2bL0kT1Up2Kt2rIG7KAUtF.0vDm.qERVH.a4e7qZI0T0X
+ z5UL8q3lWCw43xT6af.n0JJaoMTgMTnmOO_Y0qT_XvLS3rHClHobNZ7bLHrH
+ EBezU3RdvpBQSpqP3an1VAggNnr7q_LOPCAfoWlnHmEtqcQuAEOBeuTzUbRq
+ .9rSbJW_Ht4Tn2g54ZdQUT6A2aS7cJT4SWh08DE7C3ujPAdUzowdXEPW1hEZ
+ p7Vj1MoCy_K9lBBLUcJkEEqEN351xaVV3r70LYHa.g5DldX7p8wKfoeqo334
+ xGK6dwxeWT0MPxo5eGqn9P60Zm9QkJpuZwh2bGTSupnwoQV2h88dFGdg3I1f
+ M5t5nN_4mxMqSftOj38Zv_aL8f0CjNjexyGEgA--
+Authentication-Results: mta1002.groups.mail.bf1.yahoo.com  from=yahoo.com; domainkeys=neutral (no sig);  from=yahoo.com; dkim=pass (ok)
+X-Received: from 127.0.0.1  (EHLO nm4.bullet.mail.bf1.yahoo.com) (98.139.212.163)
+  by mta1002.groups.mail.bf1.yahoo.com with SMTPS; Sat, 17 Oct 2015 13:04:44 +0000
+X-Received: from [98.139.214.32] by nm4.bullet.mail.bf1.yahoo.com with NNFMP; 17 Oct 2015 13:04:44 -0000
+X-Received: from [98.139.212.237] by tm15.bullet.mail.bf1.yahoo.com with NNFMP; 17 Oct 2015 13:04:44 -0000
+X-Received: from [127.0.0.1] by omp1046.mail.bf1.yahoo.com with NNFMP; 17 Oct 2015 13:04:44 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 184814.87438.bm@...
+X-YMail-OSG: Y4zCffIVM1m64Yzdwd8u62j61RSlDwdGNVdhO6VCQ2CYc.aTpy0vSxc216vjvlB
+ .F2yBkIdTQUq6Z2ynxK0dHGZBwqdUIBSQ78al0nSqCle4uUeQNgnrx7kA66LF8QdaqofIMv2Dmtc
+ 4vQnmyLoeD2DeXYWGozJ9O8K9Dz8WrM7TIWXfOqrgCUJnfHum7ZkH8N.YzT9rwaA3.T0AhG4gYlF
+ BafivgF7br_VbAiISJhNU4jKk1rNFX3uhiDrgnAUmWvuPxG5ckj9Qz0vb.p7J.EijCIl07wWdlgn
+ hSo62.RdQb_fzcsQznv1b3A.YxQf2TdvZEBKywaDWAnvOsWeG.RmmNIeN1D12nFjsXGM6ubVC8vD
+ JmduAYYtEUsedFku1cM.e.rX6rXmeHXYfo3YXdDT.pxXW.yiWsbJEs6SudlyiwTTwOBJBjR7jQ7B
+ E2RTTQ_xelR.yXfPIdU5i9AxWIQIgcHD3..ThR6NUDqxFpIbdLXHO1d829T_905vCvbaousKCrwb
+ kR3ygzxlPGu4RTw--
+X-Received: by 76.13.27.49; Sat, 17 Oct 2015 13:04:43 +0000 
+Date: Sat, 17 Oct 2015 13:04:43 +0000 (UTC)
+To: "vedic-wisdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com>
+Message-ID: <988628518.1746403.1445087083327.JavaMail.yahoo@...>
+In-Reply-To: <548450853.1597244.1445019079279.JavaMail.yahoo@...>
+References: <548450853.1597244.1445019079279.JavaMail.yahoo@...>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_1746402_1624842480.1445087083316"
+Content-Length: 26884
+X-Originating-IP: 98.139.170.166
+Reply-To: "Narasimha P.V.R. Rao" <pvr108@...>
+Subject: Re: [vedic-wisdom] satyanarayan puja during navratra
+X-Yahoo-Group-Post: member; u=77866142; y=YuwdcG84VX3IYW-d_2NQBnH_GatgOpayOZvNINe59Yox
+X-Yahoo-Profile: pvr108
+From: "Narasimha P.V.R. Rao" <pvr108@...>
+
+
+------=_Part_1746402_1624842480.1445087083316
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Namaste,
+I also do Satya Narayana pooja every Pournima (Full Moon) night. E=
+kadasi, Pournima and Sankrathi are the most auspicious days for it.
+Sankran=
+thi is not linked to tithis. It is the day when Sun changes zodiacal sign. =
+For example, Makara Sankranthi usually comes on Jan 14 (+ or - one day). Ar=
+ound the 13th-15th of every month, Sun changes sign and it is Sankranthi.
+B=
+est regards,
+Narasimha
+--------
+Astrology & Spirituality Resources: http://=
+www.VedicAstrologer.org--------
+
+ 
+      From: "rashmi patel rashmihpatel@y=
+ahoo.com [vedic-wisdom]" <vedic-wisdom@yahoogroups.com>
+ To: "vedic-wisdom@=
+yahoogroups.com" <vedic-wisdom@yahoogroups.com> 
+ Sent: Friday, October 16,=
+ 2015 2:11 PM
+ Subject: Re: [vedic-wisdom] satyanarayan puja during navratr=
+a
+   
+=C2=A0   Respected Misraji,
+is Sankranti =C2=A0means it every months =
+chouth in tithi wise or its different please let me know since I am gujarat=
+i we don't do stayanarayan puja on sankranti we do on punam full moon day s=
+o guide me pleasethanks 
+ 
+
+
+     On Monday, October 12, 2015 5:03 AM, "Dur=
+gesh Mishra durgesh.mishra@... [vedic-wisdom]" <vedic-wisdom@yahoogro=
+ups.com> wrote:
+   
+
+ =C2=A0   Namaste Respected Gurujan,
+I consistently pe=
+rform satyanarayan puja and vishnu sahasranam homam on every month at sankr=
+anti. This time sankranti will on 18th Oct i.e. during navratra.
+I keep fas=
+t during 9 days.
+Is it advisable to perform the satyanarayan vrat and puja =
+during this time?
+RegardsDurgesh O Mishra  
+
+     #yiv9538286865 #yiv953828=
+6865 -- #yiv9538286865ygrp-mkp {border:1px solid #d8d8d8;font-family:Arial;=
+margin:10px 0;padding:0 10px;}#yiv9538286865 #yiv9538286865ygrp-mkp hr {bor=
+der:1px solid #d8d8d8;}#yiv9538286865 #yiv9538286865ygrp-mkp #yiv9538286865=
+hd {color:#628c2a;font-size:85%;font-weight:700;line-height:122%;margin:10p=
+x 0;}#yiv9538286865 #yiv9538286865ygrp-mkp #yiv9538286865ads {margin-bottom=
+:10px;}#yiv9538286865 #yiv9538286865ygrp-mkp .yiv9538286865ad {padding:0 0;=
+}#yiv9538286865 #yiv9538286865ygrp-mkp .yiv9538286865ad p {margin:0;}#yiv95=
+38286865 #yiv9538286865ygrp-mkp .yiv9538286865ad a {color:#0000ff;text-deco=
+ration:none;}#yiv9538286865 #yiv9538286865ygrp-sponsor #yiv9538286865ygrp-l=
+c {font-family:Arial;}#yiv9538286865 #yiv9538286865ygrp-sponsor #yiv9538286=
+865ygrp-lc #yiv9538286865hd {margin:10px 0px;font-weight:700;font-size:78%;=
+line-height:122%;}#yiv9538286865 #yiv9538286865ygrp-sponsor #yiv9538286865y=
+grp-lc .yiv9538286865ad {margin-bottom:10px;padding:0 0;}#yiv9538286865 #yi=
+v9538286865actions {font-family:Verdana;font-size:11px;padding:10px 0;}#yiv=
+9538286865 #yiv9538286865activity {background-color:#e0ecee;float:left;font=
+-family:Verdana;font-size:10px;padding:10px;}#yiv9538286865 #yiv9538286865a=
+ctivity span {font-weight:700;}#yiv9538286865 #yiv9538286865activity span:f=
+irst-child {text-transform:uppercase;}#yiv9538286865 #yiv9538286865activity=
+ span a {color:#5085b6;text-decoration:none;}#yiv9538286865 #yiv9538286865a=
+ctivity span span {color:#ff7900;}#yiv9538286865 #yiv9538286865activity spa=
+n .yiv9538286865underline {text-decoration:underline;}#yiv9538286865 .yiv95=
+38286865attach {clear:both;display:table;font-family:Arial;font-size:12px;p=
+adding:10px 0;width:400px;}#yiv9538286865 .yiv9538286865attach div a {text-=
+decoration:none;}#yiv9538286865 .yiv9538286865attach img {border:none;paddi=
+ng-right:5px;}#yiv9538286865 .yiv9538286865attach label {display:block;marg=
+in-bottom:5px;}#yiv9538286865 .yiv9538286865attach label a {text-decoration=
+:none;}#yiv9538286865 blockquote {margin:0 0 0 4px;}#yiv9538286865 .yiv9538=
+286865bold {font-family:Arial;font-size:13px;font-weight:700;}#yiv953828686=
+5 .yiv9538286865bold a {text-decoration:none;}#yiv9538286865 dd.yiv95382868=
+65last p a {font-family:Verdana;font-weight:700;}#yiv9538286865 dd.yiv95382=
+86865last p span {margin-right:10px;font-family:Verdana;font-weight:700;}#y=
+iv9538286865 dd.yiv9538286865last p span.yiv9538286865yshortcuts {margin-ri=
+ght:0;}#yiv9538286865 div.yiv9538286865attach-table div div a {text-decorat=
+ion:none;}#yiv9538286865 div.yiv9538286865attach-table {width:400px;}#yiv95=
+38286865 div.yiv9538286865file-title a, #yiv9538286865 div.yiv9538286865fil=
+e-title a:active, #yiv9538286865 div.yiv9538286865file-title a:hover, #yiv9=
+538286865 div.yiv9538286865file-title a:visited {text-decoration:none;}#yiv=
+9538286865 div.yiv9538286865photo-title a, #yiv9538286865 div.yiv9538286865=
+photo-title a:active, #yiv9538286865 div.yiv9538286865photo-title a:hover, =
+#yiv9538286865 div.yiv9538286865photo-title a:visited {text-decoration:none=
+;}#yiv9538286865 div#yiv9538286865ygrp-mlmsg #yiv9538286865ygrp-msg p a spa=
+n.yiv9538286865yshortcuts {font-family:Verdana;font-size:10px;font-weight:n=
+ormal;}#yiv9538286865 .yiv9538286865green {color:#628c2a;}#yiv9538286865 .y=
+iv9538286865MsoNormal {margin:0 0 0 0;}#yiv9538286865 o {font-size:0;}#yiv9=
+538286865 #yiv9538286865photos div {float:left;width:72px;}#yiv9538286865 #=
+yiv9538286865photos div div {border:1px solid #666666;height:62px;overflow:=
+hidden;width:62px;}#yiv9538286865 #yiv9538286865photos div label {color:#66=
+6666;font-size:10px;overflow:hidden;text-align:center;white-space:nowrap;wi=
+dth:64px;}#yiv9538286865 #yiv9538286865reco-category {font-size:77%;}#yiv95=
+38286865 #yiv9538286865reco-desc {font-size:77%;}#yiv9538286865 .yiv9538286=
+865replbq {margin:4px;}#yiv9538286865 #yiv9538286865ygrp-actbar div a:first=
+-child {margin-right:2px;padding-right:5px;}#yiv9538286865 #yiv9538286865yg=
+rp-mlmsg {font-size:13px;font-family:Arial, helvetica, clean, sans-serif;}#=
+yiv9538286865 #yiv9538286865ygrp-mlmsg table {font-size:inherit;font:100%;}=
+#yiv9538286865 #yiv9538286865ygrp-mlmsg select, #yiv9538286865 input, #yiv9=
+538286865 textarea {font:99% Arial, Helvetica, clean, sans-serif;}#yiv95382=
+86865 #yiv9538286865ygrp-mlmsg pre, #yiv9538286865 code {font:115% monospac=
+e;}#yiv9538286865 #yiv9538286865ygrp-mlmsg * {line-height:1.22em;}#yiv95382=
+86865 #yiv9538286865ygrp-mlmsg #yiv9538286865logo {padding-bottom:10px;}#yi=
+v9538286865 #yiv9538286865ygrp-msg p a {font-family:Verdana;}#yiv9538286865=
+ #yiv9538286865ygrp-msg p#yiv9538286865attach-count span {color:#1E66AE;fon=
+t-weight:700;}#yiv9538286865 #yiv9538286865ygrp-reco #yiv9538286865reco-hea=
+d {color:#ff7900;font-weight:700;}#yiv9538286865 #yiv9538286865ygrp-reco {m=
+argin-bottom:20px;padding:0px;}#yiv9538286865 #yiv9538286865ygrp-sponsor #y=
+iv9538286865ov li a {font-size:130%;text-decoration:none;}#yiv9538286865 #y=
+iv9538286865ygrp-sponsor #yiv9538286865ov li {font-size:77%;list-style-type=
+:square;padding:6px 0;}#yiv9538286865 #yiv9538286865ygrp-sponsor #yiv953828=
+6865ov ul {margin:0;padding:0 0 0 8px;}#yiv9538286865 #yiv9538286865ygrp-te=
+xt {font-family:Georgia;}#yiv9538286865 #yiv9538286865ygrp-text p {margin:0=
+ 0 1em 0;}#yiv9538286865 #yiv9538286865ygrp-text tt {font-size:120%;}#yiv95=
+38286865 #yiv9538286865ygrp-vital ul li:last-child {border-right:none !impo=
+rtant;}#yiv9538286865 
+
+   
+
+------=_Part_1746402_1624842480.1445087083316
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><head></head><body><div style=3D"color:#000; background-color:#fff; f=
+ont-family:HelveticaNeue, Helvetica Neue, Helvetica, Arial, Lucida Grande, =
+sans-serif;font-size:13px"><div id=3D"yui_3_16_0_1_1444827028352_12073"><sp=
+an>Namaste,</span></div><div id=3D"yui_3_16_0_1_1444827028352_12073"><span>=
+<br></span></div><div id=3D"yui_3_16_0_1_1444827028352_12073"><span>I also =
+do Satya Narayana pooja every Pournima (Full Moon) night. Ekadasi, Pournima=
+ and Sankrathi are the most auspicious days for it.</span></div><div id=3D"=
+yui_3_16_0_1_1444827028352_12073"><span><br></span></div><div id=3D"yui_3_1=
+6_0_1_1444827028352_12073" dir=3D"ltr"><span>Sankranthi is not linked to ti=
+this. It is the day when Sun changes zodiacal sign. For example, Makara San=
+kranthi usually comes on Jan 14 (+ or - one day). Around the 13th-15th of e=
+very month, Sun changes sign and it is Sankranthi.</span></div><div></div><=
+div><br></div><div class=3D"signature" id=3D"yui_3_16_0_1_1444827028352_120=
+76"><div style=3D"color:rgb(0, 0, 0);font-size:13px;font-family:arial, helv=
+etica, clean, sans-serif;background-color:transparent;font-style:normal;" i=
+d=3D"yui_3_16_0_1_1444827028352_12075">Best regards,<br>Narasimha<br>------=
+--<br>Astrology & Spirituality Resources: <a rel=3D"nofollow" target=3D=
+"_blank" href=3D"http://www.vedicastrologer.org/">http://www.VedicAstrologe=
+r.org</a></div><div style=3D"color:rgb(0, 0, 0);font-size:13px;font-family:=
+arial, helvetica, clean, sans-serif;background-color:transparent;font-style=
+:normal;" id=3D"yui_3_16_0_1_1444827028352_12090">--------<br></div></div><=
+br> <blockquote style=3D"border-left: 2px solid rgb(16, 16, 255); margin-le=
+ft: 5px; margin-top: 5px; padding-left: 5px;" id=3D"yui_3_16_0_1_1444827028=
+352_12081">  <div style=3D"font-family: HelveticaNeue, Helvetica Neue, Helv=
+etica, Arial, Lucida Grande, sans-serif; font-size: 13px;" id=3D"yui_3_16_0=
+_1_1444827028352_12080"> <div style=3D"font-family: HelveticaNeue, Helvetic=
+a Neue, Helvetica, Arial, Lucida Grande, sans-serif; font-size: 16px;" id=
+=3D"yui_3_16_0_1_1444827028352_12079"> <div dir=3D"ltr" id=3D"yui_3_16_0_1_=
+1444827028352_12078"> <hr size=3D"1" id=3D"yui_3_16_0_1_1444827028352_12088=
+">  <font size=3D"2" face=3D"Arial" id=3D"yui_3_16_0_1_1444827028352_12083"=
+> <b id=3D"yui_3_16_0_1_1444827028352_12086"><span style=3D"font-weight:bol=
+d;" id=3D"yui_3_16_0_1_1444827028352_12085">From:</span></b> "rashmi patel =
+rashmihpatel@... [vedic-wisdom]" <vedic-wisdom@yahoogroups.com>=
+<br> <b><span style=3D"font-weight: bold;">To:</span></b> "vedic-wisdom@yah=
+oogroups.com" <vedic-wisdom@yahoogroups.com> <br> <b><span style=3D"f=
+ont-weight: bold;">Sent:</span></b> Friday, October 16, 2015 2:11 PM<br> <b=
+><span style=3D"font-weight: bold;">Subject:</span></b> Re: [vedic-wisdom] =
+satyanarayan puja during navratra<br> </font> </div> <div class=3D"y_msg_co=
+ntainer" id=3D"yui_3_16_0_1_1444827028352_12224"><br><div id=3D"yiv95382868=
+65"><div id=3D"yui_3_16_0_1_1444827028352_12223">
+<span style=3D"display:no=
+ne;"> </span>
+
+
+<div id=3D"yiv9538286865ygrp-mlmsg" style=3D"">
+  <div=
+ id=3D"yiv9538286865ygrp-msg" style=3D"">
+
+
+    <div id=3D"yiv9538286865ygr=
+p-text">
+      
+      
+      <div></div><div style=3D"color:#000;background=
+-color:#fff;font-family:HelveticaNeue-Light, Helvetica Neue Light, Helvetic=
+a Neue, Helvetica, Arial, Lucida Grande, sans-serif;font-size:16px;" id=3D"=
+yui_3_16_0_1_1444827028352_12222"><div><span>Respected Misraji,</span></div=
+><div><span></span><br clear=3D"none"></div><div dir=3D"ltr" id=3D"yiv95382=
+86865yui_3_16_0_1_1444997839590_21169"><span id=3D"yiv9538286865yui_3_16_0_=
+1_1444997839590_21168">is Sankranti  means it every months chouth in t=
+ithi wise or its different please let me know since I am gujarati we don't =
+do stayanarayan puja on sankranti we do on punam full moon day so guide me =
+please</span></div><div dir=3D"ltr" id=3D"yiv9538286865yui_3_16_0_1_1444997=
+839590_21206"><span>thanks </span></div><div id=3D"yiv9538286865yui_3_16_0_=
+1_1444997839590_21112"><br clear=3D"none"></div>  <br clear=3D"none"><div c=
+lass=3D"yiv9538286865qtdSeparateBR"><br clear=3D"none"><br clear=3D"none"><=
+/div><div class=3D"yiv9538286865yahoo_quoted" style=3D"display: block;"> <d=
+iv style=3D"font-family:HelveticaNeue-Light, Helvetica Neue Light, Helvetic=
+a Neue, Helvetica, Arial, Lucida Grande, sans-serif;font-size:16px;"> <div =
+style=3D"font-family:HelveticaNeue, Helvetica Neue, Helvetica, Arial, Lucid=
+a Grande, sans-serif;font-size:16px;"> <div dir=3D"ltr"> <font face=3D"Aria=
+l" size=3D"2"> On Monday, October 12, 2015 5:03 AM, "Durgesh Mishra durgesh=
+.mishra@... [vedic-wisdom]" <vedic-wisdom@yahoogroups.com> wrot=
+e:<br clear=3D"none"> </font> </div>  <br clear=3D"none"><br clear=3D"none"=
+> <div class=3D"yiv9538286865y_msg_container"><div id=3D"yiv9538286865"><di=
+v>
+<span> </span>
+
+
+<div id=3D"yiv9538286865ygrp-mlmsg">
+  <div id=3D"=
+yiv9538286865ygrp-msg">
+
+
+    <div id=3D"yiv9538286865ygrp-text">
+      
+  =
+    
+      <div></div><div dir=3D"ltr">Namaste Respected Gurujan,
+<div><br =
+clear=3D"none"></div><div>I consistently perform satyanarayan puja and vish=
+nu sahasranam homam on every month at sankranti. This time sankranti will o=
+n 18th Oct i.e. during navratra.</div><div><br clear=3D"none"></div><div>I =
+keep fast during 9 days.</div><div><br clear=3D"none"></div><div>Is it advi=
+sable to perform the satyanarayan vrat and puja during this time?</div><div=
+><br clear=3D"none"></div><div>Regards</div><div>Durgesh O Mishra</div></di=
+v>
+
+
+    </div>
+     
+
+    
+    <div style=3D"height:0px;color:rgb(255, 255=
+, 255);"></div></div>
+
+
+</div></div><br clear=3D"none"><br clear=3D"none"><=
+/div>  </div> </div>  </div></div></div>
+
+    </div>
+     
+
+    
+    <div s=
+tyle=3D"color:#fff;height:0;"></div></div>
+
+
+</div><style type=3D"text/css"=
+>
+#yiv9538286865 #yiv9538286865 --
+  #yiv9538286865ygrp-mkp {
+border:1px so=
+lid #d8d8d8;font-family:Arial;margin:10px 0;padding:0 10px;}
+
+#yiv953828686=
+5 #yiv9538286865ygrp-mkp hr {
+border:1px solid #d8d8d8;}
+
+#yiv9538286865 #y=
+iv9538286865ygrp-mkp #yiv9538286865hd {
+color:#628c2a;font-size:85%;font-we=
+ight:700;line-height:122%;margin:10px 0;}
+
+#yiv9538286865 #yiv9538286865ygr=
+p-mkp #yiv9538286865ads {
+margin-bottom:10px;}
+
+#yiv9538286865 #yiv95382868=
+65ygrp-mkp .yiv9538286865ad {
+padding:0 0;}
+
+#yiv9538286865 #yiv9538286865y=
+grp-mkp .yiv9538286865ad p {
+margin:0;}
+
+#yiv9538286865 #yiv9538286865ygrp-=
+mkp .yiv9538286865ad a {
+color:#0000ff;text-decoration:none;}
+#yiv953828686=
+5 #yiv9538286865ygrp-sponsor #yiv9538286865ygrp-lc {
+font-family:Arial;}
+
+#=
+yiv9538286865 #yiv9538286865ygrp-sponsor #yiv9538286865ygrp-lc #yiv95382868=
+65hd {
+margin:10px 0px;font-weight:700;font-size:78%;line-height:122%;}
+
+#y=
+iv9538286865 #yiv9538286865ygrp-sponsor #yiv9538286865ygrp-lc .yiv953828686=
+5ad {
+margin-bottom:10px;padding:0 0;}
+
+#yiv9538286865 #yiv9538286865action=
+s {
+font-family:Verdana;font-size:11px;padding:10px 0;}
+
+#yiv9538286865 #yi=
+v9538286865activity {
+background-color:#e0ecee;float:left;font-family:Verda=
+na;font-size:10px;padding:10px;}
+
+#yiv9538286865 #yiv9538286865activity spa=
+n {
+font-weight:700;}
+
+#yiv9538286865 #yiv9538286865activity span:first-chi=
+ld {
+text-transform:uppercase;}
+
+#yiv9538286865 #yiv9538286865activity span=
+ a {
+color:#5085b6;text-decoration:none;}
+
+#yiv9538286865 #yiv9538286865act=
+ivity span span {
+color:#ff7900;}
+
+#yiv9538286865 #yiv9538286865activity sp=
+an .yiv9538286865underline {
+text-decoration:underline;}
+
+#yiv9538286865 .y=
+iv9538286865attach {
+clear:both;display:table;font-family:Arial;font-size:1=
+2px;padding:10px 0;width:400px;}
+
+#yiv9538286865 .yiv9538286865attach div a=
+ {
+text-decoration:none;}
+
+#yiv9538286865 .yiv9538286865attach img {
+border=
+:none;padding-right:5px;}
+
+#yiv9538286865 .yiv9538286865attach label {
+disp=
+lay:block;margin-bottom:5px;}
+
+#yiv9538286865 .yiv9538286865attach label a =
+{
+text-decoration:none;}
+
+#yiv9538286865 blockquote {
+margin:0 0 0 4px;}
+
+#=
+yiv9538286865 .yiv9538286865bold {
+font-family:Arial;font-size:13px;font-we=
+ight:700;}
+
+#yiv9538286865 .yiv9538286865bold a {
+text-decoration:none;}
+
+#=
+yiv9538286865 dd.yiv9538286865last p a {
+font-family:Verdana;font-weight:70=
+0;}
+
+#yiv9538286865 dd.yiv9538286865last p span {
+margin-right:10px;font-fa=
+mily:Verdana;font-weight:700;}
+
+#yiv9538286865 dd.yiv9538286865last p span.=
+yiv9538286865yshortcuts {
+margin-right:0;}
+
+#yiv9538286865 div.yiv953828686=
+5attach-table div div a {
+text-decoration:none;}
+
+#yiv9538286865 div.yiv953=
+8286865attach-table {
+width:400px;}
+
+#yiv9538286865 div.yiv9538286865file-t=
+itle a, #yiv9538286865 div.yiv9538286865file-title a:active, #yiv9538286865=
+ div.yiv9538286865file-title a:hover, #yiv9538286865 div.yiv9538286865file-=
+title a:visited {
+text-decoration:none;}
+
+#yiv9538286865 div.yiv9538286865p=
+hoto-title a, #yiv9538286865 div.yiv9538286865photo-title a:active, #yiv953=
+8286865 div.yiv9538286865photo-title a:hover, #yiv9538286865 div.yiv9538286=
+865photo-title a:visited {
+text-decoration:none;}
+
+#yiv9538286865 div#yiv95=
+38286865ygrp-mlmsg #yiv9538286865ygrp-msg p a span.yiv9538286865yshortcuts =
+{
+font-family:Verdana;font-size:10px;font-weight:normal;}
+
+#yiv9538286865 .=
+yiv9538286865green {
+color:#628c2a;}
+
+#yiv9538286865 .yiv9538286865MsoNorma=
+l {
+margin:0 0 0 0;}
+
+#yiv9538286865 o {
+font-size:0;}
+
+#yiv9538286865 #yiv=
+9538286865photos div {
+float:left;width:72px;}
+
+#yiv9538286865 #yiv95382868=
+65photos div div {
+border:1px solid #666666;height:62px;overflow:hidden;wid=
+th:62px;}
+
+#yiv9538286865 #yiv9538286865photos div label {
+color:#666666;fo=
+nt-size:10px;overflow:hidden;text-align:center;white-space:nowrap;width:64p=
+x;}
+
+#yiv9538286865 #yiv9538286865reco-category {
+font-size:77%;}
+
+#yiv9538=
+286865 #yiv9538286865reco-desc {
+font-size:77%;}
+
+#yiv9538286865 .yiv953828=
+6865replbq {
+margin:4px;}
+
+#yiv9538286865 #yiv9538286865ygrp-actbar div a:f=
+irst-child {
+margin-right:2px;padding-right:5px;}
+
+#yiv9538286865 #yiv95382=
+86865ygrp-mlmsg {
+font-size:13px;font-family:Arial, helvetica, clean, sans-=
+serif;}
+
+#yiv9538286865 #yiv9538286865ygrp-mlmsg table {
+font-size:inherit;=
+font:100%;}
+
+#yiv9538286865 #yiv9538286865ygrp-mlmsg select, #yiv9538286865=
+ input, #yiv9538286865 textarea {
+font:99% Arial, Helvetica, clean, sans-se=
+rif;}
+
+#yiv9538286865 #yiv9538286865ygrp-mlmsg pre, #yiv9538286865 code {
+f=
+ont:115% monospace;}
+
+#yiv9538286865 #yiv9538286865ygrp-mlmsg * {
+line-heig=
+ht:1.22em;}
+
+#yiv9538286865 #yiv9538286865ygrp-mlmsg #yiv9538286865logo {
+p=
+adding-bottom:10px;}
+
+
+#yiv9538286865 #yiv9538286865ygrp-msg p a {
+font-fam=
+ily:Verdana;}
+
+#yiv9538286865 #yiv9538286865ygrp-msg p#yiv9538286865attach-=
+count span {
+color:#1E66AE;font-weight:700;}
+
+#yiv9538286865 #yiv9538286865=
+ygrp-reco #yiv9538286865reco-head {
+color:#ff7900;font-weight:700;}
+
+#yiv95=
+38286865 #yiv9538286865ygrp-reco {
+margin-bottom:20px;padding:0px;}
+
+#yiv95=
+38286865 #yiv9538286865ygrp-sponsor #yiv9538286865ov li a {
+font-size:130%;=
+text-decoration:none;}
+
+#yiv9538286865 #yiv9538286865ygrp-sponsor #yiv95382=
+86865ov li {
+font-size:77%;list-style-type:square;padding:6px 0;}
+
+#yiv9538=
+286865 #yiv9538286865ygrp-sponsor #yiv9538286865ov ul {
+margin:0;padding:0 =
+0 0 8px;}
+
+#yiv9538286865 #yiv9538286865ygrp-text {
+font-family:Georgia;}
+
+=
+#yiv9538286865 #yiv9538286865ygrp-text p {
+margin:0 0 1em 0;}
+
+#yiv95382868=
+65 #yiv9538286865ygrp-text tt {
+font-size:120%;}
+
+#yiv9538286865 #yiv953828=
+6865ygrp-vital ul li:last-child {
+border-right:none !important;
+}
+#yiv95382=
+86865 
+</style></div><br><br></div> </div> </div> </blockquote>  </div></bo=
+dy></html>
+------=_Part_1746402_1624842480.1445087083316--
+
+

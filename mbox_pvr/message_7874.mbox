@@ -1,0 +1,373 @@
+From prm7782@...  Wed Feb 17 11:10:06 2016
+Return-Path: <prm7782@...>
+X-Sender: prm7782@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 73367 invoked from network); 22 Feb 2012 17:36:11 -0000
+X-Received: from unknown (98.137.35.160)
+  by m7.grp.sp2.yahoo.com with QMQP; 22 Feb 2012 17:36:11 -0000
+X-Received: from unknown (HELO nm4-vm0.bullet.mail.sp2.yahoo.com) (98.139.91.190)
+  by mta4.grp.sp2.yahoo.com with SMTP; 22 Feb 2012 17:36:11 -0000
+X-Received: from [98.139.91.65] by nm4.bullet.mail.sp2.yahoo.com with NNFMP; 22 Feb 2012 17:36:11 -0000
+X-Received: from [98.139.91.34] by tm5.bullet.mail.sp2.yahoo.com with NNFMP; 22 Feb 2012 17:36:11 -0000
+X-Received: from [127.0.0.1] by omp1034.mail.sp2.yahoo.com with NNFMP; 22 Feb 2012 17:36:11 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 219723.5559.bm@...
+X-Received: (qmail 73375 invoked by uid 60001); 22 Feb 2012 17:36:10 -0000
+X-YMail-OSG: 8lZB1UsVM1nu54FMNPbAE.SR1rFGzksZux.u76kRs.3jaH2
+ CzDXKZe6fGTBU3rZD_xs3wiZKsr_TzbRU5N8LKCGMJbn4P_mIZwmK4LM.pB8
+ PKluM8HiCZsrCMKFtjv_3NEJKdPvJy0pDxxmdNofBVYgPza03g7PF94WQyU6
+ bepe.VR3TAJzWM0oNMvpozy4ybtTQhd6OO7w3tKHi_JN3arFjH9sAWr_KDaa
+ ZuFYbYDh1A1.9Y3P_ju1cd_h4bSein7O3.jpG5VfzToBd4h2VccjiNhByVpN
+ igX96N92V8yfkLr0cUZserrba4VilXrZ9UkvOzsS0RTDW16Qkq_Us3xCUJQv
+ 1xJsRQ4RKsfSI.7QORAvfvAZjqqsHWrAXEfFJxw8yDfoaG9jYm5w2H8koa7U
+ e7Q0..6311CbDWMlZ8R8Q8T_A_1Tq6FbE.WgZMiSb7seZCajhVRyV2O4brl9
+ oXcOGHXwXDhQhfet27wa53F7brToW08sq0ZUYaN67Sh6C3o0A9HtlzQtORTz
+ Oh5mQRl5qGYyQfcnGeObnCG2P_4vONRq4IxhZz_tcHtN4iV5nno2TVO9JnrI
+ k2jeoydyPukEea81u6GVSIxK51Eh_qe6e01YFQKn86ykrT0Zm8CNDCw2MFHB
+ 15954b7beyzgPv2P_zzRUYIcL6Lx0uk1H2TBdYSJw7QwQLj1.nsiGv9Ebbwq
+ k67hx7m8QXn8OLIAOepeYd1mpIhNmf1SlAkjR8lP6jlpqRLHN8lv0UZhiwZ1
+ eqIOgRouwmHNYfOUehGndyDO7l4xz8235XMlBKB1eGYPSBlXgom1GMQy3cLW
+ 3eVdZpEsDDWmVdXoEQXvDpgkyw_dyX.yTLVMB5AVlKmo93_vA6irFWKawayi
+ zypotTOb_BvqAV2dGrH8iUMfChSOnyE6.Yobndswm5SkHlAyskTAtZjmvtT6
+ QZChNwaFDvg4q3L1pzeheSOMi7AqhNhk5ElhINHzT3ZeuSvkOVSro07gVKY8
+ ijbRyH90VS.lOtAM.UNh7c4RtG17swEXYu.xJBr54tK2osKRvMi5JSFuDLjw
+ _o6YvZXGeTTXVKIUoEaLMALCccQPrlSkhufZH1hspHcGCpeiqeze5Mv3Rkef
+ zeUU6G1WUn2fvSaSbPwhI62NXJxk39ZmFHf4oe8LcZiA6Fez5JZkonyRKIDq
+ nMyigTpzP1nOC.fnr9J4qGEUjiiKgDs4Ap3MfekthBxwGi_hYmwUqdCHdnU1
+ ek74s.BVOCiixqHJ2cXrApVKmTqRLLCpCNzjxsuqYENmtfPs3SNAv7qVw4y1
+ FDTyb.kkU0zj_QvXTbhk3CKN3.pnPlJONN0vo2QMOBv1lS9.QUg.kTTlpxa_
+ 6JoEYsnSRQHBl986.6Ekeyc8OsPc.myQmNQV6ppv8ttuH0GdXbL0S2x7YZ0B
+ .zcvETEcf416EoUHJPwUmc88x5sa1Tr8mHa1XI5J.4GR9C8Yv5IUz.JfHPQ3
+ 6fgNzcrBNdTaKhD9pNghCQCcJ5U5Lb0sGi4dnOYR4etiJG6AaZ83olZNSHEl
+ 7108.0BvjcLNFe9KObXPwuzDTCTixJ4roTW30JxJOJw0dOT.PH.gWrhO.diY
+ ZbvlPsyFWqJgcnkNwxSraPT7VE2kD.NB6nKYetyxAVhX374ZZSxoMOodI3xE
+ aznALBCuCgoKi1l1UuLZPjSGvhtqPg81zzfazT9lnli8p7QMXiTKPhecYZeg
+ TtxUlgG62GA2WJ8uSIRAz_t3ji10vHEORoWqQdz3NOpS0YhXskRmXxcASNuM
+ D6v9fZ6N_JC9BiupdEgB24kOFFqSZe2YpmA6l0qhtGN7O4b8tk3eARkDrUuq
+ relJujVZX6v6ceytxFHH36bgBI2JU9cRjxtnCR5D15xN7HZmshG8EdfaV_Ch
+ AXM7caYrQu9vIMj3yHLkAhZoqIKxEZolW4hjF27iR9z6UgbeCQJWHnBGktj0
+ 45IJxQwUHtTtM9x.PltouPPgyZFP02aOvBo1aZnTe_9Gm4ey1BMayRBQxp7E
+ SmnMLY_pCxps_iUE5CI9RJ0dkLZeNpkSBBs4cy_0Z.Pbem0jz9dheRK3bA30
+ CfTs0lmPth9DAUhTfshRPLDais5NyHV_n6wzP6FQv7Ik5Bc_eDAviAzGqxtK
+ juoiXiP7qLmW32WDzRWnCcOkvsj_A90Y6FgwmBjB9o5UYdUU_Pv7e5z89PbK
+ MhcPlXzzyVB9rDaCNb6hQkmQOWVq9JCPZxADeoSC39kDQa4Pmu4VAmKHlixW
+ X
+X-Received: from [76.106.191.1] by web114119.mail.gq1.yahoo.com via HTTP; Wed, 22 Feb 2012 09:36:10 PST
+X-Mailer: YahooMailWebService/0.8.116.338427
+References: <hsukac+hlb8@...> <20100518180708.CFYAV.6396897.root@mp17>
+Message-ID: <1329932170.52939.YahooMailNeo@...>
+Date: Wed, 22 Feb 2012 09:36:10 -0800 (PST)
+To: "vedic-wisdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com>
+In-Reply-To: <20100518180708.CFYAV.6396897.root@mp17>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="1442700709-1747079031-1329932170=:52939"
+X-Originating-IP: 98.139.91.190
+X-eGroups-Msg-Info: 1:12:0:0:0
+From: Priya M <prm7782@...>
+Reply-To: Priya M <prm7782@...>
+Subject: Re: [vedic-wisdom] Re: Good Homes for Homa -- A Practical Question
+X-Yahoo-Group-Post: member; u=431354722; y=KE36eA5dETzoA3y5lzztS5kz2vB9istH337jpmGEV6TLeQ
+X-Yahoo-Profile: prm7782
+
+
+--1442700709-1747079031-1329932170=:52939
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+I plan to do deepa homam due to apartment restrictions. 
+=C2=A0
+So I was wo=
+ndering for the part of naivedyam and niranjanam samarpayami how do I offer=
+=C2=A0naivedyam and camphor in deepam.=C2=A0=C2=A0
+=C2=A0
+When should I con=
+sider my homam done. Should I wait for the=C2=A0wick and ghee to both get o=
+ver or only ghee? 
+=C2=A0
+In deepa homam which part is the karmic residue?I=
+s it ghee?=C2=A0
+=C2=A0
+I think the answer is no but still is it ok=C2=A0to=
+ maintain that lamp by pouring oil continously in it without allowing to ex=
+tinguish and kept=C2=A0near god so I can continue my homam=C2=A0again next =
+day. 
+=C2=A0
+Thanks,
+Priya
+
+From: Narasimha PVR Rao <pvr@...>
+To: v=
+edic-wisdom@yahoogroups.com 
+Cc: vemparlaramkishore <vemparlaramkishore@yah=
+oo.com> 
+Sent: Tuesday, May 18, 2010 6:07 PM
+Subject: [vedic-wisdom] Re: Go=
+od Homes for Homa -- A Practical Question
+
+
+=C2=A0 
+Namaste,
+
+The size of t=
+he fire matters. Doing homam with a small fire using 3-4 small dry coconut =
+pieces is also definitely good and useful, but doing homam with a bigger fi=
+re has a stronger effect on one's consciousness. With either practice, of c=
+ourse, the key to success are regularity and persistence.
+
+If someone has a=
+n apartment in a western country without any fireplace or balcony and doing=
+ homam with dry coconut pieces next to a window in a room is also not possi=
+ble due to strict fire rules, I want to suggest an option that enables a mi=
+ni-homam. Such people can do a "deepa homam" (homam in a lamp). Pour some m=
+elted ghee in a small mud/copper/silver/bronze/brass/golden pot (or lamp st=
+and). Put in a wick in it. Treating it as a homa kundam, do homam normally.=
+ When it is time to install fire, light the wick. With each swaahaa, pour a=
+ drop of melted ghee in the pot. Do everything else as in the procedure.
+
+A=
+s I said, homam with a big fire is better, but something is definitely bett=
+er than nothing. Do deepa homam with a lamp and then meditate after poornaa=
+huti. BTW, poornaahuti can be a spoonful of melted ghee.
+
+One point I forgo=
+t to make earlier:
+
+If someone is buying a new house and looking for guidan=
+ce, one more small factor. If homam is done in the northeast or east or sou=
+theast corners of the house, it is better. One can look for a house that ha=
+s a fireplace or balcony in those sides. Of course, those who already have =
+a house and doing homam elsewhere need not worry. The key is to do it. Guid=
+elines in shastras are for enhancing the experience a little and not for bl=
+ocking it out of fear of breaking guidelines.
+
+Best regards,
+Narasimha
+----=
+------------------------------------------------------
+Free Jyotish Softwar=
+e, Free Jyotish Lessons, Jyotish Writings,
+"Do It Yourself" ritual manuals =
+for short Homam and Pitri Tarpana:
+http://www.VedicAstrologer.org
+Films tha=
+t make a difference: http://SaraswatiFilms.org
+Spirituality: http://groups.=
+yahoo.com/group/vedic-wisdom
+Jyotish writings: http://groups.yahoo.com/grou=
+p/JyotishWritings
+---------------------------------------------------------=
+-
+
+---- vemparlaramkishore <vemparlaramkishore@...> wrote: 
+> Aditi j=
+i 
+> 
+> As Rajarishi ji and Narasimha ji have already answered most of your=
+ questions ,just wanted to share some additional thoughts. I do the homa on=
+ the balcony of my house and was intially only concerned about dust falling=
+ into the fire. I use an room divider as protection against strong gusts of=
+ wind and dust. 
+> 
+> It is just my personal experience that homa done outs=
+ide somehow feels much more stronger and peaceful and also I get to enjoy a=
+ much bigger fire . When I used to do it inside always used to be concerned=
+ about the smoke alarm going off and instead of focussing on the homa used =
+to be focussed on managing a smaller fire with coconut pieces.
+> 
+> Also it=
+ gives me happiness in thinking am able to serve Lord ganapati with much mo=
+re offerings in a big fire outside.
+> 
+> my two cents.
+> 
+> Regards
+> Vempa=
+rla Ram Kishore 
+> 
+> --- In vedic-wisdom@yahoogroups.com, rajarshi nandy <=
+rajarshi14@...> wrote:
+> >
+> > Namaste,
+> > =C3=82 
+> > Generally doing hom=
+a with copras produce least smoke. Also doing in a balcony, if you have eno=
+ugh space there, sounds good. 
+> > =C3=82 
+> > In=C3=82 my little experienc=
+e I have seen=C3=82 homas done inside a room and those done in open spaces =
+- or relatively open spaces like a balcony -=C3=82 tend to have a different=
+ effect over time. The more natural the setting, the more beautiful is the=
+=C3=82 homa, generally.
+> > =C3=82 
+> > -Regards
+> > =C3=82 Rajarshi
+> > 
+>=
+ > --- On Mon, 17/5/10, Aditi Banerjee <banerjeea@...> wrote:
+> > 
+> > 
+> >=
+ From: Aditi Banerjee <banerjeea@...>
+> > Subject: [vedic-wisdom] Good Home=
+s for Homa -- A Practical Question
+> > To: vedic-wisdom@yahoogroups.com
+> >=
+ Date: Monday, 17 May, 2010, 8:05 PM
+> > 
+> > 
+> > =C3=82 
+> > 
+> > 
+> > 
+>=
+ > 
+> > I have a general question for the group. I am thinking about moving=
+, and since I like to do daily homa, I'm curious as to which system works b=
+est for people in terms of avoiding damage to the walls from smoke, etc. A =
+fireplace? A specially installed exhaust fan? Simply doing the homa on a ba=
+lcony or with balcony doors / windows open? I'd be grateful for people's th=
+oughts or experiences.
+> > =C3=82 
+> > Warm regards,
+> > Aditi
+
+
+
+--1442700709-1747079031-1329932170=:52939
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"color:#000; background-color:#fff; font-family:ar=
+ial, helvetica, sans-serif;font-size:12pt"><div style=3D"RIGHT: auto"><SPAN=
+ style=3D"RIGHT: auto">I plan to do deepa homam due to apartment restrictio=
+ns. </SPAN></div>
+<div style=3D"RIGHT: auto"><SPAN style=3D"RIGHT: auto"></=
+SPAN> </div>
+<div style=3D"RIGHT: auto"><SPAN style=3D"RIGHT: auto">So=
+ I was wondering for the part of naivedyam and niranjanam samarpayami how d=
+o I offer naivedyam and camphor in deepam.  </SPAN></div>
+<d=
+iv style=3D"RIGHT: auto"><SPAN style=3D"RIGHT: auto"></SPAN> </div>
+<d=
+iv style=3D"RIGHT: auto"><SPAN style=3D"RIGHT: auto">When should I consider=
+ my homam done. Should I wait for the wick and ghee to both get over o=
+r only ghee? </SPAN></div>
+<div style=3D"RIGHT: auto"><SPAN style=3D"RIGHT:=
+ auto"></SPAN> </div>
+<div style=3D"RIGHT: auto"><SPAN style=3D"RIGHT:=
+ auto">In deepa homam which part is the karmic residue?Is it ghee? </S=
+PAN></div>
+<div style=3D"RIGHT: auto"><SPAN style=3D"RIGHT: auto"></SPAN>&n=
+bsp;</div>
+<div style=3D"RIGHT: auto"><SPAN style=3D"RIGHT: auto">I think t=
+he answer is no but still is it ok to maintain that lamp by pouring oi=
+l continously in it without allowing to extinguish and kept near god s=
+o I can continue my homam again next day. </SPAN></div>
+<div style=3D"=
+RIGHT: auto"><SPAN style=3D"RIGHT: auto"><VAR id=3Dyui-ie-cursor></VAR></SP=
+AN> </div>
+<div style=3D"RIGHT: auto"><SPAN style=3D"RIGHT: auto">Than=
+ks,<BR>Priya</SPAN></div>
+<div><BR></div>
+<DIV style=3D"FONT-FAMILY: arial,=
+ helvetica, sans-serif; FONT-SIZE: 12pt">
+<DIV style=3D"FONT-FAMILY: times =
+new roman, new york, times, serif; FONT-SIZE: 12pt">
+<DIV style=3D"RIGHT: a=
+uto" dir=3Dltr><FONT size=3D2 face=3DArial>
+<DIV style=3D"BORDER-BOTTOM: #c=
+cc 1px solid; BORDER-LEFT: #ccc 1px solid; PADDING-BOTTOM: 0px; LINE-HEIGHT=
+: 0; MARGIN: 5px 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; HEIGHT: 0px; F=
+ONT-SIZE: 0px; BORDER-TOP: #ccc 1px solid; BORDER-RIGHT: #ccc 1px solid; PA=
+DDING-TOP: 0px" class=3Dhr readonly=3D"true" contenteditable=3D"false"></DI=
+V><B><SPAN style=3D"FONT-WEIGHT: bold">From:</SPAN></B> Narasimha PVR Rao &=
+lt;pvr@...><BR><B><SPAN style=3D"FONT-WEIGHT: bold">To:</SPAN></=
+B> vedic-wisdom@yahoogroups.com <BR><B><SPAN style=3D"FONT-WEIGHT: bold">Cc=
+:</SPAN></B> vemparlaramkishore <vemparlaramkishore@...> <BR><B=
+><SPAN style=3D"FONT-WEIGHT: bold">Sent:</SPAN></B> Tuesday, May 18, 2010 6=
+:07 PM<BR><B><SPAN style=3D"FONT-WEIGHT: bold">Subject:</SPAN></B> [vedic-w=
+isdom] Re: Good Homes for Homa -- A Practical Question<BR></FONT></DIV><BR>=
+
+<DIV id=3Dyiv1844337111>
+<DIV><SPAN style=3D"DISPLAY: none"> </SPAN> =
+
+<DIV id=3Dyiv1844337111ygrp-text>
+<div>Namaste,<BR><BR>The size of the fir=
+e matters. Doing homam with a small fire using 3-4 small dry coconut pieces=
+ is also definitely good and useful, but doing homam with a bigger fire has=
+ a stronger effect on one's consciousness. With either practice, of course,=
+ the key to success are regularity and persistence.<BR><BR>If someone has a=
+n apartment in a western country without any fireplace or balcony and doing=
+ homam with dry coconut pieces next to a window in a room is also not possi=
+ble due to strict fire rules, I want to suggest an option that enables a mi=
+ni-homam. Such people can do a "deepa homam" (homam in a lamp). Pour some m=
+elted ghee in a small mud/copper/silver/bronze/brass/golden pot (or lamp st=
+and). Put in a wick in it. Treating it as a homa kundam, do homam normally.=
+ When it is time to install fire, light the wick. With each swaahaa, pour a=
+ drop of melted ghee in the pot. Do everything else as in the procedure.<BR=
+><BR>As I said, homam with a
+ big fire is better, but something is definite=
+ly better than nothing. Do deepa homam with a lamp and then meditate after =
+poornaahuti. BTW, poornaahuti can be a spoonful of melted ghee.<BR><BR>One =
+point I forgot to make earlier:<BR><BR>If someone is buying a new house and=
+ looking for guidance, one more small factor. If homam is done in the north=
+east or east or southeast corners of the house, it is better. One can look =
+for a house that has a fireplace or balcony in those sides. Of course, thos=
+e who already have a house and doing homam elsewhere need not worry. The ke=
+y is to do it. Guidelines in shastras are for enhancing the experience a li=
+ttle and not for blocking it out of fear of breaking guidelines.<BR><BR>Bes=
+t regards,<BR>Narasimha<BR>------------------------------------------------=
+----------<BR>Free Jyotish Software, Free Jyotish Lessons, Jyotish Writings=
+,<BR>"Do It Yourself" ritual manuals for short Homam and Pitri
+ Tarpana:<BR=
+>http://www.VedicAstrologer.org<BR>Films that make a difference: http://Sar=
+aswatiFilms.org<BR>Spirituality: http://groups.yahoo.com/group/vedic-wisdom=
+<BR>Jyotish writings: http://groups.yahoo.com/group/JyotishWritings<BR>----=
+------------------------------------------------------<BR><BR>---- vemparla=
+ramkishore <<A href=3D"mailto:vemparlaramkishore%40yahoo.com" rel=3Dnofo=
+llow target=3D_blank ymailto=3D"mailto:vemparlaramkishore%40yahoo.com">vemp=
+arlaramkishore@...</A>> wrote: <BR>> Aditi ji <BR>> <BR>>=
+ As Rajarishi ji and Narasimha ji have already answered most of your questi=
+ons ,just wanted to share some additional thoughts. I do the homa on the ba=
+lcony of my house and was intially only concerned about dust falling into t=
+he fire. I use an room divider as protection against strong gusts of wind a=
+nd dust. <BR>> <BR>> It is just my personal experience that homa done=
+ outside somehow feels much more stronger and peaceful and also
+ I get to e=
+njoy a much bigger fire . When I used to do it inside always used to be con=
+cerned about the smoke alarm going off and instead of focussing on the homa=
+ used to be focussed on managing a smaller fire with coconut pieces.<BR>>=
+; <BR>> Also it gives me happiness in thinking am able to serve Lord gan=
+apati with much more offerings in a big fire outside.<BR>> <BR>> my t=
+wo cents.<BR>> <BR>> Regards<BR>> Vemparla Ram Kishore <BR>> <B=
+R>> --- In <A href=3D"mailto:vedic-wisdom%40yahoogroups.com" rel=3Dnofol=
+low target=3D_blank ymailto=3D"mailto:vedic-wisdom%40yahoogroups.com">vedic=
+-wisdom@yahoogroups.com</A>, rajarshi nandy <rajarshi14@...> wrote:<B=
+R>> ><BR>> > Namaste,<BR>> > =C3=82 <BR>> > General=
+ly doing homa with copras produce least smoke. Also doing in a balcony, if =
+you have enough space there, sounds good. <BR>> > =C3=82 <BR>> >=
+; In=C3=82 my little experience I have seen=C3=82 homas done inside a room =
+and
+ those done in open spaces - or relatively open spaces like a balcony -=
+=C3=82 tend to have a different effect over time. The more natural the sett=
+ing, the more beautiful is the=C3=82 homa, generally.<BR>> > =C3=82 <=
+BR>> > -Regards<BR>> > =C3=82 Rajarshi<BR>> > <BR>> &g=
+t; --- On Mon, 17/5/10, Aditi Banerjee <banerjeea@...> wrote:<BR>>=
+ > <BR>> > <BR>> > From: Aditi Banerjee <banerjeea@...>=
+;<BR>> > Subject: [vedic-wisdom] Good Homes for Homa -- A Practical Q=
+uestion<BR>> > To: <A href=3D"mailto:vedic-wisdom%40yahoogroups.com" =
+rel=3Dnofollow target=3D_blank ymailto=3D"mailto:vedic-wisdom%40yahoogroups=
+.com">vedic-wisdom@yahoogroups.com</A><BR>> > Date: Monday, 17 May, 2=
+010, 8:05 PM<BR>> > <BR>> > <BR>> > =C3=82 <BR>> > =
+<BR>> > <BR>> > <BR>> > <BR>> > I have a general qu=
+estion for the group. I am thinking about moving, and since I like to do da=
+ily homa, I'm curious as
+ to which system works best for people in terms of=
+ avoiding damage to the walls from smoke, etc. A fireplace? A specially ins=
+talled exhaust fan? Simply doing the homa on a balcony or with balcony door=
+s / windows open? I'd be grateful for people's thoughts or experiences.<BR>=
+> > =C3=82 <BR>> > Warm regards,<BR>> > Aditi<BR><BR></di=
+v></DIV></DIV></DIV><BR><BR></DIV></DIV></div></body></html>
+--1442700709-1747079031-1329932170=:52939--
+
+

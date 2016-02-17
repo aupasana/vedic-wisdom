@@ -1,0 +1,474 @@
+From pvr108@...  Wed Feb 17 11:07:43 2016
+Return-Path: <pvr108@...>
+X-Sender: pvr108@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 57698 invoked by uid 102); 14 Sep 2014 10:10:02 -0000
+X-Received: from unknown (HELO mtaq6.grp.bf1.yahoo.com) (10.193.84.37)
+  by m4.grp.bf1.yahoo.com with SMTP; 14 Sep 2014 10:10:02 -0000
+X-Received: (qmail 29518 invoked from network); 14 Sep 2014 10:10:02 -0000
+X-Received: from unknown (HELO nm34-vm8.bullet.mail.bf1.yahoo.com) (98.139.245.163)
+  by mtaq6.grp.bf1.yahoo.com with SMTP; 14 Sep 2014 10:10:02 -0000
+X-Received: from [66.196.81.174] by nm34.bullet.mail.bf1.yahoo.com with NNFMP; 14 Sep 2014 10:10:02 -0000
+X-Received: from [98.139.212.219] by tm20.bullet.mail.bf1.yahoo.com with NNFMP; 14 Sep 2014 10:10:02 -0000
+X-Received: from [127.0.0.1] by omp1028.mail.bf1.yahoo.com with NNFMP; 14 Sep 2014 10:10:02 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 210900.75476.bm@...
+X-Received: (qmail 29609 invoked by uid 60001); 14 Sep 2014 10:10:02 -0000
+X-YMail-OSG: MWXyBTsVM1nZ95FOyJzi_27qhZOkOXr0jo5lqU7aZ9wDCLT
+ qjCECoDQHUNZ2GurCuUEwx6hv_F5vqhDBAABsXaT.mKM4TpwZ6pHXHBopTHe
+ Q6oFIQHLi7DU5oW1l.HkZ6ePGHfngJEvrGUsRA0cLW9_4O4oFKr4EmYzx8cD
+ 0oE9pA2TDOcCGzPtiQ6zxewJkMOTCyXPCExuXZBpboYBhySZiiLh2jMmKxef
+ eYno3zDdpo1UYgrP4og7b2V2zXDa5ZAr9aGGoHIbR6kZrRCnFiQ4I03Al9bk
+ ycp9KqsngJzxvV2ZWYIIJiFfV3uTMdm6gN0oqhq221MbWgyQca2ZwNttgGmc
+ E3JYEAgCg70eoxCwX2VRsIjRNUD8BVyrQqXvk2gFX7T6sBWhRl99pTOm277A
+ AaHnojJj.R9g0ggSv781DsYyDv11TNeC9CEQODdOxCjhEPgFfIdO0pzgBU1b
+ iIiL.zi8nyKCUfOzpX7KqnAZ7uw7EKrSYUFXIgeM8XRwozwRaPwdikEc9sta
+ _ZMg0yB5PPnwc_ZoNd__fPvjGNDB8On7ZTZdaBgPe_6DACG0eL2vuBnbJdoj
+ V9hYj_1K8kSM4NKMXbNraXHR_XQFyAUsIxkDGoO1Fqt6sIFPFwDHXrMlol3g
+ QKOH.Tzt_tr.cYwLAYzBtvljxFOxyrQNWS2byiOSuh62STSe4j89JseEZPdz
+ beUBCDv81QcemTOXhxyHhL1_5eLRcHbJErSXejNM91vT1HvSlctkCsRU31rY
+ a7czW1USBnPAuyWuQDEJsJ.izPbssd.0A8AonPx3GVX98SvLAk0nPDP2Z9aT
+ tFf4HN6qQZXQw0lZOrM654MQooVGc_rI7Okz9DVezRnntO6avEt7TuIWnYP0
+ k1Mu1VC78osxjRwr5iUpanVHbXJZVg4vkMd3xOfiqCH9yQ8Vqp3FZrqJIY_b
+ nwEkJpJgNDbEii6Jnpp_yC2Utfwjb2bOPVYbAxG8cJIL7IlAY9S_X2a5NSvv
+ KMCefkPgVs0LRsB8VKWC2MK3BLZOkS9vgdLGC.SHxAISvyPRc34UCY33tA6J
+ 0rEn4x72k61szLNWg2rp79xME5EaE6GH.xKINNiFrjO8DcsEmHlq5sNN5K9N
+ 5nHH7W9gYihg5BKM5._1orRVyCyReC6XR1gNZbCGscBeUSjLuVorlFIS99EM
+ gSJmFX8zpd_luiQYs9Uz7PgWXdRMpnsH86p.QM5FNeOVmFG6cTYlP0FKe1tc
+ .6zPBDDbCT7ntVI1orFJtebMPgdkZhRMdRjMNBJWyrGW.8mko9W7pvSYGjEs
+ 9.Uk9K9sve6XX7388MZHrIF8YD3BdIuJQIGA0rg44kdpFjdoWiZYNqFnEF3S
+ AvwN9y70rfyVR.jG5skqfElnj4cjpjWuwq3sF5FaBHTmwaMCVg5MMvs57Qig
+ jcDjlPllihvWXnvPTo0FVaaJilHFcsy0JnqxFPI8Ll3DuBshUw4Ws1RJAitE
+ maMse7nGeI1ul6njkzurBbAiHj6Eqsm2inDOlueHiaZWodibPdg29zcPPRIW
+ ybmt7M7BI.bb1MDjbrqfqVyir7DQKzi5yrHeNNUD.RqmnRI1JMUe9XWjeMYE
+ FQrGTc.uFBhHpDHfSyUcTet_xitwOUB8fsG5XaplWWU_Vt2juVp3Sb4D3JQk
+ ciHH.Od1zOXHWDCT73o.UtLjHYEsz8_xYGTWZTLoCsLYt_LQqfdj6pVhOVNQ
+ U.tPLYLek0j_Y9xcbZ0S08CBg_U5TQshuJF.5eFPoI_n7bFxZxFhM86Gp9gB
+ g59E9.fI7UkU6Xg0Psy_99zntDbdUAQFky.NhF8YvT4mH3UKcOl7iGfofNQ9
+ fUFqpidC0sVFQ3YQ8QxF9cEp1cfLECfeAT8YqqMxlSa1iOU3Mr47iRe9V217
+ 1py11pG6Uxsnaycc9VsDsUNvIIelkyHYDc5Btg5UGNjEFvH.Mnz6NvGCD0YA
+ H.Jhy7LqzO4VBjJc6_WnDLENePRuz0LCBHyeBRia3Grlnfq45VGdRsdCgGg-
+ -
+X-Received: from [173.48.58.98] by web163101.mail.bf1.yahoo.com via HTTP; Sun, 14 Sep 2014 03:10:01 PDT
+X-Rocket-MIMEInfo: 002.001,RHVyaW5nIHRoaXMgcGl0cmkgcGFrc2hhLCBubyBvdGhlciBydWxlIGFwcGxpZXMuIEl0IGlzIGZpbmUgdG8gZG8gaXQuCgpCZXN0IHJlZ2FyZHMsCk5hcmFzaW1oYQotLS0tLS0tLQpBc3Ryb2xvZ3kgJiBTcGlyaXR1YWxpdHkgUmVzb3VyY2VzOiBodHRwOi8vd3d3LlZlZGljQXN0cm9sb2dlci5vcmcKLS0tLS0tLS0KCgoKPl9fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fCj4gRnJvbTogInN1bnJpc2VfMTA4MEB5YWhvby5jby51ayBbdmVkaWMtd2lzZG9tXSIgPHZlZGljLXdpc2RvbUB5YWhvb2dyb3UBMAEBAQE-
+X-Mailer: YahooMailWebService/0.8.203.696
+References: <lul796+1dsftbv@...>	<lutgq2+1gp4u5n@...> <lv3ig0+nk0npj@...>
+Message-ID: <1410689401.31792.YahooMailNeo@...>
+Date: Sun, 14 Sep 2014 03:10:01 -0700
+To: "vedic-wisdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com>
+In-Reply-To: <lv3ig0+nk0npj@...>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="700781406-881040236-1410689401=:31792"
+X-Originating-IP: 72.30.239.6
+X-eGroups-Msg-Info: 1:12:0:0:0
+Reply-To: "Narasimha P.V.R. Rao" <pvr108@...>
+Subject: Re: [vedic-wisdom] Re: Mahalya Pitru Paksha
+X-Yahoo-Group-Post: member; u=77866142; y=6xk3q__ugjtTaCCBYwvNGI3nutgLTilSgpKF7PnM25Da
+X-Yahoo-Profile: pvr108
+From: "Narasimha P.V.R. Rao" <pvr108@...>
+
+
+--700781406-881040236-1410689401=:31792
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+During this pitri paksha, no other rule applies. It is fine to do it.
+
+Best=
+ regards,
+Narasimha
+--------
+Astrology & Spirituality Resources: http://www=
+.VedicAstrologer.org
+--------
+
+
+
+>________________________________
+> From: =
+"sunrise_1080@... [vedic-wisdom]" <vedic-wisdom@yahoogroups.com>
+>T=
+o: vedic-wisdom@yahoogroups.com 
+>Sent: Sunday, September 14, 2014 4:09 AM
+=
+>Subject: [vedic-wisdom] Re: Mahalya Pitru Paksha
+> 
+>
+>
+>  
+>The moon is i=
+n Krittika today and it is a Sunday. Narasimha's tarpanam manual states one=
+ should not do tarpanam needing sesame seeds on such a day- this is one of =
+four restricted days. Does this mean one should skip pitru tarpanam on thes=
+e days and just do it for devas and Rishis?  Also if there are such restric=
+tions, do these also apply during Pitru paksha also ie like today?
+>
+>
+>Ple=
+ase shed some light on this.
+>
+>
+>Aparna
+>
+>
+>
+>
+>
+>
+>---In vedic-wisdom@ya=
+hoogroups.com, <vikram_singhvi@...> wrote :
+>
+>
+>I would appreciate any ins=
+ights here on doing shraadh -- pvrji or from any other learned member of th=
+is forum.
+>
+>
+>Thanks
+>
+>
+>Vikram
+>
+>
+>
+>
+>
+>
+>
+>
+--700781406-881040236-1410689401=:31792
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"color:#000; background-color:#fff; font-family:He=
+lveticaNeue, Helvetica Neue, Helvetica, Arial, Lucida Grande, sans-serif;fo=
+nt-size:10pt"><div><span>During this pitri paksha, no other rule applies. I=
+t is fine to do it.</span></div><div></div><div><br></div><div style=3D"col=
+or: rgb(0, 0, 0); font-size: 13px; font-family: arial, helvetica, clean, sa=
+ns-serif; font-style: normal; background-color: transparent;">Best regards,=
+<br>Narasimha<br>--------<br>Astrology & Spirituality Resources: <a rel=
+=3D"nofollow" target=3D"_blank" href=3D"http://www.vedicastrologer.org/">ht=
+tp://www.VedicAstrologer.org</a></div><div style=3D"color: rgb(0, 0, 0); fo=
+nt-size: 13px; font-family: arial, helvetica, clean, sans-serif; font-style=
+: normal; background-color: transparent;">--------<br><br></div><div></div>=
+<blockquote style=3D"border-left: 2px solid rgb(16, 16, 255); margin-left: =
+5px; margin-top: 5px; padding-left: 5px;">  <div style=3D"font-family:
+ Hel=
+veticaNeue, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif=
+; font-size: 10pt;"> <div style=3D"font-family: HelveticaNeue, 'Helvetica N=
+eue', Helvetica, Arial, 'Lucida Grande', sans-serif; font-size: 12pt;"> <di=
+v dir=3D"ltr"> <hr size=3D"1">  <font size=3D"2" face=3D"Arial"> <b><span s=
+tyle=3D"font-weight:bold;">From:</span></b> "sunrise_1080@... [vedi=
+c-wisdom]" <vedic-wisdom@yahoogroups.com><br> <b><span style=3D"font-=
+weight: bold;">To:</span></b> vedic-wisdom@yahoogroups.com <br> <b><span st=
+yle=3D"font-weight: bold;">Sent:</span></b> Sunday, September 14, 2014 4:09=
+ AM<br> <b><span style=3D"font-weight: bold;">Subject:</span></b> [vedic-wi=
+sdom] Re: Mahalya Pitru Paksha<br> </font> </div> <div class=3D"y_msg_conta=
+iner"><br><div id=3D"yiv9507395633"><div>
+<span style=3D"display:none;">&nb=
+sp;</span>
+
+
+<div id=3D"yiv9507395633ygrp-mlmsg" style=3D"">
+  <div id=3D"y=
+iv9507395633ygrp-msg" style=3D"">
+
+
+    <div id=3D"yiv9507395633ygrp-text">=
+
+      
+      
+      <div class=3D"yiv9507395633ygroups-quoted">The moon is=
+ in Krittika today and it is a Sunday. Narasimha's tarpanam manual states o=
+ne should not do tarpanam needing sesame seeds on such a day- this is one o=
+f four restricted days. Does this mean one should skip pitru tarpanam on th=
+ese days and just do it for devas and Rishis?  Also if there are such =
+restrictions, do these also apply during Pitru paksha also ie like tod=
+ay?</div><div class=3D"yiv9507395633ygroups-quoted"><br clear=3D"none"></di=
+v><div class=3D"yiv9507395633ygroups-quoted">Please shed some light on this=
+.</div><div class=3D"yiv9507395633ygroups-quoted"><br clear=3D"none"></div>=
+<div class=3D"yiv9507395633ygroups-quoted">Aparna</div><div class=3D"yiv950=
+7395633ygroups-quoted"><br clear=3D"none"></div><div class=3D"qtdSeparateBR=
+"><br><br></div><div class=3D"yiv9507395633yqt2867488946" id=3D"yiv95073956=
+33yqt04954"><div class=3D"yiv9507395633ygroups-quoted"><br clear=3D"none">-=
+--In vedic-wisdom@yahoogroups.com,
+ <vikram_singhvi@...> wrote :<br c=
+lear=3D"none"><br clear=3D"none"><div id=3D"yiv9507395633ygrps-yiv-18554451=
+71">I would appreciate any insights here on doing shraadh -- pvrji or from =
+any other learned member of this forum.<div><br clear=3D"none"></div><div>T=
+hanks</div><div><br clear=3D"none"></div><div>Vikram<br clear=3D"none"><div=
+><br clear=3D"none"></div><div><br clear=3D"none"></div></div></div></div><=
+/div>
+
+    </div>
+     
+
+    
+    <div class=3D"yiv9507395633yqt2867488946"=
+ id=3D"yiv9507395633yqt00859"><div style=3D"color:#fff;height:0;"></div></d=
+iv>
+
+
+</div><div class=3D"yiv9507395633yqt2867488946" id=3D"yiv9507395633yq=
+t90961"><style type=3D"text/css">
+#yiv9507395633 #yiv9507395633 --
+  #yiv95=
+07395633ygrp-mkp {
+border:1px solid #d8d8d8;font-family:Arial;margin:10px 0=
+;padding:0 10px;}
+
+#yiv9507395633 #yiv9507395633ygrp-mkp hr {
+border:1px so=
+lid #d8d8d8;}
+
+#yiv9507395633 #yiv9507395633ygrp-mkp #yiv9507395633hd {
+col=
+or:#628c2a;font-size:85%;font-weight:700;line-height:122%;margin:10px 0;}
+
+=
+#yiv9507395633 #yiv9507395633ygrp-mkp #yiv9507395633ads {
+margin-bottom:10p=
+x;}
+
+#yiv9507395633 #yiv9507395633ygrp-mkp .yiv9507395633ad {
+padding:0 0;}=
+
+
+#yiv9507395633 #yiv9507395633ygrp-mkp .yiv9507395633ad p {
+margin:0;}
+
+#y=
+iv9507395633 #yiv9507395633ygrp-mkp .yiv9507395633ad a {
+color:#0000ff;text=
+-decoration:none;}
+#yiv9507395633 #yiv9507395633ygrp-sponsor #yiv9507395633=
+ygrp-lc {
+font-family:Arial;}
+
+#yiv9507395633 #yiv9507395633ygrp-sponsor #y=
+iv9507395633ygrp-lc #yiv9507395633hd {
+margin:10px 0px;font-weight:700;font=
+-size:78%;line-height:122%;}
+
+#yiv9507395633 #yiv9507395633ygrp-sponsor #yi=
+v9507395633ygrp-lc .yiv9507395633ad {
+margin-bottom:10px;padding:0 0;}
+
+#yi=
+v9507395633 #yiv9507395633actions {
+font-family:Verdana;font-size:11px;padd=
+ing:10px 0;}
+
+#yiv9507395633 #yiv9507395633activity {
+background-color:#e0e=
+cee;float:left;font-family:Verdana;font-size:10px;padding:10px;}
+
+#yiv95073=
+95633 #yiv9507395633activity span {
+font-weight:700;}
+
+#yiv9507395633 #yiv9=
+507395633activity span:first-child {
+text-transform:uppercase;}
+
+#yiv950739=
+5633 #yiv9507395633activity span a {
+color:#5085b6;text-decoration:none;}
+
+=
+#yiv9507395633 #yiv9507395633activity span span {
+color:#ff7900;}
+
+#yiv9507=
+395633 #yiv9507395633activity span .yiv9507395633underline {
+text-decoratio=
+n:underline;}
+
+#yiv9507395633 .yiv9507395633attach {
+clear:both;display:tab=
+le;font-family:Arial;font-size:12px;padding:10px 0;width:400px;}
+
+#yiv95073=
+95633 .yiv9507395633attach div a {
+text-decoration:none;}
+
+#yiv9507395633 .=
+yiv9507395633attach img {
+border:none;padding-right:5px;}
+
+#yiv9507395633 .=
+yiv9507395633attach label {
+display:block;margin-bottom:5px;}
+
+#yiv95073956=
+33 .yiv9507395633attach label a {
+text-decoration:none;}
+
+#yiv9507395633 bl=
+ockquote {
+margin:0 0 0 4px;}
+
+#yiv9507395633 .yiv9507395633bold {
+font-fam=
+ily:Arial;font-size:13px;font-weight:700;}
+
+#yiv9507395633 .yiv9507395633bo=
+ld a {
+text-decoration:none;}
+
+#yiv9507395633 dd.yiv9507395633last p a {
+fo=
+nt-family:Verdana;font-weight:700;}
+
+#yiv9507395633 dd.yiv9507395633last p =
+span {
+margin-right:10px;font-family:Verdana;font-weight:700;}
+
+#yiv9507395=
+633 dd.yiv9507395633last p span.yiv9507395633yshortcuts {
+margin-right:0;}
+=
+
+#yiv9507395633 div.yiv9507395633attach-table div div a {
+text-decoration:n=
+one;}
+
+#yiv9507395633 div.yiv9507395633attach-table {
+width:400px;}
+
+#yiv95=
+07395633 div.yiv9507395633file-title a, #yiv9507395633 div.yiv9507395633fil=
+e-title a:active, #yiv9507395633 div.yiv9507395633file-title a:hover, #yiv9=
+507395633 div.yiv9507395633file-title a:visited {
+text-decoration:none;}
+
+#=
+yiv9507395633 div.yiv9507395633photo-title a, #yiv9507395633 div.yiv9507395=
+633photo-title a:active, #yiv9507395633 div.yiv9507395633photo-title a:hove=
+r, #yiv9507395633 div.yiv9507395633photo-title a:visited {
+text-decoration:=
+none;}
+
+#yiv9507395633 div#yiv9507395633ygrp-mlmsg #yiv9507395633ygrp-msg p=
+ a span.yiv9507395633yshortcuts {
+font-family:Verdana;font-size:10px;font-w=
+eight:normal;}
+
+#yiv9507395633 .yiv9507395633green {
+color:#628c2a;}
+
+#yiv9=
+507395633 .yiv9507395633MsoNormal {
+margin:0 0 0 0;}
+
+#yiv9507395633 o {
+fo=
+nt-size:0;}
+
+#yiv9507395633 #yiv9507395633photos div {
+float:left;width:72p=
+x;}
+
+#yiv9507395633 #yiv9507395633photos div div {
+border:1px solid #666666=
+;height:62px;overflow:hidden;width:62px;}
+
+#yiv9507395633 #yiv9507395633pho=
+tos div label {
+color:#666666;font-size:10px;overflow:hidden;text-align:cen=
+ter;white-space:nowrap;width:64px;}
+
+#yiv9507395633 #yiv9507395633reco-cate=
+gory {
+font-size:77%;}
+
+#yiv9507395633 #yiv9507395633reco-desc {
+font-size:=
+77%;}
+
+#yiv9507395633 .yiv9507395633replbq {
+margin:4px;}
+
+#yiv9507395633 #=
+yiv9507395633ygrp-actbar div a:first-child {
+margin-right:2px;padding-right=
+:5px;}
+
+#yiv9507395633 #yiv9507395633ygrp-mlmsg {
+font-size:13px;font-famil=
+y:Arial, helvetica, clean, sans-serif;}
+
+#yiv9507395633 #yiv9507395633ygrp-=
+mlmsg table {
+font-size:inherit;font:100%;}
+
+#yiv9507395633 #yiv9507395633y=
+grp-mlmsg select, #yiv9507395633 input, #yiv9507395633 textarea {
+font:99% =
+Arial, Helvetica, clean, sans-serif;}
+
+#yiv9507395633 #yiv9507395633ygrp-ml=
+msg pre, #yiv9507395633 code {
+font:115% monospace;}
+
+#yiv9507395633 #yiv95=
+07395633ygrp-mlmsg * {
+line-height:1.22em;}
+
+#yiv9507395633 #yiv9507395633y=
+grp-mlmsg #yiv9507395633logo {
+padding-bottom:10px;}
+
+
+#yiv9507395633 #yiv9=
+507395633ygrp-msg p a {
+font-family:Verdana;}
+
+#yiv9507395633 #yiv950739563=
+3ygrp-msg p#yiv9507395633attach-count span {
+color:#1E66AE;font-weight:700;=
+}
+
+#yiv9507395633 #yiv9507395633ygrp-reco #yiv9507395633reco-head {
+color:#=
+ff7900;font-weight:700;}
+
+#yiv9507395633 #yiv9507395633ygrp-reco {
+margin-b=
+ottom:20px;padding:0px;}
+
+#yiv9507395633 #yiv9507395633ygrp-sponsor #yiv950=
+7395633ov li a {
+font-size:130%;text-decoration:none;}
+
+#yiv9507395633 #yiv=
+9507395633ygrp-sponsor #yiv9507395633ov li {
+font-size:77%;list-style-type:=
+square;padding:6px 0;}
+
+#yiv9507395633 #yiv9507395633ygrp-sponsor #yiv95073=
+95633ov ul {
+margin:0;padding:0 0 0 8px;}
+
+#yiv9507395633 #yiv9507395633ygr=
+p-text {
+font-family:Georgia;}
+
+#yiv9507395633 #yiv9507395633ygrp-text p {
+=
+margin:0 0 1em 0;}
+
+#yiv9507395633 #yiv9507395633ygrp-text tt {
+font-size:1=
+20%;}
+
+#yiv9507395633 #yiv9507395633ygrp-vital ul li:last-child {
+border-ri=
+ght:none !important;
+}
+#yiv9507395633 
+</style></div></div><br><br></div> <=
+/div> </div> </blockquote><div></div>   </div></body></html>
+--700781406-881040236-1410689401=:31792--
+
+

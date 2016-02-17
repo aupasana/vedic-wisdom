@@ -1,0 +1,448 @@
+From pvr108@...  Wed Feb 17 11:10:44 2016
+Return-Path: <pvr108@...>
+X-Sender: pvr108@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 8569 invoked by uid 102); 4 Oct 2013 02:10:56 -0000
+X-Received: from unknown (HELO mtaq5.grp.bf1.yahoo.com) (10.193.84.36)
+  by m6.grp.bf1.yahoo.com with SMTP; 4 Oct 2013 02:10:56 -0000
+X-Received: (qmail 19135 invoked from network); 4 Oct 2013 02:10:55 -0000
+X-Received: from unknown (HELO nm25-vm4.bullet.mail.gq1.yahoo.com) (98.136.217.115)
+  by mtaq5.grp.bf1.yahoo.com with SMTP; 4 Oct 2013 02:10:55 -0000
+X-Received: from [98.137.12.55] by nm25.bullet.mail.gq1.yahoo.com with NNFMP; 04 Oct 2013 02:10:55 -0000
+X-Received: from [98.137.12.225] by tm15.bullet.mail.gq1.yahoo.com with NNFMP; 04 Oct 2013 02:10:55 -0000
+X-Received: from [127.0.0.1] by omp1033.mail.gq1.yahoo.com with NNFMP; 04 Oct 2013 02:10:54 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 993508.44532.bm@...
+X-Received: (qmail 16019 invoked by uid 60001); 4 Oct 2013 02:10:54 -0000
+X-YMail-OSG: tws0uL8VM1mq6EC3IU04h_nzTAh5fJDg9spACBihHPXF162
+ DhJrBcEn3kEAPDNyNcShcTlUau3YJ5YiFBLJ70Db5Gm2Bl1rw2fsMuci9NkM
+ RTXDpE95zTa.tFSZr4DW9urVQ5vngiQbTthSJ3Pi0KJtjgRlIxB.hddGBDZL
+ ahC27joHVG5mg5tS7xd8Im_7W15M08zsa6M06wcA5D_C1LbzojPLTqrFE7Fd
+ weS26m8IIPAPDwqi1kC1y5bq9WgMQCgfHliO.3zouQWmxgsjXVTHvKn7pNtf
+ lWR0vAm7w5x5FCt4DRjAxkLNb00QJ.zbqlBITt7rE2S_Ecm1mIaOr9iz4tkH
+ 3XpQb14Xubns_tWxzpn9xTkFuMS3oRNJheKoZA2APRuLkS5WahzbdZikKwjX
+ QB_JvR74inrQlMc3PCmAQ_uYu7aZ9CTCgADZ8YGKSH0CEZsDsn1RKM8_U8Pc
+ IFDHSHamDBjkWv2haLxXQRrfnEXX3lJWmJ9NY6_0UUx4GlIoSb6ARPQppDDe
+ pnA.kFrk4H39KxOFabHt2zvDE_CTjf1RqZj3viQwoEYcA4nkuY_KdkjZBqOA
+ wysOW60rLgRysWyatlkR7IvXQBkekHZJ3UThI6rA3wZPMtux4Vr6W2UKWO38
+ h9FNpL4HkF9av6XqqcnbfAGbGI3vCVhVJ8GyGKhjfbSI_euR_SOL1DUNIUtp
+ .aElorGK86qd.WNMk.LDdlZBsapUlowGYi5cVSYuxd4Hn9DbM.KDfGClwKQJ
+ 5uDrRXSVYs_FPK9nBF0gT8R6gyOT85mWQM72gtVsakl79HE8mpV61XQbl7bw
+ Dg0pHc44KyaaZF7idONL.IVvXZMP1meUeDmUkgKXjit3HXbRSgyMpqGHkCXE
+ ynHTZD4BxtyfDW7opoUdfrkBLMaH2x1BtMhlB78Qw.8DbPgBQcEfhDWvO1jV
+ i8UpSSgYQatpH9CLqNslrFv6FNBuqDzHBtTgrdaa5hAiwjU.ANdMiC3aQZ1w
+ ztfdgUpc4XEsPE7Nvc06wGMWcSxdN9RjfiDe6ABluReIzjqKXMKiEqh_p5Io
+ .llQH2nDUNam8kQ2yU3RwtMUHTSUF.qHDwDQoBPRWpnE.VnxGHTDIRN1aCT4
+ DYTkCIPMr23UXf5zo1ePkCdyYYIBw5K8WLDjnO.ELk16QbrACDaiRNU8EorA
+ yJS0hTOyt82_2pTke_aSOLeNe7fAo5gPHnn1Eh_gCIdl5OAvuaNI_LGOC8oq
+ .0X_mPzF.m6vxv8eFGG7QOd3qfoVzEYLvRdwNtIcT.3Ngw1eUcVSwt3QGXdW
+ u5pGeerVsFUxvoDWcb5VGTRbou.0NnBDKZf_PTDrL56XGVNBAuszMFOFGs_a
+ rK9sAsv_tYeSFKfpUztM4h71aOdb8tNMFaqhdioKTIe5ukCe1NFj7JNtpF0O
+ VuI9W2Hh9WF2TI.ROv25kJ9wjjG4M8feIbBDPpXXEzGjakkE.nniMdZRF9L_
+ .ZlviNKRSikMbs1M.K0JQmMAABuryzs8cBxkyHYWEGkUqewP3dIhjCbGUUfU
+ cvXTzpBRyjbVgiuElXFaQNQKvyz1NAecpxtc6Vv9SIUZRPjyibMW269XXpiR
+ ilCSIvF17JlUBPqjISKSQabew2Rbsd8w8Bb7Kz7iQSyIRq2OBEBrsXj7iL0w
+ cyUUDt_yWN9gOhi3QUie3ZFYLuZUp7fFl4YwmNTdNkyyYAQivvcFLYMAOrvH
+ dqkKiKxKuqMWtrir3c0g4wTVWp4ct01BirzPLATz470bqks049xyosoHJ_h7
+ 8n7yIxytivRv4gkuvHmk3hlt8ygyjB7QNgs5HrDZ2d42NJFuN5ZuqktfNhFA
+ vgFuYAGqMZx1OJ3wDXrJNntSNVZbpglS60ufSNUZQIn4F_FZ8qdNFE8tUo34
+ xcyKgB_ukF1zofkFcUrwjSyBWyxHis3qr4DcWN6Sso_JmJcUMI8CEO8k15Mm
+ xshRWXa3SBW0GKny90RX9sCgZIaZgoUHCl8okSuJhUQ2lgr4Oq3wftIVv1Gz
+ ehJQRXOjROKtMaorTWss_zMWc_65kFn33oEDIkGW6XJ9uSK8tWugSoJvcKH7
+ 19qIiFbSSVg_JgRWa7KCsuPtMNJJ9EPjRzIg3SjESxoy9ff0RNTIhpJIKKKZ
+ Qh1JFQY6iypcme0MTY2nIl9ip1hMu_XDPKJZOJ4zBVbwMhhca2pFjhhly_td
+ dlWNlGgS3reu4yg--
+X-Received: from [72.70.55.223] by web122106.mail.ne1.yahoo.com via HTTP; Thu, 03 Oct 2013 19:10:53 PDT
+X-Rocket-MIMEInfo: 002.001,TmFtYXN0ZSwKwqAKWW91IGRvbid0IG5lZWQgdG8gY2hhbnQgdGhlIHdob2xlIHRoaW5nIDMgdGltZXMuIEp1c3QgY2hhbnQgdGhlICJ0ZWJoeUFNIG5hbWFIIiBhdCB0aGUgZW5kIDMgdGltZXMuCsKgClllcywgaXQgaXMgZmluZS4KCsKgCkJlc3QgcmVnYXJkcywKTmFyYXNpbWhhCi0tLS0tLS0tCkFzdHJvbG9neSAmIFNwaXJpdHVhbGl0eSBSZXNvdXJjZXM6IGh0dHA6Ly93d3cuVmVkaWNBc3Ryb2xvZ2VyLm9yZwotLS0tLS0tLQoKwqAKCgo.X19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX18KPiBGcm8BMAEBAQE-
+X-Mailer: YahooMailWebService/0.8.160.587
+References: <l2j3e8+7psmde@...>
+Message-ID: <1380852653.95226.YahooMailNeo@...>
+Date: Thu, 3 Oct 2013 19:10:53 -0700 (PDT)
+To: "vedic-wisdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com>
+In-Reply-To: <l2j3e8+7psmde@...>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="61789334-136259766-1380852653=:95226"
+X-Originating-IP: 10.193.84.36
+X-eGroups-Msg-Info: 1:12:0:0:0
+From: "Narasimha P.V.R. Rao" <pvr108@...>
+Reply-To: "Narasimha P.V.R. Rao" <pvr108@...>
+Subject: Re: [vedic-wisdom] Tarpana questions
+X-Yahoo-Group-Post: member; u=77866142; y=6eZyXjx2pnnvLe41lFld-jccwex_pUcIXKyZP9kY-MUG
+X-Yahoo-Profile: pvr108
+
+
+--61789334-136259766-1380852653=:95226
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Namaste,
+=C2=A0
+You don't need to chant the whole thing 3 times. Just chant=
+ the "tebhyAM namaH" at the end 3 times.
+=C2=A0
+Yes, it is fine.
+
+=C2=A0
+Be=
+st regards,
+Narasimha
+--------
+Astrology & Spirituality Resources: http://w=
+ww.VedicAstrologer.org
+--------
+
+=C2=A0
+
+
+>________________________________=
+
+> From: "vsra_prasad@..." <vsra_prasad@...>
+>To: vedic-wisdom@=
+yahoogroups.com 
+>Sent: Thursday, October 3, 2013 2:39 AM
+>Subject: [vedic-=
+wisdom] Tarpana questions
+> 
+>
+>
+>=C2=A0 
+>Namaste - Tarpana manual mention=
+s of repeating some mantras thrice from the pitri section that ends with te=
+bhyam namah followed by 2 more tebhyam namah. Do I chant the entire mantra =
+second and third time also, or is it only tebhyam namah 2nd and 3rd times ?=
+
+>Also, I am pouring the water to plants in the backyard after filtering ou=
+t black sesame seeds and akshata. These seeds I am planning to give it to b=
+irds, in the same raw form. Hope that is fine.=C2=A0
+>
+>
+>
+--61789334-136259766-1380852653=:95226
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"color:#000; background-color:#fff; font-family:ar=
+ial, helvetica, sans-serif;font-size:10pt"><div><span>Namaste,</span></div>=
+<div style=3D"color: rgb(0, 0, 0); font-size: 13.3333px; font-family: arial=
+,helvetica,sans-serif; background-color: transparent; font-style: normal;">=
+<span> </span></div><div style=3D"color: rgb(0, 0, 0); font-size: 13.3=
+333px; font-family: arial,helvetica,sans-serif; background-color: transpare=
+nt; font-style: normal;"><span>You don't need to chant the whole thing 3 ti=
+mes. Just chant the "tebhyAM namaH" at the end 3 times.</span></div><div st=
+yle=3D"color: rgb(0, 0, 0); font-size: 13.3333px; font-family: arial,helvet=
+ica,sans-serif; background-color: transparent; font-style: normal;"><span>&=
+nbsp;</span></div><div style=3D"color: rgb(0, 0, 0); font-size: 13.3333px; =
+font-family: arial,helvetica,sans-serif; background-color: transparent; fon=
+t-style: normal;"><span>Yes, it is fine.<br></span></div><div> </div><=
+div
+ style=3D"color:rgb(0, 0, 0);font-size:13px;font-family:arial, helvetic=
+a, clean, sans-serif;background-color:transparent;font-style:normal;">Best =
+regards,<br>Narasimha<br>--------<br>Astrology & Spirituality Resources=
+: <a rel=3D"nofollow" target=3D"_blank" href=3D"http://www.vedicastrologer.=
+org/">http://www.VedicAstrologer.org</a></div><div style=3D"color:rgb(0, 0,=
+ 0);font-size:13px;font-family:arial, helvetica, clean, sans-serif;backgrou=
+nd-color:transparent;font-style:normal;">--------<br></div><div> <br><=
+blockquote style=3D"border-left: 2px solid rgb(16, 16, 255); margin-left: 5=
+px; margin-top: 5px; padding-left: 5px;">  <div style=3D"font-family: arial=
+, helvetica, sans-serif; font-size: 10pt;"> <div style=3D"font-family: time=
+s new roman, new york, times, serif; font-size: 12pt;"> <div dir=3D"ltr"> <=
+hr size=3D"1">  <font face=3D"Arial" size=3D"2"> <b><span style=3D"font-wei=
+ght:bold;">From:</span></b> "vsra_prasad@..." <vsra_prasad@yahoo.c=
+om><br> <b><span
+ style=3D"font-weight: bold;">To:</span></b> vedic-wisd=
+om@yahoogroups.com <br> <b><span style=3D"font-weight: bold;">Sent:</span><=
+/b> Thursday, October 3, 2013 2:39 AM<br> <b><span style=3D"font-weight: bo=
+ld;">Subject:</span></b> [vedic-wisdom] Tarpana questions<br> </font> </div=
+> <div class=3D"y_msg_container"><br><div id=3D"yiv1407205284"><div>
+<span =
+style=3D"display:none;"> </span>
+
+
+<div id=3D"yiv1407205284ygrp-mlmsg"=
+ style=3D"">
+  <div id=3D"yiv1407205284ygrp-msg" style=3D"">
+
+
+    <div id=
+=3D"yiv1407205284ygrp-text">
+      
+      
+      <div>Namaste - Tarpana man=
+ual mentions of repeating some mantras thrice from the pitri section that e=
+nds with tebhyam namah followed by 2 more tebhyam namah. Do I chant the ent=
+ire mantra second and third time also, or is it only tebhyam namah 2nd and =
+3rd times ?</div><div>Also, I am pouring the water to plants in the backyar=
+d after filtering out black sesame seeds and akshata. These seeds I am plan=
+ning to give it to birds, in the same raw form. Hope that is fine. </d=
+iv>
+
+    </div>
+     
+
+    
+    <div style=3D"color:#fff;height:0;"></div><=
+/div>
+
+
+</div><style type=3D"text/css">
+#yiv1407205284 #yiv1407205284 --
+  =
+#yiv1407205284ygrp-mkp {
+border:1px solid #d8d8d8;font-family:Arial;margin:=
+10px 0;padding:0 10px;}
+
+#yiv1407205284 #yiv1407205284ygrp-mkp hr {
+border:=
+1px solid #d8d8d8;}
+
+#yiv1407205284 #yiv1407205284ygrp-mkp #yiv1407205284hd=
+ {
+color:#628c2a;font-size:85%;font-weight:700;line-height:122%;margin:10px=
+ 0;}
+
+#yiv1407205284 #yiv1407205284ygrp-mkp #yiv1407205284ads {
+margin-bott=
+om:10px;}
+
+#yiv1407205284 #yiv1407205284ygrp-mkp .yiv1407205284ad {
+padding=
+:0 0;}
+
+#yiv1407205284 #yiv1407205284ygrp-mkp .yiv1407205284ad p {
+margin:0=
+;}
+
+#yiv1407205284 #yiv1407205284ygrp-mkp .yiv1407205284ad a {
+color:#0000f=
+f;text-decoration:none;}
+#yiv1407205284 #yiv1407205284ygrp-sponsor #yiv1407=
+205284ygrp-lc {
+font-family:Arial;}
+
+#yiv1407205284 #yiv1407205284ygrp-spon=
+sor #yiv1407205284ygrp-lc #yiv1407205284hd {
+margin:10px 0px;font-weight:70=
+0;font-size:78%;line-height:122%;}
+
+#yiv1407205284 #yiv1407205284ygrp-spons=
+or #yiv1407205284ygrp-lc .yiv1407205284ad {
+margin-bottom:10px;padding:0 0;=
+}
+
+#yiv1407205284 #yiv1407205284actions {
+font-family:Verdana;font-size:11p=
+x;padding:10px 0;}
+
+#yiv1407205284 #yiv1407205284activity {
+background-colo=
+r:#e0ecee;float:left;font-family:Verdana;font-size:10px;padding:10px;}
+
+#yi=
+v1407205284 #yiv1407205284activity span {
+font-weight:700;}
+
+#yiv1407205284=
+ #yiv1407205284activity span:first-child {
+text-transform:uppercase;}
+
+#yiv=
+1407205284 #yiv1407205284activity span a {
+color:#5085b6;text-decoration:no=
+ne;}
+
+#yiv1407205284 #yiv1407205284activity span span {
+color:#ff7900;}
+
+#y=
+iv1407205284 #yiv1407205284activity span .yiv1407205284underline {
+text-dec=
+oration:underline;}
+
+#yiv1407205284 .yiv1407205284attach {
+clear:both;displ=
+ay:table;font-family:Arial;font-size:12px;padding:10px 0;width:400px;}
+
+#yi=
+v1407205284 .yiv1407205284attach div a {
+text-decoration:none;}
+
+#yiv140720=
+5284 .yiv1407205284attach img {
+border:none;padding-right:5px;}
+
+#yiv140720=
+5284 .yiv1407205284attach label {
+display:block;margin-bottom:5px;}
+
+#yiv14=
+07205284 .yiv1407205284attach label a {
+text-decoration:none;}
+
+#yiv1407205=
+284 blockquote {
+margin:0 0 0 4px;}
+
+#yiv1407205284 .yiv1407205284bold {
+fo=
+nt-family:Arial;font-size:13px;font-weight:700;}
+
+#yiv1407205284 .yiv140720=
+5284bold a {
+text-decoration:none;}
+
+#yiv1407205284 dd.yiv1407205284last p =
+a {
+font-family:Verdana;font-weight:700;}
+
+#yiv1407205284 dd.yiv1407205284l=
+ast p span {
+margin-right:10px;font-family:Verdana;font-weight:700;}
+
+#yiv1=
+407205284 dd.yiv1407205284last p span.yiv1407205284yshortcuts {
+margin-righ=
+t:0;}
+
+#yiv1407205284 div.yiv1407205284attach-table div div a {
+text-decora=
+tion:none;}
+
+#yiv1407205284 div.yiv1407205284attach-table {
+width:400px;}
+
+=
+#yiv1407205284 div.yiv1407205284file-title a, #yiv1407205284 div.yiv1407205=
+284file-title a:active, #yiv1407205284 div.yiv1407205284file-title a:hover,=
+ #yiv1407205284 div.yiv1407205284file-title a:visited {
+text-decoration:non=
+e;}
+
+#yiv1407205284 div.yiv1407205284photo-title a, #yiv1407205284 div.yiv1=
+407205284photo-title a:active, #yiv1407205284 div.yiv1407205284photo-title =
+a:hover, #yiv1407205284 div.yiv1407205284photo-title a:visited {
+text-decor=
+ation:none;}
+
+#yiv1407205284 div#yiv1407205284ygrp-mlmsg #yiv1407205284ygrp=
+-msg p a span.yiv1407205284yshortcuts {
+font-family:Verdana;font-size:10px;=
+font-weight:normal;}
+
+#yiv1407205284 .yiv1407205284green {
+color:#628c2a;}
+=
+
+#yiv1407205284 .yiv1407205284MsoNormal {
+margin:0 0 0 0;}
+
+#yiv1407205284 =
+o {
+font-size:0;}
+
+#yiv1407205284 #yiv1407205284photos div {
+float:left;wid=
+th:72px;}
+
+#yiv1407205284 #yiv1407205284photos div div {
+border:1px solid #=
+666666;height:62px;overflow:hidden;width:62px;}
+
+#yiv1407205284 #yiv1407205=
+284photos div label {
+color:#666666;font-size:10px;overflow:hidden;text-ali=
+gn:center;white-space:nowrap;width:64px;}
+
+#yiv1407205284 #yiv1407205284rec=
+o-category {
+font-size:77%;}
+
+#yiv1407205284 #yiv1407205284reco-desc {
+font=
+-size:77%;}
+
+#yiv1407205284 .yiv1407205284replbq {
+margin:4px;}
+
+#yiv140720=
+5284 #yiv1407205284ygrp-actbar div a:first-child {
+margin-right:2px;padding=
+-right:5px;}
+
+#yiv1407205284 #yiv1407205284ygrp-mlmsg {
+font-size:13px;font=
+-family:Arial, helvetica, clean, sans-serif;}
+
+#yiv1407205284 #yiv140720528=
+4ygrp-mlmsg table {
+font-size:inherit;font:100%;}
+
+#yiv1407205284 #yiv14072=
+05284ygrp-mlmsg select, #yiv1407205284 input, #yiv1407205284 textarea {
+fon=
+t:99% Arial, Helvetica, clean, sans-serif;}
+
+#yiv1407205284 #yiv1407205284y=
+grp-mlmsg pre, #yiv1407205284 code {
+font:115% monospace;}
+
+#yiv1407205284 =
+#yiv1407205284ygrp-mlmsg * {
+line-height:1.22em;}
+
+#yiv1407205284 #yiv14072=
+05284ygrp-mlmsg #yiv1407205284logo {
+padding-bottom:10px;}
+
+
+#yiv1407205284=
+ #yiv1407205284ygrp-msg p a {
+font-family:Verdana;}
+
+#yiv1407205284 #yiv140=
+7205284ygrp-msg p#yiv1407205284attach-count span {
+color:#1E66AE;font-weigh=
+t:700;}
+
+#yiv1407205284 #yiv1407205284ygrp-reco #yiv1407205284reco-head {
+c=
+olor:#ff7900;font-weight:700;}
+
+#yiv1407205284 #yiv1407205284ygrp-reco {
+ma=
+rgin-bottom:20px;padding:0px;}
+
+#yiv1407205284 #yiv1407205284ygrp-sponsor #=
+yiv1407205284ov li a {
+font-size:130%;text-decoration:none;}
+
+#yiv140720528=
+4 #yiv1407205284ygrp-sponsor #yiv1407205284ov li {
+font-size:77%;list-style=
+-type:square;padding:6px 0;}
+
+#yiv1407205284 #yiv1407205284ygrp-sponsor #yi=
+v1407205284ov ul {
+margin:0;padding:0 0 0 8px;}
+
+#yiv1407205284 #yiv1407205=
+284ygrp-text {
+font-family:Georgia;}
+
+#yiv1407205284 #yiv1407205284ygrp-tex=
+t p {
+margin:0 0 1em 0;}
+
+#yiv1407205284 #yiv1407205284ygrp-text tt {
+font-=
+size:120%;}
+
+#yiv1407205284 #yiv1407205284ygrp-vital ul li:last-child {
+bor=
+der-right:none !important;
+}
+#yiv1407205284 
+</style></div><br><br></div> <=
+/div> </div> </blockquote></div>   </div></body></html>
+--61789334-136259766-1380852653=:95226--
+
+

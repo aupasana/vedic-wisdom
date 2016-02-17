@@ -1,0 +1,616 @@
+From rajarshi14@...  Wed Feb 17 11:09:43 2016
+Return-Path: <rajarshi14@...>
+X-Sender: rajarshi14@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 12016 invoked from network); 26 Jun 2011 17:28:50 -0000
+X-Received: from unknown (66.196.94.105)
+  by m15.grp.re1.yahoo.com with QMQP; 26 Jun 2011 17:28:50 -0000
+X-Received: from unknown (HELO web95513.mail.in.yahoo.com) (121.101.151.13)
+  by mta1.grp.re1.yahoo.com with SMTP; 26 Jun 2011 17:28:49 -0000
+X-Received: (qmail 14248 invoked by uid 60001); 26 Jun 2011 17:28:48 -0000
+X-YMail-OSG: Y48n1b0VM1m5NTOYOBw9HG3fCH4hA49QCzh97Qzerb7vb4G
+ nSRYMI6TXGKtQDbsrkZjzTdQJjTI5bpKQWp9mqfE6vwSGwmJlsOx.cok.VPC
+ ICk8gOgZOPDScI78MVUZfRrAeHJLrY_75Aew0bxk2f53VXfzE1Crgs.uP_jV
+ AZn2m9evld92bsF1sMcY69QR7UiUAQ4_yNp3Ya5lEEwITuR7A7FOYySuVj4f
+ 5vUKm3NDU9V213.aREHcNSXRBBQhqcH5fQlRWzar2V32i9XmLrNKzgMcAIWY
+ 6TKTByMR2Kj8RodvlBmbIA_NjcjpJNZgYZ43Ghy0fX0STdh29dCdcBX8BJJy
+ eL65YTi8cKvT60aAQ60jvioxQGoKJITBbZSqjwd8245pfPyqL7B84yDvpRin
+ Hxkv_c0CPOC1sNQxtcytk2t3S5oQmNv5FKp1GtTvHl5E.F9eftD7gHVTtONd
+ Hwn7mZ5EHKKm_XZEpRwW9qNH9DMDwJF.FDNJDTao0wsOEsqcSi6UbjlWIQK0
+ 9M1i_6viv.vsCyI5hpTkVYFcftN0f6dREInJcfilSljXN0qu9b58NZy5R9Rx
+ KO0rHxh0OlcZKuXn1TR9P1hwml.OEsA_jvkDBqrRa.PIVc3FWLXE.vSEPzlT
+ aJfb.JB2hNEiQFRMaDGQkSOazw0fESdTHurE0TNFMYiVqaIi5_rZsKI54zfA
+ zVk_9Vh1LD6ppXpG5A2l9CET6qqOOcP4DEjExwSdUGKqbfPz5gFyKlKknKHE
+ zIrr3VUFtUGLmHhoyPDPcPI0.rzg4ofo2jPwPW7CESAQCiXxOdm3Q2u8LtjE
+ Pw1yK.wmLYrFpXhbmK.blBxLsfS_EPxpf1DJnNlAEc0OzYv.4Tn79TPXaGEx
+ yxzdfZcmBbdAKV1OyhwJdF0BNjn34W6ZtLCNQCdJo7.b.bMpfRSQ1RMcTeho
+ kyG55WQX1wrmta_jEBMrnQCt33denkfMfqlCq6mRv_i.yZ0AwbPUiKzwPNH.
+ eKWFgslCpV9Rl8HVBT0we2WZZxMFkucFQvtU2GRpradm0BFGt0eslZueQuJS
+ M4ijZSXwMvQq7RlbejpPFn4GNRAImZDQ.bt2nksPIZEQGPzsuMYx.1sf0XWE
+ FOoyCKf3iKQPEMEaPQtevPB6Csl8HmIyg4rY6FiHkJ6M6QSts4f.V0L8hCs2
+ vnmjIB0Z66vMhLNpq.pO.zgvam8bzSo_yCY.cbLZD3Tp9vXxT5hTo0G27FKy
+ tVlq.RCOQbUh6Bth5dPaEYyLbGLdNQ2l6i8jWvbq4l4Oiwvew07rkY7e8w8O
+ 4mPTLiioBJUb3E6qYQa7fHff44mg3I4z91Tx1mRyPlr47M.PNzc2dsNOrDiP
+ qeEaRwZU2ozZ574iBH_vGDVpSTQHRTGmp8RqBkKhxpHle7EXVIBYgxe8ZhSJ
+ pxc9vGht6jLs1msvpup1DEc_78qy6p1cAs_znozMxkk2g.hU5WgOlS4MQgxc
+ ItQPXT1FOrR4zRZp6BYKp3TCjllJJCdcf_rMKvAqKmtYH0uJ28GBnjtu6D2W
+ sx3Wm3Ek_RxicJ63YgBQxDjAneoElJKziqoWEm5691cnwkMtYI0XXrEnQsCF
+ RRAQMumdpOMQiS7jmWCp65b4YAscw7sAo.j706O_1iOj0vajQBh1Rt6B2GWt
+ 5OUUhok7Oe4y5OusMIdTYNeKWKWVVCPxuUDh0tmmIBNP5AgkSj01UvYwYM7L
+ 0k1aCD1dwH7RZpnQAxRcQ.gYw21zhUV2L1lWRr1QI9Dr62xfdcLJmc0Osv6h
+ XfUPVuGjdwfb9Bc7gycIufZQhbCLHhv.JRJwWSu1xGGhQKSgdFOzXvNi.vEq
+ BSdszRIrnCc1LFSkojanwUhm3U0GhZL8b2xgFVAYq4Uz9LtQdC9VcXzE.BJN
+ xgqQxiYRb565.5ArgAj.87sr8YVE.PQbotQ--
+X-Received: from [115.241.186.53] by web95513.mail.in.yahoo.com via HTTP; Sun, 26 Jun 2011 22:58:47 IST
+X-Mailer: YahooMailRC/572 YahooMailWebService/0.8.112.307740
+References: <62945c.1074c3.130ccb3929b.Webtop.44@...>
+Message-ID: <1309109327.13331.YahooMailRC@...>
+Date: Sun, 26 Jun 2011 22:58:47 +0530 (IST)
+To: vedic-wisdom@yahoogroups.com
+In-Reply-To: <62945c.1074c3.130ccb3929b.Webtop.44@...>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-178315233-1309109327=:13331"
+X-Originating-IP: 121.101.151.13
+From: rajarshi nandy <rajarshi14@...>
+Subject: Re: [vedic-wisdom] Re: A small Sanskrit verse on Lord Ganesha
+X-Yahoo-Group-Post: member; u=216162964; y=KxO3EcKoO5_hFB7vjlKT-X7fOAmriKgXtcpHhGNI8Zb4TX6DJg
+X-Yahoo-Profile: rajarshi14
+
+
+--0-178315233-1309109327=:13331
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Dear Narasimha,
+
+Can you please explain these two words shaivabhakitoShitaM=
+ and 
+bhrAmavighnavArakaM?
+
+-Regards
+=C2=A0Rajarshi
+=C2=A0
+Bazeecha-e-atfal=
+ hain duniya mere aage.
+Hota hain shab-o-roz tamasha mere aage
+=C2=A0
+Ek kh=
+el hain aurang-e-sulemaan mere nazdeek
+Ek baat hain ijaz-e-masiah mere aage=
+.
+
+
+
+
+________________________________
+From: Narasimha PVR Rao <pvr@charter=
+.net>
+To: vedic-wisdom@yahoogroups.com
+Sent: Sun, 26 June, 2011 9:36:18 PM
+=
+Subject: [vedic-wisdom] Re: A small Sanskrit verse on Lord Ganesha
+
+=C2=A0 =
+
+Namaste,
+=C2=A0
+Though somewhat similar, it is different.
+=C2=A0
+This vers=
+e is in a metre called "Sudhaa dhaaraa", meaning "stream of nectar". It 
+ha=
+s "lAla lAla lAla lA" pattern repeated 8 times.
+=C2=A0
+Best regards,
+Narasi=
+mha
+-------------------------------------------------------------------
+=C2=
+=A0 Free Jyotish Software, Free Jyotish Lessons, Jyotish Writings,
+"Do It Y=
+ourself" ritual manuals for short Homam and Pitri Tarpana:
+=C2=A0=C2=A0=C2=
+=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=
+=C2=A0=C2=A0 http://www.VedicAstrologer.org
+=C2=A0=C2=A0=C2=A0=C2=A0 Films =
+that make a difference: http://SaraswatiFilms.org
+=C2=A0=C2=A0=C2=A0=C2=A0 =
+Spirituality: http://groups.yahoo.com/group/vedic-wisdom
+=C2=A0 Jyotish wri=
+tings: http://groups.yahoo.com/group/JyotishWritings
+=C2=A0=C2=A0=C2=A0=C2=
+=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=
+=C2=A0=C2=A0=C2=A0=C2=A0 Twitter ID: @homam108
+----------------------------=
+---------------------------------------
+=C2=A0
+=C2=A0
+On Sun, Jun 26, 2011 =
+at 4:18 AM, Nagraj Kota wrote:
+
+=C2=A0=C2=A0 Is this chandas called 'Aryage=
+eti'? 
+=C2=A0 
+Nagraj 
+
+--- On Sun, 6/26/11, Narasimha PVR Rao <pvr@charter=
+.net> wrote: 
+
+
+From: Narasimha PVR Rao <pvr@...> 
+Subject: [vedic-=
+wisdom] A small Sanskrit verse on Lord Ganesha 
+To: vedic-wisdom@yahoogroup=
+s.com 
+Date: Sunday, June 26, 2011, 12:47 AM 
+
+=C2=A0 Namaste, 
+
+A friend a=
+sked me to compose a Sanskrit verse on Ganesha, after I 
+composed verses on=
+ Chandi and Kali. Here is a composition. 
+
+adrijAsuputrakaM marditAsushatru=
+kaM. rudrashUlakhaNDitaM 
+bhadrashIlamaNDitam. 
+aibhavaktrashobhitaM shaiva=
+bhakitoShitaM. bhrAmavighnavArakaM staumi taM 
+vinAyakaM. 
+
+Best regards, 
+=
+Narasimha 
+---------------------------------------------------------- 
+Free=
+ Jyotish Software, Free Jyotish Lessons, Jyotish Writings, 
+"Do It Yourself=
+" ritual manuals for short Homam and Pitri Tarpana: 
+http://www.VedicAstrol=
+oger.org
+Films that make a difference: http://SaraswatiFilms.org
+Spirituali=
+ty: http://groups.yahoo.com/group/vedic-wisdom
+Jyotish writings: http://gro=
+ups.yahoo.com/group/JyotishWritings
+Twitter ID: @homam108 
+----------------=
+------------------------------------------ 
+
+--0-178315233-1309109327=:13331
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><style type=3D"text/css"><!-- DIV {margin:0px;} --></style></he=
+ad><body><div style=3D"font-family:times new roman, new york, times, serif;=
+font-size:12pt"><DIV></DIV>
+<DIV>Dear Narasimha,</DIV>
+<DIV> </DIV>
+<D=
+IV>Can you please explain these two words shaivabhakitoShitaM and <FONT fac=
+e=3DVerdana>bhrAmavighnavArakaM</FONT>?</DIV>
+<DIV> </DIV>
+<DIV>-Regar=
+ds</DIV>
+<DIV> Rajarshi<BR> </DIV>
+<DIV><EM><STRONG>
+<DIV class=
+=3DMsoNormal><STRONG><SPAN style=3D"FONT-FAMILY: Verdana; COLOR: navy; FONT=
+-SIZE: 10pt"><FONT color=3D#000000 face=3D"Times New Roman">
+<DIV><B><SPAN =
+style=3D"COLOR: #000066" class=3DApple-style-span><SPAN style=3D"FONT-SIZE:=
+ medium" class=3DApple-style-span><FONT color=3D#a2a2a2 size=3D3>Bazeecha-e=
+-atfal hain duniya mere aage.</FONT></SPAN></SPAN></B></DIV>
+<DIV><B><SPAN =
+style=3D"COLOR: #000066" class=3DApple-style-span><SPAN style=3D"FONT-SIZE:=
+ medium" class=3DApple-style-span><FONT size=3D3><FONT color=3D#a2a2a2>Hota=
+ hain shab-o-roz tamasha mere aage</FONT></FONT></SPAN></SPAN></B></DIV>
+<D=
+IV><B><SPAN style=3D"COLOR: #000066" class=3DApple-style-span><SPAN style=
+=3D"FONT-SIZE: medium" class=3DApple-style-span><SPAN style=3D"COLOR: #0000=
+99" class=3DApple-style-span><SPAN style=3D"FONT-SIZE: small" class=3DApple=
+-style-span><FONT size=3D2> </FONT></DIV>
+<DIV>
+<DIV><SPAN style=3D"FO=
+NT-SIZE: medium" class=3DApple-style-span><B><SPAN style=3D"COLOR: #999999"=
+ class=3DApple-style-span><FONT size=3D3>Ek khel hain aurang-e-sulemaan mer=
+e nazdeek</FONT></SPAN></B></SPAN></DIV>
+<DIV><SPAN style=3D"FONT-SIZE: med=
+ium" class=3DApple-style-span><B><SPAN style=3D"COLOR: #999999" class=3DApp=
+le-style-span><FONT size=3D3>Ek baat hain ijaz-e-masiah mere aage.</FONT></=
+SPAN></B></SPAN></DIV></SPAN></SPAN></SPAN></SPAN></B></DIV></FONT></SPAN><=
+/STRONG></DIV></STRONG></EM></DIV>
+<DIV><BR></DIV>
+<DIV style=3D"FONT-FAMIL=
+Y: times new roman, new york, times, serif; FONT-SIZE: 12pt"><BR>
+<DIV styl=
+e=3D"BORDER-LEFT: #1010ff 2px solid; MARGIN: 5px 0px 5px 5px; PADDING-LEFT:=
+ 5px; FONT-FAMILY: times new roman, new york, times, serif; FONT-SIZE: 12pt=
+"><FONT size=3D2 face=3DTahoma>
+<HR SIZE=3D1>
+<B><SPAN style=3D"FONT-WEIGHT=
+: bold">From:</SPAN></B> Narasimha PVR Rao <pvr@...><BR><B><S=
+PAN style=3D"FONT-WEIGHT: bold">To:</SPAN></B> vedic-wisdom@yahoogroups.com=
+<BR><B><SPAN style=3D"FONT-WEIGHT: bold">Sent:</SPAN></B> Sun, 26 June, 201=
+1 9:36:18 PM<BR><B><SPAN style=3D"FONT-WEIGHT: bold">Subject:</SPAN></B> [v=
+edic-wisdom] Re: A small Sanskrit verse on Lord Ganesha<BR></FONT><BR><SPAN=
+ style=3D"DISPLAY: none"> </SPAN> 
+<DIV id=3Dygrp-text>
+<P>
+<DIV align=
+=3Dleft><FONT color=3D#000000 size=3D2 face=3DVerdana>Namaste,</FONT></DIV>=
+
+<DIV align=3Dleft><FONT color=3D#000000 size=3D2 face=3DVerdana> </FO=
+NT></DIV>
+<DIV align=3Dleft><FONT color=3D#000000 size=3D2 face=3DVerdana>T=
+hough somewhat similar, it is different.</FONT></DIV>
+<DIV align=3Dleft><FO=
+NT color=3D#000000 size=3D2 face=3DVerdana> </FONT></DIV>
+<DIV align=
+=3Dleft><FONT color=3D#000000 size=3D2 face=3DVerdana>This verse is in a me=
+tre called "Sudhaa dhaaraa", meaning "stream of nectar". It has "lAla lAla =
+lAla lA" pattern repeated 8 times.</FONT></DIV>
+<DIV align=3Dleft><FONT col=
+or=3D#000000 size=3D2 face=3DVerdana> </FONT></DIV>
+<DIV align=3Dleft>=
+<FONT color=3D#000000 size=3D2 face=3DVerdana>Best regards,</FONT></DIV>
+<D=
+IV align=3Dleft><FONT color=3D#000000 size=3D2 face=3DVerdana>Narasimha</FO=
+NT></DIV>
+<DIV align=3Dleft><FONT color=3D#000000 size=3D2 face=3DVerdana>-=
+------------------------------------------------------------------</FONT></=
+DIV>
+<DIV align=3Dleft><FONT color=3D#000000 size=3D2 face=3DVerdana> =
+ Free Jyotish Software, Free Jyotish Lessons, Jyotish Writings,</FONT></DIV=
+>
+<DIV align=3Dleft><FONT color=3D#000000 size=3D2 face=3DVerdana>"Do It Yo=
+urself" ritual manuals for short Homam and Pitri Tarpana:</FONT></DIV>
+<DIV=
+ align=3Dleft><FONT color=3D#000000 size=3D2 face=3DVerdana>  &nb=
+sp;            =
+   http://www.VedicAstrologer.org</FONT></DIV>
+<DIV align=3Dleft>=
+<FONT color=3D#000000 size=3D2 face=3DVerdana>     Film=
+s that make a difference: http://SaraswatiFilms.org</FONT></DIV>
+<DIV align=
+=3Dleft><FONT color=3D#000000 size=3D2 face=3DVerdana>   &nb=
+sp; Spirituality: http://groups.yahoo.com/group/vedic-wisdom</FONT></DIV>
+<=
+DIV align=3Dleft><FONT color=3D#000000 size=3D2 face=3DVerdana>  Jyoti=
+sh writings: http://groups.yahoo.com/group/JyotishWritings</FONT></DIV>
+<DI=
+V align=3Dleft><FONT color=3D#000000 size=3D2 face=3DVerdana>  &n=
+bsp;            =
+;      Twitter ID: @homam108</FONT></DIV>
+<DIV ali=
+gn=3Dleft><FONT color=3D#000000 size=3D2 face=3DVerdana>-------------------=
+------------------------------------------------</FONT></DIV>
+<DIV align=3D=
+left><FONT color=3D#000000 size=3D2 face=3DVerdana> </FONT></DIV>
+<DIV=
+ align=3Dleft><FONT color=3D#000000 size=3D2 face=3DVerdana> </FONT></=
+DIV>
+<DIV align=3Dleft><FONT color=3D#000000 size=3D2 face=3DVerdana>On Sun=
+, Jun 26, 2011 at 4:18 AM, Nagraj Kota wrote:</FONT></DIV><FONT color=3D#00=
+0000 size=3D2 face=3DVerdana><BR></FONT>
+<DIV align=3Dleft><FONT color=3D#0=
+00000 size=3D2 face=3DVerdana> <FONT size=3D3>  Is this chandas c=
+alled 'Aryageeti'? </FONT></FONT></DIV>
+<DIV align=3Dleft><FONT color=3D#00=
+0000 size=3D3 face=3DVerdana>  <FONT size=3D2></FONT></FONT></DIV>
+<DI=
+V align=3Dleft><FONT color=3D#000000 size=3D3 face=3DVerdana>Nagraj </FONT>=
+</DIV><FONT color=3D#000000 size=3D3 face=3DVerdana><BR></FONT>
+<DIV align=
+=3Dleft><FONT color=3D#000000 size=3D3 face=3DVerdana>--- On <B>Sun, 6/26/1=
+1, Narasimha PVR Rao </B><B><I><pvr@...> </I></B>wrote: </FON=
+T></DIV><FONT color=3D#000000 size=3D2 face=3DVerdana><BR></FONT><FONT colo=
+r=3D#000000 size=3D3 face=3DVerdana><BR></FONT>
+<DIV align=3Dleft><FONT col=
+or=3D#000000 size=3D3 face=3DVerdana>From: Narasimha PVR Rao <pvr@charte=
+r.net> </FONT></DIV>
+<DIV align=3Dleft><FONT color=3D#000000 size=3D3 fa=
+ce=3DVerdana>Subject: [vedic-wisdom] A small Sanskrit verse on Lord Ganesha=
+ </FONT></DIV>
+<DIV align=3Dleft><FONT color=3D#000000 size=3D3 face=3DVerd=
+ana>To: vedic-wisdom@yahoogroups.com </FONT></DIV>
+<DIV align=3Dleft><FONT =
+color=3D#000000 size=3D3 face=3DVerdana>Date: Sunday, June 26, 2011, 12:47 =
+AM </FONT></DIV><FONT color=3D#000000 size=3D3 face=3DVerdana><BR></FONT>
+<=
+DIV align=3Dleft><FONT color=3D#000000 size=3D3 face=3DVerdana>  Namas=
+te, </FONT></DIV><FONT color=3D#000000 size=3D3 face=3DVerdana><BR></FONT>
+=
+<DIV align=3Dleft><FONT color=3D#000000 size=3D3 face=3DVerdana>A friend as=
+ked me to compose a Sanskrit verse on Ganesha, after I </FONT></DIV>
+<DIV a=
+lign=3Dleft><FONT color=3D#000000 size=3D3 face=3DVerdana>composed verses o=
+n Chandi and Kali. Here is a composition. </FONT></DIV><FONT color=3D#00000=
+0 size=3D3 face=3DVerdana><BR></FONT>
+<DIV align=3Dleft><FONT color=3D#0000=
+00 size=3D3 face=3DVerdana>adrijAsuputrakaM marditAsushatrukaM. rudrashUlak=
+haNDitaM </FONT></DIV>
+<DIV align=3Dleft><FONT color=3D#000000 size=3D3 fac=
+e=3DVerdana>bhadrashIlamaNDitam. </FONT></DIV>
+<DIV align=3Dleft><FONT colo=
+r=3D#000000 size=3D3 face=3DVerdana>aibhavaktrashobhitaM shaivabhakitoShita=
+M. bhrAmavighnavArakaM staumi taM </FONT></DIV>
+<DIV align=3Dleft><FONT col=
+or=3D#000000 size=3D3 face=3DVerdana>vinAyakaM. </FONT></DIV><FONT color=3D=
+#000000 size=3D3 face=3DVerdana><BR></FONT>
+<DIV align=3Dleft><FONT color=
+=3D#000000 size=3D3 face=3DVerdana>Best regards, </FONT></DIV>
+<DIV align=
+=3Dleft><FONT color=3D#000000 size=3D3 face=3DVerdana>Narasimha </FONT></DI=
+V>
+<DIV align=3Dleft><FONT color=3D#000000 size=3D3 face=3DVerdana>--------=
+-------------------------------------------------- </FONT></DIV>
+<DIV align=
+=3Dleft><FONT color=3D#000000 size=3D3 face=3DVerdana>Free Jyotish Software=
+, Free Jyotish Lessons, Jyotish Writings, </FONT></DIV>
+<DIV align=3Dleft><=
+FONT color=3D#000000 size=3D3 face=3DVerdana>"Do It Yourself" ritual manual=
+s for short Homam and Pitri Tarpana: </FONT></DIV>
+<DIV align=3Dleft><FONT =
+color=3D#3333ff size=3D3 face=3DVerdana><A href=3D"http://www.vedicastrolog=
+er.org/" rel=3Dnofollow target=3D_blank><U>http://www.VedicAstrologer.org</=
+U></A><FONT color=3D#000000></FONT></FONT></DIV>
+<DIV align=3Dleft><FONT co=
+lor=3D#000000 size=3D3 face=3DVerdana>Films that make a difference: <FONT c=
+olor=3D#3333ff><A href=3D"http://saraswatifilms.org/" rel=3Dnofollow target=
+=3D_blank><U>http://SaraswatiFilms.org</U></A></FONT></FONT></DIV>
+<DIV ali=
+gn=3Dleft><FONT color=3D#000000 size=3D3 face=3DVerdana>Spirituality: <FONT=
+ color=3D#3333ff><A href=3D"http://groups.yahoo.com/group/vedic-wisdom" rel=
+=3Dnofollow target=3D_blank><U>http://groups.yahoo.com/group/vedic-wisdom</=
+U></A></FONT></FONT></DIV>
+<DIV align=3Dleft><FONT color=3D#000000 size=3D3=
+ face=3DVerdana>Jyotish writings: <FONT color=3D#3333ff><A href=3D"http://g=
+roups.yahoo.com/group/JyotishWritings" rel=3Dnofollow target=3D_blank><U>ht=
+tp://groups.yahoo.com/group/JyotishWritings</U></A></FONT></FONT></DIV>
+<DI=
+V align=3Dleft><FONT color=3D#000000 size=3D3 face=3DVerdana>Twitter ID: @h=
+omam108 </FONT></DIV>
+<DIV align=3Dleft><FONT color=3D#000000 size=3D3 face=
+=3DVerdana>---------------------------------------------------------- </FON=
+T></DIV></DIV>
+<STYLE type=3Dtext/css>
+<!--
+#ygrp-mkp {
+border:1px solid #d=
+8d8d8;font-family:Arial;margin:10px 0;padding:0 10px;}
+
+#ygrp-mkp hr {
+bord=
+er:1px solid #d8d8d8;}
+
+#ygrp-mkp #hd {
+color:#628c2a;font-size:85%;font-we=
+ight:700;line-height:122%;margin:10px 0;}
+
+#ygrp-mkp #ads {
+margin-bottom:1=
+0px;}
+
+#ygrp-mkp .ad {
+padding:0 0;}
+
+#ygrp-mkp .ad p {
+margin:0;}
+
+#ygrp-m=
+kp .ad a {
+color:#0000ff;text-decoration:none;}
+#ygrp-sponsor #ygrp-lc {
+fo=
+nt-family:Arial;}
+
+#ygrp-sponsor #ygrp-lc #hd {
+margin:10px 0px;font-weight=
+:700;font-size:78%;line-height:122%;}
+
+#ygrp-sponsor #ygrp-lc .ad {
+margin-=
+bottom:10px;padding:0 0;}
+
+a {
+color:#1e66ae;}
+
+#actions {
+font-family:Verd=
+ana;font-size:11px;padding:10px 0;}
+
+#activity {
+background-color:#e0ecee;f=
+loat:left;font-family:Verdana;font-size:10px;padding:10px;}
+
+#activity span=
+ {
+font-weight:700;}
+
+#activity span:first-child {
+text-transform:uppercase=
+;}
+
+#activity span a {
+color:#5085b6;text-decoration:none;}
+
+#activity span=
+ span {
+color:#ff7900;}
+
+#activity span .underline {
+text-decoration:underl=
+ine;}
+
+.attach {
+clear:both;display:table;font-family:Arial;font-size:12px;=
+padding:10px 0;width:400px;}
+
+.attach div a {
+text-decoration:none;}
+
+.atta=
+ch img {
+border:none;padding-right:5px;}
+
+.attach label {
+display:block;mar=
+gin-bottom:5px;}
+
+.attach label a {
+text-decoration:none;}
+
+blockquote {
+ma=
+rgin:0 0 0 4px;}
+
+.bold {
+font-family:Arial;font-size:13px;font-weight:700;=
+}
+
+.bold a {
+text-decoration:none;}
+
+dd.last p a {
+font-family:Verdana;font=
+-weight:700;}
+
+dd.last p span {
+margin-right:10px;font-family:Verdana;font-=
+weight:700;}
+
+dd.last p span.yshortcuts {
+margin-right:0;}
+
+div.attach-tabl=
+e div div a {
+text-decoration:none;}
+
+div.attach-table {
+width:400px;}
+
+div=
+.file-title a, div.file-title a:active, div.file-title a:hover, div.file-ti=
+tle a:visited {
+text-decoration:none;}
+
+div.photo-title a, div.photo-title =
+a:active, div.photo-title a:hover, div.photo-title a:visited {
+text-decorat=
+ion:none;}
+
+div#ygrp-mlmsg #ygrp-msg p a span.yshortcuts {
+font-family:Verd=
+ana;font-size:10px;font-weight:normal;}
+
+.green {
+color:#628c2a;}
+
+.MsoNorm=
+al {
+margin:0 0 0 0;}
+
+o {
+font-size:0;}
+
+#photos div {
+float:left;width:72=
+px;}
+
+#photos div div {
+border:1px solid #666666;height:62px;overflow:hidde=
+n;width:62px;}
+
+#photos div label {
+color:#666666;font-size:10px;overflow:h=
+idden;text-align:center;white-space:nowrap;width:64px;}
+
+#reco-category {
+f=
+ont-size:77%;}
+
+#reco-desc {
+font-size:77%;}
+
+.replbq {
+margin:4px;}
+
+#ygrp=
+-actbar div a:first-child {
+margin-right:2px;padding-right:5px;}
+
+#ygrp-mlm=
+sg {
+font-size:13px;font-family:Arial, helvetica, clean, sans-serif;}
+
+#ygr=
+p-mlmsg table {
+font-size:inherit;font:100%;}
+
+#ygrp-mlmsg select, input, t=
+extarea {
+font:99% Arial, Helvetica, clean, sans-serif;}
+
+#ygrp-mlmsg pre, =
+code {
+font:115% monospace;}
+
+#ygrp-mlmsg * {
+line-height:1.22em;}
+
+#ygrp-m=
+lmsg #logo {
+padding-bottom:10px;}
+
+#ygrp-mlmsg a {
+color:#1E66AE;}
+
+#ygrp-=
+msg p a {
+font-family:Verdana;}
+
+#ygrp-msg p#attach-count span {
+color:#1E6=
+6AE;font-weight:700;}
+
+#ygrp-reco #reco-head {
+color:#ff7900;font-weight:70=
+0;}
+
+#ygrp-reco {
+margin-bottom:20px;padding:0px;}
+
+#ygrp-sponsor #ov li a =
+{
+font-size:130%;text-decoration:none;}
+
+#ygrp-sponsor #ov li {
+font-size:7=
+7%;list-style-type:square;padding:6px 0;}
+
+#ygrp-sponsor #ov ul {
+margin:0;=
+padding:0 0 0 8px;}
+
+#ygrp-text {
+font-family:Georgia;}
+
+#ygrp-text p {
+mar=
+gin:0 0 1em 0;}
+
+#ygrp-text tt {
+font-size:120%;}
+
+#ygrp-vital ul li:last-c=
+hild {
+border-right:none !important;
+}
+-->
+</STYLE>
+</DIV></DIV></div></bod=
+y></html>
+--0-178315233-1309109327=:13331--
+
+

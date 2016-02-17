@@ -1,0 +1,388 @@
+From pvr108@...  Wed Feb 17 11:10:33 2016
+Return-Path: <pvr108@...>
+X-Sender: pvr108@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 55515 invoked by uid 102); 27 Apr 2013 17:34:30 -0000
+X-Received: from unknown (HELO mta1.grp.bf1.yahoo.com) (10.193.84.135)
+  by m9.grp.bf1.yahoo.com with SMTP; 27 Apr 2013 17:34:30 -0000
+X-Received: (qmail 16372 invoked from network); 27 Apr 2013 17:34:29 -0000
+X-Received: from unknown (HELO nm40-vm7.bullet.mail.ne1.yahoo.com) (98.138.229.183)
+  by mta1.grp.bf1.yahoo.com with SMTP; 27 Apr 2013 17:34:29 -0000
+X-Received: from [98.138.226.177] by nm40.bullet.mail.ne1.yahoo.com with NNFMP; 27 Apr 2013 17:34:29 -0000
+X-Received: from [98.138.89.173] by tm12.bullet.mail.ne1.yahoo.com with NNFMP; 27 Apr 2013 17:34:29 -0000
+X-Received: from [127.0.0.1] by omp1029.mail.ne1.yahoo.com with NNFMP; 27 Apr 2013 17:34:29 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 325874.88015.bm@...
+X-Received: (qmail 92012 invoked by uid 60001); 27 Apr 2013 17:34:29 -0000
+X-YMail-OSG: .qx5KpYVM1m4vpRC2ZpHPYRhSWYX3xHlHKkrfjHVRfXnO3g
+ 9YaOzQILxWSefYgHq0jtg1OPH_ZbM_GxyAmMLSH1JP8T86ZhfIFHcT9McKu0
+ rRO72yNsp0dwzKK09AVLKJr74yqW._sXdpWCqNBrHNiXfW.cf8CJwJNHExht
+ EMDSGlaS75JvgxaB2PBIzoSPFKXhZ7Ky.Rm3ZwyIXsBxrkPyb_erQ16_wFrP
+ bpc4WNF7W6wRhDTnDEvMy5CQ_XbAMsaaU6vN36qIoCqoAC_uuy1UjszRuRBR
+ e8_xyoM1hMwLIFL7fS.xZF6kvuPa_JnG6BjQ_aWKqz2Rv4aZOgqH4NRZAfSC
+ 7k8ZsbHQoEgkOKED4fD69QCLFVOk8vB3V7VAdWrfMIqqbJ7F62S5UXUlhmvt
+ q1nMtjLPSVoQMYKAm.nfQgYJlGSTmqld3VrW7PHR9d9xeYitf_FUxAVMVFrL
+ cMGxgk0szh.GbKjbnkeHYPgZ9Nd0TPZvo8_U8SVUuETV4cOA06Gc5TTN3_kv
+ bZTaWfvb47mar0hV2P9LB6gb_2AVD9uVh1zWQHDEBT2BOn1lnBBxu0npu17F
+ n_9867EigFvzQ2FLMSKwA_sCLsi9Ihwxu9Ttgpv21WFXTiYYGQqBdnocMUl3
+ t.1LNwifDXovnuOU8K4B.qgauW62hTK52TEtrqBa0NzkVMQmcq1x0fRtl9Pl
+ X5lUCU5xfBHnKI0Z6glwRbJ65tRsZo1GIOWSs_WgrH8PVJg_tNKARz3wiG8V
+ GPDyEGnxUGtEVvJkE3ettEiH.3o6xykPRKnlQAISITx4hEuNDXrWEf5Mb5JY
+ NmKNUyA1wNtfn6dWhmVKHDZJSJrEAOQFCqUmB07JApRxOYGcziMygo.V.V8j
+ cz07N8FkZY2fRng5RqNYEAV0Xak_lI53ck2cTYFqLvgSjVxjEFAc9mzgyzxj
+ kNnjK3vcvJZXpDFIHRBv2gJI5adCLhAZdInuzBvI9VtyUul39mGMYo0bXLBH
+ L8jhIDz.TJesIjb_LEcMm5n3wgZDrjL.SG.38147FQKZAn7Mg6ADjva.pKjb
+ 0NYAfnd88Ce2d0mFtsx0v.VdAHHYCiZ8UPPEpkymK_rkRoQXbWINf.4PUFLn
+ XHktnB1GO010LzuHGKyno_tKI1z9ma6ie_HwqBkEGxa6OmnjPnQjFqEWgUkv
+ lGM4QnvNZBUozhkn_RH1ALHrOqBwg.BLyKbfukqi218AQoeYkOHDJBO5JZv1
+ QGu89QMUjbErd2.5nh8DtEOv18EK.qUemfWWLD.AHOPNgDssp5eYlwQ1NzvK
+ qyM4FK5QBeyBuMwbWAhFh7Wi3T2C0Myubu9zL87ooJjTyNKrgWzWT1mLCPcM
+ n1.6_tOIuiBydao9c24cSWDngE37Umhqb.J3BtvFEvH.JQ0O7OcDlybFq6rw
+ 54SU.dR6cMsJuaE8tvGCfAwnSmZvIFmlfEBbMVoBcdRvbFWe6IDL1CoumMNW
+ Ms4OeXsHfFzEsdApDAQ9Y1hN5qjN31oVYHgQ5qe.qk79Oz5D1k_44VqvIC26
+ HMvhQNURy_vm9Ply3XuLjMZOoMwyRqAXypgFZMtESeYGYidRwIzApr_AS4R.
+ WTgNh4PJqz5xBTi5EZyx0ZbD3Be5Mu0v9belTGgiZKz_l3kxKtIILS1vhWdY
+ LsSwu3Dlq0IgUN2_QEnz3bYsUrOZmBxDt_OlYJ8zzXcnvrB5QHGuxoopT5Nj
+ Cd0kP4knfrpFsP3_rotu23LYmN8PTD6uQGcF40BSciwx9xqQFbO3vwyOYLnO
+ Mt6t5jqn73oQty52jWoIw5Et2uYGA9nfVvlyj_HP1qs_4.tlhVOG13eRe9AA
+ RiY57oO6RpAuKJrNyrTX2eO1T_iVjyvZRzvWi1A6Gmmd3CHz3RRKpOWH63Fs
+ rL.oMNQtTgb8C8H66RTSr7bJlMAeexWpnKxE3LamAYRoLIM77GSQUyQ1RB6X
+ X3kOVk6ZgTDwpzxJ.MvNcvSEu3et8G3tclbawvSMmLuRbpR2iHyuHtdGd1ol
+ QlotpZGCLnRiPtlDgrMXKa5PbvA2iYl.0RVyVtHcoBecCmHE6smbHYReojPZ
+ 7lgpPK7k0IT44UmIWyCVoP0TZJboQhY3GXyy3tY32gY.kvRZMeJU94R5urvj
+ .PuNzTEAKx6U7Tn8I7TBa_wqxfnol6wdoWZV_LsdHgaHWFPSUfGdfdWje2xx
+ fB_xGmnfsyfPpTQeMU7Awz2y6avF32xQ775nXfJ9FCtJ7OrJA5VobNDsnqng
+ IkCkwVVwZ81yUfNoUb.IBSSBmCTiInZvOsOLstkQjHQPlNx5ZytldmxOfREr
+ mwPBfN7BI_em61YUv_r6LpTf8
+X-Received: from [108.49.34.120] by web122104.mail.ne1.yahoo.com via HTTP; Sat, 27 Apr 2013 10:34:29 PDT
+X-Rocket-MIMEInfo: 002.001,TmFtYXN0ZSBTaXIsCsKgClRoYXQgd2FzIHRoZSBkZWZpbml0aW9uIGZvciBhIHByZXZpb3VzIHl1Z2EgYW5kIG5vdCBLYWxpIHl1Z2EgYXMgcGVyIHRoZSB2ZXJzZSBJIGZvbGxvdy4KCsKgCkJlc3QgcmVnYXJkcywKTmFyYXNpbWhhCi0tLS0tLS0tCkFzdHJvbG9neSAmIFNwaXJpdHVhbGl0eSBSZXNvdXJjZXM6IGh0dHA6Ly93d3cuVmVkaWNBc3Ryb2xvZ2VyLm9yZwotLS0tLS0tLQoKwqAKCgo.X19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX18KPiBGcm9tOiAiaHJhbWFsaW5nYW1AZ21haWwuY29tIiABMAEBAQE-
+X-Mailer: YahooMailWebService/0.8.141.536
+References: <CAA3mXMGU2Y9AnwDmmMXQd4-hm+T5zuhC7iAMS90wzrFmw6otVw@...>
+  <1367082142.39461.YahooMailNeo@...> <741138904-1367083710-cardhu_decombobulator_blackberry.rim.net-1119296942-@...>
+Message-ID: <1367084069.83174.YahooMailNeo@...>
+Date: Sat, 27 Apr 2013 10:34:29 -0700 (PDT)
+To: "vedic-wisdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com>
+In-Reply-To: <741138904-1367083710-cardhu_decombobulator_blackberry.rim.net-1119296942-@...>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="-851882195-1286213879-1367084069=:83174"
+X-Originating-IP: 10.193.84.135
+X-eGroups-Msg-Info: 1:12:0:0:0
+From: "Narasimha P.V.R. Rao" <pvr108@...>
+Reply-To: "Narasimha P.V.R. Rao" <pvr108@...>
+Subject: Re: Question about nothing the birth time of a newborn
+X-Yahoo-Group-Post: member; u=77866142; y=J-Wg5CiRN8DbTWKzQeqEU9cdYfpiIPgekAczFlp0_WjZ
+X-Yahoo-Profile: pvr108
+
+
+---851882195-1286213879-1367084069=:83174
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Namaste Sir,
+=C2=A0
+That was the definition for a previous yuga and not Kal=
+i yuga as per the verse I follow.
+
+=C2=A0
+Best regards,
+Narasimha
+--------
+=
+Astrology & Spirituality Resources: http://www.VedicAstrologer.org
+--------=
+
+
+=C2=A0
+
+
+>________________________________
+> From: "hramalingam@...=
+" <hramalingam@...>
+>To: vedic-wisdom@yahoogroups.com 
+>Sent: Saturda=
+y, April 27, 2013 1:28 PM
+>Subject: Re: [vedic-wisdom] Re: Question about n=
+othing the birth time of a newborn
+> 
+>
+>
+>=C2=A0 
+>Namaste
+>As I understoo=
+d from my seniors that the moment the baby comes into contact with worldly =
+objects including human touch then that is birth time
+>H Ramalingam
+>Sent f=
+rom my BlackBerry=C2=AE on Reliance Mobile, India's No. 1 Network. Go for i=
+t!
+>________________________________
+>
+>From:  "Narasimha P.V.R. Rao" <pvr1=
+08@...> 
+>Sender:  vedic-wisdom@yahoogroups.com 
+>Date: Sat, 27 Apr 2=
+013 10:02:22 -0700 (PDT)
+>To: vedic-wisdom@yahoogroups.com<vedic-wisdom@yah=
+oogroups.com>
+>ReplyTo:  vedic-wisdom@yahoogroups.com 
+>Subject: [vedic-wis=
+dom] Re: Question about nothing the birth time of a newborn
+>
+>=C2=A0 
+>Nam=
+aste,
+>=C2=A0
+>There are different opinions. According to one classical rec=
+ommendation, there are 4 definitions for 4 yugas. The definition for Kali y=
+uga is first breath. Even in Cesarian operations, the time of first breath =
+can vary by several minutes and cannot be perfectly controlled.
+>=C2=A0
+>Pr=
+actically speaking, birthtime can never be measured or noted perfectly, We =
+always have to assume that there may be some error and correct it based on =
+what we know about the person.
+>
+>=C2=A0
+>Best regards,
+>Narasimha
+>-------=
+-
+>Astrology & Spirituality Resources: http://www.VedicAstrologer.org
+>----=
+----
+>=C2=A0
+>
+>>________________________________
+>> From: ShreeRam Shishya=
+ <shreeramshishya@...>
+>>To: vedic-wisdom@yahoogroups.com 
+>>Sent: Fr=
+iday, April 26, 2013 12:15 AM
+>>Subject: [vedic-wisdom] Question about noth=
+ing the birth time of a newborn
+>> 
+>>
+>>
+>>=C2=A0 
+>>Namaste Adarniyajan,=
+=C2=A0
+>>
+>>
+>>This topic must have been discussed before, but wanted to ma=
+ke sure. How do we note the exact birth-time of a newborn. What time is cal=
+led the exact time ? What should we note ?
+>>
+>>
+>>Thanks a lot !
+>>
+>>
+>>C=
+haitanya=C2=A0
+>>
+>>
+> 
+>
+>
+---851882195-1286213879-1367084069=:83174
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"color:#000; background-color:#fff; font-family:ar=
+ial, helvetica, sans-serif;font-size:10pt"><div><span>Namaste Sir,</span></=
+div><div style=3D"color: rgb(0, 0, 0); font-size: 13.3333px; font-family: a=
+rial,helvetica,sans-serif; background-color: transparent; font-style: norma=
+l;"><span> </span></div><div style=3D"color: rgb(0, 0, 0); font-size: =
+13.3333px; font-family: arial,helvetica,sans-serif; background-color: trans=
+parent; font-style: normal;"><span>That was the definition for a previous y=
+uga and not Kali yuga as per the verse I follow.<br></span></div><div> =
+;</div><div style=3D"color:rgb(0, 0, 0);font-size:13px;font-family:arial, h=
+elvetica, clean, sans-serif;background-color:transparent;font-style:normal;=
+">Best regards,<br>Narasimha<br>--------<br>Astrology & Spirituality Re=
+sources: <a rel=3D"nofollow" target=3D"_blank" href=3D"http://www.vedicastr=
+ologer.org/">http://www.VedicAstrologer.org</a></div><div style=3D"color:rg=
+b(0, 0,
+ 0);font-size:13px;font-family:arial, helvetica, clean, sans-serif;=
+background-color:transparent;font-style:normal;">--------<br></div><div>&nb=
+sp;<br><blockquote style=3D"border-left: 2px solid rgb(16, 16, 255); margin=
+-left: 5px; margin-top: 5px; padding-left: 5px;">  <div style=3D"font-famil=
+y: arial, helvetica, sans-serif; font-size: 10pt;"> <div style=3D"font-fami=
+ly: times new roman, new york, times, serif; font-size: 12pt;"> <div dir=3D=
+"ltr"> <hr size=3D"1">  <font face=3D"Arial" size=3D"2"> <b><span style=3D"=
+font-weight:bold;">From:</span></b> "hramalingam@..." <hramalingam=
+@...><br> <b><span style=3D"font-weight: bold;">To:</span></b> ved=
+ic-wisdom@yahoogroups.com <br> <b><span style=3D"font-weight: bold;">Sent:<=
+/span></b> Saturday, April 27, 2013 1:28 PM<br> <b><span style=3D"font-weig=
+ht: bold;">Subject:</span></b> Re: [vedic-wisdom] Re: Question about nothin=
+g the birth time of a newborn<br> </font> </div> <div class=3D"y_msg_contai=
+ner"><br><div
+ id=3D"yiv0073951425">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div>
+<span style=3D"disp=
+lay:none;"> </span>
+
+
+
+    <div id=3D"yiv0073951425ygrp-text">
+      
+=
+      
+      <div>
+
+
+
+
+
+
+
+
+
+
+
+
+Namaste<br>As I understood from my seniors t=
+hat the moment the baby comes into contact with worldly objects including h=
+uman touch then that is birth time<br>H Ramalingam</div><div>Sent from my B=
+lackBerry=C2=AE on Reliance Mobile, India's No. 1 Network. Go for it!</div>=
+<hr><div><b>From: </b> "Narasimha P.V.R. Rao" <pvr108@...>
+</di=
+v><div><b>Sender: </b> vedic-wisdom@yahoogroups.com
+</div><div><b>Date: </b=
+>Sat, 27 Apr 2013 10:02:22 -0700 (PDT)</div><div><b>To: </b>vedic-wisdom@ya=
+hoogroups.com<vedic-wisdom@yahoogroups.com></div><div><b>ReplyTo: </b=
+> vedic-wisdom@yahoogroups.com
+</div><div><b>Subject: </b>[vedic-wisdom] Re=
+: Question about nothing the birth time of a newborn</div><div><br></div>
+<=
+span> </span>
+
+
+
+    <div id=3D"yiv0073951425ygrp-text">
+      
+      =
+
+      <div style=3D"color:#000;background-color:#fff;font-family:arial, he=
+lvetica, sans-serif;font-size:10pt;"><div><span>Namaste,</span></div><div s=
+tyle=3D"color:rgb(0, 0, 0);font-size:13.3333px;font-family:arial, helvetica=
+, sans-serif;background-color:transparent;font-style:normal;"><span> <=
+/span></div><div style=3D"color:rgb(0, 0, 0);font-size:13.3333px;font-famil=
+y:arial, helvetica, sans-serif;background-color:transparent;font-style:norm=
+al;"><span>There are different opinions. According to one classical recomme=
+ndation, there are 4 definitions for 4 yugas. The definition for Kali yuga =
+is first breath. Even in Cesarian operations, the time of first breath can =
+vary by several minutes and cannot be perfectly controlled.</span></div><di=
+v style=3D"color:rgb(0, 0, 0);font-size:13.3333px;font-family:arial, helvet=
+ica, sans-serif;background-color:transparent;font-style:normal;"><span>&nbs=
+p;</span></div><div style=3D"color:rgb(0, 0,
+ 0);font-size:13.3333px;font-f=
+amily:arial, helvetica, sans-serif;background-color:transparent;font-style:=
+normal;"><span>Practically speaking, birthtime can never be measured or not=
+ed perfectly, We always have to assume that there may be some error and cor=
+rect it based on what we know about the person.<br></span></div><div> =
+</div><div style=3D"color:rgb(0, 0, 0);font-size:13px;font-family:arial, he=
+lvetica, clean, sans-serif;background-color:transparent;font-style:normal;"=
+>Best regards,<br>Narasimha<br>--------<br>Astrology & Spirituality Res=
+ources: <a rel=3D"nofollow" target=3D"_blank" href=3D"http://www.vedicastro=
+loger.org/">http://www.VedicAstrologer.org</a></div><div style=3D"color:rgb=
+(0, 0, 0);font-size:13px;font-family:arial, helvetica, clean, sans-serif;ba=
+ckground-color:transparent;font-style:normal;">--------<br> </div><div=
+><blockquote style=3D"border-left:2px solid rgb(16, 16, 255);"> 
+ <div styl=
+e=3D"font-family:arial, helvetica, sans-serif;font-size:10pt;"> <div style=
+=3D"font-family:times new roman, new york, times, serif;font-size:12pt;"> <=
+div dir=3D"ltr"> <hr size=3D"1">  <font face=3D"Arial" size=3D"2"> <b><span=
+ style=3D"font-weight:bold;">From:</span></b> ShreeRam Shishya <shreeram=
+shishya@...><br> <b><span style=3D"font-weight:bold;">To:</span></=
+b> vedic-wisdom@yahoogroups.com <br> <b><span style=3D"font-weight:bold;">S=
+ent:</span></b> Friday, April 26, 2013 12:15 AM<br> <b><span style=3D"font-=
+weight:bold;">Subject:</span></b> [vedic-wisdom] Question about nothing the=
+ birth time of a newborn<br> </font> </div> <div class=3D"yiv0073951425y_ms=
+g_container"><br><div id=3D"yiv0073951425">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div>
+<span> =
+</span>
+
+
+
+    <div id=3D"yiv0073951425ygrp-text">
+      
+      
+      <div=
+ dir=3D"ltr">Namaste Adarniyajan, <div><br></div><div>This topic must =
+have been discussed before, but wanted to make sure. How do we note the exa=
+ct birth-time of a newborn. What time is called the exact time ? What shoul=
+d we note ?</div>
+<div><br></div><div>Thanks a lot !</div><div><br></div><d=
+iv>Chaitanya </div></div>
+
+
+    </div>
+     
+
+
+
+</div>
+
+
+
+
+</div><br><=
+br></div> </div> </div> </blockquote></div>   </div>
+
+    </div>
+     
+
+   =
+ 
+
+
+
+
+
+
+
+
+
+
+    </div>
+     
+
+
+
+</div>
+
+
+
+
+
+</div><br><br></div> </div> </d=
+iv> </blockquote></div>   </div></body></html>
+---851882195-1286213879-1367084069=:83174--
+
+

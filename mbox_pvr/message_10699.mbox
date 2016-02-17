@@ -1,0 +1,390 @@
+From pvr108@...  Wed Feb 17 11:07:48 2016
+Return-Path: <pvr108@...>
+X-Sender: pvr108@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 16316 invoked by uid 102); 15 Aug 2015 17:34:38 -0000
+X-Received: from unknown (HELO mtaq3.grp.bf1.yahoo.com) (10.193.84.142)
+  by m4.grp.bf1.yahoo.com with SMTP; 15 Aug 2015 17:34:38 -0000
+X-Received: (qmail 25894 invoked from network); 15 Aug 2015 17:34:38 -0000
+X-Received: from unknown (HELO mta1006.groups.mail.bf1.yahoo.com) (98.139.245.165)
+  by mtaq3.grp.bf1.yahoo.com with SMTP; 15 Aug 2015 17:34:38 -0000
+X-Original-Return-Path: <pvr108@...>
+X-Received-SPF: pass (domain of yahoo.com designates 216.109.115.62 as permitted sender)
+X-YMailISG: 2nAciroWLDvvzm5scLp4ZRRChioBctBJDumRQMf9dr6bpJ1w
+ 7D6Mr59qlDSCIvu5yAQY6woWAFKZk7pzXlErdWQvnraZ6Nfoj43VvJMTbs1U
+ Wk8udWEuQHr_INE7nY9HYnNAedcZwlea7uWP6uP3KaUkFV_aV_EwH1D5kZnA
+ j0bxb2ztzxoWAZSOnRhkYotImb.JgDXMW4YreT03c11RfoRpk3UbNib4z8mj
+ 0lDwr4NNvsvhXJW0QUCrJOY0qQ1md7ip4t5pzuhgofTHNHvWiBrBf8I11jnZ
+ c2IQxscboTM5_6MoAbUex7_hXiVhOo_n8si37eCNPPFya1UpFhibAj4ScZ70
+ bRpf9xp5DuOSIfEuJ2yoQXEfgzOwZ7dHtN_cLzhlrxneIMFSmh3QVsxAnscP
+ Y4.dkVNRvf2wdsg3f9q4A1VwZNDh__fRLquKlgDD6tKnD0mCq8h3Z_4YaU5I
+ _L0zr6nWkRdQUBisQKgyuHP4qdyhl8VKmJwRYEtbP_f5w8WhYkF782_NEA85
+ D_iehlT2L5xT_0CIfcdUoLMuHI3nw2BEZfMTEmvgjOpONDqFqRQ0X83UStcV
+ gBz0P4QP_D1H7hgzh8UT0Dfhz13CnrkIay1WLZ8M6g1kUZrewwN1VGlnJTru
+ 9t9IeJzC.KvyU7Q.dqqp0ORhsajAlznUYHegKkMCzMiaibPptrlGxJGSa.cp
+ rGn_8NNL_xTFjpAu.5KBB_86etdXXM7nUMARbjw2K0YMo0UZ70j9bm4sOzNn
+ UVYt.OlqHXOgfwqUljXEEp_u15pDhI2IYzNVxuiaqeIXJR8aRHGa0CscTZwt
+ 7snzw4OJ54SjlqdWTtXx8eRbnTuMKyxc4XhwfVFvw.lp1TMAVnU_HYHjAc5q
+ loAHVxvv8WE28Cl35WrS8OA62bURmziYqmG3nD2TRwwBu17nhlV8nJ7f2Jz_
+ ZBQF8d0AKdaQ7Gio1OR1kIyCbKOiay1VsTsq2hACG4qhS1uJbABiqlW9C2Nm
+ AglQGCvQaxEYSiCkMxTO83K.4JLLa6XTlT0tUWLda.nGiKDb6SmmVUqAwjrU
+ XA2FDW9mvHBb5UhIHnLKiARsBXCLNorYHwCaq5Jdjql4KKbzh6h57bEGfsbQ
+ guvNPa1ka89TrQfUEjmPmJmn82qQuORpjYAXN3bxUWU.aGp1y4jvW_H2xI9c
+ vXCHHdzRGOd6D1Cq48lrc34JCk54BztgzI21DcHXCXz2lqE650.S9CzJ.7tj
+ HN0XO9l.vRsiHHam7lj93sVMghQefggJR4cbJBHm2VIaPF_sDes0RkT5ifbW
+ _.gvIuLBhqCSU2FrqjRfU_gF7zPYzki5XQUUEuwoHnfwLF4W98.KqWoJubE7
+ wRwo68IKnTcRa1TPwN4DYZdoc0qyL7yHp8KufB4nYOXXS0pAq5P46SqqqKuE
+ A0eSWs5gW8GTwpvf4o1u.YFCWSgGl_xwtU7LiEg4R1biOC0z.LXijfI7eAOv
+ eMaQb_3P_1pBHxR7AkkkhILH7Kprv62JL_mBKzGGNLRJhFNitgJDf_gcrPs_
+ g97PWifrEFHtfk0tXuFLT7hJkuYTdyWmXukk1s7iZY3eO6R74vjEyqh4
+Authentication-Results: mta1006.groups.mail.bf1.yahoo.com  from=yahoo.com; domainkeys=neutral (no sig);  from=yahoo.com; dkim=pass (ok)
+X-Received: from 127.0.0.1  (EHLO nm45-vm3.bullet.mail.bf1.yahoo.com) (216.109.115.62)
+  by mta1006.groups.mail.bf1.yahoo.com with SMTPS; Sat, 15 Aug 2015 17:34:38 +0000
+X-Received: from [98.139.170.179] by nm45.bullet.mail.bf1.yahoo.com with NNFMP; 15 Aug 2015 17:34:37 -0000
+X-Received: from [98.139.212.209] by tm22.bullet.mail.bf1.yahoo.com with NNFMP; 15 Aug 2015 17:34:37 -0000
+X-Received: from [127.0.0.1] by omp1018.mail.bf1.yahoo.com with NNFMP; 15 Aug 2015 17:34:37 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 939836.90777.bm@...
+X-YMail-OSG: 4RSX3VEVM1kT.Ey0gWMHst04aVYe0Wjat6DcHkjmaSrFaTQqFEhGJNIXuKs61tc
+ PzV.A48TMmIoMkBfegdjfVjp_2twji8QpWePPjZklPOBzhBV_RMmRmWv2eyDNeNTU57eHOl.4mgP
+ Ngbo21rMCwYMU5eGJrfpezHOfyF_p6bpKpGycfSgoMEiU4ityildC7lEmMeG.w4K433viq8zVnfi
+ ySLDOPQsMM86ct6OdFaWfOP263rERLu603co4VLpCQMe4YQ2V2yqjNad3ditl0zQD9JkSvKEdihv
+ 0y5wN3JziG224s4o0MV7yGI111Qy4pbWoP.IWnVBc4N_ZqUdIOIXPLS7NuLR2Vv.BpnRSOHxguXH
+ aECqBKeeD5MUjyT7Z3tee1F3Vb3LatVlPxlDJOIcfljowMfiRDb1_ua9t3c5b0wLU25aCv_ozCtQ
+ B_s8z7.RYSv53qHbbFE9B_i9YJ3ozLRzUFVDj7IWkaLwOiIv1gHyW1lgyJzoSEwb8qsrAEB0jnl3
+ DPABFRJH4d4UMCA--
+X-Received: by 66.196.80.115; Sat, 15 Aug 2015 17:34:37 +0000 
+Date: Sat, 15 Aug 2015 17:34:36 +0000 (UTC)
+To: Vedic Wisdom <vedic-wisdom@yahoogroups.com>
+Message-ID: <1571862674.5108376.1439660076512.JavaMail.yahoo@...>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_5108375_1200788066.1439660076501"
+Content-Length: 21562
+X-Originating-IP: 98.139.245.165
+Reply-To: "Narasimha P.V.R. Rao" <pvr108@...>
+Subject: A few recent write-ups
+X-Yahoo-Group-Post: member; u=77866142; y=kBSVNhMaeSOKn1oYUZKJP-go8XVl56stAGIktpSEX5qy
+X-Yahoo-Profile: pvr108
+From: "Narasimha P.V.R. Rao" <pvr108@...>
+
+
+------=_Part_5108375_1200788066.1439660076501
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Namaste friends,
+Here are links to a few articles I wrote on Facebook recen=
+tly. You do not need a Facebook account to click on them and read them.
+(1)=
+ I wrote bits and pieces on Kundalini here and there before, but want to ca=
+pture key points in a single writing. More at: https://www.facebook.com/pvr=
+108/posts/10153097629998284
+(2)=C2=A0I want to put Adwaita (non-dualism) an=
+d Dwaita (dualism) in perspective today, using an analogy.=C2=A0More at: ht=
+tps://www.facebook.com/pvr108/posts/10153125314863284
+(3)=C2=A0I want to sh=
+are a parable related to self-realization, heaven, religion, pseudo-wisdom,=
+ sadhana etc.=C2=A0More at: https://www.facebook.com/pvr108/posts/101530840=
+44508284
+(4)=C2=A0It has been more than a month since my father left this p=
+lane. I want to write a few words about him.=C2=A0More at:=C2=A0https://www=
+.facebook.com/pvr108/posts/10153034369158284
+(5) On curses on powerful mant=
+ras and curse relieving mantras:=C2=A0https://www.facebook.com/pvr108/posts=
+/10152840918603284
+(6)=C2=A0Someone asked in a different thread how to reco=
+gnize a "Realized Guru". I'll give my 2 cents on this.. More at: https://ww=
+w.facebook.com/pvr108/posts/10152835320878284
+(7)=C2=A0Many people mistake =
+"detachment" as aversion for the world. Aversion is a negative *attachment*=
+, i.e. NOT detachment. More at: https://www.facebook.com/pvr108/posts/10152=
+841640833284
+(8)=C2=A0Some people believe that mantras have an inherent pow=
+er and make things happen magically. Though there is some truth to it, it i=
+s not entirely accurate. More at: https://www.facebook.com/pvr108/posts/101=
+52869653213284
+(9)=C2=A0On Rishi, Chhandas, Beeja, Shakti, Keelaka & Nyasas=
+: https://www.facebook.com/pvr108/posts/10152881817373284
+(10)=C2=A0Hidden =
+Meaning of Bhrigu's story: https://www.facebook.com/pvr108/posts/1015290937=
+2803284
+(11) =C2=A0Worship of "Formless": https://www.facebook.com/pvr108/p=
+osts/10152754694328284
+(12)=C2=A0Puranic stories as external metaphors for =
+internal realities: https://www.facebook.com/pvr108/posts/10152718619253284=
+
+(13)=C2=A0Weapons of Deities in Hindu Iconography:=C2=A0https://www.facebo=
+ok.com/pvr108/posts/10152732841133284
+(14)=C2=A0Many well-intentioned peopl=
+e are doing their best to "eat healthy" and yet suffering, simply because t=
+here is much misinformation about "healthy food" out there in our pop cultu=
+re. I'll try to give some basic guidelines on healthy eating in simple ling=
+o. Link: https://www.facebook.com/pvr108/posts/10152706895713284=C2=A0(15) =
+On the very important nasal cycle and swara shastra:=C2=A0https://www.faceb=
+ook.com/pvr108/posts/10152701044368284
+(16) On the nuances of Vastu shastra=
+:=C2=A0https://www.facebook.com/pvr108/posts/10152680561718284
+(17)=C2=A0A =
+discussion between Sage Suka and King Janaka in "Devi Bhagavatam" is a clas=
+sic. When Suka did not want to marry, his father Vyasa sent him to Janaka a=
+nd Janaka dispelled the notion that marriage and children are a bondage. Li=
+nk: https://www.facebook.com/pvr108/posts/10152680807863284
+Some recent com=
+positions by me:
+(1) "Sri Nrisimha Pancharatna Stotra" composed by me recen=
+tly:=C2=A0https://www.facebook.com/pvr108/posts/10152998493413284
+(2) "Sri =
+Raghavashtakam" composed by me recently: https://www.facebook.com/pvr108/po=
+sts/10152783032443284
+A few videos:
+(1)=C2=A0A free video that logically de=
+rives the correct pronunciation of some commonly mispronounced Sanskrit sym=
+bols:. More at: https://www.facebook.com/pvr108/posts/10153038114188284
+(2)=
+ A video tour of PVR's homashala/pooja room at: https://www.facebook.com/pv=
+r108/videos/10152924164018284/
+
+(3) A video of still meditation in front of=
+ an animated fire: https://www.facebook.com/pvr108/posts/10152994855413284
+=
+Best regards,
+Narasimha
+--------
+Astrology & Spirituality Resources: http:/=
+/www.VedicAstrologer.org--------
+
+
+------=_Part_5108375_1200788066.1439660076501
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"color:#000; background-color:#fff; font-family:He=
+lveticaNeue, Helvetica Neue, Helvetica, Arial, Lucida Grande, sans-serif;fo=
+nt-size:13px"><div id=3D"yiv7052729171"><div id=3D"yui_3_16_0_1_14393841115=
+87_82810"><div style=3D"color:#000;background-color:#fff;font-family:Helvet=
+icaNeue, Helvetica Neue, Helvetica, Arial, Lucida Grande, sans-serif;font-s=
+ize:13px;" id=3D"yui_3_16_0_1_1439384111587_82809"><div id=3D"yiv7052729171=
+yui_3_16_0_1_1439384111587_21462">Namaste friends,</div><div id=3D"yiv70527=
+29171yui_3_16_0_1_1439384111587_21464"><br></div><div id=3D"yiv7052729171yu=
+i_3_16_0_1_1439384111587_21466">Here are links to a few articles I wrote on=
+ Facebook recently. You do not need a Facebook account to click on them and=
+ read them.</div><div id=3D"yiv7052729171yui_3_16_0_1_1439384111587_21468">=
+<br></div><div id=3D"yiv7052729171yui_3_16_0_1_1439384111587_21468" dir=3D"=
+ltr"><span style=3D"color:rgb(20, 24, 35);font-family:helvetica, arial, san=
+s-serif;font-size:14px;line-height:17.5636348724365px;" id=3D"yiv7052729171=
+yui_3_16_0_1_1439384111587_21508" class=3D"yiv7052729171">(1) I wrote bits =
+and pieces on Kundalini here and there before, but want to capture key poin=
+ts in a single writing. More at: </span><a rel=3D"nofollow" target=3D"_blan=
+k" href=3D"https://www.facebook.com/pvr108/posts/10153097629998284" id=3D"y=
+iv7052729171yui_3_16_0_1_1439384111587_21455" style=3D"background-color:rgb=
+(255, 255, 255);">https://www.facebook.com/pvr108/posts/10153097629998284</=
+a></div><div id=3D"yiv7052729171yui_3_16_0_1_1439384111587_21457" dir=3D"lt=
+r"><br></div><div id=3D"yiv7052729171yui_3_16_0_1_1439384111587_21457" dir=
+=3D"ltr">(2) <span style=3D"color:rgb(20, 24, 35);font-family:helvetic=
+a, arial, sans-serif;font-size:14px;line-height:17.5636348724365px;" id=3D"=
+yiv7052729171yui_3_16_0_1_1439384111587_21573" class=3D"yiv7052729171">I wa=
+nt to put Adwaita (non-dualism) and Dwaita (dualism) in perspective today, =
+using an analogy. </span>More at: <a rel=3D"nofollow" target=3D"_blank=
+" href=3D"https://www.facebook.com/pvr108/posts/10153125314863284" id=3D"yi=
+v7052729171yui_3_16_0_1_1439384111587_21550" style=3D"background-color:rgb(=
+255, 255, 255);" class=3D"yiv7052729171">https://www.facebook.com/pvr108/po=
+sts/10153125314863284</a></div><div id=3D"yiv7052729171yui_3_16_0_1_1439384=
+111587_21457" dir=3D"ltr"><br></div><div id=3D"yiv7052729171yui_3_16_0_1_14=
+39384111587_21457" dir=3D"ltr">(3) <span style=3D"color:rgb(20, 24, 35=
+);font-family:helvetica, arial, sans-serif;font-size:14px;line-height:17.56=
+36348724365px;" id=3D"yiv7052729171yui_3_16_0_1_1439384111587_21659" class=
+=3D"yiv7052729171">I want to share a parable related to self-realization, h=
+eaven, religion, pseudo-wisdom, sadhana etc.</span> More at: <a rel=3D=
+"nofollow" target=3D"_blank" href=3D"https://www.facebook.com/pvr108/posts/=
+10153084044508284" id=3D"yiv7052729171yui_3_16_0_1_1439384111587_21649" sty=
+le=3D"background-color:rgb(255, 255, 255);" class=3D"yiv7052729171">https:/=
+/www.facebook.com/pvr108/posts/10153084044508284</a></div><div id=3D"yiv705=
+2729171yui_3_16_0_1_1439384111587_21457" dir=3D"ltr"><br></div><div id=3D"y=
+iv7052729171yui_3_16_0_1_1439384111587_21457" dir=3D"ltr" class=3D"yiv70527=
+29171">(4) <span id=3D"yiv7052729171yui_3_16_0_1_1439384111587_21820" =
+class=3D"yiv7052729171" style=3D"color:rgb(20, 24, 35);font-family:helvetic=
+a, arial, sans-serif;font-size:14px;line-height:17.5636348724365px;">It has=
+ been more than a month since my father left this plane. I want to write a =
+few words about him.</span> More at: <a rel=3D"nofollow" target=
+=3D"_blank" href=3D"https://www.facebook.com/pvr108/posts/10153034369158284=
+" id=3D"yiv7052729171yui_3_16_0_1_1439384111587_21785" class=3D"yiv70527291=
+71" style=3D"background-color:rgb(255, 255, 255);">https://www.facebook.com=
+/pvr108/posts/10153034369158284</a></div><div id=3D"yiv7052729171yui_3_16_0=
+_1_1439384111587_21457" dir=3D"ltr" class=3D"yiv7052729171"><br></div><div =
+id=3D"yiv7052729171yui_3_16_0_1_1439384111587_21457" dir=3D"ltr" class=3D"y=
+iv7052729171">(5) On curses on powerful mantras and curse relieving mantras=
+: <a rel=3D"nofollow" target=3D"_blank" href=3D"https://www.facebook.c=
+om/pvr108/posts/10152840918603284" id=3D"yiv7052729171yui_3_16_0_1_14393841=
+11587_22121">https://www.facebook.com/pvr108/posts/10152840918603284</a></d=
+iv><div id=3D"yiv7052729171yui_3_16_0_1_1439384111587_21457" dir=3D"ltr" cl=
+ass=3D"yiv7052729171"><br></div><div id=3D"yiv7052729171yui_3_16_0_1_143938=
+4111587_21457" dir=3D"ltr" class=3D"yiv7052729171">(6) <span style=3D"=
+color:rgb(20, 24, 35);font-family:helvetica, arial, sans-serif;font-size:14=
+px;line-height:17.5636348724365px;" id=3D"yiv7052729171yui_3_16_0_1_1439384=
+111587_22216" class=3D"yiv7052729171">Someone asked in a different thread h=
+ow to recognize a "Realized Guru". I'll give my 2 cents on this.</span>. Mo=
+re at: <a rel=3D"nofollow" target=3D"_blank" href=3D"https://www.facebook.c=
+om/pvr108/posts/10152835320878284" id=3D"yiv7052729171yui_3_16_0_1_14393841=
+11587_22184" style=3D"background-color:rgb(255, 255, 255);" class=3D"yiv705=
+2729171">https://www.facebook.com/pvr108/posts/10152835320878284</a></div><=
+div id=3D"yiv7052729171yui_3_16_0_1_1439384111587_21457" dir=3D"ltr" class=
+=3D"yiv7052729171"><br></div><div id=3D"yiv7052729171yui_3_16_0_1_143938411=
+1587_21457" dir=3D"ltr" class=3D"yiv7052729171">(7) <span style=3D"col=
+or:rgb(20, 24, 35);font-family:helvetica, arial, sans-serif;font-size:14px;=
+line-height:17.5636348724365px;" id=3D"yiv7052729171yui_3_16_0_1_1439384111=
+587_22265" class=3D"yiv7052729171">Many people mistake "detachment" as aver=
+sion for the world. Aversion is a negative *attachment*, i.e. NOT detachmen=
+t. More at: <a rel=3D"nofollow" target=3D"_blank" href=3D"https://www.faceb=
+ook.com/pvr108/posts/10152841640833284" id=3D"yiv7052729171yui_3_16_0_1_143=
+9384111587_22286">https://www.facebook.com/pvr108/posts/10152841640833284</=
+a></span></div><div id=3D"yiv7052729171yui_3_16_0_1_1439384111587_21457" di=
+r=3D"ltr" class=3D"yiv7052729171"><br></div><div id=3D"yiv7052729171yui_3_1=
+6_0_1_1439384111587_21457" dir=3D"ltr" class=3D"yiv7052729171">(8) <sp=
+an style=3D"color:rgb(20, 24, 35);font-family:helvetica, arial, sans-serif;=
+font-size:14px;line-height:17.5636348724365px;" id=3D"yiv7052729171yui_3_16=
+_0_1_1439384111587_22366" class=3D"yiv7052729171">Some people believe that =
+mantras have an inherent power and make things happen magically. Though the=
+re is some truth to it, it is not entirely accurate. More at: <a rel=3D"nof=
+ollow" target=3D"_blank" href=3D"https://www.facebook.com/pvr108/posts/1015=
+2869653213284" id=3D"yiv7052729171yui_3_16_0_1_1439384111587_22373">https:/=
+/www.facebook.com/pvr108/posts/10152869653213284</a></span></div><div id=3D=
+"yiv7052729171yui_3_16_0_1_1439384111587_21457" dir=3D"ltr" class=3D"yiv705=
+2729171"><br></div><div id=3D"yiv7052729171yui_3_16_0_1_1439384111587_21457=
+" dir=3D"ltr" class=3D"yiv7052729171">(9) <span style=3D"color:rgb(20,=
+ 24, 35);font-family:helvetica, arial, sans-serif;font-size:14px;line-heigh=
+t:17.5636348724365px;" id=3D"yiv7052729171yui_3_16_0_1_1439384111587_22454"=
+ class=3D"yiv7052729171">On Rishi, Chhandas, Beeja, Shakti, Keelaka & N=
+yasas: <a rel=3D"nofollow" target=3D"_blank" href=3D"https://www.facebook.c=
+om/pvr108/posts/10152881817373284" id=3D"yiv7052729171yui_3_16_0_1_14393841=
+11587_22785">https://www.facebook.com/pvr108/posts/10152881817373284</a></s=
+pan></div><div id=3D"yiv7052729171yui_3_16_0_1_1439384111587_21457" dir=3D"=
+ltr" class=3D"yiv7052729171"><span style=3D"color:rgb(20, 24, 35);font-fami=
+ly:helvetica, arial, sans-serif;font-size:14px;line-height:17.5636348724365=
+px;" class=3D"yiv7052729171"><br></span></div><div id=3D"yiv7052729171yui_3=
+_16_0_1_1439384111587_21457" dir=3D"ltr" class=3D"yiv7052729171"><span styl=
+e=3D"color:rgb(20, 24, 35);font-family:helvetica, arial, sans-serif;font-si=
+ze:14px;line-height:17.5636348724365px;" class=3D"yiv7052729171" id=3D"yiv7=
+052729171yui_3_16_0_1_1439384111587_22814">(10) </span><span style=3D"=
+color:rgb(20, 24, 35);font-family:helvetica, arial, sans-serif;font-size:14=
+px;line-height:17.5636348724365px;" id=3D"yiv7052729171yui_3_16_0_1_1439384=
+111587_22886" class=3D"yiv7052729171">Hidden Meaning of Bhrigu's story</spa=
+n><span style=3D"color:rgb(20, 24, 35);font-family:helvetica, arial, sans-s=
+erif;font-size:14px;line-height:17.5636348724365px;" id=3D"yiv7052729171yui=
+_3_16_0_1_1439384111587_22888" class=3D"yiv7052729171">: </span><a rel=3D"n=
+ofollow" target=3D"_blank" href=3D"https://www.facebook.com/pvr108/posts/10=
+152881817373284" id=3D"yiv7052729171yui_3_16_0_1_1439384111587_22459" style=
+=3D"font-family:helvetica, arial, sans-serif;font-size:14px;line-height:17.=
+5636348724365px;background-color:rgb(255, 255, 255);" class=3D"yiv705272917=
+1">https://www.facebook.com/pvr108/posts/10152909372803284</a></div><div id=
+=3D"yiv7052729171yui_3_16_0_1_1439384111587_21457" dir=3D"ltr" class=3D"yiv=
+7052729171"><br></div><div id=3D"yiv7052729171yui_3_16_0_1_1439384111587_21=
+457" dir=3D"ltr" class=3D"yiv7052729171">(11)  Worship of "Formless": =
+<a href=3D"https://www.facebook.com/pvr108/posts/10152754694328284" id=3D"y=
+ui_3_16_0_1_1439384111587_83028">https://www.facebook.com/pvr108/posts/1015=
+2754694328284</a></div><div id=3D"yiv7052729171yui_3_16_0_1_1439384111587_2=
+1457" dir=3D"ltr" class=3D"yiv7052729171"><br></div><div id=3D"yiv705272917=
+1yui_3_16_0_1_1439384111587_21457" dir=3D"ltr" class=3D"yiv7052729171">(12)=
+ <span style=3D"color: rgb(20, 24, 35); font-family: helvetica, arial,=
+ sans-serif; font-size: 14px; line-height: 17.5636348724365px;" id=3D"yui_3=
+_16_0_1_1439384111587_83162" class=3D"">Puranic stories as external metapho=
+rs for internal realities: <a href=3D"https://www.facebook.com/pvr108/posts=
+/10152718619253284" id=3D"yui_3_16_0_1_1439384111587_83170">https://www.fac=
+ebook.com/pvr108/posts/10152718619253284</a></span></div><div id=3D"yiv7052=
+729171yui_3_16_0_1_1439384111587_21457" dir=3D"ltr" class=3D"yiv7052729171"=
+><br></div><div id=3D"yiv7052729171yui_3_16_0_1_1439384111587_21457" dir=3D=
+"ltr" class=3D"yiv7052729171">(13) <span style=3D"color: rgb(20, 24, 3=
+5); font-family: helvetica, arial, sans-serif; font-size: 14px; line-height=
+: 17.5636348724365px;" id=3D"yui_3_16_0_1_1439384111587_83254" class=3D"">W=
+eapons of Deities in Hindu Iconography: <a href=3D"https://www.faceboo=
+k.com/pvr108/posts/10152732841133284" id=3D"yui_3_16_0_1_1439384111587_8330=
+7">https://www.facebook.com/pvr108/posts/10152732841133284</a></span></div>=
+<div id=3D"yiv7052729171yui_3_16_0_1_1439384111587_21457" dir=3D"ltr" class=
+=3D"yiv7052729171"><br></div><div id=3D"yiv7052729171yui_3_16_0_1_143938411=
+1587_21457" dir=3D"ltr" class=3D"yiv7052729171">(14) <span style=3D"co=
+lor: rgb(20, 24, 35); font-family: helvetica, arial, sans-serif; font-size:=
+ 14px; line-height: 17.5636348724365px;" id=3D"yui_3_16_0_1_1439384111587_8=
+3688" class=3D"">Many well-intentioned people are doing their best to "eat =
+healthy" and yet suffering, simply because there is much misinformation abo=
+ut "healthy food" out there in our pop culture. I'll try to give some basic=
+ guidelines on healthy eating in simple lingo. Link: <a href=3D"https://www=
+.facebook.com/pvr108/posts/10152706895713284" id=3D"yui_3_16_0_1_1439384111=
+587_83741">https://www.facebook.com/pvr108/posts/10152706895713284</a></spa=
+n></div><div id=3D"yiv7052729171yui_3_16_0_1_1439384111587_21457" dir=3D"lt=
+r" class=3D"yiv7052729171"> </div><div id=3D"yiv7052729171yui_3_16_0_1=
+_1439384111587_21457" dir=3D"ltr" class=3D"yiv7052729171">(15) On the very =
+important nasal cycle and swara shastra: <a href=3D"https://www.facebo=
+ok.com/pvr108/posts/10152701044368284" id=3D"yui_3_16_0_1_1439384111587_839=
+22">https://www.facebook.com/pvr108/posts/10152701044368284</a></div><div i=
+d=3D"yiv7052729171yui_3_16_0_1_1439384111587_21457" dir=3D"ltr" class=3D"yi=
+v7052729171"><br></div><div id=3D"yiv7052729171yui_3_16_0_1_1439384111587_2=
+1457" dir=3D"ltr" class=3D"yiv7052729171">(16) On the nuances of Vastu shas=
+tra: <a href=3D"https://www.facebook.com/pvr108/posts/1015268056171828=
+4" id=3D"yui_3_16_0_1_1439384111587_84056">https://www.facebook.com/pvr108/=
+posts/10152680561718284</a></div><div id=3D"yiv7052729171yui_3_16_0_1_14393=
+84111587_21457" dir=3D"ltr" class=3D"yiv7052729171"><br></div><div id=3D"yi=
+v7052729171yui_3_16_0_1_1439384111587_21457" dir=3D"ltr" class=3D"yiv705272=
+9171">(17) <span style=3D"color: rgb(20, 24, 35); font-family: helveti=
+ca, arial, sans-serif; font-size: 14px; line-height: 17.5636348724365px;" i=
+d=3D"yui_3_16_0_1_1439384111587_84164" class=3D"">A discussion between Sage=
+ Suka and King Janaka in "Devi Bhagavatam" is a classic. When Suka did not =
+want to marry, his father Vyasa sent him to Janaka and Janaka dispelled the=
+ notion that marriage and children are a bondage. Link: <a href=3D"https://=
+www.facebook.com/pvr108/posts/10152680807863284" id=3D"yui_3_16_0_1_1439384=
+111587_84220">https://www.facebook.com/pvr108/posts/10152680807863284</a></=
+span></div><div id=3D"yiv7052729171yui_3_16_0_1_1439384111587_21457" dir=3D=
+"ltr" class=3D"yiv7052729171"><br></div><div id=3D"yiv7052729171yui_3_16_0_=
+1_1439384111587_21457" dir=3D"ltr" class=3D"yiv7052729171">Some recent comp=
+ositions by me:</div><div id=3D"yiv7052729171yui_3_16_0_1_1439384111587_214=
+57" dir=3D"ltr" class=3D"yiv7052729171"><br></div><div id=3D"yiv7052729171y=
+ui_3_16_0_1_1439384111587_21457" dir=3D"ltr" class=3D"yiv7052729171">(1) "S=
+ri Nrisimha Pancharatna Stotra" composed by me recently: <a rel=3D"nof=
+ollow" target=3D"_blank" href=3D"https://www.facebook.com/pvr108/posts/1015=
+2998493413284" id=3D"yiv7052729171yui_3_16_0_1_1439384111587_23160">https:/=
+/www.facebook.com/pvr108/posts/10152998493413284</a></div><div id=3D"yiv705=
+2729171yui_3_16_0_1_1439384111587_21457" dir=3D"ltr" class=3D"yiv7052729171=
+"><br></div><div id=3D"yiv7052729171yui_3_16_0_1_1439384111587_21457" dir=
+=3D"ltr" class=3D"yiv7052729171">(2) "Sri Raghavashtakam" composed by me re=
+cently: <a rel=3D"nofollow" target=3D"_blank" href=3D"https://www.facebook.=
+com/pvr108/posts/10152783032443284" id=3D"yiv7052729171yui_3_16_0_1_1439384=
+111587_23068">https://www.facebook.com/pvr108/posts/10152783032443284</a></=
+div><div id=3D"yiv7052729171yui_3_16_0_1_1439384111587_21457" dir=3D"ltr" c=
+lass=3D"yiv7052729171"><br></div><div id=3D"yiv7052729171yui_3_16_0_1_14393=
+84111587_21457" dir=3D"ltr">A few videos:</div><div id=3D"yiv7052729171yui_=
+3_16_0_1_1439384111587_21457" dir=3D"ltr"><br></div><div id=3D"yiv705272917=
+1yui_3_16_0_1_1439384111587_21457" dir=3D"ltr">(1) <span style=3D"colo=
+r:rgb(20, 24, 35);font-family:helvetica, arial, sans-serif;font-size:14px;l=
+ine-height:17.5636348724365px;" id=3D"yiv7052729171yui_3_16_0_1_14393841115=
+87_21727" class=3D"yiv7052729171">A free video that logically derives the c=
+orrect pronunciation of some commonly mispronounced Sanskrit symbols:</span=
+>. More at: <a rel=3D"nofollow" target=3D"_blank" href=3D"https://www.faceb=
+ook.com/pvr108/posts/10153038114188284" id=3D"yiv7052729171yui_3_16_0_1_143=
+9384111587_21701" style=3D"background-color:rgb(255, 255, 255);" class=3D"y=
+iv7052729171">https://www.facebook.com/pvr108/posts/10153038114188284</a></=
+div><div id=3D"yiv7052729171yui_3_16_0_1_1439384111587_21457" dir=3D"ltr"><=
+br></div><div id=3D"yiv7052729171yui_3_16_0_1_1439384111587_21457" dir=3D"l=
+tr">(2) A video tour of PVR's homashala/pooja room at: <a rel=3D"nofollow" =
+target=3D"_blank" href=3D"https://www.facebook.com/pvr108/videos/1015292416=
+4018284/" id=3D"yiv7052729171yui_3_16_0_1_1439384111587_21884" style=3D"bac=
+kground-color:rgb(255, 255, 255);">https://www.facebook.com/pvr108/videos/1=
+0152924164018284/</a><br></div><div id=3D"yiv7052729171yui_3_16_0_1_1439384=
+111587_21457" dir=3D"ltr"><br></div><div id=3D"yiv7052729171yui_3_16_0_1_14=
+39384111587_21457" dir=3D"ltr">(3) A video of still meditation in front of =
+an animated fire: <a rel=3D"nofollow" target=3D"_blank" href=3D"https://www=
+.facebook.com/pvr108/posts/10152994855413284" id=3D"yiv7052729171yui_3_16_0=
+_1_1439384111587_21981">https://www.facebook.com/pvr108/posts/1015299485541=
+3284</a></div><div></div><div id=3D"yiv7052729171yui_3_16_0_1_1439384111587=
+_21470"><br></div><div class=3D"yiv7052729171signature" id=3D"yiv7052729171=
+yui_3_16_0_1_1439384111587_21473"><div style=3D"color:rgb(0, 0, 0);font-siz=
+e:13px;font-family:arial, helvetica, clean, sans-serif;background-color:tra=
+nsparent;font-style:normal;" id=3D"yiv7052729171yui_3_16_0_1_1439384111587_=
+21472">Best regards,<br>Narasimha<br>--------<br>Astrology & Spirituali=
+ty Resources: <a rel=3D"nofollow" target=3D"_blank" href=3D"http://www.vedi=
+castrologer.org/" id=3D"yiv7052729171yui_3_16_0_1_1439384111587_21548">http=
+://www.VedicAstrologer.org</a></div><div style=3D"color:rgb(0, 0, 0);font-s=
+ize:13px;font-family:arial, helvetica, clean, sans-serif;background-color:t=
+ransparent;font-style:normal;" id=3D"yiv7052729171yui_3_16_0_1_143938411158=
+7_21546">--------<br><br></div></div></div></div></div></div></body></html>
+------=_Part_5108375_1200788066.1439660076501--
+
+

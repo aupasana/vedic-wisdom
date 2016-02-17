@@ -1,0 +1,628 @@
+From pvr108@...  Wed Feb 17 11:10:48 2016
+Return-Path: <pvr108@...>
+X-Sender: pvr108@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 57117 invoked by uid 102); 8 Dec 2013 18:23:38 -0000
+X-Received: from unknown (HELO mtaq1.grp.bf1.yahoo.com) (10.193.84.32)
+  by m12.grp.bf1.yahoo.com with SMTP; 8 Dec 2013 18:23:38 -0000
+X-Received: (qmail 7910 invoked from network); 8 Dec 2013 18:23:38 -0000
+X-Received: from unknown (HELO nm22-vm3.bullet.mail.ne1.yahoo.com) (98.138.91.152)
+  by mtaq1.grp.bf1.yahoo.com with SMTP; 8 Dec 2013 18:23:38 -0000
+X-Received: from [98.138.101.130] by nm22.bullet.mail.ne1.yahoo.com with NNFMP; 08 Dec 2013 18:23:38 -0000
+X-Received: from [98.138.89.199] by tm18.bullet.mail.ne1.yahoo.com with NNFMP; 08 Dec 2013 18:23:38 -0000
+X-Received: from [127.0.0.1] by omp1057.mail.ne1.yahoo.com with NNFMP; 08 Dec 2013 18:23:38 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 348609.41073.bm@...
+X-Received: (qmail 23334 invoked by uid 60001); 8 Dec 2013 18:23:38 -0000
+X-YMail-OSG: cJ4SnNMVM1npn8Hs46XHg1P3VywNPQg0k44VB9nbipdDhNO
+ MiYwfje1vlKnuT__u4oagFO9j6IVyb5ibJscXuvkYHYL6mm5AmdIU5YPJynI
+ Q3qcXsXl1OMeUfnn1vlHbn2sFWbUAfKkLnIYLiKUoeF4JvDz8eC3yZInVpF6
+ jdmJbyuIDzB_qv3vkSJQM2.zndt0bXD3l6gpJ09BI9fixJCBPeu4bS4XFNfO
+ zVhuWeTcDSmhZjpunjmdNcqoLwuQlHYVL40uKuzXchRnPt7v.0LL1bB.g1AC
+ i7okH8sZzt6V3n_9VTYoNzFIEXmFOH6yfDsp7oUE28TpMaKdeJLRmc6Sv3lJ
+ lbvtEMQuTXN8LZ3uG0eoaS83pTouSTnSk81HQHFqt6gwHAj4Ct0TeOCie_6W
+ cYu9LLBMopK7WUN.DxIlZ4lONo5jHmXuE3SulfQ4haSf4rPeTy7yiND8G01P
+ 7vbeYPoXKC_XPEkrmArH0TkWAKJufGhWQRrPcJ60JhoFzPkK3rtz6GhNubvx
+ ceWGZaOtELTwGJNWNMzSS5j7PdnlsBp3o91FN6b2CccuIFYU6L4CUWXRMSmT
+ poS8AOo1vDNk_3F.IiIWecXrFnmmE1Vy.c.e_jBz7hHkChwMPe3KMJF3pvOU
+ URD9hxjow9yjxxO6weUVty2WVopgJeYFYVc3GFE7pRLITe9D.eiqOlC3cQE2
+ jpN6NRTxNPdlwMrJISseh2rkf0LTqx8p46Qoz0VotVFHBtlsw052mxzpH.aC
+ cupYf4k3D6lkHFiwbzDl48dKTbv5iLz.Z410AF1yI6hCR60qH6zeXMVHIIn2
+ nDee1hvK.XCsQBbX3ksTM6lwd41IlYVM4OM0WIcHlZ1jV_jRjrrD.d8NZltS
+ eyu3JIiCiIScSrftSyBMPBsVycKoGzcyr.PKlWkLruW539DPi65bKIRX5F7g
+ Ev4R0MGUGraEinCsx85_5QQN4_YwbNHNCZQsh8_42rYHg2jKZHxOsU2WlHpA
+ OZrCsrneCu_B3Bgpjcyutv.0M0CgmTmNkCMY1i08Ru9V4G1DvVzGl5Gfpkdt
+ 8dY2P9fwGgxGDzg4mpJGo8AtllnpD7zLbYjkWmd0b_uyP3PuY_fy_14eyCBS
+ iFKPVlU4KNUbHFtKdnKBIQ_yAF.QDYqsMHkEabAJhyi2QwH9.XAQmjR_P1f5
+ 3Sjp1eFIC.I4QTZ0WNNbZuAgit0uLYCSLLKa07v0odixsmCdEb_pTdSA4XYg
+ OEpso4YlRXua6.92HP.Dp.cAPjzfLsbxJKefpVg9fvBOATFvzf.8GA79Nffv
+ wqTanOvINsZ7PUQDC8IHfsSVkjB0XYtRt.9Qds_EXKykSMpPC9sIYKjCmhIp
+ Kxj5bI_saElWd_ZStqSdNv1_Jtl3dQF8ftITIgZiLDaTIP_bHAQXT.esZpZb
+ DZIEn9gLu2EY_NMZ6gmtfMDrP4tLKamj_G.b0MHG40MDqJQ4E9CbASnuAIVG
+ X.BpEIjjU6_OTN1FzsN3BhVRo4Cimpb9VIgteqwcA.0PiRVwaWF36IgSpuZF
+ AkY2c45pIzAUsdO9CTbJiIa2co4q1y9cQLtxZRB2nOt36IAtGljwS.a08vYh
+ QLqpPDW.gK6xg3Pj2m0PTZZAoY31zSUmfIeKPW_SukQIEt4woPIEJkVVSk4W
+ nxwiQtWpOVFgABPzKdcbkeb12_ekvXA_rgbfGOgqwsrcDlBzWjqmM8t70nin
+ BWErE7rXvywLzpfAZNmfrcIscW1VX5ZZBcG3UdJOYsKsoNQmHd4_fBOoMQke
+ BggnrXEKa5XSt034epzah9UmpdT4l7ue7jvmaEfapLRcVjK.ne4tbJcI9TZF
+ RCoRjmYbwBpCBi8lVa6dvmPKAl1ATsd840lFEERJG7LGUy2PTUwViXRI2fHc
+ a.vmoTREH9M50JPRJ6EpWI63_mCTDAfJCtzv.Zwv.RyHKL.HEER.dVwfUvC0
+ x6z8ptff93fgdJ83nI5LmEOZEvsA53Y2.SFvvqpsPBBZHRoaL_5zPWPPTh8T
+ AO0o8RducfaQQy6BZTrYLBuSHvxIwvfA0iv7WSVzUwXUzaiV3n1TAcFv_24W
+ hv.4BD5C4XpApN1azq_dZs5Gq3PMhTO6stXNJI42C_iwYQHVTbej8PPY9LNa
+ wfDWzknpN.aTpdUBdGZcbNxot9WZi90YGq9ltXKpMhXCTaKsb3QcKkGTzqPo
+ Ya4izqcWtrc31Rtgxg1OWnWysNrMqJyftGCEcGQr29dOtecfxDe2oVQLZ3yA
+ -
+X-Received: from [108.7.56.42] by web122103.mail.ne1.yahoo.com via HTTP; Sun, 08 Dec 2013 10:23:38 PST
+X-Rocket-MIMEInfo: 002.001,TmFtYXN0ZSBTaXIsCsKgClllcywgdGhpcyBpcyB0aGUgd2Vic2l0ZSBJIHdhcyBkaXNjdXNzaW5nLgoKwqAKWW91IGNhbiBpbnZva2UgdmFyaW91cyBiZWluZ3MgaW4gRmlyZSBhbmQgcmVjYWxsIHRoZW0gZnJvbSBGaXJlIGFzIHlvdSBtYXkgd2FudCwgYnV0IEZpcmUgaXRzZWxmIGlzIGEgbGl2aW5nIGVudGl0eSBvbmNlIHlvdSBzdGFydCBpdCBhbmQgeW91IGhhdmUgbm8gY29udHJvbCBvdmVyIEhpbS4gSGUgc2hvdWxkIHdpdGhkcmF3IGJ5IGhpbXNlbGYgYmFzZWQgb24gaGlzIHdpbGwuIEl0IGlzIGEgdGUBMAEBAQE-
+X-Mailer: YahooMailWebService/0.8.169.609
+References: <l8166m+1t53n0@...>	<1386523677.36945.YahooMailNeo@...> <l82bsl+17pjfju@...>
+Message-ID: <1386527018.79525.YahooMailNeo@...>
+Date: Sun, 8 Dec 2013 10:23:38 -0800 (PST)
+To: "vedic-wisdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com>
+In-Reply-To: <l82bsl+17pjfju@...>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="1287737115-258866393-1386527018=:79525"
+X-Originating-IP: 10.193.84.32
+X-eGroups-Msg-Info: 1:12:0:0:0
+From: "Narasimha P.V.R. Rao" <pvr108@...>
+Reply-To: "Narasimha P.V.R. Rao" <pvr108@...>
+Subject: Re: Smoke after poornahuti - should I pour milk
+X-Yahoo-Group-Post: member; u=77866142; y=2ycU5uCZi7yIoYvaMhoZlTRx857SP0cRtHi53PMBBFHc
+X-Yahoo-Profile: pvr108
+
+
+--1287737115-258866393-1386527018=:79525
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Namaste Sir,
+=C2=A0
+Yes, this is the website I was discussing.
+
+=C2=A0
+You =
+can invoke various beings in Fire and recall them from Fire as you may want=
+, but Fire itself is a living entity once you start it and you have no cont=
+rol over Him. He should withdraw by himself based on his will. It is a terr=
+ible idea to "remove life" from Him by whatever means.
+=C2=A0
+As explained =
+below, if you are under time pressure, plan things such that fire goes off =
+by itself by the required time. But don't extinguish fire.
+=C2=A0
+*=C2=A0=
+=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0 *=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=
+=C2=A0 *
+=C2=A0
+If you call me to your house for lunch and are under time p=
+ressure, don't serve me too much food. I will be on my way out when I am do=
+ne with what you serve me. If you serve me a lot of food and kick me out in=
+ the middle of eating, that is not a smart idea. Even if you say something =
+polite (i.e. "visarjan mudra") before kicking me out, it is still a bad ide=
+a. Instead of serving me so much food and getting me all excited, and then =
+forcibly kicking me out before I am done, please serve me a smaller amount =
+and let me eat in peace and leave by myself!
+=C2=A0
+*=C2=A0=C2=A0=C2=A0=C2=
+=A0=C2=A0=C2=A0=C2=A0 *=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0 *
+=C2=A0
+=
+Fire is a living god on earth. Especially when you use Him for worshipping =
+various deities, please be grateful to Him and respect his sanctity.
+=C2=A0=
+
+My strong view matches Manish's view, Svoboda ji's view and Vimalananda ji=
+'s view in this matter.
+
+=C2=A0
+Best regards,
+Narasimha
+--------
+Astrology =
+& Spirituality Resources: http://www.VedicAstrologer.org
+--------
+
+=C2=A0
+
+=
+
+>________________________________
+> From: "aks_day@..." <aks_day@yah=
+oo.com>
+>To: vedic-wisdom@yahoogroups.com 
+>Sent: Sunday, December 8, 2013 =
+12:56 PM
+>Subject: [vedic-wisdom] Re: Smoke after poornahuti - should I pou=
+r milk
+> 
+>
+>
+>=C2=A0 
+>Hi PVR ji, 
+>
+>
+>
+>Thanks for the explanations for =
+all. 
+>
+>
+>
+>I read the milk explanation part on 
+>http://www.shreemaa.org/=
+homa-practice/
+>
+>Seems before pouring milk, swamiji is saying to do visarj=
+an mudra to remove life from fire first. 
+>Is it fine to do this ? Please g=
+uide...
+>
+>text follows
+>=3D=3D=3D=3D=3D=3D=3D=3D=3D
+>
+>
+>Homa Purnahuti
+>Q=
+uestion:
+>When it comes to the end of the fire sacrifice do we just let the=
+ flames go 
+out by themselves or can we extinguish them ourselves?
+>Swamiji=
+ Says:
+>We extinguish the fire during the Purnahuti. Pour milk over the bur=
+ning coals.
+>
+>Question:
+>What is the correct way to perform homa purnahuti=
+?
+>Swamiji Says:
+>Perform one mala of Shiva=E2=80=99s mantra, then 
+purnahu=
+ti mantras, then Visarjana mantras, with Visarjana mudra in order to remove=
+ life from the fire. Then you can put out the fire.
+>
+>Question:
+>What is t=
+he significance of pouring milk to put out the fire, and how much of it sho=
+uld we pour over the fire?
+>Swamiji Says:
+>We use one glass of milk. Milk s=
+tands for the ocean of consciousness =E2=80=93 pure, white, the absence of =
+all colors, 
+attitudes. After the fire has purified all impurities, it is 
+=
+extinguished with pure consciousness.
+>
+>
+>
+>
+>
+>
+>
+--1287737115-258866393-1386527018=:79525
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"color:#000; background-color:#fff; font-family:ar=
+ial, helvetica, sans-serif;font-size:12pt">Namaste Sir,<div><span> </s=
+pan></div><div style=3D"color: rgb(0, 0, 0); font-size: 16px; font-family: =
+arial,helvetica,sans-serif; background-color: transparent; font-style: norm=
+al;"><span>Yes, this is the website I was discussing.<br></span></div><div =
+style=3D"color: rgb(0, 0, 0); font-size: 16px; font-family: arial,helvetica=
+,sans-serif; background-color: transparent; font-style: normal;"><span>&nbs=
+p;</span></div><div style=3D"color: rgb(0, 0, 0); font-size: 16px; font-fam=
+ily: arial,helvetica,sans-serif; background-color: transparent; font-style:=
+ normal;"><span>You can invoke various beings in Fire and recall them from =
+Fire as you may want, but Fire itself is a living entity once you start it =
+and you have no control over Him. He should withdraw by himself based on hi=
+s will. It is a terrible idea to "remove life" from Him by whatever
+ means.=
+</span></div><div style=3D"color: rgb(0, 0, 0); font-size: 16px; font-famil=
+y: arial,helvetica,sans-serif; background-color: transparent; font-style: n=
+ormal;"><span> </span></div><div style=3D"color: rgb(0, 0, 0); font-si=
+ze: 16px; font-family: arial,helvetica,sans-serif; background-color: transp=
+arent; font-style: normal;"><span>As explained below, if you are under time=
+ pressure, plan things such that fire goes off by itself by the required ti=
+me. But don't extinguish fire.</span></div><div style=3D"color: rgb(0, 0, 0=
+); font-size: 16px; font-family: arial,helvetica,sans-serif; background-col=
+or: transparent; font-style: normal;"><span> </span></div><div style=
+=3D"color: rgb(0, 0, 0); font-size: 16px; font-family: arial,helvetica,sans=
+-serif; background-color: transparent; font-style: normal;"><span>*</span><=
+span>        *</span><span>  &=
+nbsp;     *</span></div><div style=3D"color: rgb(0,
+ 0,=
+ 0); font-size: 16px; font-family: arial,helvetica,sans-serif; background-c=
+olor: transparent; font-style: normal;"><span> </span></div><div style=
+=3D"color: rgb(0, 0, 0); font-size: 16px; font-family: arial,helvetica,sans=
+-serif; background-color: transparent; font-style: normal;"><span>If you ca=
+ll me to your house for lunch and are under time pressure, don't serve me t=
+oo much food. I will be on my way out when I am done with what you serve me=
+. If you serve me a lot of food and kick me out in the middle of eating, th=
+at is not a smart idea. Even if you say something polite (i.e. "visarjan mu=
+dra") before kicking me out, it is still a bad idea. Instead of serving me =
+so much food and getting me all excited, and then forcibly kicking me out b=
+efore I am done, please serve me a smaller amount and let me eat in peace a=
+nd leave by myself!</span></div><div style=3D"color: rgb(0, 0, 0); font-siz=
+e: 16px; font-family: arial,helvetica,sans-serif; background-color:
+ transp=
+arent; font-style: normal;"><span> </span></div><div style=3D"color: r=
+gb(0, 0, 0); font-size: 16px; font-family: arial,helvetica,sans-serif; back=
+ground-color: transparent; font-style: normal;"><span>*</span><span> &=
+nbsp;      *</span><span>    &=
+nbsp;   *</span></div><div style=3D"color: rgb(0, 0, 0); font-siz=
+e: 16px; font-family: arial,helvetica,sans-serif; background-color: transpa=
+rent; font-style: normal;"><span> </span></div><span></span><div style=
+=3D"color: rgb(0, 0, 0); font-size: 16px; font-family: arial,helvetica,sans=
+-serif; background-color: transparent; font-style: normal;"><span>Fire is a=
+ living god on earth. Especially when you use Him for worshipping various d=
+eities, please be grateful to Him and respect his sanctity.</span></div><di=
+v style=3D"color: rgb(0, 0, 0); font-size: 16px; font-family: arial,helveti=
+ca,sans-serif; background-color: transparent; font-style:
+ normal;"><span>&=
+nbsp;</span></div><div style=3D"color: rgb(0, 0, 0); font-size: 16px; font-=
+family: arial,helvetica,sans-serif; background-color: transparent; font-sty=
+le: normal;"><span>My strong view matches Manish's view, Svoboda ji's view =
+and Vimalananda ji's view in this matter.</span></div><div> </div><div=
+ style=3D"color:rgb(0, 0, 0);font-size:13px;font-family:arial, helvetica, c=
+lean, sans-serif;background-color:transparent;font-style:normal;">Best rega=
+rds,<br>Narasimha<br>--------<br>Astrology & Spirituality Resources: <a=
+ rel=3D"nofollow" target=3D"_blank" href=3D"http://www.vedicastrologer.org/=
+">http://www.VedicAstrologer.org</a></div><div style=3D"color:rgb(0, 0, 0);=
+font-size:13px;font-family:arial, helvetica, clean, sans-serif;background-c=
+olor:transparent;font-style:normal;">--------<br></div><div> <br><bloc=
+kquote style=3D"border-left: 2px solid rgb(16, 16, 255); margin-left: 5px; =
+margin-top: 5px; padding-left: 5px;">  <div style=3D"font-family:
+ arial, h=
+elvetica, sans-serif; font-size: 12pt;"> <div style=3D"font-family: times n=
+ew roman, new york, times, serif; font-size: 12pt;"> <div dir=3D"ltr"> <hr =
+size=3D"1">  <font face=3D"Arial" size=3D"2"> <b><span style=3D"font-weight=
+:bold;">From:</span></b> "aks_day@..." <aks_day@...><br> =
+<b><span style=3D"font-weight: bold;">To:</span></b> vedic-wisdom@yahoogrou=
+ps.com <br> <b><span style=3D"font-weight: bold;">Sent:</span></b> Sunday, =
+December 8, 2013 12:56 PM<br> <b><span style=3D"font-weight: bold;">Subject=
+:</span></b> [vedic-wisdom] Re: Smoke after poornahuti - should I pour milk=
+<br> </font> </div> <div class=3D"y_msg_container"><br><div id=3D"yiv934056=
+8891"><div>
+<span style=3D"display:none;"> </span>
+
+
+<div id=3D"yiv934=
+0568891ygrp-mlmsg" style=3D"">
+  <div id=3D"yiv9340568891ygrp-msg" style=3D=
+"">
+
+
+    <div id=3D"yiv9340568891ygrp-text">
+      
+      
+      <div>Hi P=
+VR ji, <br clear=3D"none"></div><div style=3D"color:rgb(0, 0, 0);font-size:=
+13px;font-family:arial, helvetica, clean, sans-serif;background-color:trans=
+parent;font-style:normal;"><br clear=3D"none"></div><div style=3D"color:rgb=
+(0, 0, 0);font-size:13px;font-family:arial, helvetica, clean, sans-serif;ba=
+ckground-color:transparent;font-style:normal;">Thanks for the explanations =
+for all. <br clear=3D"none"></div><div style=3D"color:rgb(0, 0, 0);font-siz=
+e:13px;font-family:arial, helvetica, clean, sans-serif;background-color:tra=
+nsparent;font-style:normal;"><br clear=3D"none"></div><div style=3D"color:r=
+gb(0, 0, 0);font-size:13px;font-family:arial, helvetica, clean, sans-serif;=
+background-color:transparent;font-style:normal;">I read the milk explanatio=
+n part on <br clear=3D"none">http://www.shreemaa.org/homa-practice/<br clea=
+r=3D"none"><br clear=3D"none">Seems before pouring milk, swamiji is saying =
+to do visarjan mudra to remove life from fire first. <br clear=3D"none">Is =
+it
+ fine to do this ? Please guide...<br clear=3D"none"><br clear=3D"none">=
+text follows<br clear=3D"none">=3D=3D=3D=3D=3D=3D=3D=3D=3D<br clear=3D"none=
+"><br clear=3D"none"></div><h3><b>Homa Purnahuti</b></h3>
+<div><span style=
+=3D"color:red;"><b>Question:</b></span></div>
+<div><b><span style=3D"color:=
+#000000;">When
+ it comes to the end of the fire sacrifice do we just let th=
+e flames go 
+out by themselves or can we extinguish them ourselves?</span><=
+/b></div>
+<div><span style=3D"color:#ff6600;"><b>Swamiji Says:</b></span></=
+div>
+<div>We extinguish the fire during the Purnahuti. Pour milk over the b=
+urning coals.</div>
+<div><span style=3D"color:red;"><b><br clear=3D"none">Q=
+uestion:</b></span></div>
+<div><b><span style=3D"color:#000000;">What is th=
+e correct way to perform homa purnahuti?</span></b></div>
+<div><span style=
+=3D"color:#ff6600;"><b>Swamiji Says:</b></span></div>
+<div>Perform one mala=
+ of Shiva=E2=80=99s mantra, then 
+purnahuti mantras, then Visarjana mantras=
+, with Visarjana mudra in order
+ to remove life from the fire. Then you can=
+ put out the fire.</div>
+<div><span style=3D"color:red;"><b><br clear=3D"no=
+ne">Question:</b></span></div>
+<div><b><span style=3D"color:#000000;">What =
+is the significance of pouring milk to put out the fire, and how much of it=
+ should we pour over the fire?</span></b></div>
+<div><b><span style=3D"colo=
+r:#ff6600;">Swamiji Says:</span></b></div>
+<div>We use one glass of milk. M=
+ilk stands for
+ the ocean of consciousness =E2=80=93 pure, white, the absen=
+ce of all colors, 
+attitudes. After the fire has purified all impurities, i=
+t is 
+extinguished with pure consciousness.</div><div style=3D"color:rgb(0,=
+ 0, 0);font-size:13px;font-family:arial, helvetica, clean, sans-serif;backg=
+round-color:transparent;font-style:normal;"><br clear=3D"none"><br clear=3D=
+"none"><br clear=3D"none"></div>
+
+    </div>
+     
+
+    
+    <div style=3D"=
+color:#fff;height:0;"></div></div>
+
+
+</div><style type=3D"text/css">
+#yiv93=
+40568891 #yiv9340568891 --
+  #yiv9340568891ygrp-mkp {
+border:1px solid #d8d=
+8d8;font-family:Arial;margin:10px 0;padding:0 10px;}
+
+#yiv9340568891 #yiv93=
+40568891ygrp-mkp hr {
+border:1px solid #d8d8d8;}
+
+#yiv9340568891 #yiv934056=
+8891ygrp-mkp #yiv9340568891hd {
+color:#628c2a;font-size:85%;font-weight:700=
+;line-height:122%;margin:10px 0;}
+
+#yiv9340568891 #yiv9340568891ygrp-mkp #y=
+iv9340568891ads {
+margin-bottom:10px;}
+
+#yiv9340568891 #yiv9340568891ygrp-m=
+kp .yiv9340568891ad {
+padding:0 0;}
+
+#yiv9340568891 #yiv9340568891ygrp-mkp =
+.yiv9340568891ad p {
+margin:0;}
+
+#yiv9340568891 #yiv9340568891ygrp-mkp .yiv=
+9340568891ad a {
+color:#0000ff;text-decoration:none;}
+#yiv9340568891 #yiv93=
+40568891ygrp-sponsor #yiv9340568891ygrp-lc {
+font-family:Arial;}
+
+#yiv93405=
+68891 #yiv9340568891ygrp-sponsor #yiv9340568891ygrp-lc #yiv9340568891hd {
+m=
+argin:10px 0px;font-weight:700;font-size:78%;line-height:122%;}
+
+#yiv934056=
+8891 #yiv9340568891ygrp-sponsor #yiv9340568891ygrp-lc .yiv9340568891ad {
+ma=
+rgin-bottom:10px;padding:0 0;}
+
+#yiv9340568891 #yiv9340568891actions {
+font=
+-family:Verdana;font-size:11px;padding:10px 0;}
+
+#yiv9340568891 #yiv9340568=
+891activity {
+background-color:#e0ecee;float:left;font-family:Verdana;font-=
+size:10px;padding:10px;}
+
+#yiv9340568891 #yiv9340568891activity span {
+font=
+-weight:700;}
+
+#yiv9340568891 #yiv9340568891activity span:first-child {
+tex=
+t-transform:uppercase;}
+
+#yiv9340568891 #yiv9340568891activity span a {
+col=
+or:#5085b6;text-decoration:none;}
+
+#yiv9340568891 #yiv9340568891activity sp=
+an span {
+color:#ff7900;}
+
+#yiv9340568891 #yiv9340568891activity span .yiv9=
+340568891underline {
+text-decoration:underline;}
+
+#yiv9340568891 .yiv934056=
+8891attach {
+clear:both;display:table;font-family:Arial;font-size:12px;padd=
+ing:10px 0;width:400px;}
+
+#yiv9340568891 .yiv9340568891attach div a {
+text-=
+decoration:none;}
+
+#yiv9340568891 .yiv9340568891attach img {
+border:none;pa=
+dding-right:5px;}
+
+#yiv9340568891 .yiv9340568891attach label {
+display:bloc=
+k;margin-bottom:5px;}
+
+#yiv9340568891 .yiv9340568891attach label a {
+text-d=
+ecoration:none;}
+
+#yiv9340568891 blockquote {
+margin:0 0 0 4px;}
+
+#yiv93405=
+68891 .yiv9340568891bold {
+font-family:Arial;font-size:13px;font-weight:700=
+;}
+
+#yiv9340568891 .yiv9340568891bold a {
+text-decoration:none;}
+
+#yiv93405=
+68891 dd.yiv9340568891last p a {
+font-family:Verdana;font-weight:700;}
+
+#yi=
+v9340568891 dd.yiv9340568891last p span {
+margin-right:10px;font-family:Ver=
+dana;font-weight:700;}
+
+#yiv9340568891 dd.yiv9340568891last p span.yiv93405=
+68891yshortcuts {
+margin-right:0;}
+
+#yiv9340568891 div.yiv9340568891attach-=
+table div div a {
+text-decoration:none;}
+
+#yiv9340568891 div.yiv9340568891a=
+ttach-table {
+width:400px;}
+
+#yiv9340568891 div.yiv9340568891file-title a, =
+#yiv9340568891 div.yiv9340568891file-title a:active, #yiv9340568891 div.yiv=
+9340568891file-title a:hover, #yiv9340568891 div.yiv9340568891file-title a:=
+visited {
+text-decoration:none;}
+
+#yiv9340568891 div.yiv9340568891photo-tit=
+le a, #yiv9340568891 div.yiv9340568891photo-title a:active, #yiv9340568891 =
+div.yiv9340568891photo-title a:hover, #yiv9340568891 div.yiv9340568891photo=
+-title a:visited {
+text-decoration:none;}
+
+#yiv9340568891 div#yiv9340568891=
+ygrp-mlmsg #yiv9340568891ygrp-msg p a span.yiv9340568891yshortcuts {
+font-f=
+amily:Verdana;font-size:10px;font-weight:normal;}
+
+#yiv9340568891 .yiv93405=
+68891green {
+color:#628c2a;}
+
+#yiv9340568891 .yiv9340568891MsoNormal {
+marg=
+in:0 0 0 0;}
+
+#yiv9340568891 o {
+font-size:0;}
+
+#yiv9340568891 #yiv93405688=
+91photos div {
+float:left;width:72px;}
+
+#yiv9340568891 #yiv9340568891photos=
+ div div {
+border:1px solid #666666;height:62px;overflow:hidden;width:62px;=
+}
+
+#yiv9340568891 #yiv9340568891photos div label {
+color:#666666;font-size:=
+10px;overflow:hidden;text-align:center;white-space:nowrap;width:64px;}
+
+#yi=
+v9340568891 #yiv9340568891reco-category {
+font-size:77%;}
+
+#yiv9340568891 #=
+yiv9340568891reco-desc {
+font-size:77%;}
+
+#yiv9340568891 .yiv9340568891repl=
+bq {
+margin:4px;}
+
+#yiv9340568891 #yiv9340568891ygrp-actbar div a:first-chi=
+ld {
+margin-right:2px;padding-right:5px;}
+
+#yiv9340568891 #yiv9340568891ygr=
+p-mlmsg {
+font-size:13px;font-family:Arial, helvetica, clean, sans-serif;}
+=
+
+#yiv9340568891 #yiv9340568891ygrp-mlmsg table {
+font-size:inherit;font:100=
+%;}
+
+#yiv9340568891 #yiv9340568891ygrp-mlmsg select, #yiv9340568891 input, =
+#yiv9340568891 textarea {
+font:99% Arial, Helvetica, clean, sans-serif;}
+
+#=
+yiv9340568891 #yiv9340568891ygrp-mlmsg pre, #yiv9340568891 code {
+font:115%=
+ monospace;}
+
+#yiv9340568891 #yiv9340568891ygrp-mlmsg * {
+line-height:1.22e=
+m;}
+
+#yiv9340568891 #yiv9340568891ygrp-mlmsg #yiv9340568891logo {
+padding-b=
+ottom:10px;}
+
+
+#yiv9340568891 #yiv9340568891ygrp-msg p a {
+font-family:Verd=
+ana;}
+
+#yiv9340568891 #yiv9340568891ygrp-msg p#yiv9340568891attach-count sp=
+an {
+color:#1E66AE;font-weight:700;}
+
+#yiv9340568891 #yiv9340568891ygrp-rec=
+o #yiv9340568891reco-head {
+color:#ff7900;font-weight:700;}
+
+#yiv9340568891=
+ #yiv9340568891ygrp-reco {
+margin-bottom:20px;padding:0px;}
+
+#yiv9340568891=
+ #yiv9340568891ygrp-sponsor #yiv9340568891ov li a {
+font-size:130%;text-dec=
+oration:none;}
+
+#yiv9340568891 #yiv9340568891ygrp-sponsor #yiv9340568891ov =
+li {
+font-size:77%;list-style-type:square;padding:6px 0;}
+
+#yiv9340568891 #=
+yiv9340568891ygrp-sponsor #yiv9340568891ov ul {
+margin:0;padding:0 0 0 8px;=
+}
+
+#yiv9340568891 #yiv9340568891ygrp-text {
+font-family:Georgia;}
+
+#yiv9340=
+568891 #yiv9340568891ygrp-text p {
+margin:0 0 1em 0;}
+
+#yiv9340568891 #yiv9=
+340568891ygrp-text tt {
+font-size:120%;}
+
+#yiv9340568891 #yiv9340568891ygrp=
+-vital ul li:last-child {
+border-right:none !important;
+}
+#yiv9340568891 
+<=
+/style></div><br><br></div> </div> </div> </blockquote></div>   </div></bod=
+y></html>
+--1287737115-258866393-1386527018=:79525--
+
+
