@@ -1,0 +1,495 @@
+From skaushik29@...  Wed Feb 17 11:10:40 2016
+Return-Path: <skaushik29@...>
+X-Sender: skaushik29@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 85071 invoked by uid 102); 5 Aug 2013 18:23:47 -0000
+X-Received: from unknown (HELO mtaq3.grp.bf1.yahoo.com) (10.193.84.142)
+  by m9.grp.bf1.yahoo.com with SMTP; 5 Aug 2013 18:23:47 -0000
+X-Received: (qmail 11672 invoked from network); 5 Aug 2013 18:23:47 -0000
+X-Received: from unknown (HELO nm3-vm5.bullet.mail.ne1.yahoo.com) (98.138.91.225)
+  by mtaq3.grp.bf1.yahoo.com with SMTP; 5 Aug 2013 18:23:47 -0000
+X-Received: from [98.138.90.55] by nm3.bullet.mail.ne1.yahoo.com with NNFMP; 05 Aug 2013 18:23:46 -0000
+X-Received: from [98.138.101.172] by tm8.bullet.mail.ne1.yahoo.com with NNFMP; 05 Aug 2013 18:23:46 -0000
+X-Received: from [127.0.0.1] by omp1083.mail.ne1.yahoo.com with NNFMP; 05 Aug 2013 18:23:46 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 627690.35326.bm@...
+X-Received: (qmail 43868 invoked by uid 60001); 5 Aug 2013 18:23:46 -0000
+X-YMail-OSG: bsCq1mQVM1lbpenpMNt3k3OaC6EL0SkencXPiNDxF3UTarj
+ 8DKhM6kcybr_.6VWhn5g5koRYb7tDUQ_WqUaNUGThBskdJxochornHKlysX4
+ s.0L8MIWPYT5aaoQWjUa5kiZLLf2tO3MHeqbvZP8DVSkUKtTjzl7PS7gnV87
+ SlgvLlQTVT3eqoENQ2cUhEVgENQoc9z4JfDkxQgi1.4lHPe7ofJk2ABYD6tc
+ PhGhS28fd9h9I9VdlwUd3lLn7n3nRTjdhWTtb7Z5KFMvHF_ZhGvjbyYpkpT.
+ DfF5F_7bYtpkpUDgXAzYymTaHtnTNSkvEUiki6EKdUvCnx5hjWRVuP74es1x
+ PHZmYrGzBDlzVyB.VmH9mo.SC06urD9ELixoWtApaB0Htna6QYTUdZ9NPPaz
+ PHUGxuxHnMCxGxZt._NhQkXIcPtvcj1AVRblmf8zVI2eT6xlEBU.UaOubxyw
+ PXnEKD4d.fwSuAztzCeRGkhgmohqnN1CVRH0q14XCnpAzSCba4MGQkJZDGW.
+ f1vF46nSadVUY1IeYas90PXoanMzuaX0WpBhjc4ELkrcINViDwA.vwOrVkfs
+ cgKxVJGgdzHItQuw3Ldt9SYoVxCDkLLa0UBDK3XQq2L.Rzdx_lvw7DFWKkTs
+ MgUXGi.gkVDd82YWLWrA0tXxsV_aKIupONSvIrsZ0fjPBAuzLotftROzBRH_
+ aF7DJ2bllXfxarZsgIm7SJTZWdSiLOdVfrUc8Nt.o7IwsHJeB8giSc8yE57P
+ 3SKnp_bfvjeubq3qk70fsF8xRD3106YSBd2eyYQVhW4rZPoOAFrCm9E_aJTv
+ _5kXBriE_.JXnwIGVTNDbBG2Wj1OrrVemF1uqRdbYG8P6M06IpY.9_yB1N8U
+ shabG5LPy6Z0lqFfck99NVozjXqTRO0HePK5q2OLYrdg2Mz4HigOcC60hpfE
+ KuCCO1B35B8SE2xG9xJtCUWYuMPTI_0rf7PhGPii14EqrYBFn4VhUyH_pA0N
+ TZU9JsdDDZ4conzg_roEAMDK1BcWwe_XW9EeVqbLLDYlUojyMVFt8D3mF1VI
+ RtcOtt1JVcQ_vkcUuQPIG0OO_.5BkbJHc.Bbhwk1_iEdiYi.SBvBeCvdNrrn
+ CFkzx3ZfeRRgQvtLf3BbP.Db3Ml5_Ht5yb9Jfy66ztPDz.5v7UqgEVnzMpDW
+ IQ_4Zn6TzbQwis2j8tcUlI9l8MEjggBP1M9Vixk9.DTyl.fkLZ7HleHjcPhe
+ k4c6JGH3xb6fn5vN.u95Fo1UaKDDIrZ5q1CtbzIwVYY0HEXXVXuTx3O1tUxE
+ mYuc15bl5ORzyOVqAvxLv5VRu9QNx7QFQI2SXSqr9H7Wqc6uEkzU05C9bsLh
+ NZdtGP7uElDvoVYl.JjWYTFTvaGrO2a8gWUKXcsa_Rbfywz6EyiydtlXtZE.
+ uY8bn
+X-Received: from [1.23.101.35] by web120504.mail.ne1.yahoo.com via HTTP; Mon, 05 Aug 2013 11:23:46 PDT
+X-Rocket-MIMEInfo: 002.001,WW91IGNhbiBmb2xsb3cgdGhlc2UgdHdvIG1ldGhvZHMgYXMgcmVzb2x1dGlvbiBmb3IgdGhlIHByb2JsZW06CgpTdGVwIEk6CgpUaGlzIGlzIGEgdW5pcXVlwqBQcm90ZWN0aW9uIE1hbnRyYcKgdG8gcHJvdGVjdCB5b3VyIGhvdXNlIGZyb20gYWxsIHR5cGVzIG9mIGV2aWwgZW5lcmdpZXMsIHNwaXJpdHMsIGdob3N0cywgZGVtb25zIGFuZCB0aGUgZXZpbCBleWUuCgpZb3UgaGF2ZSB0byBtYWtlIGEgd29vZGVuIG5haWwgZnJvbSB0aGUgd29vZCBvZiB0aGUgUGFsYXNoIHRyZWUgW0J1dGVhIG1vbm9zcGVybWEBMAEBAQE-
+X-Mailer: YahooMailWebService/0.8.152.567
+References: <ktofs6+qpg9@...> <BAY167-W88B549E8C6D724D650F257E25C0@...>
+Message-ID: <1375727026.38849.YahooMailNeo@...>
+Date: Mon, 5 Aug 2013 11:23:46 -0700 (PDT)
+To: "vedic-wisdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com>
+Cc: Harsha N <harsha.n@...>
+In-Reply-To: <BAY167-W88B549E8C6D724D650F257E25C0@...>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="894005245-1215289227-1375727026=:38849"
+X-Originating-IP: 10.193.84.142
+X-eGroups-Msg-Info: 1:12:0:0:0
+From: Saurabh Kaushik <skaushik29@...>
+Reply-To: Saurabh Kaushik <skaushik29@...>
+Subject: Re: [vedic-wisdom] Mantra for protection from spirits (at nighttime)
+X-Yahoo-Group-Post: member; u=555528604
+
+
+--894005245-1215289227-1375727026=:38849
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+You can follow these two methods as resolution for the problem:
+
+Step I:
+
+T=
+his is a unique=C2=A0Protection Mantra=C2=A0to protect your house from all =
+types of evil energies, spirits, ghosts, demons and the evil eye.
+
+You have=
+ to make a wooden nail from the wood of the Palash tree [Butea monosperma] =
+and holding it in your hand Abhimintrit [bind] it with this=C2=A0Mantra=C2=
+=A0by reciting it 108 times.
+
+When you have done this bury this nail in fro=
+nt the main door of your house. It is said doing this will make your home s=
+afe and secure.
+
+Mantra
+Om sham sham shim shim shu shem shom shaum swa sah =
+swaha ll
+=E0=A4=AE=E0=A4=82=E0=A4=A4=E0=A5=8D=E0=A4=B0=C2=A0=E0=A5=90=C2=A0=
+=E0=A4=B6=E0=A4=82 =E0=A4=B6=E0=A4=82 =E0=A4=B6=E0=A4=BF=E0=A4=82 =E0=A4=B6=
+=E0=A4=BF=E0=A4=82=C2=A0=E0=A4=B6=E0=A5=82 =E0=A4=B6=E0=A5=87=E0=A4=82 =E0=
+=A4=B6=E0=A5=8B=E0=A4=82 =E0=A4=B6=E0=A5=8C=E0=A4=82 =E0=A4=B8=E0=A5=8D=E0=
+=A4=B5 =E0=A4=B8: =E0=A4=B8=E0=A5=8D=E0=A4=B5=E0=A4=BE=E0=A4=B9=E0=A4=BE=C2=
+=A0ll
+
+OR=C2=A0
+
+Step II:
+
+This is a Mantra which is dedicated to Narasimha=
+; the half man half lion; the fourth Avatar of Vishnu. This Mantra is recit=
+ed to ward off evil and inauspicious=C2=A0dreams.
+
+The=C2=A0Narasimha=C2=A0=
+Avatar is a fearsome manifestation of Vishnu and considered in Indian scrip=
+tures as being most powerful in destroying evil energies.
+
+ 
+Mantra to ward=
+ off evil dreams 
+Reciting this Mantra before going to bed is said to prote=
+ct you from evil dreams. It is also recommended that when one experiences a=
+n evil or inauspicious=C2=A0dreams=C2=A0one should recite this Mantra 108 t=
+imes to negate the ill effects of that dream.
+
+Source:=C2=A0http://www.prop=
+het666.com
+
+Regards,
+Saurabh Kaushik
+
+
+
+________________________________
+ F=
+rom: Harsha N <harsha.n@...>
+To: Vedic Wisdom <vedic-wisdom@yahoogroup=
+s.com> 
+Sent: Monday, August 5, 2013 9:56 PM
+Subject: RE: [vedic-wisdom] Ma=
+ntra for protection from spirits (at nighttime)
+ 
+
+
+=C2=A0 
+Namaste,
+
+Why d=
+ont you try 'Varaha Kavacham'.
+
+For translation visit
+http://ramanujadasan.=
+wordpress.com/2013/05/30/sri-varaha-kavacham-recitation-meaning/#more-1344
+=
+
+For pdf and mp3 visit
+http://www.prapatti.com/slokas/slokasbyname.html
+
+
+A=
+ll the best and regards,
+
+Harsha. N
+
+
+
+
+
+
+________________________________
+=
+To: vedic-wisdom@yahoogroups.com
+From: ilya.suzdalnitski@...
+Date: Mo=
+n, 5 Aug 2013 15:20:38 +0000
+Subject: [vedic-wisdom] Mantra for protection =
+from spirits (at nighttime)
+
+=C2=A0 
+Hello everyone,
+
+Recently I was stayin=
+g at an old house in a village. I had trouble falling asleep, because I cou=
+ld hear strange noises -  creaking and something moving in the attic. I'm v=
+ery sensitive to different energies - I don't see anything, but I feel whet=
+her something divine or rather evil is present in a certain place. That pla=
+ce didn't feel good to me.
+
+I was staying there for 10 days and every night=
+ I would make up because of a feeling of somebody staring at me - I could s=
+ee them but once I started focusing on them, they vanished. Sometimes I wou=
+ld wake up in a terrified state breathing rapidly. One day I could definite=
+ly hear some steps near the bed and a roar. I reached for my flashlight to =
+see nothing.
+
+This doesn't seem like sleep paralysis to me - I instantly be=
+come fully aware and I can move my body.
+
+Can it be that spirits live in th=
+at place disturbing my sleep? There were a few more people staying at that =
+place and everybody had severe problems with sleep, so it's not just me.
+
+O=
+n the last night I chanted Sri Rudram at that place before going to sleep a=
+nd this was the only night I was able to sleep properly.
+
+Upon coming back =
+home from that place I started waking up at home, feeling some strong prese=
+nce - usually some short beings (up to 50 cm in height, I've seen them befo=
+re here though); Once the sun rises, all of the strange feelings disappear =
+and I can sleep peacefully.
+
+Is there any mantra that will protect me from =
+all kinds of astral beings at night? Something that I can chant before goin=
+g to sleep. This has been bothering me for some time now and it interferes =
+with my life.
+
+Thank you in advance!
+
+
+
+ 
+--894005245-1215289227-1375727026=:38849
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"color:#000; background-color:#fff; font-family:ar=
+ial, helvetica, sans-serif;font-size:10pt"><div align=3D"center" class=3D"M=
+soNormal" style=3D"font-size: 14px; text-align: left; font-family: Georgia,=
+ Utopia, 'Palatino Linotype', Palatino, serif;"><span style=3D"font-family:=
+ Arial;">You can follow these two methods as resolution for the problem:</s=
+pan></div><div align=3D"center" class=3D"MsoNormal" style=3D"font-size: 14p=
+x; text-align: left; font-family: Georgia, Utopia, 'Palatino Linotype', Pal=
+atino, serif;"><span style=3D"font-family: Arial;"><br></span></div><div al=
+ign=3D"center" class=3D"MsoNormal" style=3D"text-align: left; font-family: =
+Georgia, Utopia, 'Palatino Linotype', Palatino, serif;"><span style=3D"font=
+-family: Arial;">Step I:</span></div><div align=3D"center" class=3D"MsoNorm=
+al" style=3D"text-align: left; font-family: Georgia, Utopia, 'Palatino Lino=
+type', Palatino, serif;"><span style=3D"font-family: Arial;"><br></span></d=
+iv><div align=3D"center"
+ class=3D"MsoNormal" style=3D"text-align: left; fo=
+nt-family: Georgia, Utopia, 'Palatino Linotype', Palatino, serif;"><span st=
+yle=3D"font-family: Arial;">This is a unique </span><span style=3D"fon=
+t-family: Arial;"><a href=3D"http://www.prophet666.com/2010/10/protection-m=
+antras.html" style=3D"text-decoration: none; color: rgb(102, 0, 0);">Protec=
+tion Mantra</a> to protect your house from all types of evil energies,=
+ spirits, ghosts, demons and the evil eye.</span></div><div align=3D"center=
+" class=3D"MsoNormal" style=3D"text-align: left; font-family: Georgia, Utop=
+ia, 'Palatino Linotype', Palatino, serif;"><span style=3D"font-family: Aria=
+l;"><br></span></div><div align=3D"center" class=3D"MsoNormal" style=3D"tex=
+t-align: left; font-family: Georgia, Utopia, 'Palatino Linotype', Palatino,=
+ serif;"><span style=3D"font-family: Arial;">You have to make a wooden nail=
+ from the wood of the Palash tree [Butea monosperma] and holding it in your=
+ hand Abhimintrit [bind] it with this <a
+ href=3D"http://www.prophet66=
+6.com/2009/08/index.html" style=3D"text-decoration: none; color: rgb(102, 0=
+, 0);">Mantra</a> by reciting it 108 times.</span></div><div><span><a =
+name=3D"more" style=3D"color: rgb(0, 0, 0); font-family: Georgia, Utopia, '=
+Palatino Linotype', Palatino, serif;" href=3D""></a><br style=3D"font-famil=
+y: Georgia, Utopia, 'Palatino Linotype', Palatino, serif;"></span></div><di=
+v align=3D"center" class=3D"MsoNormal" style=3D"text-align: left; font-fami=
+ly: Georgia, Utopia, 'Palatino Linotype', Palatino, serif;"><span style=3D"=
+font-family: Arial;">When you have done this bury this nail in front the ma=
+in door of your house. It is said doing this will make your home safe and s=
+ecure.</span></div><div align=3D"center" class=3D"MsoNormal" style=3D"text-=
+align: left; font-family: Georgia, Utopia, 'Palatino Linotype', Palatino, s=
+erif;"><br></div><div align=3D"center" class=3D"MsoNormal" style=3D"text-al=
+ign: left; font-family: Georgia, Utopia, 'Palatino Linotype', Palatino,
+ se=
+rif;"><span style=3D"font-family: Arial;">Mantra</span></div><div align=3D"=
+center" class=3D"MsoNormal" style=3D"text-align: left; font-family: Georgia=
+, Utopia, 'Palatino Linotype', Palatino, serif;"><span style=3D"font-family=
+: Arial;">Om sham sham shim shim shu shem shom shaum swa sah swaha ll</span=
+></div><div align=3D"center" class=3D"MsoNormal" style=3D"font-family: Geor=
+gia, Utopia, 'Palatino Linotype', Palatino, serif; text-align: center;"><di=
+v style=3D"text-align: left;"><span lang=3D"AR-SA" style=3D"font-family: Ma=
+ngal;">=E0=A4=AE=E0=A4=82=E0=A4=A4=E0=A5=8D=E0=A4=B0</span><span style=3D"f=
+ont-family: Arial;"> </span></div><span lang=3D"AR-SA" style=3D"font-f=
+amily: Mangal;"><div style=3D"text-align: left;"><span lang=3D"AR-SA">=E0=
+=A5=90</span><span lang=3D"AR-SA" style=3D"font-family: Arial;"> </spa=
+n><span lang=3D"AR-SA">=E0=A4=B6=E0=A4=82 =E0=A4=B6=E0=A4=82 =E0=A4=B6=E0=
+=A4=BF=E0=A4=82 =E0=A4=B6=E0=A4=BF=E0=A4=82</span><span lang=3D"AR-SA" styl=
+e=3D"font-family: Arial;"> </span><span lang=3D"AR-SA">=E0=A4=B6=E0=A5=
+=82 =E0=A4=B6=E0=A5=87=E0=A4=82 =E0=A4=B6=E0=A5=8B=E0=A4=82 =E0=A4=B6=E0=A5=
+=8C=E0=A4=82 =E0=A4=B8=E0=A5=8D=E0=A4=B5 =E0=A4=B8:
+ =E0=A4=B8=E0=A5=8D=E0=
+=A4=B5=E0=A4=BE=E0=A4=B9=E0=A4=BE</span><span style=3D"font-family: Arial;"=
+> ll</span></div></span></div><div align=3D"center" class=3D"MsoNormal=
+" style=3D"font-family: Georgia, Utopia, 'Palatino Linotype', Palatino, ser=
+if; text-align: center;"></div><div><span style=3D"font-family: Georgia, Ut=
+opia, 'Palatino Linotype', Palatino, serif;"><br>OR </span></div><div =
+style=3D"color: rgb(0, 0, 0); font-family: Georgia, Utopia, 'Palatino Linot=
+ype', Palatino, serif; background-color: transparent; font-style: normal;">=
+<span style=3D"font-family: Georgia, Utopia, 'Palatino Linotype', Palatino,=
+ serif;"><br></span></div><div style=3D"color: rgb(0, 0, 0); font-family: G=
+eorgia, Utopia, 'Palatino Linotype', Palatino, serif; background-color: tra=
+nsparent; font-style: normal;"><span style=3D"font-family: Georgia, Utopia,=
+ 'Palatino Linotype', Palatino, serif;">Step II:</span></div><div style=3D"=
+color: rgb(0, 0, 0); font-family: Georgia, Utopia, 'Palatino Linotype', Pal=
+atino, serif;
+ background-color: transparent; font-style: normal;"><span st=
+yle=3D"font-family: Georgia, Utopia, 'Palatino Linotype', Palatino, serif;"=
+><br></span></div><div style=3D"color: rgb(0, 0, 0); font-family: Georgia, =
+Utopia, 'Palatino Linotype', Palatino, serif; background-color: transparent=
+; font-style: normal;"><span style=3D"font-family: inherit;">This is a Mant=
+ra which is dedicated to Narasimha; the half man half lion; the fourth Avat=
+ar of Vishnu. This Mantra is recited to ward off evil and inauspicious</spa=
+n><span style=3D"font-family: inherit;"> </span><a href=3D"http://www.=
+prophet666.com/2011/07/mantra-to-get-answer-in-dream-3.html" style=3D"font-=
+family: inherit; text-decoration: none; color: rgb(102, 0, 0);">dreams</a><=
+span style=3D"font-family: inherit;">.</span></div><div class=3D"MsoNormal"=
+ style=3D"font-family: inherit; text-align: justify;"><div style=3D"text-al=
+ign: left;"><br></div></div><div class=3D"MsoNormal" style=3D"font-family: =
+inherit; text-align:
+ justify;"><div style=3D"text-align: left;">The <=
+span class=3D"apple-style-span"><a href=3D"http://www.prophet666.com/2010/1=
+0/narasimha-aarti-english-marathi.html" style=3D"text-decoration: none; col=
+or: rgb(102, 0, 0);"><span style=3D"color: windowtext; text-decoration: non=
+e;">Narasimha</span></a> Avatar is a fearsome manifestation of Vishnu =
+and considered in Indian scriptures as being most powerful in destroying ev=
+il energies.</span></div></div><a name=3D"more" style=3D"color: rgb(0, 0, 0=
+); font-family: Georgia, Utopia, 'Palatino Linotype', Palatino, serif;" hre=
+f=3D""></a><br style=3D"font-family: Georgia, Utopia, 'Palatino Linotype', =
+Palatino, serif;"><table align=3D"center" cellpadding=3D"0" cellspacing=3D"=
+0" class=3D"tr-caption-container" style=3D"text-align: left; padding: 4px; =
+margin-bottom: 0.5em; font-family: Georgia, Utopia, 'Palatino Linotype', Pa=
+latino, serif; margin-left: auto; margin-right: auto;"><tbody><tr><td><a
+ h=
+ref=3D"http://4.bp.blogspot.com/-0FJz_clCO_g/T1otosYP7cI/AAAAAAAADJg/ZlwE_R=
+pRuPs/s1600/prophet666.com-+272.png" imageanchor=3D"1" style=3D"text-decora=
+tion: none; color: rgb(102, 0, 0); margin-left: auto; margin-right: auto;">=
+<img border=3D"0" height=3D"107" src=3D"http://4.bp.blogspot.com/-0FJz_clCO=
+_g/T1otosYP7cI/AAAAAAAADJg/ZlwE_RpRuPs/s320/prophet666.com-+272.png" width=
+=3D"320" style=3D"position: relative;"></a></td></tr><tr><td class=3D"tr-ca=
+ption">Mantra to ward off evil dreams</td></tr></tbody></table><div class=
+=3D"MsoNormal" style=3D"font-family: inherit; text-align: justify;"><div st=
+yle=3D"text-align: left;"><span class=3D"apple-style-span">Reciting this Ma=
+ntra before going to bed is said to protect you from evil dreams. It is als=
+o recommended that when one experiences an evil or inauspicious </span=
+><a href=3D"http://www.prophet666.com/2011/04/mantra-to-get-answer-in-dream=
+-2.html" style=3D"text-decoration: none; color: rgb(102, 0, 0);">dreams</a>=
+ one should recite
+ this Mantra 108 times to negate the ill effects of=
+ that dream.</div></div><span style=3D"font-family: Georgia, Utopia, 'Palat=
+ino Linotype', Palatino, serif;"><br><br><span style=3D"font-size: 14px;">S=
+ource: </span><a href=3D"http://www.prophet666.com/2012/03/mantra-to-w=
+ard-off-evil-dreams.html#ixzz2b7Vhdpb1" style=3D"font-size: 14px; text-deco=
+ration: none; color: rgb(0, 51, 153);">http://www.prophet666.com</a></span>=
+<div><span style=3D"font-family: Georgia, Utopia, 'Palatino Linotype', Pala=
+tino, serif;"><br></span></div><div><span style=3D"font-family: Georgia, Ut=
+opia, 'Palatino Linotype', Palatino, serif;">Regards,</span></div><div><spa=
+n style=3D"font-family: Georgia, Utopia, 'Palatino Linotype', Palatino, ser=
+if;">Saurabh Kaushik<br><br></span><div style=3D"font-size: 10pt; font-fami=
+ly: arial, helvetica, sans-serif;"> <div style=3D"font-family: 'times new r=
+oman', 'new york', times, serif; font-size: 12pt;"> <div dir=3D"ltr"> <hr s=
+ize=3D"1">  <font size=3D"2"
+ face=3D"Arial"> <b><span style=3D"font-weight=
+:bold;">From:</span></b> Harsha N <harsha.n@...><br> <b><span st=
+yle=3D"font-weight: bold;">To:</span></b> Vedic Wisdom <vedic-wisdom@yah=
+oogroups.com> <br> <b><span style=3D"font-weight: bold;">Sent:</span></b=
+> Monday, August 5, 2013 9:56 PM<br> <b><span style=3D"font-weight: bold;">=
+Subject:</span></b> RE: [vedic-wisdom] Mantra for protection from spirits (=
+at nighttime)<br> </font> </div> <div class=3D"y_msg_container"><br><div id=
+=3D"yiv6430719900">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div>
+<span style=3D"display:none;"> =
+</span>
+
+
+
+    <div id=3D"yiv6430719900ygrp-text">
+      
+      
+      <div=
+>
+
+</div><div dir=3D"ltr">Namaste,<br><br>Why dont you try 'Varaha Kavacham=
+'.<br><br>For translation visit<br><a rel=3D"nofollow" target=3D"_blank" hr=
+ef=3D"http://ramanujadasan.wordpress.com/2013/05/30/sri-varaha-kavacham-rec=
+itation-meaning/#more-1344"></a><a rel=3D"nofollow" target=3D"_blank" href=
+=3D"http://ramanujadasan.wordpress.com/2013/05/30/sri-varaha-kavacham-recit=
+ation-meaning/#more-1344"></a><a rel=3D"nofollow" target=3D"_blank" href=3D=
+"http://ramanujadasan.wordpress.com/2013/05/30/sri-varaha-kavacham-recitati=
+on-meaning/#more-1344">http://ramanujadasan.wordpress.com/2013/05/30/sri-va=
+raha-kavacham-recitation-meaning/#more-1344</a><br><br>For pdf and mp3 visi=
+t<br><a rel=3D"nofollow" target=3D"_blank" href=3D"http://www.prapatti.com/=
+slokas/slokasbyname.html">http://www.prapatti.com/slokas/slokasbyname.html<=
+/a><br><br><br>All the best and regards,<br><br>Harsha. N<br><br><a rel=3D"=
+nofollow" target=3D"_blank"
+ href=3D"http://ramanujadasan.wordpress.com/201=
+3/05/30/sri-varaha-kavacham-recitation-meaning/#more-1344"></a><br><br><br>=
+<div><hr id=3D"yiv6430719900stopSpelling">To: vedic-wisdom@yahoogroups.com<=
+br>From: ilya.suzdalnitski@...<br>Date: Mon, 5 Aug 2013 15:20:38 +000=
+0<br>Subject: [vedic-wisdom] Mantra for protection from spirits (at nightti=
+me)<br><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span> </span>
+
+
+<div id=3D"yiv6430719900ecx=
+ygrp-mlmsg">
+  <div id=3D"yiv6430719900ecxygrp-msg">
+
+
+    <div id=3D"yiv64=
+30719900ecxygrp-text">
+      
+      
+      Hello everyone,<br>
+<br>
+Recentl=
+y I was staying at an old house in a village. I had trouble falling asleep,=
+ because I could hear strange noises -  creaking and something moving in th=
+e attic. I'm very sensitive to different energies - I don't see anything, b=
+ut I feel whether something divine or rather evil is present in a certain p=
+lace. That place didn't feel good to me.<br>
+<br>
+I was staying there for 1=
+0 days and every night I would make up because of a feeling of somebody sta=
+ring at me - I could see them but once I started focusing on them, they van=
+ished. Sometimes I would wake up in a terrified state breathing rapidly. On=
+e day I could definitely hear some steps near the bed and a roar. I reached=
+ for my flashlight to see nothing.<br>
+<br>
+This doesn't seem like sleep pa=
+ralysis to me - I instantly become fully aware and I can move my body.<br>
+=
+<br>
+Can it be that spirits live in that place disturbing my sleep? There w=
+ere a few more people staying at that place and everybody had severe proble=
+ms with sleep, so it's not just me.<br>
+<br>
+On the last night I chanted Sr=
+i Rudram at that place before going to sleep and this was the only night I =
+was able to sleep properly.<br>
+<br>
+Upon coming back home from that place =
+I started waking up at home, feeling some strong presence - usually some sh=
+ort beings (up to 50 cm in height, I've seen them before here though); Once=
+ the sun rises, all of the strange feelings disappear and I can sleep peace=
+fully.<br>
+<br>
+Is there any mantra that will protect me from all kinds of =
+astral beings at night? Something that I can chant before going to sleep. T=
+his has been bothering me for some time now and it interferes with my life.=
+<br>
+<br>
+Thank you in advance!<br>
+<br>
+<br>
+
+    </div>
+     
+
+    
+    <=
+div style=3D"color:#fff;height:0;"></div>
+
+
+
+
+
+
+  </div> 		 	   		  </div>
+=
+</div></div>
+
+    </div>
+     
+
+
+
+</div>
+
+
+
+
+
+</div><br><br></div> </div> <=
+/div>  </div></div></body></html>
+--894005245-1215289227-1375727026=:38849--
+
+

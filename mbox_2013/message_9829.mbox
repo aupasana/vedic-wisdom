@@ -1,0 +1,524 @@
+From sumeet18064@...  Wed Feb 17 11:10:45 2016
+Return-Path: <sumeet18064@...>
+X-Sender: sumeet18064@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 3674 invoked by uid 102); 15 Oct 2013 14:21:04 -0000
+X-Received: from unknown (HELO mtaq1.grp.bf1.yahoo.com) (10.193.84.32)
+  by m5.grp.bf1.yahoo.com with SMTP; 15 Oct 2013 14:21:04 -0000
+X-Received: (qmail 26647 invoked from network); 15 Oct 2013 14:21:04 -0000
+X-Received: from unknown (HELO nm43-vm4.bullet.mail.bf1.yahoo.com) (216.109.114.223)
+  by mtaq1.grp.bf1.yahoo.com with SMTP; 15 Oct 2013 14:21:04 -0000
+X-Received: from [98.139.215.141] by nm43.bullet.mail.bf1.yahoo.com with NNFMP; 15 Oct 2013 14:21:04 -0000
+X-Received: from [98.139.213.10] by tm12.bullet.mail.bf1.yahoo.com with NNFMP; 15 Oct 2013 14:21:04 -0000
+X-Received: from [127.0.0.1] by smtp110.mail.bf1.yahoo.com with NNFMP; 15 Oct 2013 14:21:04 -0000
+X-Yahoo-Newman-Id: 105786.14924.bm@...
+X-Yahoo-Newman-Property: ymail-3
+X-YMail-OSG: 5FQuotsVM1n.pwv0xLYN9kSrrXHfg5uBiXp2VG8MxSBdYq7
+ 0EDf6DYGde62HwXAyR8mPuQqWWQBgnS59I19bDhlDZjMR9Td39eSM.tT.hRm
+ iO5vcjItJDUq7q2FVwBoPqA78Aa4euIBBXylzVKqAGYbtNsOeXgziUUaac5i
+ wPvSHKunm20ocfWv831fhmhj5DX7sdtX1scuZ.jgwdULcLFOq3k7_zxXd4oF
+ jQS2DBdAv18cz.XVnHw9osgaYpQIki7FFhMe45gxUEESwUy87LTwStp6NNtI
+ WYlgIcr.qimxHUTkRQs96U7P4wvb9htF70Qv1YS8SwUoZjLXoqGpxtIMBOR2
+ FC8XsT91xUQIn1M6AsxMdqupu8XflwmIqX.sowIAjEalJ9.pzJlO2WLYsgms
+ .wcZOd3DofM62Z_ZYd65LIxV5HcBvM39lZC.IUZdLUrQe51cpqmXBWPWwzuc
+ d1.RAEXBcXGVct7M37LUnhvNmNMN9J2a6LqyJJAGFwdB1qhLapaEIGwxm1BJ
+ 2dB90HWaFcHFv__pXAwTIUykZt5tcZ0fGa857odb45LIj4Ieb0KkGVAAhRoC
+ u6O6jSYwITAycZBIDWyAO2J.xt8kUq3rb8J.N5ksiOUiRTn6pSSlfZQWsQxK
+ LT6SQV0larfWBKTMUr0oC0HGNdF39Jzz7LueM2ib16HtHrmrKZW3pN44FnZw
+ A2oMSTebO6fP_WoHChn2x7fH.2tHs_ywocfjndSshFAzeGo1cjoJzKuVEl_z
+ swUpzXxJX4SXySeXGf4M_zoQqSylZm2Bq1UEw3G6zjakzDvGzMSwRtdLyOC1
+ 3lSFoGPvMo3SFuTIhN5ZucNIJkl2XjlSCqu8uLzjfhdkqj9W2QP5XspJ1_ii
+ oZ7QiZqI50njMDjcZPAQf3FZpryMcy0p5QabN.8DB6ILwSABrW3G_czwRao_
+ k7QRPs29_bn1TpteLIIP7tlEYvkn56_hYqsZKukJQQAXOSndQ2q7hr1._35m
+ p7vnZd6uMRF8W3moH3gsSKmaQfw3BQ.kbh4AXBClMowWxWEjZO1G0Kbi5U1.
+ PSiM9eLvUUczH8s2ifyK_K_nQ86AHFKng0X.dAg3AG058_8P4Pxlkplq5E8N
+ .Q2302M867IICQQh.7l9Jz8wofqs5s5F2X1lU3e1lhBlm1fAj1TVBOKo6zIo
+ oHvI4IrOqcVpGZ93h4dkl0QujFYyys9HDS0eV2weoZesrgTAfVsLbHKWFhO8
+ snOQpGvg8WwjcF3t932PQ5N_yb_.99GiU_epEBieFyfaOptjDFY2J2PrH_LN
+ kMbEkO4EPajtWYPsu4FU9PWC9vS.xhEhJllxhW5Ui0C9WUcmSkxtQTIyVZYi
+ yoDGdxShVZfONidlPhWDNpcW3CJ_dc_hLMuOCEKPKdomEl6M8oW9fnTjei5S
+ MtEPG4lMvf8xcIbKC8xk5XuBtXW4UkO1xBkhMGr2eDLMrOdNh3Yjr8ctz1w0
+ hJfq1KZHQD0Cx9qJL2FmkUu.KXUnDbieNo9Ffsyxtrk50eM9rBb2tKTEE8ge
+ Jg7ZH7u2dbnrefMHCq2IIT8UkO_x9D4Qzd8UQlzHmPvfnPQ0RMjLx_Eq2FGQ
+ 5zZYd.p6tvMWzWMArzL9CFWAWV50VEDR4XV3p.f_vPpSu0Vop5jaFxM1mja7
+ NOSufn6fhxgH.o17b21PGqLdYmuMEhdJLVZIIKUt.gXzG.JtAl9CDnFwIAq8
+ KixvnMY1Mydv0_1D.WRzGaTN_3nGwKZN643RpBM7r4QkBZOJD6g0k2F2hbNz
+ SPa5Bo3fnTxE4AJ4HYG46gVHLc3GG6uxTYRQuwjejoT1XDinCZqArcwJwMui
+ EG6V8Rn95FtuHtr7A0TUdXvAnrTM8NAckVr6xz7kDTPA6nc8rYK1X5hGVMR0
+ .1qmU.XV_SnsT0tds1DThf7rXCwMOxw7rQJSh7W0LhpjZKDmJjM1IfCoUMFX
+ tlxyJt9XsxjAiGpCNR_qPPTL_FAarZIjRJX1Z7bYfdvy4mhzXaZH6zprrXnV
+ UCNiWRX4ulPSIi76558h2.mwPsd5V_R98Puv6k4uRbdbRndvrerGuNWFFT2r
+ bp7ooiDK4WIxIsFM39OIDhj9riZM4fXAUSSUp9vERfF8GCsQQyh3sKW3XNps
+ wLqwXE7tIG_CL0faVFJMX
+X-Yahoo-SMTP: uZ56XkCswBA6wWvC3nj6sQikDrnpmAuo
+X-Rocket-Received: from [25.20.255.111] (sumeet18064@24.114.77.24 with )
+        by smtp110.mail.bf1.yahoo.com with SMTP; 15 Oct 2013 07:21:04 -0700 PDT
+References: <1381775535.42301.YahooMailNeo@...> <525c5ed3.4158440a.5d1d.ffffd5b1@...> <BLU177-W94B559D4294DB41980B59811B0@...>
+Content-Type: multipart/alternative;
+	boundary=Apple-Mail-F2FE1E41-1938-494D-A734-6B4A0304B2E4
+X-Mailer: iPhone Mail (11A501)
+In-Reply-To: <BLU177-W94B559D4294DB41980B59811B0@...>
+Message-Id: <1DE1B62A-651D-4E86-B0C6-1833DBE905B6@...>
+Date: Tue, 15 Oct 2013 10:21:01 -0400
+To: "vedic-wisdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com>
+Content-Transfer-Encoding: 7bit
+Mime-Version: 1.0 (1.0)
+X-Originating-IP: 10.193.84.32
+X-eGroups-Msg-Info: 1:12:0:0:0
+From: Sumeet Kumar <sumeet18064@...>
+Subject: Re: [vedic-wisdom] Tarpana questions
+X-Yahoo-Group-Post: member; u=167313342; y=CTqa_bEt0199tEV1bC6l7s_hKoFTt9sffb1tLCDCgo5wR3znRT4
+X-Yahoo-Profile: sumeet18064
+
+
+--Apple-Mail-F2FE1E41-1938-494D-A734-6B4A0304B2E4
+Content-Type: text/plain;
+	charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+There are several views on this and I know of a couple of them. A few years=
+ ago while doing Shraadha for ancestors at Gaya in Bihar I was informed by =
+the priest/paande that one can perform Shraadha ceremony for oneself while =
+one is alive and this is done at Gaya.  It is possible for such services to=
+ be available at Haridwaar also. This may be most suitable for those who do=
+ not have children or a male child or those who know very well that their d=
+escendants will not do these ceremonies once they pass on. 
+
+Having said th=
+e above, I also happened to come in contact with a highly evolved spiritual=
+ saadhaka who was well versed in rituals and as per his tradition it was fo=
+rbidden for him to do any tarpana for ancestors till his own father was ali=
+ve.  In other words his father had responsibility to do Tarpana before him =
+on behalf of the family. No again bear in mind that in this case the whole =
+family is doing Saadhana and the father is doing tarpana regularly. 
+
+Sumee=
+t
+
+> On Oct 15, 2013, at 10:10 AM, ramamoorthy thiyagarajan <t_ramamoorthy@=
+hotmail.com> wrote:
+> 
+> Sir,
+> 
+> I heard from some one that one can do ta=
+rpana for himself when he is living.  Is it true.  If so how to do it.  I u=
+se to go Haridwar and Rishikesh almost every month - moorthy iyer
+> 
+> To: =
+vedic-wisdom@yahoogroups.com
+> From: prof.kannan.iyengar@...
+> Date: =
+Tue, 15 Oct 2013 02:45:01 +0530
+> Subject: RE: [vedic-wisdom] Tarpana quest=
+ions
+> 
+>  
+> 
+> Priya Ji
+> 
+> Namasttay
+> 
+>  
+> 
+> 1.       This is indee=
+d a very beautiful intitiative undertaken by your noble self. Such tarpanam=
+ is called Kaarunya Tarpanam. I encountered this in a website called www.ag=
+asthiar.org
+> 
+> 2.       Or if you are unable to locate it, let me know I =
+will search, compile and send the pdf to you at the earliest. This is such =
+a wonderful noble act if we could do tarpanam to the jeeva trapped in shwaa=
+na-shareera.
+> 
+> 3.       Also let me tell you that when the New York Worl=
+d Trade Center collapse happened, many people who died in the WTC building =
+roamed over there for 1 year in a state of shock not knowing where to go. I=
+ wish I could do tarpanams for them too, but not yet stabilized myself in m=
+y routine so far. Your initiative for the dog shook me from my slumber and =
+made me realize how selfish I had been. Thank you so much.
+> 
+>  
+> 
+> Than=
+ks And Best Regards,
+> 
+> Kannan
+> 
+>  
+> 
+>  
+> 
+> From: vedic-wisdom@yaho=
+ogroups.com [mailto:vedic-wisdom@yahoogroups.com] On Behalf Of Priya M
+> Se=
+nt: Tuesday, October 15, 2013 00:02
+> To: vedic-wisdom@yahoogroups.com
+> Su=
+bject: [vedic-wisdom] RE: Tarpana questions
+> 
+>  
+> 
+>  
+> 
+>  
+> 
+>  My p=
+arents used to feed a beautiful stray dog regularly. But the people in the =
+building found it a nuisance and one night killed it brutally. A few days l=
+ater a friend stopped by and mentioned about a dog sitting near the gate. W=
+e were shocked cause it had died. We realised the soul is still wandering a=
+round.
+> 
+> Similarly what do you do if you see a small bird dead in your b=
+ackyard? 
+> 
+>  
+> 
+> With reference to above can someone tell me how to in=
+corporate tarpana for animals and birds in the existing manual?
+> 
+>  
+> 
+>=
+ Many thanks and regards,
+> 
+> Priya
+> 
+>  
+> 
+>  
+> 
+> 
+> 
+> 
+
+--Apple-Mail-F2FE1E41-1938-494D-A734-6B4A0304B2E4
+Content-Type: text/html;
+	charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><meta http-equiv=3D"content-type" content=3D"text/html; charset=
+=3Dutf-8"></head><body dir=3D"auto"><div>There are several views on this an=
+d I know of a couple of them. A few years ago while doing Shraadha for ance=
+stors at Gaya in Bihar I was informed by the priest/paande that one can per=
+form Shraadha ceremony for oneself while one is alive and this is done at G=
+aya.  It is possible for such services to be available at Haridwaar al=
+so. This may be most suitable for those who do not have children or a male =
+child or those who know very well that their descendants will not do these =
+ceremonies once they pass on. </div><div><br></div><div>Having said th=
+e above, I also happened to come in contact with a highly evolved spiritual=
+ saadhaka who was well versed in rituals and as per his tradition it was fo=
+rbidden for him to do any tarpana for ancestors till his own father was ali=
+ve.  In other words his father had responsibility to do Tarpana before=
+ him on behalf of the family. No again bear in mind that in this case the w=
+hole family is doing Saadhana and the father is doing tarpana regularly.&nb=
+sp;<br><br>Sumeet</div><div><br>On Oct 15, 2013, at 10:10 AM, ramamoorthy t=
+hiyagarajan <<a href=3D"mailto:t_ramamoorthy@...">t_ramamoorthy@=
+hotmail.com</a>> wrote:<br><br></div><blockquote type=3D"cite"><div>
+
+
+
+=
+
+
+
+
+
+
+
+
+
+
+
+<span style=3D"display:none"> </span>
+
+
+
+    <div id=3D"ygr=
+p-text">
+      
+      
+      <p>
+
+</p><div dir=3D"ltr">Sir,<br><br>I heard =
+from some one that one can do tarpana for himself when he is living.  =
+Is it true.  If so how to do it.  I use to go Haridwar and Rishik=
+esh almost every month - moorthy iyer<br><br><div><hr id=3D"stopSpelling">T=
+o: <a href=3D"mailto:vedic-wisdom@yahoogroups.com">vedic-wisdom@yahoogroups=
+.com</a><br>From: <a href=3D"mailto:prof.kannan.iyengar@...">prof.kan=
+nan.iyengar@...</a><br>Date: Tue, 15 Oct 2013 02:45:01 +0530<br>Subje=
+ct: RE: [vedic-wisdom] Tarpana questions<br><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span> =
+</span>
+
+
+<div id=3D"ecxygrp-mlmsg">
+  <div id=3D"ecxygrp-msg">
+
+
+    <div =
+id=3D"ecxygrp-text">
+      
+      
+      
+
+
+
+
+
+<br><div class=3D"ecxSection=
+1">
+
+<p class=3D"ecxMsoNormal"><span style=3D"font-size:11.0pt;color:#1F497=
+D;">Priya Ji</span></p>
+
+<p class=3D"ecxMsoNormal"><span style=3D"font-size=
+:11.0pt;color:#1F497D;">Namasttay</span></p>
+
+<p class=3D"ecxMsoNormal"><sp=
+an style=3D"font-size:11.0pt;color:#1F497D;"> </span></p>
+
+<p class=3D=
+"ecxMsoListParagraph"><span style=3D"font-size:11.0pt;color:#1F497D;"><span=
+>1.<span style=3D"font:7.0pt "Times New Roman";">  &nbs=
+p;   
+</span></span></span><span style=3D"font-size:11.0pt;c=
+olor:#1F497D;">This is indeed a very beautiful intitiative undertaken by yo=
+ur
+noble self. Such tarpanam is called Kaarunya Tarpanam. I encountered thi=
+s in a
+website called <a href=3D"http://www.agasthiar.org" target=3D"_blank=
+">www.agasthiar.org</a></span></p>
+
+<p class=3D"ecxMsoListParagraph"><span =
+style=3D"font-size:11.0pt;color:#1F497D;"><span>2.<span style=3D"font:7.0pt=
+ "Times New Roman";">      
+</span>=
+</span></span><span style=3D"font-size:11.0pt;color:#1F497D;">Or if you are=
+ unable to locate it, let me know I will search,
+compile and send the pdf t=
+o you at the earliest. This is such a wonderful noble
+act if we could do ta=
+rpanam to the jeeva trapped in shwaana-shareera.</span></p>
+
+<p class=3D"ec=
+xMsoListParagraph"><span style=3D"font-size:11.0pt;color:#1F497D;"><span>3.=
+<span style=3D"font:7.0pt "Times New Roman";">   &=
+nbsp;  
+</span></span></span><span style=3D"font-size:11.0pt;colo=
+r:#1F497D;">Also let me tell you that when the New York World Trade Center =
+collapse
+happened, many people who died in the WTC building roamed over the=
+re for 1 year
+in a state of shock not knowing where to go. I wish I could d=
+o tarpanams for
+them too, but not yet stabilized myself in my routine so fa=
+r. Your initiative
+for the dog shook me from my slumber and made me realize=
+ how selfish I had
+been. Thank you so much.</span></p>
+
+<p class=3D"ecxMsoL=
+istParagraph"><span style=3D"font-size:11.0pt;color:#1F497D;"> </span>=
+</p>
+
+<p class=3D"ecxMsoNormal"><span style=3D"font-size:11.0pt;color:#1F49=
+7D;">Thanks And Best Regards,</span></p>
+
+<p class=3D"ecxMsoNormal"><span s=
+tyle=3D"font-size:11.0pt;color:#1F497D;">Kannan</span></p>
+
+<p class=3D"ecx=
+MsoListParagraph"><span style=3D"font-size:11.0pt;color:#1F497D;"> </s=
+pan></p>
+
+<p class=3D"ecxMsoNormal"><span style=3D"font-size:11.0pt;color:#=
+1F497D;"> </span></p>
+
+<div>
+
+<div style=3D"border-top:solid #B5C4DF 1=
+.0pt;">
+
+<p class=3D"ecxMsoNormal"><b><span style=3D"font-size:10.0pt;">Fro=
+m:</span></b><span style=3D"font-size:10.0pt;">
+<a href=3D"mailto:vedic-wis=
+dom@yahoogroups.com">vedic-wisdom@yahoogroups.com</a> [<a href=3D"mailto:ve=
+dic-wisdom@yahoogroups.com">mailto:vedic-wisdom@yahoogroups.com</a>] <b>On =
+Behalf
+Of </b>Priya M<br>
+<b>Sent:</b> Tuesday, October 15, 2013 00:02<br>
+=
+<b>To:</b> <a href=3D"mailto:vedic-wisdom@yahoogroups.com">vedic-wisdom@yah=
+oogroups.com</a><br>
+<b>Subject:</b> [vedic-wisdom] RE: Tarpana questions</=
+span></p>
+
+</div>
+
+</div>
+
+<p class=3D"ecxMsoNormal"> </p>
+
+<p class=
+=3D"ecxMsoNormal">  </p>
+
+<div id=3D"ecxygrp-mlmsg">
+
+<div id=3D"ecxyg=
+rp-msg">
+
+<div id=3D"ecxygrp-text">
+
+<div>
+
+<div>
+
+<p class=3D"ecxMsoNormal=
+" style=3D"background:white;"><span style=3D"color:black;"> </span></p=
+>
+
+</div>
+
+<div>
+
+<p class=3D"ecxMsoNormal"><span style=3D"color:black;">&n=
+bsp;My parents used to feed a beautiful stray dog regularly. But
+the people=
+ in the building found it a nuisance and one night killed it
+brutally. A fe=
+w days later a friend stopped by and mentioned about a dog
+sitting near the=
+ gate. We were shocked cause it had died. We realised the soul
+is still wan=
+dering around.</span></p>
+
+</div>
+
+<div>
+
+<p class=3D"ecxMsoNormal"><span s=
+tyle=3D"color:black;">Similarly what do you do if you see a small bird dead=
+ in your
+backyard? </span></p>
+
+</div>
+
+<div>
+
+<p class=3D"ecxMsoNorma=
+l"><span style=3D"color:black;"> </span></p>
+
+</div>
+
+<div>
+
+<p class=
+=3D"ecxMsoNormal"><span style=3D"color:black;">With reference to above can =
+someone tell me how to incorporate
+tarpana for animals and birds in the exi=
+sting manual?</span></p>
+
+</div>
+
+<div>
+
+<p class=3D"ecxMsoNormal"><span st=
+yle=3D"color:black;"> </span></p>
+
+</div>
+
+<div>
+
+<p class=3D"ecxMsoNo=
+rmal"><span style=3D"color:black;">Many thanks and regards,</span></p>
+
+</d=
+iv>
+
+<div>
+
+<p class=3D"ecxMsoNormal"><span style=3D"color:black;">Priya</s=
+pan></p>
+
+</div>
+
+<div>
+
+<p class=3D"ecxMsoNormal"><span style=3D"color:bla=
+ck;"> </span></p>
+
+</div>
+
+<div>
+
+<p class=3D"ecxMsoNormal"><span styl=
+e=3D"color:black;"> </span></p>
+
+</div>
+
+</div>
+
+</div>
+
+<div>
+
+<p cla=
+ss=3D"ecxMsoNormal"><span style=3D"color:white;"></span></p>
+
+</div>
+
+</div=
+>
+
+
+
+
+</div></div><br>
+
+    </div>
+     
+
+    
+    <div style=3D"color:#fff=
+;height:0;"></div>
+
+
+
+
+
+
+  </div> 		 	   		  </div>
+</div></div><p></p>
+
+  =
+  </div>
+     
+
+    
+
+
+
+
+
+<!-- end group email -->
+
+</div></blockquote></bo=
+dy></html>
+--Apple-Mail-F2FE1E41-1938-494D-A734-6B4A0304B2E4--
+
+

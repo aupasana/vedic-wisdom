@@ -1,0 +1,427 @@
+From skaushik29@...  Wed Feb 17 11:10:41 2016
+Return-Path: <skaushik29@...>
+X-Sender: skaushik29@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 37033 invoked by uid 102); 21 Aug 2013 08:55:24 -0000
+X-Received: from unknown (HELO mtaq5.grp.bf1.yahoo.com) (10.193.84.36)
+  by m1.grp.bf1.yahoo.com with SMTP; 21 Aug 2013 08:55:24 -0000
+X-Received: (qmail 17870 invoked from network); 21 Aug 2013 08:55:23 -0000
+X-Received: from unknown (HELO nm22-vm0.bullet.mail.ne1.yahoo.com) (98.138.91.60)
+  by mtaq5.grp.bf1.yahoo.com with SMTP; 21 Aug 2013 08:55:23 -0000
+X-Received: from [98.138.226.177] by nm22.bullet.mail.ne1.yahoo.com with NNFMP; 21 Aug 2013 08:55:23 -0000
+X-Received: from [98.138.89.169] by tm12.bullet.mail.ne1.yahoo.com with NNFMP; 21 Aug 2013 08:55:23 -0000
+X-Received: from [127.0.0.1] by omp1025.mail.ne1.yahoo.com with NNFMP; 21 Aug 2013 08:55:23 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 327969.20667.bm@...
+X-Received: (qmail 5534 invoked by uid 60001); 21 Aug 2013 08:55:23 -0000
+X-YMail-OSG: U8nvEzUVM1n5RyZYRGE8ureJHpx8iZbnSULL1JOWcbKRKEk
+ 0cnTWlUUJ6Q91myWkU1aWXqjpft4v5woO1MTIkt3gzAgzUO2z9fTOhLA4Udt
+ 92oTDuEYJTDZz.Ys5pEoD57en3P3a3M.Xbdf3_QUHnuNAW0.B357oZ9RQoiH
+ ewfp3VLikZKKB.i0Ryc_DjlIg2tMmdj.NIy65OU5szzl.gXvTi21w0Nxoaqk
+ INIZALm.32He4Ak5loDlQ9qc2a1lZcR4xMrO5OJIIf5jnA3EySLxqgHjmGMU
+ rpOxKCEpCwVBlgi6sFhoib_odO3xLtu.dIPJY98QKWWc1g1Bfen0FSGLGCcd
+ HXgejJTcNHjtrmNyy4DNQNmCCjQCizHXk7wWdvJRF13j2I4lIaCOB86Jcma3
+ _IDBDVFsIFLgtSH7lSwM4CFtJh3ULLgXtgxQs3wra8CQzdwO8aXBc_dlh3aO
+ CbeOQLiIzhpMoR6I9r8N36yhrKfRfd62Ld3DL0jKK.8UyXcxbFcPzUFKGQXk
+ 7jK4lTeyGvAJz8RkZSezsgrpOZaT655OMyL8t94RrnZ9LHrIt1onWs3Ir_BV
+ vhxelW.8In6LYw9pwTl1UDg_xg7IgkQgCIVj0iIZaow3lhGJDMOmvF6LcB8.
+ OMVrz1yFZ39RR5j_YPz53c7z3bqvRsNe6W8Qm1Fu2T_Q7TE.G35pKRu15nU9
+ pzUZDe7nWwA1c7OLMqiPBEtdZ9LjcnmfxmpCiCSGraIUExZhMfr80PjFYT3x
+ UQwAh9lZIfJtar1NBNjmWmKNbGIjXgNmgfOHVrBiT2nBGldTK9OeWzvWZKll
+ HV0Z57XTxBPwFmjd6nK_BHKrjRRHoCyhQrcvjU1UiTYV8Gh0v_rsbQAEIUDp
+ Gp8UZ_xNmzhLiLDo1NwUad.4CMvGAaV8ihz9bakfSarwNeRokrF5GWLEWsGD
+ EvElkrfGdhaCSJNfh.L0LURsZGKn5L_D19zFvnA8cRrtVhNkdiUgRG3bzYvs
+ KhQNWGCZRfXgVNNzvlmLENMiymzmDuyrY25MHGaDaCwcW3OuYZB09nLyofjq
+ HZFRPoym4.91IQBiwJG35ZlU3FlspEaW75fmq6xWWySIF7f3lDUJmRgqfIkp
+ nzwnXLfA8IM_mSvZ_OeTeLd5u8TRfHap_MPDhQgpQBbmYreSpPo0Y.NBdrJd
+ EifUzf3MG19OkzH5rSIZp1dqU39h.rZ_xyJyiJzmKFqvg2k1HOvm4kswOsq6
+ qjqQ6mvkl0JeBbZCs_rG1HhHJ3IRi8A16aKLwdsoKHq8zGwdtXmZjUYSykf1
+ _qIQpErUX4ii9ebtQWxRJssaicKZS5m8z.PWli9xCtELSXzE1HmXvn7FamJQ
+ P.SAuALUI6bnHXhrnNgIScK84sUNiCjiLcRMOxjVdSuwMFOukuklG6Hrn70L
+ L3P78HE16YzC8TBNulB9mLIeSHNx7rCvzec1xxFim5S2y.2oC5vPHLhxjCZA
+ F9YIGwShswnKVKJiLIXIjPvTSQpEgIS4py6Yly2vFGO9iwpGMa9Wo9yucTBL
+ St68.l0srleX9uy2DomdcjuRch3eIf8ft2TXuc0YhSiM775KN66s_1XCX9Hi
+ OyhCGm5I.AZqHfuN3IWG8MOiQIrPRyPPv8X9ZOL4CHO8.a0NS7TTCOXXS2jh
+ usCmlaB.E7GraPIis4M5CnfU.jvzHpQ1dC7eLRKc.oDoQHaC529oFBiXTKYg
+ Orhe_CpwSkItjaAxYzEJ2D2LvdTRW9cWB6T_kAN295wOKpf80BvjfY9mN0nu
+ HR5_xqDskNgmhWmvN3MRCOcFDALt4N_ajABM3qcTUaOMzKcFuKCq8MUTzB9t
+ cJzHqwOWoboTxtQdCPk7qCHWfBKatsH8xlxCJDlMhmTM4HmvEnIz8f5ho3SE
+ CETiOZskA2HK8gR0aHEwJzl9sOTvCcLcxPu7G6XiPXvXt5AjbWfIlJwRODl8
+ De9NpRw1_TVaROG7wKpfnyuG8FVc9MRpvCcCaus3X4QOH1MMg6nEpprwIhUU
+ GIlDJvnyaYK17jRlkJo._edv4oAql64BTXZLcI0Cw2FBkNp2aPh49SCjcoxP
+ xxLTf75DH4m8O.bUGRelV.PBpOlJCvlEPOFb3PY0sofirM5NWUN7Py8gL2i1
+ 2fIgCUmI3VvjU1BK5QSU3DXbHd_sIL_xg3_s3ccChIDcWLCWS3uV.YKDKEmF
+ Ps2ZM.L0hxVdRwBSAS4Fz_23YP.Cu.82jXNmrT3jMTdMFB1YtiYS3LD1B08X
+ kXtqJTKLr0BwhSsKxOTC6rJYJZ79vddyQCsDYCD3.j1CZCw2AZklf3.tPAVb
+ avZ7z1_XRcSa1r8VwqaCmq6mQ
+X-Received: from [1.23.102.64] by web120506.mail.ne1.yahoo.com via HTTP; Wed, 21 Aug 2013 01:55:23 PDT
+X-Rocket-MIMEInfo: 002.001,RGVhciBTaHJpIE5hcmF5YW5hIFJhbyBKaSwKTmFtYXN0ZQoKVGhpcyBpcyBhIE1hbnRyYSB3aGljaCBpcyBkZWRpY2F0ZWQgdG8gTmFyYXNpbWhhOyB0aGUgaGFsZiBtYW4gaGFsZiBsaW9uOyB0aGUgZm91cnRoIEF2YXRhciBvZiBWaXNobnUuIFRoaXMgTWFudHJhIGlzIHJlY2l0ZWQgdG8gd2FyZCBvZmYgZXZpbCBhbmQgaW5hdXNwaWNpb3VzwqBkcmVhbXMuCgoKClRoZcKgTmFyYXNpbWhhwqBBdmF0YXIgaXMgYSBmZWFyc29tZSBtYW5pZmVzdGF0aW9uIG9mIFZpc2hudSBhbmQgY29uc2lkZXJlZCBpbiBJbmQBMAEBAQE-
+X-Mailer: YahooMailWebService/0.8.155.576
+References: <ktofs6+qpg9@...> <BAY167-W88B549E8C6D724D650F257E25C0@...> <1375727026.38849.YahooMailNeo@...> <1375730941.53539.YahooMailNeo@...>
+Message-ID: <1377075323.3144.YahooMailNeo@...>
+Date: Wed, 21 Aug 2013 01:55:23 -0700 (PDT)
+To: "vedic-wisdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com>
+In-Reply-To: <1375730941.53539.YahooMailNeo@...>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="910021593-1495986946-1377075323=:3144"
+X-Originating-IP: 10.193.84.36
+X-eGroups-Msg-Info: 1:12:0:0:0
+From: Saurabh Kaushik <skaushik29@...>
+Reply-To: Saurabh Kaushik <skaushik29@...>
+Subject: Fw: Mantra for protection from spirits (at nighttime)!!!
+X-Yahoo-Group-Post: member; u=555528604
+
+
+--910021593-1495986946-1377075323=:3144
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Dear Shri Narayana Rao Ji,
+Namaste
+
+This is a Mantra which is dedicated to =
+Narasimha; the half man half lion; the fourth Avatar of Vishnu. This Mantra=
+ is recited to ward off evil and inauspicious=C2=A0dreams.
+
+
+
+The=C2=A0Nara=
+simha=C2=A0Avatar is a fearsome manifestation of Vishnu and considered in I=
+ndian scriptures as being most powerful in destroying evil energies.
+
+ 
+Man=
+tra to ward off evil dreams 
+Reciting this Mantra before going to bed is sa=
+id to protect you from evil dreams. It is also recommended that when one ex=
+periences an evil or inauspicious=C2=A0dreams=C2=A0one should recite this M=
+antra 108 times to negate the ill effects of that dream.
+
+Regards,
+
+Saurabh=
+ Kaushik
+
+
+._,_.___
+
+Reply via web post  Reply to sender   Reply to group  =
+ Start a New Topic  Messages in this topic (2)  
+Recent Activity: 	* New Me=
+mbers 8   
+Visit Your Group 
+|| Om Shaantih Shaantih Shaantih ||
+
+ 
+Switch =
+to: Text-Only, Daily Digest =E2=80=A2 Unsubscribe =E2=80=A2 Terms of Use =
+=E2=80=A2 Send us Feedback 
+. 
+
+ 
+--910021593-1495986946-1377075323=:3144
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"color:#000; background-color:#fff; font-family:ta=
+homa, new york, times, serif;font-size:14pt"><div class=3D"yiv5814908485Mso=
+Normal" style=3D"margin-bottom: 1em; padding: 0px; line-height: 15.859375px=
+; color: rgb(69, 69, 69);"><span style=3D"line-height: 1.22em; color: rgb(3=
+1, 73, 125); font-size: 13px;">Dear Shri Narayana Rao Ji,</span></div><div>=
+<span style=3D"font-size: small;"></span></div><div class=3D"yiv5814908485M=
+soNormal" style=3D"margin-bottom: 1em; padding: 0px; line-height: 15.859375=
+px; color: rgb(69, 69, 69);"><span style=3D"line-height: 1.22em; color: rgb=
+(31, 73, 125); font-size: 13px;">Namaste</span></div><div><span style=3D"fo=
+nt-size: small;"><br></span></div>  <div style=3D"font-family: tahoma, 'new=
+ york', times, serif;"> <div style=3D"font-family: 'times new roman', 'new =
+york', times, serif;"> <div dir=3D"ltr"><span style=3D"font-size: small; fo=
+nt-family: tahoma, 'new york', times, serif;"><span class=3D"yui_3_7_2_57_1=
+377074140741_117"
+ style=3D"background-color: transparent;">This is a Mantr=
+a which is dedicated to Narasimha; the half man half lion; the fourth Avata=
+r of Vishnu. This Mantra is recited to ward off evil and inauspicious</span=
+><span class=3D"yui_3_7_2_57_1377074140741_118" style=3D"background-color: =
+transparent;"> </span><a rel=3D"nofollow" target=3D"_blank" href=3D"ht=
+tp://www.prophet666.com/2011/07/mantra-to-get-answer-in-dream-3.html" class=
+=3D"yui_3_7_2_57_1377074140741_119" style=3D"background-color: transparent;=
+ text-decoration: none; color: rgb(102, 0, 0);">dreams</a><span class=3D"yu=
+i_3_7_2_57_1377074140741_120" style=3D"background-color: transparent;">.</s=
+pan><br></span></div><div class=3D"y_msg_container"><div id=3D"yiv761419261=
+0"><div style=3D"color: rgb(0, 0, 0); background-color: rgb(255, 255, 255);=
+ font-family: arial, helvetica, sans-serif;"><div style=3D"font-family: ari=
+al, helvetica, sans-serif;"><div style=3D"font-family: 'times new roman', '=
+new york', times, serif;"><div
+ class=3D"yiv7614192610y_msg_container"><div=
+ id=3D"yiv7614192610"><div style=3D"color: rgb(0, 0, 0); background-color: =
+rgb(255, 255, 255); font-family: arial, helvetica, sans-serif;"><div class=
+=3D"yiv7614192610MsoNormal" style=3D"text-align: justify; font-family: aria=
+l, helvetica, sans-serif;"><div style=3D"text-align:left;"><span style=3D"f=
+ont-size: small; font-family: tahoma, 'new york', times, serif;"><br></span=
+></div></div><div class=3D"yiv7614192610MsoNormal" style=3D"text-align: jus=
+tify; font-family: arial, helvetica, sans-serif;"><div style=3D"text-align:=
+left;"><span style=3D"font-size: small; font-family: tahoma, 'new york', ti=
+mes, serif;">The <span class=3D"yiv7614192610apple-style-span"><a rel=
+=3D"nofollow" target=3D"_blank" href=3D"http://www.prophet666.com/2010/10/n=
+arasimha-aarti-english-marathi.html" style=3D"text-decoration:none;color:rg=
+b(102, 0, 0);"><span style=3D"color:windowtext;text-decoration:none;">Naras=
+imha</span></a> Avatar is a fearsome manifestation of
+ Vishnu and cons=
+idered in Indian scriptures as being most powerful in destroying evil energ=
+ies.</span></span></div></div><span style=3D"font-size: small; font-family:=
+ tahoma, 'new york', times, serif;"><a rel=3D"nofollow" name=3D"more" style=
+=3D"color: rgb(0, 0, 0); font-family: Georgia, Utopia, 'Palatino Linotype',=
+ Palatino, serif;" href=3D""></a><br style=3D"font-family: Georgia, Utopia,=
+ 'Palatino Linotype', Palatino, serif;"></span><table align=3D"center" cell=
+padding=3D"0" cellspacing=3D"0" class=3D"yiv7614192610tr-caption-container"=
+ style=3D"text-align: left; padding: 4px; margin-bottom: 0.5em; margin-left=
+: auto; margin-right: auto; font-family: Georgia, Utopia, 'Palatino Linotyp=
+e', Palatino, serif;"><tbody><tr><td><a rel=3D"nofollow" target=3D"_blank" =
+href=3D"http://4.bp.blogspot.com/-0FJz_clCO_g/T1otosYP7cI/AAAAAAAADJg/ZlwE_=
+RpRuPs/s1600/prophet666.com-+272.png" style=3D"text-decoration: none; color=
+: rgb(102, 0, 0); margin-left: auto; margin-right: auto; font-size: small;
+=
+ font-family: tahoma, 'new york', times, serif;"><img border=3D"0" height=
+=3D"107" src=3D"http://4.bp.blogspot.com/-0FJz_clCO_g/T1otosYP7cI/AAAAAAAAD=
+Jg/ZlwE_RpRuPs/s320/prophet666.com-+272.png" width=3D"320" style=3D""></a><=
+/td></tr><tr><td class=3D"yiv7614192610tr-caption"><span style=3D"font-size=
+: small; font-family: tahoma, 'new york', times, serif;">Mantra to ward off=
+ evil dreams</span></td></tr></tbody></table><div class=3D"yiv7614192610Mso=
+Normal" style=3D"text-align: justify; font-family: arial, helvetica, sans-s=
+erif;"><div style=3D"text-align:left;"><span style=3D"font-size: small; fon=
+t-family: tahoma, 'new york', times, serif;"><span class=3D"yiv7614192610ap=
+ple-style-span">Reciting this Mantra before going to bed is said to protect=
+ you from evil dreams. It is also recommended that when one experiences an =
+evil or inauspicious </span><a rel=3D"nofollow" target=3D"_blank" href=
+=3D"http://www.prophet666.com/2011/04/mantra-to-get-answer-in-dream-2.html"=
+
+ style=3D"text-decoration:none;color:rgb(102, 0, 0);">dreams</a> one =
+should recite
+ this Mantra 108 times to negate the ill effects of that drea=
+m.</span></div></div><span style=3D"font-size: small; font-family: tahoma, =
+'new york', times, serif;"><br><br><span>Regards,</span><br></span><div><sp=
+an style=3D"font-size: small; font-family: tahoma, 'new york', times, serif=
+;">Saurabh Kaushik<br><br></span><div style=3D"font-family: arial, helvetic=
+a, sans-serif;"> <div style=3D"font-family: 'times new roman', 'new york', =
+times, serif;"> <div dir=3D"ltr"> </div><div class=3D"yiv7614192610y_msg_co=
+ntainer"><div id=3D"yiv7614192610"><div><div id=3D"yiv7614192610ygrp-mlmsg"=
+ style=3D""><div id=3D"yiv7614192610ygrp-msg" style=3D""><div id=3D"yiv7614=
+192610ygrp-text"><div dir=3D"ltr"><div><div id=3D"yiv7614192610ecxygrp-mlms=
+g"><div id=3D"yiv7614192610ecxygrp-msg"><div id=3D"yiv7614192610ecxygrp-tex=
+t"><span style=3D"font-size: small; font-family: tahoma, 'new york', times,=
+ serif;"><span style=3D"color: rgb(255, 255, 255);">._,_.___</span><br></sp=
+an></div></div></div></div></div></div>
+
+        
+  
+  
+    <table cellspac=
+ing=3D"4px" style=3D"margin-top:20px;margin-bottom:10px;">
+      <tbody>
+  =
+      <tr>
+          <td style=3D"font-weight: bold; padding: 7px 5px 5px; =
+color: rgb(255, 255, 255); background-color: rgb(242, 242, 242); border: 1p=
+x solid rgb(234, 234, 234); font-family: arial;">
+                         =
+ <span style=3D"font-size: small; font-family: tahoma, 'new york', times, s=
+erif;"><a rel=3D"nofollow" style=3D"text-decoration:none;color:#2D50FD;" ta=
+rget=3D"_blank" href=3D"http://groups.yahoo.com/group/vedic-wisdom/post;_yl=
+c=3DX3oDMTJxc2pndnYzBF9TAzk3MzU5NzE0BGdycElkAzE5MDI5MDE1BGdycHNwSWQDMTcwNTA=
+3NTk5MQRtc2dJZAM5NTY4BHNlYwNmdHIEc2xrA3JwbHkEc3RpbWUDMTM3NTcxOTk4Nw--?act=
+=3Dreply&messageNum=3D9568">Reply via web post</a>
+                    =
+  </span></td>
+          <td style=3D"padding: 7px 5px 5px; color: rgb(255,=
+ 255, 255); background-color: rgb(242, 242, 242); border: 1px solid rgb(234=
+, 234, 234); font-family: arial;">
+            <span style=3D"font-size: sm=
+all; font-family: tahoma, 'new york', times, serif;"><a rel=3D"nofollow" ym=
+ailto=3D"mailto:harsha.n@...?subject=3DRE%3A%20%5Bvedic-wisdom%5D%20Ma=
+ntra%20for%20protection%20from%20spirits%20%28at%20nighttime%29" target=3D"=
+_blank" href=3D"mailto:harsha.n@...?subject=3DRE%3A%20%5Bvedic-wisdom%=
+5D%20Mantra%20for%20protection%20from%20spirits%20%28at%20nighttime%29" sty=
+le=3D"text-decoration:none;color:#2D50FD;">
+              Reply to sender  =
+          </a> 
+          </span></td>
+          <td style=3D"padding: 7px =
+5px 5px; color: rgb(255, 255, 255); background-color: rgb(242, 242, 242); b=
+order: 1px solid rgb(234, 234, 234); font-family: arial;">
+            <spa=
+n style=3D"font-size: small; font-family: tahoma, 'new york', times, serif;=
+"><a rel=3D"nofollow" ymailto=3D"mailto:vedic-wisdom@yahoogroups.com?subjec=
+t=3DRE%3A%20%5Bvedic-wisdom%5D%20Mantra%20for%20protection%20from%20spirits=
+%20%28at%20nighttime%29" target=3D"_blank" href=3D"mailto:vedic-wisdom@yaho=
+ogroups.com?subject=3DRE%3A%20%5Bvedic-wisdom%5D%20Mantra%20for%20protectio=
+n%20from%20spirits%20%28at%20nighttime%29" style=3D"text-decoration:none;co=
+lor:#2D50FD;">
+              Reply to group            </a> 
+          </sp=
+an></td>
+          <td style=3D"padding: 7px 5px 5px; color: rgb(255, 255, =
+255); background-color: rgb(242, 242, 242); border: 1px solid rgb(234, 234,=
+ 234); font-family: arial;">
+            <span style=3D"font-size: small; f=
+ont-family: tahoma, 'new york', times, serif;"><a rel=3D"nofollow" target=
+=3D"_blank" href=3D"http://groups.yahoo.com/group/vedic-wisdom/post;_ylc=3D=
+X3oDMTJmYjU2YXA3BF9TAzk3MzU5NzE0BGdycElkAzE5MDI5MDE1BGdycHNwSWQDMTcwNTA3NTk=
+5MQRzZWMDZnRyBHNsawNudHBjBHN0aW1lAzEzNzU3MTk5ODc-" style=3D"text-decoration=
+:none;color:#2D50FD;">Start a New Topic</a>
+          </span></td>
+        =
+  <td style=3D"padding: 7px 5px 5px; color: rgb(45, 80, 253); background-co=
+lor: rgb(242, 242, 242); border: 1px solid rgb(234, 234, 234); font-family:=
+ arial;">
+                            <span style=3D"font-size: small; font=
+-family: tahoma, 'new york', times, serif;"><a rel=3D"nofollow" target=3D"_=
+blank" href=3D"http://groups.yahoo.com/group/vedic-wisdom/message/9567;_ylc=
+=3DX3oDMTM1MXVqdmlmBF9TAzk3MzU5NzE0BGdycElkAzE5MDI5MDE1BGdycHNwSWQDMTcwNTA3=
+NTk5MQRtc2dJZAM5NTY4BHNlYwNmdHIEc2xrA3Z0cGMEc3RpbWUDMTM3NTcxOTk4NwR0cGNJZAM=
+5NTY3" style=3D"text-decoration:none;color:#2D50FD;">Messages in this topic=
+</a>
+                (2)
+                      </span></td>
+        </tr>
+ =
+     </tbody>
+    </table>
+
+        
+
+
+
+
+
+<div id=3D"yiv7614192610ygrp-vita=
+l" style=3D"background-color: rgb(242, 242, 242); margin-bottom: 10px; padd=
+ing: 10px; font-family: Verdana;">
+      <span style=3D"font-size: small; f=
+ont-family: tahoma, 'new york', times, serif;"><span id=3D"yiv7614192610vit=
+hd" style=3D"font-weight:bold;color:#333;text-transform:uppercase;">Recent =
+Activity:</span>
+
+    <ul style=3D"list-style-type:none;margin:0;padding:0;=
+display:inline;">
+            <li style=3D"border-right:1px solid #000;font=
+-weight:700;display:inline;padding:0 5px;margin-left:0;">
+      <span class=
+=3D"yiv7614192610cat"><a rel=3D"nofollow" target=3D"_blank" href=3D"http://=
+groups.yahoo.com/group/vedic-wisdom/members;_ylc=3DX3oDMTJnbzJzYTZtBF9TAzk3=
+MzU5NzE0BGdycElkAzE5MDI5MDE1BGdycHNwSWQDMTcwNTA3NTk5MQRzZWMDdnRsBHNsawN2bWJ=
+ycwRzdGltZQMxMzc1NzE5OTg3?o=3D6" style=3D"text-decoration:none;">New Member=
+s</a></span>
+      <span class=3D"yiv7614192610ct" style=3D"color:#ff7900;"=
+>8</span>
+    </li>
+                                              </ul>
+   =
+ 
+  </span><div style=3D"clear:both;padding-top:2px;color:#1e66ae;">
+    <s=
+pan style=3D"font-size: small; font-family: tahoma, 'new york', times, seri=
+f;"><a rel=3D"nofollow" target=3D"_blank" href=3D"http://groups.yahoo.com/g=
+roup/vedic-wisdom;_ylc=3DX3oDMTJmN2xzMG1uBF9TAzk3MzU5NzE0BGdycElkAzE5MDI5MD=
+E1BGdycHNwSWQDMTcwNTA3NTk5MQRzZWMDdnRsBHNsawN2Z2hwBHN0aW1lAzEzNzU3MTk5ODc-"=
+ style=3D"text-decoration:none;">Visit Your Group</a>
+  </span></div>
+</div=
+>
+
+
+      <div id=3D"yiv7614192610ygrp-grfd" style=3D"padding: 15px 0px; fo=
+nt-family: Verdana;"><span style=3D"font-size: small; font-family: tahoma, =
+'new york', times, serif;">
+      
+
+
+      || Om Shaantih Shaantih Shaantih=
+ ||<br>
+      
+
+
+    </span></div>
+  
+<div id=3D"yiv7614192610ft" style=3D"=
+margin-top: 5px; padding: 0px 2px 0px 0px; clear: both; font-family: Arial;=
+">
+  <a rel=3D"nofollow" target=3D"_blank" href=3D"http://groups.yahoo.com/=
+;_ylc=3DX3oDMTJlM29lZGRtBF9TAzk3NDc2NTkwBGdycElkAzE5MDI5MDE1BGdycHNwSWQDMTc=
+wNTA3NTk5MQRzZWMDZnRyBHNsawNnZnAEc3RpbWUDMTM3NTcxOTk4Nw--" style=3D"float:l=
+eft;"><span style=3D"font-size: small; font-family: tahoma, 'new york', tim=
+es, serif;"><img src=3D"http://l.yimg.com/a/i/us/yg/logo/us.gif" height=3D"=
+15" width=3D"137" alt=3D"Yahoo! Groups" style=3D"border:0;"></span></a>
+  <=
+div style=3D"color:#747575;float:right;"><span style=3D"font-size: small; f=
+ont-family: tahoma, 'new york', times, serif;">Switch to: <a rel=3D"nofollo=
+w" ymailto=3D"mailto:vedic-wisdom-traditional@yahoogroups.com?subject=3DCha=
+nge%20Delivery%20Format:%20Traditional" target=3D"_blank" href=3D"mailto:ve=
+dic-wisdom-traditional@yahoogroups.com?subject=3DChange%20Delivery%20Format=
+:%20Traditional" style=3D"text-decoration:none;">Text-Only</a>, <a rel=3D"n=
+ofollow" ymailto=3D"mailto:vedic-wisdom-digest@yahoogroups.com?subject=3DEm=
+ail%20Delivery:%20Digest" target=3D"_blank" href=3D"mailto:vedic-wisdom-dig=
+est@yahoogroups.com?subject=3DEmail%20Delivery:%20Digest" class=3D"yiv76141=
+92610margin-rt" style=3D"text-decoration:none;">Daily Digest</a> =E2=80=A2 =
+<a rel=3D"nofollow" ymailto=3D"mailto:vedic-wisdom-unsubscribe@yahoogroups.=
+com?subject=3DUnsubscribe" target=3D"_blank" href=3D"mailto:vedic-wisdom-un=
+subscribe@yahoogroups.com?subject=3DUnsubscribe" style=3D"text-decoration:n=
+one;">Unsubscribe</a> =E2=80=A2 <a rel=3D"nofollow"
+ target=3D"_blank" href=
+=3D"http://docs.yahoo.com/info/terms/" style=3D"text-decoration:none;">Term=
+s of Use</a> =E2=80=A2 <a rel=3D"nofollow" ymailto=3D"mailto:ygroupsnotific=
+ations@yahoogroups.com?subject=3DFeedback%20on%20the%20redesigned%20individ=
+ual%20mail%20v1" target=3D"_blank" href=3D"mailto:ygroupsnotifications@yaho=
+ogroups.com?subject=3DFeedback%20on%20the%20redesigned%20individual%20mail%=
+20v1" style=3D"text-decoration:none;">Send us Feedback </a></span></div>
+</=
+div>
+
+
+
+  </div> 
+
+  
+  
+  <div id=3D"yiv7614192610ygrp-sponsor" style=3D"w=
+idth:160px;float:right;clear:none;margin:0 0 25px 0;background:#fff;">
+
+
+<d=
+iv id=3D"yiv7614192610ygrp-reco">
+     </div>
+
+
+
+
+  </div>   
+
+  <div style=
+=3D"clear: both; color: rgb(255, 255, 255);"><span style=3D"font-size: smal=
+l; font-family: tahoma, 'new york', times, serif;">.</span></div>
+</div>
+
+ =
+ <span style=3D"font-size: small; font-family: tahoma, 'new york', times, s=
+erif;"><img src=3D"http://geo.yahoo.com/serv?s=3D97359714/grpId=3D19029015/=
+grpspId=3D1705075991/msgId=3D9568/stime=3D1375719987" width=3D"1" height=3D=
+"1"> <br>
+
+</span><div style=3D"color:#fff;height:0;"><span style=3D"font-s=
+ize: small; font-family: tahoma, 'new york', times, serif;"></span></div>
+
+=
+
+</div>
+
+
+
+
+
+</div><span style=3D"font-size: small; font-family: tahoma, 'n=
+ew york', times, serif;"><br><br></span></div> </div> </div>  </div></div><=
+/div><span style=3D"font-size: small; font-family: tahoma, 'new york', time=
+s, serif;"><br><br></span></div> </div> </div>  </div></div><span style=3D"=
+font-size: small; font-family: tahoma, 'new york', times, serif;"><br></spa=
+n><br></div> </div> </div>  </div></body></html>
+--910021593-1495986946-1377075323=:3144--
+
+

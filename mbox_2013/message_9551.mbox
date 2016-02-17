@@ -1,0 +1,196 @@
+From sumeet18064@...  Wed Feb 17 11:10:39 2016
+Return-Path: <sumeet18064@...>
+X-Sender: sumeet18064@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 63283 invoked by uid 102); 3 Aug 2013 04:51:52 -0000
+X-Received: from unknown (HELO mtaq6.grp.bf1.yahoo.com) (10.193.84.37)
+  by m6.grp.bf1.yahoo.com with SMTP; 3 Aug 2013 04:51:52 -0000
+X-Received: (qmail 26309 invoked from network); 3 Aug 2013 04:51:52 -0000
+X-Received: from unknown (HELO nm2-vm1.bullet.mail.ne1.yahoo.com) (98.138.91.33)
+  by mtaq6.grp.bf1.yahoo.com with SMTP; 3 Aug 2013 04:51:52 -0000
+X-Received: from [98.138.101.130] by nm2.bullet.mail.ne1.yahoo.com with NNFMP; 03 Aug 2013 04:51:51 -0000
+X-Received: from [98.138.226.56] by tm18.bullet.mail.ne1.yahoo.com with NNFMP; 03 Aug 2013 04:51:51 -0000
+X-Received: from [127.0.0.1] by smtp207.mail.ne1.yahoo.com with NNFMP; 03 Aug 2013 04:51:51 -0000
+X-Yahoo-Newman-Id: 435672.62015.bm@...
+X-Yahoo-Newman-Property: ymail-3
+X-YMail-OSG: I0DnRJkVM1lM0bLzlTsCVOpcxbx158TLMAWaizuz1uZSccU
+ UXylhZ12Lt4V4hYCoTef2Ox7bKRWq83aUQwH_9dFaagXB9Tral6JT52VJUou
+ 6WKSJLzyTXIratWsfYv3Gbb9s7JpOb2WXk6Ja9NizidmTk7.Yzn_pwMrqw3H
+ 7nLjZ3BJZH_nfbDef4JLYoF62.5G4Ajeqt67dQIOwknoddmEFxBAvriVw.kK
+ 4rbs4mwKN1fPN30DAvSJCBpT_18Qd0QpYlldH7JZ1bc3.sE_CDXwTulHDei_
+ I.wDHRoycgWFlCyoR.I0I3Ywo6h_t6rauJJAcJrn1YSwuEw80yd7UGrK3HpC
+ uf0.0NsZqlX6OCsrA.fd.VQSgbhGFqOiLLxCIwjYRilgEavgAT1yBVbkmDKd
+ RBSQNNUYAi6i2iOYPdtRwRo_0Fd3r2Suhsk42gO_ZIwGTDNuW8r0UPFYn8lf
+ Dh4Vr5WEr9WG2eV5rED0E8ELukWRIPF6pszsiRuau09pt0HjkkKCDeIgVHXI
+ .X_OcHOSgOawTaNTc1ynDlvU.Qi14MYunvZi3yVaibTDXX0UMtVHhBGcAW1W
+ .Zwe.2gyDibwWn38rLVgcByjbhwt61.zyztuaG8xDMK5X3twHtQ.wsUOa2uN
+ 5_qe61t8eWu9Pwlx7uZP2PklovEGQpBor1MZHoaymcxZC0dBFBFwVQxX5y93
+ 1322c05moIn5l_R2SOvySXTOmNzrmpv2YKNR57PjW__yUrR0KpFp_9iDygU7
+ fhyGStHb6c1Nj5v90E5t6fj5EVV_Nz7uMPV5J6t2JwHcQPA1tVUkI18iF3qS
+ Rxi.1083ndy8ISwcWGQtfDCXJ4aan0qWMOg8MpI17VkJkWqP1H2CHYTR23ZZ
+ mhySShoOpyV5OSmb62krvDXRSnGpflobl5LJOB0U_1KhQc4UV1y4ffp6Y1lf
+ b6Ls0D_KUzJzzohCAZmeoY22PNrn3lYorGDGRlhD8ZWcZAMvHryv2pcq_wjU
+ BudAlomrj4t283_VyEpC6Vmhlpc3xxJAyybwdSY2551UrmCP4x6La25xH.LG
+ iGEWRXVOHsu.TtovtXq6ZaN1tNqqpPmvaOZLkxOhSF.XYWsnXnTMz4QIJsKb
+ prMaw1UALdvt3NMspZNW_sPmH5d33gAT15oYCNc9N7F9yZavBixiVkUcgIsu
+ MlffzdvIAtjJcLG.NQBvZOtV0zUa1.Q.4gMb4owMNb2Z6fE4ZZTaIxhPZk0V
+ ubHq1VDZeSrRhzRl_QyDe64JhlzWmYzGKc0C9Frgyh8HYMd4AuB61FJ7jSDQ
+ JZeNW9Btd5MvvLMLZKFsT7oALFPA922RIAaXNpV27T.GiV4CxZ3dxISMlg1P
+ twU63ZIecqG.5M8t6Ii4sAmToXPEec3kNxrF.s2EidcTDnThOiKX4MaXLgEo
+ 7zOaCWzIBc_oS8ST2yj807EjmhkbMnALYntK.6dm49eabQjwHAktYVk1NlI6
+ 97CsoSnFxE7CnBdot8KGT1KfL9fecPJYXf_e0xpRm3QndkCm4NqtoKyS_B0E
+ I7GyHKq7yI9g5XGey4lWgvzGAkt6uURxinmtgPH296S.LElYbaIYiW3P.nj9
+ 8oHXTwpPliF4VZpiiMXbZgPpTRNkeQNAs4Lyh6kzLxhkf72aED5ktOwLIQ2.
+ zEcZjDGTRa_7Op01UZ_dQzHNgMj.l7Nk9TntqzC__FAcKKODU_0AL5Djw6XT
+ P72M6NUSUWq7LKsg.i9x3SioeHRdBXhYgJxmXO1UfUdg8FgKqTI7BVDOYY39
+ zRB81MTXGDtjeWN80vzvC4Nk4E1jSnfnF2ci8PyQM3wxpuj0N9kLc2T_zp5_
+ R1BLw51ILIsV1DaolROQHgG.6WKPzscvxXwHzIgKIFQVCUv58xkdiSjoS3WH
+ 3DWhO_xD1zqVElE7GmBQnqr8utprjpv8ea5PuPqsBaB3dZp1GKuPqVJsI7fv
+ B.3qHZivlfaRoh6Bts7yxWvaptjAeEtCEOjJQU1SJ6wTB8Sj2CWRRg0CMQNe
+ o.W5QLfCaYHixc9sqdlB1HA--
+X-Yahoo-SMTP: uZ56XkCswBA6wWvC3nj6sQikDrnpmAuo
+X-Rocket-Received: from [192.168.100.106] (sumeet18064@99.247.80.140 with )
+        by smtp207.mail.ne1.yahoo.com with SMTP; 02 Aug 2013 21:51:51 -0700 PDT
+References: <CAJ9joEaVYm1vaVPf0Tv6wXHKkuqAEgEkt8_5QdsAMkXUxq3WaQ@...>
+Content-Type: multipart/alternative;
+	boundary=Apple-Mail-40E0A565-AAA3-4364-B9B4-C661BDB90806
+X-Mailer: iPhone Mail (10B350)
+In-Reply-To: <CAJ9joEaVYm1vaVPf0Tv6wXHKkuqAEgEkt8_5QdsAMkXUxq3WaQ@...>
+Message-Id: <DF91C7D5-D5FF-4815-BBEB-351150352BE9@...>
+Date: Sat, 3 Aug 2013 00:51:49 -0400
+To: "vedic-wisdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com>
+Content-Transfer-Encoding: 7bit
+Mime-Version: 1.0 (1.0)
+X-Originating-IP: 10.193.84.37
+X-eGroups-Msg-Info: 1:12:0:0:0
+From: Sumeet Kumar <sumeet18064@...>
+Subject: Re: [vedic-wisdom] chandi homam short procedure
+X-Yahoo-Group-Post: member; u=167313342; y=Qs1qB_Rf-emwHFJJ9xZ3lAmme_YeAGuln2AF7kAxoO5soPlZVxM
+X-Yahoo-Profile: sumeet18064
+
+
+--Apple-Mail-40E0A565-AAA3-4364-B9B4-C661BDB90806
+Content-Type: text/plain;
+	charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+When you say that you have Hindi version of the Saptashloki, are you doing =
+ahoutis with the Sanskrit Shlokas (700) or doing something with the Hindi v=
+erses? 
+
+There are different strategies to maintain the Homam fire for leng=
+thy Homams but there are not too many short cuts to the total Homam time if=
+ you plan to do the entire Saptashati.  You can trim some of the earlier of=
+ferings but the entire 13 chapters will take time - 700 Shlokas. 
+
+There ar=
+e several alternates such as doing Homam with Saptashloki only or doing Hom=
+am with the 4 stutis in chapter 1,4,5, and 11, etc. in the beginning. 
+
+It =
+is better to practice oral recitation of the Saptashloki and once you can r=
+ead the entire chapters in 60-90 mins (keeping pronunciation clear) then yo=
+u have good chance to wrap the Homam in less time. 
+
+Sumeet
+
+On 2013-08-03,=
+ at 12:42 AM, Durgesh Mishra <durgesh.mishra@...> wrote:
+
+> Dear Frie=
+nds,
+> 
+> Yesterday I did chandi homam as per the procedure given Narsimhaj=
+i's website. In the main homam part, I did Kavach, Keelak, Argala. Then I w=
+ent on to Saptashati. I have hindi version of Saptashati which is quite lon=
+g. It was close to 2 hrs and I was not able to finish saptashati and the ho=
+mam fire extinguished at 4th chapter.
+> 
+> If I had to finish saptashati, i=
+t would have taken another hour or so.
+> 
+> So I was just wondering, how pe=
+ople perform chandi homam daily.
+> 
+> Is there any short procedure to it ?
+=
+> 
+> Thanks and Regards
+> Durgesh O Mishra
+> 
+
+--Apple-Mail-40E0A565-AAA3-4364-B9B4-C661BDB90806
+Content-Type: text/html;
+	charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><meta http-equiv=3D"content-type" content=3D"text/html; charset=
+=3Dutf-8"></head><body dir=3D"auto"><div>When you say that you have Hindi v=
+ersion of the Saptashloki, are you doing ahoutis with the Sanskrit Shlokas =
+(700) or doing something with the Hindi verses? </div><div><br></div><=
+div>There are different strategies to maintain the Homam fire for lengthy H=
+omams but there are not too many short cuts to the total Homam time if you =
+plan to do the entire Saptashati.  You can trim some of the earlier of=
+ferings but the entire 13 chapters will take time - 700 Shlokas. </div=
+><div><br></div><div>There are several alternates such as doing Homam with =
+Saptashloki only or doing Homam with the 4 stutis in chapter 1,4,5, and 11,=
+ etc. in the beginning. </div><div><br></div><div>It is better to prac=
+tice oral recitation of the Saptashloki and once you can read the entire ch=
+apters in 60-90 mins (keeping pronunciation clear) then you have good chanc=
+e to wrap the Homam in less time. </div><div><br>Sumeet</div><div><br>=
+On 2013-08-03, at 12:42 AM, Durgesh Mishra <<a href=3D"mailto:durgesh.mi=
+shra@...">durgesh.mishra@...</a>> wrote:<br><br></div><block=
+quote type=3D"cite"><div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span style=3D"display:none"> =
+</span>
+
+
+
+    <div id=3D"ygrp-text">
+      
+      
+      <p></p><div dir=
+=3D"ltr"><div>Dear Friends,</div><div><br></div><div>Yesterday I did chandi=
+ homam as per the procedure given Narsimhaji's website. In the main homam p=
+art, I did Kavach, Keelak, Argala. Then I went on to Saptashati. I have hin=
+di version of Saptashati which is quite long. It was close to 2 hrs and I w=
+as not able to finish saptashati and the homam fire extinguished at 4th cha=
+pter.</div>
+<div><br></div><div>If I had to finish saptashati, it would hav=
+e taken another hour or so.</div><div><br></div><div>So I was just wonderin=
+g, how people perform chandi homam daily.</div><div><br></div><div>Is there=
+ any short procedure to it ?</div>
+<div><br></div><div>Thanks and Regards</=
+div><div>Durgesh O Mishra</div></div>
+<p></p>
+
+    </div>
+     
+
+    
+
+
+
+
+
+=
+<!-- end group email -->
+
+</div></blockquote></body></html>
+--Apple-Mail-40E0A565-AAA3-4364-B9B4-C661BDB90806--
+
+

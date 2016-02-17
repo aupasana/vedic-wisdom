@@ -1,0 +1,393 @@
+From ramki108@...  Wed Feb 17 11:10:40 2016
+Return-Path: <ramki108@...>
+X-Sender: ramki108@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 83427 invoked by uid 102); 5 Aug 2013 07:07:20 -0000
+X-Received: from unknown (HELO mtaq2.grp.bf1.yahoo.com) (10.193.84.33)
+  by m1.grp.bf1.yahoo.com with SMTP; 5 Aug 2013 07:07:20 -0000
+X-Received: (qmail 31655 invoked from network); 5 Aug 2013 07:07:18 -0000
+X-Received: from unknown (HELO nm37.bullet.mail.ne1.yahoo.com) (98.138.229.30)
+  by mtaq2.grp.bf1.yahoo.com with SMTP; 5 Aug 2013 07:07:18 -0000
+X-Received: from [127.0.0.1] by nm37.bullet.mail.ne1.yahoo.com with NNFMP; 05 Aug 2013 07:07:18 -0000
+X-Received: from [98.138.90.50] by nm37.bullet.mail.ne1.yahoo.com with NNFMP; 05 Aug 2013 07:04:30 -0000
+X-Received: from [106.10.166.121] by tm3.bullet.mail.ne1.yahoo.com with NNFMP; 05 Aug 2013 07:04:28 -0000
+X-Received: from [106.10.150.28] by tm10.bullet.mail.sg3.yahoo.com with NNFMP; 05 Aug 2013 07:04:28 -0000
+X-Received: from [127.0.0.1] by omp1029.mail.sg3.yahoo.com with NNFMP; 05 Aug 2013 07:04:28 -0000
+X-Yahoo-Newman-Property: ymail-4
+X-Yahoo-Newman-Id: 508344.50448.bm@...
+X-Received: (qmail 98596 invoked by uid 60001); 5 Aug 2013 07:04:28 -0000
+X-YMail-OSG: JXCQw7gVM1kj47lOiglvGeAJki3wEiDOkItarmsS77dCL7W
+ SxG73UNhNZSHzszbE6dNiagpRoD2f0As.5Qzuq7KxT4IvIMgXlzaS5OyNESv
+ LAkb4a0OFaEqtybdFWG3Gso.bHKnCSXoOhGbL_sxSHe7dpDs2oXbDCMq1bAd
+ B2QhLCwXawdqi3LOPjQH7ruoJyswe9xIyFLI_ANfWTDRMZh28IftrGpjAfbT
+ 09svMszWMJnoth4cjgGZCwWhetuxzI5IMghGfvnncM5BlsSwffE5BwrHZ5o0
+ 0pdHjGo.KOC0JA3skuLDCAuo.dkqhqVyIKJzW8Gxc.mrUNjKLyV8Aj0PhvFD
+ 6Lq0SHfgJ6L1VMjiERmENy1H0j8KV4_cFYuz7ZrZHuXQH5WwmVuXuu7bG1t_
+ mgqQTKkOVMe9R3ocmsYuHV.DeVYP1y7kRvQ2lv00gvWuVyf8qQ5B4AirbYQU
+ KVA47go6d5UVNqsw1zzC0Tb0GF_Z_LPEyM6yWVgkv_W9Kr8IcxxHpH9VNwyt
+ FrwmaLYwh9Umiv6pmumwCc4pjy04PT_l0bqpI1u6z9RYXLm42pg1U6ZKhTJr
+ IycWVTrk4Y10yBlyxeliajLRV7KmpJGo9AKvR57x8gWJDy.1mb_QrBNBE2r1
+ ue6N2N3nxK0pce4EY.zu2POcJhTy.2dBbjnCLAr7qJvLzaHyu15nKOitECy8
+ .QSCdOCN6npTYPIbmJ.bXyTtfLo05qGpgGPihZ4t3BrBpbOfVmsP.jIAK8dn
+ 0eYjoCefpWLpe.q.CVr_qqAhPs0myuNVatKIOgcLmrzVv_bIjSyGqfIbwtsZ
+ dKZLPM91erRigxXX0b3O31asHUro55VggfPVLVU7xvUbqPjCC0tkpWGbh3Xd
+ 3.LEQGOlbzNvAC_M5Ex7EZSgaHWuNZxMSpQeheefEY2I_ynCXjYTlwkbAwT0
+ kixgGOjppB6ZfM29A5lNY.un3miM6tyQP5Ani1vPYsvex9G7pS9I5ZcbTBfR
+ aXMopIjr_t9CFXTBvOC4XboOtDhy9wDmRb8sdkhStCMrdv_0Z5zgLanE89a4
+ MZfMk4Amc.OqJSZBKPwNm8ArP0MZ1fwiepio4bI_xOopV1H7Hg0hwnoCCJtY
+ 3BFq5utQsw6pkjoP4wIlQ7XIx39jGwSAstKzZ.aqKZh3b8ojGjXpiQfvqW.K
+ 7aKRaD3285HPKpvNaJOCyozPgP8xPHV9vwocivWzeLJsohrO_rTzJag2M40w
+ 0MISJM.xXx1vhwM_2NybmQR1ZP2lsRPJKbz2GnUpk2fv4L6cbVyW64H3I1xi
+ LsSxbucZLKYyxSGPKcEZV.WXWo9wY9gYK.WmH1YvnkIWvqJsELGyMA_TFkc5
+ 7iRPOZj1S1rNhFeI9OCKEmVcdYRvz9eJOIkTwxmNLEfoOv7DCkKr_beFpj8e
+ tJUt0RVgsyUcSXHw.uF17K1qOqJWPZSn2tmhcnywNCYZXnvzn6jD0TcHmF9q
+ Gke5cJC8U8kUTe_Q7PWeBqmjxKCqEMrKAGxlcewLb2jkGZKq3_X0TFYKWeTB
+ NCCwxUFWHG3KcxtwBB1sEvXiE60noB4a28MF.3JjYxXV6CiPtY753kr2D_fC
+ M5Fcg.cd67xW4X4mnLui8c5ZKTmIu0EREJ59EbD3RVJr2k5KLZBSLorPihrK
+ Zn.Sy3Z6.KJg1pxmy.Sg6UvMjwsVp_iIBP8aZidm8H2ALltRVd85KAUQO3XX
+ 4FXlMStGnmzXJidsmsDkpwRpBiKJNfWaU8LYcnJMScoEvrqW2B49LHzhQOey
+ f8bTp_zngO_pScEg6JjrJEf7VcZOJmpVIXmJfCWig1lg4DdF0FMPTEYcjvqG
+ jX.mOTpbXs6ooIVXdKZhcsJ_4ku2SBh.aaiSHrHejv.3G9xLyTkGbkyTFD4y
+ voSdfGJA-
+X-Received: from [119.226.234.18] by web193503.mail.sg3.yahoo.com via HTTP; Mon, 05 Aug 2013 15:04:28 SGT
+X-Rocket-MIMEInfo: 002.001,T00gU0hSSSBHQU5FU0hBWUEgTkFNQUhBCsKgCkRlYXIgTXIuIEFqaXQsCsKgCkp1c3QgbWFuYWdlZCB0byBsb2NhdGUgYW5kIHN0dWR5IHRoZSBwYWdlIHVzaW5nIHRoZSAiUmFtYWtyaXNobmEgc2FjcmVkIHRocmVhZCIgbGluayB0aGF0IHlvdSBtZW50aW9uZWQuIFRoYW5rcyBhIHRvbi4gSXQgaGFzIHNlcnZlZCBteSBwdXJwb3NlIGFkZXF1YXRlbHkgLSBtb3JlIHRoYW4gYW55IGludGVsbGVjdHVhbCBpbnRlcm5ldCBiYW50ZXIuIEkgZG9uJ3Qgc2VlIGFueSBmdXJ0aGVyIHBvaW50IGluIGRpc2N1c3NpbmcBMAEBAQE-
+X-Mailer: YahooMailWebService/0.8.152.567
+References: <1375545591.19589.YahooMailNeo@...> <CAJY401WPD7fk9Xv+4r7fBCTCVot2Tq+n3nu1bLPeCDbsbUDj4g@...>
+Message-ID: <1375686268.98423.YahooMailNeo@...>
+Date: Mon, 5 Aug 2013 15:04:28 +0800 (SGT)
+To: "vedic-wisdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com>
+In-Reply-To: <CAJY401WPD7fk9Xv+4r7fBCTCVot2Tq+n3nu1bLPeCDbsbUDj4g@...>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="1898624822-1413995048-1375686268=:98423"
+X-Originating-IP: 10.193.84.33
+X-eGroups-Msg-Info: 1:12:0:0:0
+From: Ramakrishnan Krishnamurthy <ramki108@...>
+Reply-To: Ramakrishnan Krishnamurthy <ramki108@...>
+Subject: Re: [vedic-wisdom] Thanks, Mr. Ajit - sacred thread
+X-Yahoo-Group-Post: member; u=204118071; y=vdNH3flxjg3ckBKZRTL9nubJasS4muEEoXLsdUXr0xd2K3k
+X-Yahoo-Profile: ramki108
+
+
+--1898624822-1413995048-1375686268=:98423
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+OM SHRI GANESHAYA NAMAHA
+=C2=A0
+Dear Mr. Ajit,
+=C2=A0
+Just managed to locat=
+e and study the page using the "Ramakrishna sacred thread" link that you me=
+ntioned. Thanks a ton. It has served my purpose adequately - more than any =
+intellectual internet banter. I don't see any further point in discussing t=
+his topic.
+=C2=A0
+God bless.
+K. Ramakrishnan
+ 
+
+___________________________=
+_____
+ From: Ajit Krishnan <ajit.krishnan@...>
+To: vedic-wisdom@yahoo=
+groups.com 
+Sent: Monday, 5 August 2013 12:00 AM
+Subject: Re: [vedic-wisdom=
+] On discarding the sacred thread
+  
+=C2=A0  
+ 
+Dear Ramakrishnan,
+
+>=C2=A0=
+I have been feeling hindered in my spiritual progress due to the feel of th=
+e sacred thread on my body during my sadhana.
+
+ 
+If you feel that the sacre=
+d thread hinders you, your clothes and underclothes must really, really hin=
+der you. I'm partly joking, and partly serious.
+
+Search google for "ramakri=
+shna sacred thread", and click on the book result for "ramakrishna and his =
+disciples". Don't just read the first 1 or 2 paragraphs. Keep reading to un=
+derstand this episode in context. 
+
+Narasimha has previously written on thi=
+s topic (see the link below). If you search the archives, you will definite=
+ly find other discussions as well.
+
+http://groups.yahoo.com/group/vedic-wis=
+dom/message/2480 
+
+sasneham,
+
+=C2=A0 =C2=A0 ajit
+
+On Sat, Aug 3, 2013 at 8:=
+59 AM, Ramakrishnan Krishnamurthy <ramki108@...> wrote: 
+ 
+>OM SHRI=
+ GANESHAYA NAMAHA
+>
+>
+>Dear Fellow Spiritual Aspirants, 
+>
+>
+>I am 45 years=
+ of age. For the past few years, I have been feeling hindered in my spiritu=
+al progress due to the feel of the sacred thread on my body during my sadha=
+na. In fact, from as far back as I can remember, I have been averse to wear=
+ing any metal on self, having been very sensitive to any prolonged foreign =
+touch on my body. I have experimented with removing my thread during sadhan=
+a and I find increased levels of consciousness and 'going within' through e=
+nhanced focus and concentration due to lesser distraction and irritation. H=
+as anyone experienced something like this? Why is this so? Is it only physi=
+ological in origin or is there something more to it? 
+>
+>
+>Can you provide =
+me your insights on what our sacred texts say about a 'born brahmin' not we=
+aring and forsaking the sacred thread? I had started feeling many years bac=
+k that wearing it has become only symbolic, especially given the lack of ti=
+me to perform the prescribed rituals, and of little practical relevance to =
+a spiritual aspirant. Also, the yearly community-level (mass) 'avani avitta=
+ms' that we Tamil Iyers have been performing have become quite meaningless =
+since even the priests do not carry out the entire ritual with the rigour, =
+purity, and devotion that is required for this. Please keep in mind that th=
+ese are only my personal observations and opinions and are not intended to =
+hurt anyone's sentiments. =C2=A0 
+>
+>
+>Is there any authoritative ancient t=
+ext which can throw light on this and solve my dilemma, since I continue do=
+nning the thread only in respectful memory of my late father who had got th=
+e ritual performed at the appropriate age? My spiritual pursuits, I feel, c=
+an be given a fillip if I manage to overcome all these bonds. 
+>
+>
+>Awaitin=
+g some informed comments, especially from Narasimha-ji, who always provides=
+ refreshingly scientific arguments that are spiritual to the core.
+>
+>
+>Bes=
+t wishes, 
+>K. Ramakrishnan=C2=A0       
+         
+--1898624822-1413995048-1375686268=:98423
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"color:#000; background-color:#fff; font-family:ti=
+mes new roman, new york, times, serif;font-size:14pt"><div><span>OM SHRI GA=
+NESHAYA NAMAHA</span></div><div><span></span> </div><div><span>Dear Mr=
+. Ajit,</span></div><div><span></span> </div><div><span>Just managed t=
+o locate and study the page using the "Ramakrishna sacred thread" link that=
+ you mentioned. Thanks a ton. It has served my purpose adequately - more th=
+an any intellectual internet banter. I don't see any further point in discu=
+ssing this topic.</span></div><div><span></span> </div><div><span>God =
+bless.</span></div><div><span>K. Ramakrishnan</span></div><div><br></div>  =
+<div style=3D"font-family: times new roman, new york, times, serif; font-si=
+ze: 14pt;"> <div style=3D"font-family: times new roman, new york, times, se=
+rif; font-size: 12pt;"> <div dir=3D"ltr"> <div class=3D"hr" style=3D"margin=
+: 5px 0px; padding: 0px; border: 1px solid rgb(204, 204, 204); height: 0px;=
+
+ line-height: 0; font-size: 0px;" contenteditable=3D"false" readonly=3D"tr=
+ue"></div>  <font face=3D"Arial" size=3D"2"> <b><span style=3D"font-weight:=
+ bold;">From:</span></b> Ajit Krishnan <ajit.krishnan@...><br> =
+<b><span style=3D"font-weight: bold;">To:</span></b> vedic-wisdom@yahoogrou=
+ps.com <br> <b><span style=3D"font-weight: bold;">Sent:</span></b> Monday, =
+5 August 2013 12:00 AM<br> <b><span style=3D"font-weight: bold;">Subject:</=
+span></b> Re: [vedic-wisdom] On discarding the sacred thread<br> </font> </=
+div> <div class=3D"y_msg_container"><wbr><div id=3D"yiv6241631999">
+
+
+
+
+
+
+
+=
+
+
+
+
+
+
+<div>
+<span style=3D"display: none;"> </span>
+
+
+
+    <div id=3D"=
+yiv6241631999ygrp-text">
+      
+      
+      <div>Dear Ramakrishnan,<div><b=
+r></div><div>> I have been feeling hindered in my spiritual progres=
+s due to the feel of the sacred thread on my body during my sadhana.<wbr><d=
+iv><div dir=3D"ltr"><div><br></div><div> </div>
+
+</div></div>
+<div>If =
+you feel that the sacred thread hinders you, your clothes and underclothes =
+must really, really hinder you. I'm partly joking, and partly serious.</div=
+><div><br></div><div>Search google for "ramakrishna sacred thread", and cli=
+ck on the book result for "ramakrishna and his disciples". Don't just read =
+the first 1 or 2 paragraphs. Keep reading to understand this episode in con=
+text.</div>
+
+<div><br></div><div>Narasimha has previously written on this t=
+opic (see the link below). If you search the archives, you will definitely =
+find other discussions as well.</div><div><br></div><div><a href=3D"http://=
+groups.yahoo.com/group/vedic-wisdom/message/2480" target=3D"_blank" rel=3D"=
+nofollow">http://groups.yahoo.com/group/vedic-wisdom/message/2480</a></div>=
+
+
+<div><br></div><div>sasneham,</div><div><br></div><div>    ajit=
+</div><div><br></div><wbr><wbr><div class=3D"yiv6241631999gmail_quote">On S=
+at, Aug 3, 2013 at 8:59 AM, Ramakrishnan Krishnamurthy <span dir=3D"ltr">&l=
+t;<a href=3D"mailto:ramki108@..." target=3D"_blank" rel=3D"nofollow=
+" ymailto=3D"mailto:ramki108@...">ramki108@...</a>></spa=
+n> wrote:<wbr>
+
+<blockquote class=3D"yiv6241631999gmail_quote" style=3D"bor=
+der-left-color: rgb(204, 204, 204); border-left-width: 1px; border-left-sty=
+le: solid;">
+
+
+
+
+
+
+        
+<div>
+
+
+
+
+<wbr><wbr>
+
+
+
+
+<div style=3D"font-fam=
+ily: times new roman, new york, times, serif; font-size: 12pt;"><div><span =
+style=3D"font-size: 18px; font-weight: bold;">OM SHRI GANESHAYA NAMAHA</spa=
+n></div><div><span style=3D"font-size: large; font-weight: bold;"><br>
+
+</s=
+pan></div><div style=3D'font-family: "times new roman", "new york", times, =
+serif; font-style: normal; background-color: transparent;'><span style=3D"f=
+ont-size: large; font-weight: bold;">Dear Fellow Spiritual Aspirants,</span=
+></div>
+
+<div style=3D'font-family: "times new roman", "new york", times, s=
+erif; font-style: normal; background-color: transparent;'><span style=3D"fo=
+nt-size: large; font-weight: bold;"><br></span></div><div style=3D'font-fam=
+ily: "times new roman", "new york", times, serif; font-style: normal; backg=
+round-color: transparent;'>
+
+<span style=3D"font-size: 18px; font-weight: b=
+old;">I am 45 years of age. For the
+ past few years, I have been feeling hi=
+ndered in my spiritual progress due to the feel of the sacred thread on my =
+body during my sadhana. In fact, from as far back as I can remember, I have=
+ been averse to wearing any metal on self, having been very sensitive to an=
+y prolonged foreign touch on my body. I have experimented with removing my =
+thread during sadhana and I find increased levels of consciousness and 'goi=
+ng within' through enhanced focus and concentration due to lesser distracti=
+on and irritation. Has anyone experienced something like this? Why is this =
+so? Is it only physiological in origin or is there something more to it?</s=
+pan></div>
+
+<div style=3D'font-family: "times new roman", "new york", times=
+, serif; font-style: normal; background-color: transparent;'><span style=3D=
+"font-size: large; font-weight: bold;"><br></span></div><div style=3D'font-=
+family: "times new roman", "new york", times, serif; font-style: normal; ba=
+ckground-color: transparent;'>
+
+<span style=3D"font-size: 18px; font-weight=
+: bold;">Can you provide me your insights on what our sacred texts say abou=
+t a 'born brahmin' not wearing and forsaking the sacred thread? I had start=
+ed feeling many years back that wearing it has become only symbolic, especi=
+ally given the lack of time to perform the prescribed rituals, and of littl=
+e practical relevance to a spiritual aspirant. Also, the yearly community-l=
+evel (mass) 'avani avittams' that we Tamil Iyers have been performing have =
+become quite meaningless since even the priests do not carry out the entire=
+ ritual with the rigour, purity, and devotion that is required for this. Pl=
+ease keep in mind that these are only my personal observations and opinions=
+ and are not intended to hurt anyone's sentiments.  </span></div>
+
+<di=
+v style=3D'font-family: "times new roman", "new york", times, serif; font-s=
+tyle: normal; background-color: transparent;'><span style=3D"font-size: lar=
+ge; font-weight: bold;"><br></span></div><div style=3D'font-family: "times =
+new roman", "new york", times, serif; font-style: normal; background-color:=
+ transparent;'>
+
+<span style=3D"font-size: 18px; font-weight: bold;">Is the=
+re any authoritative ancient text which can throw light on this and solve m=
+y dilemma, since I continue donning the thread only in respectful memory of=
+ my late father who had got the ritual performed at the appropriate age? My=
+ spiritual pursuits, I feel, can be given a fillip if I manage to overcome =
+all these bonds.</span></div>
+
+<div style=3D'font-family: "times new roman"=
+, "new york", times, serif; font-style: normal; background-color: transpare=
+nt;'><span style=3D"font-size: large; font-weight: bold;"><br></span></div>=
+<div style=3D'font-family: "times new roman", "new york", times, serif; fon=
+t-style: normal; background-color: transparent;'>
+
+<span style=3D"font-size=
+: large; font-weight: bold;">Awaiting some informed comments, especially fr=
+om Narasimha-ji, who always provides refreshingly scientific arguments that=
+ are spiritual to the core.</span></div><div style=3D'font-family: "times n=
+ew roman", "new york", times, serif; font-style: normal; background-color: =
+transparent;'>
+
+<span style=3D"font-size: large; font-weight: bold;"><br></=
+span></div><div style=3D'font-family: "times new roman", "new york", times,=
+ serif; font-style: normal; background-color: transparent;'><span style=3D"=
+font-size: large; font-weight: bold;">Best wishes,</span></div>
+
+<div style=
+=3D'font-family: "times new roman", "new york", times, serif; font-style: n=
+ormal; background-color: transparent;'><span style=3D"font-size: large; fon=
+t-weight: bold;">K. Ramakrishnan </span></div></div>
+
+
+
+
+
+<wbr>
+
+    
+=
+    
+<wbr>
+
+
+
+
+<div style=3D"color: white;"></div>
+</div></blockquote></div=
+><wbr></div>
+
+
+    </div>
+     
+
+
+
+</div>
+
+
+
+
+</div><wbr><wbr></div> </div>=
+ </div>  </div></body></html>
+--1898624822-1413995048-1375686268=:98423--
+
+

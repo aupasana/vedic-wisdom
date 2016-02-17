@@ -1,0 +1,377 @@
+From b_jamnadas@...  Wed Feb 17 11:10:30 2016
+Return-Path: <b_jamnadas@...>
+X-Sender: b_jamnadas@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 49666 invoked from network); 4 Mar 2013 17:18:58 -0000
+X-Received: from unknown (10.193.84.163)
+  by m10.grp.bf1.yahoo.com with QMQP; 4 Mar 2013 17:18:58 -0000
+X-Received: from unknown (HELO nm14-vm4.bullet.mail.ne1.yahoo.com) (98.138.91.174)
+  by mta3.grp.bf1.yahoo.com with SMTP; 4 Mar 2013 17:18:57 -0000
+X-Received: from [98.138.226.176] by nm14.bullet.mail.ne1.yahoo.com with NNFMP; 04 Mar 2013 17:18:57 -0000
+X-Received: from [98.138.87.11] by tm11.bullet.mail.ne1.yahoo.com with NNFMP; 04 Mar 2013 17:18:57 -0000
+X-Received: from [127.0.0.1] by omp1011.mail.ne1.yahoo.com with NNFMP; 04 Mar 2013 17:18:57 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 478810.26023.bm@...
+X-Received: (qmail 87934 invoked by uid 60001); 4 Mar 2013 17:18:57 -0000
+X-YMail-OSG: 8HrnJwQVM1kgKrZaCn5MFZOmybdbLzSqHuVBuGzXvz2pBVk
+ hl9i8HCiDIPssdwbHIGINJD2_t_PB2.RZQTAmN6i4lMhClLgsStPoRsu3aSz
+ 06ih5.UTBZjmr6dc7_LARw2drelVhCkcs2k86kTgSUDilTpQnJLNGEOH4njr
+ gQwsBiszGx.TwxDMF5J3AdZNlrlpm2cdrXnnx02UYk5epV6BaeugHnFJtUTK
+ KdDMzedwu26XrkLzNxIV2dJ3hnYAdgz1eNRdXgthnHfnqctKEXlHVkRtlqOO
+ VdNGFrcqDpALL3TcgZX2gPwv9UwJdtpoyJAu1eTIAx3.6jCCQ0ALd9hAoj4Q
+ JbVcLwBnkPs63dfX6rICSkCqjCMi8.6_Sf4FwfFt76znEk0k1DJ40zf9tHg4
+ rgLIEMSsyTdMNBVddzh8lSDrhO3ZL4qm22IxyUxu7qSNOQOkf_wvns1AXvO6
+ ERQFE3TmUZdFNOETKtugdN_2tIH4EysKfgK13mHFLS.20zEtpDS1LV80I9q4
+ yZcgbRVEX3mmo68_n.WjRpIxELOdZAD5QrPC.jVn68_xuHsYlvTL9QtqdRFQ
+ npQiWWDGVO0gjreDWKb316Qt9e.HaPa34BLuSgIiURE6NofHPN_aNXP8lLfm
+ 8lQ_2jWBTyc7RhHEWpvefpnRn.GA0wNbg5K.8Eg1BFjrGpbQhpj2LzKj3a_v
+ 4zIrFzedNTIk4MAf9VhjPcdws7GW2nK5M.nzaEYV.B15AqlxsHU_btC66eJC
+ 3skip0_a0_E7Zwybv_tLBZ_UwCIUnSNoP_CtITJ3f_s731wmiJ44NpE4tqP3
+ mQj7EyLJSn.Qli.K7azkydPuPZ8cdIIjkbYNT1AaBYjXa7GNeAJZT7L1TxdZ
+ RcaYrHNweFRkyE3ZlzJuYZrLAJ_wfTW_PqsXWSHK8.cyiidfRo9rc29i5Kqm
+ 9IISzV.fJ5xPYMYn7pxrwfgMiPeRBjOSs3Q9t7BKpmPoQ57L9_5GoB3GRS6y
+ KwS9wkQU6JO8moo6lKyoBI210xaogOn7M_3EPRZKLZHZoqeC4bR9wgA_gF.H
+ 4MwxfYuWkCsUrF9zsxtvx7y9EtYsDFHQbUv3Xo0qdfjy82kQpXTiGBUZganm
+ d3H1hNYdB5zJFGLxN6BW6ALY-
+X-Received: from [70.26.103.171] by web126104.mail.ne1.yahoo.com via HTTP; Mon, 04 Mar 2013 09:18:57 PST
+X-Rocket-MIMEInfo: 001.001,RGVhciBhbGwsCsKgClRoYW5rcyBmb3IgYWxsIHlvdXIgYWR2aXNlLiBMZXQgbWUgc2F5IHRoYXQgbG9va2luZyBmb3IgYSBqb2IgaXMgbm90IGFuIGlzc3VlIHRoYXQgSSBoYXZlIG9ubHkgcmVjZW50bHkgaGFkLCBpdCBoYXMgYWx3YXlzIGJlZW4gdGhlcmUuIEFueXRpbWUgSSBuZWVkIHRvIGNoYW5nZSBteSBqb2IsIGl0IHdpbGwgdGFrZSBtZSB0cmVtZW5kb3VzIGFtb3VudCBvZiB0aW1lIHRvIGdldCBvbmUuCsKgCkkgaGFkIGEgY291cGxlIG9mIGRyZWFtcyBsb25nIHRpbWUgYWdvIG9uIHRoaXMgcmVnYXIBMAEBAQE-
+X-Mailer: YahooMailWebService/0.8.135.514
+References: <1361672246.12307.YahooMailNeo@...> <kh0qeg+g7u2@...> <1362380372.15261.YahooMailNeo@...>
+Message-ID: <1362417537.86298.YahooMailNeo@...>
+Date: Mon, 4 Mar 2013 09:18:57 -0800 (PST)
+To: "vedic-wisdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com>
+In-Reply-To: <1362380372.15261.YahooMailNeo@...>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="1966909624-1965744141-1362417537=:86298"
+X-Originating-IP: 98.138.91.174
+X-eGroups-Msg-Info: 1:12:0:0:0
+From: Bhupendra Jamnadas <b_jamnadas@...>
+Reply-To: Bhupendra Jamnadas <b_jamnadas@...>
+Subject: Re: [vedic-wisdom] Re: Sadhana to remove financial/career obstacles
+X-Yahoo-Group-Post: member; u=149421083; y=wAnB7Anm1Isz3ioKBGfYhC7BC-8kSTuMmD8WhsTHYT9eZUO7HA
+X-Yahoo-Profile: b_jamnadas
+
+
+--1966909624-1965744141-1362417537=:86298
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Dear all,
+=C2=A0
+Thanks for all your advise. Let me say that looking for a =
+job is not an issue that I have only recently had, it has always been there=
+. Anytime I need to change my job, it will take me tremendous amount of tim=
+e to get one.
+=C2=A0
+I had a couple of dreams long time ago on this regard =
+when I was searching for my last job. It attributed my job issues with Pitr=
+u Dosh and someone having done some black magic back when I was still at sc=
+hool to prevent family prosperity. I don't know how correct is this, but=C2=
+=A0how am I to address something like this using homa? If not homa, how els=
+e?
+=C2=A0
+Additionally, Narasimha Rao Ji, why Ganapathi or Lakshmi homa for=
+ wealth? If God is one, shouldn't any homa be able to grant once wish or re=
+move once suffering whatever it may be? I have been doing this homa now for=
+ 4 years. Don't know if I should continue or change it to Ganapathi or Laks=
+hmi sadhana...or Kubera sadhana. At this point, I am so tired that I=C2=A0 =
+am looking for something that will work without having to wait for another =
+4 years and finding out it wasn't the right way. You mentioned once that lo=
+wer=C2=A0etheral beings are more easily pleased. In that sense, would Kuber=
+a sadhana temporarily be better?
+=C2=A0
+Thanks,
+Bhupendra.
+ 
+
+_____________=
+___________________
+ From: Vicky dubey <gotovicky2000@...>
+To: "vedic=
+-wisdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com> 
+Sent: Monday, Marc=
+h 4, 2013 1:59:32 AM
+Subject: Re: [vedic-wisdom] Re: Sadhana to remove fina=
+ncial/career obstacles
+  
+ 
+=C2=A0  
+ 
+Dear Bhupendra Ji, 
+=C2=A0 
+Namaskar=
+, pls be continew what u r doing right now (homam, sadhna, finding suitable=
+ job). I had same problem for 29 months in 2009 onwards. I am an ex-NRI wit=
+h two master degree out of which one from San Jose California USA. I have 1=
+3+ years of xperinc in=C2=A0 best MNCs working around the globe. Right now=
+=C2=A0I am in india and working as a Zonal Manager in an organisaiton of re=
+pute after getting so much rejections even for a "Sub-Standerd" jobs. At ti=
+mes when i was hunting jobs (merely-not a career ) I was told that I am goo=
+d for nothing. By god grace right now I have good profile in hand to die fo=
+r and a handsome salary in pocket, in comparison=C2=A0with the fellows who =
+interviewed me in those time. 
+=C2=A0 
+Please sit tightly on the driving se=
+at of ur life and have patience do not add more sufferings. Unsuccess is in=
+evitable, it will surely come to you whether.......how hard u hv tried but =
+this case is not with success.  
+=C2=A0 
+By the time pls xplor this website=
+ to understand ur problems in different manner.  
+=C2=A0 
+http://www.spirit=
+ualresearchfoundation.org/ 
+=C2=A0 
+Regards, 
+vishwas 
+=C2=A0 
+ 
+
+_________=
+_______________________
+From: PVR <pvr108@...>
+To: vedic-wisdom@yahoo=
+groups.com 
+Sent: Monday, 4 March 2013 6:08 AM
+Subject: [vedic-wisdom] Re: =
+Sadhana to remove financial/career obstacles
+ 
+=C2=A0 
+Namaste Sir,I am sor=
+ry to know your situation and have no specific advice.If there is a big pil=
+e of sand blocking one's path, all I know is that shoveling it away will un=
+block the path. I have no idea how long one needs to do it. It depends on h=
+ow big the pile is and how big one's shovel is. In other words, the heavine=
+ss of the karmas blocking one and the intensity of the remedial measures de=
+cide when one breaks through. It may be a day or a decade or whatever.For m=
+aterial concerns related to finances, usually worship of Ganapathi or Laksh=
+mi is recommended. Homam of Lakshmi with Kanaka Dhara Sotram (composed by A=
+di Shankara) is a good option, but I was asked by my guru not to include it=
+ in Mahalakshmi homam manual as one of the options. But one can download th=
+e stotram from the web and use it. One needs to just add swaahaa at the end=
+ of each verse and make offerings.There are billions of really really suffe=
+ring human beings (and many many more other
+ beings) on this earth. When I =
+read news sometimes, my heart gets wrenched. But, unfortunately, there is n=
+othing I can do, except praying to Her to give conviction and direction to =
+those suffering, so that they can eventually find their way out of their mi=
+sery.I hope some divine force will show you the right direction. Doing some=
+ sadhana sincerely for a while is a great thing in this age. I hope some be=
+nefit accrues.Best regards,Narasimha--------Astrology & Spirituality Resour=
+ces: http://www.vedicastrologer.org/----------- In mailto:vedic-wisdom%40ya=
+hoogroups.com, Bhupendra Jamnadas wrote:>> Dear Narasimha Ji,> =C3=82=C2=A0=
+> Do you have no advice? I started homa to resolve this very issue in life,=
+ but I see that it provides me no releive in this time of need. I have been=
+ looking for a job since last 1 year and I fail at every interview each tim=
+e consoling myself that perhaps the job was perhaps=C3=82=C2=A0not right me=
+ which is why god did not wish for this job or that
+ job for me, yet I am w=
+orking in the mpost undesirable environment and have been wanting to get ou=
+t of there. It is really getting very unbearable and depressing and I see w=
+hat I have done is of=C3=82=C2=A0zero help.> =C3=82=C2=A0> Thanks,> Bhupend=
+ra> > > ________________________________> From: Bhupendra Jamnadas > To: Ve=
+dic Wisdom mailto:vedic-wisdom%40yahoogroups.com> > Sent: Wednesday, Februa=
+ry 20, 2013 9:42:01 PM> Subject: [vedic-wisdom] Sadhana to remove financial=
+/career obstacles> > > =C3=82=C2=A0 > > Namaste Narasimha ji, > What would =
+be the sadhana or homa to be done to remove career and income obstacles. I =
+have had a dedicated=C3=82=C2=A0 spiritual practice for quite a long time a=
+nd over 4 years with homa, I am unable to remove obstacles internal and ext=
+ernal. > Thanks,> Bhupendra   
+         
+--1966909624-1965744141-1362417537=:86298
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"color:#000; background-color:#fff; font-family:ti=
+mes new roman, new york, times, serif;font-size:12pt"><div><span>Dear all,<=
+/span></div><div><span></span> </div><div><span>Thanks for all your ad=
+vise. Let me say that looking for a job is not an issue that I have only re=
+cently had, it has always been there. Anytime I need to change my job, it w=
+ill take me tremendous amount of time to get one.</span></div><div><span></=
+span> </div><div><span>I had a couple of dreams long time ago on this =
+regard when I was searching for my last job. It attributed my job issues wi=
+th Pitru Dosh and someone having done some black magic back when I was stil=
+l at school to prevent family prosperity. I don't know how correct is this,=
+ but how am I to address something like this using homa? If not homa, =
+how else?</span></div><div><span></span> </div><div><span>Additionally=
+, Narasimha Rao Ji, why Ganapathi or Lakshmi homa for wealth? If God
+ is on=
+e, shouldn't any homa be able to grant once wish or remove once suffering w=
+hatever it may be? I have been doing this homa now for 4 years. Don't know =
+if I should continue or change it to Ganapathi or Lakshmi sadhana...or Kube=
+ra sadhana. At this point, I am so tired that I  am looking for someth=
+ing that will work without having to wait for another 4 years and finding o=
+ut it wasn't the right way. You mentioned once that lower etheral bein=
+gs are more easily pleased. In that sense, would Kubera sadhana temporarily=
+ be better?</span></div><div><span></span> </div><div><span>Thanks,</s=
+pan></div><div><span>Bhupendra.</span></div><div><br></div>  <div style=3D"=
+font-family: times new roman, new york, times, serif; font-size: 12pt;"> <d=
+iv style=3D"font-family: times new roman, new york, times, serif; font-size=
+: 12pt;"> <div dir=3D"ltr"> <font size=3D"2" face=3D"Arial"> <div style=3D"=
+margin: 5px 0px; padding: 0px; border: 1px solid rgb(204, 204, 204);
+ heigh=
+t: 0px; line-height: 0; font-size: 0px;" class=3D"hr" contentEditable=3D"fa=
+lse" readonly=3D"true"></div>  <b><span style=3D"font-weight: bold;">From:<=
+/span></b> Vicky dubey <gotovicky2000@...><br> <b><span style=
+=3D"font-weight: bold;">To:</span></b> "vedic-wisdom@yahoogroups.com" <v=
+edic-wisdom@yahoogroups.com> <br> <b><span style=3D"font-weight: bold;">=
+Sent:</span></b> Monday, March 4, 2013 1:59:32 AM<br> <b><span style=3D"fon=
+t-weight: bold;">Subject:</span></b> Re: [vedic-wisdom] Re: Sadhana to remo=
+ve financial/career obstacles<br> </font> </div> <wbr><div id=3D"yiv6317856=
+73">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div>
+<span style=3D"display: none;"> </span>
+
+
+
+   =
+ <div id=3D"yiv631785673ygrp-text">
+      
+      
+      <div style=3D"color=
+: rgb(0, 0, 0); font-family: times new roman, new york, times, serif; font-=
+size: 12pt; background-color: rgb(255, 255, 255);"><div><span>Dear Bhupendr=
+a Ji,</span></div>
+<div><span></span> </div>
+<div style=3D"color: rgb(=
+0, 0, 0); font-family: times new roman, new york, times, serif; font-size: =
+16px; font-style: normal; background-color: transparent;"><span>Namaskar, p=
+ls be continew what u r doing right now (homam, sadhna, finding suitable jo=
+b). I had same problem for 29 months in 2009 onwards. I am an ex-NRI with t=
+wo master degree out of which one from San Jose California USA. I have 13+ =
+years of xperinc in  best MNCs working around the globe. Right now&nbs=
+p;I am in india and working as a Zonal Manager in an organisaiton of repute=
+ after getting so much rejections even for a "Sub-Standerd" jobs. At times =
+when i was hunting jobs (merely-not a care<var id=3D"yiv631785673yui-ie-cur=
+sor"></var>er ) I was told that I am good for nothing. By god grace right n=
+ow I have good profile in hand to die for and a handsome salary in pocket, =
+in comparison with the fellows who interviewed me in those time.</span=
+></div>
+<div><span></span> </div>
+<div style=3D"color: rgb(0, 0, 0); f=
+ont-family: times new roman, new york, times, serif; font-size: 16px; font-=
+style: normal; background-color: transparent;"><span>Please sit tightly on =
+the driving seat of ur life and have patience do not add more sufferings. U=
+nsuccess is inevitable, it will surely come to you whether.......how hard u=
+ hv tried but this case is not with success. </span></div>
+<div><span></spa=
+n> </div>
+<div><span>By the time pls xplor this website to understand =
+ur problems in different manner. </span></div>
+<div style=3D"color: rgb(0, =
+0, 0); font-family: times new roman, new york, times, serif; font-size: 16p=
+x; font-style: normal; background-color: transparent;"><span></span> <=
+/div>
+<div style=3D"color: rgb(0, 0, 0); font-family: times new roman, new =
+york, times, serif; font-size: 16px; font-style: normal; background-color: =
+transparent;"><span><a href=3D"http://www.spiritualresearchfoundation.org/"=
+ rel=3D"nofollow" target=3D"_blank">http://www.spiritualresearchfoundation.=
+org/</a></span></div>
+<div><span></span> </div>
+<div><span>Regards,</s=
+pan></div>
+<div><span>vishwas</span></div>
+<div><span></span> </div>
+<=
+div><br></div>
+<div style=3D"font-family: times new roman, new york, times,=
+ serif; font-size: 12pt;">
+<div style=3D"font-family: times new roman, new =
+york, times, serif; font-size: 12pt;">
+<div dir=3D"ltr"><font size=3D"2" fa=
+ce=3D"Arial">
+<div style=3D"border: 1px solid rgb(204, 204, 204); height: 0=
+px; font-size: 0px;" class=3D"yiv631785673hr"></div><b><span style=3D"font-=
+weight: bold;">From:</span></b> PVR <pvr108@...><br><b><span st=
+yle=3D"font-weight: bold;">To:</span></b> vedic-wisdom@yahoogroups.com <br>=
+<b><span style=3D"font-weight: bold;">Sent:</span></b> Monday, 4 March 2013=
+ 6:08 AM<br><b><span style=3D"font-weight: bold;">Subject:</span></b> [vedi=
+c-wisdom] Re: Sadhana to remove financial/career obstacles<br></font></div>=
+ 
+<div id=3D"yiv631785673">
+<div><span> </span> 
+<div id=3D"yiv6317856=
+73ygrp-text">
+<div>Namaste Sir,<wbr><wbr>I am sorry to know your situation =
+and have no specific advice.<wbr><wbr>If there is a big pile of sand blocki=
+ng one's path, all I know is that shoveling it away will unblock the path. =
+I have no idea how long one needs to do it. It depends on how big the pile =
+is and how big one's shovel is. In other words, the heaviness of the karmas=
+ blocking one and the intensity of the remedial measures decide when one br=
+eaks through. It may be a day or a decade or whatever.<wbr><wbr>For materia=
+l concerns related to finances, usually worship of Ganapathi or Lakshmi is =
+recommended. Homam of Lakshmi with Kanaka Dhara Sotram (composed by Adi Sha=
+nkara) is a good option, but I was asked by my guru not to include it in Ma=
+halakshmi homam manual as one of the options. But one can download the stot=
+ram from the web and use it. One needs to just add swaahaa at the end of ea=
+ch verse and make offerings.<wbr><wbr>There are billions of really really
+ =
+suffering human
+ beings (and many many more other beings) on this earth. Wh=
+en I read news sometimes, my heart gets wrenched. But, unfortunately, there=
+ is nothing I can do, except praying to Her to give conviction and directio=
+n to those suffering, so that they can eventually find their way out of the=
+ir misery.<wbr><wbr>I hope some divine force will show you the right direct=
+ion. Doing some sadhana sincerely for a while is a great thing in this age.=
+ I hope some benefit accrues.<wbr><wbr>Best regards,<wbr>Narasimha<wbr>----=
+----<wbr>Astrology & Spirituality Resources: <a href=3D"http://www.vedi=
+castrologer.org/" rel=3D"nofollow" target=3D"_blank">http://www.vedicastrol=
+oger.org/</a><wbr>--------<wbr><wbr>--- In <a href=3D"mailto:vedic-wisdom%4=
+0yahoogroups.com" rel=3D"nofollow" target=3D"_blank" ymailto=3D"mailto:vedi=
+c-wisdom%40yahoogroups.com">mailto:vedic-wisdom%40yahoogroups.com</a>, Bhup=
+endra Jamnadas wrote:<wbr>><wbr>> Dear Narasimha Ji,<wbr>> =C3=82&=
+nbsp;<wbr>> Do you have
+ no advice? I started
+ homa to resolve this very=
+ issue in life, but I see that it provides me no releive in this time of ne=
+ed. I have been looking for a job since last 1 year and I fail at every int=
+erview each time consoling myself that perhaps the job was perhaps=C3=82&nb=
+sp;not right me which is why god did not wish for this job or that job for =
+me, yet I am working in the mpost undesirable environment and have been wan=
+ting to get out of there. It is really getting very unbearable and depressi=
+ng and I see what I have done is of=C3=82 zero help.<wbr>> =C3=82&n=
+bsp;<wbr>> Thanks,<wbr>> Bhupendra<wbr>> <wbr>> <wbr>> _____=
+___________________________<wbr>> From: Bhupendra Jamnadas <wbr>> To:=
+ Vedic Wisdom <a href=3D"mailto:vedic-wisdom%40yahoogroups.com" rel=3D"nofo=
+llow" target=3D"_blank" ymailto=3D"mailto:vedic-wisdom%40yahoogroups.com">m=
+ailto:vedic-wisdom%40yahoogroups.com</a>> <wbr>> Sent: Wednesday, Feb=
+ruary 20, 2013 9:42:01 PM<wbr>> Subject: [vedic-wisdom]
+ Sadhana to remo=
+ve
+ financial/career obstacles<wbr>> <wbr>> <wbr>> =C3=82  <w=
+br>> <wbr>> Namaste Narasimha ji, <wbr>> What would be the sadhana=
+ or homa to be done to remove career and income obstacles. I have had a ded=
+icated=C3=82  spiritual practice for quite a long time and over 4 year=
+s with homa, I am unable to remove obstacles internal and external. <wbr>&g=
+t; Thanks,<wbr>> Bhupendra<wbr><wbr></div></div></div></div></div></div>=
+</div> 
+
+    </div>
+     
+
+
+
+</div>
+
+
+
+
+
+</div><wbr><wbr> </div> </div>  </=
+div></body></html>
+--1966909624-1965744141-1362417537=:86298--
+
+

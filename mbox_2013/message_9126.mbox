@@ -1,0 +1,442 @@
+From rajarshi14@...  Wed Feb 17 11:10:31 2016
+Return-Path: <rajarshi14@...>
+X-Sender: rajarshi14@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 62662 invoked from network); 16 Mar 2013 19:17:15 -0000
+X-Received: from unknown (10.193.84.151)
+  by m3.grp.bf1.yahoo.com with QMQP; 16 Mar 2013 19:17:15 -0000
+X-Received: from unknown (HELO nm24-vm2.bullet.mail.sg3.yahoo.com) (106.10.151.81)
+  by mta5.grp.bf1.yahoo.com with SMTP; 16 Mar 2013 19:17:13 -0000
+X-Received: from [106.10.166.113] by nm24.bullet.mail.sg3.yahoo.com with NNFMP; 16 Mar 2013 19:17:12 -0000
+X-Received: from [106.10.150.24] by tm2.bullet.mail.sg3.yahoo.com with NNFMP; 16 Mar 2013 19:17:12 -0000
+X-Received: from [127.0.0.1] by omp1025.mail.sg3.yahoo.com with NNFMP; 16 Mar 2013 19:17:12 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 459214.92695.bm@...
+X-Received: (qmail 3298 invoked by uid 60001); 16 Mar 2013 19:17:12 -0000
+X-YMail-OSG: uyjxST4VM1lCpF6jHATRoEs5JRhcbKqPrSNqUF5QZ9X3bJP
+ zzII8BBgXCw8qIXpg1_VaDQ5D0ZQGiqRIwKxz1gQ4A.AjExi75YqYI9RlJB_
+ S9D_xhcoug2Z4d25MKqcYkQRvLqj9BR9x_dmlFDmfF2Yb9ukOHKjSprZNxxe
+ qcSe2vqiXBFrvD_pYvEw0fw8.0oj3Fi0cKU4eRCamwwdmcNmzDtyeqeciI4E
+ LeDV47R_qRNO41skGAGWQXhwz2URPDtJZ2oMM5PmiDmeptAJsF2Wdr6bChGA
+ lly.xeWYjG8_OAbIy2ll3Pi5cBqRalM4OREtea5GiUfVL9QQV8HcY9Z22UiT
+ Y0UYCSxIP8hFgxj.O2BxYc.qzNhKOq2k.Vrx4lsNjxizeMiMVbtTzh.bglkw
+ fI7PcI9evEnPiXoQSjFiTuLhR08a5rSf1.o51vw__.a2RtYDpuMtWGCgtRuU
+ .GdDyIhtmV_lAeW6Ge5mSzFphhdxDdZIyZPaYQuwlemH0IC6eSC50VHIfytk
+ 4.3uVCLj22qBbLDkKR6AwIDphW59mm3AJvo1ELkKDIhpFlJlWdPt3egg5aoc
+ lhcpSOxLOo.YZ6ITWjclzFOMh41mt2Y4w4f4rF7aYoY3LZKxY30btq2UpPMU
+ yxIQBfHoAa0rPXI_XgU21iNNnABK8HDKfVgMyoXljvlu4HC6uqyrGkb7rTlx
+ o3qNWnds2MbweIUFPis5_soJLfX6raQpSol100FbgmWd7q2RvF6ZuALtKRh7
+ ytO4P5pMhVfes0OtXpiWJceuXafQBQwo4_4bkOmcI0.DShcv6JRK09PMh8nu
+ vKNhIACT9pCtQCRACXnqzTwU7.OsFPAnFL3HikDLfJjV5GraRcGz0NQwi195
+ w0dy7B.G5l6t1P_bTZokg0uYP5zdLR878akxXX7g-
+X-Received: from [14.97.230.167] by web190904.mail.sg3.yahoo.com via HTTP; Sun, 17 Mar 2013 03:17:11 SGT
+X-Rocket-MIMEInfo: 002.001,TmljZSBleGFtcGxlLi4KCgpIb3dldmVyLCBJTUhPLCBwZW9wbGUgbWFrZSBvbmUgdml0YWwgbWlzdGFrZSB3aGVuIGl0IGNvbWVzIHRvIEthcm1hLVlvZ2EuIFRoZXkgYmVsaWV2ZSB0aGF0IEthcm1hIHlvZ2EgbWVhbnMgaGVscGZ1bCBhY3Rpdml0aWVzLCBoZWxwZnVsIHRvIHNvY2lldHkgYW5kIG90aGVycyBFVEMuIFRoYXQgaXMgS2FybWEgYW5kIHByb2JhYmx5IGdvb2Qga2FybWEuIEJ1dCB0aGVyZSBpcyBhIHRoaW4gYW5kIGNydWNpYWwgbGluZSB0aGF0IHNlcGFyYXRlcyBrYXJtYSBmcm9tIGJlY29taW4BMAEBAQE-
+X-Mailer: YahooMailWebService/0.8.137.519
+References: <khd8o3+5ri9@...> <CAJY401Wh0-xUMe0SVKCp1YJo_dmg2jraQ9Xi=AT20kmZVShxyA@...>
+Message-ID: <1363461431.1368.YahooMailNeo@...>
+Date: Sun, 17 Mar 2013 03:17:11 +0800 (SGT)
+To: "vedic-wisdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com>
+In-Reply-To: <CAJY401Wh0-xUMe0SVKCp1YJo_dmg2jraQ9Xi=AT20kmZVShxyA@...>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="-2020808392-724054507-1363461431=:1368"
+X-Originating-IP: 106.10.151.81
+X-eGroups-Msg-Info: 1:12:0:0:0
+From: rajarshi nandy <rajarshi14@...>
+Reply-To: rajarshi nandy <rajarshi14@...>
+Subject: Karma Yoga
+X-Yahoo-Group-Post: member; u=216162964; y=GJG8-KOhZmldgjh78mfApQ-U-L-toLbJkvdjgIdPQI20lkpn3Q
+X-Yahoo-Profile: rajarshi14
+
+
+---2020808392-724054507-1363461431=:1368
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Nice example..
+
+
+However, IMHO, people make one vital mistake when it comes=
+ to Karma-Yoga. They believe that Karma yoga means helpful activities, help=
+ful to society and others ETC. That is Karma and probably good karma. But t=
+here is a thin and crucial line that separates karma from becoming a Yoga a=
+nd resulting into Karma-Yoga. In any case everyone is always performing kar=
+ma, some karma. Even breathing is a karma. Krshna says clearly no one can e=
+xist even one moment without performing some karma. The question though is =
+what makes a karma into yoga and therefore a karma-yoga. 
+
+Only when an act=
+ivity is done with zero expectations of any form of result either positive =
+or negative, no conscious or subconscious agendas, and with a stable and co=
+nstant realization that one is merely a minitta in the activity does karma =
+really become karma-yoga. Neither the activity itself, nor the results, or =
+the greater flow of events is even slightly dependent on ones personal effo=
+rt. There are Powers and Agencies far higher than the sharpest human mind a=
+nd the stronger than the strongest human forces, who effortlessly control a=
+nd work towards goals in a comprehensive and flawless manner. It is these w=
+ho perform activities which we, in our limited and puerile vision and persp=
+ective believe to have been done by us. When this nimitta-matra state becom=
+es a constant abiding and actual realization, ONLY then real Karma Yoga sta=
+rts. Before that it is just karma, good or bad, helpful or non-helpful (as =
+per human standards).
+
+Therefore, like any other form of Yoga, Karma-Yoga i=
+s quite difficult. Bottomline being that intense activity, howsoever good, =
+is not to be confused with activity in the mode of yoga (karma-yoga), which=
+ is work performed in a state of a high spiritual realization. Therefore ev=
+en simple activities like making tea and chatting with friends can become a=
+ karma yoga (if done in a particular state of mind), while doing massive hu=
+manitarian works (good as they are in their own way) may not necessarily be=
+come karma-yoga.
+
+
+Just my opinion.
+
+=C2=A0
+
+awaktam wyaktimApannam manyant=
+E mAmabuddhayah |
+param bhAwamajAnanto mamAwyayamanuttamam ||[7:24]
+
+
+_____=
+___________________________
+ From: Ajit Krishnan <ajit.krishnan@...>
+=
+To: vedic-wisdom@yahoogroups.com 
+Sent: Saturday, 9 March 2013 12:39 AM
+Sub=
+ject: Re: [vedic-wisdom] The perils of "lip-vendanta".....all talk and no a=
+ction
+ 
+
+=C2=A0 
+namaste,
+=C2=A0
+In the very first chapter of the yoga vasi=
+shtha, there is a short but very interesting story. Once, Vishnu went from =
+Vaikuntha to Brahmaloka. Everyone in Brahmaloka, led by Brahma himself, got=
+ up to receive Vishnu. Sanatkumara alone remained seated. Vishnu told him, =
+"You remain still because you think you are beyond desire, though this is r=
+ooted in ego, and you are still afflicted by desire. Since you have yet to =
+overcome desire, you=C2=A0will still=C2=A0undergo another birth."
+
+=C2=A0
+W=
+hen this applies to=C2=A0Sanatkumara, who are we to think that we are beyon=
+d impurities and karma-yoga? 
+=C2=A0
+sasneham,
+=C2=A0
+=C2=A0 =C2=A0ajit
+=C2=
+=A0
+=C2=A0
+
+
+On Fri, Mar 8, 2013 at 9:56 AM, sunrise_1080 <sunrise_1080@yah=
+oo.co.uk> wrote:
+
+Some food for thought. It's good to undertake an honest s=
+elf-analysis to see where we are going. Towards real vedanta, or 'lip-vedan=
+ta'.
+>
+>Swami Sivananda Saraswati (of the Divine Life Society, Rishikesh):
+=
+>
+>"The practice of karma yoga prepares the aspirant for the reception of k=
+nowledge of the Self. It moulds him into a proper adhikari (eligible one) f=
+or the study of Vedanta."
+>
+>"Ignorant aspirants jump at once to jnana yoga=
+ without any preliminary training in karma yoga. That is the reason why the=
+y fail miserably to realize the truth."
+>
+>"The impurities still lurk in th=
+eir minds. They only talk of Brahman or God, indulging in useless discussio=
+ns, vain debates and dry, endless controversies. Their philosophy is on the=
+ir lips only. In other words, they are lip-Vedantins."
+>
+>********
+>
+>"WHAT=
+ IS REALLY NEEDED IS PRACTICAL VEDANTA THROUGH CEASELESS, SELFLESS SERVICE.=
+"
+>
+>********
+>
+>"A Karma-yogi is either a Karma-bhakta yogi or Karmaa-gyan=
+a yogi. He works with either the bhav of a Bhakta or Gyan."
+>
+>"Certain qua=
+lities such as kindness, mercy, tolerance equal vision, humility which are =
+aids to gyana, can be cultivated through selfless service and service alone=
+."
+>
+>"Glory to Karma yoga ! Glory to Karma Yogins ! The world is in dire n=
+eed of Karma-gnana-yogins but not of mere Mayavadins or lip vedantins who a=
+lways indulge in vedantic gossipping only but who do not turn out something=
+ very practical and useful to the world at large."
+>
+>For the full articles=
+:
+>
+>http://www.yogamag.net/archives/2009/ajan09/integ.shtml
+>
+>saileelas.o=
+rg/articles/saisudha/karma.doc
+>
+>
+>
+>
+>
+>
+>-------------------------------=
+-----
+>
+>|| Om Shaantih Shaantih Shaantih ||
+>Yahoo! Groups Links
+>
+>
+>
+>
+
+=
+ 
+---2020808392-724054507-1363461431=:1368
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"color:#000; background-color:#fff; font-family:Co=
+urier New, courier, monaco, monospace, sans-serif;font-size:12pt">Nice exam=
+ple..<br><br><br>However, IMHO, people make one vital mistake when it comes=
+ to Karma-Yoga. They believe that Karma yoga means helpful activities, help=
+ful to society and others ETC. That is Karma and probably good karma. But t=
+here is a thin and crucial line that separates karma from becoming a Yoga a=
+nd resulting into Karma-Yoga. In any case everyone is always performing kar=
+ma, some karma. Even breathing is a karma. Krshna says clearly no one can e=
+xist even one moment without performing some karma. The question though is =
+what makes a karma into yoga and therefore a karma-yoga. <br><br>Only when =
+an activity is done with zero expectations of any form of result either pos=
+itive or negative, no conscious or subconscious agendas, and with a stable =
+and constant realization that one is merely a minitta in the activity
+ does=
+ karma really become karma-yoga. Neither the activity itself, nor the resul=
+ts, or the greater flow of events is even slightly dependent on ones person=
+al effort. There are Powers and Agencies far higher than the sharpest human=
+ mind and the stronger than the strongest human forces, who effortlessly co=
+ntrol and work towards goals in a comprehensive and flawless manner. It is =
+these who perform activities which we, in our limited and puerile vision an=
+d perspective believe to have been done by us. When this nimitta-matra stat=
+e becomes a constant abiding and actual realization, ONLY then real Karma Y=
+oga starts. Before that it is just karma, good or bad, helpful or non-helpf=
+ul (as per human standards).<br><br>Therefore, like any other form of Yoga,=
+ Karma-Yoga is quite difficult. Bottomline being that intense activity, how=
+soever good, is not to be confused with activity in the mode of yoga (karma=
+-yoga), which is work performed in a state of a high spiritual
+ realization=
+. Therefore even simple activities like making tea and chatting with friend=
+s can become a karma yoga (if done in a particular state of mind), while do=
+ing massive humanitarian works (good as they are in their own way) may not =
+necessarily become karma-yoga.<br><div><br><span></span></div><div style=3D=
+"color: rgb(0, 0, 0); font-size: 16px; font-family: Courier New,courier,mon=
+aco,monospace,sans-serif; background-color: transparent; font-style: normal=
+;"><span>Just my opinion.<br></span></div><div> </div><div><br></div><=
+div><i><b><div class=3D"MsoNormal"><b><span class=3D"Apple-style-span" styl=
+e=3D"font-size:16px;"><b><span class=3D"Apple-style-span" style=3D"color:rg=
+b(153, 153, 153);"></span></b></span></b><span class=3D"yui_3_2_0_2_1342435=
+27249950" style=3D"font-family:times new roman, new york, times, serif;">aw=
+aktam wyaktimApannam manyantE mAmabuddhayah |</span><br><b><span class=3D"y=
+ui_3_2_0_2_134243506227946 yui_3_2_0_2_134243527249952
+ yui_3_7_2_34_136345=
+9724145_73" style=3D"FONT-SIZE:10pt;COLOR:navy;FONT-FAMILY:Verdana;"><font =
+color=3D"#000000" face=3D"Times New Roman"><div><div> param bhAwamajAnanto =
+mamAwyayamanuttamam ||[7:24]</div></div></font></span></b></div></b></i></d=
+iv><div><br></div>  <div style=3D"font-family: Courier New, courier, monaco=
+, monospace, sans-serif; font-size: 12pt;"> <div style=3D"font-family: time=
+s new roman, new york, times, serif; font-size: 12pt;"> <div dir=3D"ltr"> <=
+font face=3D"Arial" size=3D"2"> <hr size=3D"1">  <b><span style=3D"font-wei=
+ght:bold;">From:</span></b> Ajit Krishnan <ajit.krishnan@...><b=
+r> <b><span style=3D"font-weight: bold;">To:</span></b> vedic-wisdom@yahoog=
+roups.com <br> <b><span style=3D"font-weight: bold;">Sent:</span></b> Satur=
+day, 9 March 2013 12:39 AM<br> <b><span style=3D"font-weight: bold;">Subjec=
+t:</span></b> Re: [vedic-wisdom] The perils of "lip-vendanta".....all talk =
+and no action<br> </font> </div> <br><div id=3D"yiv450259591">
+
+
+
+
+
+
+
+
+
+
+
+
+=
+
+<div>
+<span style=3D"display:none;"> </span>
+
+
+
+    <div id=3D"yiv450=
+259591ygrp-text">
+      
+      
+      <div>namaste,</div><div> </div><=
+div>In the very first chapter of the yoga vasishtha, there is a short but v=
+ery interesting story. Once, Vishnu went from Vaikuntha to Brahmaloka. Ever=
+yone in Brahmaloka, led by Brahma himself, got up to receive Vishnu. Sanatk=
+umara alone remained seated. Vishnu told him, "You remain still because you=
+ think you are beyond desire, though this is rooted in ego, and you are sti=
+ll afflicted by desire. Since you have yet to overcome desire, you wil=
+l still undergo another birth."<br clear=3D"all">
+
+
+</div><div> <=
+/div><div>When this applies to Sanatkumara, who are we to think that w=
+e are beyond impurities and karma-yoga? </div><div> </div><div>sasneha=
+m,</div><div><div> </div><div>   ajit</div><div> </div>=
+<div> </div>
+
+</div>
+<br><br><div class=3D"yiv450259591gmail_quote">On=
+ Fri, Mar 8, 2013 at 9:56 AM, sunrise_1080 <span dir=3D"ltr"><<a rel=3D"=
+nofollow" ymailto=3D"mailto:sunrise_1080@..." target=3D"_blank" hre=
+f=3D"mailto:sunrise_1080@...">sunrise_1080@...</a>></spa=
+n> wrote:<br><blockquote style=3D"border-left-color:rgb(204,204,204);border=
+-left-width:1px;border-left-style:solid;" class=3D"yiv450259591gmail_quote"=
+>
+
+
+Some food for thought. It's good to undertake an honest self-analysis t=
+o see where we are going. Towards real vedanta, or 'lip-vedanta'.<br>
+<br>
+=
+Swami Sivananda Saraswati (of the Divine Life Society, Rishikesh):<br>
+<br>=
+
+"The practice of karma yoga prepares the aspirant for the reception of kno=
+wledge of the Self. It moulds him into a proper adhikari (eligible one) for=
+ the study of Vedanta."<br>
+<br>
+"Ignorant aspirants jump at once to jnana =
+yoga without any preliminary training in karma yoga. That is the reason why=
+ they fail miserably to realize the truth."<br>
+<br>
+"The impurities still =
+lurk in their minds. They only talk of Brahman or God, indulging in useless=
+ discussions, vain debates and dry, endless controversies. Their philosophy=
+ is on their lips only. In other words, they are lip-Vedantins."<br>
+
+
+
+<br=
+>
+********<br>
+<br>
+"WHAT IS REALLY NEEDED IS PRACTICAL VEDANTA THROUGH CEA=
+SELESS, SELFLESS SERVICE."<br>
+<br>
+********<br>
+<br>
+"A Karma-yogi is eith=
+er a Karma-bhakta yogi or Karmaa-gyana yogi. He works with either the bhav =
+of a Bhakta or Gyan."<br>
+<br>
+"Certain qualities such as kindness, mercy, =
+tolerance equal vision, humility which are aids to gyana, can be cultivated=
+ through selfless service and service alone."<br>
+<br>
+"Glory to Karma yoga=
+ ! Glory to Karma Yogins ! The world is in dire need of Karma-gnana-yogins =
+but not of mere Mayavadins or lip vedantins who always indulge in vedantic =
+gossipping only but who do not turn out something very practical and useful=
+ to the world at large."<br>
+
+
+
+<br>
+For the full articles:<br>
+<br>
+<a rel=
+=3D"nofollow" target=3D"_blank" href=3D"http://www.yogamag.net/archives/200=
+9/ajan09/integ.shtml">http://www.yogamag.net/archives/2009/ajan09/integ.sht=
+ml</a><br>
+<br>
+<a rel=3D"nofollow" target=3D"_blank" href=3D"http://sailee=
+las.org/articles/saisudha/karma.doc">saileelas.org/articles/saisudha/karma.=
+doc</a><br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+---------------------------------=
+---<br>
+<br>
+|| Om Shaantih Shaantih Shaantih ||<br>
+Yahoo! Groups Links<br=
+>
+<br>
+<*> To visit your group on the web, go to:<br>
+    <=
+a rel=3D"nofollow" target=3D"_blank" href=3D"http://groups.yahoo.com/group/=
+vedic-wisdom/">http://groups.yahoo.com/group/vedic-wisdom/</a><br>
+<br>
+<=
+;*> Your email settings:<br>
+    Individual Email | Traditiona=
+l<br>
+<br>
+<*> To change settings online go to:<br>
+    <a =
+rel=3D"nofollow" target=3D"_blank" href=3D"http://groups.yahoo.com/group/ve=
+dic-wisdom/join">http://groups.yahoo.com/group/vedic-wisdom/join</a><br>
+&n=
+bsp;   (Yahoo! ID required)<br>
+<br>
+<*> To change settings via =
+email:<br>
+    <a rel=3D"nofollow" ymailto=3D"mailto:vedic-wisdom=
+-digest@yahoogroups.com" target=3D"_blank" href=3D"mailto:vedic-wisdom-dige=
+st@yahoogroups.com">vedic-wisdom-digest@yahoogroups.com</a><br>
+  &nbs=
+p; <a rel=3D"nofollow" ymailto=3D"mailto:vedic-wisdom-fullfeatured@yahoogro=
+ups.com" target=3D"_blank" href=3D"mailto:vedic-wisdom-fullfeatured@yahoogr=
+oups.com">vedic-wisdom-fullfeatured@yahoogroups.com</a><br>
+<br>
+<*> =
+To unsubscribe from this group, send an email to:<br>
+    <a rel=
+=3D"nofollow" ymailto=3D"mailto:vedic-wisdom-unsubscribe@yahoogroups.com" t=
+arget=3D"_blank" href=3D"mailto:vedic-wisdom-unsubscribe@yahoogroups.com">v=
+edic-wisdom-unsubscribe@yahoogroups.com</a><br>
+<br>
+<*> Your use of =
+Yahoo! Groups is subject to:<br>
+    <a rel=3D"nofollow" target=
+=3D"_blank" href=3D"http://docs.yahoo.com/info/terms/">http://docs.yahoo.co=
+m/info/terms/</a><br>
+<br>
+</blockquote></div><br>
+
+
+    </div>
+     
+
+
+
+</=
+div>
+
+
+
+
+
+</div><br><br> </div> </div>  </div></body></html>
+---2020808392-724054507-1363461431=:1368--
+
+

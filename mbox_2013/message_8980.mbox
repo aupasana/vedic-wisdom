@@ -1,0 +1,520 @@
+From aswinefy2003@...  Wed Feb 17 11:10:28 2016
+Return-Path: <aswinefy2003@...>
+X-Sender: aswinefy2003@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 69654 invoked from network); 30 Jan 2013 04:34:35 -0000
+X-Received: from unknown (10.193.84.168)
+  by m5.grp.bf1.yahoo.com with QMQP; 30 Jan 2013 04:34:35 -0000
+X-Received: from unknown (HELO nm9-vm2.bullet.mail.sg3.yahoo.com) (106.10.148.209)
+  by mta6.grp.bf1.yahoo.com with SMTP; 30 Jan 2013 04:34:33 -0000
+X-Received: from [106.10.166.118] by nm9.bullet.mail.sg3.yahoo.com with NNFMP; 30 Jan 2013 04:34:31 -0000
+X-Received: from [106.10.151.123] by tm7.bullet.mail.sg3.yahoo.com with NNFMP; 30 Jan 2013 04:34:31 -0000
+X-Received: from [127.0.0.1] by omp1005.mail.sg3.yahoo.com with NNFMP; 30 Jan 2013 04:34:31 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 391960.13735.bm@...
+X-Received: (qmail 38068 invoked by uid 60001); 30 Jan 2013 04:34:31 -0000
+X-YMail-OSG: D4H2oCEVM1k6XY7aWv6M3vC46W.mHif6b5m2On0sCLuoINR
+ HWgcwOzUVIritjqQ82qaW10H_czwhzVpqIehu4waHtkHrwbPSntp8h7KRzvh
+ eO8dBkQifKLu8LZnkmK.lGTq4Y_5dna33MItxKj2L7PDzO3i.wiPKz8Wipvb
+ UMXxVZyPjwtfVGroOEXMmOAIserp5J8P.1PtxaLU_3NaR3EEWue7RqQlIOPT
+ .GqVwfe9JsLRnY4Z_isuICbccCbcYdatMxozss8n2TDugN1tYNLQwvyv11Yc
+ 1lIAgcZJVzdALW0qoxk2Ze_I0qcenULyPTxd4Xhobk_G2HqbxVUC7UnJpI_g
+ 78Vu4KdialMf8QgiIXsSW64u7FFg.YmAH3WOfEqhKHHD2py5TYvU03UeRj9b
+ xg9VbOkW3Wz.AImn6d99Ku2AsK1XKCTEDw2kQ5SAJ7eiguuSRBWFhRH4Cvn8
+ hQK6mvQ5xxjvmW.HCU_mPbCO4NVzgX1pfOgdnECR3JZ6s5.Ih3cfFhR4O2_t
+ 77ZPetKnfmtgEUzBYQIdhLQu24nby00yEnH7WwXscfxF2gJDoigEZDgjfqhZ
+ PD.y.SYSxF7hcQl8jfnkzzlaptijKzTxzsitYsHxGBKNTVC28cSdx9ojjw2V
+ xU1tL3aihbPVAcui2JTeLfBo6kYVCGwno.z.U0qhF5gZZGzpdksTLOIZQRlA
+ N02naap2ZGHUYR4srIhvr7lLcGNRyM_hUyPs7eFg8tQedwe5XrbImZkeRClR
+ vN9M5b0_FI6V5bjEXQHjj1D7xsmNlF4jFxONJBNjfLvSq_WXs7r4J_vHXE9y
+ 324dfK7AfqYYy_kwOm4YioAA1Rv5UKDsd5Fq_oLX.g1kNjaAhr7d6WVbFuBh
+ f_hbMR1CyS.c6VPBn4eVY0YYzeswi9NfQpCNWM0aAuHdhT8XLp2mYW2GCq.r
+ 2LxeYmfqMpXtpZ1GA8vMCyz1ub2P.mHN6KJNiaHe2ZX4Bg0WsKiO4vccBaBC
+ .GBdmdZDxlaEym1PljTOIgLLmtwYS9pg5zRW_38nWjN0FInirvhHahYFf5gX
+ EIsKBwiQKKeuA8MWPvSjX51tNfAlt3VVSaiNbUEnMW19krcnKE0wNI.j5crI
+ usDCU7HjO5QnW387EhFJVkaniaQt3korpPBu1TPE09I7QKPTA9odGJy0ilis
+ mbi.fP5fOmsE4uRHpHcKuE4CWA.7MudIXrgrK.fUdRX5ZL2FABs0xFTf0Ll7
+ NS6km6cnh6nMel2gfoL0cOOeiNQF7REwL6uXbX4EazTvFU0UA.Wc453IJnrP
+ 4Xu0DwCT66HPghJHf.v3FQW84vbiQ96.zegVvpLEW.PZlz33S9VmaK78t9uI
+ Cu2fGwGKVE0XJXCOmf1gwccvtaMC3Pd3QXTSixKpaW1r5FMV.aRt11lXt95L
+ c7CrKwv5V9HI27bcs8XsHgU4hqhF31Dde4Gd3GmCvj3CUq03X7eJbOYZoEcG
+ tnNFfhk_GgeCg254kWMT.aURix0LW84NZcuEcl9JqeQw_rOEMJ3EccpBRftK
+ lRe9zJ.BzntCqcHx4f4J9N2VMAPm9711ZZkHQ4s0JJhwDKrl8C7g7xOKxpyb
+ 2bTHzZeHsfVY2n4rKnSTDHBQ6Y.nU8kdvogbtcNOPl3nN3VDMT.ZCh7qzobF
+ _F895IBgej3T.XSlMw4wSP6lP9wd1sMI03p9cal6otbL5wjiXcDBII9Y6nD0
+ zysrSdTtGIafgAvbBvabGzKoPFiRm1Zb6o5_Jrqx_D1f2AdE0VZDsc1Q4X89
+ _DH1t1R8HZGO4pG9rG1T_mwJjbeYI_BG1YDtr8T9XpJfA3iTBDJBx
+X-Received: from [14.139.154.34] by web190903.mail.sg3.yahoo.com via HTTP; Wed, 30 Jan 2013 12:34:30 SGT
+X-Rocket-MIMEInfo: 001.001,DQpUaGFuayB5b3UgdmVyeSBtdWNoIHNpciB0byByZW1vdmUgdGhlIGNvbmZ1c2lvbg0KDQoNCi0tLSBPbiBXZWQsIDMwLzEvMTMsIE5hcmFzaW1oYSBQLlYuUi4gUmFvIDxwdnJAY2hhcnRlci5uZXQ.IHdyb3RlOg0KDQpGcm9tOiBOYXJhc2ltaGEgUC5WLlIuIFJhbyA8cHZyQGNoYXJ0ZXIubmV0Pg0KU3ViamVjdDogW3ZlZGljLXdpc2RvbV0gUmU6IEZpcmUgT2ZmZXJpbmcgdG8gQW5jZXN0b3JzIChSZTogSGVscDpIb21hbSkNClRvOiAiVmVkaWMgV2lzZG9tIiA8dmVkaWMtd2lzZG9tQHlhaG9vZ3JvdXBzLmMBMAEBAQE-
+X-Mailer: YahooMailClassic/15.1.2 YahooMailWebService/0.8.131.499
+Message-ID: <1359520470.30731.YahooMailClassic@...>
+Date: Wed, 30 Jan 2013 12:34:30 +0800 (SGT)
+To: vedic-wisdom@yahoogroups.com
+In-Reply-To: <1359510812.39014.YahooMailNeo@...>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="-1293697098-1576171123-1359520470=:30731"
+X-Originating-IP: 106.10.148.209
+X-eGroups-Msg-Info: 1:12:0:0:0
+From: aswin kumar <aswinefy2003@...>
+Subject: Re: [vedic-wisdom] Re: Fire Offering to Ancestors (Re: Help:Homam)
+X-Yahoo-Group-Post: member; u=158727580; y=Wi5gQhnxylcuOKGLpooXkR2YXUfdzY_cqYL33_S-BNrxHajBN3fc
+X-Yahoo-Profile: aswinefy2003
+
+
+---1293697098-1576171123-1359520470=:30731
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+
+Thank you very much sir to remove the confusion
+
+
+--- On Wed, 30/1/13, Nar=
+asimha P.V.R. Rao <pvr@...> wrote:
+
+From: Narasimha P.V.R. Rao <pvr=
+@...>
+Subject: [vedic-wisdom] Re: Fire Offering to Ancestors (Re: H=
+elp:Homam)
+To: "Vedic Wisdom" <vedic-wisdom@yahoogroups.com>
+Date: Wednesda=
+y, 30 January, 2013, 7:23 AM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=C2=A0
+
+
+
+  
+
+
+    
+      
+   =
+   
+      
+Namaste Sir,
+=C2=A0
+This is kind of like asking "how can I expec=
+t a letter sent to my head office in New Delhi to fix problems at my local =
+branch in Hyderabad"? If someone in the head office in New Delhi wants, the=
+y can fix the problems in any branch.=C2=A0Devas identify more with soul th=
+an with body. However, IF a deva wants, he/she can fix problems in our mind=
+s and bodies too.=C2=A0Best regards,
+Narasimha
+--------
+Astrology & Spiritu=
+ality Resources: http://www.VedicAstrologer.org--------
+=C2=A0
+--- In vedic=
+-wisdom@yahoogroups.com, aswin kumar=C2=A0 wrote:
+>
+> If offering to fire r=
+eaches/affect only=C3=82=C2=A0 the soul ,
+> Then how can we expect a homam=
+=C3=82=C2=A0 to get rid of physical ailment 
+> or to satisfy dharmic desire=
+s 
+> 
+> --- On Wed, 9/1/13, Narasimha PVR Rao=C2=A0 wrote:
+> 
+> From: Naras=
+imha PVR Rao 
+> Subject: [vedic-wisdom] RE: Fire Offering to Ancestors (Re:=
+
+ Help:Homam)
+> To: vedic-wisdom@yahoogroups.com
+> Date: Wednesday, 9 Janua=
+ry, 2013, 8:54 AM
+> 
+> Namaste,
+> 
+> 
+> 
+> Making offerings to pitris in fi=
+re in a homam does not replace pitri 
+> tarpana. They serve different purpo=
+ses.
+> 
+> You may recall from Jyotisha that horas (halves of zodiacal signs=
+) are 
+> owned by Sun and Moon and respectively ruled by devas (gods) and p=
+itris 
+> (ancestral manes). You may also recall from Jyotisha that lagna, M=
+oon 
+> and Sun shows physical body, mind and soul respectively. Human being=
+s 
+> identify more with their body; pitris identify more with their mind an=
+d 
+> its desires; and, devas identify more with their individual soul.
+> 
+>=
+ Offerings in fire reach/affect the soul more (Sun). Offerings through 
+> w=
+ater reach/affect the mind more (Moon). So homam is best for devas and 
+> t=
+arpana is best for
+ pitris.
+> 
+> However, though a deva may identify more w=
+ith soul than mind, there will 
+> be SOME identification with mind and desi=
+res too. So, tarpana can be 
+> given to devas too (actually, pitri tarpana =
+manual includes deva tarpana 
+> too). Similarly, though pitris identify mor=
+e with mind and its desires, 
+> there will be SOME identification with soul=
+ too. So offerings can be 
+> made in fire.
+> 
+> BTW, someone asked about Ja=
+yaadi homam that is sometimes done at the 
+> start of uttarangam of any hom=
+am. Offerings to pitris with a Veda mantra 
+> are included in that procedur=
+e!
+> 
+> To answer your last question, I am not aware of any restrctions.
+> =
+
+> Best regards,
+> Narasimha
+> --------
+> Astrology & Spirituality Resource=
+s: http://www.VedicAstrologer.org
+> --------
+> 
+> On Tue, Jan 8, 2013 at 6:=
+45 PM,=C2=A0 wrote:
+>
+ 
+> 
+> 
+> > Extremely useful - I am assuming this doe=
+s not replace "Pitri Tarpana" 
+> 
+> > by itself, but is a good proxy instea=
+d when pressed for time? Do the 
+> 
+> > same restrictions as those for Pitr=
+i Tarpana apply here as well?
+> 
+> >
+> 
+> > --- In vedic-wisdom@yahoogroups=
+.com, "Narasimha P.V.R. Rao"=C2=A0 wrote:
+> 
+> >>
+> 
+> >> Namaste Sir,
+> 
+>=
+ >> =C3=82 
+> 
+> >> I am cc'ing it to vedic-wisdom yahoogroup without revea=
+ling your 
+> 
+> >> name, so that other people with the same question can be=
+nefit. Very 
+> 
+> >> good question!
+> 
+> >> =C3=82 
+> 
+> >> Usually, people=
+ do not make offerings in fire to specific deceased 
+> 
+> >> persons. One i=
+dea is to make an offering to your deceased ancestors 
+> 
+> >>
+ together. Y=
+ou can say "OM pitR^ibhyaH svAhA" (in iTrans notation) and 
+> 
+> >> make an=
+ offering (or several offerings by repeating it several times) 
+> 
+> >> in =
+fire. At the end, sprinkle a little water on the tips of right 
+> 
+> >> han=
+d fingers. Then proceed with the rest of the homam. This can be 
+> 
+> >> id=
+eally done at the end of homam, before uttarangam.
+> 
+> >> =C3=82 
+> 
+> >> =
+An ideal offering to pitris is a mixture of black and white sesame 
+> 
+> >>=
+ seeds and ghee.
+> 
+> >> =C3=82 
+> 
+> >> You can also do Pitri Tarpana and =
+include your late father. Manuals 
+> 
+> >> are on my website.
+> 
+> >> =C3=
+=82 
+> 
+> >> Best regards,
+> 
+> >> Narasimha
+> 
+> >> --------
+> 
+> >> Astro=
+logy & Spirituality
+ Resources: http://www.VedicAstrologer.org
+> 
+> >> ----=
+----
+> 
+> >>
+> 
+> >>> ________________________________
+> 
+> >>> From:
+> 
+> =
+>>> To: pvr108@
+> 
+> >>> Sent: Tuesday, January 8, 2013 6:47 AM
+> 
+> >>> Su=
+bject: Help:Homam
+> 
+> >>>
+> 
+> >>>
+> 
+> >>> Respected sir,
+> 
+> >>> =C3=82=
+ 
+> 
+> >>> Namaste!
+> 
+> >>> =C3=82 
+> 
+> >>> I started Homam As per "Manua=
+ls" downloaded from your web. I got 
+> 
+> >>> peace and satisfaction after =
+performing Homam. in addition i want to 
+> 
+> >>> give some aahutis for my =
+late father which mantras suitable for 
+> 
+> >>> this, kindly guide me.
+> 
+=
+> >>> =C3=82 
+>
+ 
+> >>> sincereley Yours
+> 
+> >>> =C3=82 
+> 
+> >>>
+> 
+> >>>=
+ Bikaner(Rajasthan)
+>
+
+
+
+    
+     
+
+    
+    
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+---1293697098-1576171123-1359520470=:30731
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<table cellspacing=3D"0" cellpadding=3D"0" border=3D"0" ><tr><td valign=3D"=
+top" style=3D"font: inherit;"><div><br></div><div>Thank you very much sir t=
+o remove the confusion</div><div><br></div><br><br>--- On <b>Wed, 30/1/13, =
+Narasimha P.V.R. Rao <i><pvr@...></i></b> wrote:<br><blockquo=
+te style=3D"border-left: 2px solid rgb(16, 16, 255); margin-left: 5px; padd=
+ing-left: 5px;"><br>From: Narasimha P.V.R. Rao <pvr@...><br>S=
+ubject: [vedic-wisdom] Re: Fire Offering to Ancestors (Re: Help:Homam)<br>T=
+o: "Vedic Wisdom" <vedic-wisdom@yahoogroups.com><br>Date: Wednesday, =
+30 January, 2013, 7:23 AM<br><br><div id=3D"yiv482709916">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<di=
+v>
+<span style=3D"display:none;"> </span>
+
+
+
+    <div id=3D"yiv4827099=
+16ygrp-text">
+      
+      
+      <p></p><div style=3D"color:#000;backgroun=
+d-color:#fff;font-family:arial, helvetica, sans-serif;font-size:10pt;"><div=
+><br>Namaste Sir,<br> <br>This is kind of like asking "how can I expec=
+t a letter sent to my head office in New Delhi to fix problems at my local =
+branch in Hyderabad"? If someone in the head office in New Delhi wants, the=
+y can fix the problems in any branch.</div><div style=3D"color:rgb(0, 0, 0)=
+;font-size:13.3333px;font-family:arial, helvetica, sans-serif;background-co=
+lor:transparent;font-style:normal;"> </div><div style=3D"color:rgb(0, =
+0, 0);font-size:13.3333px;font-family:arial, helvetica, sans-serif;backgrou=
+nd-color:transparent;font-style:normal;">Devas identify more with soul than=
+ with body. However, IF a deva wants, he/she can fix problems in our minds =
+and bodies too.</div><div style=3D"color:rgb(0, 0, 0);font-size:13.3333px;f=
+ont-family:arial, helvetica, sans-serif;background-color:transparent;
+font-=
+style:normal;"> </div>Best regards,<br><div style=3D"color:rgb(0, 0, 0=
+);font-size:13px;font-family:arial, helvetica, clean, sans-serif;background=
+-color:transparent;font-style:normal;">Narasimha<br>--------<br>Astrology &=
+amp; Spirituality Resources: <a rel=3D"nofollow" target=3D"_blank" href=3D"=
+http://www.vedicastrologer.org/">http://www.VedicAstrologer.org</a></div><d=
+iv style=3D"color:rgb(0, 0, 0);font-size:13px;font-family:arial, helvetica,=
+ clean, sans-serif;background-color:transparent;font-style:normal;">-------=
+-<br> <br>--- In vedic-wisdom@yahoogroups.com, aswin kumar  wrote=
+:<br>><br>> If offering to fire reaches/affect only=C3=82  the s=
+oul ,<br>> Then how can we expect a homam=C3=82  to get rid of phys=
+ical ailment <br>> or to satisfy dharmic desires <br>> <br>> --- O=
+n Wed, 9/1/13, Narasimha PVR Rao  wrote:<br>> <br>> From: Narasi=
+mha PVR Rao <br>> Subject: [vedic-wisdom] RE: Fire Offering to Ancestors=
+ (Re:
+ Help:Homam)<br>> To: vedic-wisdom@yahoogroups.com<br>> Date: W=
+ednesday, 9 January, 2013, 8:54 AM<br>> <br>> Namaste,<br>> <br>&g=
+t; <br>> <br>> Making offerings to pitris in fire in a homam does not=
+ replace pitri <br>> tarpana. They serve different purposes.<br>> <br=
+>> You may recall from Jyotisha that horas (halves of zodiacal signs) ar=
+e <br>> owned by Sun and Moon and respectively ruled by devas (gods) and=
+ pitris <br>> (ancestral manes). You may also recall from Jyotisha that =
+lagna, Moon <br>> and Sun shows physical body, mind and soul respectivel=
+y. Human beings <br>> identify more with their body; pitris identify mor=
+e with their mind and <br>> its desires; and, devas identify more with t=
+heir individual soul.<br>> <br>> Offerings in fire reach/affect the s=
+oul more (Sun). Offerings through <br>> water reach/affect the mind more=
+ (Moon). So homam is best for devas and <br>> tarpana is best for
+ pitri=
+s.<br>> <br>> However, though a deva may identify more with soul than=
+ mind, there will <br>> be SOME identification with mind and desires too=
+. So, tarpana can be <br>> given to devas too (actually, pitri tarpana m=
+anual includes deva tarpana <br>> too). Similarly, though pitris identif=
+y more with mind and its desires, <br>> there will be SOME identificatio=
+n with soul too. So offerings can be <br>> made in fire.<br>> <br>>=
+; BTW, someone asked about Jayaadi homam that is sometimes done at the <br>=
+> start of uttarangam of any homam. Offerings to pitris with a Veda mant=
+ra <br>> are included in that procedure!<br>> <br>> To answer your=
+ last question, I am not aware of any restrctions.<br>> <br>> Best re=
+gards,<br>> Narasimha<br>> --------<br>> Astrology & Spiritual=
+ity Resources: http://www.VedicAstrologer.org<br>> --------<br>> <br>=
+> On Tue, Jan 8, 2013 at 6:45 PM,  wrote:<br>>
+ <br>> <br>>=
+; <br>> > Extremely useful - I am assuming this does not replace "Pit=
+ri Tarpana" <br>> <br>> > by itself, but is a good proxy instead w=
+hen pressed for time? Do the <br>> <br>> > same restrictions as th=
+ose for Pitri Tarpana apply here as well?<br>> <br>> ><br>> <br=
+>> > --- In vedic-wisdom@yahoogroups.com, "Narasimha P.V.R. Rao" =
+; wrote:<br>> <br>> >><br>> <br>> >> Namaste Sir,<b=
+r>> <br>> >> =C3=82 <br>> <br>> >> I am cc'ing it t=
+o vedic-wisdom yahoogroup without revealing your <br>> <br>> >>=
+ name, so that other people with the same question can benefit. Very <br>&g=
+t; <br>> >> good question!<br>> <br>> >> =C3=82 <br>&g=
+t; <br>> >> Usually, people do not make offerings in fire to speci=
+fic deceased <br>> <br>> >> persons. One idea is to make an off=
+ering to your deceased ancestors <br>> <br>> >>
+ together. You =
+can say "OM pitR^ibhyaH svAhA" (in iTrans notation) and <br>> <br>> &=
+gt;> make an offering (or several offerings by repeating it several time=
+s) <br>> <br>> >> in fire. At the end, sprinkle a little water =
+on the tips of right <br>> <br>> >> hand fingers. Then proceed =
+with the rest of the homam. This can be <br>> <br>> >> ideally =
+done at the end of homam, before uttarangam.<br>> <br>> >> =C3=
+=82 <br>> <br>> >> An ideal offering to pitris is a mixture of =
+black and white sesame <br>> <br>> >> seeds and ghee.<br>> <=
+br>> >> =C3=82 <br>> <br>> >> You can also do Pitri Ta=
+rpana and include your late father. Manuals <br>> <br>> >> are =
+on my website.<br>> <br>> >> =C3=82 <br>> <br>> >> =
+Best regards,<br>> <br>> >> Narasimha<br>> <br>> >>=
+ --------<br>> <br>> >> Astrology & Spirituality
+ Resources=
+: http://www.VedicAstrologer.org<br>> <br>> >> --------<br>>=
+ <br>> >><br>> <br>> >>> __________________________=
+______<br>> <br>> >>> From:<br>> <br>> >>> To=
+: pvr108@<br>> <br>> >>> Sent: Tuesday, January 8, 2013 6:47=
+ AM<br>> <br>> >>> Subject: Help:Homam<br>> <br>> >=
+>><br>> <br>> >>><br>> <br>> >>> Respec=
+ted sir,<br>> <br>> >>> =C3=82 <br>> <br>> >>>=
+; Namaste!<br>> <br>> >>> =C3=82 <br>> <br>> >>&=
+gt; I started Homam As per "Manuals" downloaded from your web. I got <br>&g=
+t; <br>> >>> peace and satisfaction after performing Homam. in =
+addition i want to <br>> <br>> >>> give some aahutis for my =
+late father which mantras suitable for <br>> <br>> >>> this,=
+ kindly guide me.<br>> <br>> >>> =C3=82 <br>>
+ <br>> &=
+gt;>> sincereley Yours<br>> <br>> >>> =C3=82 <br>> =
+<br>> >>><br>> <br>> >>> Bikaner(Rajasthan)<br>&=
+gt;<br><br></div></div>
+
+    </div>
+     
+
+
+
+</div>
+
+
+
+
+
+</div></blockquote=
+></td></tr></table>
+---1293697098-1576171123-1359520470=:30731--
+
+

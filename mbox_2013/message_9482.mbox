@@ -1,0 +1,188 @@
+From ashmesh63@...  Wed Feb 17 11:10:38 2016
+Return-Path: <ashmesh63@...>
+Received: (qmail 81827 invoked by uid 102); 22 Jul 2013 12:51:35 -0000
+Received: from unknown (HELO mtaq4.grp.bf1.yahoo.com) (10.193.84.143)
+  by m9.grp.bf1.yahoo.com with SMTP; 22 Jul 2013 12:51:35 -0000
+Received: (qmail 13544 invoked from network); 22 Jul 2013 12:51:34 -0000
+Received: from unknown (HELO ng12-vm3.bullet.mail.gq1.yahoo.com) (98.136.219.146)
+  by mtaq4.grp.bf1.yahoo.com with SMTP; 22 Jul 2013 12:51:34 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoogroups.com; s=echoe; t=1374497494; bh=bq2afBVtcGUlqiGB3cXjlJ0bJaC4HqDjqKqOXgBt3IE=; h=Received:Received:X-Sender:X-Apparently-To:X-Received:X-Received:X-Received:X-Received:X-Received:X-Received:X-Received:X-Yahoo-Newman-Property:X-Yahoo-Newman-Id:X-Received:X-YMail-OSG:X-Received:X-Rocket-MIMEInfo:X-Mailer:References:Message-ID:Date:To:In-Reply-To:MIME-Version:Content-Type:X-Originating-IP:X-eGroups-Msg-Info:From:Reply-To:Subject:X-Yahoo-Group-Post:X-Yahoo-Profile:X-YGroups-SubInfo:Sender:X-eGroups-Approved-By:X-eGroups-Auth; b=F8wKlLpcT3YtOF54BsbWgU4h+joj6XYwxEeQQKYIOQPjTPG700s2t3/AjrF1IXBz/KYq2okoc8zEOXiR0a6xR0fQjAvjmj4csNQY6OfoWJmMfQtZx349KG7QYGViz5wdcbuIG6VpaeC+syjcRbAylgjPqXDPYjinRFumNsTRvf8=
+Received: from [98.137.0.89] by ng12.bullet.mail.gq1.yahoo.com with NNFMP; 22 Jul 2013 12:51:34 -0000
+Received: from [10.193.94.107] by tg9.bullet.mail.gq1.yahoo.com with NNFMP; 22 Jul 2013 12:51:33 -0000
+X-Sender: ashmesh63@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 39774 invoked by uid 102); 22 Jul 2013 06:15:26 -0000
+X-Received: from unknown (HELO mtaq4.grp.bf1.yahoo.com) (10.193.84.143)
+  by m8.grp.bf1.yahoo.com with SMTP; 22 Jul 2013 06:15:26 -0000
+X-Received: (qmail 15881 invoked from network); 22 Jul 2013 06:15:25 -0000
+X-Received: from unknown (HELO nm28-vm7.bullet.mail.sg3.yahoo.com) (106.10.151.150)
+  by mtaq4.grp.bf1.yahoo.com with SMTP; 22 Jul 2013 06:15:25 -0000
+X-Received: from [106.10.166.119] by nm28.bullet.mail.sg3.yahoo.com with NNFMP; 22 Jul 2013 06:15:24 -0000
+X-Received: from [106.10.150.23] by tm8.bullet.mail.sg3.yahoo.com with NNFMP; 22 Jul 2013 06:15:24 -0000
+X-Received: from [127.0.0.1] by omp1024.mail.sg3.yahoo.com with NNFMP; 22 Jul 2013 06:15:24 -0000
+X-Yahoo-Newman-Property: groups-system
+X-Yahoo-Newman-Id: 58889.25916.bm@...
+X-Received: (qmail 61589 invoked by uid 60001); 22 Jul 2013 06:15:23 -0000
+X-YMail-OSG: EA0EE6IVM1lbKdFyHSXUJXdmxDz26xgrgLyIFgP3ShwiL8j
+ lNinvXV_lDHkqmlpUEM2lFwfL3G5Z0jyYwWzvx3J8ga0iLvsLsQ_cLx3RUPg
+ hC6.9Ep85bu8AtsvDJIgpJTf9NEOXcxPkZut86ND2nQ8dzco2sqHLYGKcbbe
+ S9ySyxqXgw.cA7jaBJIJDf3Cyvr9JdtldpC.7YaiNc6j6BYVYFF8xcp4OfkZ
+ S7kSb0Zv7LgzWq1V.a5MjbVYvXXuKsllsD_DRuHxa.beh32WS7uXHKj6tQ8R
+ cY5qtRwRkWLQTnxxy7NIbr0jGhsJPKl0W52D01SU84K4v6lKdlIDmKLSZ5lb
+ KNACoLHXuByRm1CI6dIf63KG7xOMluqo66dS5Gy6_am18iMHJY5Q3LWBRed1
+ dQeWQS40klE.lGyz7s2VLvRGxe5cZhY80uUsJVKVegT3kgixsTwU24H87aXm
+ p6aK147MIZi_pin_7hrL4J0rRQKchSGJsSVZpuWhiZS3FFuhUiYVsFEE0.WA
+ 7Cwu4760skDkpKPBKuhGwA1DjdlhigRoWXmDQaqWvNtUVBll4ruIkOB6DNlL
+ lqHV5zuxc5dWkx2tIxBQfWs4OgPU9NLzfOGJonnkNYpc5403f10XUE2ylNgY
+ Vwr5SzN9mDaKm3TcJdnCbH_v7jVZyxg19NrUXzl.mtIUM9DH.AxdlbCcnQlY
+ G5dbmKbu3wo2AS3oS2f2gqQK_wxBSOcJCDcV_kOs6X8S35S5KBkbFiuu4Hrq
+ BY16UjQ6SeP71sYAQN0ed_rzVKkBZ87qkIIb21LGX4WCGQzSeYTWJ3UNOdJ.
+ JkBwyrEuQ9eN2eDpTYb93TE__rMovgmMVXqJ5ciYYiq2qRKKXKnrt4m.cuiA
+ KnX2fSti0H3AeIxP3DRZTVWa0KMFe16x_jui6Qo5Zsefg2_WSjPULBA8aIj8
+ LqlivayeXBn.jkzGi1MMOPU59CwB4ZVx.jAbvYfzsF2LSF3qRq3L3.oSK313
+ OqrhIahxWRvj4mJuFSg2kCC28RhiK4K.L1whClbG9cN04sPzrvY08yQYcCyT
+ epb2TtCzWMqgQTyIgq0ERwZRSBf0wowvV.ktoOMy5URwrrQWV5o0MqaQr.Oz
+ wBkNK4V_Ol_doLUE9wJV57yANJDzJVgkd81576DZSnAlAs4Fu9RcokjXknLt
+ HdgKgcfomQmMfnQA4NmchY3TpqodmDPmoxRTxCLOuXKwT5o2VGxyEkEJ_OjG
+ XbQteIOY0C8gC5lsH9n75LqZM09Pk9frtWcks6c8jeKBeHolZdZu6eNMDGoo
+ pmPmP716ttiaFo49xhl7NYTBBFDGNnxvXUaiHrtkyo1Q6yukYmfZcN2tZMUr
+ ZZjp7aqgV6KcJGnTrw2RaZ7uZ3vRWIqjZwqlftQ8JPdcHOYycHvGNAF6l9Ip
+ FJQd3gQ9_XlIczOfqnO2a0h2Yb6JG4R18vdLFfKlbe41Va4iVmKhJbA5OaKf
+ AttznWTy3KtudyoTCSHrgx3Q7lc3xPsHr19RZR2DmtFX3Qu3oqKTkymmNVpk
+ 9OkazHB_kMCGnaaKAYW3biKLFKP3SL1v6iV6a8CPqF0TDn3p3jNzKZhUTzOB
+ .AMhbLn6HTREezR7P5uBvgbvqTzpZFdTXHZH9bFqP6fC422V39TH1YjjP6Cw
+ WtnlnEeFRNsf_MBrg3M.mh61pZ6RfvdErgpJdQtmcp_F6Crlo3isZqdKK7Zl
+ UiB3gS5oGv3kIOS.Z2zvC5sv9HjlH5BmxN5DzuUNU7xnXwV7dE3o9KRhv6_0
+ ZGtoq2c0wYTRd2o9n5ja4cDX0YugaNQI3vqSc71IFxjFlL3zOe_VUDGXPX_1
+ 6CsI_EoCvepAI7c4LVgsMug97mNfF51n0GjYtVAMFSUme9GBCeFZimOTwTNO
+ PV0jB5ISx7DfcL_6s9APVVLOBPDUbYXvnU3IoQeYJ301QlzO5APDRCBkz1nJ
+ E.hXq
+X-Received: from [59.163.51.132] by web193004.mail.sg3.yahoo.com via HTTP; Mon, 22 Jul 2013 14:15:23 SGT
+X-Rocket-MIMEInfo: 002.001,RG8gR1VSVSBEQVRUQVRSRVlBIEpBUEFNCgpPTSBDSEFJVEFOWUEgREFUVEFUUkVZQVkgTkFNQUjCoMKgIDEwMCUgUkVTVUxUIExMIENPTUUKCgpfX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fXwogRnJvbTogQmh1cGVuZHJhIEphbW5hZGFzIDxiX2phbW5hZGFzQHlhaG9vLmNhPgpUbzogVmVkaWMgV2lzZG9tIDx2ZWRpYy13aXNkb21AeWFob29ncm91cHMuY29tPiAKU2VudDogU2F0dXJkYXksIDIwIEp1bHkgMjAxMyA2OjUxIFBNClN1YmplY3Q6IFt2ZWRpYy13aXNkb21dIEhlbHAgd2l0aCBleG9yY2kBMAEBAQE-
+X-Mailer: YahooMailWebService/0.8.149.560
+References: <1374326476.91250.YahooMailAndroidMobile@...>
+Message-ID: <1374473723.52085.YahooMailNeo@...>
+Date: Mon, 22 Jul 2013 14:15:23 +0800 (SGT)
+To: "vedic-wisdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com>
+In-Reply-To: <1374326476.91250.YahooMailAndroidMobile@...>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="-1217276107-1160636273-1374473723=:52085"
+X-Originating-IP: 10.193.84.143
+X-eGroups-Msg-Info: 1:12:0:0:0
+From: ASHOK PATIL <ashmesh63@...>
+Reply-To: ASHOK PATIL <ashmesh63@...>
+Subject: Re: [vedic-wisdom] Help with exorcism
+X-Yahoo-Group-Post: member; u=518859341; y=jWTYRABqWtvoMWPw2cy590OddSr04NgqibV7otQ-b82ewtcx
+X-Yahoo-Profile: ashmesh63
+X-eGroups-Approved-By: pvr108 <pvr108@...> via web; 22 Jul 2013 12:51:32 -0000
+
+
+---1217276107-1160636273-1374473723=:52085
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Do GURU DATTATREYA JAPAM
+
+OM CHAITANYA DATTATREYAY NAMAH=C2=A0=C2=A0 100% R=
+ESULT LL COME
+
+
+________________________________
+ From: Bhupendra Jamnadas =
+<b_jamnadas@...>
+To: Vedic Wisdom <vedic-wisdom@yahoogroups.com> 
+Sent=
+: Saturday, 20 July 2013 6:51 PM
+Subject: [vedic-wisdom] Help with exorcism=
+
+ 
+
+
+=C2=A0 
+Namaste all,
+Does anyone no of an exorcistist or a good priest=
+ in Boston area?  There is a teenage girl who appears to be possessed. Firs=
+t it was thought of mentals condition, but it does appear to be. Them girl =
+prvokes other  family me,bers and laughs at them. Two people who have on in=
+dia have said identical thing that this is a case of haunting. 
+Any help wi=
+ll be appreciated.
+Thanks,
+Bhupendra  
+ 
+---1217276107-1160636273-1374473723=:52085
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"color:#000; background-color:#fff; font-family:ti=
+mes new roman, new york, times, serif;font-size:12pt"><div>Do GURU DATTATRE=
+YA JAPAM</div><div><br></div><div style=3D"color: rgb(0, 0, 0); font-size: =
+16px; font-family: times new roman,new york,times,serif; background-color: =
+transparent; font-style: normal;">OM CHAITANYA DATTATREYAY NAMAH  =
+; 100% RESULT LL COME</div><div style=3D"color: rgb(0, 0, 0); font-size: 16=
+px; font-family: times new roman,new york,times,serif; background-color: tr=
+ansparent; font-style: normal;"><br></div>  <div style=3D"font-family: time=
+s new roman, new york, times, serif; font-size: 12pt;"> <div style=3D"font-=
+family: times new roman, new york, times, serif; font-size: 12pt;"> <div di=
+r=3D"ltr"> <hr size=3D"1">  <font face=3D"Arial" size=3D"2"> <b><span style=
+=3D"font-weight:bold;">From:</span></b> Bhupendra Jamnadas <b_jamnadas@y=
+ahoo.ca><br> <b><span style=3D"font-weight: bold;">To:</span></b> Vedic =
+Wisdom
+ <vedic-wisdom@yahoogroups.com> <br> <b><span style=3D"font-we=
+ight: bold;">Sent:</span></b> Saturday, 20 July 2013 6:51 PM<br> <b><span s=
+tyle=3D"font-weight: bold;">Subject:</span></b> [vedic-wisdom] Help with ex=
+orcism<br> </font> </div> <div class=3D"y_msg_container"><br><div id=3D"yiv=
+6882662499">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div>
+<span style=3D"display:none;"> </span>=
+
+
+
+
+    <div id=3D"yiv6882662499ygrp-text">
+      
+      
+      <table bord=
+er=3D"0" cellpadding=3D"0" cellspacing=3D"0"><tbody><tr><td valign=3D"top">=
+<div>Namaste all,</div>
+<div>Does anyone no of an exorcistist or a good pri=
+est in Boston area?  There is a teenage girl who appears to be possessed. F=
+irst it was thought of mentals condition, but it does appear to be. Them gi=
+rl prvokes other  family me,bers and laughs at them. Two people who have on=
+ india have said identical thing that this is a case of haunting. </div>
+<d=
+iv>Any help will be appreciated.</div>
+<div>Thanks,<br>
+Bhupendra </div>
+</=
+td></tr></tbody></table>
+
+    </div>
+     
+
+
+
+</div>
+
+
+
+
+
+</div><br><br></d=
+iv> </div> </div>  </div></body></html>
+---1217276107-1160636273-1374473723=:52085--
+
+

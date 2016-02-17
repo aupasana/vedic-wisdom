@@ -1,0 +1,494 @@
+From ganesh2cbe@...  Wed Feb 17 11:10:43 2016
+Return-Path: <ganesh2cbe@...>
+X-Sender: ganesh2cbe@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 74084 invoked by uid 102); 2 Oct 2013 09:11:16 -0000
+X-Received: from unknown (HELO mtaq6.grp.bf1.yahoo.com) (10.193.84.37)
+  by m4.grp.bf1.yahoo.com with SMTP; 2 Oct 2013 09:11:16 -0000
+X-Received: (qmail 26040 invoked from network); 2 Oct 2013 09:11:15 -0000
+X-Received: from unknown (HELO nm9-vm5.bullet.mail.sg3.yahoo.com) (106.10.148.212)
+  by mtaq6.grp.bf1.yahoo.com with SMTP; 2 Oct 2013 09:11:15 -0000
+X-Received: from [106.10.166.63] by nm9.bullet.mail.sg3.yahoo.com with NNFMP; 02 Oct 2013 09:11:14 -0000
+X-Received: from [106.10.151.202] by tm20.bullet.mail.sg3.yahoo.com with NNFMP; 02 Oct 2013 09:11:13 -0000
+X-Received: from [127.0.0.1] by omp1014.mail.sg3.yahoo.com with NNFMP; 02 Oct 2013 09:11:13 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 958403.87950.bm@...
+X-Received: (qmail 9099 invoked by uid 60001); 2 Oct 2013 09:11:13 -0000
+X-YMail-OSG: MNpzrOgVM1kH_bv.nHnE67_sfEl3j2d.efcX4nwcSEiea3h
+ omuFQTftVrJkkcOc5ofWmm9kVoMuO0.fCJxzw8V2jiSxRTXcVtt7LC7oWkh8
+ enZ.3W756ulgy3O9O51Tv12igBq08MQTtG9U16LEmN_IjLvZGAjDD2QVuzCg
+ oaGMTmMr5p.LYHhiHn1WVdMvZp70Tgd.bOQn1P3NvArr8bjx0rBRmiCqJE6C
+ E3wXt70FYy4kADzyE_zF5KRFL27L2yh6T2RfclVoo5mvDqyGbEnHmo0hd.Cg
+ V_ye7Oe2FhkCy393rMMyBludKYagTXEFr.UQcNO1h.oJTpubGUhWI3D9uRLc
+ esw9992.6TBRtS.ibnbNrMKP6HjFtGvWhi0A5FfaA_S6uif6E7K2K_kEsqN9
+ V5dr6KWFB8ovIgx.wCqZbB8yODn9OEpsSPBV6KBu50f.KJZl_jhcMLLmov6p
+ 5LKVlcGOWQJM7VN4j21M5pSv2G9imWP_uJFzoP5nK_evXVlo9ZJw73rF9CIT
+ kvQ8nuLVFibInumCljiqHJ4bMOOf3jsjU8oWcmlSJyq58SPmheq3Y5BTQAQ4
+ lQDpjByoi.VdLgfKluW2nh.cpKvjOA8xbz5enZIvyAluVJfZy3KpgnYKvmda
+ V25ZILSOuUwGVBEyKZRb1axIQ4yvGxg8F_wsO94jeZ9K2D9QbFmebP4YjO5p
+ AUQ1KvvGsAvUc_NTI1tgQlR_BG1nf0zjG1zFTCmNI0U6LX3TRE.YQr6VfxhJ
+ icQFtKgA0JNBwC.lVGq60lRsTN.WNxpqEeXGnMmWmq.9zxXEEXF6iiPra434
+ kif3.8ZDXjQCS7Hf_uViZWrCGgUUSgMRnOFipVwXbPXp74wSWMcftOYDrQnH
+ gMOUw8HEbvbcS7udGn11xp9GTlDAW9IAv7v94um2xuxvwU1nbxotqYa30mmm
+ M_S49UOh5KJ3IIZjEb5TTOoTWWyXs7Mo1ZdnTnvN8xH.I.HBfRV9QostfI8D
+ GMJx_IxAMTc71XRZ7hIwhRwSCa1Ja8npHOnDcZi0.irlLHQkK9sXmOpXOxBx
+ iDQgim1ieLKqUYV7SHKktjX0_clLQ5875ZvMee9FDe_VPPlDUo8Pz_K7OOXI
+ s2eZ.V8RQcJuc3GQaHx_0BbW5ODkg8ufaCO.aETNhNl3pHl7XZGGtuD91Sdl
+ hiOlhgpOgIn_myEdP3nRpr7IB_2p4QMVYFKhQ6XKN2Pqz8z8ejMzXWakEcG0
+ Am7bRuAsmwln83C99jBQLfnXmr42MFJJ67SpQ9slg0dKpSalTxMZ.hMw.EMU
+ C_mIAWTU76rNK2e9z2eULbo7RhxqPVMnls61CgZmKwnAr6s_TgXhacyq20__
+ wfJIeHAodJe10vgqsqB338nPKFebj.eWfYCImSs3QJQJUS9S9P13m3TI5Lkh
+ iNyCBSbh6gaJwWz1V6QrXQPTppF_HOGHZxyEyMNUTM02a8nf61LIQgDs5TQT
+ Ms0UlEmQucCY7rJkZRSyzmJQrj_UVhIV.xB9njv5N9zLTLTgE6biS1l0elBR
+ FmRdntPKVwnEId7x4s9HY9_Q0dquUMeVM.0BWvxPR6QGfQ8BPFukhEJjzP9L
+ iPXiUii9Lkj6p95fTnocUc3eKIj0QMJv0ts3Cl5S3tEWI3pb3Zu_4rZ5fEIS
+ 5bM_OmNFozM6K5kqIGRpkU6mDcYQmWvT235ygHGtfFv8gi9yN7eOF3otd7as
+ yMKsV8lvf3oHePYkcoQXEGqGP_dO1Amsng8F6hbASN6BAaWlSjYKmZMEyCqb
+ 6.t2TgLZt3rNzxV8FVyr2WajFQxxHzU0D1wSap8_Xk1QAFYkAFtT9Px0fHrm
+ H0KwQPN1s5MSARs3gxthRH5HqtFgnNKLHTfPAx2xFVIjWtATp97pM9EqX7ZC
+ EOiPVWC95BE6Y1N5nw7LpgrZs6_ys1b_MDWytEQ73_J8_KrqIqDM8TdX8ASg
+ PJtpc_sqjncwiUkt1NzIU80L1cvBY9UptfQpPp16KyNpGVOmYm8ph8t3mjcf
+ BBnk7tMII19wNz9SpkBGbI_BELy3Rvd9XhCL.baR4gRkPZa8FCPgcbotgWUb
+ kj8fVQBGZeGpiR78chVJU3uuVIAd_sK1G5Ncdu1_xG7Sx4A--
+X-Received: from [117.203.99.14] by web193905.mail.sg3.yahoo.com via HTTP; Wed, 02 Oct 2013 17:11:13 SGT
+X-Rocket-MIMEInfo: 002.001,SGkgdGhlcmUsCgpEb250IG1pc3MgbWFoYWxheWEgYW1hdmFzeWEuLi4gNCBvY3QgMjAxMy4uLi4uLi4uLi4uLi4uLi4uIHRoZXJlIGlzIG9ubHkgMiBkYXlzIGNhbiBiZSBkb25lIHJpdHVhbHMgZm9yIHBpdHJ1Li4uIDEgaXMgYWFkaSBhbWF2YXNheWEgMm5kIGlzIG1haGFsYXlhIGFtYXZhc2F5YS4uLi4KCmRvIHBpdHJ1IHRhcnBhbmFtLi4uLiB1c3VhbGx5IGRvbmUgb24gdGhlIHNoaXZhIHRlbXBsZSB3aGVyZSBuZWFyIHRoZSByaXZlciBiZWQgKGthc2ksIG1vc3Qgb2YgdGhlIHNoaXZhIHRlbXBsZXMgYXIBMAEBAQE-
+X-Mailer: YahooMailWebService/0.8.160.587
+References: <20131001165510.4636799.59062.491@...>
+Message-ID: <1380705073.6247.YahooMailNeo@...>
+Date: Wed, 2 Oct 2013 17:11:13 +0800 (SGT)
+To: "vedic-wisdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com>
+In-Reply-To: <20131001165510.4636799.59062.491@...>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="69002914-157605103-1380705073=:6247"
+X-Originating-IP: 10.193.84.37
+X-eGroups-Msg-Info: 1:12:0:0:0
+From: Ganes <ganesh2cbe@...>
+Reply-To: Ganes <ganesh2cbe@...>
+Subject: Re: [vedic-wisdom] Pitri homam
+X-Yahoo-Group-Post: member; u=251997729; y=i_AqPDrYxW4miN7r3NzkJBozmSJGHPo9W4pHJrAG8Br_RErCsA
+X-Yahoo-Profile: ganesh2cbe
+
+
+--69002914-157605103-1380705073=:6247
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Hi there,
+
+Dont miss mahalaya amavasya... 4 oct 2013................. there=
+ is only 2 days can be done rituals for pitru... 1 is aadi amavasaya 2nd is=
+ mahalaya amavasaya....
+
+do pitru tarpanam.... usually done on the shiva te=
+mple where near the river bed (kasi, most of the shiva temples are located =
+near river bed ) or sea shore.... ( gokarna, rameshwaram)
+
+Every thing is c=
+hanged now ..... because of the CM new action...... in rameshwaram.....=C2=
+=A0
+
+all rates card came up for all kinds of homan in rameshwaram.... pitra=
+ homam rs 350, tarapanam 300, ko dhanan 400, etc.....
+
+but actual pitru hom=
+an will cost more depending on the no of bharimins in the homan,.... is it =
+2.... to 20 ........ and food dhan..... depends upon the capabality of the =
+person.....
+
+if one cant afford to do more .... they can do it as minimum a=
+s rs 350 in TN..... just need to go with ellu....to shiva temple....=C2=A0
+=
+
+regards,
+
+GC
+
+
+________________________________
+ From: "groovyacharya@yaho=
+o.com" <groovyacharya@...>
+To: Vedic Wisdom <vedic-wisdom@yahoogroups=
+.com> 
+Sent: Tuesday, 1 October 2013 10:55 PM
+Subject: [vedic-wisdom] Pitri=
+ homam
+ 
+
+
+=C2=A0 
+Dear Narasimhaji=C2=A0
+
+
+Namaskar! Can you please guide =
+me how to perform Pitri homam. Actually I wanted to do it on this amavasya=
+=C2=A0
+
+Thank you=C2=A0
+Beat regards=C2=A0
+Gaurav=C2=A0
+
+Sent from my Black=
+Berry 10 smartphone.
+
+
+--69002914-157605103-1380705073=:6247
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"color:#000; background-color:#fff; font-family:ar=
+ial, helvetica, sans-serif;font-size:12pt"><div><span>Hi there,</span></div=
+><div style=3D"color: rgb(0, 0, 0); font-size: 16px; font-family: arial, he=
+lvetica, sans-serif; background-color: transparent; font-style: normal;"><s=
+pan><br></span></div><div style=3D"color: rgb(0, 0, 0); font-size: 16px; fo=
+nt-family: arial, helvetica, sans-serif; background-color: transparent; fon=
+t-style: normal;"><span>Dont miss mahalaya amavasya... 4 oct 2013..........=
+....... there is only 2 days can be done rituals for pitru... 1 is aadi ama=
+vasaya 2nd is mahalaya amavasaya....</span></div><div style=3D"color: rgb(0=
+, 0, 0); font-size: 16px; font-family: arial, helvetica, sans-serif; backgr=
+ound-color: transparent; font-style: normal;"><span><br></span></div><div s=
+tyle=3D"color: rgb(0, 0, 0); font-size: 16px; font-family: arial, helvetica=
+, sans-serif; background-color: transparent; font-style: normal;"><span>do
+=
+ pitru tarpanam.... usually done on the shiva temple where near the river b=
+ed (kasi, most of the shiva temples are located near river bed ) or sea sho=
+re.... ( gokarna, rameshwaram)</span></div><div><br></div><div style=3D"col=
+or: rgb(0, 0, 0); font-size: 16px; font-family: arial, helvetica, sans-seri=
+f; background-color: transparent; font-style: normal;">Every thing is chang=
+ed now ..... because of the CM new action...... in rameshwaram..... </=
+div><div style=3D"color: rgb(0, 0, 0); font-size: 16px; font-family: arial,=
+ helvetica, sans-serif; background-color: transparent; font-style: normal;"=
+><br></div><div style=3D"color: rgb(0, 0, 0); font-size: 16px; font-family:=
+ arial, helvetica, sans-serif; background-color: transparent; font-style: n=
+ormal;">all rates card came up for all kinds of homan in rameshwaram.... pi=
+tra homam rs 350, tarapanam 300, ko dhanan 400, etc.....</div><div style=3D=
+"color: rgb(0, 0, 0); font-size: 16px; font-family: arial, helvetica,
+ sans=
+-serif; background-color: transparent; font-style: normal;"><br></div><div =
+style=3D"color: rgb(0, 0, 0); font-size: 16px; font-family: arial, helvetic=
+a, sans-serif; background-color: transparent; font-style: normal;">but actu=
+al pitru homan will cost more depending on the no of bharimins in the homan=
+,.... is it 2.... to 20 ........ and food dhan..... depends upon the capaba=
+lity of the person.....</div><div style=3D"color: rgb(0, 0, 0); font-size: =
+16px; font-family: arial, helvetica, sans-serif; background-color: transpar=
+ent; font-style: normal;"><br></div><div style=3D"color: rgb(0, 0, 0); font=
+-size: 16px; font-family: arial, helvetica, sans-serif; background-color: t=
+ransparent; font-style: normal;">if one cant afford to do more .... they ca=
+n do it as minimum as rs 350 in TN..... just need to go with ellu....to shi=
+va temple.... </div><div style=3D"color: rgb(0, 0, 0); font-size: 16px=
+; font-family: arial, helvetica, sans-serif; background-color:
+ transparent=
+; font-style: normal;"><br></div><div style=3D"color: rgb(0, 0, 0); font-si=
+ze: 16px; font-family: arial, helvetica, sans-serif; background-color: tran=
+sparent; font-style: normal;">regards,</div><div style=3D"color: rgb(0, 0, =
+0); font-size: 16px; font-family: arial, helvetica, sans-serif; background-=
+color: transparent; font-style: normal;"><br></div><div style=3D"color: rgb=
+(0, 0, 0); font-size: 16px; font-family: arial, helvetica, sans-serif; back=
+ground-color: transparent; font-style: normal;">GC</div><div style=3D"color=
+: rgb(0, 0, 0); font-size: 16px; font-family: arial, helvetica, sans-serif;=
+ background-color: transparent; font-style: normal;"><br></div>  <div style=
+=3D"font-family: arial, helvetica, sans-serif; font-size: 12pt;"> <div styl=
+e=3D"font-family: 'times new roman', 'new york', times, serif; font-size: 1=
+2pt;"> <div dir=3D"ltr"> <hr size=3D"1">  <font size=3D"2" face=3D"Arial"> =
+<b><span style=3D"font-weight:bold;">From:</span></b>
+ "groovyacharya@yahoo=
+.com" <groovyacharya@...><br> <b><span style=3D"font-weight: bo=
+ld;">To:</span></b> Vedic Wisdom <vedic-wisdom@yahoogroups.com> <br> =
+<b><span style=3D"font-weight: bold;">Sent:</span></b> Tuesday, 1 October 2=
+013 10:55 PM<br> <b><span style=3D"font-weight: bold;">Subject:</span></b> =
+[vedic-wisdom] Pitri homam<br> </font> </div> <div class=3D"y_msg_container=
+"><br><div id=3D"yiv5219178531"><div>
+<span style=3D"display:none;"> <=
+/span>
+
+
+<div id=3D"yiv5219178531ygrp-mlmsg" style=3D"">
+  <div id=3D"yiv52=
+19178531ygrp-msg" style=3D"">
+
+
+    <div id=3D"yiv5219178531ygrp-text">
+   =
+   
+      
+      <div id=3D"yiv5219178531BB10_response_div" style=3D"font-f=
+amily: Calibri, 'Slate Pro', sans-serif; color: rgb(31, 73, 125); backgroun=
+d-color: rgb(255, 255, 255);"><span>Dear Narasimhaji </span></div><div=
+ id=3D"yiv5219178531_originalContent"><div><br clear=3D"none"></div><div>Na=
+maskar! Can you please guide me how to perform Pitri homam. Actually I want=
+ed to do it on this amavasya </div><div><br clear=3D"none"></div><div>=
+Thank you </div><div>Beat regards </div><div>Gaurav </div><d=
+iv><br clear=3D"none"></div><div id=3D"yiv5219178531_signaturePlaceholder">=
+Sent from my BlackBerry 10 smartphone.</div><br clear=3D"none"></div>
+
+
+   =
+ </div>
+     
+
+    
+    <div style=3D"color:#fff;height:0;"></div></div>
+
+
+=
+</div><style type=3D"text/css">
+#yiv5219178531 #yiv5219178531 --
+  #yiv5219=
+178531ygrp-mkp {
+border:1px solid #d8d8d8;font-family:Arial;margin:10px 0;p=
+adding:0 10px;}
+
+#yiv5219178531 #yiv5219178531ygrp-mkp hr {
+border:1px soli=
+d #d8d8d8;}
+
+#yiv5219178531 #yiv5219178531ygrp-mkp #yiv5219178531hd {
+color=
+:#628c2a;font-size:85%;font-weight:700;line-height:122%;margin:10px 0;}
+
+#y=
+iv5219178531 #yiv5219178531ygrp-mkp #yiv5219178531ads {
+margin-bottom:10px;=
+}
+
+#yiv5219178531 #yiv5219178531ygrp-mkp .yiv5219178531ad {
+padding:0 0;}
+
+=
+#yiv5219178531 #yiv5219178531ygrp-mkp .yiv5219178531ad p {
+margin:0;}
+
+#yiv=
+5219178531 #yiv5219178531ygrp-mkp .yiv5219178531ad a {
+color:#0000ff;text-d=
+ecoration:none;}
+#yiv5219178531 #yiv5219178531ygrp-sponsor #yiv5219178531yg=
+rp-lc {
+font-family:Arial;}
+
+#yiv5219178531 #yiv5219178531ygrp-sponsor #yiv=
+5219178531ygrp-lc #yiv5219178531hd {
+margin:10px 0px;font-weight:700;font-s=
+ize:78%;line-height:122%;}
+
+#yiv5219178531 #yiv5219178531ygrp-sponsor #yiv5=
+219178531ygrp-lc .yiv5219178531ad {
+margin-bottom:10px;padding:0 0;}
+
+#yiv5=
+219178531 #yiv5219178531actions {
+font-family:Verdana;font-size:11px;paddin=
+g:10px 0;}
+
+#yiv5219178531 #yiv5219178531activity {
+background-color:#e0ece=
+e;float:left;font-family:Verdana;font-size:10px;padding:10px;}
+
+#yiv5219178=
+531 #yiv5219178531activity span {
+font-weight:700;}
+
+#yiv5219178531 #yiv521=
+9178531activity span:first-child {
+text-transform:uppercase;}
+
+#yiv52191785=
+31 #yiv5219178531activity span a {
+color:#5085b6;text-decoration:none;}
+
+#y=
+iv5219178531 #yiv5219178531activity span span {
+color:#ff7900;}
+
+#yiv521917=
+8531 #yiv5219178531activity span .yiv5219178531underline {
+text-decoration:=
+underline;}
+
+#yiv5219178531 .yiv5219178531attach {
+clear:both;display:table=
+;font-family:Arial;font-size:12px;padding:10px 0;width:400px;}
+
+#yiv5219178=
+531 .yiv5219178531attach div a {
+text-decoration:none;}
+
+#yiv5219178531 .yi=
+v5219178531attach img {
+border:none;padding-right:5px;}
+
+#yiv5219178531 .yi=
+v5219178531attach label {
+display:block;margin-bottom:5px;}
+
+#yiv5219178531=
+ .yiv5219178531attach label a {
+text-decoration:none;}
+
+#yiv5219178531 bloc=
+kquote {
+margin:0 0 0 4px;}
+
+#yiv5219178531 .yiv5219178531bold {
+font-famil=
+y:Arial;font-size:13px;font-weight:700;}
+
+#yiv5219178531 .yiv5219178531bold=
+ a {
+text-decoration:none;}
+
+#yiv5219178531 dd.yiv5219178531last p a {
+font=
+-family:Verdana;font-weight:700;}
+
+#yiv5219178531 dd.yiv5219178531last p sp=
+an {
+margin-right:10px;font-family:Verdana;font-weight:700;}
+
+#yiv521917853=
+1 dd.yiv5219178531last p span.yiv5219178531yshortcuts {
+margin-right:0;}
+
+#=
+yiv5219178531 div.yiv5219178531attach-table div div a {
+text-decoration:non=
+e;}
+
+#yiv5219178531 div.yiv5219178531attach-table {
+width:400px;}
+
+#yiv5219=
+178531 div.yiv5219178531file-title a, #yiv5219178531 div.yiv5219178531file-=
+title a:active, #yiv5219178531 div.yiv5219178531file-title a:hover, #yiv521=
+9178531 div.yiv5219178531file-title a:visited {
+text-decoration:none;}
+
+#yi=
+v5219178531 div.yiv5219178531photo-title a, #yiv5219178531 div.yiv521917853=
+1photo-title a:active, #yiv5219178531 div.yiv5219178531photo-title a:hover,=
+ #yiv5219178531 div.yiv5219178531photo-title a:visited {
+text-decoration:no=
+ne;}
+
+#yiv5219178531 div#yiv5219178531ygrp-mlmsg #yiv5219178531ygrp-msg p a=
+ span.yiv5219178531yshortcuts {
+font-family:Verdana;font-size:10px;font-wei=
+ght:normal;}
+
+#yiv5219178531 .yiv5219178531green {
+color:#628c2a;}
+
+#yiv521=
+9178531 .yiv5219178531MsoNormal {
+margin:0 0 0 0;}
+
+#yiv5219178531 o {
+font=
+-size:0;}
+
+#yiv5219178531 #yiv5219178531photos div {
+float:left;width:72px;=
+}
+
+#yiv5219178531 #yiv5219178531photos div div {
+border:1px solid #666666;h=
+eight:62px;overflow:hidden;width:62px;}
+
+#yiv5219178531 #yiv5219178531photo=
+s div label {
+color:#666666;font-size:10px;overflow:hidden;text-align:cente=
+r;white-space:nowrap;width:64px;}
+
+#yiv5219178531 #yiv5219178531reco-catego=
+ry {
+font-size:77%;}
+
+#yiv5219178531 #yiv5219178531reco-desc {
+font-size:77=
+%;}
+
+#yiv5219178531 .yiv5219178531replbq {
+margin:4px;}
+
+#yiv5219178531 #yi=
+v5219178531ygrp-actbar div a:first-child {
+margin-right:2px;padding-right:5=
+px;}
+
+#yiv5219178531 #yiv5219178531ygrp-mlmsg {
+font-size:13px;font-family:=
+Arial, helvetica, clean, sans-serif;}
+
+#yiv5219178531 #yiv5219178531ygrp-ml=
+msg table {
+font-size:inherit;font:100%;}
+
+#yiv5219178531 #yiv5219178531ygr=
+p-mlmsg select, #yiv5219178531 input, #yiv5219178531 textarea {
+font:99% Ar=
+ial, Helvetica, clean, sans-serif;}
+
+#yiv5219178531 #yiv5219178531ygrp-mlms=
+g pre, #yiv5219178531 code {
+font:115% monospace;}
+
+#yiv5219178531 #yiv5219=
+178531ygrp-mlmsg * {
+line-height:1.22em;}
+
+#yiv5219178531 #yiv5219178531ygr=
+p-mlmsg #yiv5219178531logo {
+padding-bottom:10px;}
+
+
+#yiv5219178531 #yiv521=
+9178531ygrp-msg p a {
+font-family:Verdana;}
+
+#yiv5219178531 #yiv5219178531y=
+grp-msg p#yiv5219178531attach-count span {
+color:#1E66AE;font-weight:700;}
+=
+
+#yiv5219178531 #yiv5219178531ygrp-reco #yiv5219178531reco-head {
+color:#ff=
+7900;font-weight:700;}
+
+#yiv5219178531 #yiv5219178531ygrp-reco {
+margin-bot=
+tom:20px;padding:0px;}
+
+#yiv5219178531 #yiv5219178531ygrp-sponsor #yiv52191=
+78531ov li a {
+font-size:130%;text-decoration:none;}
+
+#yiv5219178531 #yiv52=
+19178531ygrp-sponsor #yiv5219178531ov li {
+font-size:77%;list-style-type:sq=
+uare;padding:6px 0;}
+
+#yiv5219178531 #yiv5219178531ygrp-sponsor #yiv5219178=
+531ov ul {
+margin:0;padding:0 0 0 8px;}
+
+#yiv5219178531 #yiv5219178531ygrp-=
+text {
+font-family:Georgia;}
+
+#yiv5219178531 #yiv5219178531ygrp-text p {
+ma=
+rgin:0 0 1em 0;}
+
+#yiv5219178531 #yiv5219178531ygrp-text tt {
+font-size:120=
+%;}
+
+#yiv5219178531 #yiv5219178531ygrp-vital ul li:last-child {
+border-righ=
+t:none !important;
+}
+#yiv5219178531 
+</style></div><br><br></div> </div> </=
+div>  </div></body></html>
+--69002914-157605103-1380705073=:6247--
+
+

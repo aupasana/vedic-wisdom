@@ -1,0 +1,822 @@
+From gotovicky2000@...  Wed Feb 17 11:10:44 2016
+Return-Path: <gotovicky2000@...>
+X-Sender: gotovicky2000@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 21127 invoked by uid 102); 6 Oct 2013 03:16:00 -0000
+X-Received: from unknown (HELO mtaq4.grp.bf1.yahoo.com) (10.193.84.143)
+  by m9.grp.bf1.yahoo.com with SMTP; 6 Oct 2013 03:16:00 -0000
+X-Received: (qmail 29968 invoked from network); 6 Oct 2013 03:15:59 -0000
+X-Received: from unknown (HELO nm32-vm8.bullet.mail.sg3.yahoo.com) (106.10.151.215)
+  by mtaq4.grp.bf1.yahoo.com with SMTP; 6 Oct 2013 03:15:59 -0000
+X-Received: from [106.10.166.117] by nm32.bullet.mail.sg3.yahoo.com with NNFMP; 06 Oct 2013 03:15:57 -0000
+X-Received: from [106.10.151.219] by tm6.bullet.mail.sg3.yahoo.com with NNFMP; 06 Oct 2013 03:15:57 -0000
+X-Received: from [127.0.0.1] by omp1017.mail.sg3.yahoo.com with NNFMP; 06 Oct 2013 03:15:57 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 601875.29764.bm@...
+X-Received: (qmail 53835 invoked by uid 60001); 6 Oct 2013 03:15:57 -0000
+X-YMail-OSG: ttaLSN8VM1lwPuIzqfArON8MMleS1nVI_vydouH24T2wngy
+ wRr_J0VsQ7hQ0GQZ1PHZxG0Vkozf060oJqB1nrYm_BLXZrfguqlbDQ3eldx9
+ 3Y7KaSlK5oTTOEss_efCbmUNAUUoUH_QVUhnmsU8YUBsPdOM_POklcovKzKA
+ 9pXcDVMAEN83x1mxPfjeFUqAmi0J5lgk7SSSeIHh.7tpWsvMRfWoP0kbEuCt
+ yVpAoIIjEKmNpoydpETUg6DAODOMM2i6l2UIkujB8jeNKS0g7bGOoABIYBys
+ rRtSo4asDQGlto42H_axQ77OJuSogBwJnIg0BfwXWJmQepGqxnHWNXN_CfZt
+ 7tk9B7C6Y_I2NVH5FF3TXoByZVjXli9f47WLq0DaVyvJJ_mrD9N9tiDCBRGq
+ yFLop0cqPwSik673Scd4g1hrP8iYn_uJXXGiPw6huy56t7KojxCOcoDTFY1H
+ P0KCJc6cyEmjyW6LQbnu7vHL4RJd04Wmr8PrElL.lUFhVcPVkiQWy3aRftqQ
+ VzOAw1439XsPQyLxBWXI6zv94J_l6WwXvrxQ5cMHgwj6zLhR9_jARs2WD2tC
+ nRdwemNIeXQ9GjlpTBg0FlgR5cojmEryVUftCNYP8qe6z5ZLGj2CFL9.iqiK
+ Y3rajmjN_SGbz96IQMLsB.wDo7gd1nYb82K335GMQUtQJbWqDTgyFYrYlImr
+ OVtTqVTwtbi5Liheo7WVFp2qMNYk4Zl3t0FNDKNnOlyTXno9cE7RHhMO5gFw
+ 2iTU5oFZIjLNPL9EAZjk34z1rSOleFp1cdJlW9IDTYKHSRJpBoUhcYU8jYqT
+ CyrERdOTZXgISDomHq2F7UmNzKQ4bpCoqjeJMyBZ.Ls0XVDJiv9A36pnL9pH
+ UNaTLGhPLO4pgQNfAptrlpAgEkP7ZCqYcSi0nJHwsSggVP_A4VDBGojE1y61
+ giP2azudpmwU4EQDoVENI_UA4XROejFyLhUIihqSgIcneJuamepYtvT7LmQx
+ FniLryB.PWtObXMckF4yNcEH97F4RtwG3yNCZbMQ_qjo0P3UFU9bsGzqwcn8
+ 0q72l1D1mjkz7.F2CpSZqxFah4vX4Qs20SwEz_BMPFhamzze3X7YYufa88nb
+ vFYiL33JczC9PlXa3eve4_V1zT5xwVA9TJ_8OLB2PEjsTCA--
+X-Received: from [117.196.244.170] by web190402.mail.sg3.yahoo.com via HTTP; Sun, 06 Oct 2013 11:15:56 SGT
+X-Rocket-MIMEInfo: 002.001,TmFtYXNrYXIgQXBhcm5hIEppLAoKUGxzIHJlYWQgwqB0aGUgZm9sbG93aW5nIGFydGljbGUgdGhpcyBtaWdodCBnaXZlIHlvdSBzb21lIGRpcmVjdGlvbiA6CgoxLiDCoMKgaHR0cDovL3d3dy5zcGlyaXR1YWxyZXNlYXJjaGZvdW5kYXRpb24ub3JnL2FydGljbGVzL2lkL3NwaXJpdHVhbHJlc2VhcmNoL3NwaXJpdHVhbGl0eWFuZGhlYWx0aC9jb250cm9sX21pZ3JhaW5lCjIuIMKgaHR0cDovL3d3dy5zcGlyaXR1YWxyZXNlYXJjaGZvdW5kYXRpb24ub3JnL2FydGljbGVzL2lkL3NwaXJpdHVhbC1yZXNlYXJjaC8BMAEBAQE-
+X-Mailer: YahooMailWebService/0.8.160.587
+References: <l2m12j+o3crg@...>	<52503191.c9ed440a.64a6.ffffa914@...> <l2pnv7+3gh8fr@...>
+Message-ID: <1381029356.52666.YahooMailNeo@...>
+Date: Sun, 6 Oct 2013 11:15:56 +0800 (SGT)
+To: "vedic-wisdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com>
+In-Reply-To: <l2pnv7+3gh8fr@...>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="-1112822848-1053331314-1381029356=:52666"
+X-Originating-IP: 10.193.84.143
+X-eGroups-Msg-Info: 1:12:0:0:0
+From: Vicky dubey <gotovicky2000@...>
+Reply-To: Vicky dubey <gotovicky2000@...>
+Subject: Re: RE: [vedic-wisdom] Completion of purascharana and its effects
+X-Yahoo-Group-Post: member; u=254805856; y=KUy-nqNg5qb2NWDsqSZMWPSEllFQE065CeamDO0qLJffWQmj_07ZNg
+X-Yahoo-Profile: gotovicky2000
+
+
+---1112822848-1053331314-1381029356=:52666
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Namaskar Aparna Ji,
+
+Pls read =C2=A0the following article this might give y=
+ou some direction :
+
+1. =C2=A0=C2=A0http://www.spiritualresearchfoundation.=
+org/articles/id/spiritualresearch/spiritualityandhealth/control_migraine
+2.=
+ =C2=A0http://www.spiritualresearchfoundation.org/articles/id/spiritual-res=
+earch/physical-health/severe-migraine-overcome
+
+Best regards,
+vishwas
+
+
+___=
+_____________________________
+ From: "sunrise_1080@..." <sunrise_10=
+80@...>
+To: vedic-wisdom@yahoogroups.com 
+Sent: Sunday, 6 October 2=
+013 12:40 AM
+Subject: RE: RE: [vedic-wisdom] Completion of purascharana and=
+ its effects
+ 
+
+
+=C2=A0 
+Namaste Kannanji,
+
+A very happy and successful Nav=
+aratri to you too. 
+
+
+I would be interested in any migraine cures you have =
+to suggest. They have become the bane of my life, and I do not want to take=
+ preventative tablets. I am trying to avoid the triggers I have identified =
+(skipping meals, sleeping too little, too much time on the computer!) as mu=
+ch as I can but honestly, am not having much luck in preventing them.
+
+Also=
+, I should mention that I re-calculated my mantra count yesterday and noted=
+ an error!! It turns out I finish the purascharana only by Diwali- Nov 3 (n=
+ot next week), so still have a little way to go. Thank you very much for th=
+e kind prayers related to my sadhana. I pray that you too may have every su=
+ccess in your sadhana.=C2=A0
+
+Om Sri Durgayei Namaha
+
+
+Best wishes,
+
+Aparna=
+
+
+---In vedic-wisdom@yahoogroups.com, <vedic-wisdom@yahoogroups.com> wrote:=
+
+
+
+Namasthay Aparna Ji
+=C2=A0
+1.=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0 I am p=
+leased with your sharing of your experience in saadhana.
+Thank you so much =
+Aparna Ji.
+2.=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0 Maharishi Agastya has pre=
+scribed a very simple remedy for
+migraine. I thought it would be great if y=
+ou could try it. I will be glad to
+share if your noble self evince interest=
+.
+3.=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0 I request Shri Vigna-Vinaayaka to =
+bless your purascharana with
+nirvigna-siddhi.
+4.=C2=A0=C2=A0=C2=A0=C2=A0=C2=
+=A0=C2=A0 A transformatory nava-ratri to you too Aparna ji. Thank You.
+=C2=
+=A0
+Thanks and Warm Regards,
+Kannan
+From:vedic-wisdom@yahoogroups.com [mail=
+to:vedic-wisdom@yahoogroups.com] On Behalf
+Of sunrise_1080@...
+Sent: Friday=
+, October 04, 2013 14:47
+To: vedic-wisdom@yahoogroups.com
+Subject: [vedic-w=
+isdom] Completion of purascharana and its effects
+=C2=A0
+=C2=A0 
+Dear all,
+=
+
+I am coming to the end of my purascharana practice of the ashtakshari mant=
+ra-
+will finish next week on Oct 9. I thought I would share some thoughts w=
+ith you
+about my perception of the effects of my practice.
+
+I would say the=
+ biggest effect (that I can perceive) is on my physical self. In
+simple ter=
+ms, I find that if I flout Nature's rules, specifically regarding
+proper sl=
+eep and food, without fail I get an awful migraine. This never used to
+be t=
+he case. I have had dreadful working hours in the past (before starting the=
+
+purascharana) and could get away with skipping meals and sleeping erratica=
+lly
+if work demanded it. 
+
+However I simply cannot do this anymore. I have =
+had a ridiculous number of
+migraines in the last two years, which coincides=
+ with starting the purascharana
+two years ago. It may just be happening bec=
+ause I'm getting older, but before I
+started this practice, I could general=
+ly get away with going to bed late and
+waking late. I know this is not the =
+habit of a true sadhak, but when you get
+home from work late, sometimes goi=
+ng to bed straightaway can be frustrating
+(because it feels like you did no=
+thing all day but work). I always wanted to be
+more disciplined but found i=
+t difficult especially after a long day at work.
+
+Anyway, I now have no cho=
+ice but to get to sleep latest by 10.30 pm, or I can
+expect a migraine the =
+next day. Needless to say, sleeping early means I wake up
+early, and end up=
+ doing sadhana early- a habit I struggled to cultivate due to
+erratic worki=
+ng hours. Thanks to Mother Nature, I am now pretty much forced to
+obey what=
+ I call basic 'yoga rules' - not skipping meals (disturbs my vata
+dosha!), =
+sleeping on time- basically being more disciplined. I feel that She is
+stan=
+ding over me with a stick, forcing me to get to bed on time and eat
+sensibl=
+y!
+
+Regarding the effects on the practice on my mind, the old enemies (ange=
+r, envy,
+etc) still rear their ugly heads, but I am more aware of them- and=
+ am now a bit
+better at keeping them in control. Still have plenty of work =
+to do before they
+are completely eliminated.
+
+I am happy that (by coinciden=
+ce) the finishing date of the purascharana happens
+to be mid-Navaratri. I a=
+m planning to start an anushthana of the Navarna mantra
+tomorrow. I plan to=
+ do japa of the Navarna mantra- three malas a day- for just
+over a year to =
+complete 125,000 repetitions (supposedly the minimum for any
+anusthana). I =
+plan to keep up the Ashtakshari mantra too at 7 malas a day.
+
+I am now on a=
+ tridosha pacifying diet in the hope that the migraines will improve.
+I am =
+also going to try to sleep even earlier (by 10 pm) in the hope that this
+wi=
+ll enable me to wake up in brahma muhurtha daily (luckily sunrise in the UK=
+
+is at 7 am at present!). 
+
+A happy Navaratri to all of you.
+
+Best wishes,
+=
+
+Aparna
+
+---1112822848-1053331314-1381029356=:52666
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"color:#000; background-color:#fff; font-family:ti=
+mes new roman, new york, times, serif;font-size:12pt"><div><span>Namaskar A=
+parna Ji,</span></div><div style=3D"color: rgb(0, 0, 0); font-size: 16px; f=
+ont-family: 'times new roman', 'new york', times, serif; background-color: =
+transparent; font-style: normal;"><span><br></span></div><div style=3D"colo=
+r: rgb(0, 0, 0); font-size: 16px; font-family: 'times new roman', 'new york=
+', times, serif; background-color: transparent; font-style: normal;">Pls re=
+ad  the following article this might give you some direction :</div><d=
+iv style=3D"color: rgb(0, 0, 0); font-size: 16px; font-family: 'times new r=
+oman', 'new york', times, serif; background-color: transparent; font-style:=
+ normal;"><br></div><div style=3D"color: rgb(0, 0, 0); font-size: 16px; fon=
+t-family: 'times new roman', 'new york', times, serif; background-color: tr=
+ansparent; font-style: normal;">1.   <a
+ href=3D"http://www.spiri=
+tualresearchfoundation.org/articles/id/spiritualresearch/spiritualityandhea=
+lth/control_migraine" style=3D"font-size: 12pt;">http://www.spiritualresear=
+chfoundation.org/articles/id/spiritualresearch/spiritualityandhealth/contro=
+l_migraine</a></div><div style=3D"color: rgb(0, 0, 0); font-size: 16px; fon=
+t-family: 'times new roman', 'new york', times, serif; background-color: tr=
+ansparent; font-style: normal;">2.  <a href=3D"http://www.spiritualres=
+earchfoundation.org/articles/id/spiritual-research/physical-health/severe-m=
+igraine-overcome" style=3D"font-size: 12pt;">http://www.spiritualresearchfo=
+undation.org/articles/id/spiritual-research/physical-health/severe-migraine=
+-overcome</a></div><div style=3D"color: rgb(0, 0, 0); font-size: 16px; font=
+-family: 'times new roman', 'new york', times, serif; background-color: tra=
+nsparent; font-style: normal;"><br></div><div style=3D"color: rgb(0, 0, 0);=
+ font-size: 16px; font-family: 'times new roman', 'new
+ york', times, serif=
+; background-color: transparent; font-style: normal;">Best regards,</div><d=
+iv style=3D"color: rgb(0, 0, 0); font-size: 16px; font-family: 'times new r=
+oman', 'new york', times, serif; background-color: transparent; font-style:=
+ normal;">vishwas</div><div><br></div>  <div style=3D"font-family: 'times n=
+ew roman', 'new york', times, serif; font-size: 12pt;"> <div style=3D"font-=
+family: 'times new roman', 'new york', times, serif; font-size: 12pt;"> <di=
+v dir=3D"ltr"> <hr size=3D"1">  <font size=3D"2" face=3D"Arial"> <b><span s=
+tyle=3D"font-weight:bold;">From:</span></b> "sunrise_1080@..." <=
+sunrise_1080@...><br> <b><span style=3D"font-weight: bold;">To:<=
+/span></b> vedic-wisdom@yahoogroups.com <br> <b><span style=3D"font-weight:=
+ bold;">Sent:</span></b> Sunday, 6 October 2013 12:40 AM<br> <b><span style=
+=3D"font-weight: bold;">Subject:</span></b> RE: RE: [vedic-wisdom] Completi=
+on of purascharana and its effects<br> </font> </div> <div
+ class=3D"y_msg_=
+container"><br><div id=3D"yiv0532313461"><div>
+<span style=3D"display:none;=
+"> </span>
+
+
+<div id=3D"yiv0532313461ygrp-mlmsg" style=3D"">
+  <div id=
+=3D"yiv0532313461ygrp-msg" style=3D"">
+
+
+    <div id=3D"yiv0532313461ygrp-t=
+ext">
+      
+      
+      <div>Namaste Kannanji,</div><div><br clear=3D"non=
+e"></div><div style=3D"color: rgb(0, 0, 0); font-size: 13px; font-family: a=
+rial, helvetica, clean, sans-serif; background-color: transparent; font-sty=
+le: normal;">A very happy and successful Navaratri to you too. <br clear=3D=
+"none"></div><div style=3D"color: rgb(0, 0, 0); font-size: 13px; font-famil=
+y: arial, helvetica, clean, sans-serif; background-color: transparent; font=
+-style: normal;"><br clear=3D"none"></div><div style=3D"color: rgb(0, 0, 0)=
+; font-size: 13px; font-family: arial, helvetica, clean, sans-serif; backgr=
+ound-color: transparent; font-style: normal;">I would be interested in any =
+migraine cures you have to suggest. They have become the bane of my life, a=
+nd I do not want to take preventative tablets. I am trying to avoid the tri=
+ggers I have identified (skipping meals, sleeping too little, too much time=
+ on the computer!) as much as I can but honestly, am not having much luck i=
+n preventing
+ them.</div><div style=3D"color: rgb(0, 0, 0); font-size: 13px=
+; font-family: arial, helvetica, clean, sans-serif; background-color: trans=
+parent; font-style: normal;"><br clear=3D"none"></div><div style=3D"color: =
+rgb(0, 0, 0); font-size: 13px; font-family: arial, helvetica, clean, sans-s=
+erif; background-color: transparent; font-style: normal;">Also, I should me=
+ntion that I re-calculated my mantra count yesterday and noted an error!! I=
+t turns out I finish the purascharana only by Diwali- Nov 3 (not next week)=
+, so still have a little way to go. Thank you very much for the kind prayer=
+s related to my sadhana. I pray that you too may have every success in your=
+ sadhana. </div><div style=3D"color: rgb(0, 0, 0); font-size: 13px; fo=
+nt-family: arial, helvetica, clean, sans-serif; background-color: transpare=
+nt; font-style: normal;"><br clear=3D"none"></div><div style=3D"color: rgb(=
+0, 0, 0); font-size: 13px; font-family: arial, helvetica, clean, sans-serif=
+;
+ background-color: transparent; font-style: normal;">Om Sri Durgayei Nama=
+ha<br clear=3D"none"></div><div class=3D"yiv0532313461ygroups-quoted"><br c=
+lear=3D"none">Best wishes,<br clear=3D"none"><br clear=3D"none">Aparna<br c=
+lear=3D"none"><br clear=3D"none">---In vedic-wisdom@yahoogroups.com, <ve=
+dic-wisdom@yahoogroups.com> wrote:<br clear=3D"none"><br clear=3D"none">=
+<div id=3D"yiv0532313461ygrps-yiv-1415683337">
+
+
+
+
+
+
+
+
+
+
+
+<div class=3D"yiv=
+0532313461ygrps-yiv-1415683337Section1">
+
+<div class=3D"yiv0532313461ygrps-=
+yiv-1415683337MsoNormal"><span style=3D"font-size:11.0pt;color:#1F497D;">Na=
+masthay Aparna Ji</span></div> 
+
+<div class=3D"yiv0532313461ygrps-yiv-14156=
+83337MsoNormal"><span style=3D"font-size:11.0pt;color:#1F497D;">  </sp=
+an></div> 
+
+<div class=3D"yiv0532313461ygrps-yiv-1415683337MsoListParagraph=
+"><span style=3D"font-size:11.0pt;color:#1F497D;"><span>1.<span style=3D"fo=
+nt:7.0pt;">      
+</span></span></span><span =
+style=3D"font-size:11.0pt;color:#1F497D;">I am pleased with your sharing of=
+ your experience in saadhana.
+Thank you so much Aparna Ji.</span></div> 
+
+<=
+div class=3D"yiv0532313461ygrps-yiv-1415683337MsoListParagraph"><span style=
+=3D"font-size:11.0pt;color:#1F497D;"><span>2.<span style=3D"font:7.0pt;">&n=
+bsp;     
+</span></span></span><span style=3D"font=
+-size:11.0pt;color:#1F497D;">Maharishi Agastya has prescribed a very simple=
+ remedy for
+migraine. I thought it would be great if you could try it. I wi=
+ll be glad to
+share if your noble self evince interest.</span></div> 
+
+<div=
+ class=3D"yiv0532313461ygrps-yiv-1415683337MsoListParagraph"><span style=3D=
+"font-size:11.0pt;color:#1F497D;"><span>3.<span style=3D"font:7.0pt;"> =
+;     
+</span></span></span><span style=3D"font-si=
+ze:11.0pt;color:#1F497D;">I request Shri Vigna-Vinaayaka to bless your pura=
+scharana with
+nirvigna-siddhi.</span></div> 
+
+<div class=3D"yiv0532313461yg=
+rps-yiv-1415683337MsoListParagraph"><span style=3D"font-size:11.0pt;color:#=
+1F497D;"><span>4.<span style=3D"font:7.0pt;">     =
+ 
+</span></span></span><span style=3D"font-size:11.0pt;color:#1F497D;"=
+>A transformatory nava-ratri to you too Aparna ji. Thank You.</span></div> =
+
+
+<div class=3D"yiv0532313461ygrps-yiv-1415683337MsoNormal"><span style=3D"=
+font-size:11.0pt;color:#1F497D;">  </span></div> 
+
+<div class=3D"yiv05=
+32313461ygrps-yiv-1415683337MsoNormal"><span style=3D"font-size:11.0pt;colo=
+r:#1F497D;">Thanks and Warm Regards,</span></div> 
+
+<div class=3D"yiv053231=
+3461ygrps-yiv-1415683337MsoNormal"><span style=3D"font-size:11.0pt;color:#1=
+F497D;">Kannan</span></div> 
+
+<div>
+
+<div style=3D"border-top:solid #B5C4DF=
+ 1.0pt;">
+
+<div class=3D"yiv0532313461ygrps-yiv-1415683337MsoNormal"><b><sp=
+an style=3D"font-size:10.0pt;">From:</span></b><span style=3D"font-size:10.=
+0pt;">
+vedic-wisdom@yahoogroups.com [mailto:vedic-wisdom@yahoogroups.com] <=
+b>On Behalf
+Of </b>sunrise_1080@...<br clear=3D"none">
+<b>Sent:</b> Friday,=
+ October 04, 2013 14:47<br clear=3D"none">
+<b>To:</b> vedic-wisdom@yahoogro=
+ups.com<br clear=3D"none">
+<b>Subject:</b> [vedic-wisdom] Completion of pur=
+ascharana and its effects</span></div> 
+
+</div>
+
+</div>
+
+<div class=3D"yiv0=
+532313461ygrps-yiv-1415683337MsoNormal">  </div> 
+
+<div class=3D"yiv05=
+32313461ygrps-yiv-1415683337MsoNormal">  </div> 
+
+<div id=3D"yiv053231=
+3461ygrps-yiv-1415683337ygrp-mlmsg">
+
+<div id=3D"yiv0532313461ygrps-yiv-141=
+5683337ygrp-msg">
+
+<div id=3D"yiv0532313461ygrps-yiv-1415683337ygrp-text">
+=
+
+<div>Dear all,<br clear=3D"none">
+<br clear=3D"none">
+I am coming to the e=
+nd of my purascharana practice of the ashtakshari mantra-
+will finish next =
+week on Oct 9. I thought I would share some thoughts with you
+about my perc=
+eption of the effects of my practice.<br clear=3D"none">
+<br clear=3D"none"=
+>
+I would say the biggest effect (that I can perceive) is on my physical se=
+lf. In
+simple terms, I find that if I flout Nature's rules, specifically re=
+garding
+proper sleep and food, without fail I get an awful migraine. This n=
+ever used to
+be the case. I have had dreadful working hours in the past (be=
+fore starting the
+purascharana) and could get away with skipping meals and =
+sleeping erratically
+if work demanded it. <br clear=3D"none">
+<br clear=3D"=
+none">
+However I simply cannot do this anymore. I have had a ridiculous num=
+ber of
+migraines in the last two years, which coincides with starting the p=
+urascharana
+two years ago. It may just be happening because I'm getting old=
+er, but before I
+started this practice, I could generally get away with goi=
+ng to bed late and
+waking late. I know this is not the habit of a true sadh=
+ak, but when you get
+home from work late, sometimes going to bed straightaw=
+ay can be frustrating
+(because it feels like you did nothing all day but wo=
+rk). I always wanted to be
+more disciplined but found it difficult especial=
+ly after a long day at work.<br clear=3D"none">
+<br clear=3D"none">
+Anyway,=
+ I now have no choice but to get to sleep latest by 10.30 pm, or I can
+expe=
+ct a migraine the next day. Needless to say, sleeping early means I wake up=
+
+early, and end up doing sadhana early- a habit I struggled to cultivate du=
+e to
+erratic working hours. Thanks to Mother Nature, I am now pretty much f=
+orced to
+obey what I call basic 'yoga rules' - not skipping meals (disturbs=
+ my vata
+dosha!), sleeping on time- basically being more disciplined. I fee=
+l that She is
+standing over me with a stick, forcing me to get to bed on ti=
+me and eat
+sensibly!<br clear=3D"none">
+<br clear=3D"none">
+Regarding the e=
+ffects on the practice on my mind, the old enemies (anger, envy,
+etc) still=
+ rear their ugly heads, but I am more aware of them- and am now a bit
+bette=
+r at keeping them in control. Still have plenty of work to do before they
+a=
+re completely eliminated.<br clear=3D"none">
+<br clear=3D"none">
+I am happy=
+ that (by coincidence) the finishing date of the purascharana happens
+to be=
+ mid-Navaratri. I am planning to start an anushthana of the Navarna mantra
+=
+tomorrow. I plan to do japa of the Navarna mantra- three malas a day- for j=
+ust
+over a year to complete 125,000 repetitions (supposedly the minimum for=
+ any
+anusthana). I plan to keep up the Ashtakshari mantra too at 7 malas a =
+day.<br clear=3D"none">
+<br clear=3D"none">
+I am now on a tridosha pacifyin=
+g diet in the hope that the migraines will improve.
+I am also going to try =
+to sleep even earlier (by 10 pm) in the hope that this
+will enable me to wa=
+ke up in brahma muhurtha daily (luckily sunrise in the UK
+is at 7 am at pre=
+sent!). <br clear=3D"none">
+<br clear=3D"none">
+A happy Navaratri to all of=
+ you.<br clear=3D"none">
+<br clear=3D"none">
+Best wishes,<br clear=3D"none"=
+>
+<br clear=3D"none">
+Aparna</div> 
+
+</div>
+
+<div>
+
+<div class=3D"yiv053231=
+3461ygrps-yiv-1415683337MsoNormal"><span style=3D"color:white;"></span></di=
+v> 
+
+</div>
+
+</div>
+
+</div></div>
+
+</div></div>
+
+    </div>
+     
+
+    
+   =
+ <div style=3D"color:#fff;height:0;"></div></div>
+
+
+</div><style type=3D"te=
+xt/css">
+#yiv0532313461 #yiv0532313461 --
+  #yiv0532313461ygrp-mkp {
+border=
+:1px solid #d8d8d8;font-family:Arial;margin:10px 0;padding:0 10px;}
+
+#yiv05=
+32313461 #yiv0532313461ygrp-mkp hr {
+border:1px solid #d8d8d8;}
+
+#yiv053231=
+3461 #yiv0532313461ygrp-mkp #yiv0532313461hd {
+color:#628c2a;font-size:85%;=
+font-weight:700;line-height:122%;margin:10px 0;}
+
+#yiv0532313461 #yiv053231=
+3461ygrp-mkp #yiv0532313461ads {
+margin-bottom:10px;}
+
+#yiv0532313461 #yiv0=
+532313461ygrp-mkp .yiv0532313461ad {
+padding:0 0;}
+
+#yiv0532313461 #yiv0532=
+313461ygrp-mkp .yiv0532313461ad p {
+margin:0;}
+
+#yiv0532313461 #yiv05323134=
+61ygrp-mkp .yiv0532313461ad a {
+color:#0000ff;text-decoration:none;}
+#yiv05=
+32313461 #yiv0532313461ygrp-sponsor #yiv0532313461ygrp-lc {
+font-family:Ari=
+al;}
+
+#yiv0532313461 #yiv0532313461ygrp-sponsor #yiv0532313461ygrp-lc #yiv0=
+532313461hd {
+margin:10px 0px;font-weight:700;font-size:78%;line-height:122=
+%;}
+
+#yiv0532313461 #yiv0532313461ygrp-sponsor #yiv0532313461ygrp-lc .yiv05=
+32313461ad {
+margin-bottom:10px;padding:0 0;}
+
+#yiv0532313461 #yiv053231346=
+1actions {
+font-family:Verdana;font-size:11px;padding:10px 0;}
+
+#yiv0532313=
+461 #yiv0532313461activity {
+background-color:#e0ecee;float:left;font-famil=
+y:Verdana;font-size:10px;padding:10px;}
+
+#yiv0532313461 #yiv0532313461activ=
+ity span {
+font-weight:700;}
+
+#yiv0532313461 #yiv0532313461activity span:fi=
+rst-child {
+text-transform:uppercase;}
+
+#yiv0532313461 #yiv0532313461activi=
+ty span a {
+color:#5085b6;text-decoration:none;}
+
+#yiv0532313461 #yiv053231=
+3461activity span span {
+color:#ff7900;}
+
+#yiv0532313461 #yiv0532313461acti=
+vity span .yiv0532313461underline {
+text-decoration:underline;}
+
+#yiv053231=
+3461 .yiv0532313461attach {
+clear:both;display:table;font-family:Arial;font=
+-size:12px;padding:10px 0;width:400px;}
+
+#yiv0532313461 .yiv0532313461attac=
+h div a {
+text-decoration:none;}
+
+#yiv0532313461 .yiv0532313461attach img {=
+
+border:none;padding-right:5px;}
+
+#yiv0532313461 .yiv0532313461attach label=
+ {
+display:block;margin-bottom:5px;}
+
+#yiv0532313461 .yiv0532313461attach l=
+abel a {
+text-decoration:none;}
+
+#yiv0532313461 blockquote {
+margin:0 0 0 4=
+px;}
+
+#yiv0532313461 .yiv0532313461bold {
+font-family:Arial;font-size:13px;=
+font-weight:700;}
+
+#yiv0532313461 .yiv0532313461bold a {
+text-decoration:no=
+ne;}
+
+#yiv0532313461 dd.yiv0532313461last p a {
+font-family:Verdana;font-we=
+ight:700;}
+
+#yiv0532313461 dd.yiv0532313461last p span {
+margin-right:10px;=
+font-family:Verdana;font-weight:700;}
+
+#yiv0532313461 dd.yiv0532313461last =
+p span.yiv0532313461yshortcuts {
+margin-right:0;}
+
+#yiv0532313461 div.yiv05=
+32313461attach-table div div a {
+text-decoration:none;}
+
+#yiv0532313461 div=
+.yiv0532313461attach-table {
+width:400px;}
+
+#yiv0532313461 div.yiv053231346=
+1file-title a, #yiv0532313461 div.yiv0532313461file-title a:active, #yiv053=
+2313461 div.yiv0532313461file-title a:hover, #yiv0532313461 div.yiv05323134=
+61file-title a:visited {
+text-decoration:none;}
+
+#yiv0532313461 div.yiv0532=
+313461photo-title a, #yiv0532313461 div.yiv0532313461photo-title a:active, =
+#yiv0532313461 div.yiv0532313461photo-title a:hover, #yiv0532313461 div.yiv=
+0532313461photo-title a:visited {
+text-decoration:none;}
+
+#yiv0532313461 di=
+v#yiv0532313461ygrp-mlmsg #yiv0532313461ygrp-msg p a span.yiv0532313461ysho=
+rtcuts {
+font-family:Verdana;font-size:10px;font-weight:normal;}
+
+#yiv05323=
+13461 .yiv0532313461green {
+color:#628c2a;}
+
+#yiv0532313461 .yiv0532313461M=
+soNormal {
+margin:0 0 0 0;}
+
+#yiv0532313461 o {
+font-size:0;}
+
+#yiv05323134=
+61 #yiv0532313461photos div {
+float:left;width:72px;}
+
+#yiv0532313461 #yiv0=
+532313461photos div div {
+border:1px solid #666666;height:62px;overflow:hid=
+den;width:62px;}
+
+#yiv0532313461 #yiv0532313461photos div label {
+color:#66=
+6666;font-size:10px;overflow:hidden;text-align:center;white-space:nowrap;wi=
+dth:64px;}
+
+#yiv0532313461 #yiv0532313461reco-category {
+font-size:77%;}
+
+#=
+yiv0532313461 #yiv0532313461reco-desc {
+font-size:77%;}
+
+#yiv0532313461 .yi=
+v0532313461replbq {
+margin:4px;}
+
+#yiv0532313461 #yiv0532313461ygrp-actbar =
+div a:first-child {
+margin-right:2px;padding-right:5px;}
+
+#yiv0532313461 #y=
+iv0532313461ygrp-mlmsg {
+font-size:13px;font-family:Arial, helvetica, clean=
+, sans-serif;}
+
+#yiv0532313461 #yiv0532313461ygrp-mlmsg table {
+font-size:i=
+nherit;font:100%;}
+
+#yiv0532313461 #yiv0532313461ygrp-mlmsg select, #yiv053=
+2313461 input, #yiv0532313461 textarea {
+font:99% Arial, Helvetica, clean, =
+sans-serif;}
+
+#yiv0532313461 #yiv0532313461ygrp-mlmsg pre, #yiv0532313461 c=
+ode {
+font:115% monospace;}
+
+#yiv0532313461 #yiv0532313461ygrp-mlmsg * {
+li=
+ne-height:1.22em;}
+
+#yiv0532313461 #yiv0532313461ygrp-mlmsg #yiv0532313461l=
+ogo {
+padding-bottom:10px;}
+
+
+#yiv0532313461 #yiv0532313461ygrp-msg p a {
+f=
+ont-family:Verdana;}
+
+#yiv0532313461 #yiv0532313461ygrp-msg p#yiv0532313461=
+attach-count span {
+color:#1E66AE;font-weight:700;}
+
+#yiv0532313461 #yiv053=
+2313461ygrp-reco #yiv0532313461reco-head {
+color:#ff7900;font-weight:700;}
+=
+
+#yiv0532313461 #yiv0532313461ygrp-reco {
+margin-bottom:20px;padding:0px;}
+=
+
+#yiv0532313461 #yiv0532313461ygrp-sponsor #yiv0532313461ov li a {
+font-siz=
+e:130%;text-decoration:none;}
+
+#yiv0532313461 #yiv0532313461ygrp-sponsor #y=
+iv0532313461ov li {
+font-size:77%;list-style-type:square;padding:6px 0;}
+
+#=
+yiv0532313461 #yiv0532313461ygrp-sponsor #yiv0532313461ov ul {
+margin:0;pad=
+ding:0 0 0 8px;}
+
+#yiv0532313461 #yiv0532313461ygrp-text {
+font-family:Geor=
+gia;}
+
+#yiv0532313461 #yiv0532313461ygrp-text p {
+margin:0 0 1em 0;}
+
+#yiv0=
+532313461 #yiv0532313461ygrp-text tt {
+font-size:120%;}
+
+#yiv0532313461 #yi=
+v0532313461ygrp-vital ul li:last-child {
+border-right:none !important;
+}
+#y=
+iv0532313461 
+</style></div><br><br></div> </div> </div>  </div></body></ht=
+ml>
+---1112822848-1053331314-1381029356=:52666--
+
+

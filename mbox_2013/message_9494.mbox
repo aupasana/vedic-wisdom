@@ -1,0 +1,239 @@
+From sumeet18064@...  Wed Feb 17 11:10:38 2016
+Return-Path: <sumeet18064@...>
+X-Sender: sumeet18064@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 40100 invoked by uid 102); 23 Jul 2013 15:23:03 -0000
+X-Received: from unknown (HELO mtaq5.grp.bf1.yahoo.com) (10.193.84.36)
+  by m12.grp.bf1.yahoo.com with SMTP; 23 Jul 2013 15:23:03 -0000
+X-Received: (qmail 23221 invoked from network); 23 Jul 2013 15:23:03 -0000
+X-Received: from unknown (HELO nm14-vm0.bullet.mail.bf1.yahoo.com) (98.139.213.164)
+  by mtaq5.grp.bf1.yahoo.com with SMTP; 23 Jul 2013 15:23:03 -0000
+X-Received: from [98.139.212.144] by nm14.bullet.mail.bf1.yahoo.com with NNFMP; 23 Jul 2013 15:23:03 -0000
+X-Received: from [68.142.230.69] by tm1.bullet.mail.bf1.yahoo.com with NNFMP; 23 Jul 2013 15:23:03 -0000
+X-Received: from [127.0.0.1] by smtp226.mail.bf1.yahoo.com with NNFMP; 23 Jul 2013 15:23:03 -0000
+X-Yahoo-Newman-Id: 511288.72193.bm@...
+X-Yahoo-Newman-Property: ymail-3
+X-YMail-OSG: 52qbJYYVM1l16GkeiGfgO.tBt3ETFz3XAwIBDJRyC6xn5ZR
+ 8kVQHyWtf3AIORXXwSgTtOdeAvdeySdAXZEoDfRSdcih_Ju7LU9OrLOlf9y0
+ KARTiJJjNKUomTl03iQGndCEqYAElTl4FVSrfOFYoYLKC_oT3tZLZKNyJYZI
+ anxL082Xk5mHzYGlaQpt3zZ4NNqdiACHXuI_IjaIg8KiOvZf9CYZ5BIP3pjX
+ ELKTGL2ikVBQBU9N5UTkZXfyh16vdbj.tgqfqAQ1pk5HJB8vJzi.h6yBNdJ8
+ AFokn_5oqTGlwUxwI.kx524itNoJoiVWGi8ubYazC__94p1fQhhr1WMk9nhW
+ RgW3vVf3vQK1ddTO8_Wmk.IL3pMFgRfggSrbYlXsBj_8FOoxgydrrFRXWpuX
+ gnRM7kbKEK4YCF2kaAALrgrQQipPT7BAtt.VwwteSs_b1Xc32nRzcd4qDMNl
+ .o0B2e3wx46DV7OYn.7km2Uyr85DGtPPZ31OJ11t6huWl9GZH_l59gIn_d8w
+ q.aBeknYvCy.QEu7VTSIILDe8_iWtg6RysrJ_brj5akN6qwNS0Psj5uytkG8
+ m.J.YZLey9an_IIXB6HCoBA0_B5HKHyxUnzihG8Q5e2QdIelSw4iE2DFXtU2
+ TvfQ_RAi66sbXDQWHZKQPYagDGZYS.M5gd00Z032d4gYQiwYZxPiRo_..Kiq
+ _Wg3ijThvwPwJOH5GQ478hyTyeNqa.lX8HZ3akPj9feTkXNMnu8xZr0LAoBU
+ c26EDw3WmEaiX49ghBZTBeD1JLvO9ouBI.Vf9M4Y15SBhVApQ0vnZ8DzPL.o
+ 4SmMVAGv9TfwwUatNK7ego.30a1PZ06w88IYlQtPJBk3JLnT.0MDUbfUBvfH
+ sqFSfiP85nhoBPkmQcR1rdspAfXvSQRT.5kO6rHZKex70lByVVEZWr7LSeAT
+ otbTRbYUnn033k.dWwZNnYRzIVW2DtuIRT7HvIvaNmbvZuHRW8SosXUjGlfp
+ ecFy2AuqCLwgr8UyAS3miIB7JeS6sncBHT0YUpb2m17OLojHUqPXJ9CyiF9J
+ kx1To0EeHRK8UbtnwSvvNDG4_4eJTcqP1.4X827UCPP.bsewVK_2maXsOguB
+ DIQjsTBKWsKorBe344I3CjpCfnebaKSE7uxZSr5c00VSRJmyS87kMYiM3H9Z
+ auVxzy2w99VVPfaWskB3LQ2Mp_qKBs7zv6M1uQJE.lauPYc1YcwrOY9HEIwu
+ PLf7t8AoATKkJAMHrvGPgjJnd7xJGn_aLPZFcVcEnB5dyVJe98_GawTOzIR3
+ 1fOVngSiBIQYVCej0S1qQgkW1xehwbqO7JgA5wHpAUvVC0GEnMWn08AWqv2g
+ z5nSN4.2inCCG6Wyz6hL5pRBdH0Qev623vBFdvFmi8L8IiDwPAs97IAkRTpB
+ nOwVcHZj1fTROpRMusOJtL3kW6zTgoAsODfxswiB7rkyBYA3.oxVE3GPvwh1
+ 8hzuKnPpU66fvY_JLWNpET_fjPq0uw1dZOuCAgi6lyJKPZSojsdKGv41lTQV
+ nf2RbihyEtVTSKMNWIDalAmQuzc0mN2Z1bDLcxEPQAtz_cnwzX8tezS6ufQK
+ sgAEkC5smJVNxImJqPApo6FnZg1kUb90DU9SmhAssgutBSF14.rxBWXA485s
+ 2hdeXnzw..DkKgRa4Gps7lEdMiSiuTyf11xOycn1H2TUryLNztRQty03B0PE
+ a8EhEuXQ4NwOYubAbNF8NOEy4B4..rvrfYlWmDsXt1b2Kyarbdu2OA_PH8eI
+ adD_KBivIF00pnBxAdrbfFD1XX61H2ygqo3qC2jo7vWaPmTutc6fKqz9QBrm
+ cpxR.QHdvQ5sA.0dblbiIIJuyuLX5XzGoFquupd2lC9QEH3SnXYv757IDzMo
+ 6yNYiGbzUj26N4HqTRQeZQD5pR0g_Gd40U3Xk5NNFPIVSVhLBOixA930BXgf
+ RxyI65I0jGHEowxhnn7ymRk_3KzY27a9ztR6xFh8bpsZg_XpV9g--
+X-Yahoo-SMTP: uZ56XkCswBA6wWvC3nj6sQikDrnpmAuo
+X-Rocket-Received: from [172.25.62.209] (sumeet18064@207.11.113.29 with )
+        by smtp226.mail.bf1.yahoo.com with SMTP; 23 Jul 2013 15:23:03 +0000 UTC
+References: <ksm5ns+mi6s@...>
+Content-Type: multipart/alternative;
+	boundary=Apple-Mail-E061DAE0-B6AC-4686-A92A-6FC9C857D47E
+X-Mailer: iPhone Mail (10B350)
+In-Reply-To: <ksm5ns+mi6s@...>
+Message-Id: <B36CE86D-1CC8-4DCA-BBF3-CCCAB6CEB584@...>
+Date: Tue, 23 Jul 2013 11:23:00 -0400
+To: "vedic-wisdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com>
+Content-Transfer-Encoding: 7bit
+Mime-Version: 1.0 (1.0)
+X-Originating-IP: 10.193.84.36
+X-eGroups-Msg-Info: 1:12:0:0:0
+From: Sumeet Kumar <sumeet18064@...>
+Subject: Re: [vedic-wisdom] guidance anyone?
+X-Yahoo-Group-Post: member; u=167313342; y=hM1Gq_THW7n3o8G_m2bo8hJ4HZzoCZsxEO9tPAxEQW-yBthxbRE
+X-Yahoo-Profile: sumeet18064
+
+
+--Apple-Mail-E061DAE0-B6AC-4686-A92A-6FC9C857D47E
+Content-Type: text/plain;
+	charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+** When the student is ready the teacher will appear ** All one can do is p=
+ray for the right one (sad guru) to come forward as there is lot of them of=
+ the other kind. 
+
+I may have a desire to learn tennis from Rafal Nadal and=
+ have him as my coach but unless I have specific Karma that will lead me to=
+ that direction then my chances are limited.  Desiring a specific guru may =
+have some sense of I ness associated with it also. 
+
+Continuing the tennis =
+analogy, In this case I would have to be a child tennis prodigy, be born in=
+to a family or circumstances where elders would have invested in my tennis =
+talent and developed my skills, have the right set of early coaches (early =
+gurus), go to the right tennis schools, have the right attitude towards Raf=
+al Nadal and prayed to the universe to have our paths cross one day and be =
+put into those circumstances where he agrees to take me as a shishya, have =
+the initiation under the right muhurata so that our association grew over t=
+ime or was stable etc. then perhaps my desire to be coached by him so that =
+i myself may win championships one day could have met with success. 
+
+If so=
+meone gives me the address where Rafal Nadal lives then there is no guarant=
+ee that he will take me as a student if I go and knock on his door.  Now if=
+ I had "Krupa" from god and there was past karma (say Rafal was my coach in=
+ last life and we had some unfinished karma together and he was waiting for=
+ me in this life with tears in his eyes - things would be different when I =
+knock on the door). 
+
+Shishyas are waiting for gurus just as gurus are wait=
+ing for shishyas. 
+
+When the student is ready the teacher will appear. 
+
+Su=
+meet
+
+On 2013-07-23, at 10:59 AM, "vernman_1976" <vernman1976@...> wr=
+ote:
+
+> guys....does anyone of you know any genuine tantric master...yogi..=
+.or sage...in the league of ramana...or anyone truly genuine in imparting a=
+nd teaching true spiritualty,tantra ,and wisdom....wish I had met either ra=
+mana or vimalananda from the aghora series...if he truly existed and not ju=
+st made up Robert svoboda.
+> 
+> I,m not talking about all the well known po=
+p star gurus who ask you to skip a meal and buy themselves a helicopter...a=
+nd the rest of the clowns in the circus...
+> 
+> just the real deal....can s=
+omeone hook me up?????
+> 
+> plse share...right now I know of a guy in kannu=
+r {meppad sampradaya}who is well versed in the occult side of tantra and sr=
+i vidya in kerala for those into that stuff....and the fire yogi looks prom=
+ising{you tube for more info}...and there is a guru in dindigul 36 mengles =
+rd called viswabarathi..who was the first to teach me these things...but sa=
+dly I lost touch with him..and I,m not not sure if he is still around,if u =
+know what I mean...
+> 
+> I,ve got no other contacts and would appreciate it=
+ if any of guys could intro someone....tnks
+> 
+> 
+
+--Apple-Mail-E061DAE0-B6AC-4686-A92A-6FC9C857D47E
+Content-Type: text/html;
+	charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><meta http-equiv=3D"content-type" content=3D"text/html; charset=
+=3Dutf-8"></head><body dir=3D"auto"><div>** When the student is ready the t=
+eacher will appear ** All one can do is pray for the right one (sad guru) t=
+o come forward as there is lot of them of the other kind. </div><div><=
+br></div><div>I may have a desire to learn tennis from Rafal Nadal and have=
+ him as my coach but unless I have specific Karma that will lead me to that=
+ direction then my chances are limited.  Desiring a specific guru may =
+have some sense of I ness associated with it also. </div><div><br></di=
+v><div>Continuing the tennis analogy, In this case I would have to be a chi=
+ld tennis prodigy, be born into a family or circumstances where elders woul=
+d have invested in my tennis talent and developed my skills, have the right=
+ set of early coaches (early gurus), go to the right tennis schools, have t=
+he right attitude towards Rafal Nadal and prayed to the universe to have ou=
+r paths cross one day and be put into those circumstances where he agrees t=
+o take me as a shishya, have the initiation under the right muhurata so tha=
+t our association grew over time or was stable etc. then perhaps my desire =
+to be coached by him so that i myself may win championships one day could h=
+ave met with success. </div><div><br></div><div>If someone gives me th=
+e address where Rafal Nadal lives then there is no guarantee that he will t=
+ake me as a student if I go and knock on his door.  Now if I had "Krup=
+a" from god and there was past karma (say Rafal was my coach in last life a=
+nd we had some unfinished karma together and he was waiting for me in this =
+life with tears in his eyes - things would be different when I knock on the=
+ door). </div><div><br></div><div>Shishyas are waiting for gurus just =
+as gurus are waiting for shishyas. </div><div><br></div><div>When the =
+student is ready the teacher will appear. </div><div><br>Sumeet</div><=
+div><br>On 2013-07-23, at 10:59 AM, "vernman_1976" <<a href=3D"mailto:ve=
+rnman1976@...">vernman1976@...</a>> wrote:<br><br></div><blo=
+ckquote type=3D"cite"><div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span style=3D"display:none">&nbs=
+p;</span>
+
+
+
+    <div id=3D"ygrp-text">
+      
+      
+      <p>guys....does=
+ anyone of you know any genuine tantric master...yogi...or sage...in the le=
+ague of ramana...or anyone truly genuine in imparting and teaching true spi=
+ritualty,tantra ,and wisdom....wish I had met either ramana or vimalananda =
+from the aghora series...if he truly existed and not just made up Robert sv=
+oboda.<br>
+<br>
+I,m not talking about all the well known pop star gurus who=
+ ask you to skip a meal and buy themselves a helicopter...and the rest of t=
+he clowns in the circus...<br>
+<br>
+just the real deal....can someone hook =
+me up?????<br>
+<br>
+plse share...right now I know of a guy in kannur {meppa=
+d sampradaya}who is well versed in the occult side of tantra and sri vidya =
+in kerala for those into that stuff....and the fire yogi looks promising{yo=
+u tube for more info}...and there is a guru in dindigul 36 mengles rd calle=
+d viswabarathi..who was the first to teach me these things...but sadly I lo=
+st touch with him..and I,m not not sure if he is still around,if u know wha=
+t I mean...<br>
+<br>
+I,ve got no other contacts and would appreciate it if =
+any of guys could intro someone....tnks<br>
+<br>
+</p>
+
+    </div>
+     
+
+  =
+  
+
+
+
+
+
+<!-- end group email -->
+
+</div></blockquote></body></html>
+--Apple-Mail-E061DAE0-B6AC-4686-A92A-6FC9C857D47E--
+
+

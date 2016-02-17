@@ -1,0 +1,363 @@
+From sumeet18064@...  Wed Feb 17 11:10:39 2016
+Return-Path: <sumeet18064@...>
+X-Sender: sumeet18064@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 26163 invoked by uid 102); 28 Jul 2013 15:54:14 -0000
+X-Received: from unknown (HELO mtaq2.grp.bf1.yahoo.com) (10.193.84.33)
+  by m1.grp.bf1.yahoo.com with SMTP; 28 Jul 2013 15:54:14 -0000
+X-Received: (qmail 18577 invoked from network); 28 Jul 2013 15:54:14 -0000
+X-Received: from unknown (HELO nm31-vm2.bullet.mail.bf1.yahoo.com) (72.30.239.10)
+  by mtaq2.grp.bf1.yahoo.com with SMTP; 28 Jul 2013 15:54:14 -0000
+X-Received: from [98.139.215.143] by nm31.bullet.mail.bf1.yahoo.com with NNFMP; 28 Jul 2013 15:54:14 -0000
+X-Received: from [98.139.212.227] by tm14.bullet.mail.bf1.yahoo.com with NNFMP; 28 Jul 2013 15:54:14 -0000
+X-Received: from [127.0.0.1] by omp1036.mail.bf1.yahoo.com with NNFMP; 28 Jul 2013 15:54:14 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 360013.69133.bm@...
+X-Received: (qmail 94243 invoked by uid 60001); 28 Jul 2013 15:54:14 -0000
+X-YMail-OSG: dNVjS4kVM1lt._7GFevIUILNefnSz5mboHak5gZBBS.ZAI.
+ wBzo_rkFmRvISUWBC6PN2CxuhKKZNicPfmO7sk7ut5i2HsGYotykf2qndyR1
+ c54zJY3JrGDgCIsZxLwAn0uwdwBcJiMrj1WjPgBrGJnq.u4lFU3mN170tWgA
+ H_FkgnlRF5vQFe3r2b3QfYp7MJ3dMysCNEfZinTsF3vi6jePWqQZqoXSn7t0
+ b0ngwHLMf9_Fiyp1NxWK8kl4exlWOSHCVVfldWmvdSPEWFxwbj94AclA7XRH
+ fqvIC9TwSxx8rBa9F4AynNgys.TqH0RE_ymBJDboMcPR4BhyVqOzUaOD_l6v
+ KHq1Hbv8mgvbXGH2gsQb_o9__UXDCI9DcPtf8tB_KP63oiPTSc0dPKqliJ5b
+ 3gxVcdb.pKoqA4OEA7gh5MkiFSUlO6wqagtavRkxD_NYSbqRmWrYIKEgbe_z
+ 7g_DAduJrRCuy9IxWp3Rdl1Tit2Gpc.2TGs2pDWB8pCw4Fp.O97TnzQAOsD.
+ owaXdeRYLyJqrRjBHYI4jGxedN55P_5BpuLvL848MQLlVv6eBH8Jg09WZDme
+ S5XnIotd7cxrnghfCxktRdguJn99PQDb6zUb4SSkonnJeiGwyp3koV0w.Ugb
+ pkrDxjqQrguBAwSn8KtzuVgzgMmkb65U_5hwZZrozoE6l.tJ5J8D7viDT_L1
+ _gkmgy3Wo78t3R8Alg7jCIXbKgJ84UFUUdPc7RpJIjml87GWiWWDa6_KbZ9l
+ wiUCA.R900mo3oXTXSq2NtcHZYzmN9kFTHWdpNx_scZrehaKhjNh1iP3TBU1
+ o4BIMU8ESvI4pq8gq3GzDuv5pBWH8AjG1f8se4.DV_eIwkzB8AxR3HT4nxFC
+ LTEEJnQ8Onhd8BiLbsRZ5Y0mE_kn_oAP8qnMPjXwH4a1SH9l_sRqcGvhlmMQ
+ .ukuuAsaP6VelmGxN6gQ4V5SJypPO7cWSaZAvFtsuwXsCwFynn_tIYOJ7Sec
+ _l9ioWWBAvjpnj8PHYoeXJpSjNMBQKgGll2WQj1C7uPMqEMMr8DjP1rXraqX
+ ZIihD8IGKfGILkW.5UkGItC6IJUkqWPZ.zuDWUDDKC_mjD0yRQAmBi7oX3PA
+ k.AUQD38C96PQE25ImPPbBq5B2q916WWUfNkC_tRL.cB8sWQQS4t3xU1Dazy
+ GVSdViFPL6CNM3rcnSKduQZTv9xec85qIiRkpwrB.MmxOCVOXsXgfiRJuQnU
+ vj1W1tNFQlyRxHXfPbXt_qRiFBbdsZpWBNz8T9xx2Zlis_8yN2ns_bopuzSu
+ NYchxrHeiELWbYx6EKjBvUmFVsjcHZ6YBK8oG62k54zPV0EviaL1xmcAgrEB
+ aXrIP_b1pvuKxpLGIttTl.395gGemNMKWitGjkRo3Ngy0N_H6hHfDJe3gkKX
+ o2TjymONkzkJ2iZS6__PGECPMMFL7zVlYCJECPmuQ1Nb9fkfWE15A2Lfe8Rx
+ FOw5ITZrPcMt1Wz5syhEvj3j9jkmNa0VJyCJrhEdxAx.RIcKF517hia181Ol
+ yg6odO17xgZjvBRAZqiViAMu2b7tXZiX.f_tTXAW3cFeFQHBJvkAjOYtXIin
+ Nv_0bj.LCAMlDCcX6KHAvmBH2BCOG4xoNn5lQ3._H9Bv93luCyfzmzBPF3pc
+ 5o8g66ilH8jeBYGUqhYOq_uZtm952iL0WObdcdtJXX1leu.0YxA3YF7mzsEY
+ 3T0w2QSdqGXohZRHXGHdrIAXpucb5wKkc72UwTdUwVpF6Cd8Jc9m.NXW02ZU
+ 4UjfJrRR5mO.BxyYOuMscD621qNEmdciGMn6LPD2opzG_sJ85goo3MR_DEFd
+ m6kfm3WSd82oQPYV1P8aT1Pqzn1QkSulo9WSseiH_Z.DhTK7aPFKcp3OLatG
+ _i7UBba2ZkmeZBUr6F03J8YWsA092E4wQSuEy46F2FSY8xk8d09gFGCjC56t
+ 13Ix5CjIY324c1aNqt5aurIM7RpxcXHKnV8mygzS4E6eg4__j30MToxPrYjA
+ caXGD.TnYLlOnTMpToZxnXnBn9EQ6xunibAI-
+X-Received: from [99.247.80.140] by web141401.mail.bf1.yahoo.com via HTTP; Sun, 28 Jul 2013 08:54:13 PDT
+X-Rocket-MIMEInfo: 002.001,VGhlIEJoYWd3YXRhIFB1cmFuYSBoYXMgdGhlIHN0b3J5IG9mIFNyaSBWaXNobnUgdGFraW5nIHRoZSBmb3JtIG9mIE1hdHNheWEgQXZ0YWFyYSB0byByZXNjdWUgdGhlIHZlZGFzIGZyb20gSGF5YWdyaXZhLiDCoFRoZSBWaXNobnUgUHVyYW5hIGhhcyB0aGUgc3Rvcnkgb2YgdGhlIHN0ZWFsaW5nIG9mIHRoZSBWZWRhcyB3aXRoIFNyaSBWaXNobnUgdGFraW5nIHRoZSBmb3JtIG9mIFZhcmFoYSBBdnRhYXJhLCB3aGljaCBpcyB0aGUgM3JkIEF2dGFhcmEgb2YgU3JpIFZpc2hudS7CoAoKVGhlIE1hdHN5YS1wdXIBMAEBAQE-
+X-Mailer: YahooMailWebService/0.8.150.561
+References: <1374992795.74595.YahooMailNeo@...> <1375005974.94348.YahooMailNeo@...>
+Message-ID: <1375026853.83071.YahooMailNeo@...>
+Date: Sun, 28 Jul 2013 08:54:13 -0700 (PDT)
+To: "vedic-wisdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com>
+In-Reply-To: <1375005974.94348.YahooMailNeo@...>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="783862642-535616282-1375026853=:83071"
+X-Originating-IP: 10.193.84.33
+X-eGroups-Msg-Info: 1:12:0:0:0
+From: Sumeet Kumar <sumeet18064@...>
+Reply-To: Sumeet Kumar <sumeet18064@...>
+Subject: Re: [vedic-wisdom] Were Vedas really stolen?
+X-Yahoo-Group-Post: member; u=167313342; y=p2WaiQau7Z5rYTWK8dBc4BJwHIHdviyI8k2ap6dw_UyzWIscWkE
+X-Yahoo-Profile: sumeet18064
+
+
+--783862642-535616282-1375026853=:83071
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+The Bhagwata Purana has the story of Sri Vishnu taking the form of Matsaya =
+Avtaara to rescue the vedas from Hayagriva. =C2=A0The Vishnu Purana has the=
+ story of the stealing of the Vedas with Sri Vishnu taking the form of Vara=
+ha Avtaara, which is the 3rd Avtaara of Sri Vishnu.=C2=A0
+
+The Matsya-puran=
+a has the more traditional story of Sri Vishnu taking the form of the Matsy=
+a-Avtaara to lead Manu and the Sapta-Rishis, along with all the divine know=
+ledge, to safety at the time of the cosmic dissolution which is sometimes c=
+hronologically associated with the end of the Satya Yuga but can be applica=
+ble to dissolution of other Yugas as well. =C2=A0The central themes there i=
+s that everything dissolves into Maha Vishnu and the primordial and other d=
+ivine knowledge is ultimately conserved and protected to start the next Yug=
+a. =C2=A0
+
+I have no knowledge of the Vedas and they are eternal knowledge =
+as you say. =C2=A0There are many levels of interpretation of the story and =
+my low level understanding is that as the Yugas progress and the quality of=
+ time deteriorate the knowledge is transferred in written forms (opposed to=
+ other higher forms as such telepathy and oral transmission of earlier ages=
+) and once this knowledge is in that form then it is more liable to be stol=
+en for material and personal gains. =C2=A0
+
+If you imagine an analogy of a =
+world in Satya Yuga where knowledge is perfect and available equally to eve=
+ryone and transmitted by telepathy or oral tradition and is used for good u=
+se by everyone then you will not need Intellectual Protection Lawyers, copy=
+right law, patents, there will be no multi-billion dollar lawsuits between =
+Apple and Samsung (because the Apple IOS would be owned and shared by every=
+one), etc. and the world would be a happy place. =C2=A0
+
+The Rishis wrote t=
+he stories for people to be able to understand in all ages and the story of=
+ the Vedas being stolen is probably more applicable now than before as it r=
+eflects the corruption in the pure knowledge and the mortal fighting with e=
+ach other as demons in order to claim ownership and only Sri Mahavishnu as =
+Sri Matsya or Sri Varaha can bring the knowledge back. =C2=A0
+
+Sumeet
+
+
+___=
+_____________________________
+ From: chakradhar chadalapaka <chakradhar_car=
+eermail@...>
+To: "vedic-wisdom@yahoogroups.com" <vedic-wisdom@yahoo=
+groups.com> 
+Sent: Sunday, July 28, 2013 6:06:14 AM
+Subject: Re: [vedic-wis=
+dom] Were Vedas really stolen?
+ 
+
+
+=C2=A0 
+Yes they were stolen from Lord B=
+rahma and Maha vishnu took the avatar of Hayagriva to protect to return the=
+ vedas back.
+=C2=A0
+
+Warm Regards,
+Chakradhar
+M : 9445888121 
+
+=C2=A0
+=C2=
+=A0
+
+
+________________________________
+ From: krishna Kanth <kritels@yahoo.=
+com>
+To: vedic <vedic-wisdom@yahoogroups.com> 
+Sent: Saturday, 27 July 2013=
+ 11:26 PM
+Subject: [vedic-wisdom] Were Vedas really stolen?
+ 
+
+
+=C2=A0 
+Hel=
+lo Narasimha,
+
+I'm confused on the Matsyavatara story.=C2=A0
+
+Was it real t=
+hat the Vedas where in some written format and were stolen by the rakshasa =
+for Sri MahaVishnu to rescue?=C2=A0
+If Vedas are unwritten eternal truth ho=
+w can they be stolen? =C2=A0Please help me understanding this.
+
+
+=C2=A0Subh=
+amasthu
+KK
+
+
+ 
+--783862642-535616282-1375026853=:83071
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"color:#000; background-color:#fff; font-family:ve=
+rdana, helvetica, sans-serif;font-size:12pt"><div><span>The Bhagwata Purana=
+ has the story of Sri Vishnu taking the form of Matsaya Avtaara to rescue t=
+he vedas from Hayagriva.  The Vishnu Purana has the story of the steal=
+ing of the Vedas with Sri Vishnu taking the form of Varaha Avtaara, which i=
+s the 3rd Avtaara of Sri Vishnu. </span></div><div style=3D"color: rgb=
+(0, 0, 0); font-size: 16.363636016845703px; font-family: verdana, helvetica=
+, sans-serif; background-color: transparent; font-style: normal;"><span><br=
+></span></div><div style=3D"color: rgb(0, 0, 0); font-size: 16.363636016845=
+703px; font-family: verdana, helvetica, sans-serif; background-color: trans=
+parent; font-style: normal;"><span>The Matsya-purana has the more tradition=
+al story of Sri Vishnu taking the form of the Matsya-Avtaara to lead Manu a=
+nd the Sapta-Rishis, along with all the divine knowledge, to safety at the
+=
+ time of the cosmic dissolution which is sometimes chronologically associat=
+ed with the end of the Satya Yuga but can be applicable to dissolution of o=
+ther Yugas as well.  The central themes there is that everything disso=
+lves into Maha Vishnu and the primordial and other divine knowledge is ulti=
+mately conserved and protected to start the next Yuga.  </span></div><=
+div style=3D"color: rgb(0, 0, 0); font-size: 16.363636016845703px; font-fam=
+ily: verdana, helvetica, sans-serif; background-color: transparent; font-st=
+yle: normal;"><span><br></span></div><div style=3D"color: rgb(0, 0, 0); fon=
+t-size: 16.363636016845703px; font-family: verdana, helvetica, sans-serif; =
+background-color: transparent; font-style: normal;">I have no knowledge of =
+the Vedas and they are eternal knowledge as you say.  There are many l=
+evels of interpretation of the story and my low level understanding is that=
+ as the Yugas progress and the quality of time deteriorate the knowledge
+ i=
+s transferred in written forms (opposed to other higher forms as such telep=
+athy and oral transmission of earlier ages) and once this knowledge is in t=
+hat form then it is more liable to be stolen for material and personal gain=
+s.  </div><div style=3D"color: rgb(0, 0, 0); font-size: 16.36363601684=
+5703px; font-family: verdana, helvetica, sans-serif; background-color: tran=
+sparent; font-style: normal;"><br></div><div style=3D"color: rgb(0, 0, 0); =
+font-size: 16.363636016845703px; font-family: verdana, helvetica, sans-seri=
+f; background-color: transparent; font-style: normal;">If you imagine an an=
+alogy of a world in Satya Yuga where knowledge is perfect and available equ=
+ally to everyone and transmitted by telepathy or oral tradition and is used=
+ for good use by everyone then you will not need Intellectual Protection La=
+wyers, copyright law, patents, there will be no multi-billion dollar lawsui=
+ts between Apple and Samsung (because the Apple IOS would be owned and
+ sha=
+red by everyone), etc. and the world would be a happy place.  </div><d=
+iv style=3D"color: rgb(0, 0, 0); font-size: 16.363636016845703px; font-fami=
+ly: verdana, helvetica, sans-serif; background-color: transparent; font-sty=
+le: normal;"><br></div><div style=3D"color: rgb(0, 0, 0); font-size: 16.363=
+636016845703px; font-family: verdana, helvetica, sans-serif; background-col=
+or: transparent; font-style: normal;">The Rishis wrote the stories for peop=
+le to be able to understand in all ages and the story of the Vedas being st=
+olen is probably more applicable now than before as it reflects the corrupt=
+ion in the pure knowledge and the mortal fighting with each other as demons=
+ in order to claim ownership and only Sri Mahavishnu as Sri Matsya or Sri V=
+araha can bring the knowledge back.  </div><div style=3D"color: rgb(0,=
+ 0, 0); font-size: 16.363636016845703px; font-family: verdana, helvetica, s=
+ans-serif; background-color: transparent; font-style:
+ normal;"><br></div><=
+div style=3D"color: rgb(0, 0, 0); font-size: 16.363636016845703px; font-fam=
+ily: verdana, helvetica, sans-serif; background-color: transparent; font-st=
+yle: normal;">Sumeet</div><div><br></div>  <div style=3D"font-family: verda=
+na, helvetica, sans-serif; font-size: 12pt;"> <div style=3D"font-family: 't=
+imes new roman', 'new york', times, serif; font-size: 12pt;"> <div dir=3D"l=
+tr"> <hr size=3D"1">  <font size=3D"2" face=3D"Arial"> <b><span style=3D"fo=
+nt-weight:bold;">From:</span></b> chakradhar chadalapaka <chakradhar_car=
+eermail@...><br> <b><span style=3D"font-weight: bold;">To:</span=
+></b> "vedic-wisdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com> <=
+br> <b><span style=3D"font-weight: bold;">Sent:</span></b> Sunday, July 28,=
+ 2013 6:06:14 AM<br> <b><span style=3D"font-weight: bold;">Subject:</span><=
+/b> Re: [vedic-wisdom] Were Vedas really stolen?<br> </font> </div> <div cl=
+ass=3D"y_msg_container"><br><div id=3D"yiv1995030392">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div>
+<=
+span style=3D"display:none;"> </span>
+
+
+
+    <div id=3D"yiv1995030392y=
+grp-text">
+      
+      
+      <div style=3D"color: rgb(0, 0, 0); backgroun=
+d-color: rgb(255, 255, 255); font-family: arial, helvetica, sans-serif; fon=
+t-size: 10pt;">Yes they were stolen from Lord Brahma and Maha vishnu took t=
+he avatar of Hayagriva to protect to return the vedas back.<div> </div=
+><div><br></div><div id=3D"yiv1995030392RTEContent"><div id=3D"yiv199503039=
+2RTEContent"><div id=3D"yiv1995030392RTEContent"><div><div><div style=3D"fo=
+nt-family: 'comic sans ms';"><font size=3D"2">Warm Regards,<br>Chakradhar<b=
+r>M : 9445888121 <br></font></div><div style=3D"font-family: 'comic sans ms=
+';"> </div><div style=3D"font-family: 'comic sans ms';"><font size=3D"=
+2"> </font></div></div></div></div></div></div><div><br></div>  <div s=
+tyle=3D"font-family: arial, helvetica, sans-serif; font-size: 10pt;"> <div =
+style=3D"font-family: 'times new roman', 'new york', times, serif; font-siz=
+e: 12pt;"> <div dir=3D"ltr"> <hr size=3D"1">  <font face=3D"Arial" size=3D"=
+2"> <b><span
+ style=3D"font-weight:bold;">From:</span></b> krishna Kanth &l=
+t;kritels@...><br> <b><span style=3D"font-weight:bold;">To:</span>=
+</b> vedic <vedic-wisdom@yahoogroups.com> <br> <b><span style=3D"font=
+-weight:bold;">Sent:</span></b> Saturday, 27 July 2013 11:26 PM<br> <b><spa=
+n style=3D"font-weight:bold;">Subject:</span></b> [vedic-wisdom] Were Vedas=
+ really stolen?<br> </font> </div> <div class=3D"yiv1995030392y_msg_contain=
+er"><br><div id=3D"yiv1995030392">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div>
+<span> </span>
+
+=
+
+
+    <div id=3D"yiv1995030392ygrp-text">
+      
+      
+      <div style=3D=
+"color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); font-family: ga=
+ramond, 'new york', times, serif; font-size: 12pt;"><div>Hello Narasimha,</=
+div><div><br></div><div style=3D"color: rgb(0, 0, 0); font-size: 16px; font=
+-family: garamond, 'new york', times, serif; background-color: transparent;=
+ font-style: normal;">I'm confused on the Matsyavatara story. </div><d=
+iv style=3D"color: rgb(0, 0, 0); font-size: 16px; font-family: garamond, 'n=
+ew york', times, serif; background-color: transparent; font-style: normal;"=
+><br></div><div style=3D"color: rgb(0, 0, 0); font-size: 16px; font-family:=
+ garamond, 'new york', times, serif; background-color: transparent; font-st=
+yle: normal;">Was it real that the Vedas where in some written format and w=
+ere stolen by the rakshasa for Sri MahaVishnu to rescue? </div><div st=
+yle=3D"color: rgb(0, 0, 0); font-size: 16px; font-family: garamond, 'new yo=
+rk', times, serif; background-color: transparent;
+ font-style: normal;">If =
+Vedas are
+ unwritten eternal truth how can they be stolen?  Please hel=
+p me understanding this.</div><div><br></div><div style=3D"color: rgb(0, 0,=
+ 0); font-size: 16px; font-family: garamond, 'new york', times, serif; back=
+ground-color: transparent; font-style: normal;"><br></div><div></div><div>&=
+nbsp;<span style=3D"font-size:12pt;">Subhamasthu</span></div><div>KK</div><=
+/div>
+
+    </div>
+     
+
+
+
+</div>
+
+
+
+
+
+</div><br><br></div> </div> </div>  =
+</div>
+
+    </div>
+     
+
+
+
+</div>
+
+
+
+
+
+</div><br><br></div> </div> </div> =
+ </div></body></html>
+--783862642-535616282-1375026853=:83071--
+
+

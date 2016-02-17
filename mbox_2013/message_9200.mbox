@@ -1,0 +1,654 @@
+From ramesh_chiv@...  Wed Feb 17 11:10:32 2016
+Return-Path: <ramesh_chiv@...>
+X-Sender: ramesh_chiv@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 48482 invoked from network); 22 Apr 2013 12:16:02 -0000
+X-Received: from unknown (10.193.84.163)
+  by m6.grp.bf1.yahoo.com with QMQP; 22 Apr 2013 12:16:02 -0000
+X-Received: from unknown (HELO nm29.bullet.mail.bf1.yahoo.com) (98.139.212.188)
+  by mta3.grp.bf1.yahoo.com with SMTP; 22 Apr 2013 12:16:02 -0000
+X-Received: from [98.139.215.141] by nm29.bullet.mail.bf1.yahoo.com with NNFMP; 22 Apr 2013 12:16:02 -0000
+X-Received: from [98.139.212.194] by tm12.bullet.mail.bf1.yahoo.com with NNFMP; 22 Apr 2013 12:16:02 -0000
+X-Received: from [127.0.0.1] by omp1003.mail.bf1.yahoo.com with NNFMP; 22 Apr 2013 12:16:02 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 758138.31239.bm@...
+X-Received: (qmail 27929 invoked by uid 60001); 22 Apr 2013 12:16:02 -0000
+X-YMail-OSG: j9yugDMVM1kh1KTLg_DxDiTaIRO5ZiKbB6ZeEKB.rCH23NK
+ 6ZOkE7upLEPNpciovoo012Ork9vnSCFRjRDoG6QEjHK2q7qqJ2mvwTLuisIx
+ EgiwobPZGD4RXwH2PDfHrMNq.3Kk.xSUrHQ6N28uZcvYdaRFxpdWELAofXAv
+ MnFHgeimoi4mfIWqgUhC35eSV66psF5GCvLyggIDVp9AV8XlSefAuKoOIE5N
+ 9kqFnISavm6v0IUyBOF.oqOZAU_7UPBKC.tJHkyNUhyZDUW.qqPond5tNjBW
+ wk05gKruuXbjlmHYBuIhxaNW8EbWg6Iq3IY8jogZxFB7ye6w7jxVmke_h9U9
+ BSKxcW_50rrO7Dl5q0EA_H4Mx3XPRmN.NBSOqvFu6AF.iOHjmbWn6faaUEH.
+ vmJEpqfwH3s8Yn.N_jwWffRZY1PBKcjFCNEE4DvQmCdqQbQLTpNxS2M.pA.L
+ QVR_8zTKwW4HXA04D.YqP4psZ9kNxLp9C_xvnIP5OjbponopuEoe3ugGM1iq
+ Qvbzm6Qdcd5pd3xM3QiqnpQpMvjbri0Dr_2T25_WY4XEPs.8ecDkX.dtKsHW
+ fpBPIfxa7UsGuw.62tQv6teCr5XyL8gsjwyekCjjOmyWV16Neswxi1DRONbM
+ 1r_.67FI9r25tDyBn8rMm_p1oHnXtjMkMqhSDqhMlbsEL.FwCOM8VpGlVoho
+ ryY8vMD2LDQY4gXXO42PtBenPDgRHEHGL_LhKyu3AlXsaWCJ_qisHWGhrxAT
+ Cx817.hEHtLlFYN71qj7FIGZw1oGaynznJMcU6LdwXGgtVRVspPEljWHtGV.
+ H3HcTK4RYzu7Tl9ZH7FVuD1iiYVm_Xnonu2vMwljyU.jYGOaeXo5VDpYzDxc
+ ywnwKiSqyv0qduA5tVty6TiDkMFqSm5DHBI1ofi4nUOjYgwEGNAth5CHRtE4
+ zVMtkzO3V7JC_wtdovZ8WwhUoFIV18qtObVOgrddXtPbpx_bT1eiZUlMuN9d
+ c_Pq3GPGyNm1GMyFRd05NAHd8gI4PCTBGfYejf0TbGbRvwC.vC9nReCoVy2q
+ OaHDL18.hfYxid2rlMSEoauAQNONDEfpGt3l4HVWcAPQhFQ_661V5NZqkZ5D
+ ySlm2wFKajPxoa.2aV9BFGxb3_kzNwNuyl1YuzkKZ2qzX8l7qCcnQK5medt0
+ J.C533ND3CgpLVvQIrLD2ohklkTA_SAhnQRAbzI81E9jQYT8Vl_gk1AUaEyf
+ Kxy6cJhIU3VhtHFITz2ShKc2HILTncJmazdIUu6wPkmy8tGXm33S_1gEwcA7
+ fJ44P_AJkMgseoPg0Ngh4CsaxSjN_MIsGUD01W3fLqQvKjDZQafIqpq98vYR
+ MnJFaA.xU8f.8w4ssua_Ugy0_s67yWlDunJuvby1Lea5NI6i_DZxVThT3A9H
+ BLpS1FwiadS7z4MNbbfhZ1eLA3OvPYQxBixSsHwI7JQNvFRvMqMHo27U11_K
+ ZLcdsEVc8jMulBmFqTBDpUomxJxIXUcdk5eHBAnLbv6LgtecxsvHwuSg2xGk
+ YYEsr9ohN3x.vr0L0KpZJUf9SyYq.lNQU2VttedjKVGiNdSSrt0akXbGgNT2
+ mg5rHh6vhM9Gh4UWCB382iU.GQ9ZDYMnGneKdhLxdE6hh34IPYh9Yx1YPGlQ
+ 96NSMY6aLilk-
+X-Received: from [193.57.67.241] by web141203.mail.bf1.yahoo.com via HTTP; Mon, 22 Apr 2013 05:16:02 PDT
+X-Rocket-MIMEInfo: 002.001,VkVEQU5UQcKgIElTIE5PVCBGT1IgRVZFUlkgT05FLi4uLgoKClR1cm5pbmcgdG8gQW5hbmRhLCBhIEZyZW5jaCBsYWR5ICwgaGUgYXNrZWQsIOKAnFdoYXQga2luZCBvZgpzcGlyaXR1YWwgcHJhY3RpY2UgYXJlIHlvdSBkb2luZz_igJ0KwqAK4oCcSSBqdXN0IGdvIG9uIHRoaW5raW5nIHRoYXQgSSBhbSB0aGUgU3VwcmVtZSBCZWluZyzigJ0gc2hlCnJlcGxpZWQgaW4gYSBzb21ld2hhdCBwcm91ZCB0b25lLgrCoArigJxJcyB0aGF0IHNvPyBEaWQgeW91IGV2ZXIgaGVhciBvZiBNZWVyYWJhaT8gU2hlIHdhcyABMAEBAQE-
+X-Mailer: YahooMailWebService/0.8.141.536
+References: <1366559228.77063.YahooMailNeo@...>
+Message-ID: <1366632962.12881.YahooMailNeo@...>
+Date: Mon, 22 Apr 2013 05:16:02 -0700 (PDT)
+To: "vedic-wisdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com>
+In-Reply-To: <1366559228.77063.YahooMailNeo@...>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="1123101620-2114509036-1366632962=:12881"
+X-Originating-IP: 98.139.212.188
+X-eGroups-Msg-Info: 1:12:0:0:0
+From: ramesh chivukula <ramesh_chiv@...>
+Reply-To: ramesh chivukula <ramesh_chiv@...>
+Subject: Re: [vedic-wisdom] Putting Vedanta in Perspective
+X-Yahoo-Group-Post: member; u=138399602; y=QCpD4CtWp_x2TmclEEdn8W24EuoEcKldWkj-PySbutq_L-_kgzg
+X-Yahoo-Profile: ramesh_chiv
+
+
+--1123101620-2114509036-1366632962=:12881
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+VEDANTA=C2=A0 IS NOT FOR EVERY ONE....
+
+
+Turning to Ananda, a French lady ,=
+ he asked, =E2=80=9CWhat kind of
+spiritual practice are you doing?=E2=80=9D=
+
+=C2=A0
+=E2=80=9CI just go on thinking that I am the Supreme Being,=E2=80=
+=9D she
+replied in a somewhat proud tone.
+=C2=A0
+=E2=80=9CIs that so? Did y=
+ou ever hear of Meerabai? She was one of
+the greatest lady saints ever born=
+ in India. From her childhood she felt
+that Lord Krishna was her Beloved an=
+d spent most of her days and nights in
+worshipping Him and singing songs ab=
+out Him. Finally, she had a mystic vision
+of Him and her mind merged into H=
+im. She thenceforth sang songs about the glory
+and bliss of the God-Realize=
+d state. At the end of her life, she entered a Krishna temple and disappear=
+ed in the sanctum. You should
+walk in the same path as her if you want to =
+=C2=A0achieve the Realization,=E2=80=9D Maharaj said
+smilingly.
+=C2=A0
+Anan=
+da turned pale. Maharaj had pulverized her mountain of Vedanta in one strok=
+e! She
+could not speak.
+=C2=A0
+=E2=80=9C I may talk about Vedanta to some o=
+f the people that come
+here,=E2=80=9D Maharaj continued. =E2=80=9CThat is n=
+ot for you and you should not pay any
+attention to what I am telling others=
+. The book of =C2=A0my conversations should not be taken as the
+last word o=
+n my teachings. I have given answers to the questions of certain
+individual=
+s. Those answers were intended for those people and not for everyone.
+Instr=
+uction can be on an individual basis only. The same medicine cannot be
+pres=
+cribed for all.
+=C2=A0
+=E2=80=9CNowadays people are full of intellectual co=
+nceit. They have
+no faith in the ancient traditional practices leading to S=
+elf-Knowledge. They
+want everything served to them on a silver platter.
+=C2=
+=A0
+The path of knowledge makes sense to them and because of
+that, they may=
+ want to practice it. The will then find that it requires more
+concentratio=
+n then they can muster and slowly becoming humble, they will
+finally take u=
+p easier practices like repetition of a mantra or worship of a
+form. Slowly=
+ the belief in a Power greater then themselves will dawn on them and
+a tast=
+e for devotion will sprout in their heart. Then only will it be possible
+fo=
+r them to attain purity of mind and concentration. The conceited have to go=
+ a
+very roundabout way.
+=C2=A0
+Therefore I say that devotion is good enough=
+ for you,=E2=80=9D
+Maharaj concluded.
+=C2=A0
+Source : http://www.nisargadat=
+ta.net
+
+
+
+>________________________________
+> From: Narasimha P.V.R. Rao <p=
+vr108@...>
+>To: Vedic Wisdom <vedic-wisdom@yahoogroups.com> 
+>Sent: S=
+unday, April 21, 2013 9:17 PM
+>Subject: [vedic-wisdom] Putting Vedanta in P=
+erspective
+> 
+>
+>
+>=C2=A0 
+>Namaste friends,
+>=C2=A0
+>A couple of my write-=
+ups related to Vedanta on a limited access Facebook forum may be of interes=
+t to some people here. I am quoting just my comments. One should be able to=
+ follow them despite the missing context.
+>=C2=A0
+>*=C2=A0=C2=A0=C2=A0=C2=
+=A0=C2=A0=C2=A0=C2=A0 *=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0 *
+>=C2=A0=
+
+>Writing 1:
+>=C2=A0
+>I have no aversion for Vedanta at all, but many Vedan=
+tins today only speak pseudo-Vedanta that is devoid of a respect for what b=
+inds us in the first place and a genuine appreciation of the difficulty of =
+overcoming the bondage. Let us dissect this "acceptance" thing for example.=
+ Yes, it is very easy to theoretically understand that "acceptance of every=
+thing" will liberate one. But what does it mean practically?
+>
+>For example=
+, I read your note and my instinct
+ was to respond. Should I "accept" the i=
+nstinct and type this response? Or should I "accept" the other instinct to =
+not waste time and continue with some Jyotish research work I was doing? Wh=
+ich acceptance is better?
+>
+>We are constantly pulled in different directio=
+ns by our dharma towards different beings/entities and it is not easy to pi=
+ck the right thing to do.
+>
+>We can use an easy abstraction. Let us call ou=
+r actions towards the rest of the world as "karma" and the actions of the r=
+est of the world towards us as "karmaphala". A simple thumb rule can be (1)=
+ to accept all "karmaphala" and not analyze it much and (2) to stick to our=
+ dharma in picking the "karma". But there are 3 fundamental issues with thi=
+s:
+>
+>(1) It is not easy to know one's dharma. One is often pulled in diffe=
+rent directions by one's dharma towards different beings/entities. After al=
+l, we are suspended in this world by a complex web of rinas!
+>(2) As we eva=
+luate various
+ dharmas and pick current karma, some understanding of which =
+karma is likely to result in which karmaphala is needed. Thus, feedback fro=
+m previous karmas, in the form of "karmaphala", is of interest. But there i=
+s no certainty and we can only have a vague understanding.
+>(3) Firmness in=
+ doing one's karma in the interest of one's highest dharma (based on one's =
+best understanding at the time - could be faulty) and detachment to the cor=
+responding karmaphala when it finally arrives, is what we have to do. But t=
+hey are kind of opposite goals. Without some attachment, most people cannot=
+ engage in firm actions.
+>
+>Many Vedantins make 2 mistakes - (1) they trivi=
+alize the field of duality as something that is delusional and can simply b=
+e wished away and (2) instead of seeing jnana and karma as two sides of the=
+ coin, they see them as alternatives. They look down upon karma as somethin=
+g lowly and value bookish & intellectual understanding of jnana more.
+ With=
+out firm & dharmik karmas, that intellectual understanding of jnana will no=
+t infuse one's thinking and instincts deep enough to liberate one eventuall=
+y.
+>
+>I can see that "sun of knowledge is so powerful that we cant even gra=
+sp the edge of it's toes with our indriyas (sense-organs), hence you have t=
+o use some other faculty and remember that you cant also express it to othe=
+rs with your sense organs." But it is very easy for one to delude oneself t=
+hat one is now grasping that Sun with "some other faculty". The proof of th=
+e pudding is that theoretical understanding is accompanied by an internal t=
+ransformation that expresses externally as firm dharmik karmas with detachm=
+ent to karmaphala!!
+>
+>To anyone who lectures that all is Self/God, I just =
+have one rude reply. Suppose one's hands and legs are cut off. Can one say =
+that the cut off limbs and the stream of blood flowing are also Self/God an=
+d be in the same blissful state? I know the answer
+ in my case. Any truthfu=
+l person will know the answer in one's own case. It is so easy to repeat Ve=
+danta like a parrot, but Shakti is too powerful. Unless MANY deeply ingrain=
+ed instincts are overcome through practice & grace, one cannot be liberated=
+. Until one overcomes ALL instincts, "all is Self" is just theory.
+>
+>Regar=
+ding Rajarshi's comment on there being something higher than the upper bird=
+ in Mundakpanishad story, I don't have much to say. It is quite possible. H=
+owever, whether or what is above that bird is not that interesting to me. W=
+hen my personality is represented by the lower bird, my goal is to first ma=
+ke the lower bird climb and reach the upper bird. Whether it stays there th=
+en or flies away further up is an issue for future.
+>=C2=A0
+>*=C2=A0=C2=A0=
+=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0 *=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0 =
+*
+>=C2=A0
+>Writing 2:
+>=C2=A0
+>I do not want to "put down" Vedanta. I only =
+want to put it in
+ perspective. It is the "anta" (end) of "veda" (knowledge=
+). If one at the *beginning* or *middle* of the path ignores/puts down the =
+whole path and talks excessively of the "end", it does not necessarily take=
+ him to the end. It takes a loooong time to travel the path. Vedanta is jus=
+t the end and not a path to the end. IMHO, Vedanta is not only useless but =
+quite misleading for 99.9999% of humanity, though it is the inevitable fina=
+l liberating reality for the rest who already travelled *a* path and reache=
+d *the* end.
+>
+>Take the simple notion of acceptance. Rama, after Self-real=
+ization, killed Ravana and others. Of course, he had no "dvesha" for Ravana=
+. But would you normally label killing someone as "acceptance"? Understandi=
+ng "acceptance" referred to in scriptures is no easy task!!!! In fact, peop=
+le talk about "acceptance" without even fully understanding what it actuall=
+y entails.
+>
+>We perceive everything through the lens of conditioning/vasan=
+as
+ and rinas. For example, my words may make you think that I am agitated,=
+ even if I am quite "chilled" in reality. Before talking about "accepting" =
+something, shouldn't we first improve one's perceptions? Can't questioning =
+& contemplating help in clarifying our perceptions?
+>
+>Is "accepting" fault=
+y/conditioned notions in our minds any useful? Isn't it better to resist, r=
+eject and eject faulty/conditioned notions than to "accept" them? Wouldn't =
+progress from a state of ignorance into that of wisdom naturally need a fin=
+e balance between friction/resistance and acceptance?
+>
+>A prematurely adop=
+ted stretegy of "accepting" everything with no "raaga" or "dvesha" can lead=
+ to a confused and indecisive person who shuns his dharma and gets *stuck* =
+in the middle of path despite speaking the language of someone who is at th=
+e end of the path. For someone who is still stuck in Maayaa, it is better t=
+o do somewhat selfless dharma even with some raaga and
+ dvesha. Overcoming =
+of raaga and dvesha naturally and organically occurs from within, as one en=
+gages in more and more dharma and pays off more and more rinas.
+>
+>Detachme=
+nt (disappearance of raaga and dvesha) comes with the maturing of jnana. Se=
+lfless dharmik actions that pay off outstanding debts occur with the maturi=
+ng of karma. These two sides should mature together, as they balance one. I=
+f one goes to an extreme, either towards karma or jnana, without correspond=
+ing progress in the other, one will very likely get stuck.
+>=C2=A0
+>Best re=
+gards,
+>Narasimha
+>--------
+>Astrology & Spirituality Resources: http://www=
+.VedicAstrologer.org
+>--------
+>
+>
+> 
+>
+>
+--1123101620-2114509036-1366632962=:12881
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"color:#000; background-color:#fff; font-family:ar=
+ial, helvetica, sans-serif;font-size:12pt"><div><!--[if gte mso 9]><xml>
+ <=
+w:WordDocument>
+  <w:View>Normal</w:View>
+  <w:Zoom>0</w:Zoom>
+  <w:Punctua=
+tionKerning/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:=
+SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w=
+:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:Compati=
+bility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextW=
+ithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+  </w:Compati=
+bility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:=
+WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles D=
+efLockedState=3D"false" LatentStyleCount=3D"156">
+ </w:LatentStyles>
+</xml>=
+<![endif]--><!--[if !mso]><object
+ classid=3D"clsid:38481807-CA0E-42D2-BF39=
+-B33AF135CC4D" id=3Dieooui></object>
+<style>
+st1\:*{behavior:url(#ieooui) }=
+
+</style>
+<![endif]--><!--[if gte mso 10]>
+<style>
+ /* Style Definitions */=
+
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband=
+-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-pare=
+nt:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	mso-par=
+a-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	=
+font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-langu=
+age:#0400;
+	mso-bidi-language:#0400;}
+</style>
+<![endif]-->
+
+</div><div cla=
+ss=3D"MsoNormal">VEDANTA  IS NOT FOR EVERY ONE....<br></div><div class=
+=3D"MsoNormal"><br></div><div style=3D"color: rgb(0, 0, 0); font-size: 16px=
+; font-family: arial,helvetica,sans-serif; background-color: transparent; f=
+ont-style: normal;" class=3D"MsoNormal">Turning to Ananda, a French lady , =
+he asked, =E2=80=9CWhat kind of
+spiritual practice are you doing?=E2=80=9D<=
+/div>
+
+<div class=3D"MsoNormal"> </div>
+
+<div class=3D"MsoNormal">=E2=
+=80=9CI just go on thinking that I am the Supreme Being,=E2=80=9D she
+repli=
+ed in a somewhat proud tone.</div>
+
+<div class=3D"MsoNormal"> </div>
+
+=
+<div class=3D"MsoNormal">=E2=80=9CIs that so? Did you ever hear of Meerabai=
+? She was one of
+the greatest lady saints ever born in India. From her chil=
+dhood she felt
+that Lord Krishna was her Beloved and spent most of her days=
+ and nights in
+worshipping Him and singing songs about Him. Finally, she ha=
+d a mystic vision
+of Him and her mind merged into Him. She thenceforth sang=
+ songs about the glory
+and bliss of the God-Realized state. At the end of h=
+er life, she entered a Krishna temple and disappeared in the sanctum. You s=
+hould
+walk in the same path as her if you want to <span style=3D"mso-spacer=
+un:yes"> </span>achieve the Realization,=E2=80=9D Maharaj said
+smiling=
+ly.</div>
+
+<div class=3D"MsoNormal"> </div>
+
+<div class=3D"MsoNormal">=
+Ananda turned pale. Maharaj had pulverized her mountain of Vedanta in one s=
+troke! She</div>
+
+<div class=3D"MsoNormal">could not speak.</div>
+
+<div cla=
+ss=3D"MsoNormal"> </div>
+
+<div class=3D"MsoNormal">=E2=80=9C I may tal=
+k about Vedanta to some of the people that come
+here,=E2=80=9D Maharaj cont=
+inued. =E2=80=9CThat is not for you and you should not pay any
+attention to=
+ what I am telling others. The book of <span style=3D"mso-spacerun:yes">&nb=
+sp;</span>my conversations should not be taken as the
+last word on my teach=
+ings. I have given answers to the questions of certain
+individuals. Those a=
+nswers were intended for those people and not for everyone.
+Instruction can=
+ be on an individual basis only. The same medicine cannot be
+prescribed for=
+ all.</div>
+
+<div class=3D"MsoNormal"> </div>
+
+<div class=3D"MsoNormal=
+">=E2=80=9CNowadays people are full of intellectual conceit. They have
+no f=
+aith in the ancient traditional practices leading to Self-Knowledge. They
+w=
+ant everything served to them on a silver platter.</div>
+
+<div class=3D"Mso=
+Normal"> </div>
+
+<div class=3D"MsoNormal">The path of knowledge makes =
+sense to them and because of
+that, they may want to practice it. The will t=
+hen find that it requires more
+concentration then they can muster and slowl=
+y becoming humble, they will
+finally take up easier practices like repetiti=
+on of a mantra or worship of a
+form. Slowly the belief in a Power greater t=
+hen themselves will dawn on them and
+a taste for devotion will sprout in th=
+eir heart. Then only will it be possible
+for them to attain purity of mind =
+and concentration. The conceited have to go a
+very roundabout way.</div>
+
+<=
+div class=3D"MsoNormal"> </div>
+
+<div class=3D"MsoNormal">Therefore I =
+say that devotion is good enough for you,=E2=80=9D
+Maharaj concluded.</div>=
+
+
+<div class=3D"MsoNormal"> </div>
+
+<div class=3D"MsoNormal">Source : =
+<span style=3D"color:#3B5999">http://www.nisargadatta.net</span></div>
+
+<di=
+v><br><blockquote style=3D"border-left: 2px solid rgb(16, 16, 255); margin-=
+left: 5px; margin-top: 5px; padding-left: 5px;">  <div style=3D"font-family=
+: arial, helvetica, sans-serif; font-size: 12pt;"> <div style=3D"font-famil=
+y: times new roman, new york, times, serif; font-size: 12pt;"> <div dir=3D"=
+ltr"> <hr size=3D"1">  <font face=3D"Arial" size=3D"2"> <b><span style=3D"f=
+ont-weight:bold;">From:</span></b> Narasimha P.V.R. Rao <pvr108@...=
+m><br> <b><span style=3D"font-weight: bold;">To:</span></b> Vedic Wisdom=
+ <vedic-wisdom@yahoogroups.com> <br> <b><span style=3D"font-weight: b=
+old;">Sent:</span></b> Sunday, April 21, 2013 9:17 PM<br> <b><span style=3D=
+"font-weight: bold;">Subject:</span></b> [vedic-wisdom] Putting Vedanta in =
+Perspective<br> </font> </div> <div class=3D"y_msg_container"><br>
+<div id=
+=3D"yiv1369715303">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div>
+<span style=3D"display:none;"> =
+</span>
+
+
+
+    <div id=3D"yiv1369715303ygrp-text">
+      
+      
+      <div=
+ style=3D"color:#000;background-color:#fff;font-family:arial, helvetica, sa=
+ns-serif;font-size:10pt;">Namaste friends,<br> <br>A couple of my writ=
+e-ups related to Vedanta on a limited access Facebook forum may be of inter=
+est to some people here. I am quoting just my comments. One should be able =
+to follow them despite the missing context.<br> <br>*   =
+;     *        *<br>=
+ <br>Writing 1:<br> <br>I have no aversion for Vedanta at all, bu=
+t many Vedantins today only speak pseudo-Vedanta that is devoid of a respec=
+t for what binds us in the first place and a genuine appreciation of the di=
+fficulty of overcoming the bondage. Let us dissect this "acceptance" thing =
+for example. Yes, it is very easy to theoretically understand that "accepta=
+nce of everything" will liberate one. But what does it mean practically?<br=
+><br>For example, I read your note and my instinct
+ was to respond. Should =
+I "accept" the instinct and type this response? Or should I "accept" the ot=
+her instinct to not waste time and continue with some Jyotish research work=
+ I was doing? Which acceptance is better?<br><br>We are constantly pulled i=
+n different directions by our dharma towards different beings/entities and =
+it is not easy to pick the right thing to do.<br><br>We can use an easy abs=
+traction. Let us call our actions towards the rest of the world as "karma" =
+and the actions of the rest of the world towards us as "karmaphala". A simp=
+le thumb rule can be (1) to accept all "karmaphala" and not analyze it much=
+ and (2) to stick to our dharma in picking the "karma". But there are 3 fun=
+damental issues with this:<br><br>(1) It is not easy to know one's dharma. =
+One is often pulled in different directions by one's dharma towards differe=
+nt beings/entities. After all, we are suspended in this world by a complex =
+web of rinas!<br>(2) As we evaluate various
+ dharmas and pick current karma=
+, some understanding of which karma is likely to result in which karmaphala=
+ is needed. Thus, feedback from previous karmas, in the form of "karmaphala=
+", is of interest. But there is no certainty and we can only have a vague u=
+nderstanding.<br>(3) Firmness in doing one's karma in the interest of one's=
+ highest dharma (based on one's best understanding at the time - could be f=
+aulty) and detachment to the corresponding karmaphala when it finally arriv=
+es, is what we have to do. But they are kind of opposite goals. Without som=
+e attachment, most people cannot engage in firm actions.<br><br>Many Vedant=
+ins make 2 mistakes - (1) they trivialize the field of duality as something=
+ that is delusional and can simply be wished away and (2) instead of seeing=
+ jnana and karma as two sides of the coin, they see them as alternatives. T=
+hey look down upon karma as something lowly and value bookish & intelle=
+ctual understanding of jnana more.
+ Without firm & dharmik karmas, that=
+ intellectual understanding of jnana will not infuse one's thinking and ins=
+tincts deep enough to liberate one eventually.<br><br>I can see that "sun o=
+f knowledge is so powerful that we cant even grasp the edge of it's toes wi=
+th our indriyas (sense-organs), hence you have to use some other faculty an=
+d remember that you cant also express it to others with your sense organs."=
+ But it is very easy for one to delude oneself that one is now grasping tha=
+t Sun with "some other faculty". The proof of the pudding is that theoretic=
+al understanding is accompanied by an internal transformation that expresse=
+s externally as firm dharmik karmas with detachment to karmaphala!!<br><br>=
+To anyone who lectures that all is Self/God, I just have one rude reply. Su=
+ppose one's hands and legs are cut off. Can one say that the cut off limbs =
+and the stream of blood flowing are also Self/God and be in the same blissf=
+ul state? I know the answer
+ in my case. Any truthful person will know the =
+answer in one's own case. It is so easy to repeat Vedanta like a parrot, bu=
+t Shakti is too powerful. Unless MANY deeply ingrained instincts are overco=
+me through practice & grace, one cannot be liberated. Until one overcom=
+es ALL instincts, "all is Self" is just theory.<br><br>Regarding Rajarshi's=
+ comment on there being something higher than the upper bird in Mundakpanis=
+had story, I don't have much to say. It is quite possible. However, whether=
+ or what is above that bird is not that interesting to me. When my personal=
+ity is represented by the lower bird, my goal is to first make the lower bi=
+rd climb and reach the upper bird. Whether it stays there then or flies awa=
+y further up is an issue for future.<br> <br>*    =
+    *        *<br> <=
+br>Writing 2:<br> <br>I do not want to "put down" Vedanta. I only want=
+ to put it in
+ perspective. It is the "anta" (end) of "veda" (knowledge). I=
+f one at the *beginning* or *middle* of the path ignores/puts down the whol=
+e path and talks excessively of the "end", it does not necessarily take him=
+ to the end. It takes a loooong time to travel the path. Vedanta is just th=
+e end and not a path to the end. IMHO, Vedanta is not only useless but quit=
+e misleading for 99.9999% of humanity, though it is the inevitable final li=
+berating reality for the rest who already travelled *a* path and reached *t=
+he* end.<br><br>Take the simple notion of acceptance. Rama, after Self-real=
+ization, killed Ravana and others. Of course, he had no "dvesha" for Ravana=
+. But would you normally label killing someone as "acceptance"? Understandi=
+ng "acceptance" referred to in scriptures is no easy task!!!! In fact, peop=
+le talk about "acceptance" without even fully understanding what it actuall=
+y entails.<br><br>We perceive everything through the lens of conditioning/v=
+asanas
+ and rinas. For example, my words may make you think that I am agita=
+ted, even if I am quite "chilled" in reality. Before talking about "accepti=
+ng" something, shouldn't we first improve one's perceptions? Can't question=
+ing & contemplating help in clarifying our perceptions?<br><br>Is "acce=
+pting" faulty/conditioned notions in our minds any useful? Isn't it better =
+to resist, reject and eject faulty/conditioned notions than to "accept" the=
+m? Wouldn't progress from a state of ignorance into that of wisdom naturall=
+y need a fine balance between friction/resistance and acceptance?<br><br>A =
+prematurely adopted stretegy of "accepting" everything with no "raaga" or "=
+dvesha" can lead to a confused and indecisive person who shuns his dharma a=
+nd gets *stuck* in the middle of path despite speaking the language of some=
+one who is at the end of the path. For someone who is still stuck in Maayaa=
+, it is better to do somewhat selfless dharma even with some raaga and
+ dve=
+sha. Overcoming of raaga and dvesha naturally and organically occurs from w=
+ithin, as one engages in more and more dharma and pays off more and more ri=
+nas.<br><br>Detachment (disappearance of raaga and dvesha) comes with the m=
+aturing of jnana. Selfless dharmik actions that pay off outstanding debts o=
+ccur with the maturing of karma. These two sides should mature together, as=
+ they balance one. If one goes to an extreme, either towards karma or jnana=
+, without corresponding progress in the other, one will very likely get stu=
+ck.<br> <br>Best regards,<br>Narasimha<br>--------<br>Astrology & =
+Spirituality Resources: <a rel=3D"nofollow" target=3D"_blank" href=3D"http:=
+//www.vedicastrologer.org/">http://www.VedicAstrologer.org</a><br>--------<=
+br><br></div>
+
+    </div>
+     
+
+
+
+</div>
+
+
+
+
+
+</div><br><br></div> </div> =
+</div> </blockquote></div>   </div></body></html>
+--1123101620-2114509036-1366632962=:12881--
+
+

@@ -1,0 +1,365 @@
+From acharyulug@...  Wed Feb 17 11:10:36 2016
+Return-Path: <acharyulug@...>
+X-Sender: acharyulug@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 25655 invoked by uid 102); 6 Jun 2013 04:13:10 -0000
+X-Received: from unknown (HELO mtaq5.grp.bf1.yahoo.com) (10.193.84.36)
+  by m7.grp.bf1.yahoo.com with SMTP; 6 Jun 2013 04:13:10 -0000
+X-Received: (qmail 20919 invoked from network); 6 Jun 2013 04:13:10 -0000
+X-Received: from unknown (HELO nm18-vm0.bullet.mail.bf1.yahoo.com) (98.139.213.138)
+  by mtaq5.grp.bf1.yahoo.com with SMTP; 6 Jun 2013 04:13:10 -0000
+X-Received: from [98.139.214.32] by nm18.bullet.mail.bf1.yahoo.com with NNFMP; 06 Jun 2013 04:13:10 -0000
+X-Received: from [98.139.212.206] by tm15.bullet.mail.bf1.yahoo.com with NNFMP; 06 Jun 2013 04:13:10 -0000
+X-Received: from [127.0.0.1] by omp1015.mail.bf1.yahoo.com with NNFMP; 06 Jun 2013 04:13:10 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 718557.88557.bm@...
+X-Received: (qmail 46513 invoked by uid 60001); 6 Jun 2013 04:13:10 -0000
+X-YMail-OSG: 6AmhdRcVM1ljlgl0AVvMjKFnK7dkrKC6LoJqLwBBwS30_PM
+ bbmhzr3BVQ6FEabHGzbtwgE2Oli163xrVL5lGXkueXoNK8twysEp2_cZyo4Z
+ kvQyz8_KJcADXJKD.wZJqrwRecFkET.IOeG1y5G.kAeoWRygKOm4_tdICzC0
+ BYtEZZ3CUjDZir2RPGIeQANw54IVisgYGkXQcF2LUU9UDCRROUNdvuviMg2f
+ gZBcpAd1L3yZu8gnIRwgqtGAl99JFlKQTBDAzwwtw.lPgeUcz72gHkJk_Gy3
+ 2ewZXJRRggUuyBPXlupbPBqmoh1dwpAZkoYXEKhjUZgPGwDLwjxgT8Lc.s2S
+ Ogz5kxdXVtKFLWjpAIuPhX7z6sPgD8JcQbUGLlBcg8.Z_l.Sv9Qp_d_9_QeJ
+ arW8MIGhiu15_2KtlpkGOlyJsFdZPXZWBeGq4oOH4eGsAASjZ4AvbSys2i1Z
+ wihF68UpiaOPvcHxC7XxeXFyA0NC7hux5yNSt8bvchzayTnD9WiNKUTKVXJO
+ _OS_XbyEVaSCduRdVKt5J6.fgs8iyheFZ3Xpi7kIDA9yUesge5ESQvaQMDW8
+ p8HJcNgcusqJvtLckNWWwPQGsP6flb635g12Olt8FW6f_zVoLxhTD4LD4uMT
+ DcfyQd.ewUO0DJWDub5gwdYAjtvGG4bwVUC6CZiqCN84dIybdbkqPHrNaaSD
+ XWSFI0WAIQ57PumTqGGb2APifLPeLbUOszQCsDdAfL0AUcOff8QYkxyK4xjh
+ w2s5GsnV1ENnG85..S5y5njwwpHHxc_6hi4L8EaWrwg.aRcnvvUqE8FGzg9M
+ U7dUIhxCUNEzRYBI63FdM4utp0iBO1jMO8D2FMo4iOZt2YeEMk3qo6PcU.ce
+ qH3HtM7gXM5Y_UvMIIx4lRsEPIEJg2FI1XaTNYAR8riBDObfaNU8Cv9vBCVv
+ uPFgvdswAx8zet77Cd.qO75ri5lgvn0Tb7QJ4U7y8YIgWn2M92CuljL8QE3S
+ X1swqRX1IjY1VUt89w1Vk0Ryidq_yHudbq._5bnvYHJIaXROBQ8faJVGarf_
+ WewoSnK.t7BWMB5J7rrc0.kJZi_X2QT6N_y36N9EonoDU_HMJW4dB_eCUoWx
+ Ntj9YLaB_9xjSF3ZHqGvEvxIytEjJJBJ8AnJaDgi252CTq8OiiK6TH2EdT.K
+ vftTNB2sY_4USdW8pPxw8j2BTmQroqTClyMokc79iGsVnjmYRiS5c2.5dNQE
+ EQcHCUtunoUYTDn5qo22EUdHygUzCcyIhnGMt8VDAkq2mgeMHeo0rCRSeiSU
+ .plhtsqZGJfTN10rz35yIVsusJH82tmApaU._HjW_zcWAONPdDYI754T_1HA
+ DvOWZTwt4HFYl3eZjqvgCAsTmC7F1Tx.ItIjqfDLcNXNJSKE11nAKlRC6Oxp
+ Z0hOJL2_FlbAxOQ7brJWcPfzkKqqxTO32c85tOrVf2O.n387CLq2LM9Xx2Xn
+ fA5MPUN6YVAZSoU2IcydVoLVKAg8gZNJBuETw80QfaEXWYWIyYHfBYbkt6_E
+ 8TdUmt9.ViAXJPJ6CUhfmKLP1SBUedmvNgTnfRTEq7hxG_NvYoeRkd781p5T
+ R810a8NFt6fDPdb6MNi0hg4wJtP_2kwx257nQ8Bf9AvoJrd4USg0gyU8YuOx
+ 75jFTic.jik3wNIhD3nbLppzv7Q8ROqZSbMzTJ4jeiht4IUF1NFRTbCsTTfn
+ 8xLHgIgfQh3uPkRwwe5hd5EKqKoiVITXbWJBx_yx1hTbwuw956fOMvpn8IL1
+ eS2NSW9wSskVrawiXCrOm9arnLMPgKjM_IPLj4vDtyyC2.eO_1T77WCjdvhY
+ VJP4L7D.2tdRzVM2y8QCtV2ZOFDkudRpiUNZKyKcwhug.e6Ux7cIrAlsPYiQ
+ cLzQuXlYV2.F2iCy0dzSIqfjEVb5OvxuJA7ZJyoBhNUs8LX3Uodw-
+X-Received: from [59.93.50.122] by web140505.mail.bf1.yahoo.com via HTTP; Wed, 05 Jun 2013 21:13:09 PDT
+X-Rocket-MIMEInfo: 002.001,RGVhciBOYXJhc2ltaGEgR2FydSwNCsKgIMKgSW4gbWFueSBvZiB0aGUgdGV4dHMgdGhhdCBJIGNhbWUgYWNyb3NzIGl0IHdhcyAidHdhZGhhcm1hIG1hYXJnYSBuYWFzYWthbSIuIEkgY2FtZSBhY3Jvc3MgInN3YWRoYXJtYSBtYWFyZ2EgbmFhc2FtIiBvbmx5IGluIHRoZSBob21hbSBtYW51YWwuIFdoYXQgZG9lcyB0aGUgYWJvdmUgb25lIGNvbnZleT8uIEFsbCB0aGUgd2hpbGUgSSB3YXMgaW50ZXJwcmV0aW5nIGFzIHRoZSBvbmUgd2hvIGRlc3Ryb3lzIHRoZSBwYXRoIG9mIGFkaGFybWEuIEhvdyB3cm9uZyABMAEBAQE-
+X-Mailer: YahooMailClassic/15.1.8 YahooMailWebService/0.8.144.546
+Message-ID: <1370491989.45825.YahooMailClassic@...>
+Date: Wed, 5 Jun 2013 21:13:09 -0700 (PDT)
+To: vedic-wisdom@yahoogroups.com
+In-Reply-To: <1370475787.8582.YahooMailNeo@...>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="1211670101-876235697-1370491989=:45825"
+X-Originating-IP: 10.193.84.36
+X-eGroups-Msg-Info: 1:12:0:0:0
+From: Acharyulu <acharyulug@...>
+Subject: Re: [vedic-wisdom] Re: doubt about svadharma
+X-Yahoo-Group-Post: member; u=176368747; y=BAAdXpaTUogwutsRE2CloVwT81oODFewoI6LXOIttztEfvzIEg
+X-Yahoo-Profile: acharyulug
+
+
+--1211670101-876235697-1370491989=:45825
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Dear Narasimha Garu,
+=C2=A0 =C2=A0In many of the texts that I came across i=
+t was "twadharma maarga naasakam". I came across "swadharma maarga naasam" =
+only in the homam manual. What does the above one convey?. All the while I =
+was interpreting as the one who destroys the path of adharma. How wrong I w=
+as... I request you to kindly elucidate...Best regards,
+Acharyulu
+(=C2=A0=
+=E0=A4=A7=E0=A4=B0=E0=A5=8D=E0=A4=AE=E0=A4=B8=E0=A5=87=E0=A4=A4=E0=A5=81=E0=
+=A4=AA=E0=A4=BE=E0=A4=B2=E0=A4=95=E0=A4=82 =E0=A4=A4=E0=A5=8D=E0=A4=B5=E0=
+=A4=A7=E0=A4=B0=E0=A5=8D=E0=A4=AE=E0=A4=AE=E0=A4=BE=E0=A4=B0=E0=A5=8D=E0=A4=
+=97=E0=A4=A8=E0=A4=BE=E0=A4=B6=E0=A4=95=E0=A4=82 )
+
+--- On Wed, 6/5/13, Nar=
+asimha P.V.R. Rao <pvr108@...> wrote:
+
+From: Narasimha P.V.R. Rao <pv=
+r108@...>
+Subject: [vedic-wisdom] Re: doubt about svadharma
+To: "Vedi=
+c Wisdom" <vedic-wisdom@yahoogroups.com>
+Date: Wednesday, June 5, 2013, 4:4=
+3 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=C2=A0
+
+
+
+  
+
+
+    
+      
+      
+      Namaste Sir,=
+=C2=A0<<in gita krishna says follow svadharma, while in bhairava stotram by=
+ 
+sankaracharya he is described as svadharma marga nashakam , could you 
+pl=
+ease explain this conflict, if you have the time.>>
+=C2=A0Great question! H=
+oping you don't mind, I am forwarding this reply to vedic-wisdom yahoogroup=
+.=C2=A0Yes, Sri Krishna did advise following swadharma (one's own dharma) a=
+t the beginning of Bhagavad Gita. But he also said in the last
+ chapter "Ro=
+undly give up all dharmas and surrender unto Me". When Bhairavashtakam says=
+ "swadharma maarga naashakam", it is getting at the same idea!=C2=A0Based o=
+n who we are, our background, our deep desires and debts from the past (whi=
+ch we may not even remember now), and our current skills and resources, we =
+all have our own personal (individual) dharmas (duties). We must fulfill th=
+ose.=C2=A0But performing swadharma is the start of sadhana. Eventually, one=
+ should be able to perform swadharma without attachment to its fruits and l=
+ater without even the sense of doership! Then comes a stage when one is not=
+ even attached to the idea that "this is my dharma. I must do this". Whatev=
+er Nature has placed one in a position to do, one does it detachedly, with =
+neither sadness/disappointment nor with happiness/excitement, but with the =
+spirit of "this is what Supreme Lord is doing through me at this instant". =
+One overcomes the notions that "I am so and so. I need to do so
+ and so", g=
+ives up one's own will and flows like a light leaf in the wind of samsara. =
+Wherever one flows and whatever objects one touches, one sees it as the wil=
+l of Supreme Lord and has no notions of one's own will or one's own duties.=
+ That is the state of liberated enlightenment.
+=C2=A0Bhairava is extolled i=
+n Bhairavashtakam as the one who brings that state. Krishna also teaches to=
+ get to that state, but he does so in the last chapter of Bhagavad Gita. Be=
+fore you get there, however, you may have to follow the instructions in pre=
+vious chapters!=C2=A0A lot of modern Hindu philosophy taught by many modern=
+ gurus, especially of the Vedantic bent, is based on the final target rathe=
+r than the path(s) one needs to walk, to get to the target. It assumes that=
+ you are already close to the target. It ends up misleading and creating wr=
+ong notions in unprepared sadhakas like "all is delusion", "everything is t=
+he same", "what you do does not matter". The greatness of Bhagavad Gita is =
+that it talks about the path(s) as well as the target and has something rel=
+evant to everyone.
+=C2=A0
+Best regards,
+Narasimha
+--------
+Astrology & Spir=
+ituality Resources: http://www.VedicAstrologer.org--------
+=C2=A0
+        F=
+rom: <deleted>
+ To: pvr108@... 
+ Sent: Wednesday, June 5, 2013 12:16 =
+PM
+ Subject: doubt about svadharma
+   
+in gita krishna says follow svadharm=
+a, while in bhairava stotram by sankaracharya he is described as svadharma =
+marga nashakam , could you please explain this conflict, if you have the ti=
+me.
+
+      
+
+    
+     
+
+    
+    
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+--1211670101-876235697-1370491989=:45825
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<table cellspacing=3D"0" cellpadding=3D"0" border=3D"0" ><tr><td valign=3D"=
+top" style=3D"font: inherit;">Dear Narasimha Garu,<div><br></div><div> =
+;  In many of the texts that I came across it was "twadharma maarga na=
+asakam". I came across "swadharma maarga naasam" only in the homam manual. =
+What does the above one convey?. All the while I was interpreting as the on=
+e who destroys the path of adharma. How wrong I was... I request you to kin=
+dly elucidate...Best regards,</div><div><br></div><div>Acharyulu</div><div>=
+<br></div><div>( <span lang=3D"HI" style=3D"font-size: 14pt; line-heig=
+ht: 115%; font-family: Mangal, serif; background-color: white; background-p=
+osition: initial initial; background-repeat: initial initial;">=E0=A4=A7=E0=
+=A4=B0=E0=A5=8D=E0=A4=AE=E0=A4=B8=E0=A5=87=E0=A4=A4=E0=A5=81=E0=A4=AA=E0=A4=
+=BE=E0=A4=B2=E0=A4=95=E0=A4=82 =E0=A4=A4=E0=A5=8D=E0=A4=B5=E0=A4=A7=E0=A4=
+=B0=E0=A5=8D=E0=A4=AE=E0=A4=AE=E0=A4=BE=E0=A4=B0=E0=A5=8D=E0=A4=97=E0=A4=A8=
+=E0=A4=BE=E0=A4=B6=E0=A4=95=E0=A4=82 )</span><br><br>--- On <b>Wed, 6/5/13,=
+ Narasimha P.V.R. Rao <i><pvr108@...></i></b> wrote:<br><blockq=
+uote style=3D"border-left: 2px solid
+ rgb(16, 16, 255); margin-left: 5px; p=
+adding-left: 5px;"><br>From: Narasimha P.V.R. Rao <pvr108@...><=
+br>Subject: [vedic-wisdom] Re: doubt about svadharma<br>To: "Vedic Wisdom" =
+<vedic-wisdom@yahoogroups.com><br>Date: Wednesday, June 5, 2013, 4:43=
+ PM<br><br><div id=3D"yiv218697127">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div>
+<span style=3D"disp=
+lay:none;"> </span>
+
+
+
+    <div id=3D"yiv218697127ygrp-text">
+      
+ =
+     
+      <p></p><div style=3D"color:#000;background-color:#fff;font-fami=
+ly:arial, helvetica, sans-serif;font-size:10pt;"><div><span>Namaste Sir,</s=
+pan></div><div style=3D"color:rgb(0, 0, 0);font-size:13.3333px;font-family:=
+arial, helvetica, sans-serif;background-color:transparent;font-style:normal=
+;"><span> </span></div><div style=3D"color:rgb(0, 0, 0);font-size:13.3=
+333px;font-family:arial, helvetica, sans-serif;background-color:transparent=
+;font-style:normal;"><span><<</span><span>in gita krishna says follow=
+ svadharma, while in bhairava stotram by 
+sankaracharya he is described as =
+svadharma marga nashakam , could you 
+please explain this conflict, if you =
+have the time.>><br></span></div><div style=3D"color:rgb(0, 0, 0);fon=
+t-size:13.3333px;font-family:arial, helvetica, sans-serif;background-color:=
+transparent;font-style:normal;"><span> </span></div><div style=3D"colo=
+r:rgb(0, 0, 0);font-size:13.3333px;font-family:arial, helvetica, sans-serif=
+;background-color:transparent;font-style:normal;"><span>Great question! Hop=
+ing you don't mind, I am forwarding this reply to vedic-wisdom yahoogroup.<=
+/span></div><div style=3D"color:rgb(0, 0, 0);font-size:13.3333px;font-famil=
+y:arial, helvetica, sans-serif;background-color:transparent;font-style:norm=
+al;"><span> </span></div><div style=3D"color:rgb(0, 0, 0);font-size:13=
+.3333px;font-family:arial, helvetica, sans-serif;background-color:transpare=
+nt;font-style:normal;"><span>Yes, Sri Krishna did advise following swadharm=
+a (one's own dharma) at the beginning of Bhagavad Gita. But he also said in=
+ the last
+ chapter "Roundly give up all dharmas and surrender unto Me". Whe=
+n Bhairavashtakam says</span> "swadharma maarga naashakam", it is getting a=
+t the same idea!</div><div style=3D"color:rgb(0, 0, 0);font-size:13.3333px;=
+font-family:arial, helvetica, sans-serif;background-color:transparent;font-=
+style:normal;"> </div><div style=3D"color:rgb(0, 0, 0);font-size:13.33=
+33px;font-family:arial, helvetica, sans-serif;background-color:transparent;=
+font-style:normal;">Based on who we are, our background, our deep desires a=
+nd debts from the past (which we may not even remember now), and our curren=
+t skills and resources, we all have our own personal (individual) dharmas (=
+duties). We must fulfill those.</div><div style=3D"color:rgb(0, 0, 0);font-=
+size:13.3333px;font-family:arial, helvetica, sans-serif;background-color:tr=
+ansparent;font-style:normal;"> </div><div style=3D"color:rgb(0, 0, 0);=
+font-size:13.3333px;font-family:arial, helvetica,
+ sans-serif;background-co=
+lor:transparent;font-style:normal;">But performing swadharma is the <span s=
+tyle=3D"font-style:italic;">start </span>of sadhana. <span style=3D"font-st=
+yle:italic;">Eventually</span>, one should be able to perform swadharma wit=
+hout attachment to its fruits and later without even the sense of doership!=
+ Then comes a stage when one is not even attached to the idea that "this is=
+ my dharma. I must do this". Whatever Nature has placed one in a position t=
+o do, one does it detachedly, with neither sadness/disappointment nor with =
+happiness/excitement, but with the spirit of "this is what Supreme Lord is =
+doing through me at this instant". One overcomes the notions that "I am so =
+and so. I need to do so and so", gives up one's own will and flows like a l=
+ight leaf in the wind of samsara. Wherever one flows and whatever objects o=
+ne touches, one sees it as the will of Supreme Lord and has no notions of o=
+ne's own will or one's own duties. <span
+ style=3D"font-style:italic;">That=
+ </span>is the state of liberated enlightenment.<br></div><div style=3D"col=
+or:rgb(0, 0, 0);font-size:13.3333px;font-family:arial, helvetica, sans-seri=
+f;background-color:transparent;font-style:italic;"> </div><div style=
+=3D"color:rgb(0, 0, 0);font-size:13.3333px;font-family:arial, helvetica, sa=
+ns-serif;background-color:transparent;">Bhairava is extolled in Bhairavasht=
+akam as the one who brings that state. Krishna also teaches to get to that =
+state, but he does so in the <span style=3D"font-style:italic;">last </span=
+>chapter of Bhagavad Gita. Before you get there, however, you may have to f=
+ollow the instructions in previous chapters!</div><div style=3D"color:rgb(0=
+, 0, 0);font-size:13.3333px;font-family:arial, helvetica, sans-serif;backgr=
+ound-color:transparent;font-style:italic;"> </div><div style=3D"color:=
+rgb(0, 0, 0);font-size:13.3333px;font-family:arial, helvetica, sans-serif;
+=
+background-color:transparent;">A lot of modern Hindu philosophy taught by m=
+any modern gurus, especially of the Vedantic bent, is based on the final ta=
+rget rather than the path(s) one needs to walk, to get to the target. It as=
+sumes that you are already close to the target. It ends up misleading and c=
+reating wrong notions in unprepared sadhakas like "all is delusion", "every=
+thing is the same", "what you do does not matter". The greatness of Bhagava=
+d Gita is that it talks about the path(s) as well as the target and has som=
+ething relevant to everyone.<br></div><div style=3D"color:rgb(0, 0, 0);font=
+-size:13.3333px;font-family:arial, helvetica, sans-serif;background-color:t=
+ransparent;"> <br></div>Best regards,<br><div style=3D"color:rgb(0, 0,=
+ 0);font-size:13px;font-family:arial, helvetica, clean, sans-serif;backgrou=
+nd-color:transparent;font-style:normal;">Narasimha<br>--------<br>Astrology=
+ & Spirituality Resources: <a rel=3D"nofollow" target=3D"_blank"
+ href=
+=3D"http://www.vedicastrologer.org/">http://www.VedicAstrologer.org</a></di=
+v><div style=3D"color:rgb(0, 0, 0);font-size:13px;font-family:arial, helvet=
+ica, clean, sans-serif;background-color:transparent;font-style:normal;">---=
+-----<br></div><div> <br><blockquote style=3D"border-left:2px solid rg=
+b(16, 16, 255);">  <div style=3D"font-family:arial, helvetica, sans-serif;f=
+ont-size:10pt;"> <div style=3D"font-family:times new roman, new york, times=
+, serif;font-size:12pt;"> <div dir=3D"ltr"> <hr size=3D"1">  <font face=3D"=
+Arial" size=3D"2"> <b><span style=3D"font-weight:bold;">From:</span></b> &l=
+t;deleted><br> <b><span style=3D"font-weight:bold;">To:</span></b> pvr10=
+8@... <br> <b><span style=3D"font-weight:bold;">Sent:</span></b> Wedn=
+esday, June 5, 2013 12:16 PM<br> <b><span style=3D"font-weight:bold;">Subje=
+ct:</span></b> doubt about svadharma<br> </font> </div> <div class=3D"yiv21=
+8697127y_msg_container"><br><div id=3D"yiv218697127"><div dir=3D"ltr">in gi=
+ta krishna says
+ follow svadharma, while in bhairava stotram by sankarachar=
+ya he is described as svadharma marga nashakam , could you please explain t=
+his conflict, if you have the time.<br></div>
+</div></div> </div> </div> </=
+blockquote></div>   </div>
+
+    </div>
+     
+
+
+
+</div>
+
+
+
+
+
+</div></blockqu=
+ote></div></td></tr></table>
+--1211670101-876235697-1370491989=:45825--
+
+

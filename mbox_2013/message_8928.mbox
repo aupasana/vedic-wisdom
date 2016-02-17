@@ -1,0 +1,348 @@
+From rajarshi14@...  Wed Feb 17 11:10:27 2016
+Return-Path: <rajarshi14@...>
+X-Sender: rajarshi14@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 38118 invoked from network); 7 Jan 2013 09:31:06 -0000
+X-Received: from unknown (98.137.34.45)
+  by m3.grp.sp2.yahoo.com with QMQP; 7 Jan 2013 09:31:06 -0000
+X-Received: from unknown (HELO nm1-vm8.bullet.mail.sg3.yahoo.com) (106.10.148.79)
+  by mta2.grp.sp2.yahoo.com with SMTP; 7 Jan 2013 09:31:05 -0000
+X-Received: from [106.10.166.62] by nm1.bullet.mail.sg3.yahoo.com with NNFMP; 07 Jan 2013 09:31:04 -0000
+X-Received: from [106.10.151.155] by tm19.bullet.mail.sg3.yahoo.com with NNFMP; 07 Jan 2013 09:31:04 -0000
+X-Received: from [127.0.0.1] by omp1009.mail.sg3.yahoo.com with NNFMP; 07 Jan 2013 09:31:04 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 102074.23565.bm@...
+X-Received: (qmail 85203 invoked by uid 60001); 7 Jan 2013 09:31:04 -0000
+X-YMail-OSG: axj4x9AVM1lcesttWnX5IiQlvF8raxlFSS6wxmyvrNZXiyX
+ jedw8o.Dd9LiYLHQC_rbNYuhNq3m3oZwwLfJm30zewX9PvWQOrCOkDcSqoFR
+ i8c5mFuVd9rvO66orWwSvkucsZTDBE6Hd8CDIA5yFEjk90GDheB18bTk_Hzh
+ eQPaXApGQmbvhZr1BU_Ac3QI6aSMWWr4fJPlMcNZ1yGM_VLhUnXTPuG_LBsX
+ sOWegenYv4pn3FCuwm7ARHf.IDuSkHRb92dcfT70vc5zQ6Few2X7gUYiIIAf
+ noXHHofpJ2ZiIeNVrtDxarWvoabr7p5gWV5HiA1CO4K15uz66jsp6aFuuBki
+ 42MVMHKO_vIweqjcSdgMU6xj4tNNlxjqdqKg80Epc_t.MSMMUlaCXciYp8Zq
+ NnzktVyhbPu9pEu.zAknsIk_mTd.tUtUZw_9D79D9TfC6b5qLNyt22etbQS1
+ ja_S1uUpa_1yaGZVbc1.6xKpDqd2r2gSQJEaWpRyoSE9aigqi9jarLalfFwt
+ xxE7bu4h82jCh08R_ETmQt9FrAuKNSXeY9P3oSrIcaHkmXE6.TPilyHPiHCM
+ 1v4maVS0cCg405UBNTz_XQ8_v3CLhi8t0qh4r3Ri8uwTDbuReQOGBdvZYvB5
+ 0bvrt7koli7NnxY6EgyAGQCbagiKpBiIIUEy5pzBpHc9m2aD3ZgHbpheexny
+ sqFAdRCf8lu9hYIYYcl67jmMtjcvNQKGVdyleEKHZLALO6Gx58fos7avKJr3
+ t998ZA0nL.EFEjKoNwrP7aFsfbsYjZBpCNS5XbkZgCvpqIlvCW3aC9mthMHq
+ 4ZkXExvILqfYSH4l8DAlXOfz.2BBX8uoNwVcDbeLCz0AgHnlNI7AAahlKGhj
+ ttEfAFaN9Dqn25O3bg1YAJSYKFrMGZsTsf6ThRtZ4fQEUdn_krFTf_4qcaSr
+ EWahAtZw0PIxszlgR_gi6QTjIpS4Vjilug7AuvCxe6jCAqnBTQS6hMFwkcKh
+ y88UCX93jJNqTH3YHU19w1hmouw80xBqCtCh63CUksUE8v8hjRBNbZfqftf3
+ neavgjc5ITCqHgucWOQa4SYuBIdY9hq.6TxPTyACyS5RwyiQGTPEwjn6PO8j
+ xQrp_f.r38.9r0uKeaoEQrpVv0Cxw5iCpI.vzc_UevA8N_jqP_Fbwihp9.fk
+ A2oUPAoZtaxGu.shF9fWdnifI4c0McHxE5wwZDYtaeQPAu1p1AUfXoY6I8HU
+ y2Yrn1SxtSgr16tlvLkEvZmyC1uGeq4F79.SZ2QM6KLuD9.Vb.ovvpNNmwN_
+ qsdR0vdeWBQYsHYzQNu1IWxRhuirlU6T2xuO_kl1D53yaQzIKZYRJnj1b581
+ kmK1s6hkZ1kgLNxPV5921VManK_7xg_DrD_d8pvnmB5OzTf4wW4h1MUpn7LT
+ tBL3X2MBEBM_Om4Sb8MJCOJJWvUmFqqTSPEtq8eHRCscS2YghRyXrv4T7CeL
+ 3C8Z.ywBg3j2YfY5AUL5RkUwifNF_YhV_GkH4ZdbMcwV79CPQdrsfda.SfeB
+ gU0DdTWXcfxdg34RRj3rqxl1JUOXD3EIR8kabHPIS5jmW.s.X4l14OcXwMo1
+ .hADiQw5TT8CEK3gUYLqTwgvPKm_VPDpXx26QqceYztOabMyOznVqdhVnJV8
+ yDRbxLxweY7IdN9U32fcetjVm07yPqHuQCKDOSBrNAlUJHgwN477zwQdxFGd
+ 3tWf.vKfmqzT9cxK8y5k39B..DjYs5Su7bEMTsjfOept5LeqZRc94Z_LUgBx
+ bph5WApqNIVQFUxUXEnIfra8gXA4U53YQpKmyxE93KJCNwLPa_XQkvCDJRZJ
+ b_xmfFvuJQHQnnpKbI4REJRAKfQq6ASvfWTKgcTtsX5vsha48J4cFw5DQpXZ
+ I8qwGaJ1gPS9KTojbtesl9sDt01RaSipRGm5mrLp298xHKoNCH7_4yKbTw6E
+ g1p3u.vCg8IcmCWithKEVuqzT7JAdvPDuoCM6u7fUyvTUCjrHxsPiLKU8qWO
+ GXFfCjrVHwbL82bH.cXeWosceDTQT
+X-Received: from [14.97.251.93] by web190905.mail.sg3.yahoo.com via HTTP; Mon, 07 Jan 2013 17:31:03 SGT
+X-Rocket-MIMEInfo: 001.001,RGVhciBBaml0LAoKVGhhbmtzIGZvciB0aGUgZXhwbGFuYXRpb25zLiBWZXJ5IGludGVyZXN0aW5nLgoKVGhpcyByZW1pbmRzIG1lIG9mIGFuIGluY2lkZW50IHdpdGggYSBnb29kIGZyaWVuZCBvZiBtaW5lLiBUaGVyZSBpcyBhbiBpbmRpdmlkdWFsIEkga25vdywgd2hvIGhhZCBuZXZlciBjaGFudGVkIHRoZSBTYXZpdHVyLUdheWF0cmkgbWFudHJhIGV2ZXIuIEhlIHVzZWQgdG8gZmVlbCwgYXMgcGVyIGhpcyBvd24gY29uZmVzc2lvbiwgbm8gc3BlY2lhbCBsb3ZlIG9yIGF0dHJhY3Rpb24gZm9yIHRoaXMgbWEBMAEBAQE-
+X-Mailer: YahooMailWebService/0.8.129.483
+References: <50ea669f.85ee440a.2be5.6fa8@...>
+Message-ID: <1357551063.85032.YahooMailNeo@...>
+Date: Mon, 7 Jan 2013 17:31:03 +0800 (SGT)
+To: "vedic-wisdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com>
+In-Reply-To: <50ea669f.85ee440a.2be5.6fa8@...>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="1004636618-1919300321-1357551063=:85032"
+X-Originating-IP: 106.10.148.79
+X-eGroups-Msg-Info: 1:12:0:0:0
+From: rajarshi nandy <rajarshi14@...>
+Reply-To: rajarshi nandy <rajarshi14@...>
+Subject: Re: [vedic-wisdom] Gayatri -- Savita
+X-Yahoo-Group-Post: member; u=216162964; y=zD5ZACHIi45FYl3-1yXe1qBW30J8NOqhYVTIgn8S2IY05mhIvw
+X-Yahoo-Profile: rajarshi14
+
+
+--1004636618-1919300321-1357551063=:85032
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Dear Ajit,
+
+Thanks for the explanations. Very interesting.
+
+This reminds me=
+ of an incident with a good friend of mine. There is an individual I know, =
+who had never chanted the Savitur-Gayatri mantra ever. He used to feel, as =
+per his own confession, no special love or attraction for this mantra and b=
+eing born in a non-brahmin family, there was no religious-cultural occasion=
+ where he was formally introduced to this mantra. 
+
+One day while meditatin=
+g on some Tantrik mantras, he got a random inspiration to meditate on the G=
+ayatri mantra. He had a vague idea of what the Gayatri mantra meant, and no=
+ idea at all of correct swara or intonation. So he started chanting, mental=
+ly and soundlessly, the Savitur Gayatri mantra. Within less than 20-30 japa=
+s of the mantra, he felt/saw - and I describe it as he told me - an unbroke=
+n steam of tremendous, pure, flood of Golden Light above his head. Like a w=
+orld above and outside our world. Intensely pure, intensely Divine. The eve=
+ntual idea, he told me, was to enter into that stream of Light above and se=
+e things from that perspective. But as long as there are impurities in the =
+mind and body, it is not possible to enter into that realm easily. The guna=
+s must be in a stable equilibrium. Neither the laziness of Tamas, nor the i=
+mpatience of rajas is conducive for it, but the stable, illuminating, self-=
+assurance of satwa leading to a deeper
+ equanimity in mind and life is need=
+ed.
+
+Apparently, he also realized that there are some Tantrik mantras of Ma=
+ which serve a similar purpose as the Gayatri mantra. They take a person to=
+ the spiritual planes above.
+
+So I asked him why did you not continue the m=
+editation or japa of Gayatri mantra, since there was a nice experience. He =
+said it would have pulled him in and he would not have been able to continu=
+e the spiritual practices which he was already doing for some time, and lea=
+ving something half way is not good.
+
+
+Reading the explanation your provide=
+d below, that is : 
+
+"We meditate upon that Savitaa (yaH) who impels (prach=
+odayaat) our (naH) 
+thoughts (dhiyaH). He blesses us with subtle eyesight. =
+Without his 
+light, we would not be able to distinguish different objects. =
+This is 
+explained in the Aitaterya Upanishad=C2=A0=E2=80=9CThe sun, having=
+ become eyesight, 
+entered the eyes=E2=80=9D. He thus blesses all living be=
+ings."
+
+.. matches with the description that I had heard from my friend. Qu=
+ite interesting!
+
+-Regards
+=C2=A0Rajarshi
+
+
+
+
+=C2=A0
+
+awaktam wyaktimApanna=
+m manyantE mAmabuddhayah |
+param bhAwamajAnanto mamAwyayamanuttamam ||[7:24=
+]
+
+
+________________________________
+ From: "ajit.krishnan@..." <ajit=
+.krishnan@...>
+To: "vedic-wisdom@yahoogroups.com" <vedic-wisdom@yahoo=
+groups.com> 
+Sent: Monday, 7 January 2013 11:39 AM
+Subject: [vedic-wisdom] =
+Gayatri -- Savita
+ 
+
+=C2=A0 
+Namaste,
+=C2=A0
+Painganadu Ganapati Shastri wa=
+s a=C2=A0well known=C2=A0aasthaana vidvaan=C2=A0of the Kanchi Peetham. He w=
+rote a simple, lucid commentary on the Gayatri mantra. It starts with a sum=
+mary in 32 shlokas, followed by an introduction. He then gives 4 explanatio=
+ns / meditations on the mantra -- (1) gayatri, (2) narayana, (3) paramashiv=
+a and (4) paramatma.
+=C2=A0
+I am not attempting a literal or scholarly tran=
+slation ... I=E2=80=99ll try to summarize the main point, from a practical =
+point of view. I=E2=80=99ll start with the first of the meditations, on Gay=
+atri.
+=C2=A0
+=C2=A0----
+=C2=A0
+The first meditation is the=C2=A0=E2=80=9Cco=
+mmon=E2=80=9D understanding of the Gayatri mantra, with the Sun as the deva=
+ta. This follows the famous verse from the Agastya Smriti --=C2=A0=E2=80=9C=
+yo devaH savitA=C2=A0 .asmAkam dhiyo dharmAdigocarAH. prerayet tasya yad bh=
+argaH tad vareNyam upAsmahe=E2=80=9D. 
+=C2=A0
+We=C2=A0meditate upon (dhiima=
+hi)=C2=A0the splendor / tejas (bhargaH) of the deva (devasya) that is the S=
+un (savituH).=C2=A0This tejas is the light of the sun, which is experienced=
+ by all living beings, and is thus easy to meditate upon.
+=C2=A0
+Whatever i=
+s experienced is easy to meditate upon, and that which is not experienced c=
+an be difficult to meditate upon. Everyone can meditate upon the light of t=
+he Sun. This is why this meaning for the Gayatri mantra is always taken fir=
+st. 
+=C2=A0
+vareNyam=C2=A0=3D whatever we can ask=C2=A0/ desire. Through al=
+l karmas and upaasanaas, whatever fruits we may ask for is vareNyam. =E2=80=
+=9CSavitaa" is the fruit of all karmas ... this is taught in the Chandogya =
+Upanishad. [ A long explanation follows, which is omitted here ].=C2=A0 We =
+meditate upon the splendor of the sun, which is vareNyam.
+=C2=A0
+We meditat=
+e upon that Savitaa (yaH) who impels (prachodayaat) our (naH) thoughts (dhi=
+yaH). He blesses us with subtle eyesight. Without his light, we would not b=
+e able to distinguish different objects. This is explained in the Aitaterya=
+ Upanishad=C2=A0=E2=80=9CThe sun, having become eyesight, entered the eyes=
+=E2=80=9D. He thus blesses all living beings. 
+=C2=A0
+----
+=C2=A0
+Sent from=
+ Windows Mail
+=C2=A0
+ 
+--1004636618-1919300321-1357551063=:85032
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"color:#000; background-color:#fff; font-family:Co=
+urier New, courier, monaco, monospace, sans-serif;font-size:12pt">Dear Ajit=
+,<br><br>Thanks for the explanations. Very interesting.<br><br>This reminds=
+ me of an incident with a good friend of mine. There is an individual I kno=
+w, who had never chanted the Savitur-Gayatri mantra ever. He used to feel, =
+as per his own confession, no special love or attraction for this mantra an=
+d being born in a non-brahmin family, there was no religious-cultural occas=
+ion where he was formally introduced to this mantra. <br><br>One day while =
+meditating on some Tantrik mantras, he got a random inspiration to meditate=
+ on the Gayatri mantra. He had a vague idea of what the Gayatri mantra mean=
+t, and no idea at all of correct swara or intonation. So he started chantin=
+g, mentally and soundlessly, the Savitur Gayatri mantra. Within less than 2=
+0-30 japas of the mantra, he felt/saw - and I describe it as he told
+ me - =
+an unbroken steam of tremendous, pure, flood of Golden Light above his head=
+. Like a world above and outside our world. Intensely pure, intensely Divin=
+e. The eventual idea, he told me, was to enter into that stream of Light ab=
+ove and see things from that perspective. But as long as there are impuriti=
+es in the mind and body, it is not possible to enter into that realm easily=
+. The gunas must be in a stable equilibrium. Neither the laziness of Tamas,=
+ nor the impatience of rajas is conducive for it, but the stable, illuminat=
+ing, self-assurance of satwa leading to a deeper equanimity in mind and lif=
+e is needed.<br><br>Apparently, he also realized that there are some Tantri=
+k mantras of Ma which serve a similar purpose as the Gayatri mantra. They t=
+ake a person to the spiritual planes above.<br><br>So I asked him why did y=
+ou not continue the meditation or japa of Gayatri mantra, since there was a=
+ nice experience. He said it would have pulled him in and he
+ would not hav=
+e been able to continue the spiritual practices which he was already doing =
+for some time, and leaving something half way is not good.<br><br><br>Readi=
+ng the explanation your provided below, that is : <br><br>"We meditate upon=
+ that Savitaa (yaH) who impels (prachodayaat) our (naH) 
+thoughts (dhiyaH).=
+ He blesses us with subtle eyesight. Without his 
+light, we would not be ab=
+le to distinguish different objects. This is 
+explained in the Aitaterya Up=
+anishad =E2=80=9CThe sun, having become eyesight, 
+entered the eyes=E2=
+=80=9D. He thus blesses all living beings."<br><br>.. matches with the desc=
+ription that I had heard from my friend. Quite interesting!<br><br>-Regards=
+<br> Rajarshi<br><br><br><br><div> </div><div><br></div><div><i><=
+b><div class=3D"MsoNormal"><b><span class=3D"Apple-style-span" style=3D"fon=
+t-size:16px;"><b><span class=3D"Apple-style-span" style=3D"color:rgb(153, 1=
+53, 153);"></span></b></span></b><span class=3D"yui_3_2_0_2_134243527249950=
+" style=3D"font-family:times new roman, new york, times, serif;">awaktam wy=
+aktimApannam manyantE mAmabuddhayah |</span><br><b><span class=3D"yui_3_2_0=
+_2_134243506227946 yui_3_2_0_2_134243527249952 yui_3_7_2_15_1357543332159_6=
+8" style=3D"FONT-SIZE:10pt;COLOR:navy;FONT-FAMILY:Verdana;"><font color=3D"=
+#000000" face=3D"Times New Roman"><div><div> param bhAwamajAnanto mamAwyaya=
+manuttamam ||[7:24]</div></div></font></span></b></div></b></i></div><div><=
+br></div>  <div style=3D"font-family: Courier New, courier, monaco, monospa=
+ce,
+ sans-serif; font-size: 12pt;"> <div style=3D"font-family: times new ro=
+man, new york, times, serif; font-size: 12pt;"> <div dir=3D"ltr"> <font fac=
+e=3D"Arial" size=3D"2"> <hr size=3D"1">  <b><span style=3D"font-weight:bold=
+;">From:</span></b> "ajit.krishnan@..." <ajit.krishnan@...&g=
+t;<br> <b><span style=3D"font-weight: bold;">To:</span></b> "vedic-wisdom@y=
+ahoogroups.com" <vedic-wisdom@yahoogroups.com> <br> <b><span style=3D=
+"font-weight: bold;">Sent:</span></b> Monday, 7 January 2013 11:39 AM<br> <=
+b><span style=3D"font-weight: bold;">Subject:</span></b> [vedic-wisdom] Gay=
+atri -- Savita<br> </font> </div> <br><div id=3D"yiv633375809">
+
+
+
+
+
+
+
+
+
+
+
+=
+
+
+<div>
+<span style=3D"display:none;"> </span>
+
+
+
+    <div id=3D"yiv63=
+3375809ygrp-text">
+      
+      
+      <div style=3D"font-size:16px;"><div>=
+Namaste,</div><div> </div><div>Painganadu Ganapati Shastri was a =
+well known aasthaana vidvaan of the Kanchi Peetham. He wrote a si=
+mple, lucid commentary on the Gayatri mantra. It starts with a summary in 3=
+2 shlokas, followed by an introduction. He then gives 4 explanations / medi=
+tations on the mantra -- (1) gayatri, (2) narayana, (3) paramashiva and (4)=
+ paramatma.</div><div> </div><div><div>I am not attempting a literal o=
+r scholarly translation ... I=E2=80=99ll try to summarize the main point, f=
+rom a practical point of view. I=E2=80=99ll start with the first of the med=
+itations, on Gayatri.</div><div> </div><div> ----</div><div> =
+;</div><div>The first meditation is the =E2=80=9Ccommon=E2=80=9D under=
+standing of the Gayatri mantra, with the Sun as the devata. This follows th=
+e famous verse from the Agastya Smriti -- =E2=80=9Cyo devaH savitA&nbs=
+p; .asmAkam dhiyo dharmAdigocarAH. prerayet tasya yad
+ bhargaH tad vareNyam=
+ upAsmahe=E2=80=9D. </div><div> </div><div>We meditate upon (dhii=
+mahi) the splendor / tejas (bhargaH) of the deva (devasya) that is the=
+ Sun (savituH). This tejas is the light of the sun, which is experienc=
+ed by all living beings, and is thus easy to meditate upon.</div><div> =
+;</div><div>Whatever is experienced is easy to meditate upon, and that whic=
+h is not experienced can be difficult to meditate upon. Everyone can medita=
+te upon the light of the Sun. This is why this meaning for the Gayatri mant=
+ra is always taken first. </div><div> </div><div>vareNyam =3D wha=
+tever we can ask / desire. Through all karmas and upaasanaas, whatever=
+ fruits we may ask for is vareNyam. =E2=80=9CSavitaa" is the fruit of all k=
+armas ... this is taught in the Chandogya Upanishad. [ A long explanation f=
+ollows, which is omitted here ].  We meditate upon the splendor of the=
+ sun, which is vareNyam.</div><div> </div><div>We
+ meditate upon that =
+Savitaa (yaH) who impels (prachodayaat) our (naH) thoughts (dhiyaH). He ble=
+sses us with subtle eyesight. Without his light, we would not be able to di=
+stinguish different objects. This is explained in the Aitaterya Upanishad&n=
+bsp;=E2=80=9CThe sun, having become eyesight, entered the eyes=E2=80=9D. He=
+ thus blesses all living beings. </div><div> </div><div>----</div><div=
+> </div><div>Sent from Windows Mail</div><div> </div></div></div>=
+
+
+    </div>
+     
+
+
+
+</div>
+
+
+
+
+
+</div><br><br> </div> </div>  </div></bod=
+y></html>
+--1004636618-1919300321-1357551063=:85032--
+
+

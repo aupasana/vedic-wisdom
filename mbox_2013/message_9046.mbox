@@ -1,0 +1,319 @@
+From leela.sastry@...  Wed Feb 17 11:10:29 2016
+Return-Path: <leela.sastry@...>
+X-Sender: leela.sastry@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 28928 invoked by uid 102); 28 Feb 2013 11:05:03 -0000
+X-Received: from unknown (HELO mta1.grp.bf1.yahoo.com) (10.193.84.135)
+  by m2.grp.bf1.yahoo.com with SMTP; 28 Feb 2013 11:05:03 -0000
+X-Received: (qmail 12101 invoked from network); 28 Feb 2013 11:05:01 -0000
+X-Received: from unknown (HELO nm5-vm0.bullet.mail.bf1.yahoo.com) (98.139.213.150)
+  by mta1.grp.bf1.yahoo.com with SMTP; 28 Feb 2013 11:05:01 -0000
+X-Received: from [98.139.215.142] by nm5.bullet.mail.bf1.yahoo.com with NNFMP; 28 Feb 2013 11:05:01 -0000
+X-Received: from [98.139.212.249] by tm13.bullet.mail.bf1.yahoo.com with NNFMP; 28 Feb 2013 11:05:01 -0000
+X-Received: from [127.0.0.1] by omp1058.mail.bf1.yahoo.com with NNFMP; 28 Feb 2013 11:05:01 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 717953.68789.bm@...
+X-Received: (qmail 3706 invoked by uid 60001); 28 Feb 2013 11:05:01 -0000
+X-YMail-OSG: _uIbasMVM1mgDKZVg6Dl8gKfdBq1sKCk7ViUeYaCDxgtcs7
+ iu_R57wJpooBeOtWFMCuWH0XFmxlE9Ru6ViVmFl0tSks76mTOIC9k280cAtT
+ af7Aav6Beq7FysnyU9BGE3BobOBH8wdFGwNMWPCho0bpJSznKPv8axavR0cd
+ YnS.4TfpvR61IxbqBu7EStLW.R6ZaCkhGZP7a.nRpBpIKKF4uarsxZdv3UvN
+ stglVFjp6MB.Fou4W7knpTXq7M1N.1rVJpuocmKhI9TTmL6yAhXVvAjxlXp0
+ uIc16Z9g.1P98O4Sio2xbjnG_CKAjro4vfGlXYdO09jU79kcNUm.kjG29647
+ b4txSyAlp2JjQerCrCtpOKH0mNwFvesi.1ld1K8A3t0Z7Fo6zJNFGbTMeCoL
+ uUee5o74YHH0a_E6StOORa6wPxpyL9oaK5bY1uaPYi5pw9YL9mbdGBrd1sgW
+ mgJGYGacF5bAz8on_u.Yl5w.c7MsvXkkpvMk8v1M1QkHh8o_KltKyrjxojV_
+ Jv93QscZuuTlMoSTTBjKXwHKpClSkW3pvcRK3DiZ.DTERfKBtHbbMVPkwZUK
+ n7KVrBiYIcfxgTuL6X2ek6BdHJJHMt2NmFlG5d48WTPGDQBdqO8lZJZWvU6B
+ K1sq6xArr_5MeWvfxHeT2UqWSiBPBjRPL6uPfvH6rNlelFuiEn.AOxJTlW0J
+ jN7FyMhRcnkWJXYLxjdoXXnusPygzoOUu9KPes5axHkT1bKvVmb2LAlY.rty
+ qESRcxleynAzUNeRsDu1clo5AmJkdku8gnK5Bf13JtE9WXHBa.4a1f3npsmk
+ YBky3vtnjzcCVHJ78jOb61WFuNr8Prdz56N_lY5I_0LBSXfweJXe9DqVvapz
+ kFkKKpCaa_Wo03EHGW.rUFr5kMnHHKlWJv6u6SoVdnN_E__X9h2f8jkY.1Xl
+ V06ugVd1h0MYOWyt2oCLoUjwYuSPsGurkNpBBmjUFUOB0FPOxlMoUef6k55x
+ vs51OLLJLMWaC.mHNsli8AJzHludq8u6011J1slQ0FEhhv4nflxicoPcuU7E
+ ewqXzdrUuEDBCaL68UMRh3uvgVyI7QFMDhCnlDJcYAYyQxKFsYWNhHZ4zNGl
+ s._Kpf5gGU5PdrUZ3U2Z_uopFHk98EsuY5DsQob0_NzSh_dnubnWJe65IXW7
+ IAqr6BXDEcVQtcxW.AiFPwSYvFZHg1m.LKzjlVjvT9X8eYG7hNiuFUbi.Yqj
+ 3s8w0Yu.nQdzwtfRhwCswIb3oC4t0oaKPD60FLRhLUsQoTKvQRS0rab2DbEP
+ 1kM582X_KbxlZsmm2RA5zCSmjL24v.a1.sZuzHmmDSCt6QPM6B8rYhEV644M
+ p0PAOcvPAmDJWBeZb7Som8ZIr4iUTr0MOsP_25r3Y35d3Wq5vSjk7XYWuv3S
+ suwKWmJFQMOaF6MLJtZWjKQVcmQWpjMhmjmXxAJSfmo9Tnc3Yg5.R2zhQhRT
+ U7vWdbZmNCWeROw2hx97acywjxkNCPc1nGBT5VJC0RqA6AIyzKyWF2gmVOs8
+ bjmSq4xlMDSrk0RWNmv9e57O3zsX2kirQomPLfuvkxA.k3JSdeDtw15k0Mrw
+ FMcuVnhoV3S9qenL6GCRn8r3AdtDdc7K6wflMCIiUGOQw6Fq6dBj.15BzPX.
+ .uM5o_QL4YWYuEdC_W0Kp8jg4nYvGiVSIV3HoeAbHoIAbW8OjUVyHSkNJYo5
+ 6qBHEroRyZqx3yGyzoGBKwg--
+X-Received: from [27.7.49.234] by web142605.mail.bf1.yahoo.com via HTTP; Thu, 28 Feb 2013 03:05:00 PST
+X-Rocket-MIMEInfo: 001.001,wqBZRVPCoCBTSVLCoCAsIHBlcmZlY3RseSBjb3JyZWN0wqDCoCAswqBidXQgaW50ZW5zZSBiaGFrdGhpIGFuZCBzYXJhbmFnYXRoacKgIG1ha2VzIHRoZSBpc2h0YWRldmF0aGEgdG8gc3RhbmQgYnkgdGhlIHNhZGhha2EgYW5kIHJlbW92ZSBtb3N0IG9mIHRoZSBodXJkbGVzIC7CoMKgQWxsIHRoZSBzbyBjYWxsZWQgZGh5YW5hbWFyZ2FzIHdpdGggb3V0IGFueSBwZXJzb25hbCBkZWl0eSBhbmQgbWFudGhyYSBhbGxvdyB0aGUgb3RoZXIgZW50aXRpZXMgdG8gZW50ZXIgaW4gdG8gdGhlIGlubmVyIHBsYW5lcyABMAEBAQE-
+X-Mailer: YahooMailWebService/0.8.135.514
+References: <kgn3vs+c7tk@...> <1362048605.71347.YahooMailNeo@...>
+Message-ID: <1362049500.92377.YahooMailNeo@...>
+Date: Thu, 28 Feb 2013 03:05:00 -0800 (PST)
+To: "vedic-wisdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com>
+In-Reply-To: <1362048605.71347.YahooMailNeo@...>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="1082104826-1243162743-1362049500=:92377"
+X-Originating-IP: 10.193.84.135
+X-eGroups-Msg-Info: 1:12:0:0:0
+From: Leela Sastry <leela.sastry@...>
+Reply-To: Leela Sastry <leela.sastry@...>
+Subject: Re: [vedic-wisdom] Kundalini syndrome
+X-Yahoo-Group-Post: member; u=514322609; y=7JKLU42Xo1hUtFqaN4wvaGmOOyswKF4aWf9FkQu7nF2hghAhClbV
+X-Yahoo-Profile: leela.sastry
+
+
+--1082104826-1243162743-1362049500=:92377
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+=C2=A0YES=C2=A0 SIR=C2=A0 , perfectly correct=C2=A0=C2=A0 ,=C2=A0but intens=
+e bhakthi and saranagathi=C2=A0 makes the ishtadevatha to stand by the sadh=
+aka and remove most of the hurdles .=C2=A0=C2=A0All the so called dhyanamar=
+gas with out any personal deity and manthra allow the other entities to ent=
+er in to the inner planes who play havoc with the=C2=A0 psyche .=C2=A0 Once=
+ we are under the protection of=C2=A0 a mahadevatha ,all the other=C2=A0 di=
+sturbances will definitely=C2=A0 be wiped off . But=C2=A0 it can be attaine=
+d by the righteous behaviour along with manthranushtana . You have explaine=
+d very nicely .=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0 regards ls .=C2=A0=C2=
+=A0=C2=A0=C2=A0
+
+
+>________________________________
+>From: rajarshi nandy <=
+rajarshi14@...>
+>To: "vedic-wisdom@yahoogroups.com" <vedic-wisdom@y=
+ahoogroups.com> 
+>Sent: Thursday, February 28, 2013 4:20 PM
+>Subject: Re: [=
+vedic-wisdom] Kundalini syndrome
+>
+>=C2=A0 
+>In Tantra, to focus on Kundali=
+ni, one needs a few things going.1 - Bhuta Suddhi. Constant efforts of puri=
+fication of the various elements that compose the human mind-body structure=
+. In simpler words this translates into more detachment, more equanimity, m=
+ore non-reactiveness, control of anger, lust, greed etc etc.2 - Once and IF=
+ a genuine Kundalini awakening happens, one has to now self identify with t=
+he Devata with greater force. Devotion of a far more intense kind is must. =
+The Devata then takes care of the journey.3 - A good guru is very helpful. =
+As Shakti awakens - IF and when it really does - it can also open up the mi=
+nd and body to various other things and entities, some of which are not pos=
+tive in nature while some of them are useless, and given half a chance can =
+make use of the individual for its own ends. They take hold of inhernent we=
+akness in character and nature and miss-utilizes the same. Hence constant B=
+huta-suddhi becomes even more vital.4
+ - While someday or other every sadha=
+ka will have an experience of Kundalini Shakti awekening and rising up, not=
+ all maladies of psychology are because of this. The human psychology as un=
+derstood by west today is puerile and insufficient to deal with various thi=
+ngs. It is also possible sometimes that the aura of an individual, which pr=
+otects us from various subtle influences and helps us to remain as function=
+al entities, can get "ruptured" due to various reasons, high stress, or unc=
+onventional lifestyles, trauma etc. That can allow free assess of various e=
+ntities inside the mind and they have chances of causing serious havoc. Sin=
+ce all these are very complex and various possiblities are there, it is not=
+ possible to list down every option. Moreover, even if such a diagnosis is =
+correctly done, very few can have the right knowledge to rectify the situat=
+ion. Many who claim they can do so, are often doing nothing more than an in=
+telligent guess work. Sometimes
+ it will have results, sometimes not.For al=
+l these to be achieved, the starting point is a sound mind in a sound body,=
+ as the ancient Greeks used to say - Mens sana in corpore sano.-Regards=C2=
+=A0Rajarshi 
+>
+>
+>awaktam wyaktimApannam manyantE mAmabuddhayah |param bhAw=
+amajAnanto mamAwyayamanuttamam ||[7:24]
+>
+>
+>
+>____________________________=
+____
+>From: sunrise_1080 <sunrise_1080@...> 
+>To: vedic-wisdom@yaho=
+ogroups.com 
+>Sent: Thursday, 28 February 2013 1:50 PM
+>Subject: [vedic-wis=
+dom] Kundalini syndrome
+>
+>=C2=A0 
+>Dear all,Just wanted to warn people of =
+kundalini syndrome based on my recent experience of a patient of mine.I am =
+doing a psychiatry job at present, and have been involved in the care of so=
+meone who seems to think she has had a spontaneous awakening of their kunda=
+lini since childhood. This has involved out-of-body experiences and surges =
+of energy in the body. She is not of Indian origin and had never heard of k=
+undalini until her symptoms started and she searched for an explanation. We=
+ have not been able to find anything physically wrong with her (all tests n=
+ormal)- so it might be that this is due to deranged kundalini. Many people =
+we call mentally ill describe themselves as having a spiritual crisis, or u=
+nwanted spontaneous kundalini awakening- this has triggered interest and re=
+search into this topic in mainstream psychiatry. Unfortunately these patien=
+ts are not well-understood by western medicine, and as we have no treatment=
+s for deranged kundalini, we
+ struggle to help them.Many yogis try to forci=
+bly waken the kundalini. My experience with this lady confirmed my feeling =
+that kundalini should not be forcibly wakened. This woman wants to kill her=
+self at times because the suffering from the deranged energy is so bad. She=
+ feels it will consume her, and it is something she cannot escape from.I wo=
+ndered what solution there could be to her problem. The logical one was to =
+pray to the Divine Mother, who manifests as the kundalini to relieve the su=
+ffering of this woman- and either cure her, or give her the strength to bea=
+r this. May I request that the good samaritans among you pray for her, and =
+for others like her (whom we may not know of)- their suffering really is pi=
+tiable. And let us be careful in our sadhana so as not to end up in this si=
+tuation ourselves. Perhaps this is why the bhakti marga is the safest. It i=
+s perhaps safest to say "let me be your instrument" and leave the kundalini=
+ rising bit to God's
+ will.Om Dum Durgayai NamahaAparna 
+>
+--1082104826-1243162743-1362049500=:92377
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"color:#000; background-color:#fff; font-family:ti=
+mes new roman, new york, times, serif;font-size:10pt"><div style=3D"RIGHT: =
+auto"><SPAN style=3D"RIGHT: auto"> YES  SIR  , perfectly cor=
+rect   , but intense bhakthi and saranagathi  makes the=
+ ishtadevatha to stand by the sadhaka and remove most of the hurdles . =
+; All the so called dhyanamargas with out any personal deity and manth=
+ra allow the other entities to enter in to the inner planes who play havoc =
+with the  psyche .  Once we are under the protection of  a m=
+ahadevatha ,all the other  disturbances will definitely  be wiped=
+ off . But  it can be attained by the righteous behaviour along with m=
+anthranushtana . You have explained very nicely .    &n=
+bsp;  regards ls .<VAR id=3Dyui-ie-cursor></VAR>   &nbs=
+p;</SPAN><BR></div>
+<div>
+<BLOCKQUOTE style=3D"BORDER-LEFT: rgb(16,16,255) =
+2px solid; MARGIN-TOP: 5px; PADDING-LEFT: 5px; MARGIN-LEFT: 5px">
+<DIV styl=
+e=3D"FONT-FAMILY: times new roman, new york, times, serif; FONT-SIZE: 10pt"=
+>
+<DIV style=3D"FONT-FAMILY: times new roman, new york, times, serif; FONT-=
+SIZE: 12pt">
+<DIV dir=3Dltr><FONT size=3D2 face=3DArial>
+<DIV style=3D"BORD=
+ER-BOTTOM: #ccc 1px solid; BORDER-LEFT: #ccc 1px solid; PADDING-BOTTOM: 0px=
+; LINE-HEIGHT: 0; MARGIN: 5px 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; H=
+EIGHT: 0px; FONT-SIZE: 0px; BORDER-TOP: #ccc 1px solid; BORDER-RIGHT: #ccc =
+1px solid; PADDING-TOP: 0px" class=3Dhr contentEditable=3Dfalse readonly=3D=
+"true"></DIV><B><SPAN style=3D"FONT-WEIGHT: bold">From:</SPAN></B> rajarshi=
+ nandy <rajarshi14@...><BR><B><SPAN style=3D"FONT-WEIGHT: bol=
+d">To:</SPAN></B> "vedic-wisdom@yahoogroups.com" <vedic-wisdom@yahoogrou=
+ps.com> <BR><B><SPAN style=3D"FONT-WEIGHT: bold">Sent:</SPAN></B> Thursd=
+ay, February 28, 2013 4:20 PM<BR><B><SPAN style=3D"FONT-WEIGHT: bold">Subje=
+ct:</SPAN></B> Re: [vedic-wisdom] Kundalini syndrome<BR></FONT></DIV><WBR>
+=
+<DIV id=3Dyiv2144221678>
+<DIV><SPAN style=3D"DISPLAY: none"> </SPAN> 
+=
+<DIV id=3Dyiv2144221678ygrp-text>
+<DIV style=3D"BACKGROUND-COLOR: #fff; FON=
+T-FAMILY: Courier New, courier, monaco, monospace, sans-serif; COLOR: #000;=
+ FONT-SIZE: 12pt">In Tantra, to focus on Kundalini, one needs a few things =
+going.<WBR><WBR>1 - Bhuta Suddhi. Constant efforts of purification of the v=
+arious elements that compose the human mind-body structure. In simpler word=
+s this translates into more detachment, more equanimity, more non-reactiven=
+ess, control of anger, lust, greed etc etc.<WBR><WBR>2 - Once and IF a genu=
+ine Kundalini awakening happens, one has to now self identify with the Deva=
+ta with greater force. Devotion of a far more intense kind is must. The Dev=
+ata then takes care of the journey.<WBR><WBR>3 - A good guru is very helpfu=
+l. As Shakti awakens - IF and when it really does - it can also open up the=
+ mind and body to various other things and entities, some of which are not =
+postive in nature while some of them are useless, and given half a chance c=
+an make use of the individual
+ for its own ends. They take hold of inhernen=
+t weakness in character and nature and miss-utilizes the same. Hence consta=
+nt Bhuta-suddhi becomes even more vital.<WBR><WBR>4 - While someday or othe=
+r every sadhaka will have an experience of Kundalini Shakti awekening and r=
+ising up, not all maladies of psychology are because of this. The human psy=
+chology as understood by west today is puerile and insufficient to deal wit=
+h various things. It is also possible sometimes that the aura of an individ=
+ual, which protects us from various subtle influences and helps us to remai=
+n as functional entities, can get "ruptured" due to various reasons, high s=
+tress, or unconventional lifestyles, trauma etc. That can allow free assess=
+ of various entities inside the mind and they have chances of causing serio=
+us havoc. Since all these are very complex and various possiblities are the=
+re, it is not possible to list down every option. Moreover, even if such a =
+diagnosis is correctly
+ done, very few can have the right knowledge to rect=
+ify the situation. Many who claim they can do so, are often doing nothing m=
+ore than an intelligent guess work. Sometimes it will have results, sometim=
+es not.<WBR><WBR>For all these to be achieved, the starting point is a soun=
+d mind in a sound body, as the ancient Greeks used to say - <SPAN class=3Dy=
+iv2144221678st>Mens sana in corpore sano.</SPAN><WBR><WBR>-Regards<WBR>&nbs=
+p;Rajarshi <WBR>
+<DIV><BR></DIV>
+<DIV><I><B>
+<DIV class=3Dyiv2144221678MsoN=
+ormal><B><SPAN style=3D"FONT-SIZE: 16px" class=3Dyiv2144221678Apple-style-s=
+pan><B><SPAN style=3D"COLOR: rgb(153,153,153)" class=3Dyiv2144221678Apple-s=
+tyle-span></SPAN></B></SPAN></B><SPAN style=3D"FONT-FAMILY: times new roman=
+, new york, times, serif" class=3Dyiv2144221678yui_3_2_0_2_134243527249950>=
+awaktam wyaktimApannam manyantE mAmabuddhayah |</SPAN><WBR><B><SPAN style=
+=3D"FONT-FAMILY: Verdana; COLOR: navy; FONT-SIZE: 10pt" class=3D"yiv2144221=
+678yui_3_2_0_2_134243506227946 yiv2144221678yui_3_2_0_2_134243527249952 yiv=
+2144221678yui_3_7_2_17_1362045432997_73"><FONT color=3D#000000 face=3D"Time=
+s New Roman">
+<DIV>
+<DIV>param bhAwamajAnanto mamAwyayamanuttamam ||[7:24]<=
+/DIV></DIV></FONT></SPAN></B></DIV></B></I></DIV>
+<DIV><BR></DIV>
+<DIV styl=
+e=3D"FONT-FAMILY: Courier New, courier, monaco, monospace, sans-serif; FONT=
+-SIZE: 12pt">
+<DIV style=3D"FONT-FAMILY: times new roman, new york, times, =
+serif; FONT-SIZE: 12pt">
+<DIV dir=3Dltr><FONT size=3D2 face=3DArial>
+<DIV s=
+tyle=3D"BORDER-BOTTOM: #ccc 1px solid; BORDER-LEFT: #ccc 1px solid; PADDING=
+-BOTTOM: 0px; LINE-HEIGHT: 0; MARGIN: 5px 0px; PADDING-LEFT: 0px; PADDING-R=
+IGHT: 0px; HEIGHT: 0px; FONT-SIZE: 0px; BORDER-TOP: #ccc 1px solid; BORDER-=
+RIGHT: #ccc 1px solid; PADDING-TOP: 0px" class=3Dhr contentEditable=3Dfalse=
+ readonly=3D"true"></DIV><B><SPAN style=3D"FONT-WEIGHT: bold">From:</SPAN><=
+/B> sunrise_1080 <sunrise_1080@...> <BR><B><SPAN style=3D"FON=
+T-WEIGHT: bold">To:</SPAN></B> vedic-wisdom@yahoogroups.com <BR><B><SPAN st=
+yle=3D"FONT-WEIGHT: bold">Sent:</SPAN></B> Thursday, 28 February 2013 1:50 =
+PM<BR><B><SPAN style=3D"FONT-WEIGHT: bold">Subject:</SPAN></B> [vedic-wisdo=
+m] Kundalini syndrome<BR></FONT></DIV><WBR>
+<DIV id=3Dyiv2144221678>
+<DIV><=
+SPAN> </SPAN> 
+<DIV id=3Dyiv2144221678ygrp-text>
+<DIV>Dear all,<WBR><W=
+BR>Just wanted to warn people of kundalini syndrome based on my recent expe=
+rience of a patient of mine.<WBR><WBR>I am doing a psychiatry job at presen=
+t, and have been involved in the care of someone who seems to think she has=
+ had a spontaneous awakening of their kundalini since childhood. This has i=
+nvolved out-of-body experiences and surges of energy in the body. She is no=
+t of Indian origin and had never heard of kundalini until her symptoms star=
+ted and she searched for an explanation. We have not been able to find anyt=
+hing physically wrong with her (all tests normal)- so it might be that this=
+ is due to deranged kundalini. Many people we call mentally ill describe th=
+emselves as having a spiritual crisis, or unwanted spontaneous kundalini aw=
+akening- this has triggered interest and research into this topic in mainst=
+ream psychiatry. Unfortunately these patients are not well-understood by we=
+stern medicine, and as we have no treatments
+ for deranged kundalini, we st=
+ruggle to help them.<WBR><WBR>Many yogis try to forcibly waken the kundalin=
+i. My experience with this lady confirmed my feeling that kundalini should =
+not be forcibly wakened. This woman wants to kill herself at times because =
+the suffering from the deranged energy is so bad. She feels it will consume=
+ her, and it is something she cannot escape from.<WBR><WBR>I wondered what =
+solution there could be to her problem. The logical one was to pray to the =
+Divine Mother, who manifests as the kundalini to relieve the suffering of t=
+his woman- and either cure her, or give her the strength to bear this. May =
+I request that the good samaritans among you pray for her, and for others l=
+ike her (whom we may not know of)- their suffering really is pitiable. <WBR=
+><WBR>And let us be careful in our sadhana so as not to end up in this situ=
+ation ourselves. Perhaps this is why the bhakti marga is the safest. It is =
+perhaps safest to say "let me be your
+ instrument" and leave the kundalini =
+rising bit to God's will.<WBR><WBR>Om Dum Durgayai Namaha<WBR><WBR>Aparna <=
+WBR><WBR></DIV></DIV></DIV></DIV><WBR><WBR></DIV></DIV></DIV></DIV></DIV></=
+DIV><WBR><WBR></DIV></DIV></BLOCKQUOTE></div></div></body></html>
+--1082104826-1243162743-1362049500=:92377--
+
+

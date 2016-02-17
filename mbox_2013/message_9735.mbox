@@ -1,0 +1,376 @@
+From rsanjay04@...  Wed Feb 17 11:10:43 2016
+Return-Path: <rsanjay04@...>
+X-Sender: rsanjay04@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 26527 invoked by uid 102); 25 Sep 2013 21:47:17 -0000
+X-Received: from unknown (HELO mtaq2.grp.bf1.yahoo.com) (10.193.84.33)
+  by m11.grp.bf1.yahoo.com with SMTP; 25 Sep 2013 21:47:17 -0000
+X-Received: (qmail 26566 invoked from network); 25 Sep 2013 21:47:17 -0000
+X-Received: from unknown (HELO nm25-vm1.bullet.mail.bf1.yahoo.com) (98.139.212.155)
+  by mtaq2.grp.bf1.yahoo.com with SMTP; 25 Sep 2013 21:47:17 -0000
+X-Received: from [66.196.81.174] by nm25.bullet.mail.bf1.yahoo.com with NNFMP; 25 Sep 2013 21:47:17 -0000
+X-Received: from [98.139.212.207] by tm20.bullet.mail.bf1.yahoo.com with NNFMP; 25 Sep 2013 21:47:17 -0000
+X-Received: from [127.0.0.1] by omp1016.mail.bf1.yahoo.com with NNFMP; 25 Sep 2013 21:47:17 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 626602.46591.bm@...
+X-Received: (qmail 76836 invoked by uid 60001); 25 Sep 2013 21:47:16 -0000
+X-YMail-OSG: sSxl2qoVM1mqKjqj0qdZ772qqYJxvb1iNJp.bfnLoOcvVKV
+ vQgLgLZtzTBOyPtxNz9UOPkfJAo3NEehQXpAcMpgc1XvhXpVO607BZ9blLKI
+ H8oCqlhcAOlAse4G1K7z.HNcwb6dj9Dni1HkgAhDUUGxaSZOnKb2xAZii3W8
+ i16op7qAAdqzDkFDaDLjqA.DJ.7mzV..CIH1qTEBYtLm8PsAW1bZYcNyVH1q
+ aSFClUq79KYLXzugdRpLnK2k3sM7SwjwJZ1zN9jYBGOxDkv4VJj8cJ.1wHOn
+ fZE8yc6DJFCtmHUhdSChpWnEWS6KNkojUTTXfz8dXdDGOVqM5r61DN5fZuLv
+ K_c8h53ix9QirO1LITOJ.HIXu5nmz9TCkY9FcTNMinMHRjv2DMTINUtOSyLu
+ 90GSMBLS8BIqwepjXrsMSVpQJ_gF0u38ms0h_hRRhaF_GsAK.YBlu2eqgbhV
+ q.TV2QVKrvutdYA6Qlb4sGXjnupf2up8H3poiwROXi186zIlLefJYxT9DQ1y
+ LL5VmeCUl6dNvNd4t4WJ_055SMowqGTH4kwug8dO6ZrmLIvC6IDHR6.hm3CB
+ 5ZVLQRL_95fJ2B16qBQqP8rRJ2N2B5Pm1g0SSSazvudHdJ2_bYH5yP34yXTH
+ oKogiuNbSonGPO.ukt8_hwdYD8lCJhtSI1yptq8na1iAUV88hVOymM4a1LdY
+ doP7S689wixeIlLkB8JSlIYjAcKbbDextJ24Qz0okMCXMFDwlXybsC8lgpYF
+ rfdUa8QD_bVk.65CV4GSl6DL_Wdc20KNYPPRdpc7f28uhP5h.PLEEOqat36M
+ qJJFdMPivcjnNhmZ6W5j40Sj6idPVqWPzSeY6apl8FIS8EnRpVfyxp_PBAV6
+ je5cInYnBIblOSjEhYKTtTYpemkFG9kMiBtFHTNiRbASe6IPsGwe7zChXOdc
+ le761k8xx7O8QCEVNbQ0wg1qBCw7JM.g7ZRyNWn0MrBBDFR4VovzivAuBZyG
+ CyD2tYBCvW0OqYLIjJWUJapBUmLU_9Vjf4ZSMKuKOXTRPOooSQ8gJwBllFXk
+ auD0TzAy02tQV5.VYkhi2c2pq8ovuxOHuMhw_GChveujKljuroiTmVFa6ES7
+ kJB.IaW6IB_iDfT1pbx_G.wzDKHsk370hREbB3nKSOFmATKCv4U2xAQ.3QqR
+ Y5ssjR3xbBQ8qMwSVJzGbOHi6JdqGqt4h.qRABGX0cIEFp1NXvm1nsx7aUwc
+ SZhIgEjavW8j0TTBX0vg9c.1pegqOe2F_FVsaYIU.mKj0kLTMXkOMhscqK6h
+ GBdTKVKqMfLCnCWEh0J.TKO3P7r6AS3W8OH.OeleKz66lu_WoL_9p8FgPnlV
+ 3552QLaPz57h0cnry3AAuxwxWjQMr5fd_PsosfbIiX9mJ9zTszDV5hJ.u8Hg
+ wovoF3hfSsFGVEsIypog_HHSa4HK2SPY9uaKzuifbIqcUqnIs_naUfSRBjpC
+ yimMI_a5XLs8YMgh69lAX_ztHOB.ZJSV160TOKNrf3uHgzdycorhcDj0I8ez
+ _OwBwWQZGw1a2WS11cYvsGA0cxQvapUEkGjfHTrOcy6qzHZkla3BLcLjsSID
+ lNPKbtbKKnc8tIrmG6iAyBUGBesksZlaYN.6SCeN9Ltl7Hht8VZ2Yj.EkzZr
+ blh4M247dTZcrcwZ5mHZci7hC_8iUJ2FalNR5aP3NuWKYuHt7KKYwP3Jf82z
+ dHAm4kbaASScoXc8aNGhGsixAzTk04AmvJwxBxGs6jA.OStjSK.wan2rt3kO
+ w1h22RrYuZaxsTQsQThPPJjHyeF1d1hPFG5rT3q7C4oGJ1GSlQLJrbzLX9OM
+ 5y9M3JsnNIVvUTY9Y4wOJ9LhREWF6csxEaNuo0aFF_EYytEcmzGrqzsjaMH7
+ zie2CdWtOeW7ATldGAWuoN0FYa5ZWYmhRXpYo4n10sFU-
+X-Received: from [71.77.78.45] by web124901.mail.ne1.yahoo.com via HTTP; Wed, 25 Sep 2013 14:47:16 PDT
+X-Rocket-MIMEInfo: 002.001,QXl1cnZlZGEgwqByZWNvbW1lbmRzIGJhc2ljIGtpdGNoYWRpIG9yIHBvbmdhbCAoYm90aCBhcmUgbWFkZSBmcm9tIHJpY2UvbW9vbmcgZGFsL2plZXJhL2doZWUpIGZvciBiYWxhbmNpbmcgdGhlIHRocmVlIGRvc2hhcy4gQSA3IGRheSByZWdpbWVuIHdvcmtzIHdvbmRlcnMgZm9yIGludGVybmFsIGNsZWFuc2luZy7CoAoKTWFueSB0ZW1wbGVzIMKgb2ZmZXIgc29tZSB2YXJpYXRpb24gb2YgdGhpcyByZWNpcGUgYXMgIm5haXZlZHlhIiB0byB0aGUgTG9yZC7CoAoKU2FuamF5CgoKX19fX19fX19fX19fX19fX18BMAEBAQE-
+X-Mailer: YahooMailWebService/0.8.157.561
+References: <1379781249.63609.YahooMailNeo@...> <1380144465.28652.YahooMailNeo@...>
+Message-ID: <1380145636.69292.YahooMailNeo@...>
+Date: Wed, 25 Sep 2013 14:47:16 -0700 (PDT)
+To: "vedic-wisdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com>
+In-Reply-To: <1380144465.28652.YahooMailNeo@...>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="-929011800-1132467448-1380145636=:69292"
+X-Originating-IP: 10.193.84.33
+X-eGroups-Msg-Info: 1:12:0:0:0
+From: Sanjay Rao <rsanjay04@...>
+Reply-To: Sanjay Rao <rsanjay04@...>
+Subject: Re: [vedic-wisdom] Re: Rudraksha Related Query.
+X-Yahoo-Group-Post: member; u=188840008; y=539Xdq7lBqmGCO6rYqHUoniQPgktj8DIq9njmmmOKDjUYJkg
+X-Yahoo-Profile: rsanjay04
+
+
+---929011800-1132467448-1380145636=:69292
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Ayurveda =C2=A0recommends basic kitchadi or pongal (both are made from rice=
+/moong dal/jeera/ghee) for balancing the three doshas. A 7 day regimen work=
+s wonders for internal cleansing.=C2=A0
+
+Many temples =C2=A0offer some vari=
+ation of this recipe as "naivedya" to the Lord.=C2=A0
+
+Sanjay
+
+
+___________=
+_____________________
+ From: Priya M <prm7782@...>
+To: "vedic-wisdom@=
+yahoogroups.com" <vedic-wisdom@yahoogroups.com> 
+Sent: Wednesday, September=
+ 25, 2013 5:27 PM
+Subject: Re: [vedic-wisdom] Re: Rudraksha Related Query.
+=
+ 
+
+
+=C2=A0 
+Namaste=C2=A0Shiva Dasa ji, =C2=A0
+
+" To understand this you ma=
+y try this food for 40days - boiled rice and vegetables (not onions or garl=
+ic but dry ginger can be used) and ghee. You may witness how the mind disin=
+tegrates to reveal the maaya that you are referring to. But be honest with =
+the self - its the key to get surprised of our own personality :) "=C2=A0
+
+=
+The above sounds interesting. Can you please elaborate a bit more? Like can=
+ we eat any milk products and any other dos and don't...
+
+Thanks in advance=
+,
+Priya
+
+
+
+________________________________
+ From: Shiva Dasa <shoonyakaya@=
+yahoo.com>
+To: "vedic-wisdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com=
+> 
+Sent: Saturday, September 21, 2013 12:34 PM
+Subject: [vedic-wisdom] Re: =
+Rudraksha Related Query.
+ 
+
+
+=C2=A0 
+Hello Kannanji :)
+
+Nice example about =
+the 7th to 10th grade students.
+My place is situated in the central plains =
+of Karnataka state on the banks of River Tungabhadra. It is a place where m=
+any mystics lived once. Also continue to guide people through personal chan=
+neling, poems and their life stories. One of the mystics (also i deem him t=
+o be my first manasik guru - Shishunala Shareefa) has once said - "why to w=
+alk when you have wings to fly?"=C2=A0
+The spiritual path is so treacherous=
+ that sometimes i feel graduated and at times i am in kindergarten. It is u=
+seful if one is rigid enough to embrace tough standards for himself and at =
+the same time also flexible enough to transcend it to embrace a simpler app=
+roach.=C2=A0
+Theoretically it is nice to feel everything is maaya and every=
+thing is blissful - this attitude sometimes manifests things to suit one's =
+beliefs. Psychologically it leads to attachment to pleasantries of life so =
+much so that just the absence of it gives rise to miseries of mind. To unde=
+rstand this you may try this food for 40days - boiled rice and vegetables (=
+not onions or garlic but dry ginger can be used) and ghee. You may witness =
+how the mind disintegrates to reveal the maaya that you are referring to. B=
+ut be honest with the self - its the key to get surprised of our own person=
+ality :)
+I do not claim to understand in toto the methods i present here, n=
+onetheless i have personally experimented them and discuss the results for =
+want of further exposition on them.
+Vaacha-jaala? i thought we were having =
+a conversation my friend :)
+
+The path through which one falls can also rise=
+ :)
+
+:) :)=C2=A0
+
+
+ 
+---929011800-1132467448-1380145636=:69292
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"color:#000; background-color:#fff; font-family:ti=
+mes new roman, new york, times, serif;font-size:10pt"><div><span>Ayurveda &=
+nbsp;recommends basic kitchadi or pongal (both are made from rice/moong dal=
+/jeera/ghee) for balancing the three doshas. A 7 day regimen works wonders =
+for internal cleansing. </span></div><div style=3D"color: rgb(0, 0, 0)=
+; font-size: 13.600000381469727px; font-family: 'times new roman', 'new yor=
+k', times, serif; background-color: transparent; font-style: normal;"><span=
+><br></span></div><div style=3D"color: rgb(0, 0, 0); font-size: 13.60000038=
+1469727px; font-family: 'times new roman', 'new york', times, serif; backgr=
+ound-color: transparent; font-style: normal;"><span>Many temples  offe=
+r some variation of this recipe as "naivedya" to the Lord. </span></di=
+v><div style=3D"color: rgb(0, 0, 0); font-size: 13.600000381469727px; font-=
+family: 'times new roman', 'new york', times, serif; background-color:
+ tra=
+nsparent; font-style: normal;"><span><br></span></div><div style=3D"color: =
+rgb(0, 0, 0); font-size: 13.600000381469727px; font-family: 'times new roma=
+n', 'new york', times, serif; background-color: transparent; font-style: no=
+rmal;"><span>Sanjay</span></div><div><br></div>  <div style=3D"font-family:=
+ 'times new roman', 'new york', times, serif; font-size: 10pt;"> <div style=
+=3D"font-family: 'times new roman', 'new york', times, serif; font-size: 12=
+pt;"> <div dir=3D"ltr"> <hr size=3D"1">  <font size=3D"2" face=3D"Arial"> <=
+b><span style=3D"font-weight:bold;">From:</span></b> Priya M <prm7782@ya=
+hoo.com><br> <b><span style=3D"font-weight: bold;">To:</span></b> "vedic=
+-wisdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com> <br> <b><span=
+ style=3D"font-weight: bold;">Sent:</span></b> Wednesday, September 25, 201=
+3 5:27 PM<br> <b><span style=3D"font-weight: bold;">Subject:</span></b> Re:=
+ [vedic-wisdom] Re: Rudraksha Related Query.<br> </font> </div> <div
+ class=
+=3D"y_msg_container"><br>
+<div id=3D"yiv896053544">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div>
+<spa=
+n style=3D"display:none;"> </span>
+
+
+
+    <div id=3D"yiv896053544ygrp-=
+text">
+      
+      
+      <div style=3D"color: rgb(0, 0, 0); background-co=
+lor: rgb(255, 255, 255); font-family: arial, helvetica, sans-serif; font-si=
+ze: 12pt;"><div><span style=3D"font-size: 12pt; font-family: arial, helveti=
+ca, sans-serif;"><span style=3D"font-family: 'times new roman', 'new york',=
+ times, serif;">Namaste </span></span><span style=3D"font-family: 'tim=
+es new roman', 'new york', times, serif;">Shiva Dasa ji</span><span style=
+=3D"font-size: 12pt; font-family: 'times new roman', 'new york', times, ser=
+if;">,  </span></div><div style=3D"font-size: 16px; font-family: 'time=
+s new roman', 'new york', times, serif; color: rgb(0, 0, 0); background-col=
+or: transparent; font-style: normal;"><span><span style=3D"font-family: 'ti=
+mes new roman', 'new york', times, serif;"><br></span></span></div><div sty=
+le=3D"font-size: 16px; font-family: 'times new roman', 'new york', times, s=
+erif; color: rgb(0, 0, 0); background-color: transparent; font-style: norma=
+l;"><span><span
+ style=3D"font-family: 'times new roman', 'new york', times=
+, serif;">" To understand this you may try this food for 40days - boiled ri=
+ce and vegetables (not onions or garlic but dry ginger can be used) and ghe=
+e. You may witness how the mind disintegrates to reveal the maaya that you =
+are referring to. But be honest with the self - its the key to get surprise=
+d of our own personality :) " </span></span></div><div style=3D"font-s=
+ize: 16px; font-family: arial, helvetica, sans-serif; color: rgb(0, 0, 0); =
+background-color: transparent; font-style: normal;"><span><span style=3D"fo=
+nt-family: 'times new roman', 'new york', times, serif;"><br></span></span>=
+</div><div style=3D"font-size: 16px; font-family: 'times new roman', 'new y=
+ork', times, serif; color: rgb(0, 0, 0); background-color: transparent; fon=
+t-style: normal;"><span><span style=3D"font-family: 'times new roman', 'new=
+ york', times, serif;">The above sounds interesting. Can you please elabora=
+te a bit more? Like
+ can we eat any milk products and any other dos and don=
+'t...</span></span></div><div style=3D"font-size: 16px; font-family: 'times=
+ new roman', 'new york', times, serif; color: rgb(0, 0, 0); background-colo=
+r: transparent; font-style: normal;"><span><span style=3D"font-family: 'tim=
+es new roman', 'new york', times, serif;"><br></span></span></div><div styl=
+e=3D"font-size: 16px; font-family: 'times new roman', 'new york', times, se=
+rif; color: rgb(0, 0, 0); background-color: transparent; font-style: normal=
+;"><span><span style=3D"font-family: 'times new roman', 'new york', times, =
+serif;">Thanks in advance,</span></span></div><div style=3D"font-size: 16px=
+; font-family: 'times new roman', 'new york', times, serif; color: rgb(0, 0=
+, 0); background-color: transparent; font-style: normal;"><span style=3D"ba=
+ckground-color:transparent;">Priya</span><br></div><div style=3D"font-size:=
+ 12pt; font-family: arial, helvetica, sans-serif;"><br></div>  <div style=
+=3D"font-size: 12pt;
+ font-family: arial, helvetica, sans-serif;"> <div sty=
+le=3D"font-family: 'times new roman', 'new york', times, serif; font-size: =
+12pt;"> <div dir=3D"ltr"> <hr size=3D"1">  <font size=3D"2" face=3D"Arial">=
+ <b><span style=3D"font-weight:bold;">From:</span></b> Shiva Dasa <shoon=
+yakaya@...><br> <b><span style=3D"font-weight:bold;">To:</span></b=
+> "vedic-wisdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com> <br> =
+<b><span style=3D"font-weight:bold;">Sent:</span></b> Saturday, September 2=
+1, 2013 12:34 PM<br> <b><span style=3D"font-weight:bold;">Subject:</span></=
+b> [vedic-wisdom] Re: Rudraksha Related Query.<br> </font> </div> <div clas=
+s=3D"yiv896053544y_msg_container"><br><div id=3D"yiv896053544">
+
+
+
+
+
+
+
+
+
+
+
+=
+
+
+<div>
+<span> </span>
+
+
+
+    <div id=3D"yiv896053544ygrp-text">
+     =
+ 
+      
+      <div style=3D"color: rgb(0, 0, 0); background-color: rgb(255=
+, 255, 255); font-family: 'times new roman', 'new york', times, serif; font=
+-size: 12pt;"><div>Hello Kannanji :)</div><div><br></div><div style=3D"colo=
+r: rgb(0, 0, 0); font-size: 16px; font-family: 'times new roman', 'new york=
+', times, serif; background-color: transparent; font-style: normal;">Nice e=
+xample about the 7th to 10th grade students.</div><div style=3D"color: rgb(=
+0, 0, 0); font-size: 16px; font-family: 'times new roman', 'new york', time=
+s, serif; background-color: transparent; font-style: normal;">My place is s=
+ituated in the central plains of Karnataka state on the banks of River Tung=
+abhadra. It is a place where many mystics lived once. Also continue to guid=
+e people through personal channeling, poems and their life stories. One of =
+the mystics (also i deem him to be my first manasik guru - Shishunala Share=
+efa) has once said - "why to walk when you have wings to fly?" </div><=
+div
+ style=3D"color: rgb(0, 0, 0); font-size: 16px; font-family: 'times new=
+ roman', 'new york', times, serif; background-color: transparent; font-styl=
+e: normal;">The spiritual path is so treacherous that sometimes i feel grad=
+uated and at times i am in kindergarten. It is useful if one is rigid enoug=
+h to embrace tough standards for himself and at the same time also flexible=
+ enough to transcend it to embrace a simpler approach. </div><div styl=
+e=3D"color: rgb(0, 0, 0); font-size: 16px; font-family: 'times new roman', =
+'new york', times, serif; background-color: transparent; font-style: normal=
+;">Theoretically it is nice to feel everything is maaya and everything is b=
+lissful - this attitude sometimes manifests things to suit one's beliefs. P=
+sychologically it leads to attachment to pleasantries of life so much so th=
+at just the absence of it gives rise to miseries of mind. To understand thi=
+s you may try this food for 40days - boiled rice and vegetables (not onions=
+
+ or garlic but dry ginger can
+ be used) and ghee. You may witness how the =
+mind disintegrates to reveal the maaya that you are referring to. But be ho=
+nest with the self - its the key to get surprised of our own personality :)=
+</div><div style=3D"color: rgb(0, 0, 0); font-size: 16px; font-family: 'tim=
+es new roman', 'new york', times, serif; background-color: transparent; fon=
+t-style: normal;">I do not claim to understand in toto the methods i presen=
+t here, nonetheless i have personally experimented them and discuss the res=
+ults for want of further exposition on them.</div><div style=3D"color: rgb(=
+0, 0, 0); font-size: 16px; font-family: 'times new roman', 'new york', time=
+s, serif; background-color: transparent; font-style: normal;">Vaacha-jaala?=
+ i thought we were having a conversation my friend :)</div><div style=3D"co=
+lor: rgb(0, 0, 0); font-size: 16px; font-family: 'times new roman', 'new yo=
+rk', times, serif; background-color: transparent; font-style: normal;"><br>=
+</div><div style=3D"color:
+ rgb(0, 0, 0); font-size: 16px; font-family: 'ti=
+mes new roman', 'new york', times, serif; background-color: transparent; fo=
+nt-style: normal;">The path through which one falls can also rise :)</div><=
+div style=3D"color: rgb(0, 0, 0); font-size: 16px; font-family: 'times new =
+roman', 'new york', times, serif; background-color: transparent; font-style=
+: normal;"><br></div><div style=3D"color: rgb(0, 0, 0); font-size: 16px; fo=
+nt-family: 'times new roman', 'new york', times, serif; background-color: t=
+ransparent; font-style: normal;">:) :) </div></div>
+
+    </div>
+     
+=
+
+
+
+</div>
+
+
+
+
+
+</div><br><br></div> </div> </div>  </div>
+
+    </div>
+     =
+
+
+
+
+</div>
+
+
+
+
+
+</div><br><br></div> </div> </div>  </div></body></html>
+---929011800-1132467448-1380145636=:69292--
+
+

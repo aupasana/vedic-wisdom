@@ -1,0 +1,424 @@
+From kaushal_bhilai@...  Wed Feb 17 11:10:26 2016
+Return-Path: <kaushal_bhilai@...>
+X-Sender: kaushal_bhilai@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 4774 invoked from network); 5 Jan 2013 18:31:45 -0000
+X-Received: from unknown (98.137.35.162)
+  by m5.grp.sp2.yahoo.com with QMQP; 5 Jan 2013 18:31:45 -0000
+X-Received: from unknown (HELO nm30-vm8.bullet.mail.gq1.yahoo.com) (98.136.216.199)
+  by mta6.grp.sp2.yahoo.com with SMTP; 5 Jan 2013 18:31:45 -0000
+X-Received: from [98.137.12.175] by nm30.bullet.mail.gq1.yahoo.com with NNFMP; 05 Jan 2013 18:31:44 -0000
+X-Received: from [98.137.12.204] by tm14.bullet.mail.gq1.yahoo.com with NNFMP; 05 Jan 2013 18:31:44 -0000
+X-Received: from [127.0.0.1] by omp1012.mail.gq1.yahoo.com with NNFMP; 05 Jan 2013 18:31:44 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 660088.4127.bm@...
+X-Received: (qmail 68646 invoked by uid 60001); 5 Jan 2013 18:31:44 -0000
+X-YMail-OSG: 9qnPPjIVM1lERlLfGm6qDGKcrGJkmC40FRWzxnXy1EsfA1J
+ YorNnjs_5ZefqubAcLErYHAfPlZN3gmbtYtLfknZsXaKJcrM5K8rzkHAkC9.
+ 2yOOqlH3A8MnrINqkf_LIC5Wqn8hwLePgjyKT2LEetYVdYrzB5I0rx9yrMk2
+ ihDpH38LZb0XTWTme5FV4fS1IT5T19q5f.1_X6M8K5_9KKf9p8pcYrY4WTSs
+ Iwtx_56v_Qrj3jFivt6wJFMcnkaYluIiVVioMfFSMfbKO4Rp6rQ.on3cx.1O
+ BecYWXBXqwtOudHNusTlwI9oS8LTjOTnfujJFl_967zyaubv3c7aYzr8z3I6
+ HCK1skN6prPgtSNH5uNj5kEQPBqpg39swt.XSjPLBRL90BctAKzdnyoNBSP4
+ KEi4fxbSWqImESB_RXy_h8MN91y9E9g_LhNG04OSeeAViR8cB6Ak4iMiFyYo
+ dKg3xWmMYmFzKyDo0QQ_KD9ZAG4qn9IBdjnDHG_v8kgvqv9uCYs7X4j3PFvg
+ LE6jzqioAtyaYQEq.aSpFLM.p79VFrxZwapmjLC9qMgzqdM4HnEa9VZEx65u
+ rNXr71NJuBchb7asIIF24tYpft.pr.wN6cYFHeHLxTKZoRFo2C25JUdvCGkd
+ eDAolHOxHf9uHqeeYdtIjjNt6kr9gCXWGGWljuIlwAhGa4x8A6aaHEKeXLoY
+ BRxnoXJme1bQnqGet2_.NeBkl_Rm8LFRu7H7BjYJUezlbORsHtHjWQ8mRWhs
+ 3xQc5V0w7C0tj8q2reQXx.xANqxYiJARiN90LhDuGUGohEUDNXtLWImny3l7
+ EqnINYthdmfhmgne8uRULTpWeZqnAEd5PQJXPUEEcQvnx7Nbi6D93BQ7DxrS
+ jCoYxZ8Vpm5XQuwQgGzISbEEAmmvwvZoZeT9n3fs35cScBaLK57eSU_X121n
+ HvrEdcm2EJXBT3cfAkA7M_KDZEAE8vh7L1ThE9M.pc8rS
+X-Received: from [14.97.60.255] by web164601.mail.gq1.yahoo.com via HTTP; Sat, 05 Jan 2013 10:31:44 PST
+X-Rocket-MIMEInfo: 001.001,amFpIGd1cnVkZXYKwqAKS2F1c2hhbCBQcmFzYWQgU2hhcm1hbEVuZ3IuLSBJbnNwZWN0aW9ubFJJVEVTIMKgTHRkLgpNb2JpbGUgOiBOYWdwdXIgKCBtYWhhcmFzaHRyYSk6IDA3MzA0NjA2NzI1IGwgMDk0MjI5NzkxNDMgCkFobWVkYWJhZCAoR3VqYXJhdCk6IDA5NTc0NDI0MDc5LChiaGlsYWkpIGNoYXR0aXNoZ2FyaCA5MDk4MTUwNzI4LMKgIAp3d3cucml0ZXMuY29tCmwgR28gR3JlZW4gbCBUaGUgRnV0dXJlIHdpbGwgVGhhbmsgWW91IAoKCgo.X19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX18KPiABMAEBAQE-
+X-Mailer: YahooMailWebService/0.8.129.483
+References: <32c94b1b.2d0d38.13be817b701.Webtop.44@...>
+Message-ID: <1357410704.68273.YahooMailNeo@...>
+Date: Sat, 5 Jan 2013 10:31:44 -0800 (PST)
+To: "vedic-wisdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com>
+In-Reply-To: <32c94b1b.2d0d38.13be817b701.Webtop.44@...>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="-432529009-376433932-1357410704=:68273"
+X-Originating-IP: 98.136.216.199
+X-eGroups-Msg-Info: 1:12:0:0:0
+From: Kaushal Sharma <kaushal_bhilai@...>
+Reply-To: Kaushal Sharma <kaushal_bhilai@...>
+Subject: Re: [vedic-wisdom] Re: Reciting Vishnusahasranamam
+X-Yahoo-Group-Post: member; u=393647650; y=tjWKUesWpBFNr3mrA2u3YtwNAjYTaoXW36r96rtARChWD2FLO-S1vyI
+X-Yahoo-Profile: kaushal_bhilai
+
+
+---432529009-376433932-1357410704=:68273
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+jai gurudev
+=C2=A0
+Kaushal Prasad SharmalEngr.- InspectionlRITES =C2=A0Ltd.=
+
+Mobile : Nagpur ( maharashtra): 07304606725 l 09422979143 
+Ahmedabad (Guja=
+rat): 09574424079,(bhilai) chattishgarh 9098150728,=C2=A0 
+www.rites.com
+l =
+Go Green l The Future will Thank You 
+
+
+
+>________________________________
+=
+> From: Narasimha PVR Rao <pvr@...>
+>To: vedic-wisdom@yahoogroups.c=
+om 
+>Sent: Saturday, 29 December 2012 11:16 AM
+>Subject: [vedic-wisdom] Re:=
+ Reciting Vishnusahasranamam
+> 
+>
+>=C2=A0 
+>Namaste, 
+>=C2=A0 
+>First, on R=
+anga's question: 
+>=C2=A0 
+>There is no single "effective" way. Whether one=
+ is chanting oneself or listening to a person/cassette/CD/MP3, is not the p=
+rimary factor. The primary factor is how focused one's mind is on it. The g=
+oal of chanting a stotra or a mantra is to eliminate or atleast limit other=
+ thoughts and focus the mind on it. That can happen with chanting as well a=
+s listening. 
+>=C2=A0 
+>For example, I may be chanting Vishnu sahasra nama =
+stotra and yet my mind may be wandering everywhere and focusing on all kind=
+ of dirty thoughts. Another person listening to me while doing some chores =
+may be focusing a good part of their mental attention on the prayer and con=
+templating each word and its meaning and contemplating the qualities of Lor=
+d. In that case, that listener will get a lot more benefit from it than I w=
+ill! 
+>=C2=A0 
+>Each deity has some qualities. Focusing the mind on a deity=
+ and his/her mantra increases those qualities, over time, in one's own mind=
+ and in one's surroundings. If a lot of sadhakas with good concentration wo=
+rship Chandi in this world, there may be a lot of violent outrage and fierc=
+e fight against adharma in this world. If a lot of sadhakas with good conce=
+ntration worship Vishnu, there may be an upsurge of calm, self-assured and =
+confident sattwa in the fight for establishing dharma. These energies balan=
+ce each other. World is probably in a transition phase right now and worshi=
+ppers of Chandi are needed. But, soon, we will need a lot more people worsh=
+ipping Vishnu.
+>=C2=A0
+>By the way, good sadhakas worshipping Ganesha incre=
+ase the sense of stability and groundedness in the world.
+>=C2=A0
+>Second: =
+Anushtup is the metre with 8 syllables per line and 4 lines per verse. Whol=
+e Vishnu sahasra naama stotra is in anushtup metre. Traditionally, one spec=
+ific verse is said to be equivalent to reading all 1000 names:
+>=C2=A0
+>shr=
+IrAma rAma rAmeti. rame rAme manorame.
+>sahasra nAma tattulyaM. rAma nAma v=
+rAnane..
+>=C2=A0
+>Actually, this verse means that chanting "shrIrAma rAma r=
+Ama" mantra (known as Amrita mantra) is equivalent to chanting 1000 names.
+=
+>=C2=A0
+>However, don't take it as a shortcut. If one is lazy and unfocused=
+, chanting this verse even 100 times may do nothing. First, engage in some =
+regular practices to remove laziness, instill discipline and sincerity, and=
+ get a state of mind where you can focus well on god. THEN the above 7-lett=
+er mantra can be as effective as 1000 names.
+>=C2=A0
+>Best regards, 
+>Naras=
+imha 
+>-------- 
+>Astrology & Spirituality Resources: http://www.VedicAstro=
+loger.org 
+>-------- 
+>=C2=A0 
+>=C2=A0 
+>On Sat, Dec 29, 2012 at 6:26 AM, K=
+aushal_bhilai@... wrote: 
+>=C2=A0 
+>i have heared that vishnu sahastr=
+anaam can be recite by Anushtupchhand ? i think this will be shortest and m=
+antra form of vishnu sahastranaam ? please tell how can i get that anushtup=
+ chhand ? do u have? pl provide me ' thanx 
+>=C2=A0 
+>Sent from my iPhone 
+=
+>=C2=A0 
+>On 29-Dec-2012, at 4:19 PM, "Ranga Nambakam" < ranga_nambakam2000=
+@...> wrote: 
+>=C2=A0 
+>Is there a "proper" or a "correct" way to rec=
+ite Vishnusahasranamam? 
+>=C2=A0 
+>Some people play the CD while doing thei=
+r daily chores and others sit at a place and read aloud or silently in conc=
+entration as the CD plays. Yet others recite it from memory. 
+>=C2=A0 
+>Wha=
+t is the most "effective" way? 
+>=C2=A0 
+>Thanks 
+>Ranga 
+>=C2=A0 
+>--- In =
+vedic-wisdom@yahoogroups.com, Priya M <prm7782@...> wrote: 
+>> 
+>> Hi Priya=
+nk, how are you...thanks for saying this. 
+>>=C2=A0=C2=A0 
+>> A country(Ind=
+ia) which was ruled by Rama is now being ruled by not one by many Ravanas. =
+Many of us are lucky to be settled abroad...but heart inside pours out for =
+those innocent beings in India.=C2=A0 
+>> Least we all can do is chant VSS,=
+ atleast once a day... 
+>>=C2=A0=C2=A0 
+>> I also request PVR garu if you c=
+ould post some messages about the benefits of chanting VSS and encourage pe=
+ople to do more Vishnu homam for justice and peace to reign... 
+>> Also won=
+dering seeing the present situation do you see any premonitions for our cou=
+ntry in the coming years? 
+>>=C2=A0=C2=A0 
+>> Regards, 
+>> Priya=C2=A0 
+> 
+=
+>
+>
+---432529009-376433932-1357410704=:68273
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"color:#000; background-color:#fff; font-family:lu=
+cida console, sans-serif;font-size:14pt"><div><span>jai gurudev</span></div=
+><div></div><div> </div><div><b style=3D"font-family: 'bookman old sty=
+le', 'new york', times, serif;"><font><font style=3D"background-color:rgb(2=
+55, 255, 128);"></font></font></b><font style=3D"color: rgb(0, 0, 0); font-=
+family: 'bookman old style', 'new york', times, serif; font-style: italic; =
+background-color: rgb(255, 255, 255);"><font style=3D"background-color:rgb(=
+255, 255, 128);"><font face=3D"times new roman, new york, times, serif" siz=
+e=3D"1"></font></font></font></div><div style=3D"color:rgb(0, 0, 0);backgro=
+und-color:rgb(255, 255, 255);"><font style=3D"color: rgb(0, 0, 0); font-fam=
+ily: 'bookman old style', 'new york', times, serif; font-style: italic; bac=
+kground-color: rgb(255, 255, 255);"><font style=3D"background-color:rgb(255=
+, 255, 128);"><font face=3D"times new roman, new york, times, serif" size=
+=3D"1"><div
+ style=3D"margin:0in 0in 10pt;line-height:normal;font-weight:bo=
+ld;" class=3D"MsoNormal"><font size=3D"1"><span style=3D"color:rgb(0, 48, 9=
+6);font-size:12pt;">Kaushal Prasad Sharma</span><span style=3D"color:rgb(19=
+2, 0, 0);font-size:14pt;"> l</span><span style=3D"font-size:14pt;"> </span>=
+<span style=3D"color:rgb(0, 48, 96);font-size:12pt;">Engr.- Inspection</spa=
+n><span style=3D"color:rgb(192, 0, 0);font-size:14pt;"> l</span><span style=
+=3D"font-size:14pt;"> </span><span style=3D"color:rgb(0, 48, 96);font-size:=
+12pt;">RITES <span style=3D""> </span>Ltd.</span></font></div><div sty=
+le=3D"color:rgb(0, 0, 0);background-color:rgb(255, 255, 255);"><span style=
+=3D"color:rgb(0, 48, 96);font-size:12pt;"><font color=3D"#000000" face=3D"T=
+imes New Roman"><span><font><font color=3D"#80c0ff"><font size=3D"1"><font =
+color=3D"#8080ff">Mobile : Nagpur ( maharashtra): 07304606725 l <span style=
+=3D"background-color:rgb(192, 0, 0);">09422979143</span> <br>Ahmedabad (Guj=
+arat): 09574424079,(bhilai) chattishgarh
+ 9098150728,  </font></font><=
+/font></font></span></font></span><font color=3D"#000000" face=3D"Times New=
+ Roman"><font><font color=3D"#80c0ff"><font size=3D"1"><span style=3D"color=
+:rgb(0, 176, 80);"><font face=3D"Calibri"><span style=3D"font-weight:bold;"=
+></span></font></span></font></font></font></font><br><a rel=3D"nofollow" h=
+ref=3D"">www.rites.com</a><br><a rel=3D"nofollow" href=3D""><font style=3D"=
+color: rgb(0, 0, 0); font-family: 'bookman old style', 'new york', times, s=
+erif; font-style: italic; background-color: rgb(255, 255, 255);"><font styl=
+e=3D"background-color:rgb(255, 255, 128);"><font face=3D"times new roman, n=
+ew york, times, serif" size=3D"1"><font color=3D"#000000" face=3D"Times New=
+ Roman"><font><font color=3D"#80c0ff"><font size=3D"1"><span style=3D"color=
+:rgb(0, 176, 80);"><font face=3D"Calibri">l Go Green l The Future will Than=
+k You </font></span></font></font></font></font></font></font></font></a></=
+div></font></font></font></div><div><br><blockquote style=3D"border-left: 2=
+px
+ solid rgb(16, 16, 255); margin-left: 5px; margin-top: 5px; padding-left=
+: 5px;">  <div style=3D"font-family: 'lucida console', sans-serif; font-siz=
+e: 14pt;"> <div style=3D"font-family: 'times new roman', 'new york', times,=
+ serif; font-size: 12pt;"> <div dir=3D"ltr"> <font size=3D"2" face=3D"Arial=
+"> <hr size=3D"1">  <b><span style=3D"font-weight:bold;">From:</span></b> N=
+arasimha PVR Rao <pvr@...><br> <b><span style=3D"font-weight:=
+ bold;">To:</span></b> vedic-wisdom@yahoogroups.com <br> <b><span style=3D"=
+font-weight: bold;">Sent:</span></b> Saturday, 29 December 2012 11:16 AM<br=
+> <b><span style=3D"font-weight: bold;">Subject:</span></b> [vedic-wisdom] =
+Re: Reciting Vishnusahasranamam<br> </font> </div> <br>
+<div id=3D"yiv67070=
+7322">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div>
+<span style=3D"display:none;"> </span>
+
+
+
+  =
+  <div id=3D"yiv670707322ygrp-text">
+      
+      
+      <div align=3D"LEFT=
+"><font face=3D"Verdana" size=3D"2" color=3D"#000000">Namaste, </font></div=
+><div align=3D"LEFT"><font face=3D"Verdana" size=3D"2" color=3D"#000000">&n=
+bsp; </font></div><div align=3D"LEFT"><font face=3D"Verdana" size=3D"2" col=
+or=3D"#000000">First, on Ranga's question: </font></div><div align=3D"LEFT"=
+><font face=3D"Verdana" size=3D"2" color=3D"#000000">  </font></div><d=
+iv align=3D"LEFT"><font face=3D"Verdana" size=3D"2" color=3D"#000000">There=
+ is no single "effective" way. Whether one is chanting oneself or listening=
+ to a person/cassette/CD/MP3, is not the primary factor. The primary factor=
+ is how focused one's mind is on it. The goal of chanting a stotra or a man=
+tra is to eliminate or atleast limit other thoughts and focus the mind on i=
+t. That can happen with chanting as well as listening. </font></div><div al=
+ign=3D"LEFT"><font face=3D"Verdana" size=3D"2" color=3D"#000000">  </f=
+ont></div><div align=3D"LEFT"><font face=3D"Verdana" size=3D"2" color=3D"#0=
+00000">For example, I may
+ be chanting Vishnu sahasra nama stotra and yet m=
+y mind may be wandering everywhere and focusing on all kind of dirty though=
+ts. Another person listening to me while doing some chores may be focusing =
+a good part of their mental attention on the prayer and contemplating each =
+word and its meaning and contemplating the qualities of Lord. In that case,=
+ that listener will get a lot more benefit from it than I will! </font></di=
+v><div align=3D"LEFT"><font face=3D"Verdana" size=3D"2" color=3D"#000000">&=
+nbsp; </font></div><div align=3D"LEFT"><font face=3D"Verdana" size=3D"2" co=
+lor=3D"#000000">Each deity has some qualities. Focusing the mind on a deity=
+ and his/her mantra increases those qualities, over time, in one's own mind=
+ and in one's surroundings. If a lot of sadhakas with good concentration wo=
+rship Chandi in this world, there may be a lot of violent outrage and fierc=
+e fight against adharma in this world. If a lot of sadhakas with good conce=
+ntration worship Vishnu, there may
+ be an upsurge of calm, self-assured and=
+ confident sattwa in the fight for establishing dharma. These energies bala=
+nce each other. World is probably in a transition phase right now and worsh=
+ippers of Chandi are needed. But, soon, we will need a lot more people wors=
+hipping Vishnu.</font></div><div align=3D"LEFT"><font face=3D"Verdana" size=
+=3D"2" color=3D"#000000"> </font></div><div align=3D"LEFT"><font face=
+=3D"Verdana" size=3D"2" color=3D"#000000">By the way, good sadhakas worship=
+ping Ganesha increase the sense of stability and groundedness in the world.=
+</font></div><div align=3D"LEFT"><font face=3D"Verdana" size=3D"2" color=3D=
+"#000000"> </font></div><div align=3D"LEFT"><font face=3D"Verdana" siz=
+e=3D"2" color=3D"#000000">Second: Anushtup is the metre with 8 syllables pe=
+r line and 4 lines per verse. Whole Vishnu sahasra naama stotra is in anush=
+tup metre. Traditionally, one specific verse is said to be equivalent to re=
+ading all 1000 names:</font></div><div align=3D"LEFT"><font
+ face=3D"Verdan=
+a" size=3D"2" color=3D"#000000"> </font></div><div align=3D"LEFT"><fon=
+t face=3D"Verdana" size=3D"2" color=3D"#000000">shrIrAma rAma rAmeti. rame =
+rAme manorame.</font></div><div align=3D"LEFT"><font face=3D"Verdana" size=
+=3D"2" color=3D"#000000">sahasra nAma tattulyaM. rAma nAma vrAnane..</font>=
+</div><div align=3D"LEFT"><font face=3D"Verdana" size=3D"2" color=3D"#00000=
+0"> </font></div><div align=3D"LEFT"><font face=3D"Verdana" size=3D"2"=
+ color=3D"#000000">Actually, this verse means that chanting "shrIrAma rAma =
+rAma" mantra (known as Amrita mantra) is equivalent to chanting 1000 names.=
+</font></div><div align=3D"LEFT"><font face=3D"Verdana" size=3D"2" color=3D=
+"#000000"> </font></div><div align=3D"LEFT"><font face=3D"Verdana" siz=
+e=3D"2" color=3D"#000000">However, don't take it as a shortcut. If one is l=
+azy and unfocused, chanting this verse even 100 times may do nothing. First=
+, engage in some regular practices to remove laziness, instill discipline a=
+nd sincerity, and get a state of
+ mind where you can focus well on god. THE=
+N the above 7-letter mantra can be as effective as 1000 names.</font></div>=
+<div align=3D"LEFT"><font face=3D"Verdana" size=3D"2" color=3D"#000000">&nb=
+sp;</font></div><div align=3D"LEFT"><font face=3D"Verdana" size=3D"2" color=
+=3D"#000000">Best regards, </font></div><div align=3D"LEFT"><font face=3D"V=
+erdana" size=3D"2" color=3D"#000000">Narasimha </font></div><div align=3D"L=
+EFT"><font face=3D"Verdana" size=3D"2" color=3D"#000000">-------- </font></=
+div><div align=3D"LEFT"><font face=3D"Verdana" size=3D"2" color=3D"#000000"=
+>Astrology & Spirituality Resources: http://www.VedicAstrologer.org </f=
+ont></div><div align=3D"LEFT"><font face=3D"Verdana" size=3D"2" color=3D"#0=
+00000">-------- </font></div><div align=3D"LEFT"><font face=3D"Verdana" siz=
+e=3D"2" color=3D"#000000">  </font></div><div align=3D"LEFT"><font fac=
+e=3D"Verdana" size=3D"2" color=3D"#000000">  </font></div><div align=
+=3D"LEFT"><font face=3D"Verdana" size=3D"2" color=3D"#000000">On Sat, Dec 2=
+9, 2012 at 6:26 AM,
+ Kaushal_bhilai@... wrote: </font></div><div alig=
+n=3D"LEFT"><font face=3D"Verdana" size=3D"2" color=3D"#000000">  </fon=
+t></div><div align=3D"LEFT"><font face=3D"Verdana" size=3D"3" color=3D"#000=
+000">i have heared that vishnu sahastranaam can be recite by Anushtupchhand=
+ ? i think this will be shortest and mantra form of vishnu sahastranaam ? p=
+lease tell how can i get that anushtup chhand ? do u have? pl provide me ' =
+thanx </font></div><div align=3D"LEFT"><font face=3D"Verdana" size=3D"3" co=
+lor=3D"#000000">  </font></div><div align=3D"LEFT"><font face=3D"Verda=
+na" size=3D"3" color=3D"#000000">Sent from my iPhone </font></div><div alig=
+n=3D"LEFT"><font face=3D"Verdana" size=3D"3" color=3D"#000000">  </fon=
+t></div><div align=3D"LEFT"><font face=3D"Verdana" size=3D"3" color=3D"#000=
+000">On 29-Dec-2012, at 4:19 PM, "Ranga Nambakam" < <font color=3D"#3333=
+FF"><a rel=3D"nofollow" href=3D""><u>ranga_nambakam2000@...</u></a></=
+font>> wrote: </font></div><div align=3D"LEFT"><font
+ face=3D"Verdana" s=
+ize=3D"3" color=3D"#000000">  <font color=3D"#3333FF"></font></font></=
+div><div align=3D"LEFT"><font face=3D"Verdana" size=3D"3" color=3D"#000000"=
+>Is there a "proper" or a "correct" way to recite Vishnusahasranamam? </fon=
+t></div><div align=3D"LEFT"><font face=3D"Verdana" size=3D"3" color=3D"#000=
+000">  </font></div><div align=3D"LEFT"><font face=3D"Verdana" size=3D=
+"3" color=3D"#000000">Some people play the CD while doing their daily chore=
+s and others sit at a place and read aloud or silently in concentration as =
+the CD plays. Yet others recite it from memory. </font></div><div align=3D"=
+LEFT"><font face=3D"Verdana" size=3D"3" color=3D"#000000">  </font></d=
+iv><div align=3D"LEFT"><font face=3D"Verdana" size=3D"3" color=3D"#000000">=
+What is the most "effective" way? </font></div><div align=3D"LEFT"><font fa=
+ce=3D"Verdana" size=3D"3" color=3D"#000000">  </font></div><div align=
+=3D"LEFT"><font face=3D"Verdana" size=3D"3" color=3D"#000000">Thanks </font=
+></div><div align=3D"LEFT"><font
+ face=3D"Verdana" size=3D"3" color=3D"#000=
+000">Ranga </font></div><div align=3D"LEFT"><font face=3D"Verdana" size=3D"=
+3" color=3D"#000000">  </font></div><div align=3D"LEFT"><font face=3D"=
+Verdana" size=3D"3" color=3D"#000000">--- In <font color=3D"#3333FF"><a rel=
+=3D"nofollow" href=3D""><u>vedic-wisdom@yahoogroups.com</u></a></font>, Pri=
+ya M <prm7782@...> wrote: </font></div><div align=3D"LEFT"><font face=
+=3D"Verdana" size=3D"3" color=3D"#000000">> </font></div><div align=3D"L=
+EFT"><font face=3D"Verdana" size=3D"3" color=3D"#000000">> Hi Priyank, h=
+ow are you...thanks for saying this. </font></div><div align=3D"LEFT"><font=
+ face=3D"Verdana" size=3D"3" color=3D"#000000">>   </font></di=
+v><div align=3D"LEFT"><font face=3D"Verdana" size=3D"3" color=3D"#000000">&=
+gt; A country(India) which was ruled by Rama is now being ruled by not one =
+by many Ravanas. Many of us are lucky to be settled abroad...but heart insi=
+de pours out for those innocent beings in India.  </font></div><div
+ a=
+lign=3D"LEFT"><font face=3D"Verdana" size=3D"3" color=3D"#000000">> Leas=
+t we all can do is chant VSS, atleast once a day... </font></div><div align=
+=3D"LEFT"><font face=3D"Verdana" size=3D"3" color=3D"#000000">> &nb=
+sp; </font></div><div align=3D"LEFT"><font face=3D"Verdana" size=3D"3" colo=
+r=3D"#000000">> I also request PVR garu if you could post some messages =
+about the benefits of chanting VSS and encourage people to do more Vishnu h=
+omam for justice and peace to reign... </font></div><div align=3D"LEFT"><fo=
+nt face=3D"Verdana" size=3D"3" color=3D"#000000">> Also wondering seeing=
+ the present situation do you see any premonitions for our country in the c=
+oming years? </font></div><div align=3D"LEFT"><font face=3D"Verdana" size=
+=3D"3" color=3D"#000000">>   </font></div><div align=3D"LEFT">=
+<font face=3D"Verdana" size=3D"3" color=3D"#000000">> Regards, </font></=
+div><div align=3D"LEFT"><font face=3D"Verdana" size=3D"3" color=3D"#000000"=
+>> Priya  </font></div>
+
+    </div>
+     
+
+
+
+</div>
+
+
+
+
+
+</div><br>=
+<br> </div> </div> </blockquote></div>   </div></body></html>
+---432529009-376433932-1357410704=:68273--
+
+

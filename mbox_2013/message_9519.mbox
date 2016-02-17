@@ -1,0 +1,347 @@
+From sumeet18064@...  Wed Feb 17 11:10:39 2016
+Return-Path: <sumeet18064@...>
+X-Sender: sumeet18064@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 25959 invoked by uid 102); 30 Jul 2013 15:45:28 -0000
+X-Received: from unknown (HELO mtaq1.grp.bf1.yahoo.com) (10.193.84.32)
+  by m5.grp.bf1.yahoo.com with SMTP; 30 Jul 2013 15:45:28 -0000
+X-Received: (qmail 14329 invoked from network); 30 Jul 2013 15:45:27 -0000
+X-Received: from unknown (HELO nm50-vm2.bullet.mail.bf1.yahoo.com) (216.109.115.221)
+  by mtaq1.grp.bf1.yahoo.com with SMTP; 30 Jul 2013 15:45:27 -0000
+X-Received: from [98.139.215.141] by nm50.bullet.mail.bf1.yahoo.com with NNFMP; 30 Jul 2013 15:45:27 -0000
+X-Received: from [98.139.211.194] by tm12.bullet.mail.bf1.yahoo.com with NNFMP; 30 Jul 2013 15:45:27 -0000
+X-Received: from [127.0.0.1] by smtp203.mail.bf1.yahoo.com with NNFMP; 30 Jul 2013 15:45:27 -0000
+X-Yahoo-Newman-Id: 795648.62590.bm@...
+X-Yahoo-Newman-Property: ymail-3
+X-YMail-OSG: aPftg1YVM1kW75hLOd2JbmefNz4VZgwClPST1_VstO_Gykm
+ uMdFClgF3cidSUzSaBdI7ty32CCklIOW5GIjjU3LruyfXGV4IVy2QV3arTQ.
+ TaUDYBlRJELsO3QEoRhTP9YnfrCS.F1he9eIYAXdCH40XInodvJTjFNfQokN
+ lHSDm41eswi55yAxfqcm_dzVSYib2Z7Mk5RcGs0PcpriwbIeF.KfJjELjc9q
+ emToowJpM_Se.Z0FI.7XggrO5ztXOrt8TsQ0sKndpoI7T.wdoMnBSAuxIubF
+ lnqU6.SnKzlHMoEahgupP_j1cA7vhq9HeHKidIcx_biiANSloBVrTKczuEcI
+ Rc82Nzy35fNZQPHD83kDlybuoZFnATNTjDSFptvxGhaN.cCKATVD8m3BFrhf
+ UDMfo4AChgVkVW99KVakRmuU9vy5kTfdD.UBie5Lh0By70Uru4S.IgiaMwmC
+ P8E9eudWqF3Xx5uGLXnUINQNMpoC7Q6TDqebtTtMt.A2ijD446CWe_VmXFyW
+ y0IRp0NgGvcT5Wgou6pDQwS4Suaz2nE3AkF6nJ3PBvGBTYT3DwwRNmkSFMiv
+ slccQy1NbO2nQc3CKDEeMERYkBycZ_MaPOBvptg9V_aEalp_u.MSV09YQBf3
+ 1mSM0_u47meD8motXQqUqY043kJciBQdRxe.TWBQH8T6f8as.1kwb2j.gwRh
+ XYSrs_sVsevisvfUCvfoY_X4tGM67lJHEjI.nqvYXhh5D6T1KMnivSjRXXNO
+ bezHK3zFvr_Ly2_d7qP0byygDUrRqu3i4rwAuLfiBIurlnMWOuHkPFpL1pa9
+ 5feocFe0tsWhm_dCNW6bDzgzeU6IhCl_3.C4PFfQs5VvqEvWg_vKPcs0mX02
+ Drp2rvOqcSCzJeQAVmWn63q6GrGa3.oiOHTrq5YPsCiEWP17492NddxZ4KC_
+ 1rXvt7aAnwvQENTxOprRsnEDDVWeOk97naczolSzR_.A9YcnPFN.IkM11gd_
+ NyJDV_KtA_xr8w1RYwPfDyV3NpBHnNVDb2ihz78MN8MZ9c4LgCVv3KX3pm92
+ q8AcyRuuJ8JHcvoISqesD0PNU1mQjfDfoAWZEO5mOIRVvO4G2nkPHX3dNLh6
+ 1HjCJhAHsNH5vv.aRZ2USNDYgdPua3RoLoRr2zjmGF2jBEZfazwpv9T7Bgcw
+ 8Jug2hEhha4hVrIkakdS6YRaHwCI.GwI0.wNfVzvLm_7_QyBoRYJmWVwvBl0
+ cWYlWNP_jbqpxlMcG9IkEL33tpA2tx9bxfFPOJwujR51U0j_EViwMd3plxvH
+ XyW9oaRHZISakoJL8nb8mmZ.kMt0akZ_m0plrGrfrWhHXrtHFDsmNG8A4JBd
+ j7_C.EvaXNU9h.LdfB82EiobPMK59dS7SO5qzCp5H6tdNCHHBSl5oY9ACQnu
+ UvsJgzwngOkPH_XJk7Ow4KSVzLRSClVDtACRAXdormc2J8YrVK2qmBeyECUj
+ odfUC5XYonHcXpaXhqWK7NTzDp0bk6xJwhNpfuHlrZPJ0LTJQvQNcgrAav95
+ HkP2hyttmsYnpMJmMsyFBbBNFu8BrL8QtRl3yPnoBQPg7VjHMYCU6ggmCN_N
+ x9YudZEPrc.lFemx5ewTbnBicQPfPcJ42QjaKlw8LEXGdEB0CEzGUT6YJ8jb
+ 3LRfsBeBvCNrJIr4oysHIz6Kmrl2acIZ1HMe0w8C2889F0q.KyLrpiUXwam1
+ TNlve4hUNqibQ9px7tOTC2PhxQh.hIkbWabeipRdsuQu0COyrwBhqrqpyUIt
+ xnBdJoIDSdbpgWpBoKr2SiNyJvaJ_iuYJjbH_Z7YGwouFh7YT.e0vY_grdrk
+ o2LIMD.hQZriH48B4FnE5MKNRu80FGPBeowK5SVlE8jiohANBAX6iH6SVRXB
+ kwB9c7v.JxvVgAJ92AY0kaCAtaxvz4Kh3kKMdPmdS49OcC6OQxOdMnzw.Q2l
+ xR79skX63E44_YVrZXVgLFNyP.Ueb42et2s_XEpxiXUuY7ftW9ZsLrL9_a4Y
+ -
+X-Yahoo-SMTP: uZ56XkCswBA6wWvC3nj6sQikDrnpmAuo
+X-Rocket-Received: from [172.25.62.229] (sumeet18064@207.11.113.29 with )
+        by smtp203.mail.bf1.yahoo.com with SMTP; 30 Jul 2013 08:45:27 -0700 PDT
+References: <kt860u+bbp7@...> <CAJ9joEZGJa3ff0Q3Zz1krEJo3iiLcS2m42f3GF6Gk1_CMyhy7A@...>
+Content-Type: multipart/alternative;
+	boundary=Apple-Mail-0FE27B6B-D751-4AC4-BCFD-870BA7A2F97B
+X-Mailer: iPhone Mail (10B350)
+In-Reply-To: <CAJ9joEZGJa3ff0Q3Zz1krEJo3iiLcS2m42f3GF6Gk1_CMyhy7A@...>
+Message-Id: <B082BDE3-7C97-4D44-9235-F5322206AAE3@...>
+Date: Tue, 30 Jul 2013 11:45:19 -0400
+To: "vedic-wisdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com>
+Content-Transfer-Encoding: 7bit
+Mime-Version: 1.0 (1.0)
+X-Originating-IP: 10.193.84.32
+X-eGroups-Msg-Info: 1:12:0:0:0
+From: Sumeet Kumar <sumeet18064@...>
+Subject: Re: [vedic-wisdom] ( Anger Emotion- Ego ) During Havan
+X-Yahoo-Group-Post: member; u=167313342; y=slhqIpxI5LtDuJdTloTrHkD3zU33nX1upd7GhehEVq8Ouqx1bVM
+X-Yahoo-Profile: sumeet18064
+
+
+--Apple-Mail-0FE27B6B-D751-4AC4-BCFD-870BA7A2F97B
+Content-Type: text/plain;
+	charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Another 2 cents. Not knowing more details about your situation (and this fo=
+rum is not for psychological analysis and assessment of specific personal i=
+ssues) such as what type of noise and source (internal mental chatter or ex=
+ternal amplified noise) it is a challenge to give more suggestions. 
+
+In my=
+ experience at times, given my lower level of spiritual evolution, I have n=
+oticed more energy which gets transformed to outward anger due to my mistak=
+es if I do regular Homam of Urga devataas.  In such situations I have found=
+ Abhishekham to be a good alternative or associated practice. 
+
+Along with =
+worship of Sri Ganesha to remove obstacles you may try Abhishekham, perhaps=
+ that of Shiva or Rudra, and see the effect on your mood and anger. 
+
+It is=
+ preferred to have a calm state of mind while doing spiritual Saadhana. Thi=
+s is one of reason we have brief pranayama exercise in the Homam manual pri=
+or to ahoutis. You can try a longer pranayama practice also and compare res=
+ults. 
+
+Sumeet
+
+On 2013-07-30, at 7:20 AM, Durgesh Mishra <durgesh.mishra@g=
+mail.com> wrote:
+
+> There are two obstacles to your practice.
+> 
+> One, you=
+ are unable to concentrate. Another, you want to overcome your anger. Prima=
+ facie, they look interrelated but it can be segregated at spiritual level.=
+
+> 
+> I hope you are doing Mahaganpati Homam before actual homam so that Th=
+e Vighnvinashak takes care of obstacles during homam.
+> 
+> Another thing, b=
+efore the Homam try to do jaap for any mantra of your choice 108X times lik=
+e Om Namashivay, Om Hrim Namashivay or Om Hrum Rum Chaitanyay Namah.
+> 
+> T=
+his should help you concentrate your mind during Homam.
+> 
+> Overcoming you=
+r Anger/emotions shall be long term goal and will come naturally when you p=
+erform Homam regularly over few years.
+> 
+> Regards
+> Durgesh O Mishra
+> 
+>=
+ 
+> On 30 July 2013 16:24, cuteyashica <cuteyashica@...> wrote:
+>>  
+=
+>> Hare Rama Krishna
+>> Om Gurave Namah 
+>> 
+>> Respected SIR 
+>> 
+>> Pleas=
+e guide me what is happening with me and why ..First I am very vulnerable t=
+o sounds ...Loud Rock music shakes me completely and I am so fearful at hom=
+e ..I was doing havan diligently for 2 -3 weeks and I wanted to overcome fe=
+ar and prayed for that ..I was able to overcome fears at home and then ther=
+e is a break and I couldnt do havan for 10-12 days ..I was very happy and h=
+ad mental peace for the time I was doing Havan and really feeling bliss ...=
+and complete mental tension after the 10-12 days when I didnt do havan ...I=
+ did havan day before yesterday and I couldnt tolerate the noise coming and=
+ this brought anger in me and I chanted mantras in anger and had given aahu=
+tis ...I dont know what will the consequences of this ...What should I do i=
+f such anger emotion ,which is a part of ego arises while performing havan =
+..This has happened second time and usually I dont get angry but while perf=
+orming havan ..my Mind was really blown away ...I am very sensitive to soun=
+ds ...Should a person do homam when his mind is too disturbed day and night=
+ ...In those thoughts , its so hard to do homam ...Hearing a noise , I alwa=
+ys have that fear at back of mind , what if I got blank hearing noises , wi=
+ll I be able to complete havan ...I am at very low level of consciousness ,=
+ But I need guidance ....
+>> 
+>> Secondly , Since I was not able to do homa=
+m , because of my thought process , I started reciting Devi Kavach , cos I =
+want to talk to God ...and say mother goddess Save me please ...But my mind=
+ is at disturbed and fearful state ...What should I do ...I need guidance .=
+...
+>> I will be grateful to You ...Please Guide Sir ...
+>> 
+>> Thanks Once=
+ Again
+> 
+> 
+> 
+> -- 
+> "If you only have a hammer, you tend to see every p=
+roblem as a nail."
+> 
+
+--Apple-Mail-0FE27B6B-D751-4AC4-BCFD-870BA7A2F97B
+Content-Type: text/html;
+	charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><meta http-equiv=3D"content-type" content=3D"text/html; charset=
+=3Dutf-8"></head><body dir=3D"auto"><div>Another 2 cents. Not knowing more =
+details about your situation (and this forum is not for psychological analy=
+sis and assessment of specific personal issues) such as what type of noise =
+and source (internal mental chatter or external amplified noise) it is a ch=
+allenge to give more suggestions. </div><div><br></div><div>In my expe=
+rience at times, given my lower level of spiritual evolution, I have notice=
+d more energy which gets transformed to outward anger due to my mistakes if=
+ I do regular Homam of Urga devataas.  In such situations I have found=
+ Abhishekham to be a good alternative or associated practice. </div><d=
+iv><br></div><div>Along with worship of Sri Ganesha to remove obstacles you=
+ may try Abhishekham, perhaps that of Shiva or Rudra, and see the effect on=
+ your mood and anger. </div><div><br></div><div>It is preferred to hav=
+e a calm state of mind while doing spiritual Saadhana. This is one of reaso=
+n we have brief pranayama exercise in the Homam manual prior to ahoutis. Yo=
+u can try a longer pranayama practice also and compare results. </div>=
+<div><br>Sumeet</div><div><br>On 2013-07-30, at 7:20 AM, Durgesh Mishra <=
+;<a href=3D"mailto:durgesh.mishra@...">durgesh.mishra@...</a>&g=
+t; wrote:<br><br></div><blockquote type=3D"cite"><div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span =
+style=3D"display:none"> </span>
+
+
+
+    <div id=3D"ygrp-text">
+      
+ =
+     
+      <p></p><div dir=3D"ltr">There are two obstacles to your practic=
+e.<div><br></div><div>One, you are unable to concentrate. Another, you want=
+ to overcome your anger. Prima facie, they look interrelated but it can be =
+segregated at spiritual level.</div>
+<div><br></div><div>I hope you are doi=
+ng Mahaganpati Homam before actual homam so that The Vighnvinashak takes ca=
+re of obstacles during homam.</div><div><br></div><div>Another thing, befor=
+e the Homam try to do jaap for any mantra of your choice 108X times like Om=
+ Namashivay, Om Hrim Namashivay or Om Hrum Rum Chaitanyay Namah.</div>
+<div=
+><br></div><div>This should help you concentrate your mind during Homam.</d=
+iv><div><br></div><div>Overcoming your Anger/emotions shall be long term go=
+al and will come naturally when you perform Homam regularly over few years.=
+</div>
+<div><br></div><div>Regards</div><div>Durgesh O Mishra</div></div><d=
+iv class=3D"gmail_extra"><br><br><div class=3D"gmail_quote">On 30 July 2013=
+ 16:24, cuteyashica <span dir=3D"ltr"><<a href=3D"mailto:cuteyashica@yah=
+oo.com" target=3D"_blank">cuteyashica@...</a>></span> wrote:<br>
+<=
+blockquote class=3D"gmail_quote" style=3D"border-left:1px #ccc solid;">
+
+
+<=
+u></u>
+
+
+
+
+
+
+
+
+
+
+<div>
+<span> </span>
+
+
+<div>
+  <div>
+
+
+    <div>
+    =
+  
+      
+      <p>Hare Rama Krishna<br>
+Om Gurave Namah <br>
+<br>
+Respecte=
+d SIR <br>
+<br>
+Please guide me what is happening with me and why ..First I=
+ am very vulnerable to sounds ...Loud Rock music shakes me completely and I=
+ am so fearful at home ..I was doing havan diligently for 2 -3 weeks and I =
+wanted to overcome fear and prayed for that ..I was able to overcome fears =
+at home and then there is a break and I couldnt do havan for 10-12 days ..I=
+ was very happy and had mental peace for the time I was doing Havan and rea=
+lly feeling bliss ...and complete mental tension after the 10-12 days when =
+I didnt do havan ...I did havan day before yesterday and I couldnt tolerate=
+ the noise coming and this brought anger in me and I chanted mantras in ang=
+er and had given aahutis ...I dont know what will the consequences of this =
+...What should I do if such anger emotion ,which is a part of ego arises wh=
+ile performing havan ..This has happened second time and usually I dont get=
+ angry but while performing havan ..my Mind was really blown away ...I am v=
+ery sensitive to sounds ...Should a person do homam when his mind is too di=
+sturbed day and night ...In those thoughts , its so hard to do homam ...Hea=
+ring a noise , I always have that fear at back of mind , what if I got blan=
+k hearing noises , will I be able to complete havan ...I am at very low lev=
+el of consciousness , But I need guidance ....<br>
+
+<br>
+Secondly , Since I=
+ was not able to do homam , because of my thought process , I started recit=
+ing Devi Kavach , cos I want to talk to God ...and say mother goddess Save =
+me please ...But my mind is at disturbed and fearful state ...What should I=
+ do ...I need guidance ....<br>
+
+I will be grateful to You ...Please Guide =
+Sir ...<br>
+<br>
+Thanks Once Again <br>
+<br>
+</p>
+
+    </div>
+     
+
+    
+ =
+   <div style=3D"color:#fff;"></div>
+
+
+</div>
+
+
+
+  
+
+
+
+
+
+
+</div></div></blo=
+ckquote></div><br><br clear=3D"all"><div><br></div>-- <br>"If you only have=
+ a hammer, you tend to see every problem as a nail."
+</div>
+<p></p>
+
+    </=
+div>
+     
+
+    
+
+
+
+
+
+<!-- end group email -->
+
+</div></blockquote></body><=
+/html>
+--Apple-Mail-0FE27B6B-D751-4AC4-BCFD-870BA7A2F97B--
+
+

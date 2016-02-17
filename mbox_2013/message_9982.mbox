@@ -1,0 +1,627 @@
+From rajarshi14@...  Wed Feb 17 11:10:49 2016
+Return-Path: <rajarshi14@...>
+X-Sender: rajarshi14@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 70430 invoked by uid 102); 21 Dec 2013 09:39:23 -0000
+X-Received: from unknown (HELO mtaq4.grp.bf1.yahoo.com) (10.193.84.143)
+  by m6.grp.bf1.yahoo.com with SMTP; 21 Dec 2013 09:39:23 -0000
+X-Received: (qmail 8833 invoked from network); 21 Dec 2013 09:39:22 -0000
+X-Received: from unknown (HELO nm24-vm4.bullet.mail.sg3.yahoo.com) (106.10.151.83)
+  by mtaq4.grp.bf1.yahoo.com with SMTP; 21 Dec 2013 09:39:22 -0000
+X-Received: from [106.10.166.112] by nm24.bullet.mail.sg3.yahoo.com with NNFMP; 21 Dec 2013 09:39:20 -0000
+X-Received: from [106.10.151.202] by tm1.bullet.mail.sg3.yahoo.com with NNFMP; 21 Dec 2013 09:39:20 -0000
+X-Received: from [127.0.0.1] by omp1014.mail.sg3.yahoo.com with NNFMP; 21 Dec 2013 09:39:20 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 848364.87450.bm@...
+X-Received: (qmail 48549 invoked by uid 60001); 21 Dec 2013 09:39:20 -0000
+X-YMail-OSG: U7fj2.8VM1lPar6WxlPIMvqakIKLxtqujEy_l0sVW8kfuJC
+ Azt0T8vuASmAzeHt0R.fVEa86YeNwzOtBAUx2bQkxyC67yA2F7CYMjMs1pnk
+ KHqkl4YbJ5Gz37U.EOLbQa.xvtgAmteNM2TLTBDq8oGsfXT2XGaYYYsLloFf
+ a_AlnYH2rdItpZiDDbGG1fh3p_tKDaj_znsinNuHN1okqiowQC_43byPVFMV
+ NouBdVkX908A7x9SbewRoY11obBjBzz_mp19euYBhqV1Qc4c8AuRUxf1Z5mi
+ oxU8Y5BWoR_BeaPfIyZ3NPAReTiJRP_pwfpHuSxyqnJTwGl916KesOVuX22T
+ RvFHhh2lyB0_zQPFJEG7UzDIZfm9mNhNJD9J4tn0YbMhYvnOOnxtuZ15vcO_
+ ZKEitfMmCXt7T5Mh2CDIG02YJKAgqEv6xWFBI7pdcT8pV.951GldgFjTUz2u
+ ncCK9k68Nyk.EzgwyWg1dpVCuuGE4nqFf5zfHhR9eS4zsdstYkClBzmUFzaM
+ 8BfBYnc4EaruDvdcpB53qf978uw9a9okRejut_zVj1mFLxgMNHlPcWcugAI8
+ rhNKPSClbQzyatHg1Eao0Uw0tkby3bzP.GLeAw1oGVkLYxxdqym0shVnJQl5
+ .q.EzTmyFVePoKEdgnw9mHmWNLFQHvmj3Vd6BIpeXwO1IQqBiIXXk2ooCPsw
+ myQM.C7Z5GnKh3MGpyEGr2chdqiWcZRDLww45SSDQLqfusxNVsXDGqQAEJXR
+ 50GHgW3LcKS_L0pbljwbuUDbTMEdjvPBgqHlXqbWNo_d94NPAUsztKvckfRw
+ VRDHIknpj8HlZYLoYWFwaI4ajlhoGw3GpTdokhl_LtlPcc6SAYr_Tmi9fu4e
+ jOcwofy28rS782SW67ZUuKYCo9kqOt10p18IsblDOQP7qjxyg2Of5eL.38vH
+ .3iZhHfk4nu3wJEZVg9lgcyOfsVdd_kT0gncgx87k1kcbgPSuIFAuLwpShxX
+ UfKxFwnzs2oicMcxbFrPomvvbon.dwQhZL2G90NKzpHxc2PUyKk2IkMY6dqW
+ hxM2JqTwU..WsaE._KN9lXl_YLY37QKZO.8hvHwtEYvekRmaoeO5OgcFHe.g
+ Or4fnrVZhuBSqxMEbMFjpy0pXNyEuUzuD_PJauEwo1H9tSTLmwnSs4J6_TeK
+ 8QsrBBZx9v2OPn2VGJz9iO.sj48ZzLiZL9zMHcc5IjqLexoWGq6SI66qB2e6
+ 8uSech4O47R9Qk9iw_Qt5FwMv_uz0UIf6wvq4ZyAj0GykIzwJmu83dI.Vv.U
+ sqhgFUAe6xl0AxX4rYQrdO4JrWQnceGjWizTDsWJzKMnDghMe86TxA_r3qkd
+ jPHzJ4Pzj1l19VJOrqYxEp_iYiTpUGaL1X8rplkaGkJE67Zh7SDRCGuSMEuQ
+ mZqGYIEGEuAX.OYFV66lGvYjU5RMYWTNhxdh_MA6XXK3xCISUq76ey2Bk3zx
+ kbxaVD9rQzDOOK0AzWuLy_Ypyf9d_bUta9.dtiffOSsi5JMssRD0Ikya4MWv
+ VHdInU5gFZCYWda92nmTql1UYla9SSKegwkq3YXo4_8DwVczyqSvtuX0ve94
+ luBNg7CF3Lw3UB2odqNC8wuw5bnUNrNVnLaObLvQQP1DmdCr2jq25eHetswd
+ DXN3.0X73KF2LlGiQr8zm0hYsfkjNfaCxflIroHT56_oxxh5jVj.Q6kwX7Nj
+ VuGg7.8Mw_Y9Z8Y2Itj51F4lsdGJBB2lZ.adhqfj7P_mibG7ux9bmcTFpBNT
+ KsMzq8wj1RzzCDEY6SHbsVUOiMPjyXWJZfOlesibLwlOaZRr8ylAgM61cH.3
+ IvoBu7IM7WJ.SZaM1jPuEPdDaSBg.wDEOgxrRnvSxIAerne9G9mcVOsvAOG6
+ pJUzr55xn6z4EYu2cLAY0TFacPOFYoG3EuYbf8d8o6Hqsfjo0B1o-
+X-Received: from [14.96.181.110] by web190902.mail.sg3.yahoo.com via HTTP; Sat, 21 Dec 2013 17:39:20 SGT
+X-Rocket-MIMEInfo: 002.001,TmFtYXN0ZSwKCkkgYWxzbyBoYXZlIGEgc2ltaWxhciBpZGVhLgoKSW1wb3J0YW50IHRoaW5nIGlzIHRvIHdvcnNoaXAgb25lIGRlaXR5LCBhbnlvbmUgd2hvbSB5b3UgZmVlbCBhdHRyYWN0ZWQgdG8sIGFuZCBrZWVwIGF0IGl0IGZvciBhIHllYXIgb3IgdHdvIGF0IGxlYXN0LiBXaGV0aGVyIHRoYXQgZGVpdHkgaXMgdGhlIGlzdGhhLWRldmF0YSBvciBub3QgZG9lcyBub3QgbWF0dGVyLiBJZiBIZS9TaGUgaXMgbm90LCB0aGVuIEhlL1NoZSB3aWxsIGRpcmVjdCB0aGUgc2Vla2VyIHRvIHRoYXQgcGF0aC4KCk8BMAEBAQE-
+X-Mailer: YahooMailWebService/0.8.172.614
+References: <l933ol+1p9iv6t@...> <1387602360.22920.YahooMailNeo@...>
+Message-ID: <1387618760.24963.YahooMailNeo@...>
+Date: Sat, 21 Dec 2013 17:39:20 +0800 (SGT)
+To: "vedic-wisdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com>
+In-Reply-To: <1387602360.22920.YahooMailNeo@...>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="192144850-26525645-1387618760=:24963"
+X-Originating-IP: 10.193.84.143
+X-eGroups-Msg-Info: 1:12:0:0:0
+From: rajarshi nandy <rajarshi14@...>
+Reply-To: rajarshi nandy <rajarshi14@...>
+Subject: Re: [vedic-wisdom] Choosing Ishta
+X-Yahoo-Group-Post: member; u=216162964; y=aJoY9zXdJpsK7ocrSVsGCkCAclxdUxiZ83f3XwmjIio59HOhkA
+X-Yahoo-Profile: rajarshi14
+
+
+--192144850-26525645-1387618760=:24963
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Namaste,
+
+I also have a similar idea.
+
+Important thing is to worship one de=
+ity, anyone whom you feel attracted to, and keep at it for a year or two at=
+ least. Whether that deity is the istha-devata or not does not matter. If H=
+e/She is not, then He/She will direct the seeker to that path.
+
+Often the j=
+ourney to reach the istha-devata is not a simple straight road. One may hav=
+e go through many devatas, many paths before one understands his istha deva=
+ta.
+
+Many years ago I had asked this question to a very great - great than =
+me that is - Yogi. His reply was that the only way to know the Istha Devata=
+ is when the Istha Devata chooses to manifest Himself/Herself to the seeker=
+. An immediate and powerful inner connection will be build and that will re=
+main all life.=C2=A0 There is no other foolproof way. That Devata whose ene=
+rgy creates this inner connection with the depth of the seeker's soul, is t=
+he Istha. So until we can come close to the soul, the istha devata is not g=
+oing to appear so easily.
+
+All these considerations are non-helpful. Just k=
+eep at it for years with patience and sincerity. Eventually things happen i=
+n their own way.
+
+-Regards
+=C2=A0Rajarshi
+
+
+=C2=A0
+
+I have a hundred lives =
+before me yet/ To grasp thee in, O spirit ethereal, / Be sure I will with h=
+eart insatiate/ Pursue thee like a hunter through them all.-Sri Aurobindo
+
+=
+
+
+On Saturday, 21 December 2013 10:36 AM, K K <kk889123@...> wrote:
+ 
+=
+=C2=A0 
+Though on the surface it appears as we select the Ishta, in reality=
+ it is often the other way round, the Deity chooses you. The best way to de=
+termine who your Ishta, is by determining with whom one feels connected the=
+ most. Some people may feel connected with many deities, yet often we feel =
+specially connected with only one deity. If, you feel such a connection, yo=
+u should take her as your Ishta and increases the depth of connection throu=
+gh devotion. 
+
+
+Now, coming to the Q, I feel you are wrong in your assertio=
+n that worshipping Durga/Kali increases Kaama/Krodha. Because, the fact is =
+it is through the help of KaLi/Durga alone that one can defeat Kama/Krodha.=
+ Kali helps to remove all negative energies from a person and Durga helps f=
+ights one's internal enemies. As far as saraswati is concerned, she is the =
+very personification of Jnana, I do not think worshiping her will make anyo=
+ne emotional.
+
+Ultimately all these does not matter. When we worship a Isht=
+a, we are not worshiping the external form as such, but through the externa=
+l form we are worshiping the Inner essence, God. Hence, the Brahman/God wil=
+l guide us through whatever form we worship him. The key is devotion and fo=
+r devotion, one must feel attracted, connected to a particular form.
+
+Regar=
+ds,
+Nithin
+
+
+
+
+On Saturday, 21 December 2013 9:49 AM, "aks_day@..." <=
+aks_day@...> wrote:
+ 
+=C2=A0 
+Namaste all
+
+I would like to seek some =
+guidance from learned members to reconcile for following.
+
+On one hand its =
+said choose any ishta and he will take care of everything. (Generally vedic=
+ guys).
+
+
+On other hand, Among tantric practitioners, it seems its common s=
+tuff that always choose ista/diety form according to whats missing in your =
+own 
+system. and not what tatva is already active.
+
+eg1 - If have have more=
+ of kam-krodha in your nature praying to durga/kali will further amplify it=
+. better to choose shiva.
+eg2 - People=C2=A0 with low self confidence, low =
+self esteem, weakness, depression should pray to maa kali.
+eg3 - emotional =
+people if they choose saraswati, they will become more emotional.
+
+Please g=
+uide/elaborate/clarify.
+
+thanks
+Priyank
+
+
+
+
+
+--192144850-26525645-1387618760=:24963
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"color:#000; background-color:#fff; font-family:He=
+lveticaNeue, Helvetica Neue, Helvetica, Arial, Lucida Grande, Sans-Serif;fo=
+nt-size:12pt">Namaste,<br><br>I also have a similar idea.<br><br>Important =
+thing is to worship one deity, anyone whom you feel attracted to, and keep =
+at it for a year or two at least. Whether that deity is the istha-devata or=
+ not does not matter. If He/She is not, then He/She will direct the seeker =
+to that path.<br><br>Often the journey to reach the istha-devata is not a s=
+imple straight road. One may have go through many devatas, many paths befor=
+e one understands his istha devata.<br><br>Many years ago I had asked this =
+question to a very great - great than me that is - Yogi. His reply was that=
+ the only way to know the Istha Devata is when the Istha Devata chooses to =
+manifest Himself/Herself to the seeker. An immediate and powerful inner con=
+nection will be build and that will remain all life.  There is no
+ oth=
+er foolproof way. That Devata whose energy creates this inner connection wi=
+th the depth of the seeker's soul, is the Istha. So until we can come close=
+ to the soul, the istha devata is not going to appear so easily.<br><br>All=
+ these considerations are non-helpful. Just keep at it for years with patie=
+nce and sincerity. Eventually things happen in their own way.<br><br>-Regar=
+ds<br> Rajarshi<br><div><span><br></span></div><div> </div><div><=
+span style=3D"font-family:times new roman, new york, times, serif;"><br></s=
+pan></div><div><i><b><div class=3D"MsoNormal"><span style=3D"font-family:ti=
+mes new roman, new york, times, serif;"><b><span class=3D"Apple-style-span"=
+ style=3D"font-size:16px;"><b><span class=3D"Apple-style-span" style=3D"col=
+or:rgb(153, 153, 153);"></span></b></span></b><span class=3D"yui_3_2_0_2_13=
+4243527249950">I have a hundred lives before me yet/ To grasp thee in, O sp=
+irit ethereal, /</span> Be sure I will with heart insatiate/ Pursue thee li=
+ke a
+ hunter through them all.</span><b><span style=3D"font-family:times ne=
+w roman, new york, times, serif;"> -Sri Aurobindo</span><span class=3D"yui_=
+3_2_0_2_134243506227946 yui_3_2_0_2_134243527249952 yui_3_2_0_2_13733274050=
+1958" style=3D"FONT-SIZE:10pt;COLOR:navy;FONT-FAMILY:Verdana;"></span></b><=
+/div></b></i></div><div style=3D"display: block;" class=3D"yahoo_quoted"> <=
+br> <br> <div style=3D"font-family: HelveticaNeue, Helvetica Neue, Helvetic=
+a, Arial, Lucida Grande, Sans-Serif; font-size: 12pt;"> <div style=3D"font-=
+family: times new roman, new york, times, serif; font-size: 12pt;"> <div di=
+r=3D"ltr"> <font face=3D"Arial" size=3D"2"> On Saturday, 21 December 2013 1=
+0:36 AM, K K <kk889123@...> wrote:<br> </font> </div>  <div clas=
+s=3D"y_msg_container"><div id=3D"yiv9009094041"><div>
+<span style=3D"displa=
+y:none;"> </span>
+
+
+<div id=3D"yiv9009094041ygrp-mlmsg" style=3D"">
+  =
+<div id=3D"yiv9009094041ygrp-msg" style=3D"">
+
+
+    <div id=3D"yiv900909404=
+1ygrp-text">
+      
+      
+      <div style=3D"color:#000;background-color:=
+#fff;font-family:times new roman, new york, times, serif;font-size:12pt;"><=
+div><span>Though on the surface it appears as we select the Ishta, in reali=
+ty it is often the other way round, the Deity chooses you. The best way to =
+determine who your Ishta, is by determining with whom one feels connected t=
+he most. Some people may feel connected with many deities, yet often we fee=
+l specially connected with only one deity. If, you feel such a connection, =
+you should take her as your Ishta and increases the depth of connection thr=
+ough devotion. <br clear=3D"none"></span></div><div style=3D"color:rgb(0, 0=
+, 0);font-size:16px;font-family:times new roman, new york, times, serif;bac=
+kground-color:transparent;font-style:normal;"><br clear=3D"none"><span></sp=
+an></div><div style=3D"color:rgb(0, 0, 0);font-size:16px;font-family:times =
+new roman, new york, times, serif;background-color:transparent;font-style:n=
+ormal;"><span>Now, coming to
+ the Q, I
+ feel you are wrong in your assertio=
+n that worshipping Durga/Kali increases Kaama/Krodha. Because, the fact is =
+it is through the help of KaLi/Durga alone that one can defeat Kama/Krodha.=
+ Kali helps to remove all negative energies from a person and Durga helps f=
+ights one's internal enemies. As far as saraswati is concerned, she is the =
+very personification of Jnana, I do not think worshiping her will make anyo=
+ne emotional.<br clear=3D"none"><br clear=3D"none">Ultimately all these doe=
+s not matter. When we worship a Ishta, we are not worshiping the external f=
+orm as such, but through the external form we are worshiping the Inner esse=
+nce, God. Hence, the Brahman/God will guide us through whatever form we wor=
+ship him. The key is devotion and for devotion, one must feel attracted, co=
+nnected to a particular form.</span></div><div style=3D"color:rgb(0, 0, 0);=
+font-size:16px;font-family:times new roman, new york, times,
+ serif;backgro=
+und-color:transparent;font-style:normal;"><br clear=3D"none"><span></span><=
+/div><div style=3D"color:rgb(0, 0, 0);font-size:16px;font-family:times new =
+roman, new york, times, serif;background-color:transparent;font-style:norma=
+l;"><span>Regards,</span></div><div style=3D"color:rgb(0, 0, 0);font-size:1=
+6px;font-family:times new roman, new york, times, serif;background-color:tr=
+ansparent;font-style:normal;"><span>Nithin<br clear=3D"none"></span></div><=
+div class=3D"yiv9009094041yqt8119868938" id=3D"yiv9009094041yqt62512"><div =
+style=3D"display: block;" class=3D"yiv9009094041yahoo_quoted"> <br clear=3D=
+"none"> <br clear=3D"none"> <div style=3D"font-family:times new roman, new =
+york, times, serif;font-size:12pt;"> <div style=3D"font-family:times new ro=
+man, new york, times, serif;font-size:12pt;"> <div dir=3D"ltr"> <font face=
+=3D"Arial" size=3D"2"> On Saturday, 21 December 2013 9:49 AM, "aks_day@yaho=
+o.com" <aks_day@...> wrote:<br clear=3D"none"> </font> </div>  =
+<div
+ class=3D"yiv9009094041y_msg_container"><div id=3D"yiv9009094041"><div=
+>
+<span> </span>
+
+
+<div id=3D"yiv9009094041ygrp-mlmsg">
+  <div id=3D"y=
+iv9009094041ygrp-msg">
+
+
+    <div id=3D"yiv9009094041ygrp-text">
+      
+   =
+   
+      <div>Namaste all</div><div><br clear=3D"none"></div><div style=3D=
+"color:rgb(0, 0, 0);font-size:13px;font-family:arial, helvetica, clean, san=
+s-serif;background-color:transparent;font-style:normal;">I would like to se=
+ek some guidance from learned members to reconcile for following.</div><div=
+ style=3D"color:rgb(0, 0, 0);font-size:13px;font-family:arial, helvetica, c=
+lean, sans-serif;background-color:transparent;font-style:normal;"><br clear=
+=3D"none"></div><div style=3D"color:rgb(0, 0, 0);font-size:13px;font-family=
+:arial, helvetica, clean, sans-serif;background-color:transparent;font-styl=
+e:normal;">On one hand its said choose any ishta and he will take care of e=
+verything. (Generally vedic guys).<br clear=3D"none"></div><div style=3D"co=
+lor:rgb(0, 0, 0);font-size:13px;font-family:arial, helvetica, clean, sans-s=
+erif;background-color:transparent;font-style:normal;"><br clear=3D"none"></=
+div><div style=3D"color:rgb(0, 0, 0);font-size:13px;font-family:arial, helv=
+etica, clean,
+ sans-serif;background-color:transparent;font-style:normal;">=
+On
+ other hand, Among tantric practitioners, it seems its common stuff that=
+
+ always choose ista/diety form according to whats missing in your own 
+sys=
+tem. and not what tatva is already active.<br clear=3D"none"></div><div sty=
+le=3D"color:rgb(0, 0, 0);font-size:13px;font-family:arial, helvetica, clean=
+, sans-serif;background-color:transparent;font-style:normal;">eg1 - If have=
+ have more of kam-krodha in your nature praying to durga/kali will further =
+amplify it. better to choose shiva.</div><div style=3D"color:rgb(0, 0, 0);f=
+ont-size:13px;font-family:arial, helvetica, clean, sans-serif;background-co=
+lor:transparent;font-style:normal;">eg2 - People  with low self confid=
+ence, low self esteem, weakness, depression should pray to maa kali.</div><=
+div style=3D"color:rgb(0, 0, 0);font-size:13px;font-family:arial, helvetica=
+, clean, sans-serif;background-color:transparent;font-style:normal;">eg3 - =
+emotional people if they choose saraswati, they will become more emotional.=
+</div><div style=3D"color:rgb(0, 0, 0);font-size:13px;font-family:arial, he=
+lvetica, clean,
+ sans-serif;background-color:transparent;font-style:normal;=
+"><br clear=3D"none"></div><div style=3D"color:rgb(0, 0, 0);font-size:13px;=
+font-family:arial, helvetica, clean, sans-serif;background-color:transparen=
+t;font-style:normal;">Please guide/elaborate/clarify.</div><div style=3D"co=
+lor:rgb(0, 0, 0);font-size:13px;font-family:arial, helvetica, clean, sans-s=
+erif;background-color:transparent;font-style:normal;"><br clear=3D"none"></=
+div><div style=3D"color:rgb(0, 0, 0);font-size:13px;font-family:arial, helv=
+etica, clean, sans-serif;background-color:transparent;font-style:normal;">t=
+hanks</div><div style=3D"color:rgb(0, 0, 0);font-size:13px;font-family:aria=
+l, helvetica, clean, sans-serif;background-color:transparent;font-style:nor=
+mal;">Priyank<br clear=3D"none"></div><div style=3D"color:rgb(0, 0, 0);font=
+-size:13px;font-family:arial, helvetica, clean, sans-serif;background-color=
+:transparent;font-style:normal;"><br clear=3D"none"> </div>
+
+    </div>
+   =
+  
+
+    
+    <div style=3D"color:#fff;height:0;"></div></div>
+
+
+</div></div=
+><br clear=3D"none"><br clear=3D"none"></div>  </div> </div>  </div> </div>=
+</div></div>
+
+    </div>
+     
+
+    
+    <div class=3D"yiv9009094041yqt8119=
+868938" id=3D"yiv9009094041yqt66568"><div style=3D"color:#fff;height:0;"></=
+div></div>
+
+
+</div><div class=3D"yiv9009094041yqt8119868938" id=3D"yiv90090=
+94041yqt27802"><style type=3D"text/css">
+#yiv9009094041 #yiv9009094041 --
+ =
+ #yiv9009094041ygrp-mkp {
+border:1px solid #d8d8d8;font-family:Arial;margin=
+:10px 0;padding:0 10px;}
+
+#yiv9009094041 #yiv9009094041ygrp-mkp hr {
+border=
+:1px solid #d8d8d8;}
+
+#yiv9009094041 #yiv9009094041ygrp-mkp #yiv9009094041h=
+d {
+color:#628c2a;font-size:85%;font-weight:700;line-height:122%;margin:10p=
+x 0;}
+
+#yiv9009094041 #yiv9009094041ygrp-mkp #yiv9009094041ads {
+margin-bot=
+tom:10px;}
+
+#yiv9009094041 #yiv9009094041ygrp-mkp .yiv9009094041ad {
+paddin=
+g:0 0;}
+
+#yiv9009094041 #yiv9009094041ygrp-mkp .yiv9009094041ad p {
+margin:=
+0;}
+
+#yiv9009094041 #yiv9009094041ygrp-mkp .yiv9009094041ad a {
+color:#0000=
+ff;text-decoration:none;}
+#yiv9009094041 #yiv9009094041ygrp-sponsor #yiv900=
+9094041ygrp-lc {
+font-family:Arial;}
+
+#yiv9009094041 #yiv9009094041ygrp-spo=
+nsor #yiv9009094041ygrp-lc #yiv9009094041hd {
+margin:10px 0px;font-weight:7=
+00;font-size:78%;line-height:122%;}
+
+#yiv9009094041 #yiv9009094041ygrp-spon=
+sor #yiv9009094041ygrp-lc .yiv9009094041ad {
+margin-bottom:10px;padding:0 0=
+;}
+
+#yiv9009094041 #yiv9009094041actions {
+font-family:Verdana;font-size:11=
+px;padding:10px 0;}
+
+#yiv9009094041 #yiv9009094041activity {
+background-col=
+or:#e0ecee;float:left;font-family:Verdana;font-size:10px;padding:10px;}
+
+#y=
+iv9009094041 #yiv9009094041activity span {
+font-weight:700;}
+
+#yiv900909404=
+1 #yiv9009094041activity span:first-child {
+text-transform:uppercase;}
+
+#yi=
+v9009094041 #yiv9009094041activity span a {
+color:#5085b6;text-decoration:n=
+one;}
+
+#yiv9009094041 #yiv9009094041activity span span {
+color:#ff7900;}
+
+#=
+yiv9009094041 #yiv9009094041activity span .yiv9009094041underline {
+text-de=
+coration:underline;}
+
+#yiv9009094041 .yiv9009094041attach {
+clear:both;disp=
+lay:table;font-family:Arial;font-size:12px;padding:10px 0;width:400px;}
+
+#y=
+iv9009094041 .yiv9009094041attach div a {
+text-decoration:none;}
+
+#yiv90090=
+94041 .yiv9009094041attach img {
+border:none;padding-right:5px;}
+
+#yiv90090=
+94041 .yiv9009094041attach label {
+display:block;margin-bottom:5px;}
+
+#yiv9=
+009094041 .yiv9009094041attach label a {
+text-decoration:none;}
+
+#yiv900909=
+4041 blockquote {
+margin:0 0 0 4px;}
+
+#yiv9009094041 .yiv9009094041bold {
+f=
+ont-family:Arial;font-size:13px;font-weight:700;}
+
+#yiv9009094041 .yiv90090=
+94041bold a {
+text-decoration:none;}
+
+#yiv9009094041 dd.yiv9009094041last p=
+ a {
+font-family:Verdana;font-weight:700;}
+
+#yiv9009094041 dd.yiv9009094041=
+last p span {
+margin-right:10px;font-family:Verdana;font-weight:700;}
+
+#yiv=
+9009094041 dd.yiv9009094041last p span.yiv9009094041yshortcuts {
+margin-rig=
+ht:0;}
+
+#yiv9009094041 div.yiv9009094041attach-table div div a {
+text-decor=
+ation:none;}
+
+#yiv9009094041 div.yiv9009094041attach-table {
+width:400px;}
+=
+
+#yiv9009094041 div.yiv9009094041file-title a, #yiv9009094041 div.yiv900909=
+4041file-title a:active, #yiv9009094041 div.yiv9009094041file-title a:hover=
+, #yiv9009094041 div.yiv9009094041file-title a:visited {
+text-decoration:no=
+ne;}
+
+#yiv9009094041 div.yiv9009094041photo-title a, #yiv9009094041 div.yiv=
+9009094041photo-title a:active, #yiv9009094041 div.yiv9009094041photo-title=
+ a:hover, #yiv9009094041 div.yiv9009094041photo-title a:visited {
+text-deco=
+ration:none;}
+
+#yiv9009094041 div#yiv9009094041ygrp-mlmsg #yiv9009094041ygr=
+p-msg p a span.yiv9009094041yshortcuts {
+font-family:Verdana;font-size:10px=
+;font-weight:normal;}
+
+#yiv9009094041 .yiv9009094041green {
+color:#628c2a;}=
+
+
+#yiv9009094041 .yiv9009094041MsoNormal {
+margin:0 0 0 0;}
+
+#yiv9009094041=
+ o {
+font-size:0;}
+
+#yiv9009094041 #yiv9009094041photos div {
+float:left;wi=
+dth:72px;}
+
+#yiv9009094041 #yiv9009094041photos div div {
+border:1px solid =
+#666666;height:62px;overflow:hidden;width:62px;}
+
+#yiv9009094041 #yiv900909=
+4041photos div label {
+color:#666666;font-size:10px;overflow:hidden;text-al=
+ign:center;white-space:nowrap;width:64px;}
+
+#yiv9009094041 #yiv9009094041re=
+co-category {
+font-size:77%;}
+
+#yiv9009094041 #yiv9009094041reco-desc {
+fon=
+t-size:77%;}
+
+#yiv9009094041 .yiv9009094041replbq {
+margin:4px;}
+
+#yiv90090=
+94041 #yiv9009094041ygrp-actbar div a:first-child {
+margin-right:2px;paddin=
+g-right:5px;}
+
+#yiv9009094041 #yiv9009094041ygrp-mlmsg {
+font-size:13px;fon=
+t-family:Arial, helvetica, clean, sans-serif;}
+
+#yiv9009094041 #yiv90090940=
+41ygrp-mlmsg table {
+font-size:inherit;font:100%;}
+
+#yiv9009094041 #yiv9009=
+094041ygrp-mlmsg select, #yiv9009094041 input, #yiv9009094041 textarea {
+fo=
+nt:99% Arial, Helvetica, clean, sans-serif;}
+
+#yiv9009094041 #yiv9009094041=
+ygrp-mlmsg pre, #yiv9009094041 code {
+font:115% monospace;}
+
+#yiv9009094041=
+ #yiv9009094041ygrp-mlmsg * {
+line-height:1.22em;}
+
+#yiv9009094041 #yiv9009=
+094041ygrp-mlmsg #yiv9009094041logo {
+padding-bottom:10px;}
+
+
+#yiv900909404=
+1 #yiv9009094041ygrp-msg p a {
+font-family:Verdana;}
+
+#yiv9009094041 #yiv90=
+09094041ygrp-msg p#yiv9009094041attach-count span {
+color:#1E66AE;font-weig=
+ht:700;}
+
+#yiv9009094041 #yiv9009094041ygrp-reco #yiv9009094041reco-head {
+=
+color:#ff7900;font-weight:700;}
+
+#yiv9009094041 #yiv9009094041ygrp-reco {
+m=
+argin-bottom:20px;padding:0px;}
+
+#yiv9009094041 #yiv9009094041ygrp-sponsor =
+#yiv9009094041ov li a {
+font-size:130%;text-decoration:none;}
+
+#yiv90090940=
+41 #yiv9009094041ygrp-sponsor #yiv9009094041ov li {
+font-size:77%;list-styl=
+e-type:square;padding:6px 0;}
+
+#yiv9009094041 #yiv9009094041ygrp-sponsor #y=
+iv9009094041ov ul {
+margin:0;padding:0 0 0 8px;}
+
+#yiv9009094041 #yiv900909=
+4041ygrp-text {
+font-family:Georgia;}
+
+#yiv9009094041 #yiv9009094041ygrp-te=
+xt p {
+margin:0 0 1em 0;}
+
+#yiv9009094041 #yiv9009094041ygrp-text tt {
+font=
+-size:120%;}
+
+#yiv9009094041 #yiv9009094041ygrp-vital ul li:last-child {
+bo=
+rder-right:none !important;
+}
+#yiv9009094041 
+</style></div></div><br><br><=
+/div>  </div> </div>  </div> </div></body></html>
+--192144850-26525645-1387618760=:24963--
+
+

@@ -1,0 +1,1534 @@
+From rajarshi14@...  Wed Feb 17 11:10:46 2016
+Return-Path: <rajarshi14@...>
+X-Sender: rajarshi14@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 98609 invoked by uid 102); 28 Oct 2013 19:00:03 -0000
+X-Received: from unknown (HELO mtaq2.grp.bf1.yahoo.com) (10.193.84.33)
+  by m5.grp.bf1.yahoo.com with SMTP; 28 Oct 2013 19:00:03 -0000
+X-Received: (qmail 7606 invoked from network); 28 Oct 2013 19:00:01 -0000
+X-Received: from unknown (HELO nm20-vm4.bullet.mail.sg3.yahoo.com) (106.10.149.131)
+  by mtaq2.grp.bf1.yahoo.com with SMTP; 28 Oct 2013 19:00:01 -0000
+X-Received: from [106.10.166.61] by nm20.bullet.mail.sg3.yahoo.com with NNFMP; 28 Oct 2013 18:59:59 -0000
+X-Received: from [106.10.150.24] by tm18.bullet.mail.sg3.yahoo.com with NNFMP; 28 Oct 2013 18:59:59 -0000
+X-Received: from [127.0.0.1] by omp1025.mail.sg3.yahoo.com with NNFMP; 28 Oct 2013 18:59:59 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 398443.94645.bm@...
+X-Received: (qmail 33348 invoked by uid 60001); 28 Oct 2013 18:59:59 -0000
+X-YMail-OSG: PSNHloQVM1mss.E6FOYPmGYCg._eH00_uHc8WcRU7.liOBo
+ oi0UpTHzyJPo9rP5khKjmJEj4HarneACOBmGTgU6zNGMyuLuxvrE6PGNknjk
+ Heq44VN3qYE6hMwwf3AAIKrIghZ7YsKRnYTl5QN.yqo4Bp5R4gJwqJ7_8skx
+ 12_KuliJOWT4fqZvbMiu0LxTXSg3nhauzQRfSZAMaZEbTTQ9gjd08UCrKvgf
+ d3UmqCi3HTZpXmo3oyuQMxtpzZ9X32z91.RCYzQ5hAZOUvHoSj9t.Hay5WSn
+ fH7t26F1y1BapraPQz80kwyhlkb8ONtBOmQqQwJ9hCyGf_bbU674NAglwnYx
+ 74nHQ5HmDuwWLrLmMFr_bu2sc2lh6UiqopApYuo9rIr49l1OEKUazJe_pFrQ
+ quxEnqcw2GE9DQ6re.RXJp.2K2kLYk5YcCVAHiBD5sSkCsTXFZgo8wtcz89b
+ aQKQ.4leMpctwV.jrdP5t7aZoRLtn6AHCJIe7IfcBPbZF8MIoZlrjtcRPMa4
+ RvXzBPTX_JjUFIenfnJVn.vodBA8bn_NEsUZPFknGumUMiU4IqIosRTlJ5cb
+ 4cyMLwAki_0N8W7y5_vOLW_zdAK1xIuB4IudPmQPHIycMBRYwEObl1ZonTrj
+ DQqBexzIduGVjVDKU4vw5_s_ALgko2pZD3aPB.gk6PwtcaP1nSyxIyk1YBjt
+ a9f2HFwLwq37Hv6gYIGi.LUCcP0lLn8GR3dZY0R7V0AtocMNp4sh4ZABPwaR
+ m4Bu70NvDkJjqDt1V6qhgxUl4Pi.IXtdwRsgm1NdTVAszo1mttTkQIGfC8zQ
+ DAMepSB1fj7L7_HzqYcJFbTYy14EcYjUkl794RUZqJYSxMLgIwRmuxNYtJJ_
+ a4t45uxkBgSIQOMr55_xV3.mSaQBy5DcchjgF4TRycALB9twbxBCSvo8-
+X-Received: from [14.97.183.1] by web190902.mail.sg3.yahoo.com via HTTP; Tue, 29 Oct 2013 02:59:58 SGT
+X-Rocket-MIMEInfo: 002.001,RGVhciBBaml0LAoKPDxJZiB0aGUgYm9keSBhbmQgbWluZCBnZXQgZGlzc29sdmVkIHVwb24gZGVhdGgsIHRoZW4gd2hlcmUgZG9lcyBrYXJtYSAKYXR0YWNoPz4.CgpJZiB0aGUgc291bCBjYW4gcmVjYWxsLCBkb2Vzbid0IHRoaXMgc291bCBub3cgaGF2ZSBzb21lIHNvcnQgb2YgYSBib2R5IGFuZC9vciBtaW5kPyBJbnN0ZWFkIG9mIGV4cGxpY2l0bHkgYWRtaXR0aW5nIGEgYm9keSAod2hldGhlciBpdCBpcyBzdWJ0bGUgb3IgZ3Jvc3MpIHRoYXQgc3Vydml2ZXMgdXBvbiBkZWF0aCwgaGF2ZW4ndCB5b3UganUBMAEBAQE-
+X-Mailer: YahooMailWebService/0.8.160.587
+References: <l4e3ov+1224sn6@...> <1382736259.73879.YahooMailAndroidMobile@...> <1382750194.91813.YahooMailNeo@...> <1382753311.33887.YahooMailNeo@...> <1382779809.97472.YahooMailNeo@...> <1382854446.12030.YahooMailNeo@...> <1382880455.34540.YahooMailNeo@...> <CAJY401UGcyZgF+YKuGzsnmLTwoQpbEJgJAH4yuTgGMZeyKRSiw@...>
+Message-ID: <1382986798.33305.YahooMailNeo@...>
+Date: Tue, 29 Oct 2013 02:59:58 +0800 (SGT)
+To: "vedic-wisdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com>
+In-Reply-To: <CAJY401UGcyZgF+YKuGzsnmLTwoQpbEJgJAH4yuTgGMZeyKRSiw@...>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="192144850-1505568846-1382986798=:33305"
+X-Originating-IP: 10.193.84.33
+X-eGroups-Msg-Info: 1:12:0:0:0
+From: rajarshi nandy <rajarshi14@...>
+Reply-To: rajarshi nandy <rajarshi14@...>
+Subject: Re: [vedic-wisdom] Re: Past life regression (Re: Mantra for protection from spirits (at nighttime))
+X-Yahoo-Group-Post: member; u=216162964; y=sCDqgFuaWcYzk09Bl9HedexjYNzyxvVdJBg_Hjz6Ny7Ra-9eDw
+X-Yahoo-Profile: rajarshi14
+
+
+--192144850-1505568846-1382986798=:33305
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Dear Ajit,
+
+<<If the body and mind get dissolved upon death, then where doe=
+s karma 
+attach?>>
+
+If the soul can recall, doesn't this soul now have some=
+ sort of a body and/or mind? Instead of explicitly admitting a body (whethe=
+r it is subtle or gross) that survives upon death, haven't you just created=
+ an 
+implicit body bound to your concept of a soul?>>
+
+I am not sure that I=
+ understood your question correctly. 
+
+
+Karma "attaches" itself by setting =
+certain preconditions/circumstances based on the desires of the soul and le=
+ssons the egosense must learn for manifesting the soul. This process is tak=
+en care of by Nature's laws. These two - desire and need - are slightly dif=
+ferent. At the moment of death the soul has a specific ability to internali=
+ze and project what it needs/wants to experience in the next birth. That ge=
+ts set firmly. That counts as a desire of the soul. And the basic reaction =
+process of actions performed is the need or the consequence to be faced in =
+order that the egosense can learn to be more responsible in its actions.. A=
+nd, here is the catch in the theory of Karma that I believe in, the reactio=
+n process again is exact and divided into a reaction to the body or to the =
+mind or to the life based on the instrument which was used to perform/engag=
+e in a specific karma. Now since our ego-sense will identify with these to =
+hold them together, so the
+ egosense will experience the reaction. We mostl=
+y live from our egosense. But soul is hardly the ego. It lies much much dee=
+per. Now assuming suddenly that the individual in the next birth has a tota=
+l spiritual transformation and is able to manifest the soul and live life f=
+rom it, the reactions may not come or if they do may be highly reduced in n=
+ature such as not to be of any real consequences. When the soul starts gove=
+rning an individual instead of his/her egosense, Nature laws for such an in=
+dividual becomes different from others. 
+
+
+In another model of reality, it =
+is the karana sharir will hold the seeds of the karma. which is never destr=
+oyed. But the karana sharir is very different from the normal mind or life =
+or body. It is more like a super subtle background process in all individua=
+ls. To be able to reach consciousness the karana sharir, is a very very hig=
+h spiritual achievement. Our karmas are mostly and almost always in the rea=
+lm of body, life and mind. Karana is way beyond this. A typal repository of=
+ various things. It is infact only when a person can experience the karana =
+sharir that he/she can really enter into the realm of the Great Gods. They =
+are Beings of this karana jagat, typal and fixed in essence, never changing=
+, like the individual karana sharir. Now one can logically ask, so if the k=
+arana sharir is recording karma, is it not getting fatter? This is a proble=
+m of our logical mind which may not hold true in that realm. If=C2=A0 we ke=
+ep adding jugs of water to the ocean,
+ will it overflow? No. This is quite =
+beyond the normal mind which is limited by its own regimented logic.
+
+
+Each=
+ of the sharir is not only an individual's own but is also effectively and =
+fluidly connected to the whole world of that realm. So with the physical we=
+ interact and live in the physical world, with the sukshma we interact and =
+be a part of the sukshma jagat, same with the karan. Only difference being =
+the depth, intensity and the nature of these three. The Karana is very fixe=
+d and supremely subtle. Like a seed. While the sthula is the maximum change=
+able of the three. Everything that is there in the sthula jagat is born out=
+ of a seed from the karana. As such, nothing in the sthula can go beyond th=
+e potentialities held by its most fundamental essence that lies in the Kara=
+na. Hence great Yogis, those who can access this realm at will, can know th=
+e most essential nature of a thing by experiencing what a thing is in its d=
+eepest essence in this Karana jagat, and thus get to know all its possibili=
+ties without ever trying to explore them in the physical realm
+ or the subt=
+le realm. Quite off limits for most of us.
+
+
+Hope this helps.
+
+-Regards
+=C2=
+=A0Rajarshi
+
+=C2=A0
+
+I have a hundred lives before me yet/ To grasp thee in=
+, O spirit ethereal, / Be sure I will with heart insatiate/ Pursue thee lik=
+e a hunter through them all.-Sri Aurobindo
+
+
+
+On Monday, 28 October 2013 11=
+:44 PM, Ajit Krishnan <ajit.krishnan@...> wrote:
+ 
+=C2=A0 
+Dear Naras=
+imha,
+
+>=C2=A0Most of the past life regression therapies ... are just gimmi=
+cs and/or hallucinations.
+
+
+
+
+
+Doesn't all sadhana belong in the same bucke=
+t? Aren't all visualizations and attempts to focus on a mantra or it's deva=
+ta also trying to setup a particular "hallucinatory" mental framework? And =
+aren't the results of karma ... be it the "siddhi" that results from focusi=
+ng on a mantra, or the "knowledge" that results from an attempt to tap into=
+ the past ... don't they all belong in same bucket?
+
+If some knowledge of t=
+he past, be it "fake" or "real", helps the sadhaka overcome some vasana, is=
+ it any worse than any other sadhana that allows the sadhaka to overcome th=
+e same vasana?
+
+Pop culture and "new age" proponents package things as bein=
+g "easy" or "perfect". If instead, we admit that they are most certainly im=
+perfect, does it make them devoid of value? Isn't a sadhaka just as likely =
+to hallucinate during the meditation at the end of homa, as he is to halluc=
+inate during the meditation that is a part of past life regression therapy?=
+
+
+sasneham,
+
+=C2=A0 =C2=A0 ajit
+
+
+=C2=A0
+
+
+On Sun, Oct 27, 2013 at 6:27 AM,=
+ Narasimha P.V.R. Rao <pvr108@...> wrote:
+
+
+>
+>
+>Namaste,
+>=C2=A0
+><<=
+To respected 
+Narasimha sir, I would like to inform that these are not "new=
+ age 
+ideas". These were there much before in India. to cite concept of "Ja=
+ati Smaran" of Jainism is one among them. Jainas 
+used this technique of "J=
+aati Smaran" to reinforce renunciation in the followers.>>
+>
+>=C2=A0
+>Of=C2=
+=A0 course, "new age ideas" are not new ideas. They are old ideas that are =
+dumbed down and packaged nicely for today's pop culture.
+>=C2=A0
+>My point =
+is NOT that past life and any of its details cannot be recalled. It is that=
+ it is not at all easy and possible only in very rare cases. Nature makes i=
+t exceedingly difficult, for a reason.
+>=C2=A0
+>Most of the past life regre=
+ssion therapies and past life regression TV shows people see are just gimmi=
+cs and/or hallucinations.
+>=C2=A0
+>Best regards,
+>Narasimha
+>--------
+>Astr=
+ology & Spirituality Resources: http://www.VedicAstrologer.org
+>--------
+>
+=
+>=C2=A0
+>
+>
+>>________________________________
+>> From: Tanmaya Behera <tan=
+mayabehera@...>
+>>To: "vedic-wisdom@yahoogroups.com" <vedic-wisdom@ya=
+hoogroups.com> 
+>>Sent: Sunday, October 27, 2013 2:14 AM
+>>Subject: Re: [ve=
+dic-wisdom] Past life regression (Re: Mantra for protection from spirits (a=
+t nighttime))
+>> 
+>>
+>>
+>>=C2=A0 
+>>Hello! Everyone,
+>>=C2=A0
+>>I just thou=
+ght of adding some clarifications.
+>>=C2=A0
+>>First of all, when I mentione=
+d about the utility of techniques of "Hypnotherapy" and "Past Life Regressi=
+on" for handling the problem of spirit attachments as well as many other pr=
+oblems for which we do not have reasonable explanation, my assertions were =
+limited to the utility part only and not beyond that. I have no knowledge a=
+bout whether past life exists or not, in fact I do not have any knowledge a=
+bout anything whatsoever, as I believe, any knowledge without the knowledge=
+ of the THAT...The Absolute....is half knowledge or no knowledge in the pro=
+per sense of the term. However, in our this empirical life we have to still=
+ continue with life irrespective of the fact of having absolute knowledge o=
+r not. Though we know for sure that the Sun does not make rounds of the ear=
+th but it is the other way around, still we use sentences like "Sun rises=
+=C2=A0in the east", "Sun=C2=A0sets=C2=A0in the west" etc. To keep life goin=
+g, we keep on continuing with activities which
+ helps in keeping life go on=
+...It is in this sense that I'd mentioned about "Hypnotherapy" and "Past Li=
+fe Regression".
+>>=C2=A0
+>>One should not comment about the wealth inside a=
+ sea just by standing at the shore. Life is full of infinite possibilities.=
+ When we say that the God is infinite, we just can not say that the univers=
+e can behave in any particular limited ways. Before anyone comments about t=
+he utility of any branch of knowledge one=C2=A0must first take a sincere di=
+p into the same. By saying so, I do not mean to say that if=C2=A0one really=
+ takes a sincere dip into any subject one would definitely be convinced abo=
+ut the same.=C2=A0By saying that one shouldn't make comments before taking =
+a sincere dip, I just mean to say that=C2=A0by doing so one would prevent o=
+neself from being dogmatic, narrow. Not only=C2=A0blind belief in religion =
+and religious practices=C2=A0can be termed as dogmatic but also in science =
+if one loses the scientific temper.
+>>=C2=A0
+>>Proof of pudding is in eatin=
+g it, all that I can say to the persons willing to address any of their pro=
+blems. "Hypnotherapy" and "Past Life Regression" have immense utility for=
+=C2=A0those who are desirous of addressing their problems with an open mind=
+. Those who are interested can read " Many Lives, Many Masters by Brian Wei=
+ss" to start with.
+>>=C2=A0
+>>To respected Narasimha sir, I would like to i=
+nform that these are not "new age ideas". These were there much before in I=
+ndia. to cite concept of "Jaati Smaran" of Jainism is one among them. Jaina=
+s used this technique of "Jaati Smaran" to reinforce renunciation in the fo=
+llowers.
+>>=C2=A0
+>>To Phil Stinnet, I would like to inform that=C2=A0so fa=
+r as my knowledge goes Past Life Regression (PLR) can not be done over phon=
+e, but however, there are so many problems which can be handled even over p=
+hone. To cite one example - One girl was having=C2=A0one recurrent bad horr=
+ifying dream for past 4/5 years and she=C2=A0approached me for the treatmen=
+t.=C2=A0But due to my=C2=A0official engagements I was camping at a far off =
+place for around 2 months.=C2=A0Her problem was getting worsened as it=C2=
+=A0had=C2=A0 started affecting her professional career adversely. So having=
+ left with no choice, I agreed to give her a session over phone. The phone =
+session continued for around one and half an hour and she got relieved from=
+ her that recurrent dream and also started improving her professional life.=
+ Since that day the dream has not yet visited her again.
+>>=C2=A0
+>>It all =
+depends on the openness of the mind, the strength of the desire to overcome=
+ etc. The universe is much more than what we see,what we can see and what w=
+e can believe to see.
+>>=C2=A0
+>>Regards
+>>=C2=A0
+>>
+>>
+>>
+>>On Saturday, O=
+ctober 26, 2013 3:00 PM, rajarshi nandy <rajarshi14@...> wrote:
+>> =
+
+>>=C2=A0 
+>>Namaste,
+>>
+>>To add to the complexity of the problem, I belie=
+ve our understanding of the reincarnation is over simplified and that cause=
+s more problems. Reincarnation is of the soul, and the soul will recall tho=
+se specific moments from past lives when the soul had a role to play on the=
+ external consciousness. Which means if one has lived a life where there ne=
+ver was any opportunity for the soul to come forth and shine, in later birt=
+h it cannot be recalled. For death is a complete process. Body, mind, life =
+all get dissolved and new set is generated based on need.
+>>
+>>The Buddhist=
+s do not believe in the existence of a soul. They believe in Shunya - which=
+ is similar to our idea of Atmah.
+ Therefore
+ their idea of reincarnation
+ =
+is very different. It is like an energy stream made up of mind, body that c=
+oalesces together
+ to give the impression of an individual being, which upo=
+n death get disintegrated and and spread into the greater flow of energy. N=
+ow part(s) of these can coalesce into another formation at a later date, an=
+d some other parts can simultaneous or at a different point can coalesce in=
+to a different part. =C2=A0 Hence it is possible for a Lama, in their doctr=
+ine of reincarnation, to have the some parts of his energy reincarnate into=
+ one body while another part of his energy reincarnate into another body *s=
+imultaneously*. Like a Lama may have his energy of speech incarnating in on=
+e person, while his energy of mind incarnating in another person, or his en=
+ergy of body incarnating in another person and all these happening simultan=
+eously! It fits with their philosophy.
+>>
+>>Those philosophies which believ=
+ed in this kind of a reincarnation looked at the Universe only as a constan=
+t flow of energy governed only by a supreme law of
+ debts/balances - rna. H=
+ence
+ rnabandhana. Jain scriptures are replete with this term. The final ai=
+m of all this is to get rid of the illusion of life and move into a Supreme=
+ Negation - Shunya/Nirvana. There is nothing here that is of any final impo=
+rtance. Hence the tendency towards strict and formal renunciation of life a=
+nd its processes.
+>>
+>>But the old Vedantic idea was different. There was a=
+ soul - that is not dissolved at death unlike body/mind etc - but carried f=
+orward from one life to another and the chief aim of human evolution was to=
+ assist and develop this soul's influence on the earth. The soul inhabits a=
+nd uses a human mind/body vehicle for this purpose. The great idea was that=
+ this individual and unique soul - for no two souls are exactly same - in s=
+ome birth finally, be able to *consciously* operate on an individual human =
+vehicle and enjoy a Divine Life.=C2=A0A Supreme Negation of life is 
+not th=
+e ultimate aim, it is only one among many possibilities.=C2=A0 If=C2=A0 mov=
+ing into a state 
+of complete negation/Shunya/Other-world is the final and =
+inevitable aim, then there was just no need for Avataras to descend and per=
+form complex life-actions. The law of Karma is here too, but it is not rest=
+ricted to only an idea of give and take of energy as in the case of the ide=
+a of rnabandhana. The important thing is whether an action is helping the s=
+oul to unfurl and come forth to the surface. If it does, then it changes th=
+e karmic equations immediately. Nature is a massive, complex, unfailing and=
+ real-time algorithm. That is why a Ratnakara -a bandit who must have kille=
+d hundreds of people can transform himself into a Rishi Valmiki [ he did no=
+t have to actually get born a hundred times to get killed in the hands of t=
+hose he had killed]. Whereas those aspects of life 
+where the soul has no p=
+lay or no scope of play, are firmly governed by 
+the law of rnabandhanas - =
+a mechanical give and take of energy. 
+>>
+>>
+>>Now since the soul is what r=
+emembers and everything else being perishable, the only indestructible link=
+ between past life and present life, it is only the soul-moments which will=
+ be recalled, and never a complete cinematic biography recollection. That i=
+s fantasizing. Now if there have been lives when the soul had little or no =
+frontal role to play at all, then those are dead and gone and buried six fe=
+et under with no trace. For Nature, those lives serve no purpose at all. 
+>=
+>
+>>
+>>
+>>Moreover all these are possible ONLY if and when an individual st=
+arts living in and through the soul in a very very strong manner. That is n=
+ot easy. 
+>>
+>>-Regards
+>>=C2=A0Rajarshi
+>>
+>>=C2=A0
+>>
+>>
+>>I have a hundr=
+ed lives before me yet/ To grasp thee in, O spirit ethereal, / Be sure I wi=
+ll with heart insatiate/ Pursue thee like a hunter through them all.-Sri Au=
+robindo
+>>
+>>
+>>
+>>On Saturday, 26 October 2013 7:38 AM, Narasimha P.V.R. R=
+ao <pvr108@...> wrote:
+>> 
+>>=C2=A0 
+>>Namaste,
+>>=C2=A0
+>>I know tho=
+se who are excited by these new age ideas like "past life regression" will =
+be badly upset with honest views, but let me state my view.
+>>
+>>=C2=A0
+>>I=
+t is possible to remember past life. 
+However, if such memory does not come=
+ at a very young age due to some deep 
+desires from past life or an unnatur=
+al death before, it is not easy to get it later. Even for a great yogi with=
+ tremendous self-control, calming the mind down to suppress 
+current condit=
+ioning sufficiently to remember past life is not easy.
+>>=C2=A0
+>>For examp=
+le, at least 3 saints/yogis of a high spiritual caliber claimed to be re-in=
+carnations of Ramakrishna Paramahamsa. If such saints cannot accurately kno=
+w their own past life, anybody thinking that someone else can make one awar=
+e of one's past life is just kidding oneself.
+>>=C2=A0
+>>Remembering past l=
+ife or making someone else do so, is not at all easy. In comparison, halluc=
+inating that one remembered past life or making someone else 
+hallucinate t=
+hat one remembered past life, is certainly very easy! In fact, I suspect th=
+at is what happens in most past life regressions..
+>>
+>>=C2=A0
+>>There is a=
+ deep reason why 
+Nature has built this mechanism of forgetting a life when=
+ another life 
+starts. Otherwise, this game will end very quickly. This for=
+getfulness prolongs the game very much and makes it far more interesting.
+>=
+>=C2=A0
+>>Best regards,
+>>
+>>Narasimha
+>>--------
+>>Astrology & Spiritualit=
+y Resources: http://www.vedicastrologer.org/
+>>--------
+>>
+>>=C2=A0
+>>
+>>Fr=
+om: Phil Stinnet <philstinnet@...>
+>>>To: "vedic-wisdom@yahoogroups.c=
+om" <vedic-wisdom@yahoogroups.com> 
+>>>Sent: Friday, October 25, 2013 9:16 =
+PM
+>>>Subject: Re: RE: Re: [vedic-wisdom] Re: Mantra for protection from sp=
+irits (at nighttime)
+>>> 
+>>>
+>>>
+>>>=C2=A0 
+>>>Did you get your PLR (Past =
+Life Regression)? Can it be done over the phone or through email?
+>>>
+>>>
+>=
+>>Thanks
+>>>
+>>>
+>>>
+>>>On Friday, October 25, 2013 3:24 PM, Tanmaya Behera=
+ <tanmayabehera@...> wrote:
+>>> 
+>>>=C2=A0 
+>>>Hello! Everyone
+>>>If =
+it's only a case of being possessed by Spirits then there are many ways ava=
+ilable in hypnotherapy and past life regression therapy to deal with the sa=
+me. I myself can also do it if anyone is in need of the same. But since I a=
+m not a professional and I'm a govt servant in India, sometimes I might fin=
+d difficulty in adjusting my time. I'm pursuing this as a hobby only and I =
+don't charge for the services.  For persons who need urgent help can contac=
+t any good professional hypnotherapist or past life regression therapist. T=
+here are lot many ways to handle varieties of issues for which one may not =
+find any explanation. Websites of two such professional and good institutes=
+ I can recommend are www.liferesearchacademy.com and www.hypnotherapyschool=
+india.com. if you Google for hypnotherapist and past life regression therap=
+ists for your area you might get many of them. But please check their crede=
+ntials before approaching anyone except for the two I referred
+ above about=
+ whom I've personal knowledge of being highly competent. I hope that this i=
+nformation is helpful.
+>>>Regards
+>>>Tanmoya
+>>>Sent from Yahoo Mail on And=
+roid 
+>>>
+>>>
+>>>From:  srinivas.kommireddy@... <srinivas.kommireddy@=
+gmail.com>; 
+>>>To:  <vedic-wisdom@yahoogroups.com>; 
+>>>Subject:  RE: Re: =
+[vedic-wisdom] Re: Mantra for protection from spirits (at nighttime) 
+>>>Se=
+nt:  Fri, Oct 25, 2013 3:46:39 PM 
+>>>
+>>>
+>>>=C2=A0 
+>>>Hi Everyone,
+>>>
+>=
+>>
+>>>I accidentally stumbled upon this page while searching for the meanin=
+g of the Lakshmi Nursimha beeja mantra. I found a very mature and realistic=
+ treatment of ghosts, paranormal beings and black magic.
+>>>
+>>>
+>>>http://=
+www.veda.harekrsna.cz/encyclopedia/ghosts_FAQ.htm
+>>>
+>>>
+>>>
+>>>The summar=
+y of the FAQ is:
+>>>
+>>>
+>>>=C2=A0 - There are number of mantra's suggested=
+. One of them is the Nursimha beeja mantra
+>>>
+>>>=C2=A0 =C2=A0 =C2=A0 om h=
+rim kshraum=C2=A0ugram viram Maha-Vishnum=C2=A0jvalantam sarvatho mukham
+>>=
+>=C2=A0 =C2=A0 =C2=A0 Nrisimham bhishanam bhadram=C2=A0mrityu-mrityum namam=
+y aham
+>>>
+>>>=C2=A0 - Playing Bhagvatgita in Sanskrit, keeping a Bhagvat G=
+ita book in room helps
+>>>=C2=A0 - Doing some punya karya - e.g. chant Bhag=
+vat Gita and donate the result to the ghost, so that it has enough punya to=
+ move on. This should be preferably done by the immediate family members.
+>=
+>>
+>>>
+>>>It also suggests contacting the following for help. The extract f=
+rom the FAQ is: "There're many types of exorcism. It's officially performed=
+ e.g. by Roman-Catholic Church. It's also done in Orthodox Church. The simp=
+lest Catholic exorcism is a so-called release/liberation prayer which helps=
+ in easier cases. Every priest knows it. When it fails, a professional exor=
+cist has to be approached. Catholic exorcists are experienced and provide t=
+heir services free of charge. Every diocese has one and a local priest shou=
+ld be able to provide contact.".
+>>>
+>>>
+>>>On a personal note, my maternal=
+ grandmother was very attached to my mom and me. After death she used to po=
+ssess my mother regularly and occasionally me. She finally moved on after m=
+y parents, me and my younger brother did Pitrudosha & Kalasarpa Dosha remov=
+al poojas at Trimbakeshwar.=C2=A0
+>>>
+>>>
+>>>Srinivas
+>>>
+>>>
+>>>---In vedi=
+c-wisdom@yahoogroups.com, <vedic-wisdom@yahoogroups.com> wrote:
+>>>
+>>>
+>>>=
+Namaste Narasmha Rao ji,
+>>>I dis send a.private email to u about this. Did=
+ u get it?
+>>>Thanks, 
+>>>Bhupendra 
+>>>
+>>>
+>>>From:  Narasimha P.V.R. Rao=
+ <pvr108@...>; 
+>>>To:  vedic-wisdom@yahoogroups.com <vedic-wisdom@yahoogro=
+ups.com>; 
+>>>Subject:  [vedic-wisdom] Re: Mantra for protection from spiri=
+ts (at nighttime) 
+>>>Sent:  Thu, Aug 22, 2013 12:31:33 AM 
+>>>
+>>>
+>>>=C2=
+=A0 
+>>>Namaste Sir,
+>>>
+>>>=C2=A0
+>>>I live in greater Boston. I am not aw=
+are of any priests in this area who can fix this. I know a priest who did t=
+hese things before, but he is in India. I was unable to contact another Bos=
+ton priest related to him, who I suspected could take care of this.
+>>>=C2=
+=A0
+>>>People may give you various mantras for this purpose. But they may o=
+r may not work. If Tendulkar or Dhoni tells you how you can play a good sho=
+t on a particular kind of ball, you may not be able to play that shot right=
+ away. Even if it is an easy shot, it may take a lot of practice for you to=
+ get it right. Even with mantras, one needs enough focused practice for the=
+m to work for one.
+>>>=C2=A0
+>>>In general, it is far easier (relatively) t=
+o fix weakness of mind and protect it, before it reaches a crisis point lik=
+e this. Hanuman, Bhairava, Chandi, Narasimha - so many deities can be worsh=
+ipped for this purpose. However, fixing it after it reaches a crisis point =
+requires someone who has enough shakti and knows how to direct it.
+>>>=C2=
+=A0
+>>>Some replies referred to saints/swamis who are very pure/elevated et=
+c. Even if one is pure or elevated, one may not necessarily be able to help=
+. This really requires some shakti and the ability to direct it for this sp=
+ecific task.
+>>>
+>>>=C2=A0
+>>>Though I live in the area, I am not capable o=
+f doing anything personally. However, if anybody in troubles like this is i=
+nterested and visits me, I can give some ash from my daily homam of divine =
+Mother. They can apply it on the forehead of the person everyday. Of course=
+, I don't know if it will help in any way.
+>>>=C2=A0
+>>>If interested, plea=
+se send a private email to pvr108@....
+>>>
+>>>=C2=A0Best regards,
+>>>
+>>>Na=
+rasimha
+>>>--------
+>>>Astrology
+ &
+ Spirituality
+ Resources: http://www.ve=
+dicastrologer.org/
+>>>--------
+>>>
+>>>=C2=A0
+>>>
+>>>From: "b_jamnadas@..." =
+<b_jamnadas@...>
+>>>>>To: vedic-wisdom@yahoogroups.com 
+>>>>>Sent: Saturday=
+, August 10, 2013 5:51 PM
+>>>>>Subject: Re: [vedic-wisdom] Re: Mantra for p=
+rotection from spirits (at nighttime)
+>>>>> 
+>>>>>
+>>>>>
+>>>>>=C2=A0 
+>>>>>=
+Thank you very much Rajarshi. I will relay this to the parents of the victi=
+m. Even the parents wish to take her to India, =C2=A0but for the time being=
+ the victim is just to unstable to travel calmly on such a long plane journ=
+ey.
+>>>>>
+>>>>>
+>>>>>Thanks, 
+>>>>>Bhupendra 
+>>>>>
+>>>>>From: "rajarshi na=
+ndy" <rajarshi14@...>
+>>>>>To: "wisdom" <vedic-wisdom@yahoogroups.com>
+>>>>=
+>Sent: August 10, 2013 2:17 PM
+>>>>>Subject: Re: [vedic-wisdom] Re: Mantra =
+for protection from spirits (at nighttime)
+>>>>>
+>>>>>=C2=A0 
+>>>>>Namaste =
+Sir,
+>>>>>
+>>>>>I don't know about foreign countries. I am sure there too o=
+ne can find good exorcists, maybe not of our religion. 
+>>>>>
+>>>>>I have v=
+ery little knowledge about Panchamukhi Hanumana, infact unfortunately have =
+never ever tried any sadhana of Lord Hanumana till date.
+>>>>>
+>>>>>However=
+, there is a particular mantra of Lord Bhairava which is considered to be o=
+f excellent potency for these kind of problems. This form of Bhairava is a =
+small child, known as Vatuka. As per some Tantrik scriptures He is also ref=
+erred to as the one whose mother is Sahashra Chandika. References to this f=
+orm can be found in the Rudrayamala, at least some versions of the Rudrayam=
+ala. This child Bhairava has been
+ invoked for centuries
+ by
+ followers of =
+Shakta/Aghor traditions for protection against spirits, and specially durin=
+g rituals
+ of cremation ground. 
+>>>>>
+>>>>>The standard mantra is (there a=
+re many variations of this mantra too, all are good):
+>>>>>
+>>>>>"Om Hreem =
+Vatukaay Aapad Uddhaarnnaay Kuru Kuru Vatukaay Hreem Om"
+>>>>>
+>>>>>General=
+ly, at least 10/11 malas of the same should be done in one sitting. And thi=
+s should be continued daily till such time that there is some visible relie=
+f. One more thing is that, IF, this is a really genuine instance of spirit =
+possession, as far as I have seen, it would be quite impossible to rid the =
+problem by any exorcist from a distance. These days almost no one has that =
+kind of terrific shakti to cure a case of possession from a distance. Physi=
+cal presence in front of the victim is a must for the one trying to help.=
+=C2=A0So close family members, who live with the girl will have to do the s=
+adhana. If you go through the Bhairava homam manual by Narasimha, you will =
+find methods of doing homas with this mantra. But I guess being in a foreig=
+n land homas may not be that easy.
+>>>>>
+>>>>>If the family visits India, t=
+hen I have a suggestion. Please ask them, if possible, to visit Kashi and t=
+hen go to either the Kalabhairava or Vatuka Bhairava temple. Once inside th=
+e temple speak to the main priest stating the problem. Around these two tem=
+ples in Kashi, many excellent sadhakas of Bhairava live who are adepts in r=
+emoving any kind of negative influence. They may charge a certain fee for t=
+he ritual and then ask the parents and the girl to come with some specific =
+samagris on a specific day/tithi inside the temple and then perform their r=
+ituals. Many I know have actually benefited. This is one method. I am sure =
+their maybe other methods too. I just wrote what came to my mind. 
+>>>>>
+>>=
+>>>Hope
+ this
+ helps.
+>>>>>
+>>>>>-Regards
+>>>>>=C2=A0Rajarshi
+>>>>>
+>>>>>
+>=
+>>>>
+>>>>>
+>>>>>=C2=A0
+>>>>>
+>>>>>
+>>>>>I have a hundred lives before me ye=
+t/ To grasp thee in, O spirit ethereal, / Be sure I will with heart insatia=
+te/ Pursue thee like a hunter through them all.-Sri Aurobindo
+>>>>>
+>>>>>
+>=
+>>>>From: "b_jamnadas@..." <b_jamnadas@...>
+>>>>>To: vedic-wisdom@yahoogrou=
+ps.com 
+>>>>>Sent: Saturday, 10 August 2013 6:36 PM
+>>>>>Subject: Re: [vedi=
+c-wisdom] Re: Mantra for protection from spirits (at nighttime)
+>>>>> 
+>>>>=
+>
+>>>>>
+>>>>>=C2=A0 
+>>>>>Namaste. Rajarshri,
+>>>>>
+>>>>>
+>>>>>Thank you fo=
+r your detailed response. I did post a request a few weeks ago asking if pe=
+ople around Boston area in US knew of any exorcist. But unfortunately recei=
+ved no response. So again I ask if someone knows of a good priest around Bo=
+ston area, please let me know. Until then, I have to go with. The diagnosis=
+ of 2 independent remote healers in India who came to the same conclusion,u=
+sing that this was a case of possession. =C2=A0But none of the two have bee=
+n able to do anything about it so far. They both say that this is an entity=
+ that keeps revisiting the little girl.
+>>>>>
+>>>>>
+>>>>>The doctors themse=
+lves are treating this as psychiatric case. Don't know what is true and wha=
+t is not as no one has been able to help including the doctors.
+>>>>>
+>>>>>=
+
+>>>>>Do you know of any particular Kali, Bhairav or Panchmukhi Hanuman man=
+tra which they could recite? I could advice that they learn this and recite=
+ as u have advised.
+>>>>>
+>>>>>
+>>>>>Thanks, 
+>>>>>Bhupendra 
+>>>>>
+>>>>>Fr=
+om: "rajarshi nandy" <rajarshi14@...>
+>>>>>To: "vedic-wisdom@...=
+m" <vedic-wisdom@yahoogroups.com>
+>>>>>Sent: August 10, 2013 4:01 AM
+>>>>>S=
+ubject: Re: [vedic-wisdom] Re: Mantra for protection from spirits (at night=
+time)
+>>>>>
+>>>>>=C2=A0 
+>>>>>Namaste Sir,
+>>>>>
+>>>>>A possession by a for=
+eign entity, IF genuine, is always a very serious matter. For there are var=
+ious classes and kinds and types of entities which can possess an individua=
+l and some of them can be downright nasty.
+>>>>>
+>>>>>Upayas are many. As s=
+o many different people have advised, these all sadhanas *can* work, theore=
+tically, but whether any one of them will actually work in a specific case =
+or not depends on multiple factors. Basically, there is no guarantee of any=
+ method. It all depends on what kind of spirit(s)/being(s) has possessed th=
+e individual and what their link for the same is. By link it means one has =
+to find out the root, or source of exactly what action allowed them to ente=
+r into the person.
+ Sometimes it can be
+ something
+ as simple as spitting s=
+omewhere (where this being(s) reside), or
+ causally entering into their ter=
+ritory and being susceptible to such possession by certain weakness in the =
+mind and body, or in some cases where such entities are deliberately send t=
+o cause harm to an individual, ETC ETC. Whatever be the source, there is no=
+ sure shot one stop method of removing and handling such a situation. It al=
+l depends on the shakti of the spirit, and the amount of shakti that those =
+trying to help are able to generate in order to remove the spirit.Moreover,=
+ if the spirit of a violent and extremely malevolent nature, then unless th=
+e person trying to remove it is an adept in this, he/she may come to seriou=
+s harm.
+>>>>>
+>>>>>These things like removing possession are specialization=
+s. These do not fall under the ambit of normal sadhana. Unless one knows we=
+ll what one is getting into, any sadhaka with even basic common sense would=
+ do best to stay away. Every action has its repercussion and one must know =
+well how to
+ handle the same too. Again
+ if a spirit is removed by force be=
+fore the time till which, based on previous karma, it was supposed to be in=
+ possession of the individual, then that too starts a new karmic chain whic=
+h will involve some not so pleasant consequences for the person who tried t=
+o remove the spirit. It is all a complex chain.
+>>>>>
+>>>>>[Reminds me of a=
+ particular individual I knew some years ago who was an expert in exorcism.=
+ But before starting any exorcism he would ask his Guides to tell him about=
+ the spirit as well as the time frame for which the spirit would stay in po=
+ssession as per the previous karmic link between the spirit and the victim.=
+ Then he would sit and do rituals daily to entice the spirit to leave the b=
+ody of its own free will, promising good deeds for the spirit in return. Ne=
+ver trying to remove it by force. Most cases it would work. Rare cases wher=
+e the spirit is of a very violent nature, force had to be applied.]
+>>>>>
+>=
+>>>>Best thing to do is a) find someone
+ who knows exactly how to deal with=
+ spirit possession and hope for the best. b) In the event the first is not =
+possible, ask family members to pick sadhana/mantra of any deity - preferab=
+ly Bhairava, Kali, Chandi, Narasimha,panchamukhi Hanumana ETC (fierce forms=
+ are better) - and do it with samkalpa with sufficient force and will and t=
+ime. Which means, a 10-20 mins path of hanuman chalisa may not help. Depend=
+s on the degree of possession. Someone may have to spend 3-5 hours daily wi=
+th any sadhana with the mental belief/faith/will/determination to see this =
+through to the very end. While doing the sadhana keep a bowl of water in a =
+copper pot, and then either make the possessed individual drink the water o=
+r sprinkle it on him/her. And pray as hard as possible. 
+>>>>>
+>>>>>Best of=
+ luck and may God help the family.
+>>>>>
+>>>>>-Regards
+>>>>>=C2=A0Rajarshi
+=
+>>>>>
+>>>>>
+>>>>>
+>>>>>
+>>>>>
+>>>>>=C2=A0
+>>>>>
+>>>>>
+>>>>>I have a hundred=
+ lives before me yet/ To grasp thee in, O spirit ethereal, / Be sure I will=
+ with heart insatiate/ Pursue thee like a hunter through them all.-Sri Auro=
+bindo
+>>>>>
+>>>>>
+>>>>>From: Bhupendra Jamnadas <b_jamnadas@...>
+>>>>>To: "=
+vedic-wisdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com> 
+>>>>>Sent: Sa=
+turday, 10 August 2013 8:17 AM
+>>>>>Subject: Re: [vedic-wisdom] Re: Mantra =
+for protection from spirits (at nighttime)
+>>>>> 
+>>>>>
+>>>>>
+>>>>>=C2=A0 
+=
+>>>>>Thank you Nithin, I will convey this to the parents.  I am amazed that=
+ mo one siggested any Hanuman related upayas. I always learnt as a child th=
+at Hanuman chalisa recitation drives away all evil.
+>>>>>Thanks, 
+>>>>>Bhup=
+endra 
+>>>>>
+>>>>>
+>>>>>From:  K K <kk889123@...>; 
+>>>>>To:  vedic-wisdom@=
+yahoogroups.com <vedic-wisdom@yahoogroups.com>; 
+>>>>>Subject:  Re: [vedic-=
+wisdom] Re: Mantra for protection from spirits (at nighttime) 
+>>>>>Sent:  =
+Thu, Aug 8, 2013 5:48:14 AM 
+>>>>>
+>>>>>
+>>>>>=C2=A0 
+>>>>>Dear Bhupendraji=
+,
+>>>>>
+>>>>>
+>>>>>I feel the family should recite if possible whole Chandi=
+-Path for few days or at least the Chandi-Kavach everyday (its better if th=
+ey take sankalpa everyday before beginning that they are chanting to protec=
+t the girl from all negative energies, beings etc and free her of any such =
+problems) till the girl becomes alright. 
+>>>>>
+>>>>>
+>>>>>
+>>>>>-Nithin S
+=
+>>>>>
+>>>>>
+>>>>>
+>>>>>
+>>>>>
+>>>>>From: Priya M <prm7782@...>
+>>>>>To: "ve=
+dic-wisdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com> 
+>>>>>Sent: Wedn=
+esday, 7 August 2013 2:46 AM
+>>>>>Subject: Re: [vedic-wisdom] Re: Mantra fo=
+r protection from spirits (at nighttime)
+>>>>> 
+>>>>>
+>>>>>
+>>>>>=C2=A0 
+>>=
+>>>Namaste Bhupendra ji,
+>>>>>
+>>>>>
+>>>>>I pity the family and also the gi=
+rl. Try calling rudraksha-ratna....they deal with severe voodoo/black magic=
+ cases and might be able to help. Alternatively did you try homams? Long ti=
+me back I had moved to an apartment which was haunted. I cleansed it throug=
+h rigorous prayers. =C2=A0I literally chanted god's name 24/7. I also know =
+of someone who has/is tackling extremely dangerous blackmagic through regul=
+ar homams. The details of her life will scare anyone. Today she has reduced=
+ the impact drastically just with homams. =C2=A0
+>>>>>
+>>>>>
+>>>>>=C2=A0htt=
+p://www.rudraksha-ratna.com/=C2=A0
+>>>>>
+>>>>>
+>>>>>
+>>>>>I will send out m=
+y prayers to the family.
+>>>>>Good luck and best regards,=C2=A0
+>>>>>Priya
+=
+>>>>>From: Bhupendra Jamnadas <b_jamnadas@...>
+>>>>>To: "vedic-wisdom@yahoo=
+groups.com" <vedic-wisdom@yahoogroups.com> 
+>>>>>Sent: Monday, August 5, 20=
+13 9:28 PM
+>>>>>Subject: Re: [vedic-wisdom] Re: Mantra for protection from =
+spirits (at nighttime)
+>>>>> 
+>>>>>
+>>>>>
+>>>>>=C2=A0 
+>>>>>Namaste All,
+>>=
+>>>I am very interested in this email thread. I know of a family in Boston =
+where one of the family members is posessed. I had asked for help in this f=
+orum but did not get any response. If someone could provide some guidance, =
+that would be great.
+>>>>>The situation is very bad and the family is virtu=
+ally broke becuase of this spending on medical treatment because so far, no=
+ other help. In absence of any other solution,  this os being treated as me=
+dical condition.
+>>>>>Thanks, 
+>>>>>Bhupendra 
+>>>>>
+>>>>>
+>>>>>From:  ilya=
+.suzdalnitski <ilya.suzdalnitski@...>; 
+>>>>>To:  <vedic-wisdom@yahoogroups=
+.com>; 
+>>>>>Subject:  [vedic-wisdom] Re: Mantra for protection from spirit=
+s (at nighttime) 
+>>>>>Sent:  Mon, Aug 5, 2013 11:58:16 PM 
+>>>>>
+>>>>>
+>>>=
+>>=C2=A0 
+>>>>>Thanks, I will give it a try!
+>>>>>
+>>>>>What about Kala Bha=
+irava mantra? Can it be more efficient for a long-time Shiva devotee? I've =
+heard that it can repel spirits and ghosts. Can I chant these mantras at ni=
+ght before going to sleep?
+>>>>>
+>>>>>--- In vedic-wisdom@yahoogroups.com, =
+"Narasimha P.V.R. Rao" <pvr108@...> wrote:
+>>>>>>
+>>>>>> Namaste,
+>>>>>> =
+=C2=A0
+>>>>>> Minds stuck on earth without bodies can vibrate with thoughts=
+ (often 
+>>>>>> negative) and those vibrations can cause resonance in peopl=
+e's minds and 
+>>>>>> cause similar vibrations in them, to various degrees =
+based on the strength of people's minds.
+>>>>>> 
+>>>>>> =C2=A0
+>>>>>> There=
+ are many mantras, kavachas and prayers to shield from the vibrations of su=
+ch spirits, but the simplest and best IMHO is Hanuman Chalisa or any mantra=
+s of Hanuman. Chant Hanuman Chalisa and contemplate on Lord Hanuman for 5 m=
+inutes, just before sleeping.
+>>>>>> =C2=A0Hanuman's 12 name prayer is also=
+ good for chanting a few times before sleeping.It is given in the Hanuman h=
+omam manual at http://www.VedicAstrologer.org/homam. Among the several opti=
+ons given for pradhana homam, it is the two verses starting with "hanumAn a=
+MjanAsUnuH".
+>>>>>> =C2=A0
+>>>>>> Best regards,
+>>>>>> 
+>>>>>> Narasimha
+>>=
+>>>> --------
+>>>>>> Astrology  Spirituality Resources: http://www.vedicast=
+rologer.org/
+>>>>>> --------
+>>>>>> 
+>>>>>> =C2=A0
+>>>>>> 
+>>>>>> 
+>>>>>> >=
+________________________________
+>>>>>> >From: ilya.suzdalnitski <ilya.suzd=
+alnitski@...>
+>>>>>> >To: vedic-wisdom@yahoogroups.com 
+>>>>>> >Sent: Monda=
+y, August 5, 2013 11:20 AM
+>>>>>> >Subject: [vedic-wisdom] Mantra for prote=
+ction from spirits (at nighttime)
+>>>>>> > 
+>>>>>> >
+>>>>>> >
+>>>>>> >=C2=
+=A0 
+>>>>>> >Hello everyone,
+>>>>>> >
+>>>>>> >Recently I was staying at an =
+old house in a village. I had trouble falling asleep, because I could hear =
+strange noises -  creaking and something moving in the attic. I'm very sens=
+itive to different energies - I don't see anything, but I feel whether some=
+thing divine or rather evil is present in a certain place. That place didn'=
+t feel good to me.
+>>>>>> >
+>>>>>> >I was staying there for 10 days and eve=
+ry night I would make up because of a feeling of somebody staring at me - I=
+ could see them but once I started focusing on them, they vanished. Sometim=
+es I would wake up in a terrified state breathing rapidly. One day I could =
+definitely hear some steps near the bed and a roar. I reached for my flashl=
+ight to see nothing.
+>>>>>> >
+>>>>>> >This doesn't seem like sleep paralysi=
+s to me - I instantly become fully aware and I can move my body.
+>>>>>> >
+>=
+>>>>> >Can it be that spirits live in that place disturbing my sleep? There=
+ were a few more people staying at that place and everybody had severe prob=
+lems with sleep, so it's not just me.
+>>>>>> >
+>>>>>> >On the last night I =
+chanted Sri Rudram at that place before going to sleep and this was the onl=
+y night I was able to sleep properly.
+>>>>>> >
+>>>>>> >Upon coming back hom=
+e from that place I started waking up at home, feeling some strong presence=
+ - usually some short beings (up to 50 cm in height, I've seen them before =
+here though); Once the sun rises, all of the strange feelings disappear and=
+ I can sleep peacefully.
+>>>>>> >
+>>>>>> >Is there any mantra that will pro=
+tect me from all kinds of astral beings at night? Something that I can chan=
+t before going to sleep. This has been bothering me for some time now and i=
+t interferes with my life.
+>>>>>> >
+>>>>>> >Thank you in advance!
+>>>>>> >
+=
+>>>>>>
+>>>>>
+>>>>> 
+>>>>>
+>>>>>
+>>>>>
+>>>>> 
+>>>>>  
+>>
+>>
+>>
+>>
+>>
+>>
+>
+>
+=
+>
+
+
+--192144850-1505568846-1382986798=:33305
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"color:#000; background-color:#fff; font-family:ti=
+mes new roman, new york, times, serif;font-size:12pt"><div><span>Dear Ajit,=
+</span></div><div style=3D"color: rgb(0, 0, 0); font-size: 16px; font-famil=
+y: times new roman,new york,times,serif; background-color: transparent; fon=
+t-style: normal;"><br><span></span></div><div style=3D"color: rgb(0, 0, 0);=
+ font-size: 16px; font-family: times new roman,new york,times,serif; backgr=
+ound-color: transparent; font-style: normal;"><span><<</span>If the b=
+ody and mind get dissolved upon death, then where does karma 
+attach?>&g=
+t;<br></div><div style=3D"color: rgb(0, 0, 0); font-size: 16px; font-family=
+: times new roman,new york,times,serif; background-color: transparent; font=
+-style: normal;"> If the soul can recall, doesn't this soul now have some s=
+ort of a
+ body and/or mind? Instead of explicitly admitting a body (whether=
+ it is
+ subtle or gross) that survives upon death, haven't you just created=
+ an 
+implicit body bound to your concept of a soul?>></div><div style=
+=3D"color: rgb(0, 0, 0); font-size: 16px; font-family: times new roman,new =
+york,times,serif; background-color: transparent; font-style: normal;"><br><=
+/div><div style=3D"color: rgb(0, 0, 0); font-size: 16px; font-family: times=
+ new roman,new york,times,serif; background-color: transparent; font-style:=
+ normal;">I am not sure that I understood your question correctly. <br></di=
+v><div style=3D"color: rgb(0, 0, 0); font-size: 16px; font-family: times ne=
+w roman,new york,times,serif; background-color: transparent; font-style: no=
+rmal;"><br></div><div style=3D"color: rgb(0, 0, 0); font-size: 16px; font-f=
+amily: times new roman,new york,times,serif; background-color: transparent;=
+ font-style: normal;">Karma "attaches" itself by setting certain preconditi=
+ons/circumstances based on the desires of the soul and lessons the egosense=
+ must learn for manifesting the soul. This process is taken care of by Natu=
+re's
+ laws. These two - desire and need - are slightly different. At the mo=
+ment of death the soul has a specific ability to internalize and project wh=
+at it needs/wants to experience in the next birth. That gets set firmly. Th=
+at counts as a desire of the soul. And the basic reaction process of action=
+s performed is the need or the consequence to be faced in order that the eg=
+osense can learn to be more responsible in its actions.. And, here is the c=
+atch in the theory of Karma that I believe in, the reaction process again i=
+s exact and divided into a reaction to the body or to the mind or to the li=
+fe based on the instrument which was used to perform/engage in a specific k=
+arma. Now since our ego-sense will identify with these to hold them togethe=
+r, so the egosense will experience the reaction. We mostly live from our eg=
+osense. But soul is hardly the ego. It lies much much deeper. Now assuming =
+suddenly that the individual in the next birth has a total spiritual
+ trans=
+formation and is able to manifest the soul and live life from it, the react=
+ions may not come or if they do may be highly reduced in nature such as not=
+ to be of any real consequences. When the soul starts governing an individu=
+al instead of his/her egosense, Nature laws for such an individual becomes =
+different from others. <br></div><div style=3D"color: rgb(0, 0, 0); font-si=
+ze: 16px; font-family: times new roman,new york,times,serif; background-col=
+or: transparent; font-style: normal;"><br></div><div style=3D"color: rgb(0,=
+ 0, 0); font-size: 16px; font-family: times new roman,new york,times,serif;=
+ background-color: transparent; font-style: normal;">In another model of re=
+ality, it is the karana sharir will hold the seeds of the karma. which is n=
+ever destroyed. But the karana sharir is very different from the normal min=
+d or life or body. It is more like a super subtle background process in all=
+ individuals. To be able to reach consciousness the karana sharir,
+ is a ve=
+ry very high spiritual achievement. Our karmas are mostly and almost always=
+ in the realm of body, life and mind. Karana is way beyond this. A typal re=
+pository of various things. It is infact only when a person can experience =
+the karana sharir that he/she can really enter into the realm of the Great =
+Gods. They are Beings of this karana jagat, typal and fixed in essence, nev=
+er changing, like the individual karana sharir. Now one can logically ask, =
+so if the karana sharir is recording karma, is it not getting fatter? This =
+is a problem of our logical mind which may not hold true in that realm. If&=
+nbsp; we keep adding jugs of water to the ocean, will it overflow? No. This=
+ is quite beyond the normal mind which is limited by its own regimented log=
+ic.<br></div><div style=3D"color: rgb(0, 0, 0); font-size: 16px; font-famil=
+y: times new roman,new york,times,serif; background-color: transparent; fon=
+t-style: normal;"><br></div><div style=3D"color: rgb(0, 0, 0);
+ font-size: =
+16px; font-family: times new roman,new york,times,serif; background-color: =
+transparent; font-style: normal;">Each of the sharir is not only an individ=
+ual's own but is also effectively and fluidly connected to the whole world =
+of that realm. So with the physical we interact and live in the physical wo=
+rld, with the sukshma we interact and be a part of the sukshma jagat, same =
+with the karan. Only difference being the depth, intensity and the nature o=
+f these three. The Karana is very fixed and supremely subtle. Like a seed. =
+While the sthula is the maximum changeable of the three. Everything that is=
+ there in the sthula jagat is born out of a seed from the karana. As such, =
+nothing in the sthula can go beyond the potentialities held by its most fun=
+damental essence that lies in the Karana. Hence great Yogis, those who can =
+access this realm at will, can know the most essential nature of a thing by=
+ experiencing what a thing is in its deepest essence in
+ this Karana jagat,=
+ and thus get to know all its possibilities without ever trying to explore =
+them in the physical realm or the subtle realm. Quite off limits for most o=
+f us.<br></div><div style=3D"color: rgb(0, 0, 0); font-size: 16px; font-fam=
+ily: times new roman,new york,times,serif; background-color: transparent; f=
+ont-style: normal;"><br></div><div style=3D"color: rgb(0, 0, 0); font-size:=
+ 16px; font-family: times new roman,new york,times,serif; background-color:=
+ transparent; font-style: normal;">Hope this helps.</div><div style=3D"colo=
+r: rgb(0, 0, 0); font-size: 16px; font-family: times new roman,new york,tim=
+es,serif; background-color: transparent; font-style: normal;"><br></div><di=
+v style=3D"color: rgb(0, 0, 0); font-size: 16px; font-family: times new rom=
+an,new york,times,serif; background-color: transparent; font-style: normal;=
+">-Regards</div><div style=3D"color: rgb(0, 0, 0); font-size: 16px; font-fa=
+mily: times new roman,new york,times,serif;
+ background-color: transparent;=
+ font-style: normal;"> Rajarshi<br></div><div> </div><div><span s=
+tyle=3D"font-family:times new roman, new york, times, serif;"><br></span></=
+div><div><i><b><div class=3D"MsoNormal"><span style=3D"font-family:times ne=
+w roman, new york, times, serif;"><b><span class=3D"Apple-style-span" style=
+=3D"font-size:16px;"><b><span class=3D"Apple-style-span" style=3D"color:rgb=
+(153, 153, 153);"></span></b></span></b><span class=3D"yui_3_2_0_2_13424352=
+7249950">I have a hundred lives before me yet/ To grasp thee in, O spirit e=
+thereal, /</span> Be sure I will with heart insatiate/ Pursue thee like a h=
+unter through them all.</span><b><span style=3D"font-family:times new roman=
+, new york, times, serif;"> -Sri Aurobindo</span><span class=3D"yui_3_2_0_2=
+_134243506227946 yui_3_2_0_2_134243527249952 yui_3_2_0_2_137332740501958" s=
+tyle=3D"FONT-SIZE:10pt;COLOR:navy;FONT-FAMILY:Verdana;"></span></b></div></=
+b></i></div><div style=3D"display: block;"
+ class=3D"yahoo_quoted"> <br> <b=
+r> <div style=3D"font-family: times new roman, new york, times, serif; font=
+-size: 12pt;"> <div style=3D"font-family: times new roman, new york, times,=
+ serif; font-size: 12pt;"> <div dir=3D"ltr"> <font face=3D"Arial" size=3D"2=
+"> On Monday, 28 October 2013 11:44 PM, Ajit Krishnan <ajit.krishnan@gma=
+il.com> wrote:<br> </font> </div>  <div class=3D"y_msg_container"><div i=
+d=3D"yiv8222206901"><div>
+<span style=3D"display:none;"> </span>
+
+
+<di=
+v id=3D"yiv8222206901ygrp-mlmsg" style=3D"">
+  <div id=3D"yiv8222206901ygrp=
+-msg" style=3D"">
+
+
+    <div id=3D"yiv8222206901ygrp-text">
+      
+      
+ =
+     <div dir=3D"ltr">Dear Narasimha,<div><br clear=3D"none"></div><div>>=
+; <span style=3D"font-family:arial, helvetica, sans-serif;font-size:13=
+px;">Most of the past life regression therapies ... are just gimmics and/or=
+ hallucinations.</span><br clear=3D"none"><div class=3D"yiv8222206901gmail_=
+extra">
+
+<br clear=3D"all"><div><div dir=3D"ltr"><div><br clear=3D"none"></=
+div><div>Doesn't all sadhana belong in the same bucket? Aren't all visualiz=
+ations and attempts to focus on a mantra or it's devata also trying to setu=
+p a particular "hallucinatory" mental framework? And aren't the results of =
+karma ... be it the "siddhi" that results from focusing on a mantra, or the=
+ "knowledge" that results from an attempt to tap into the past ... don't th=
+ey all belong in same bucket?</div>
+
+<div><br clear=3D"none"></div><div>If =
+some knowledge of the past, be it "fake" or "real", helps the sadhaka overc=
+ome some vasana, is it any worse than any other sadhana that allows the sad=
+haka to overcome the same vasana?</div>
+
+<div><br clear=3D"none"></div><div=
+>Pop culture and "new age" proponents package things as being "easy" or "pe=
+rfect". If instead, we admit that they are most certainly imperfect, does i=
+t make them devoid of value? Isn't a sadhaka just as likely to hallucinate =
+during the meditation at the end of homa, as he is to hallucinate during th=
+e meditation that is a part of past life regression therapy?</div>
+
+<div><b=
+r clear=3D"none"></div><div>sasneham,</div><div><br clear=3D"none"></div><d=
+iv>    ajit</div><div><br clear=3D"none"></div><div><br clear=3D"=
+none"></div><div> </div></div></div>
+<br clear=3D"none"><br clear=3D"n=
+one"><div class=3D"yiv8222206901yqt7650947454" id=3D"yiv8222206901yqt08585"=
+><div class=3D"yiv8222206901gmail_quote">On Sun, Oct 27, 2013 at 6:27 AM, N=
+arasimha P.V.R. Rao <span dir=3D"ltr"><<a rel=3D"nofollow" shape=3D"rect=
+" ymailto=3D"mailto:pvr108@..." target=3D"_blank" href=3D"mailto:pvr1=
+08@...">pvr108@...</a>></span> wrote:<br clear=3D"none"><blo=
+ckquote class=3D"yiv8222206901gmail_quote" style=3D"border-left-width:1px;b=
+order-left-color:rgb(204,204,204);border-left-style:solid;">
+
+
+
+
+
+
+
+
+      =
+  
+<div>
+
+
+
+
+<br clear=3D"none"><br clear=3D"none">
+
+
+
+
+<div style=3D"font-=
+size:10pt;font-family:arial, helvetica, sans-serif;"><div><span>Namaste,</s=
+pan></div><div class=3D"yiv8222206901im"><div style=3D"font-style:normal;fo=
+nt-size:13.3333px;background-color:transparent;font-family:arial, helvetica=
+, sans-serif;">
+
+<span> </span></div><div style=3D"font-style:normal;f=
+ont-size:13.3333px;background-color:transparent;font-family:arial, helvetic=
+a, sans-serif;"><span><<</span><span><span>To respected 
+Narasimha si=
+r, I would like to inform that these are not "new age 
+ideas". These were t=
+here much before in India.
+ to cite concept of "Jaati Smaran" of Jainism is=
+ one among them. Jainas 
+used this technique of "Jaati Smaran" to reinforce=
+ renunciation in the
+ followers.</span>>><br clear=3D"none"></span></=
+div><div style=3D"font-style:normal;font-size:13.3333px;background-color:tr=
+ansparent;font-family:arial, helvetica, sans-serif;"><span> </span></d=
+iv></div><div style=3D"font-style:normal;font-size:13.3333px;background-col=
+or:transparent;font-family:arial, helvetica, sans-serif;">
+
+<span>Of  =
+course, "new age ideas" are not new ideas. They are old ideas that are dumb=
+ed down and packaged nicely for today's pop culture.</span></div><div style=
+=3D"font-style:normal;font-size:13.3333px;background-color:transparent;font=
+-family:arial, helvetica, sans-serif;">
+
+<span> </span></div><div styl=
+e=3D"font-style:normal;font-size:13.3333px;background-color:transparent;fon=
+t-family:arial, helvetica, sans-serif;"><span>My point is NOT that past lif=
+e and any of its details cannot be recalled. It is that it is not at all ea=
+sy and possible
+ only in very rare cases. Nature makes it exceedingly diffi=
+cult, for a reason.</span></div><div style=3D"font-style:normal;font-size:1=
+3.3333px;background-color:transparent;font-family:arial, helvetica, sans-se=
+rif;"><span> </span></div>
+
+<div style=3D"font-style:normal;font-size:=
+13.3333px;background-color:transparent;font-family:arial, helvetica, sans-s=
+erif;"><span>Most of the past life regression therapies and past life regre=
+ssion TV shows people see are just gimmics and/or hallucinations.</span></d=
+iv>
+
+<div> </div><div style=3D"font-style:normal;font-size:13px;backgr=
+ound-color:transparent;font-family:arial, helvetica, clean, sans-serif;">Be=
+st regards,<br clear=3D"none">Narasimha<br clear=3D"none">--------<br clear=
+=3D"none">Astrology & Spirituality Resources: <a rel=3D"nofollow" shape=
+=3D"rect" target=3D"_blank" href=3D"http://www.vedicastrologer.org/">http:/=
+/www.VedicAstrologer.org</a></div>
+
+<div style=3D"font-style:normal;font-si=
+ze:13px;background-color:transparent;font-family:arial, helvetica, clean, s=
+ans-serif;">--------<br clear=3D"none"></div><div> <br clear=3D"none">=
+<blockquote style=3D"border-left-width:2px;border-left-style:solid;border-l=
+eft-color:rgb(16,16,255);">
+
+  <div style=3D"font-family:arial, helvetica, =
+sans-serif;font-size:10pt;"> <div style=3D"font-family:'times new roman', '=
+new york', times, serif;font-size:12pt;"> <div dir=3D"ltr"> <hr size=3D"1">=
+  <font face=3D"Arial"> <b><span style=3D"font-weight:bold;">From:</span></=
+b> Tanmaya Behera <<a rel=3D"nofollow" shape=3D"rect" ymailto=3D"mailto:=
+tanmayabehera@..." target=3D"_blank" href=3D"mailto:tanmayabehera@yah=
+oo.com">tanmayabehera@...</a>><br clear=3D"none">
+
+ <b><span style=
+=3D"font-weight:bold;">To:</span></b> "<a rel=3D"nofollow" shape=3D"rect" y=
+mailto=3D"mailto:vedic-wisdom@yahoogroups.com" target=3D"_blank" href=3D"ma=
+ilto:vedic-wisdom@yahoogroups.com">vedic-wisdom@yahoogroups.com</a>" <<a=
+ rel=3D"nofollow" shape=3D"rect" ymailto=3D"mailto:vedic-wisdom@yahoogroups=
+.com" target=3D"_blank" href=3D"mailto:vedic-wisdom@yahoogroups.com">vedic-=
+wisdom@yahoogroups.com</a>> <br clear=3D"none">
+
+ <b><span style=3D"font=
+-weight:bold;">Sent:</span></b> Sunday, October 27, 2013 2:14 AM<br clear=
+=3D"none"> <b><span style=3D"font-weight:bold;">Subject:</span></b> Re: [ve=
+dic-wisdom] Past life regression (Re: Mantra for protection from spirits (a=
+t nighttime))<br clear=3D"none">
+
+ </font>
+ </div><div><div class=3D"yiv822=
+2206901h5"> <div><br clear=3D"none"><div><div>
+<span> </span>
+
+
+<div>
+=
+  <div>
+
+
+    <div>
+      
+      
+      <div style=3D"font-size:12pt;font-f=
+amily:HelveticaNeue, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', s=
+ans-serif;"><div><div><div style=3D"font-size:12pt;font-family:HelveticaNeu=
+e, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif;">
+
+<div=
+><div><div style=3D"font-size:12pt;font-family:HelveticaNeue, 'Helvetica Ne=
+ue', Helvetica, Arial, 'Lucida Grande', sans-serif;"><div><span>Hello! Ever=
+yone,</span></div><div><span></span> </div><div><span>I just thought o=
+f adding some clarifications.</span></div>
+
+<div><span></span> </div><=
+div><span>First of all, when I mentioned about the utility of techniques of=
+ "Hypnotherapy" and "Past Life Regression" for handling the problem of spir=
+it attachments as well as many other problems for which we do not have reas=
+onable explanation, my assertions were limited to
+ the utility part only an=
+d not beyond that. I have no knowledge about whether past life exists or no=
+t, in fact I do not have any knowledge about anything whatsoever, as I beli=
+eve, any knowledge without the knowledge of the THAT...The Absolute....is h=
+alf knowledge or no knowledge in the proper sense of the term. However, in =
+our this empirical life we have to still continue with life irrespective of=
+ the fact of having absolute knowledge or not. Though we know for sure that=
+ the Sun does not make rounds of the earth but it is the other way around, =
+still we use sentences like "Sun rises in the east", "Sun sets&nb=
+sp;in the west" etc. To keep life going, we keep on continuing with activit=
+ies which helps in keeping life go on...It is in this sense that I'd mentio=
+ned about "Hypnotherapy" and "Past Life Regression".</span></div>
+
+<div><sp=
+an></span> </div><div><span>One should not comment about the wealth in=
+side a sea just by standing at the shore. Life is full of infinite possibil=
+ities. When we say that the God is infinite, we just can not say that the u=
+niverse can behave in any particular limited ways. Before anyone comments a=
+bout the utility of any branch of knowledge one must first take a sinc=
+ere dip into the same. By saying so, I do not mean to say that if one =
+really takes a sincere dip into any subject one would definitely be convinc=
+ed about the same. By saying that one shouldn't make comments before t=
+aking a sincere dip, I just mean to say that by doing so one would pre=
+vent oneself from being dogmatic, narrow. Not only blind belief in rel=
+igion and religious practices can be termed as dogmatic but also in
+ s=
+cience if one loses the scientific temper.</span></div><div><span></span>&n=
+bsp;</div><div><span>Proof of pudding is in eating it, all that I can say t=
+o the persons willing to address any of their problems. "Hypnotherapy" and =
+"Past Life Regression" have immense utility for those who are desirous=
+ of addressing their problems with an open mind. Those who are interested c=
+an read " Many Lives, Many Masters by Brian Weiss" to start with.</span></d=
+iv>
+
+<div><span></span> </div><div><span>To respected Narasimha sir, I=
+ would like to inform that these are not "new age ideas". These were there =
+much before in India.
+ to cite concept of "Jaati Smaran" of Jainism is one =
+among them. Jainas used this technique of "Jaati Smaran" to reinforce renun=
+ciation in the
+ followers.</span></div><div><span></span> </div><div><=
+span>To Phil Stinnet, I would like to inform that so far as my knowled=
+ge goes Past Life Regression (PLR) can not be done over phone, but however,=
+ there are so many problems which can be handled even over phone. To cite o=
+ne example - One girl was having one recurrent bad horrifying dream fo=
+r past 4/5 years and she approached me for the treatment. But due=
+ to my official engagements I was camping at a far off place for aroun=
+d 2 months. Her problem was getting worsened as it had  star=
+ted affecting her professional career adversely. So having left with no cho=
+ice, I agreed to give her a session over phone. The phone session continued=
+ for around one and half an hour and she got relieved from her that recurre=
+nt dream
+ and also started improving her
+ professional life. Since that day=
+ the dream has not yet visited her again.</span></div><div><span></span>&nb=
+sp;</div><div><span>It all depends on the openness of the mind, the strengt=
+h of the desire to overcome etc. The universe is much more than what we see=
+,what we can see and what we can believe to see.</span></div>
+
+<div><span><=
+/span> </div><div><span>Regards</span></div><div><span></span> </=
+div><div> <br clear=3D"none"> <br clear=3D"none"> <div style=3D"font-family=
+:HelveticaNeue, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-s=
+erif;font-size:12pt;">
+
+ <div style=3D"font-family:HelveticaNeue, 'Helvetic=
+a Neue', Helvetica, Arial, 'Lucida Grande', sans-serif;font-size:12pt;"> <d=
+iv><div><div dir=3D"ltr"> <font face=3D"Arial"> On Saturday, October 26, 20=
+13 3:00 PM, rajarshi nandy <<a rel=3D"nofollow" shape=3D"rect" ymailto=
+=3D"mailto:rajarshi14@..." target=3D"_blank" href=3D"mailto:rajarsh=
+i14@...">rajarshi14@...</a>> wrote:<br clear=3D"none">
+
+=
+ </font> </div>  <div><div><div>
+<span> </span>
+
+
+<div>
+  <div>
+
+
+    =
+<div>
+      
+      
+      <div style=3D"font-size:12pt;font-family:'times n=
+ew roman', 'new york', times, serif;"><div><span>Namaste,<br clear=3D"none"=
+><br clear=3D"none">To add to the c
+(Message over 64 KB, truncated)
+

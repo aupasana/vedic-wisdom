@@ -1,0 +1,451 @@
+From kamathprashant@...  Wed Feb 17 11:10:41 2016
+Return-Path: <kamathprashant@...>
+X-Sender: kamathprashant@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 63489 invoked by uid 102); 21 Aug 2013 06:00:21 -0000
+X-Received: from unknown (HELO mtaq2.grp.bf1.yahoo.com) (10.193.84.33)
+  by m8.grp.bf1.yahoo.com with SMTP; 21 Aug 2013 06:00:21 -0000
+X-Received: (qmail 20872 invoked from network); 21 Aug 2013 06:00:20 -0000
+X-Received: from unknown (HELO nm30-vm2.bullet.mail.sg3.yahoo.com) (106.10.151.177)
+  by mtaq2.grp.bf1.yahoo.com with SMTP; 21 Aug 2013 06:00:20 -0000
+X-Received: from [106.10.166.124] by nm30.bullet.mail.sg3.yahoo.com with NNFMP; 21 Aug 2013 06:00:18 -0000
+X-Received: from [106.10.167.128] by tm13.bullet.mail.sg3.yahoo.com with NNFMP; 21 Aug 2013 06:00:17 -0000
+X-Received: from [127.0.0.1] by smtp101.mail.sg3.yahoo.com with NNFMP; 21 Aug 2013 06:00:17 -0000
+X-Yahoo-Newman-Id: 95709.38033.bm@...
+X-Yahoo-Newman-Property: ymail-3
+X-YMail-OSG: tUzgiWIVM1k2edZWpr2L9MgsNe76oPl1KP.jPz0NW5sr90G
+ E7xH.ErYphQfuS7hn79n63ED3bTuhC6XWjLcQppPZ0A7xMkalHI16Uk7Sr0u
+ SV67Y.8Dd_E4A76XpTwZ0zpF8ix5jmmWcWPHg0wMcTn3Nc47bC87qR_JYXXK
+ TsXIrREOgZP2Urrc2zrLZhdDngY0mQcqbC3q0aQzuQ9Zd0pGMek6i016_kwd
+ C0XQW3TTELrOPEdqMhPTj9QjjZOTAEHUq5xNsrtYeWUaBuriqiQg9zaSXOOW
+ 57muvjyJ2ygAJl9iAS30kQhPloqB6NbZxbfGgwT2vCS12IMnBUeK0MSrYB_v
+ QUb.VofsmZyNbnOoArEReoFIJf1eMEkPa74gq8EB1dghc7qDpLa1VUS1ryGG
+ Rnqu4BAw7HmxSYwjOhxTbMqWSPPNavviE55GLz77Qpi5jFRVcmmdjBxUkp0R
+ eugZ3uJbv6GRfOkZXjMd2MlF.aptzv2NAVI6qh2BcPOQ5ugHG6JtXGrnoXa0
+ x_TPa2Ak2oD.pMi6n8ySa4ZV61kLzM.F8XBm7hsUhtirgdWW_v.aVX1UjFHU
+ abfMYurJ4k_0bF3pIxBlpW2Km18XiNFTmjoZEfEnShfIGgMQtV4bI3nnhgcM
+ WYJS790.Ec19iEssIyUGuWUkNMjdNO4D5qh5wVHj16hnb1PyqJ3yLXNW_GjJ
+ 6wRzqzT8lbo9p9gNUaM9oFXJ6y1p2coOxzDIfXW8IDw0fp.bIi7kXEQ89I1G
+ Y1Sssaq4UjQNfMpisuHRwwslAqesTTsvRONXH2D7jIWGPU1e0lzh8r45l80G
+ .fGZDpqG3.5Q0Ri5JSn2aBrXyjQ5zuyqGG7jm05bw2p3dUnih7K2qLaqOwCz
+ kOZoQjbInUOv7yuS73VV4LLGAMmLvL.CSh8i_MivqnObKlzsmWRsSDJox500
+ lZhoT3eBawuq09Oh9Q3agdei.s7R93edl8HMLn3sH.fGi1vMZDwQL88et7.n
+ i3ulpcBaRCRanfsu_ystzkZgt_8MTl3kk3oG_yckXS.MvdIb0nPiLUW.PY_g
+ 71VemDlhrivfvppgW7s7iJIt7Ko83vV9B5M9LzQLTsZEtNsfrS4DSdHpN8X9
+ 23Qipi_ytyYnfaGcXl_LQy1sH2EnGXjK8ZVyGFheSXwk2SFEagU2F0bG.v0N
+ o7M0yNJhlQIBZw0PSjBfy2ueS1qHP5q.wvuzYPWh1xSirnwAC0TlkCV.E9sh
+ qg5wwc8VDzS3MKR1ii0j3mOLx8MEgY4ZgKWdaAYlYtlwiVw8Bt4z9JcPUs0f
+ qdsvfLPsdx.dwbgDq7uvjgYzkGnlxhgrXrW95SLhaVpkD5TvQLlGzQv0XRxg
+ dZdcyn5AgqXY2yzquDjD28nWCGH6AcG4eeDSG95h7XK9aVk.KHEJwN7QCj6T
+ JcGLgLzmo027vfbDbURbFz2jePxN10u8cBZBorlRD2Ix3s7xttlAvbrlGwnV
+ a8XmLvScIuO8lMWFXrVHxtDjnnrOrKuJOPIjM3MCOAeiNBxDtg9MPWsdcFRX
+ LxOXNCDgdmLm6ur_.RkaGBfFly2Q94LWjl1bzakIx6Eocwh2KOcolexFrmv3
+ 0vJowwnmlYEcxqg69thSKM0t5CWCiya.XLG1LAlCrMa8RscEgjG3fP8XiB5y
+ IODHRJ.wziAQaieZvfw--
+X-Yahoo-SMTP: qD1DI4eswBAtEzwHCfZat1KJNm0M52fovDr5
+X-Rocket-Received: from [192.168.1.2] (kamathprashant@122.161.119.57 with )
+        by smtp101.mail.sg3.yahoo.com with SMTP; 20 Aug 2013 23:00:16 -0700 PDT
+References: <ktofs6+qpg9@...> <CAJY401WUBrPOs=gO74Y=X7ct3kiWvFDDn-cQNZU0-9qWAgdKvw@...> <1377058871.40386.YahooMailNeo@...>
+Mime-Version: 1.0 (1.0)
+In-Reply-To: <1377058871.40386.YahooMailNeo@...>
+Content-Type: multipart/alternative;
+	boundary=Apple-Mail-927D524D-FFB3-45F0-B4D7-BB63D25C1674
+Content-Transfer-Encoding: 7bit
+Message-Id: <A02DEBA4-7DFC-47D0-A068-AAD0E7AD4AB0@...>
+Cc: "vedic-wisdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com>
+X-Mailer: iPhone Mail (10B329)
+Date: Wed, 21 Aug 2013 11:30:11 +0530
+To: "vedic-wisdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com>
+X-Originating-IP: 10.193.84.33
+X-eGroups-Msg-Info: 1:12:0:0:0
+From: Prashant <kamathprashant@...>
+Subject: Re: [vedic-wisdom] Mantra for protection from spirits (at nighttime)
+X-Yahoo-Group-Post: member; u=143871657; y=yu_154X5cAVuBb9V0scAZu7Oosj3WIUWxSQmxG-Bu2cEyJyu_yWCGec
+X-Yahoo-Profile: kamathprashant
+
+
+--Apple-Mail-927D524D-FFB3-45F0-B4D7-BB63D25C1674
+Content-Type: text/plain;
+	charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Dear Dr Rao,
+
+I think I may have some solution for this problem. I would pr=
+efer if we take this discussion offline. My email Id is kamathprashant@yaho=
+o.co.in 
+
+Regards
+
+
+Sent from my iPhone
+
+On 21-Aug-2013, at 9:51 AM, "Dr. N=
+arayana Rao Musti" <narayanaraom@...> wrote:
+
+> Namaste,
+> My friend'=
+s  daughter ( aged 23 yrs) sometimes screams, cries and wakes up suddenly f=
+rom dreams in which she is chased, troubled ,beaten, shouted at or tortured=
+. She also dreams of white and light - coloured  snakes going round her.
+> =
+This happens irrespective of the place where she sleeps.
+> May I request th=
+e learned scholars to suggest a solution to this problem?
+> Regards,
+> Nara=
+yanarao
+>  
+> 
+> From: Ajit Krishnan <ajit.krishnan@...>
+> To: "vedic=
+-wisdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com> 
+> Sent: Monday, 19=
+ August 2013, 23:46
+> Subject: Re: [vedic-wisdom] Mantra for protection fro=
+m spirits (at nighttime)
+>  
+> namaste,
+> 
+> There have a been a lot of rep=
+lies to this question. I wanted to share a suggestion that works along with=
+ any of these.
+> 
+> In all vaidika karmas, there is a procedure called "pra=
+tisara-bandha". This is a raksha bandhana where a cotton thread (optimally =
+made of 9 strands) is energized with mantras and then worn around the wrist=
+ so that a little of the mantra shakti stays with you. A kalasha is establi=
+shed, with some vibhuti and a cotton thread placed to it's north. Then, Var=
+una is invoked in the kalasha, and then a number of vedic mantras are recit=
+ed. At the end, we pray to Varuna once again, and then sprinkle the water f=
+rom the kalasha on the yajamana and the cotton thread. The cotton thread is=
+ then worn on the wrist (right hand for men, left hand for women) as an amu=
+let, and the vibhuti is worn on the forehead.
+> 
+> The vaidika procedure sp=
+ecifies particular sets of mantras. In the bodhayana tradition, this starts=
+ with the rAkshoghnam (something to destroy rAkshasas). However, you may us=
+e some other mantra in it's place. If you are using the hanuman chalisa, as=
+ Narasimha suggested, you can chant that mantra a number of times, and then=
+ wear the thread and vibhuti. Or, you could follow the Satayanarayana puja =
+manual with the cotton thread and vibhuti near by, and then sprinkle the th=
+read with water and then wear it and the vibhuti. You could even put a pot =
+of water, think of Varuna, then do a bunch of bhajans, and then wear the th=
+read and sprinkle the water on the area where you will be sleeping. The pri=
+nciple is the same. 
+> 
+> The procedure for "pratisarabandha" specifically =
+mentions disturbed sleep as an application.
+> 
+> sasneham,
+> 
+>     ajit
+> =
+
+> 
+> On Mon, Aug 5, 2013 at 8:20 AM, ilya.suzdalnitski <ilya.suzdalnitski@=
+yahoo.com> wrote:
+> Hello everyone,
+> 
+> Recently I was staying at an old h=
+ouse in a village. I had trouble falling asleep, because I could hear stran=
+ge noises -  creaking and something moving in the attic. I'm very sensitive=
+ to different energies - I don't see anything, but I feel whether something=
+ divine or rather evil is present in a certain place. That place didn't fee=
+l good to me.
+> 
+> I was staying there for 10 days and every night I would =
+make up because of a feeling of somebody staring at me - I could see them b=
+ut once I started focusing on them, they vanished. Sometimes I would wake u=
+p in a terrified state breathing rapidly. One day I could definitely hear s=
+ome steps near the bed and a roar. I reached for my flashlight to see nothi=
+ng.
+> 
+> This doesn't seem like sleep paralysis to me - I instantly become =
+fully aware and I can move my body.
+> 
+> Can it be that spirits live in tha=
+t place disturbing my sleep? There were a few more people staying at that p=
+lace and everybody had severe problems with sleep, so it's not just me.
+> 
+=
+> On the last night I chanted Sri Rudram at that place before going to slee=
+p and this was the only night I was able to sleep properly.
+> 
+> Upon comin=
+g back home from that place I started waking up at home, feeling some stron=
+g presence - usually some short beings (up to 50 cm in height, I've seen th=
+em before here though); Once the sun rises, all of the strange feelings dis=
+appear and I can sleep peacefully.
+> 
+> Is there any mantra that will prote=
+ct me from all kinds of astral beings at night? Something that I can chant =
+before going to sleep. This has been bothering me for some time now and it =
+interferes with my life.
+> 
+> Thank you in advance!
+> 
+> 
+> 
+> ------------=
+------------------------
+> 
+> || Om Shaantih Shaantih Shaantih ||
+> Yahoo! =
+Groups Links
+> 
+> 
+> 
+> 
+
+--Apple-Mail-927D524D-FFB3-45F0-B4D7-BB63D25C1674
+Content-Type: text/html;
+	charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><meta http-equiv=3D"content-type" content=3D"text/html; charset=
+=3Dutf-8"></head><body dir=3D"auto"><div>Dear Dr Rao,</div><div><br></div><=
+div>I think I may have some solution for this problem. I would prefer if we=
+ take this discussion offline. My email Id is <a href=3D"mailto:kamathprash=
+ant@...">kamathprashant@...</a> </div><div><br></div><=
+div>Regards</div><div><br><br>Sent from my iPhone</div><div><br>On 21-Aug-2=
+013, at 9:51 AM, "Dr. Narayana Rao Musti" <<a href=3D"mailto:narayanarao=
+m@...">narayanaraom@...</a>> wrote:<br><br></div><blockquote=
+ type=3D"cite"><div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span style=3D"display:none"> </spa=
+n>
+
+
+
+    <div id=3D"ygrp-text">
+      
+      
+      <p></p><div style=3D"c=
+olor:#000;background-color:#fff;font-family:times new roman, new york, time=
+s, serif;font-size:14pt;"><div><span>Namaste,</span></div><div><span>My fri=
+end's  daughter ( aged 23 yrs) sometimes screams, cries and wakes up s=
+uddenly from dreams in which she is chased, troubled ,beaten, shouted at or=
+ tortured. She also dreams of white and light - coloured  snakes going=
+ round her.</span></div><div><span>This happens irrespective of the place w=
+here she sleeps.</span></div><div><span>May I request the learned scholars =
+to suggest a solution to this problem?</span></div><div><span>Regards,</spa=
+n></div><div><span>Narayanarao</span></div><div></div><div> </div><div=
+><br></div>  <div style=3D"font-family: times new roman, new york, times, s=
+erif;font-size: 14pt;"> <div style=3D"font-family: times new roman, new yor=
+k, times, serif;font-size: 12pt;"> <div dir=3D"ltr"> <div class=3D"hr" styl=
+e=3D"height: 0px;font-size: 0px;" contenteditable=3D"false" readonly=3D"tru=
+e"></div>  <font face=3D"Arial" size=3D"2"> <b><span style=3D"font-weight: =
+bold;">From:</span></b> Ajit Krishnan <<a href=3D"mailto:ajit.krishnan@g=
+mail.com">ajit.krishnan@...</a>><br> <b><span style=3D"font-weight=
+: bold;">To:</span></b> "<a href=3D"mailto:vedic-wisdom@yahoogroups.com">ve=
+dic-wisdom@yahoogroups.com</a>" <<a href=3D"mailto:vedic-wisdom@yahoogro=
+ups.com">vedic-wisdom@yahoogroups.com</a>> <br> <b><span style=3D"font-w=
+eight: bold;">Sent:</span></b> Monday, 19 August 2013, 23:46<br> <b><span s=
+tyle=3D"font-weight: bold;">Subject:</span></b> Re: [vedic-wisdom] Mantra f=
+or protection from spirits (at nighttime)<br> </font> </div> <div class=3D"=
+y_msg_container"><wbr><div id=3D"yiv5563604648">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div>
+<span>&=
+nbsp;</span>
+
+
+
+    <div id=3D"yiv5563604648ygrp-text">
+      
+      
+     =
+ <div dir=3D"ltr">namaste,<div><br></div><div>There have a been a lot of re=
+plies to this question. I wanted to share a suggestion that works along wit=
+h any of these.</div><div><br></div><div>In all vaidika karmas, there is a =
+procedure called "pratisara-bandha". This is a raksha bandhana where a cott=
+on thread (optimally made of 9 strands) is energized with mantras and then =
+worn around the wrist so that a little of the mantra shakti stays with you.=
+ A kalasha is established, with some vibhuti and a cotton thread placed to =
+it's north. Then, Varuna is invoked in the kalasha, and then a number of ve=
+dic mantras are recited. At the end, we pray to Varuna once again, and then=
+ sprinkle the water from the kalasha on the yajamana and the cotton thread.=
+ The cotton thread is then worn on the wrist (right hand for men, left hand=
+ for women) as an amulet, and the vibhuti is worn on the forehead.</div>
+
+<=
+div><br></div><div>The vaidika procedure specifies particular sets of mantr=
+as. In the bodhayana tradition, this starts with the rAkshoghnam (something=
+ to destroy rAkshasas). However, you may use some other mantra in it's plac=
+e. If you are using the hanuman chalisa, as Narasimha suggested, you can ch=
+ant that mantra a number of times, and then wear the thread and vibhuti. Or=
+, you could follow the Satayanarayana puja manual with the cotton thread an=
+d vibhuti near by, and then sprinkle the thread with water and then wear it=
+ and the vibhuti. You could even put a pot of water, think of Varuna, then =
+do a bunch of bhajans, and then wear the thread and sprinkle the water on t=
+he area where you will be sleeping. The principle is the same. </div>
+=
+
+<div><br></div><div>The procedure for "pratisarabandha" specifically menti=
+ons disturbed sleep as an application.</div><div><br></div><div>sasneham,</=
+div><div><br></div><div>    ajit</div><div><br></div><div><div cl=
+ass=3D"yiv5563604648gmail_extra">
+
+<div><div dir=3D"ltr"><div><br></div></d=
+iv></div><div class=3D"yiv5563604648gmail_quote">On Mon, Aug 5, 2013 at 8:2=
+0 AM, ilya.suzdalnitski <span dir=3D"ltr"><<a href=3D"mailto:ilya.suzdal=
+nitski@..." target=3D"_blank" rel=3D"nofollow" ymailto=3D"mailto:ilya=
+.suzdalnitski@...">ilya.suzdalnitski@...</a>></span> wrote:<=
+wbr>
+
+<blockquote class=3D"yiv5563604648gmail_quote" style=3D"border-left-c=
+olor: rgb(204, 204, 204);border-left-width: 1px;border-left-style: solid;">=
+Hello everyone,<br>
+<br>
+Recently I was staying at an old house in a villag=
+e. I had trouble falling asleep, because I could hear strange noises - &nbs=
+p;creaking and something moving in the attic. I'm very sensitive to differe=
+nt energies - I don't see anything, but I feel whether something divine or =
+rather evil is present in a certain place. That place didn't feel good to m=
+e.<br>
+
+
+<br>
+I was staying there for 10 days and every night I would make =
+up because of a feeling of somebody staring at me - I could see them but on=
+ce I started focusing on them, they vanished. Sometimes I would wake up in =
+a terrified state breathing rapidly. One day I could definitely hear some s=
+teps near the bed and a roar. I reached for my flashlight to see nothing.<b=
+r>
+
+
+<br>
+This doesn't seem like sleep paralysis to me - I instantly become=
+ fully aware and I can move my body.<br>
+<br>
+Can it be that spirits live i=
+n that place disturbing my sleep? There were a few more people staying at t=
+hat place and everybody had severe problems with sleep, so it's not just me=
+.<br>
+<br>
+On the last night I chanted Sri Rudram at that place before goin=
+g to sleep and this was the only night I was able to sleep properly.<br>
+<b=
+r>
+Upon coming back home from that place I started waking up at home, feeli=
+ng some strong presence - usually some short beings (up to 50 cm in height,=
+ I've seen them before here though); Once the sun rises, all of the strange=
+ feelings disappear and I can sleep peacefully.<br>
+
+
+<br>
+Is there any man=
+tra that will protect me from all kinds of astral beings at night? Somethin=
+g that I can chant before going to sleep. This has been bothering me for so=
+me time now and it interferes with my life.<br>
+<br>
+Thank you in advance!<=
+br>
+<br>
+<br>
+<br>
+------------------------------------<br>
+<br>
+|| Om Shaa=
+ntih Shaantih Shaantih ||<br>
+Yahoo! Groups Links<br>
+<br>
+<*> To vis=
+it your group on the web, go to:<br>
+    <a href=3D"http://groups=
+.yahoo.com/group/vedic-wisdom/" target=3D"_blank" rel=3D"nofollow">http://g=
+roups.yahoo.com/group/vedic-wisdom/</a><br>
+<br>
+<*> Your email setti=
+ngs:<br>
+    Individual Email | Traditional<br>
+<br>
+<*> To=
+ change settings online go to:<br>
+    <a href=3D"http://groups.y=
+ahoo.com/group/vedic-wisdom/join" target=3D"_blank" rel=3D"nofollow">http:/=
+/groups.yahoo.com/group/vedic-wisdom/join</a><br>
+    (Yahoo! ID =
+required)<br>
+<br>
+<*> To change settings via email:<br>
+   =
+; <a href=3D"mailto:vedic-wisdom-digest@yahoogroups.com" target=3D"_blank" =
+rel=3D"nofollow" ymailto=3D"mailto:vedic-wisdom-digest@yahoogroups.com">ved=
+ic-wisdom-digest@yahoogroups.com</a><br>
+    <a href=3D"mailto:ve=
+dic-wisdom-fullfeatured@yahoogroups.com" target=3D"_blank" rel=3D"nofollow"=
+ ymailto=3D"mailto:vedic-wisdom-fullfeatured@yahoogroups.com">vedic-wisdom-=
+fullfeatured@yahoogroups.com</a><br>
+<br>
+<*> To unsubscribe from thi=
+s group, send an email to:<br>
+    <a href=3D"mailto:vedic-wisdom=
+-unsubscribe@yahoogroups.com" target=3D"_blank" rel=3D"nofollow" ymailto=3D=
+"mailto:vedic-wisdom-unsubscribe@yahoogroups.com">vedic-wisdom-unsubscribe@=
+yahoogroups.com</a><br>
+<br>
+<*> Your use of Yahoo! Groups is subject=
+ to:<br>
+    <a href=3D"http://docs.yahoo.com/info/terms/" target=
+=3D"_blank" rel=3D"nofollow">http://docs.yahoo.com/info/terms/</a><br>
+<br>=
+
+</blockquote></div><wbr></div></div></div>
+
+
+    </div>
+     
+
+
+
+</div>
+
+
+=
+
+
+</div><wbr><wbr></div> </div> </div>  </div><p></p>
+
+    </div>
+     
+
+  =
+  
+
+
+
+
+
+<!-- end group email -->
+
+</div></blockquote></body></html>
+--Apple-Mail-927D524D-FFB3-45F0-B4D7-BB63D25C1674--
+
+

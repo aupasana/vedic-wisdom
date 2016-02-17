@@ -1,0 +1,601 @@
+From kk889123@...  Wed Feb 17 11:10:40 2016
+Return-Path: <kk889123@...>
+X-Sender: kk889123@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 13045 invoked by uid 102); 8 Aug 2013 05:48:18 -0000
+X-Received: from unknown (HELO mtaq5.grp.bf1.yahoo.com) (10.193.84.36)
+  by m1.grp.bf1.yahoo.com with SMTP; 8 Aug 2013 05:48:18 -0000
+X-Received: (qmail 30962 invoked from network); 8 Aug 2013 05:48:17 -0000
+X-Received: from unknown (HELO nm12-vm8.bullet.mail.sg3.yahoo.com) (106.10.149.8)
+  by mtaq5.grp.bf1.yahoo.com with SMTP; 8 Aug 2013 05:48:17 -0000
+X-Received: from [106.10.166.120] by nm12.bullet.mail.sg3.yahoo.com with NNFMP; 08 Aug 2013 05:48:15 -0000
+X-Received: from [106.10.150.24] by tm9.bullet.mail.sg3.yahoo.com with NNFMP; 08 Aug 2013 05:48:15 -0000
+X-Received: from [127.0.0.1] by omp1025.mail.sg3.yahoo.com with NNFMP; 08 Aug 2013 05:48:15 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 669977.19236.bm@...
+X-Received: (qmail 4129 invoked by uid 60001); 8 Aug 2013 05:48:15 -0000
+X-YMail-OSG: dP9XfDcVM1nAEYNNzE68w3fqTt274bXiPWgcDGBJ1BGbFZi
+ ou5d.XRepJHGtz6X9qc38V4DAw151ir6BgzxKXZ5zoPjv5xk2aW0JGJBn3Fu
+ n0qgkkFUy9qVI2MAV9DIYwrBD1IUgiXYi36mtKkvNjKwXfgf0X50Y.7Q6Bk4
+ 0esgT6.ZfYDndBQ8pwCrUCyiOO7678jxM6W1s5zNRRb3OljZAnHWcd9_umdc
+ f9g__GELGdnZ3EFKDI9Br_O5p1YPJGKc.1xGd00lRiqRwfX71KSwC12x29SD
+ mDe5Nfzs7JvAXoe2l9GtWmEJPVXI_unTeRqFiPuPcgybu7W9NcWpUs822YqY
+ vkiQJGbthaJ5HJ0vfmy3XtMRbkM7Gx3UDQ186udaZVdTa_SRvf9OT59NHK3u
+ 8xlYVf62nMHobcTsfScbaJtwAazlafoVbOdzj1iadmyNKFyiT.mkMEeFw6gh
+ Ys1PpVpkP9MVUK4kWvLMNt2cbixoAnib3Qrk5pFMfN6sxB7QC.vgSVNr6WQC
+ p.MsH.02.CHPIE5S4sslZhfxwLsrcGpMaNxllG2djjjhizIV3mo0E9vcsDPY
+ t.Nr6jPZYE8a7F7SkRlRBc7iPS6jKGUw9TsaPjTYUdNukXqPuheudTTgS0uc
+ ZBr8LOktYjVyVUSGpFsSZqJAGzyPB5eYn1p9bRfhe5Dq3OI03VCrXxqXorQj
+ Xfv5_dgWHYURB5m7legRsEh2pszkAJH8Ej8inL7DPAE5f6uTxcuhpM2s4uH.
+ 02DPP7UpkB9_xYbE.XrKPh9wZ.azHUiuEnYD72rQxiDI.A7hdbH.ZKqZaCY6
+ LE10f1vrRToyiXi7dVG.iYjsazV4sAkzL5lq4lD4q6TzGkWWDVUImxob2esH
+ gujXJ6UH8Q4wTMJLk2._VQMbeBM7ZyFOAyk4zm5EzifEfJMqNslAzseFvTbA
+ AAXpi3CTahqxt7Zs.gZu0lz2q3oGTOyReWcOpQhy7I_bUP3ZuvLZOKXAAJnt
+ nnfRutx2r7YJZ8Gq.dzi.jnoc_j8boFFwhE5hZB4vdG7300nVdXdsrpq.hCK
+ jTxIf0rgzjp2gA1MPmShuel4m9CKiNlhcicDAAiAsTUCs32IcgjeXHqxKDkW
+ TcwFyriOqouVl_ocdrpCbPA--
+X-Received: from [117.203.214.118] by web193305.mail.sg3.yahoo.com via HTTP; Thu, 08 Aug 2013 13:48:14 SGT
+X-Rocket-MIMEInfo: 002.001,RGVhciBCaHVwZW5kcmFqaSwKCkkgZmVlbCB0aGUgZmFtaWx5IHNob3VsZCByZWNpdGUgaWYgcG9zc2libGUgd2hvbGUgQ2hhbmRpLVBhdGggZm9yIGZldyBkYXlzIG9yIGF0IGxlYXN0IHRoZSBDaGFuZGktS2F2YWNoIGV2ZXJ5ZGF5IChpdHMgYmV0dGVyIGlmIHRoZXkgdGFrZSBzYW5rYWxwYSBldmVyeWRheSBiZWZvcmUgYmVnaW5uaW5nIHRoYXQgdGhleSBhcmUgY2hhbnRpbmcgdG8gcHJvdGVjdCB0aGUgZ2lybCBmcm9tIGFsbCBuZWdhdGl2ZSBlbmVyZ2llcywgYmVpbmdzIGV0YyBhbmQgZnJlZSBoZXIgb2YBMAEBAQE-
+X-Mailer: YahooMailWebService/0.8.152.567
+References: <ktpe6o+gbak@...> <1375752487.8224.YahooMailAndroidMobile@...> <1375823793.71823.YahooMailNeo@...>
+Message-ID: <1375940894.3764.YahooMailNeo@...>
+Date: Thu, 8 Aug 2013 13:48:14 +0800 (SGT)
+To: "vedic-wisdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com>
+In-Reply-To: <1375823793.71823.YahooMailNeo@...>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="1255235813-845831892-1375940894=:3764"
+X-Originating-IP: 10.193.84.36
+X-eGroups-Msg-Info: 1:12:0:0:0
+From: K K <kk889123@...>
+Reply-To: K K <kk889123@...>
+Subject: Re: [vedic-wisdom] Re: Mantra for protection from spirits (at nighttime)
+X-Yahoo-Group-Post: member; u=430741795; y=dAy2KaddQDroZLFN9lb3iu1CZjh4WMN76NeKh0eYRarfO5k
+X-Yahoo-Profile: kk889123
+
+
+--1255235813-845831892-1375940894=:3764
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Dear Bhupendraji,
+
+I feel the family should recite if possible whole Chandi=
+-Path for few days or at least the Chandi-Kavach everyday (its better if th=
+ey take sankalpa everyday before beginning that they are chanting to protec=
+t the girl from all negative energies, beings etc and free her of any such =
+problems) till the girl becomes alright. 
+
+
+-Nithin S
+
+
+
+
+_________________=
+_______________
+ From: Priya M <prm7782@...>
+To: "vedic-wisdom@yahoog=
+roups.com" <vedic-wisdom@yahoogroups.com> 
+Sent: Wednesday, 7 August 2013 2=
+:46 AM
+Subject: Re: [vedic-wisdom] Re: Mantra for protection from spirits (=
+at nighttime)
+ 
+
+
+=C2=A0 
+Namaste Bhupendra ji,
+
+I pity the family and also=
+ the girl. Try calling rudraksha-ratna....they deal with severe voodoo/blac=
+k magic cases and might be able to help. Alternatively did you try homams? =
+Long time back I had moved to an apartment which was haunted. I cleansed it=
+ through rigorous prayers. =C2=A0I literally chanted god's name 24/7. I als=
+o know of someone who has/is tackling extremely dangerous blackmagic throug=
+h regular homams. The details of her life will scare anyone. Today she has =
+reduced the impact drastically just with homams. =C2=A0
+
+=C2=A0http://www.r=
+udraksha-ratna.com/=C2=A0
+
+
+I will send out my prayers to the family.
+Good =
+luck and best regards,=C2=A0
+Priya
+
+________________________________
+ From:=
+ Bhupendra Jamnadas <b_jamnadas@...>
+To: "vedic-wisdom@yahoogroups.com=
+" <vedic-wisdom@yahoogroups.com> 
+Sent: Monday, August 5, 2013 9:28 PM
+Subj=
+ect: Re: [vedic-wisdom] Re: Mantra for protection from spirits (at nighttim=
+e)
+ 
+
+
+=C2=A0 
+Namaste All,
+I am very interested in this email thread. I kn=
+ow of a family in Boston where one of the family members is posessed. I had=
+ asked for help in this forum but did not get any response. If someone coul=
+d provide some guidance, that would be great.
+The situation is very bad and=
+ the family is virtually broke becuase of this spending on medical treatmen=
+t because so far, no other help. In absence of any other solution,  this os=
+ being treated as medical condition.
+Thanks, 
+Bhupendra 
+
+
+
+_______________=
+_________________
+ From:  ilya.suzdalnitski <ilya.suzdalnitski@...>; =
+
+To:  <vedic-wisdom@yahoogroups.com>; 
+Subject:  [vedic-wisdom] Re: Mantra =
+for protection from spirits (at nighttime) 
+Sent:  Mon, Aug 5, 2013 11:58:1=
+6 PM 
+
+
+=C2=A0 
+Thanks, I will give it a try!
+
+What about Kala Bhairava man=
+tra? Can it be more efficient for a long-time Shiva devotee? I've heard tha=
+t it can repel spirits and ghosts. Can I chant these mantras at night befor=
+e going to sleep?
+
+--- In vedic-wisdom@yahoogroups.com, "Narasimha P.V.R. R=
+ao" <pvr108@...> wrote:
+>
+> Namaste,
+> =C2=A0
+> Minds stuck on earth withou=
+t bodies can vibrate with thoughts (often 
+> negative) and those vibrations=
+ can cause resonance in people's minds and 
+> cause similar vibrations in t=
+hem, to various degrees based on the strength of people's minds.
+> 
+> =C2=
+=A0
+> There are many mantras, kavachas and prayers to shield from the vibra=
+tions of such spirits, but the simplest and best IMHO is Hanuman Chalisa or=
+ any mantras of Hanuman. Chant Hanuman Chalisa and contemplate on Lord Hanu=
+man for 5 minutes, just before sleeping.
+> =C2=A0Hanuman's 12 name prayer i=
+s also good for chanting a few times before sleeping.It is given in the Han=
+uman homam manual at http://www.VedicAstrologer.org/homam. Among the severa=
+l options given for pradhana homam, it is the two verses starting with "han=
+umAn aMjanAsUnuH".
+> =C2=A0
+> Best regards,
+> 
+> Narasimha
+> --------
+> Ast=
+rology  Spirituality Resources: http://www.VedicAstrologer.org
+> --------
+>=
+ 
+> =C2=A0
+> 
+> 
+> >________________________________
+> >From: ilya.suzdalni=
+tski <ilya.suzdalnitski@...>
+> >To: vedic-wisdom@yahoogroups.com 
+> >Sent: =
+Monday, August 5, 2013 11:20 AM
+> >Subject: [vedic-wisdom] Mantra for prote=
+ction from spirits (at nighttime)
+> > 
+> >
+> >
+> >=C2=A0 
+> >Hello everyone=
+,
+> >
+> >Recently I was staying at an old house in a village. I had trouble=
+ falling asleep, because I could hear strange noises -  creaking and someth=
+ing moving in the attic. I'm very sensitive to different energies - I don't=
+ see anything, but I feel whether something divine or rather evil is presen=
+t in a certain place. That place didn't feel good to me.
+> >
+> >I was stayi=
+ng there for 10 days and every night I would make up because of a feeling o=
+f somebody staring at me - I could see them but once I started focusing on =
+them, they vanished. Sometimes I would wake up in a terrified state breathi=
+ng rapidly. One day I could definitely hear some steps near the bed and a r=
+oar. I reached for my flashlight to see nothing.
+> >
+> >This doesn't seem l=
+ike sleep paralysis to me - I instantly become fully aware and I can move m=
+y body.
+> >
+> >Can it be that spirits live in that place disturbing my slee=
+p? There were a few more people staying at that place and everybody had sev=
+ere problems with sleep, so it's not just me.
+> >
+> >On the last night I ch=
+anted Sri Rudram at that place before going to sleep and this was the only =
+night I was able to sleep properly.
+> >
+> >Upon coming back home from that =
+place I started waking up at home, feeling some strong presence - usually s=
+ome short beings (up to 50 cm in height, I've seen them before here though)=
+; Once the sun rises, all of the strange feelings disappear and I can sleep=
+ peacefully.
+> >
+> >Is there any mantra that will protect me from all kinds=
+ of astral beings at night? Something that I can chant before going to slee=
+p. This has been bothering me for some time now and it interferes with my l=
+ife.
+> >
+> >Thank you in advance!
+> >
+>
+
+ 
+
+
+ 
+--1255235813-845831892-1375940894=:3764
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"color:#000; background-color:#fff; font-family:ti=
+mes new roman, new york, times, serif;font-size:12pt"><div><span>Dear Bhupe=
+ndraji,</span></div><div style=3D"color: rgb(0, 0, 0); font-size: 16px; fon=
+t-family: times new roman,new york,times,serif; background-color: transpare=
+nt; font-style: normal;"><br><span></span></div><div style=3D"color: rgb(0,=
+ 0, 0); font-size: 16px; font-family: times new roman,new york,times,serif;=
+ background-color: transparent; font-style: normal;"><span>I feel the famil=
+y should recite if possible whole Chandi-Path for few days or at least the =
+Chandi-Kavach everyday (its better if they take sankalpa everyday before be=
+ginning that they are chanting to protect the girl from all negative energi=
+es, beings etc and free her of any such problems) till the girl becomes alr=
+ight. <br></span></div><div style=3D"color: rgb(0, 0, 0); font-size: 16px; =
+font-family: times new roman,new york,times,serif; background-color:
+ trans=
+parent; font-style: normal;"><br><span></span></div><div style=3D"color: rg=
+b(0, 0, 0); font-size: 16px; font-family: times new roman,new york,times,se=
+rif; background-color: transparent; font-style: normal;"><span>-Nithin S<br=
+></span></div><div style=3D"color: rgb(0, 0, 0); font-size: 16px; font-fami=
+ly: times new roman,new york,times,serif; background-color: transparent; fo=
+nt-style: normal;"><span><br></span></div><div><br></div>  <div style=3D"fo=
+nt-family: times new roman, new york, times, serif; font-size: 12pt;"> <div=
+ style=3D"font-family: times new roman, new york, times, serif; font-size: =
+12pt;"> <div dir=3D"ltr"> <hr size=3D"1">  <font face=3D"Arial" size=3D"2">=
+ <b><span style=3D"font-weight:bold;">From:</span></b> Priya M <prm7782@=
+yahoo.com><br> <b><span style=3D"font-weight: bold;">To:</span></b> "ved=
+ic-wisdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com> <br> <b><sp=
+an style=3D"font-weight: bold;">Sent:</span></b> Wednesday, 7 August 2013 2=
+:46
+ AM<br> <b><span style=3D"font-weight: bold;">Subject:</span></b> Re: [=
+vedic-wisdom] Re: Mantra for protection from spirits (at nighttime)<br> </f=
+ont> </div> <div class=3D"y_msg_container"><br><div id=3D"yiv5061598235">
+
+=
+
+
+
+
+
+
+
+
+
+
+
+
+<div>
+<span style=3D"display:none;"> </span>
+
+
+
+    <div i=
+d=3D"yiv5061598235ygrp-text">
+      
+      
+      <div style=3D"color:#000;=
+background-color:#fff;font-family:arial, helvetica, sans-serif;font-size:12=
+pt;"><div><span>Namaste Bhupendra ji,</span></div><div style=3D"color:rgb(0=
+, 0, 0);font-size:16px;font-family:arial, helvetica, sans-serif;background-=
+color:transparent;font-style:normal;"><span><br></span></div><div style=3D"=
+color:rgb(0, 0, 0);font-size:16px;font-family:arial, helvetica, sans-serif;=
+background-color:transparent;font-style:normal;">I pity the family and also=
+ the girl. Try calling rudraksha-ratna....they deal with severe voodoo/blac=
+k magic cases and might be able to help. Alternatively did you try homams? =
+Long time back I had moved to an apartment which was haunted. I cleansed it=
+ through rigorous prayers.  I literally chanted god's name 24/7. I als=
+o know of someone who has/is tackling extremely dangerous blackmagic throug=
+h regular homams. The details of her life will scare anyone. Today she has =
+reduced the impact
+ drastically just with homams.  </div><div style=3D=
+"color:rgb(0, 0, 0);font-size:16px;font-family:arial, helvetica, sans-serif=
+;background-color:transparent;font-style:normal;"><span><br></span></div><d=
+iv style=3D"color:rgb(0, 0, 0);font-size:16px;font-family:arial, helvetica,=
+ sans-serif;background-color:transparent;font-style:normal;"><span style=3D=
+"font-size:12pt;"> </span><a rel=3D"nofollow" target=3D"_blank" href=
+=3D"http://www.rudraksha-ratna.com/" style=3D"font-size:12pt;color:rgb(40, =
+98, 197);outline:0px;"><span class=3D"yiv5061598235yshortcuts" id=3D"yiv506=
+1598235lw_1375822383_1">http://www.rudraksha-ratna.com/</span></a><span sty=
+le=3D"font-size:12pt;"> </span><br></div><div style=3D"color:rgb(40, 9=
+8, 197);font-size:16px;font-family:arial, helvetica, sans-serif;background-=
+color:transparent;font-style:normal;"><span style=3D"font-size:12pt;"><br><=
+/span></div><div style=3D"font-size:16px;font-family:arial, helvetica, sans=
+-serif;
+background-color:transparent;font-style:normal;">I will send out my=
+ prayers to the family.</div><div style=3D"font-size:16px;font-family:arial=
+, helvetica, sans-serif;background-color:transparent;font-style:normal;">Go=
+od luck and best r<span style=3D"background-color:transparent;">egards,&nbs=
+p;</span></div><div style=3D"font-size:16px;font-family:arial, helvetica, s=
+ans-serif;background-color:transparent;font-style:normal;">Priya</div>  <di=
+v style=3D"font-family:arial, helvetica, sans-serif;font-size:12pt;"> <div =
+style=3D"font-family:'times new roman', 'new york', times, serif;font-size:=
+12pt;"> <div dir=3D"ltr"> <hr size=3D"1">  <font face=3D"Arial" size=3D"2">=
+ <b><span style=3D"font-weight:bold;">From:</span></b> Bhupendra Jamnadas &=
+lt;b_jamnadas@...><br> <b><span style=3D"font-weight:bold;">To:</sp=
+an></b> "vedic-wisdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com>=
+ <br> <b><span style=3D"font-weight:bold;">Sent:</span></b> Monday, August =
+5, 2013 9:28
+ PM<br> <b><span style=3D"font-weight:bold;">Subject:</span></=
+b> Re: [vedic-wisdom] Re: Mantra for protection from spirits (at nighttime)=
+<br> </font> </div> <div class=3D"yiv5061598235y_msg_container"><br><div id=
+=3D"yiv5061598235">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div>
+<span> </span>
+
+
+
+    <div id=
+=3D"yiv5061598235ygrp-text">
+      
+      
+      <table border=3D"0" cellpa=
+dding=3D"0" cellspacing=3D"0"><tbody><tr><td valign=3D"top"><div dir=3D"ltr=
+">Namaste All,</div>
+<div dir=3D"ltr">I am very interested in this email th=
+read. I know of a family in Boston where one of the family members is poses=
+sed. I had asked for help in this forum but did not get any response. If so=
+meone could provide some guidance, that would be great.</div>
+<div dir=3D"l=
+tr">The situation is very bad and the family is virtually broke becuase of =
+this spending on medical treatment because so far, no other help. In absenc=
+e of any other solution,  this os being treated as medical condition.</div>=
+
+<div dir=3D"ltr">Thanks, <br>
+Bhupendra</div>
+</td></tr></tbody></table>  =
+          <div id=3D"yiv5061598235_origMsg_">
+                <div>
+       =
+             <br>
+                    <div>
+                        <div st=
+yle=3D"font-size:0.9em;">
+                            <hr size=3D"1">
+     =
+                       <b>
+                                <span style=3D"f=
+ont-weight:bold;">From:</span>
+                            </b>
+           =
+                 ilya.suzdalnitski <ilya.suzdalnitski@...>;    =
+                        <br>
+                            <b>
+              =
+                  <span style=3D"font-weight:bold;">To:</span>
+            =
+                </b>
+                             <vedic-wisdom@yahoogro=
+ups.com>;                                                               =
+                                      <br>
+                            <b>
+=
+                                <span style=3D"font-weight:bold;">Subject:<=
+/span>
+                            </b>
+                            [vedic-=
+wisdom] Re: Mantra for protection from spirits (at nighttime)              =
+              <br>
+                            <b>
+                        =
+        <span style=3D"font-weight:bold;">Sent:</span>
+                    =
+        </b>
+                            Mon, Aug 5, 2013 11:58:16 PM      =
+                      <br>
+                        </div>
+                 =
+           <br>
+                            <table border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0">
+                                <tbody>
+         =
+                           <tr>
+                                        <td=
+ valign=3D"top">
+<span> </span>
+
+
+
+    <div id=3D"yiv5061598235ygrp-te=
+xt">
+      
+      
+      <div>Thanks, I will give it a try!<br>
+<br>
+What a=
+bout Kala Bhairava mantra? Can it be more efficient for a long-time Shiva d=
+evotee? I've heard that it can repel spirits and ghosts. Can I chant these =
+mantras at night before going to sleep?<br>
+<br>
+--- In <a href=3D"" rel=3D=
+"nofollow">vedic-wisdom@yahoogroups.com</a>, "Narasimha P.V.R. Rao" <pvr=
+108@...> wrote:<br>
+><br>
+> Namaste,<br>
+>  <br>
+> Mind=
+s stuck on earth without bodies can vibrate with thoughts (often <br>
+> =
+negative) and those vibrations can cause resonance in people's minds and <b=
+r>
+> cause similar vibrations in them, to various degrees based on the s=
+trength of people's minds.<br>
+> <br>
+>  <br>
+> There are man=
+y mantras, kavachas and prayers to shield from the vibrations of such spiri=
+ts, but the simplest and best IMHO is Hanuman Chalisa or any mantras of Han=
+uman. Chant Hanuman Chalisa and contemplate on Lord Hanuman for 5 minutes, =
+just before sleeping.<br>
+>  Hanuman's 12 name prayer is also good =
+for chanting a few times before sleeping.It is given in the Hanuman homam m=
+anual at <a rel=3D"nofollow" target=3D"_blank" href=3D"http://www.vedicastr=
+ologer.org/homam.">http://www.VedicAstrologer.org/homam.</a> Among the seve=
+ral options given for pradhana homam, it is the two verses starting with "h=
+anumAn aMjanAsUnuH".<br>
+>  <br>
+> Best regards,<br>
+> <br>
+&=
+gt; Narasimha<br>
+> --------<br>
+> Astrology  Spirituality Resources:=
+ <a rel=3D"nofollow" target=3D"_blank" href=3D"http://www.vedicastrologer.o=
+rg/">http://www.VedicAstrologer.org</a><br>
+> --------<br>
+> <br>
+>=
+;  <br>
+> <br>
+> <br>
+> >________________________________<=
+br>
+> >From: ilya.suzdalnitski <ilya.suzdalnitski@...><br>
+>=
+ >To: <a href=3D"" rel=3D"nofollow">vedic-wisdom@yahoogroups.com</a> <br=
+>
+> >Sent: Monday, August 5, 2013 11:20 AM<br>
+> >Subject: [ved=
+ic-wisdom] Mantra for protection from spirits (at nighttime)<br>
+> > =
+<br>
+> ><br>
+> ><br>
+> >  <br>
+> >Hello everyo=
+ne,<br>
+> ><br>
+> >Recently I was staying at an old house in a =
+village. I had trouble falling asleep, because I could hear strange noises =
+-  creaking and something moving in the attic. I'm very sensitive to differ=
+ent energies - I don't see anything, but I feel whether something divine or=
+ rather evil is present in a certain place. That place didn't feel good to =
+me.<br>
+> ><br>
+> >I was staying there for 10 days and every ni=
+ght I would make up because of a feeling of somebody staring at me - I coul=
+d see them but once I started focusing on them, they vanished. Sometimes I =
+would wake up in a terrified state breathing rapidly. One day I could defin=
+itely hear some steps near the bed and a roar. I reached for my flashlight =
+to see nothing.<br>
+> ><br>
+> >This doesn't seem like sleep par=
+alysis to me - I instantly become fully aware and I can move my body.<br>
+&=
+gt; ><br>
+> >Can it be that spirits live in that place disturbing =
+my sleep? There were a few more people staying at that place and everybody =
+had severe problems with sleep, so it's not just me.<br>
+> ><br>
+>=
+ >On the last night I chanted Sri Rudram at that place before going to s=
+leep and this was the only night I was able to sleep properly.<br>
+> >=
+;<br>
+> >Upon coming back home from that place I started waking up at=
+ home, feeling some strong presence - usually some short beings (up to 50 c=
+m in height, I've seen them before here though); Once the sun rises, all of=
+ the strange feelings disappear and I can sleep peacefully.<br>
+> ><b=
+r>
+> >Is there any mantra that will protect me from all kinds of astr=
+al beings at night? Something that I can chant before going to sleep. This =
+has been bothering me for some time now and it interferes with my life.<br>=
+
+> ><br>
+> >Thank you in advance!<br>
+> ><br>
+><br>
+<b=
+r>
+</div>
+
+    </div>
+     
+
+
+
+</td>
+                                    </=
+tr>
+                                </tbody>
+                            </=
+table>
+                    </div>
+                </div>
+            </div>=
+
+
+
+    </div>
+     
+
+
+
+</div>
+
+
+
+
+</div><br><br></div> </div> </div>  </div=
+>
+
+    </div>
+     
+
+
+
+</div>
+
+
+
+
+
+</div><br><br></div> </div> </div>  </di=
+v></body></html>
+--1255235813-845831892-1375940894=:3764--
+
+

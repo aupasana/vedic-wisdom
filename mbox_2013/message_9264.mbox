@@ -1,0 +1,815 @@
+From rajarshi14@...  Wed Feb 17 11:10:34 2016
+Return-Path: <rajarshi14@...>
+X-Sender: rajarshi14@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 32253 invoked by uid 102); 4 May 2013 11:41:26 -0000
+X-Received: from unknown (HELO mta2.grp.bf1.yahoo.com) (10.193.84.150)
+  by m6.grp.bf1.yahoo.com with SMTP; 4 May 2013 11:41:26 -0000
+X-Received: (qmail 25367 invoked from network); 4 May 2013 11:41:24 -0000
+X-Received: from unknown (HELO nm17-vm6.bullet.mail.sg3.yahoo.com) (106.10.149.85)
+  by mta2.grp.bf1.yahoo.com with SMTP; 4 May 2013 11:41:24 -0000
+X-Received: from [106.10.166.63] by nm17.bullet.mail.sg3.yahoo.com with NNFMP; 04 May 2013 11:41:22 -0000
+X-Received: from [106.10.151.250] by tm20.bullet.mail.sg3.yahoo.com with NNFMP; 04 May 2013 11:41:22 -0000
+X-Received: from [127.0.0.1] by omp1021.mail.sg3.yahoo.com with NNFMP; 04 May 2013 11:41:22 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 534370.46225.bm@...
+X-Received: (qmail 46594 invoked by uid 60001); 4 May 2013 11:34:42 -0000
+X-YMail-OSG: QTceKPsVM1lbzqqcCoSMImfBrdcgBAICh5XtEjMtcikOC9W
+ pKNRiLFbfNqUbsDWH4anQfYdDWw0WUqYD9DBLaTQtxMfHbWhdPRzV4D24xKK
+ GIJYn7JgwBJWwxSr2nxXJ8.1ahJACEmkcaHWklennwoZ6DbLn_DVbPPeCz2t
+ E9y5lZfElv8QGIFlQRb6DikNfpCGCi.nEqZ8_tQ0MObImNwLn_SQB46ZaZR0
+ mcwdz3qliVOVcGBYjmMsjQfi13g7nakuorhYKRC6RKIeH7D_rOvy36jwDfRL
+ H2Wc5VDSAPKOHgX0Z1ae87C6yFcjN38FxSFgmnm8s.Cx7Ac5HjtqIM9T15AJ
+ W4ZfdutrrSkHtDHbelVOm8pOFRuPYw4yGLde4Gdto4iPE89G7IniR6LjfsSy
+ yKJrdFa3KkeL57TEiXSAIkBHGlJSdasBNLfA.b2j1tOPb72J3IJtUE.78Flr
+ 5Qw7mTkUUUPgZgZ9gqkQV3W6G3nzEavBO.v_izPu5Lv_oGoUvR4GKvAT1nic
+ v_dFPrb6Z2qjqbevXbNbeIACjbUWVQA_cu1Ir9FM5AIIp4fXmxObDhMbMOf_
+ HkYAigc1rdqX5jnbQqgOIp1k7jIjykaMFHwM8.qbExVMfSIEGysF8Z.L5Fh_
+ .OGWpE894hkgc1zOFxtCflJ4XUyhSzbUFPxmLxUPdvVW8HOEE1.smD4TsOz2
+ qsWI386VclwFs.pFVfdjlORL1JKlu9HdW.7Aa2ofCUKTMFhELmap5NpQqz7q
+ RZvdFDbfDqyGKjcT6t7PkZYux9QLByHlqpb4QI2D8fEP1S5pPjhfcwoDNekz
+ 0a9qzSTf78pTpct7TN3XCXg0Jph4tnSc-
+X-Received: from [14.97.151.74] by web190904.mail.sg3.yahoo.com via HTTP; Sat, 04 May 2013 19:34:42 SGT
+X-Rocket-MIMEInfo: 002.001,TmFtYXN0ZSwKCkphaSBNYSEKCgpJIGhhdmUgYSBkaWZmZXJlbnQgdmlldyBwb2ludC4gTGV0IG1lIHdyaXRlIGRvd24gYXMgSSBzZWUgaXQsIGluIHBvaW50IGJ5IHBvaW50IG1hbm5lci4KCjEuIEluIHRoZSBCaGFnd2F0YSBQdXJhbmEsIHRoZXJlIGFyZSBhIGxpc3Qgb2YgMjIgQXZhdGFyYXMgb2YgVmlzaG51LiBJbiB0aGlzIGxpc3Qgb2YgMjIsIFZhcmFoYSBBdmF0YXJhIGlzIHRoZSAybmQgQXZhdGFyYSwgYW5kIE1hdHN5YSBpcyB0aGUgMTB0aCBBdmF0YXJhLiBEYXR0YXRyZXlhLCBOYXJhLW5hcmF5YW4BMAEBAQE-
+X-Mailer: YahooMailWebService/0.8.141.536
+References: <1366860641.80829.YahooMailNeo@...>
+Message-ID: <1367667282.39346.YahooMailNeo@...>
+Date: Sat, 4 May 2013 19:34:42 +0800 (SGT)
+To: "vedic-wisdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com>
+In-Reply-To: <1366860641.80829.YahooMailNeo@...>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="-2020808392-1609910660-1367667282=:39346"
+X-Originating-IP: 10.193.84.150
+X-eGroups-Msg-Info: 1:12:0:0:0
+From: rajarshi nandy <rajarshi14@...>
+Reply-To: rajarshi nandy <rajarshi14@...>
+Subject: Re: [vedic-wisdom] Comparing Dasavataras!
+X-Yahoo-Group-Post: member; u=216162964; y=6BGiDU_z1f35Y3vUdEiOyRQ80ezv8MekN0QulPF8erB68zKLww
+X-Yahoo-Profile: rajarshi14
+
+
+---2020808392-1609910660-1367667282=:39346
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Namaste,
+
+Jai Ma!
+
+
+I have a different view point. Let me write down as I s=
+ee it, in point by point manner.
+
+1. In the Bhagwata Purana, there are a li=
+st of 22 Avataras of Vishnu. In this list of 22, Varaha Avatara is the 2nd =
+Avatara, and Matsya is the 10th Avatara. Dattatreya, Nara-narayana,Vyasa De=
+va himself are in this list, and then the Bhagawata Purana goes ontu mentio=
+n that the Avatars of Vishnu are innumerable. In the 10th Canto, Vyasa says=
+ all these Avatars, and innumerable others, are amsas of the Supreme Being =
+while Krshna is "swayam Bhagawan."
+
+2. Of these various possible Avataras, =
+10, or rather 9 as I believe, are/have been accorded special mention and si=
+gnificance across various Hindu spiritual literature, specially those which=
+ were composed in the Kali-Yuga, namely the Puranas.[When Krshna was alive,=
+ it was Kali-Sandhya, his physical presence had curtailed the full effect o=
+f Kali,once he left his body, Kali started in full flow. All Puranas were c=
+omposed after this, hence these are scriptures of the Kali-Yuga, as are Tan=
+tras]
+
+3. These 10/9 Avataras have a fixed sequence of appearance. Matysa, =
+Kurma, Varaha, Narasimha, Vamana, Parashurama, Rama, Krshna, (Buddha) and K=
+alki. There is an unmistakeable connection of the form and sequence of thes=
+e main avatars with the evolution of life on earth. From the aquatic, to th=
+e amphibian, to the land-animal, to the half-animal-half-man, to the dwarf =
+man (first human life form who immediately takes possession of this earth r=
+epresented by Vamana's 3 steps), to the Rajashik avatara of Parashurama mov=
+ing around with an axe, to the Sattwa Guna Avatara of Rama, to the Nirguna =
+Avatara of Krshna. Also, this indicates that spirituality is not to be sepa=
+rated into another world, but is a progressive realization of the various m=
+anifestation and potentials that lie inherent in the consciousness and its =
+development through various life-forms. Larger spirituality of earth and ev=
+olution go hand in hand. That is Nature's grand design for life on earth.
+
+=
+4. In this specifc context, I am only focusing on the parable of these main=
+ 9/10 Avatars. It is not my contention that if one worships say Matysa Avat=
+ara, one will not attain to a state of liberation of the soul. As is the na=
+ture of spiritual cosmology in Hinduism, any Devata can lead a person to an=
+y depth of realization. And each one of the Avatars of Vishnu are self-real=
+ized in their own way and can be consider super-massive spiritual dynamos.
+=
+
+
+=C2=A05. Of these, naturally, Rama and Krshna are most adored because the=
+y represent a stage of evolution, both inside as well as outside, which soc=
+iety can relate of much easier, in this age. Rama represents, for me, the s=
+tage of most satwic mind. A satwic mind is in control of itself. It known h=
+ow to transform the animal tendencies within and without - monkeys - into a=
+ constructive force for a greater purpose. However, as with a state of full=
+ Sattwa Guna, there can be instances, even though few, of dejection. For it=
+ is static in nature and will change only when circumstances force it to. A=
+s per the Valmiki Ramayana, Rama did feel dejected while searching for Sita=
+ in the forest. He did have a moments fear before the final assault on Rava=
+na, which was dispelled by Agsatha when the later revealed the stotra of th=
+e Sun to Rama. At the end of the final battle, Rama tells Sita, in a most d=
+ispassionate manner, that he killed Ravana not to rescue her, but it was
+ t=
+he Dharma to do so, and to unhold his family honour. That too was the dharm=
+a of that age when he lived, family honor. The way I look at this grand epi=
+c, and I bow humbly to the genius of Rishis Valmiki for representing the th=
+ings as they are, as a scribe, as a poet, as an observer, and not adding hi=
+s own preferences to it anywhere, in the 14 years of tribulation that Rama =
+faced which culminated into his killing Ravana, he changed into the most di=
+spassionate leader, such that no personal consideration or emotions or pass=
+ions can overturn the Rajadharma. His life is a lesson of what a true leade=
+r must be!
+
+Krshna, OTOH, had this immaculate detachment right from birth. =
+I am not taking his=C2=A0 supernatural feats into account. It is his singul=
+ar and constant detachment from situations, from people, from environment, =
+from circumstances that mark his life. At the age of eight, he decides to l=
+eave Vrindavana for Mathura. All his friends, his foster parents, his villa=
+ge-folks who so loved him, pleaded with him that it would make no sense for=
+ him to leave the shelter, love and comfort of his happy, settled village l=
+ife and head into an unknown destiny and destination. Krshna tried to reaso=
+n with them, then he understood that they won't understand, he promised he =
+will return back once his work in Mathura is over. He never returned. Later=
+, much later, when the Gopis came to him asking him to participate in their=
+ dance, he obliged. But the moment some of them started getting jealous and=
+ possessive of Krshna, he removed himself quietly from the scene, saying th=
+at he
+ belongs to everyone equally and no one has any special right over hi=
+m. When Shishupala abused Krshna, the later merely kept dropping flowers on=
+ the floor, smiling and counting. The moment the 100th abuse was over, he s=
+wiftly cut off Shishupala's head and was back into his poise. But when Bhur=
+ishrava unfairly accused Krshna of being a revolutionist and charlatan, Krs=
+hna did not kill him. When Duryodhana, who used to think of Krshna as anoth=
+er black magician, wanted to arrest him, Krshna showed his vikarala roopa i=
+n the assembly of kings, yet he did not finish the enemies off. The very ne=
+xt moment he was back into his own poised self. Never in the whole Mahabhar=
+ata is there one instance of his going overboard, never a single shade of d=
+epression, equivocation, or lack of confidence in his actions, irrespective=
+ of what others say or think of him. And then right in the middle of the gr=
+eatest war he had the perfect equipoise to deliver the most sublime
+ spirit=
+ual philosophy. That is why his life remains the best ideal of Karma-Yoga. =
+For a true Karma-Yogi by definition can never be dejected. It is impossible=
+. Neither the action nor the results belong to the instrument. When running=
+ away from the battle-field and killing Kaliya Yavana, or when advising Bhe=
+ema to tear apart Jarashanda, or gesturing Bheema to hit Duryodhana below t=
+he waist, or getting Shikhandi to face Bhisma, Krshna, as if by some Divine=
+ Intuition, knew exactly how the situations must be lined up which would ca=
+use the destruction of these people. This kind of knowledge cannot come by =
+the rational thinking. But happens when one is constantly and consciously c=
+onnected to the Universal Force. We do not find these kind of complex situa=
+tions in the Rama Avatara, at least in the Valmiki Ramayana. Of course, if =
+we take the Adhbut Ramayana or such other auxilliary texts and retelling, w=
+e get a different picture. In the Adbhuta Ramayana we have a
+ 1000 headed d=
+emon attacking Rama after he kills Ravana, and then Sita turns into Adya Sh=
+akti and demolishes the 1000 headed demon and Rama worships her. But if we =
+take only the Ramayana and the Mahabharata, the picture that emerges is ver=
+y clear. Rama is the embodiment of Sattwic mind. Therefore he displays all =
+the great characteristics of satwa, chief of which is self-control, as well=
+ as the occasional sadness caused due to separation from his wife Sita whom=
+, at least until Ravana was destroyed, he loved very dearly. Satwa guna cre=
+ates a true saint, but can also cause some grief when the stability is shak=
+en. Krshna was gunatita. He had no attachment to anything in this world - m=
+an, women, deva, danava, friend, enemy - and therefore he was never affecte=
+d any trace of negative emotion. His Ananda never left him even in the most=
+ trying situations.
+
+6. Buddha was great spiritual force in this world. But=
+ I do not see him fit in the scheme of evolutionary Avatars. His realizatio=
+n, the one he advocated, is a static realization, an end in a void. This is=
+ clearly denying of the reality of this earth. I find this not in tune with=
+ what either Rama or Krshna espoused. None of them negated this world. If n=
+egation of this world and life is the final aim, then why send so many avat=
+ars at crucial stages of evolutionary development? If the spiritual impact =
+on masses is the reason for Buddha being an Avatara, then why not Jesus or =
+Zorathrusta.? They are no less impactful in that sense. But do they fit in =
+the scheme of spiritual line that these 9 Avataras of Narayana indicate in =
+a most logical manner? No. As such many vaishnava traditions in parts of In=
+dia, do not consider Buddha to be an avatara. Realization, to be complete a=
+nd holistic, must be both static and dynamic, outside of life as well as in=
+side of life.
+ That is why the Tantras formed their own kind of spiritual p=
+hilosophy, of the world as body of Shakti and therefore an object of revere=
+nce and realization.
+
+7. The original literature of the Nath Yogis used to =
+mention 9 chakras. These are centers of psychological functions. 6 inside t=
+he human body and 3 too subtle, or non-developed in most people, even seeke=
+rs. It is my belief that each of the 9 Avataras - excluding Buddha - corres=
+pond to the full power and force of one of these 9 Chakras. Similarly, the =
+9 grahas, or that which can modify consciousness or allow the consciousness=
+ to explore and express itself is various possiblities, are 9 in number. Th=
+e lagna is a reference point and not a graha. Therefore the chief Avatars w=
+ho represent the parable of evolution are nine in number. And the ninth of =
+the sequence is yet to come.
+
+8. I cannot comment on which graha would typi=
+cally represent which Avatara. I know of what the BPHS says, however, it is=
+ my belief - feel free to disagree with it -:)[one cannot rule out some dee=
+p-rooted corruption of understanding or textual misrepresentation in this K=
+ali-Yuga] - that the Atmah among the Avataras has not yet appeared. It will=
+ be Kalki, or as Vimalananda seems to say in the Aghora books, Nishkalanka =
+- the stainless one. There is only one thing which is perfectly stainless, =
+the Atmah .After a Nirguna/Gunatita awastha comes living in the full and co=
+mplete purity and might and force and strength of the Atmah. By the sheer d=
+int of his purity the last Avatara will burn away opposing forces of this w=
+orld and fulfill the purpose of evolution. Even Krshna used diplomacy at va=
+rious points in his adult life to achieve his ends. Kalki, I am speculating=
+, won't even need that. The white horse and that sword is a metaphor. He wi=
+ll be the only one
+ capable enough to rectify the various errors and corrup=
+tions that beset our age. 
+
+Well, this is how I look at the story of Avatar=
+as. It is perfectly ok not to agree with my views, but I am reasonably sang=
+uine now that this is what is closer to truth.
+
+-Regards
+=C2=A0Rajarshi
+
+
+a=
+waktam wyaktimApannam manyantE mAmabuddhayah |
+param bhAwamajAnanto mamAwya=
+yamanuttamam ||[7:24]
+
+
+________________________________
+ From: Narasimha P=
+.V.R. Rao <pvr108@...>
+To: Vedic Wisdom <vedic-wisdom@yahoogroups.com=
+> 
+Sent: Thursday, 25 April 2013 9:00 AM
+Subject: [vedic-wisdom] Comparing =
+Dasavataras!
+ 
+
+
+=C2=A0 
+Namaste friends,
+=C2=A0
+There was a discussion on =
+Lord Vishnu's Dasavataras on a limited access forum on Facebook. A learned =
+friend wrote that "Krshna is the God-man", "Previous Avatars are a build-up=
+ to this stage" and "Buddha after Krshna is like going back from the linear=
+ progression of spirituality that the Avatars manifest one after the other =
+upto Krshna".
+=C2=A0
+I want to emphatically disagree with this notion that =
+Dasavatars of a "linear progression of spirituality..upto Krshna".
+=C2=A0
+*=
+=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0 *=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=
+=C2=A0=C2=A0 *
+=C2=A0
+Each avatara represents an aspect of Supreme in a per=
+fected form.
+=C2=A0
+Maharshi Parasara equated dasavataras with planets. For=
+ example, Rama, Krishna and Narasimha are Sun, Moon and Mars, respectively.=
+
+=C2=A0
+We also
+ know that Sun, Moon, Mars, Mercury, Jupiter, Venus, Saturn=
+, Rahu and Ketu are personifications of soul, mind, energy/initiative/drive=
+, learning spirit, wisdom/discrimination, spirit of enjoyment/being happy, =
+patience/discipline, spirit of innovation/breaking barriers and detachment =
+(respectively).
+=C2=A0
+Correspondingly, each avatara is an expression of th=
+at aspect of Supreme in a perfected form. Each story is an example of how t=
+hat aspect operates.
+=C2=A0
+Lord Rama's story is a perfected example of how=
+ soul operates. Lord Krishna's story is a perfected example of how mind ope=
+rates. Lord Vamana's story is a perfected example of how wisdom/discriminat=
+ion operates. Lord Narasimha's story is a perfected example of how energy/d=
+rive/initiative operates.
+=C2=A0
+*=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=
+=A0 *=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0 *
+=C2=A0
+Now, let us rememb=
+er one basic thing. Soul in us, mind in us, energy in us,
+ learning spirit =
+in us, wisdom in us, happiness in us, discipline/patience in us - all these=
+ are different manifestations of the same Self. However, when Self manifest=
+s as these different aspects, it has different qualities and plays differen=
+t roles. There is no comparison between them.
+=C2=A0
+We MAY focus on one as=
+pect of us first, perfect it and then perfect other aspects through it. But=
+, we need balance between all aspects in the end. Similarly, these differen=
+t aspects of Supreme Being are incomparable and are in a balance working to=
+gether in the Cosmos.
+=C2=A0
+*=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0 *=
+=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0 *
+=C2=A0
+One who is fascinated b=
+y the qualities of soul may like the story that demonstrates how soul opera=
+tes; one who is fascinated by the qualities of mind may like the story that=
+ demonstrates how mind operates, and one who is fascinated by the qualities=
+ of wisdom may like the story that
+ demonstrates how wisdom operates. And s=
+o on. But this is just a matter of taste and subjective preference.
+=C2=A0
+=
+*=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0 *=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=
+=C2=A0=C2=A0 *
+=C2=A0
+Let us focus on Rama and Krishna, i.e. soul and mind.=
+ Soul is seen as a representative of god in us, because of some basic attri=
+butes of it. It is the higher self and has no agendas, no likes or dislikes=
+.
+=C2=A0
+Once mind fancies a separate existence with some agendas/desires, =
+soul supports the individualized consciousness stemming from that fancy and=
+ sees it as its dharma. It lends strength and support to EVERY aspect of th=
+is individualized consciousness (e.g. mind, energy, intellect, learning abi=
+lity, enjoyment, discipline etc). It supports them fully and yet has no des=
+ires/agendas/likes/dislikes of its own! It impassionately witnesses and rec=
+ords all of one's agendas and karmas so that Laws of Nature give proper fru=
+its later
+ on. It does all that despite full awareness that it is neither d=
+oing those karmas nor receiving the fruits. As mind and other aspects of th=
+e individualized consciousness entertain the notion that they are doing thi=
+ngs and begetting the fruits, soul supports them fully in this play. It see=
+s that as its dharma and does it impassionately.
+=C2=A0
+Now, does this soun=
+d exciting? Perhaps not to all. This functionality of an impassionate witne=
+ss supporting the play, may not seem interesting enough to some.
+=C2=A0
+On =
+the other hand, mind has likes, dislikes and agendas. It is constantly purs=
+uing those agendas, getting things and achieving things. Movement of mind i=
+s what keeps the individualization going!!! Though soul is the support for =
+everything else in the individualized consciousness, soul is a witness doin=
+g its dharma impassionately. It is mind that keeps the individualization go=
+ing and brings in agendas and passion and even decides/affects
+ every entit=
+y's dharma. That way, mind is really the "boss" of the individualization. N=
+o wonder Krishna's life appeals more to one who may be excited by this desc=
+ription!
+=C2=A0
+*=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0 *=C2=A0=C2=A0=
+=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0 *
+=C2=A0
+Lord Krishna is obviously awe-inspi=
+ring, but let me put Rama's life in perspective.
+=C2=A0
+Rama's life demonst=
+rates how soul operates. At a young age, he received Brahma Jnana from Vasi=
+shtha and became realized. Yet, he did whatever was his "dharma". He helped=
+ Vishwamitra. Soon after marriage, he was given kingdom. At the last moment=
+, his father banished him to forest at the behest of his step-mother and hi=
+s step-brother was given the throne. He had no complaints. Though his fathe=
+r, step-mother and step-brother felt guilty to various degrees, he himself =
+supported and consoled all three and followed his dharma impassionately. Th=
+ough he knew leaving Sita in the forest
+ with Lakshmana and going after the=
+ golden deer would cause problems, he did it impassionately when Sita insis=
+ted. When she was kidnapped by Ravana, he searched for her and fought the b=
+attle. He never faulted Sita for forcing him to leave her or faulted Lakshm=
+ana for leaving her later. He accepted every life situation with no complai=
+nts and did the best possible action then. Even as he killed Ravana, he did=
+ so without hatred or anger, but as his impassionate dharma. Even as Ravana=
+ was dying, he went to him and respectfully learned some subjects that were=
+ going to disappear with Ravana!
+=C2=A0
+Rama is a perfect example of a libe=
+rated man with no desires or agendas who impassionately discharges one's dh=
+arma arising from the momentum of karmas before liberation. THAT is basical=
+ly what soul does!
+=C2=A0
+*=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0 *=C2=
+=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0 *
+=C2=A0
+As another example, let us=
+ look at Lord
+ Vaamana. His story is a perfect demonstration of how wisdom/=
+discrimination operates.
+=C2=A0
+He was born as a learned pygmy. He filled t=
+he entire cosmos to rid earth of a charitable demon king with many great qu=
+alities.
+=C2=A0
+Wisdom/discrimination makes one humble and unassuming. When=
+ one is doing good work but tainted with demonic qualities (e.g. pride or a=
+ttachment), one's discrimination is not pleased until that pride is suppres=
+sed. When wisdom fills one's entire consciousness, then demonic qualities a=
+re completely suppressed.
+=C2=A0
+*=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=
+=A0 *=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0 *
+=C2=A0
+Please think about=
+ the other avataras. The stories can be understood as perfect demonstration=
+s of how various aspects of our consciousness operate, based on clues from =
+Maharshi Parasara.
+=C2=A0
+Let us not compare Dasavataras, but celebrate eac=
+h of them separately. Of course, if you are more
+ attracted to one of them,=
+ please think about that avatara more and develop devotion. They are ALL ca=
+pable of relieving us from samsara.
+=C2=A0
+*=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=
+=C2=A0=C2=A0 *=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0 *
+=C2=A0
+By the wa=
+y, happy Hanumajjayanti to those who celebrate it today (there are differen=
+t schools of thought).
+=C2=A0
+Best regards,
+Narasimha
+--------
+Astrology & =
+Spirituality Resources: http://www.VedicAstrologer.org 
+--------
+
+
+ 
+---2020808392-1609910660-1367667282=:39346
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"color:#000; background-color:#fff; font-family:Co=
+urier New, courier, monaco, monospace, sans-serif;font-size:12pt"><div><spa=
+n>Namaste,</span></div><div style=3D"color: rgb(0, 0, 0); font-size: 16px; =
+font-family: Courier New,courier,monaco,monospace,sans-serif; background-co=
+lor: transparent; font-style: normal;"><br><span></span></div><div style=3D=
+"color: rgb(0, 0, 0); font-size: 16px; font-family: Courier New,courier,mon=
+aco,monospace,sans-serif; background-color: transparent; font-style: normal=
+;"><span>Jai Ma!<br></span></div><div style=3D"color: rgb(0, 0, 0); font-si=
+ze: 16px; font-family: Courier New,courier,monaco,monospace,sans-serif; bac=
+kground-color: transparent; font-style: normal;"><br></div><div style=3D"co=
+lor: rgb(0, 0, 0); font-size: 16px; font-family: Courier New,courier,monaco=
+,monospace,sans-serif; background-color: transparent; font-style: normal;">=
+I have a different view point. Let me write down as I see it, in point by
+ =
+point manner.</div><div style=3D"color: rgb(0, 0, 0); font-size: 16px; font=
+-family: Courier New,courier,monaco,monospace,sans-serif; background-color:=
+ transparent; font-style: normal;"><br></div><div style=3D"color: rgb(0, 0,=
+ 0); font-size: 16px; font-family: Courier New,courier,monaco,monospace,san=
+s-serif; background-color: transparent; font-style: normal;">1. In the Bhag=
+wata Purana, there are a list of 22 Avataras of Vishnu. In this list of 22,=
+ Varaha Avatara is the 2nd Avatara, and Matsya is the 10th Avatara. Dattatr=
+eya, Nara-narayana,Vyasa Deva himself are in this list, and then the Bhagaw=
+ata Purana goes ontu mention that the Avatars of Vishnu are innumerable. In=
+ the 10th Canto, Vyasa says all these Avatars, and innumerable others, are =
+amsas of the Supreme Being while Krshna is "swayam Bhagawan."</div><div sty=
+le=3D"color: rgb(0, 0, 0); font-size: 16px; font-family: Courier New,courie=
+r,monaco,monospace,sans-serif; background-color: transparent; font-style:
+ =
+normal;"><br></div><div style=3D"color: rgb(0, 0, 0); font-size: 16px; font=
+-family: Courier New,courier,monaco,monospace,sans-serif; background-color:=
+ transparent; font-style: normal;">2. Of these various possible Avataras, 1=
+0, or rather 9 as I believe, are/have been accorded special mention and sig=
+nificance across various Hindu spiritual literature, specially those which =
+were composed in the Kali-Yuga, namely the Puranas.[When Krshna was alive, =
+it was Kali-Sandhya, his physical presence had curtailed the full effect of=
+ Kali,once he left his body, Kali started in full flow. All Puranas were co=
+mposed after this, hence these are scriptures of the Kali-Yuga, as are Tant=
+ras]</div><div style=3D"color: rgb(0, 0, 0); font-size: 16px; font-family: =
+Courier New,courier,monaco,monospace,sans-serif; background-color: transpar=
+ent; font-style: normal;"><br></div><div style=3D"color: rgb(0, 0, 0); font=
+-size: 16px; font-family: Courier
+ New,courier,monaco,monospace,sans-serif;=
+ background-color: transparent; font-style: normal;">3. These 10/9 Avataras=
+ have a fixed sequence of appearance. Matysa, Kurma, Varaha, Narasimha, Vam=
+ana, Parashurama, Rama, Krshna, (Buddha) and Kalki. There is an unmistakeab=
+le connection of the form and sequence of these main avatars with the evolu=
+tion of life on earth. From the aquatic, to the amphibian, to the land-anim=
+al, to the half-animal-half-man, to the dwarf man (first human life form wh=
+o immediately takes possession of this earth represented by Vamana's 3 step=
+s), to the Rajashik avatara of Parashurama moving around with an axe, to th=
+e Sattwa Guna Avatara of Rama, to the Nirguna Avatara of Krshna. Also, this=
+ indicates that spirituality is not to be separated into another world, but=
+ is a progressive realization of the various manifestation and potentials t=
+hat lie inherent in the consciousness and its development through various l=
+ife-forms. Larger
+ spirituality of earth and evolution go hand in hand. Tha=
+t is Nature's grand design for life on earth.</div><div style=3D"color: rgb=
+(0, 0, 0); font-size: 16px; font-family: Courier New,courier,monaco,monospa=
+ce,sans-serif; background-color: transparent; font-style: normal;"><br></di=
+v><div style=3D"color: rgb(0, 0, 0); font-size: 16px; font-family: Courier =
+New,courier,monaco,monospace,sans-serif; background-color: transparent; fon=
+t-style: normal;">4. In this specifc context, I am only focusing on the par=
+able of these main 9/10 Avatars. It is not my contention that if one worshi=
+ps say Matysa Avatara, one will not attain to a state of liberation of the =
+soul. As is the nature of spiritual cosmology in Hinduism, any Devata can l=
+ead a person to any depth of realization. And each one of the Avatars of Vi=
+shnu are self-realized in their own way and can be consider super-massive s=
+piritual dynamos.<br></div><div style=3D"color: rgb(0, 0, 0); font-size: 16=
+px; font-family:
+ Courier New,courier,monaco,monospace,sans-serif; backgrou=
+nd-color: transparent; font-style: normal;"><span><br></span></div><div>&nb=
+sp;5. Of these, naturally, Rama and Krshna are most adored because they rep=
+resent a stage of evolution, both inside as well as outside, which society =
+can relate of much easier, in this age. Rama represents, for me, the stage =
+of most satwic mind. A satwic mind is in control of itself. It known how to=
+ transform the animal tendencies within and without - monkeys - into a cons=
+tructive force for a greater purpose. However, as with a state of full Satt=
+wa Guna, there can be instances, even though few, of dejection. For it is s=
+tatic in nature and will change only when circumstances force it to. As per=
+ the Valmiki Ramayana, Rama did feel dejected while searching for Sita in t=
+he forest. He did have a moments fear before the final assault on Ravana, w=
+hich was dispelled by Agsatha when the later revealed the stotra of the Sun=
+ to Rama.
+ At the end of the final battle, Rama tells Sita, in a most dispa=
+ssionate manner, that he killed Ravana not to rescue her, but it was the Dh=
+arma to do so, and to unhold his family honour. That too was the dharma of =
+that age when he lived, family honor. The way I look at this grand epic, an=
+d I bow humbly to the genius of Rishis Valmiki for representing the things =
+as they are, as a scribe, as a poet, as an observer, and not adding his own=
+ preferences to it anywhere, in the 14 years of tribulation that Rama faced=
+ which culminated into his killing Ravana, he changed into the most dispass=
+ionate leader, such that no personal consideration or emotions or passions =
+can overturn the Rajadharma. His life is a lesson of what a true leader mus=
+t be!<br><br>Krshna, OTOH, had this immaculate detachment right from birth.=
+ I am not taking his  supernatural feats into account. It is his singu=
+lar and constant detachment from situations, from people, from environment,=
+
+ from circumstances that mark his life. At the age of eight, he decides to=
+ leave Vrindavana for Mathura. All his friends, his foster parents, his vil=
+lage-folks who so loved him, pleaded with him that it would make no sense f=
+or him to leave the shelter, love and comfort of his happy, settled village=
+ life and head into an unknown destiny and destination. Krshna tried to rea=
+son with them, then he understood that they won't understand, he promised h=
+e will return back once his work in Mathura is over. He never returned. Lat=
+er, much later, when the Gopis came to him asking him to participate in the=
+ir dance, he obliged. But the moment some of them started getting jealous a=
+nd possessive of Krshna, he removed himself quietly from the scene, saying =
+that he belongs to everyone equally and no one has any special right over h=
+im. When Shishupala abused Krshna, the later merely kept dropping flowers o=
+n the floor, smiling and counting. The moment the 100th abuse was
+ over, he=
+ swiftly cut off Shishupala's head and was back into his poise. But when Bh=
+urishrava unfairly accused Krshna of being a revolutionist and charlatan, K=
+rshna did not kill him. When Duryodhana, who used to think of Krshna as ano=
+ther black magician, wanted to arrest him, Krshna showed his vikarala roopa=
+ in the assembly of kings, yet he did not finish the enemies off. The very =
+next moment he was back into his own poised self. Never in the whole Mahabh=
+arata is there one instance of his going overboard, never a single shade of=
+ depression, equivocation, or lack of confidence in his actions, irrespecti=
+ve of what others say or think of him. And then right in the middle of the =
+greatest war he had the perfect equipoise to deliver the most sublime spiri=
+tual philosophy. That is why his life remains the best ideal of Karma-Yoga.=
+ For a true Karma-Yogi by definition can never be dejected. It is impossibl=
+e. Neither the action nor the results belong to the
+ instrument. When runni=
+ng away from the battle-field and killing Kaliya Yavana, or when advising B=
+heema to tear apart Jarashanda, or gesturing Bheema to hit Duryodhana below=
+ the waist, or getting Shikhandi to face Bhisma, Krshna, as if by some Divi=
+ne Intuition, knew exactly how the situations must be lined up which would =
+cause the destruction of these people. This kind of knowledge cannot come b=
+y the rational thinking. But happens when one is constantly and consciously=
+ connected to the Universal Force. We do not find these kind of complex sit=
+uations in the Rama Avatara, at least in the Valmiki Ramayana. Of course, i=
+f we take the Adhbut Ramayana or such other auxilliary texts and retelling,=
+ we get a different picture. In the Adbhuta Ramayana we have a 1000 headed =
+demon attacking Rama after he kills Ravana, and then Sita turns into Adya S=
+hakti and demolishes the 1000 headed demon and Rama worships her. But if we=
+ take only the Ramayana and the Mahabharata,
+ the picture that emerges is v=
+ery clear. Rama is the embodiment of Sattwic mind. Therefore he displays al=
+l the great characteristics of satwa, chief of which is self-control, as we=
+ll as the occasional sadness caused due to separation from his wife Sita wh=
+om, at least until Ravana was destroyed, he loved very dearly. Satwa guna c=
+reates a true saint, but can also cause some grief when the stability is sh=
+aken. Krshna was gunatita. He had no attachment to anything in this world -=
+ man, women, deva, danava, friend, enemy - and therefore he was never affec=
+ted any trace of negative emotion. His Ananda never left him even in the mo=
+st trying situations.<br><br>6. Buddha was great spiritual force in this wo=
+rld. But I do not see him fit in the scheme of evolutionary Avatars. His re=
+alization, the one he advocated, is a static realization, an end in a void.=
+ This is clearly denying of the reality of this earth. I find this not in t=
+une with what either Rama or Krshna
+ espoused. None of them negated this wo=
+rld. If negation of this world and life is the final aim, then why send so =
+many avatars at crucial stages of evolutionary development? If the spiritua=
+l impact on masses is the reason for Buddha being an Avatara, then why not =
+Jesus or Zorathrusta.? They are no less impactful in that sense. But do the=
+y fit in the scheme of spiritual line that these 9 Avataras of Narayana ind=
+icate in a most logical manner? No. As such many vaishnava traditions in pa=
+rts of India, do not consider Buddha to be an avatara. Realization, to be c=
+omplete and holistic, must be both static and dynamic, outside of life as w=
+ell as inside of life. That is why the Tantras formed their own kind of spi=
+ritual philosophy, of the world as body of Shakti and therefore an object o=
+f reverence and realization.<br><br>7. The original literature of the Nath =
+Yogis used to mention 9 chakras. These are centers of psychological functio=
+ns. 6 inside the human body
+ and 3 too subtle, or non-developed in most peo=
+ple, even seekers. It is my belief that each of the 9 Avataras - excluding =
+Buddha - correspond to the full power and force of one of these 9 Chakras. =
+Similarly, the 9 grahas, or that which can modify consciousness or allow th=
+e consciousness to explore and express itself is various possiblities, are =
+9 in number. The lagna is a reference point and not a graha. Therefore the =
+chief Avatars who represent the parable of evolution are nine in number. An=
+d the ninth of the sequence is yet to come.<br><br>8. I cannot comment on w=
+hich graha would typically represent which Avatara. I know of what the BPHS=
+ says, however, it is my belief - feel free to disagree with it -:)[one can=
+not rule out some deep-rooted corruption of understanding or textual misrep=
+resentation in this Kali-Yuga] - that the Atmah among the Avataras has not =
+yet appeared. It will be Kalki, or as Vimalananda seems to say in the Aghor=
+a books, Nishkalanka
+ - the stainless one. There is only one thing which is=
+ perfectly stainless, the Atmah .After a Nirguna/Gunatita awastha comes liv=
+ing in the full and complete purity and might and force and strength of the=
+ Atmah. By the sheer dint of his purity the last Avatara will burn away opp=
+osing forces of this world and fulfill the purpose of evolution. Even Krshn=
+a used diplomacy at various points in his adult life to achieve his ends. K=
+alki, I am speculating, won't even need that. The white horse and that swor=
+d is a metaphor. He will be the only one capable enough to rectify the vari=
+ous errors and corruptions that beset our age. <br><br>Well, this is how I =
+look at the story of Avataras. It is perfectly ok not to agree with my view=
+s, but I am reasonably sanguine now that this is what is closer to truth.<b=
+r><br>-Regards<br> Rajarshi<br></div><div><br></div><div><i><b><div cl=
+ass=3D"MsoNormal"><b><span class=3D"Apple-style-span" style=3D"font-size:16=
+px;"><b><span
+ class=3D"Apple-style-span" style=3D"color:rgb(153, 153, 153)=
+;"></span></b></span></b><span class=3D"yui_3_2_0_2_134243527249950" style=
+=3D"font-family:times new roman, new york, times, serif;">awaktam wyaktimAp=
+annam manyantE mAmabuddhayah |</span><br><b><span class=3D"yui_3_2_0_2_1342=
+43506227946 yui_3_2_0_2_134243527249952 yui_3_7_2_26_1367656257054_73" styl=
+e=3D"FONT-SIZE:10pt;COLOR:navy;FONT-FAMILY:Verdana;"><font color=3D"#000000=
+" face=3D"Times New Roman"><div><div> param bhAwamajAnanto mamAwyayamanutta=
+mam ||[7:24]</div></div></font></span></b></div></b></i></div><div><br></di=
+v>  <div style=3D"font-family: Courier New, courier, monaco, monospace, san=
+s-serif; font-size: 12pt;"> <div style=3D"font-family: times new roman, new=
+ york, times, serif; font-size: 12pt;"> <div dir=3D"ltr"> <hr size=3D"1">  =
+<font face=3D"Arial" size=3D"2"> <b><span style=3D"font-weight:bold;">From:=
+</span></b> Narasimha P.V.R. Rao <pvr108@...><br> <b><span styl=
+e=3D"font-weight: bold;">To:</span></b>
+ Vedic Wisdom <vedic-wisdom@yaho=
+ogroups.com> <br> <b><span style=3D"font-weight: bold;">Sent:</span></b>=
+ Thursday, 25 April 2013 9:00 AM<br> <b><span style=3D"font-weight: bold;">=
+Subject:</span></b> [vedic-wisdom] Comparing Dasavataras!<br> </font> </div=
+> <div class=3D"y_msg_container"><br><div id=3D"yiv8506844761">
+
+
+
+
+
+
+
+
+
+
+
+=
+
+
+<div>
+<span style=3D"display:none;"> </span>
+
+
+
+    <div id=3D"yiv85=
+06844761ygrp-text">
+      
+      
+      <div style=3D"color:#000;background=
+-color:#fff;font-family:arial, helvetica, sans-serif;font-size:10pt;">Namas=
+te friends,<br> <br>There was a discussion on Lord Vishnu's Dasavatara=
+s on a limited access forum on Facebook. A learned friend wrote that "Krshn=
+a is the God-man", "Previous Avatars are a build-up to this stage" and "Bud=
+dha after Krshna is like going back from the linear progression of spiritua=
+lity that the Avatars manifest one after the other upto Krshna".<br> <=
+br>I want to emphatically disagree with this notion that Dasavatars of a "l=
+inear progression of spirituality..upto Krshna".<br> <br>*  =
+      *        =
+*<br> <br>Each avatara represents an aspect of Supreme in a perfected =
+form.<br> <br>Maharshi Parasara equated dasavataras with planets. For =
+example, Rama, Krishna and Narasimha are Sun, Moon and Mars, respectively.<=
+br> <br>We also
+ know that Sun, Moon, Mars, Mercury, Jupiter, Venus, S=
+aturn, Rahu and Ketu are personifications of soul, mind, energy/initiative/=
+drive, learning spirit, wisdom/discrimination, spirit of enjoyment/being ha=
+ppy, patience/discipline, spirit of innovation/breaking barriers and detach=
+ment (respectively).<br> <br>Correspondingly, each avatara is an expre=
+ssion of that aspect of Supreme in a perfected form. Each story is an examp=
+le of how that aspect operates.<br> <br>Lord Rama's story is a perfect=
+ed example of how soul operates. Lord Krishna's story is a perfected exampl=
+e of how mind operates. Lord Vamana's story is a perfected example of how w=
+isdom/discrimination operates. Lord Narasimha's story is a perfected exampl=
+e of how energy/drive/initiative operates.<br> <br>*   =
+     *        *<br>&=
+nbsp;<br>Now, let us remember one basic thing. Soul in us, mind in us, ener=
+gy in us,
+ learning spirit in us, wisdom in us, happiness in us, discipline=
+/patience in us - all these are different manifestations of the same Self. =
+However, when Self manifests as these different aspects, it has different q=
+ualities and plays different roles. There is no comparison between them.<br=
+> <br>We MAY focus on one aspect of us first, perfect it and then perf=
+ect other aspects through it. But, we need balance between all aspects in t=
+he end. Similarly, these different aspects of Supreme Being are incomparabl=
+e and are in a balance working together in the Cosmos.<br> <br>* =
+       *      &=
+nbsp; *<br> <br>One who is fascinated by the qualities of soul may lik=
+e the story that demonstrates how soul operates; one who is fascinated by t=
+he qualities of mind may like the story that demonstrates how mind operates=
+, and one who is fascinated by the qualities of wisdom may like the story t=
+hat
+ demonstrates how wisdom operates. And so on. But this is just a matter=
+ of taste and subjective preference.<br> <br>*    =
+    *        *<br> <=
+br>Let us focus on Rama and Krishna, i.e. soul and mind. Soul is seen as a =
+representative of god in us, because of some basic attributes of it. It is =
+the higher self and has no agendas, no likes or dislikes.<br> <br>Once=
+ mind fancies a separate existence with some agendas/desires, soul supports=
+ the individualized consciousness stemming from that fancy and sees it as i=
+ts dharma. It lends strength and support to EVERY aspect of this individual=
+ized consciousness (e.g. mind, energy, intellect, learning ability, enjoyme=
+nt, discipline etc). It supports them fully and yet has no desires/agendas/=
+likes/dislikes of its own! It impassionately witnesses and records all of o=
+ne's agendas and karmas so that Laws of Nature give proper fruits later
+ on=
+. It does all that despite full awareness that it is neither doing those ka=
+rmas nor receiving the fruits. As mind and other aspects of the individuali=
+zed consciousness entertain the notion that they are doing things and beget=
+ting the fruits, soul supports them fully in this play. It sees that as its=
+ dharma and does it impassionately.<br> <br>Now, does this sound excit=
+ing? Perhaps not to all. This functionality of an impassionate witness supp=
+orting the play, may not seem interesting enough to some.<br> <br>On t=
+he other hand, mind has likes, dislikes and agendas. It is constantly pursu=
+ing those agendas, getting things and achieving things. Movement of mind is=
+ what keeps the individualization going!!! Though soul is the support for e=
+verything else in the individualized consciousness, soul is a witness doing=
+ its dharma impassionately. It is mind that keeps the individualization goi=
+ng and brings in agendas and passion and even decides/affects
+ every entity=
+'s dharma. That way, mind is really the "boss" of the individualization. No=
+ wonder Krishna's life appeals more to one who may be excited by this descr=
+iption!<br> <br>*        * &nb=
+sp;      *<br> <br>Lord Krishna is obviously =
+awe-inspiring, but let me put Rama's life in perspective.<br> <br>Rama=
+'s life demonstrates how soul operates. At a young age, he received Brahma =
+Jnana from Vasishtha and became realized. Yet, he did whatever was his "dha=
+rma". He helped Vishwamitra. Soon after marriage, he was given kingdom. At =
+the last moment, his father banished him to forest at the behest of his ste=
+p-mother and his step-brother was given the throne. He had no complaints. T=
+hough his father, step-mother and step-brother felt guilty to various degre=
+es, he himself supported and consoled all three and followed his dharma imp=
+assionately. Though he knew leaving Sita in the forest
+ with Lakshmana and =
+going after the golden deer would cause problems, he did it impassionately =
+when Sita insisted. When she was kidnapped by Ravana, he searched for her a=
+nd fought the battle. He never faulted Sita for forcing him to leave her or=
+ faulted Lakshmana for leaving her later. He accepted every life situation =
+with no complaints and did the best possible action then. Even as he killed=
+ Ravana, he did so without hatred or anger, but as his impassionate dharma.=
+ Even as Ravana was dying, he went to him and respectfully learned some sub=
+jects that were going to disappear with Ravana!<br> <br>Rama is a perf=
+ect example of a liberated man with no desires or agendas who impassionatel=
+y discharges one's dharma arising from the momentum of karmas before libera=
+tion. THAT is basically what soul does!<br> <br>*   &nb=
+sp;    *        *<br>&nbs=
+p;<br>As another example, let us look at Lord
+ Vaamana. His story is a perf=
+ect demonstration of how wisdom/discrimination operates.<br> <br>He wa=
+s born as a learned pygmy. He filled the entire cosmos to rid earth of a ch=
+aritable demon king with many great qualities.<br> <br>Wisdom/discrimi=
+nation makes one humble and unassuming. When one is doing good work but tai=
+nted with demonic qualities (e.g. pride or attachment), one's discriminatio=
+n is not pleased until that pride is suppressed. When wisdom fills one's en=
+tire consciousness, then demonic qualities are completely suppressed.<br>&n=
+bsp;<br>*        *   &nbs=
+p;    *<br> <br>Please think about the other avataras. =
+The stories can be understood as perfect demonstrations of how various aspe=
+cts of our consciousness operate, based on clues from Maharshi Parasara.<br=
+> <br>Let us not compare Dasavataras, but celebrate each of them separ=
+ately. Of course, if you are more
+ attracted to one of them, please think a=
+bout that avatara more and develop devotion. They are ALL capable of reliev=
+ing us from samsara.<br> <br>*      &nbs=
+p; *        *<br> <br>By the way, h=
+appy Hanumajjayanti to those who celebrate it today (there are different sc=
+hools of thought).<br> <br>Best regards,<br>Narasimha<br>--------<br>A=
+strology & Spirituality Resources: http://www.VedicAstrologer.org <br>-=
+-------<br><br></div>
+
+    </div>
+     
+
+
+
+</div>
+
+
+
+
+
+</div><br><br></div>=
+ </div> </div>  </div></body></html>
+---2020808392-1609910660-1367667282=:39346--
+
+

@@ -1,0 +1,590 @@
+From aswinefy2003@...  Wed Feb 17 11:10:27 2016
+Return-Path: <aswinefy2003@...>
+X-Sender: aswinefy2003@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 56920 invoked from network); 7 Jan 2013 08:52:04 -0000
+X-Received: from unknown (98.137.34.44)
+  by m10.grp.sp2.yahoo.com with QMQP; 7 Jan 2013 08:52:04 -0000
+X-Received: from unknown (HELO nm25-vm4.bullet.mail.sg3.yahoo.com) (106.10.151.99)
+  by mta1.grp.sp2.yahoo.com with SMTP; 7 Jan 2013 08:52:03 -0000
+X-Received: from [106.10.166.63] by nm25.bullet.mail.sg3.yahoo.com with NNFMP; 07 Jan 2013 08:52:02 -0000
+X-Received: from [106.10.151.155] by tm20.bullet.mail.sg3.yahoo.com with NNFMP; 07 Jan 2013 08:52:02 -0000
+X-Received: from [127.0.0.1] by omp1009.mail.sg3.yahoo.com with NNFMP; 07 Jan 2013 08:52:02 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 72553.8801.bm@...
+X-Received: (qmail 11260 invoked by uid 60001); 7 Jan 2013 08:52:01 -0000
+X-YMail-OSG: lYl.kgkVM1nXbwU7FufDxVReEYJpcXSSgUh6dcr9gHvvidQ
+ qLvM3JfpNumj5Np0KnTYaAzo17X4T.HVpUIEpM5VSfx.GJLW5xJ8W7tXF2MA
+ .sv4h1LDNHWVNWCKoWUvrMTewQ7ABBrx9cHZj_.zYpELy5hFWoaVcgkpHFtw
+ FAoApkvSzBkW9EjdfPFVguJO196vbR9fmud8moNAljrAGOs9qGZ1s5.zV4RD
+ sQS2qVCknO3.Q7PUMmUvXOEDHVKIx1LuY5J12PDReWn9GN17qBxr.QwYag66
+ 33GRuArIazaofRrHZbrd8RCic81RA.3Wc3YU2fEdsF7JWbt_rM54jnYuX_aM
+ DbDTXprPiL2LsMKSkgkk_p2uG7l5pZx8sj62xtvtJbveWZ6to5qsE9DTv9Cu
+ nF0VGGjHF_RX_7Zql.i1k0w2bUqodnCO6AhZv96iQK_T9hVD10KH82dnozUK
+ vG6uWUyKkQ0nCXvHSeOjdAGrwUxWixP6Chm7m4VX1TMN2MFFhm62SuJyatHj
+ Q8hNX4jEo2AlqkbS8Qfcw9k7gBiyy0nLJ_Ya8Ycc0nizpFfKfPz1W17g0Mtp
+ RU9MA1aBVxXFS3jAKpb__.QyYVMOL4EQ4QbeIgsrXIZlnxLbivOCnxDBNFpA
+ Dk_dcp55rL4K1uMMrqtK3y4OIxCv6vhEpx6KKs3IG_3zWNc7rT1qMLs9D63r
+ DP02PBhHSstgbnlOWHnqtOhcwcIysVHYOH8NviwmB6.KhCvsXTQAlj96WShJ
+ FQz1DcGEtiKe0ZvZt.isJ.vVu5_wOef7AIQp6x9mrP7VBRHkI_YOn4UissMI
+ fBEjnV_1f6spbAZFcn1AgYbcr.N6Sjz0FZMMJMcpxI7EePXqiuYfvZYkfjm7
+ Zj_GMQhyYhgC4poLwFbMmHLgK0dOFJiAgd7h02qjNCSO6GOn6p0ymjDH2Wuf
+ uv0iILJ_2utbNfPO6R3iHjNZBZh1eEHGLPSI_qPO02SnZrVg8HvBlck7xvp7
+ BA6gdovXk1CY8eWUyHRAIcsXQAQv6kGicDinRSw6o5XkmfNPJ1ftQK6gkP76
+ jZh_Wg8I6_2Nd.FqW_tgzrRm9_loydXNEo3H6of0jJOT0wXe5QFg6UqsZitV
+ YBNHPsN8UaQxVflS9YdcfQCCg6V84HTgCRZRZeBDLOJHSuSRdE8RYPhsfTF3
+ bE19xkiOc_4l7UkFzer4gz68VGg_EYvlPy3xh2kyR6Jw86OIZ.X1m.h8jCgg
+ erBCON148C_v0wU2PqS85aWqy0gzSBBLsLW8m0n42QXPIQ6sYry6K3dxluLu
+ bkgQWqVKIr_u_8Fe2p2S59oNlSxGFtKmfRMqpAEw.3Myxx9EM4C9bgHTnkcT
+ wKa2HTrTOERoct8augCR6WBlz5EJu4R1Uzv.jsmW_j2zvIsG1jEfOZzLCtgB
+ VLtO8fklf5FIXklRZjb72rQX44vO33OBlLO30RQbM6eIH6svZsod0skuw1m1
+ Ebefc_YMmnQ6YxHRGLWCa45Ndw4xmB3fw5FFm49bqU7phAbeam3NciyfvN5n
+ RGiWBjPXUpwRCrg33JRFgwXDNMk6JsqbIix700UpzHP1w9_EIztUMvklCjRr
+ JcgqbNSJpRnMF4NcopbIHDxcAAiyLSh9xOzUyjJ0SuaAvDm5ib1Lub0bZr0b
+ lYHDfXeiyNfDe6fiiRXq7sInDD9vxurJbIQ5_gSCzC8N0M3N6DombAo7CSd5
+ g58kimDgOVGDkg3e2BLq6OX9TMr5TIqBzbt8M2qg1xZAAt9FgS.3nDLJbl7a
+ nFZcz7TlYgW2nEqa1gcdx6NDd4TzV3qAmZUh9agxR7D6DyjIvfuNI3Xu8LNy
+ 22Ok85mX_UY1VbQo1MgOR3sYTwBRWYCTNfrhMxI2Por4mIdIveW3y7D6U4Ql
+ 3eLznqv5.bGO.RPQ8DSOmwRYLzFjk2nebfNGwmVApaU0dHF6p8OwHoJvRcMY
+ Vt_uy.CJBBT2E._IMfiQTsnK9ZVbEuKavQXTAqQvt4rA44I.QYbmRBJDJf_J
+ 0goi2bnZDyuAYOrGvj37gkiC6VmfBznlF3mHxVeKhyC3nKbkum0EMoBjrwTa
+ OPq1xZCQxNWAd0ZezZ8GbzZnzDtigRLiv9Zl_lFFTLaQNx5KBFi7VhJYIsaf
+ MCZgwCKgw6aqBkZKu56iPiAsNmcN4w.kP18XwXMtdaSPt
+X-Received: from [14.139.154.34] by web190904.mail.sg3.yahoo.com via HTTP; Mon, 07 Jan 2013 16:52:01 SGT
+X-Rocket-MIMEInfo: 001.001,U2lyIHdpbGwgeW91IHBsZWFzZSB0ZWxsIHdobyBpcyB0aGUgcHVibGlzaGVyIGZvciB0aGlzIGJvb2vCoCANCg0KLS0tIE9uIE1vbiwgNy8xLzEzLCBhaml0LmtyaXNobmFuQGdtYWlsLmNvbSA8YWppdC5rcmlzaG5hbkBnbWFpbC5jb20.IHdyb3RlOg0KDQpGcm9tOiBhaml0LmtyaXNobmFuQGdtYWlsLmNvbSA8YWppdC5rcmlzaG5hbkBnbWFpbC5jb20.DQpTdWJqZWN0OiBSRTogW3ZlZGljLXdpc2RvbV0gUmU6IExha3NobWkgR2FuYXBhdGhpIGhvbWFtDQpUbzogInZlZGljLXdpc2RvbUB5YWhvb2dyb3Vwcy4BMAEBAQE-
+X-Mailer: YahooMailClassic/15.1.2 YahooMailWebService/0.8.129.483
+Message-ID: <1357548721.90885.YahooMailClassic@...>
+Date: Mon, 7 Jan 2013 16:52:01 +0800 (SGT)
+To: vedic-wisdom@yahoogroups.com
+In-Reply-To: <50ea5910.6489440a.47e3.ffff8057@...>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="-2020808392-1488570222-1357548721=:90885"
+X-Originating-IP: 106.10.151.99
+X-eGroups-Msg-Info: 1:12:0:0:0
+From: aswin kumar <aswinefy2003@...>
+Subject: RE: [vedic-wisdom] Re: Lakshmi Ganapathi homam
+X-Yahoo-Group-Post: member; u=158727580; y=nTUVlW9KQJMJiO5BB4CdWRzx8sX9J7iBeAUaaRvCfcjheWRafNPQ
+X-Yahoo-Profile: aswinefy2003
+
+
+---2020808392-1488570222-1357548721=:90885
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Sir will you please tell who is the publisher for this book=C2=A0 
+
+--- On =
+Mon, 7/1/13, ajit.krishnan@... <ajit.krishnan@...> wrote:
+
+From=
+: ajit.krishnan@... <ajit.krishnan@...>
+Subject: RE: [vedic-wis=
+dom] Re: Lakshmi Ganapathi homam
+To: "vedic-wisdom@yahoogroups.com" <vedic-=
+wisdom@yahoogroups.com>
+Date: Monday, 7 January, 2013, 10:41 AM
+
+
+
+
+
+
+
+
+
+
+
+=
+
+
+
+
+
+=C2=A0
+
+
+
+  
+
+
+    
+      
+      
+      The book is titled=C2=A0=E2=80=
+=9Csaparivaaram puujakal" by=C2=A0=E2=80=9Cnaaraayanan namboothiri=E2=80=9D=
+. I got it from the Guruvayoorappan Book Stall a few years ago. =C2=A0Sent =
+from Windows Mail=C2=A0			From:=C2=A0aswin kumar
+		Sent:=C2=A0=E2=80=8EJanu=
+ary=E2=80=8E =E2=80=8E6=E2=80=8E, =E2=80=8E2013 =E2=80=8E7=E2=80=8E:=E2=80=
+=8E47=E2=80=8E =E2=80=8EPM
+		To:=C2=A0vedic-wisdom@yahoogroups.com
+		Subjec=
+t:=C2=A0Re: [vedic-wisdom] Re: Lakshmi Ganapathi homam
+		=C2=A0
+
+
+
+
+
+
+     =
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dear ajit sir 
+<I checked a reference book=C2=A0for th=
+e Kerala Namboothiri tradition, >
+
+Can you please name the reference book i=
+n malayalam.
+I am collecting such books and wants to preserve it =C2=A0 
+
+R=
+egards
+Aswin
+
+--- On Fri, 4/1/13, Ajit Krishnan <ajit.krishnan@...> w=
+rote:
+
+From: Ajit Krishnan <ajit.krishnan@...>
+Subject: Re: [vedic-wi=
+sdom] Re: Lakshmi Ganapathi homam
+To: vedic-wisdom@yahoogroups.com
+Date: Fr=
+iday, 4 January, 2013, 11:12 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=C2=A0
+
+
+
+    
+      
+     =
+ 
+      Dear Priyank and Ranga,
+=C2=A0The mantra given in the "knowityourwa=
+y" link has some simple errors. I don't know this mantra, and don't want to=
+ attempt any correction.=C2=A0
+I checked a reference book=C2=A0for the Kera=
+la Namboothiri tradition, and saw a "Lakshmi Vinayaka" mantra. It is very s=
+imilar to the standard mahaganapati mantra (it has the same number of sylla=
+bles, but includes only the lakshmi and ganesha bijas). It is given below:
+=
+
+
+=C2=A0o=E1=B9=81 =C5=9Br=C4=AB=E1=B9=81 ga=E1=B9=81 saumy=C4=81ya ga=E1=
+=B9=87apataye varavarada sarvajanam me va=C5=9Bam =C4=81naya sv=C4=81h=C4=
+=81 ..=C2=A0sasneham,=C2=A0=C2=A0 =C2=A0ajit=C2=A0=C2=A0
+
+
+On Thu, Jan 3, 2=
+013 at 10:40 PM, Ranga Nambakam <ranga_nambakam2000@...> wrote:
+
+
+
+Pr=
+iyank-ji
+
+
+
+That was my doubt, too. One version is already in the manual by=
+ Shree PVR and there are other versions. That is why I wanted the guidance =
+of Shree PVR.
+
+
+
+Ranga
+
+
+
+--- In vedic-wisdom@yahoogroups.com, "priyank_pri=
+yank" =C2=A0wrote:
+
+>
+
+> Namaste,
+
+>
+
+> There seem to be multiple verison o=
+f this over net.
+
+>
+
+> Is this the strotra
+
+> http://knowityourway.blogspot=
+.in/2011/02/sri-lakshmi-ganapati-stotram-in.html
+
+>
+
+> will appreciate if P=
+VR ji or anyone who knows about this, can throw some light on this.
+
+>
+
+> r=
+egards
+
+> Priyank
+
+>
+
+>
+
+> --- In vedic-wisdom@yahoogroups.com, seeking =C2=
+=A0wrote:
+
+> >
+
+> > Thank you very much for your answer, Shree Narasimha.
+
+=
+> >
+
+> > In the internet I found more than 1 "Lakshmi Ganapathi" mantra.
+
+>=
+ >
+
+> > One is the very one I have seen in the manual you published and tha=
+t I am reciting regularly.
+
+> >
+
+> > Can you post the link to one you would=
+ recommend?
+
+> >
+
+> > Thanks again
+
+> > Ranga
+
+> >
+
+>
+
+
+
+    
+     
+
+
+
+
+
+
+
+=
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+    
+     
+
+    
+    
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+---2020808392-1488570222-1357548721=:90885
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<table cellspacing=3D"0" cellpadding=3D"0" border=3D"0" ><tr><td valign=3D"=
+top" style=3D"font: inherit;">Sir will you please tell who is the publisher=
+ for this book  <br><br>--- On <b>Mon, 7/1/13, ajit.krishnan@...=
+ <i><ajit.krishnan@...></i></b> wrote:<br><blockquote style=3D"=
+border-left: 2px solid rgb(16, 16, 255); margin-left: 5px; padding-left: 5p=
+x;"><br>From: ajit.krishnan@... <ajit.krishnan@...><br>Su=
+bject: RE: [vedic-wisdom] Re: Lakshmi Ganapathi homam<br>To: "vedic-wisdom@=
+yahoogroups.com" <vedic-wisdom@yahoogroups.com><br>Date: Monday, 7 Ja=
+nuary, 2013, 10:41 AM<br><br><div id=3D"yiv471883039">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div>
+<=
+span style=3D"display:none;"> </span>
+
+
+
+    <div id=3D"yiv471883039yg=
+rp-text">
+      
+      
+      <p></p><div style=3D"font-size:16px;"><div>Th=
+e book is titled =E2=80=9Csaparivaaram puujakal" by =E2=80=9Cnaar=
+aayanan namboothiri=E2=80=9D. I got it from the Guruvayoorappan Book Stall =
+a few years ago. </div><div><div> </div><div>Sent from Windows Mail</d=
+iv><div> </div></div>	<div style=3D"border-top-color:rgb(225, 225, 225=
+);border-top-width:1px;border-top-style:solid;">		<strong>From:</strong>&nb=
+sp;aswin kumar<br>		<strong>Sent:</strong> =E2=80=8EJanuary=E2=80=8E =
+=E2=80=8E6=E2=80=8E, =E2=80=8E2013 =E2=80=8E7=E2=80=8E:=E2=80=8E47=E2=80=8E=
+ =E2=80=8EPM<br>		<strong>To:</strong> vedic-wisdom@yahoogroups.com<br=
+>		<strong>Subject:</strong> Re: [vedic-wisdom] Re: Lakshmi Ganapathi =
+homam<br>	</div>	<div> </div>
+
+
+
+
+
+
+        
+
+
+
+
+
+
+
+
+
+
+<br><br>
+
+
+
+
+<t=
+able border=3D"0" cellpadding=3D"0" cellspacing=3D"0"><tbody><tr><td style=
+=3D"font:inherit;font-size-adjust:inherit;font-stretch:inherit;" valign=3D"=
+top">Dear ajit sir <br><I checked a reference book for the Kerala N=
+amboothiri tradition, ><br><br>Can you please name the reference book in=
+ malayalam.<br>I am collecting such books and wants to preserve it   <=
+br><br>Regards<br>Aswin<br><br>--- On <b>Fri, 4/1/13, Ajit Krishnan <i><=
+ajit.krishnan@...></i></b> wrote:<br><blockquote style=3D"border-l=
+eft-color:rgb(16, 16, 255);border-left-width:2px;border-left-style:solid;">=
+<br>From: Ajit Krishnan <ajit.krishnan@...><br>Subject: Re: [ve=
+dic-wisdom] Re: Lakshmi Ganapathi homam<br>To: vedic-wisdom@yahoogroups.com=
+<br>Date: Friday, 4 January, 2013, 11:12 PM<br><br><div id=3D"yiv471883039"=
+>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div>
+<span> </span>
+
+
+
+    <div id=3D"yiv471883039ygrp=
+-text">
+      
+      
+      <p>Dear Priyank and Ranga,<br clear=3D"all"></p=
+><div><div> </div><div>The mantra given in the "knowityourway" link ha=
+s some simple errors. I don't know this mantra, and don't want to attempt a=
+ny correction.</div><div> </div><div>
+I checked a reference book =
+for the Kerala Namboothiri tradition, and saw a "Lakshmi Vinayaka" mantra. =
+It is very similar to the standard mahaganapati mantra (it has the same num=
+ber of syllables, but includes only the lakshmi and ganesha bijas). It is g=
+iven below:</div>
+
+
+<div> </div><div>o=E1=B9=81 =C5=9Br=C4=AB=E1=B9=81=
+ ga=E1=B9=81 saumy=C4=81ya ga=E1=B9=87apataye varavarada sarvajanam me va=
+=C5=9Bam =C4=81naya sv=C4=81h=C4=81 ..</div><div> </div><div>sasneham,=
+</div><div> </div><div>   ajit</div><div> </div><div>&n=
+bsp;</div></div>
+<br><br><div class=3D"yiv471883039 yiv471883039gmail_quote=
+">On Thu, Jan 3, 2013 at 10:40 PM, Ranga Nambakam <span dir=3D"ltr"><<a =
+rel=3D"nofollow" tabindex=3D"-1">ranga_nambakam2000@...</a>></span=
+> wrote:<br><blockquote class=3D"yiv471883039 yiv471883039gmail_quote" styl=
+e=3D"border-left-color:rgb(204, 204, 204);border-left-width:1px;border-left=
+-style:solid;">
+
+
+Priyank-ji<br>
+<br>
+That was my doubt, too. One version i=
+s already in the manual by Shree PVR and there are other versions. That is =
+why I wanted the guidance of Shree PVR.<br>
+<span><font color=3D"#888888"><=
+br>
+Ranga<br>
+</font></span><div><div><br>
+--- In <a rel=3D"nofollow" tabin=
+dex=3D"-1">vedic-wisdom@yahoogroups.com</a>, "priyank_priyank"  wrote:=
+<br>
+><br>
+> Namaste,<br>
+><br>
+> There seem to be multiple ver=
+ison of this over net.<br>
+><br>
+> Is this the strotra<br>
+> <a re=
+l=3D"nofollow" tabindex=3D"-1" target=3D"_blank" href=3D"http://knowityourw=
+ay.blogspot.in/2011/02/sri-lakshmi-ganapati-stotram-in.html">http://knowity=
+ourway.blogspot.in/2011/02/sri-lakshmi-ganapati-stotram-in.html</a><br>
+>=
+;<br>
+> will appreciate if PVR ji or anyone who knows about this, can th=
+row some light on this.<br>
+><br>
+> regards<br>
+> Priyank<br>
+>=
+<br>
+><br>
+> --- In <a rel=3D"nofollow" tabindex=3D"-1">vedic-wisdom@=
+yahoogroups.com</a>, seeking  wrote:<br>
+> ><br>
+> > Thank=
+ you very much for your answer, Shree Narasimha.<br>
+> ><br>
+> >=
+; In the internet I found more than 1 "Lakshmi Ganapathi" mantra.<br>
+> =
+><br>
+> > One is the very one I have seen in the manual you publis=
+hed and that I am reciting regularly.<br>
+> ><br>
+> > Can you p=
+ost the link to one you would recommend?<br>
+> ><br>
+> > Thanks=
+ again<br>
+> > Ranga<br>
+> ><br>
+><br></div></div></blockquo=
+te></div>
+
+
+    </div>
+     
+
+
+
+</div>
+
+
+
+
+
+</div></blockquote></td></tr></=
+tbody></table>
+
+
+
+
+
+<br>
+
+    
+    
+<br>
+
+
+
+
+<div style=3D"color:white;"></=
+div>
+
+
+
+</div>
+
+    </div>
+     
+
+
+
+</div>
+
+
+
+
+
+</div></blockquote></td></t=
+r></table>
+---2020808392-1488570222-1357548721=:90885--
+
+
