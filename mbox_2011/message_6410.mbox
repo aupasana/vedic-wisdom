@@ -1,0 +1,433 @@
+From rajarshi14@...  Wed Feb 17 11:09:38 2016
+Return-Path: <rajarshi14@...>
+X-Sender: rajarshi14@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 37511 invoked from network); 30 May 2011 06:16:33 -0000
+X-Received: from unknown (66.196.94.107)
+  by m17.grp.re1.yahoo.com with QMQP; 30 May 2011 06:16:33 -0000
+X-Received: from unknown (HELO web95506.mail.in.yahoo.com) (121.101.151.6)
+  by mta3.grp.re1.yahoo.com with SMTP; 30 May 2011 06:16:32 -0000
+X-Received: (qmail 91566 invoked by uid 60001); 30 May 2011 06:16:31 -0000
+Message-ID: <672244.75296.qm@...>
+X-YMail-OSG: OpbesKsVM1ks3Cr8ZdEDDxsgwQwGl2f1zjOEllzh7TzzQyr
+ bRXeO96EJjp4TjzXBmaZk2lkwGUpLmfOA7UmaHEgaQSxMwsB825RsrsbxxJs
+ J2auph6GwvYfLJqxIWH4kf97zaRC74eDT4dMuQuWGzeTg10Ytm3HyhNG73Sp
+ cj.76H3yc.Px2N0Ks2jBC5L76iuwp.bSvy6dwIy3dkaz.X_8Ns52SWc0LggR
+ dyesVsnKFklvuMSjuueW_yFEjtfFrv_XmTs8WKY32mqKoUxwXppRTUPfDs23
+ DqLwkmCnmbyCscE_wRr3NXQvrjN.nlb7ZasPi3ZzMMKpfZqaQ.FKWZE5EIkP
+ WASnQPZfErnQTUFoqCQmTEF4voKZCZKd.mb0Cw7ddHft1J7Ve3vb6eK3UySr
+ D3sDXW1kmbQj2uttVYHaKRpfGFzYZGwyhVFsiqwuoHyDBUPnH2wTmP2J.a4f
+ kyNzs5VLQT6lwkgWmt5vTWm5AbvLKTsWm5EgiiIROWzSpEpO0OT1wJztCffa
+ Dc8KcOasEnUB15TSNhyboUJi6.Eqg3rLD0U3fy5IDxYSD_eicnA8a89y_70W
+ kznQIURRtTx2nl.nnchAv.7eS8skk30oOmrTiABrY8oMw0jPjSzsmXqG16cT
+ NsPozZgNxTbZqAu5DVjhvnRnF6C2oV6_6YVwVmNc9EQJXr03BgbJJwyLWFw7
+ ZsTcmL4ylat7gTRWQEc3tM2JrKYcKeQdnjWs9r0F0FIHXuDShEO276ljwAb6
+ hYzuTFc_pEeFhnrLmaXaluQdCmQdXcXLnR.3o52tbTnlTffHQBKfk71ARINh
+ tSLpS2T0MPsoaUNiLMRv0thwHRWFcQPRQzcCa5.0mN9CyV_cYUpBvecvjboe
+ 6RrICWdBETsJCUTXRVulJFbVKT_W9Y5EXHd.9WiljBzdXAF2U4SgWoGkoISy
+ mYzogrfh3UmsLVhwxDsVIZ90Ck1iz16jXnpvJEbgbx.S.3QEAq5RieAFSRAc
+ hiSeh6Z4b78T_izl14htGOUxc38I3_8yi9j.R5w4qis_GVYMGUqnzTjlh71t
+ VZ6SBkDPnIlwsLgw0VQgcd34b2K.DeQG4lPlKuFHQTXCtScJ.jzTrmiaaflI
+ 3NUjRnkl3f9MKYOEB0iQP0AOM6Qi4etJFKv4GsEj4MIzy2ooRUEO4NodVNjG
+ lozT5h3bBe5gHeTJpp8bsc7F_DttnDFEbuvvQMjwxk61Uk2af0AhsCMM4iNk
+ W.AeCWhl9lzFug2hVO9yq8UyB2j7Rffr5PjnimZZWyXy1rnLIqS32HB2M0h5
+ uqMaAN1TSXBm1dB4QXOhCINuS5PjJGQKp3Mz04wnvdTPwLvkZRZMrLoqgvBE
+ tj8e0BnVYbL_dfCSY1AGUpMdiHsw9soMiKHBy9dCxRVtXxJlTdZZzsR1efos
+ 648kfw0naFT6wVVq832Epu1hqHbNr3CA01vMIvBF0dU.eqLDgo9fSwAiWNSi
+ eC60T06Lxs1iFLI_95sBwtaPMVZuVxT81b_D8L6li547QpmegaM3rfAtVegS
+ iZ60VYI97W94mlHjhDCxPGScSjotMebCHkQFFE_66do11783qS_F8iDageQ5
+ 6Req6bqHthRahZacVPBMiPAEBY5yR2Pmd4u_vBvm.sK1uo2GTJRK3ylXl.lg
+ Rq1e2G7yjjYX8BGgj86BOcup37JTGeKGHQ2eVtOEuLWHrCut8w7HJsowoQJL
+ D.V83ftix9GneMWxtZ5q1bdKL3iDUxCGV_ewP7P_X5U.38OiBcM_kNi1M6nU
+ CNdXtf_oEvNu2jFgb2rvak.3w1CiY6sel_RydnEUG9B1vyHe7xfQUKCLWk26
+ 1Ekivye6BMfehR.jzYQaI2QSVaHqNeiI-
+X-Received: from [64.138.135.70] by web95506.mail.in.yahoo.com via HTTP; Mon, 30 May 2011 11:46:31 IST
+X-Mailer: YahooMailRC/570 YahooMailWebService/0.8.111.303096
+References: <irvc9n+kprc@...>
+Date: Mon, 30 May 2011 11:46:31 +0530 (IST)
+To: vedic-wisdom@yahoogroups.com
+In-Reply-To: <irvc9n+kprc@...>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1095312001-1306736191=:75296"
+X-Originating-IP: 121.101.151.6
+From: rajarshi nandy <rajarshi14@...>
+Subject: Re: [vedic-wisdom] !!!!!!!!Shani Jayanti !!!!!!!!
+X-Yahoo-Group-Post: member; u=216162964; y=Wq75wlMexEYcNH-FjfNSsGuy-MCGhXnyyS677Q9Swal53rygAA
+X-Yahoo-Profile: rajarshi14
+
+
+--0-1095312001-1306736191=:75296
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Namaste,
+
+This amavashya is celebrated as Phalaharini Kaali=C2=A0Puja as we=
+ll.
+
+-Regards
+=C2=A0Rajarshi
+=C2=A0
+Bazeecha-e-atfal hain duniya mere aage.=
+
+Hota hain shab-o-roz tamasha mere aage
+=C2=A0
+Ek khel hain aurang-e-sulema=
+an mere nazdeek
+Ek baat hain ijaz-e-masiah mere aage.
+
+
+
+
+_________________=
+_______________
+From: vedic_pathak <vedic_pathak@...>
+To: vedic-wisdo=
+m@yahoogroups.com
+Sent: Mon, 30 May, 2011 11:38:55 AM
+Subject: [vedic-wisdo=
+m] !!!!!!!!Shani Jayanti !!!!!!!!
+
+=C2=A0 
+Om Sham Shanaishcharaaya Namah !=
+
+
+31st May/1st June (2011) is SHANI DEV Jayanti (Vaishakh Amaavasyaa). 
+Inc=
+identally, Saturn is very very Slow in space. Infact, it is just 12 days aw=
+ay 
+from becoming direct.
+
+Hence, It occours to me that it has to be an ext=
+remely potential time to do 
+spiritual activties. Homam, Japam, Pranaayam, =
+meditation, reading of scriptures, 
+Bhajans etc... (May not be good time fo=
+r purchasing a TV set...:-)
+
+It should be a very good Muhurt as well to sta=
+rt a spiritual effort(s) for 
+consistancy and patient hardwork as well as l=
+ong lasting positive effects.
+
+1stly its an Amaavasya, 2ndly It is a Shani =
+Jayanti, 3rd Shani is almost 
+Stationary (Sthira) and Last but not the leas=
+t, eclipse also happening.
+
+Cold (Shani-like) Regards,
+
+Utpal
+
+
+
+--0-1095312001-1306736191=:75296
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><style type=3D"text/css"><!-- DIV {margin:0px;} --></style></he=
+ad><body><div style=3D"font-family:times new roman, new york, times, serif;=
+font-size:12pt"><DIV></DIV>
+<DIV>Namaste,</DIV>
+<DIV> </DIV>
+<DIV>This=
+ amavashya is celebrated as Phalaharini Kaali Puja as well.</DIV>
+<DIV=
+> </DIV>
+<DIV>-Regards</DIV>
+<DIV> Rajarshi<BR> </DIV>
+<DIV>=
+<EM><STRONG>
+<DIV class=3DMsoNormal><STRONG><SPAN style=3D"FONT-FAMILY: Ver=
+dana; COLOR: navy; FONT-SIZE: 10pt"><FONT color=3D#000000 face=3D"Times New=
+ Roman">
+<DIV><B><SPAN style=3D"COLOR: #000066" class=3DApple-style-span><S=
+PAN style=3D"FONT-SIZE: medium" class=3DApple-style-span><FONT color=3D#a2a=
+2a2 size=3D3>Bazeecha-e-atfal hain duniya mere aage.</FONT></SPAN></SPAN></=
+B></DIV>
+<DIV><B><SPAN style=3D"COLOR: #000066" class=3DApple-style-span><S=
+PAN style=3D"FONT-SIZE: medium" class=3DApple-style-span><FONT size=3D3><FO=
+NT color=3D#a2a2a2>Hota hain shab-o-roz tamasha mere aage</FONT></FONT></SP=
+AN></SPAN></B></DIV>
+<DIV><B><SPAN style=3D"COLOR: #000066" class=3DApple-s=
+tyle-span><SPAN style=3D"FONT-SIZE: medium" class=3DApple-style-span><SPAN =
+style=3D"COLOR: #000099" class=3DApple-style-span><SPAN style=3D"FONT-SIZE:=
+ small" class=3DApple-style-span><FONT size=3D2> </FONT></DIV>
+<DIV>
+<=
+DIV><SPAN style=3D"FONT-SIZE: medium" class=3DApple-style-span><B><SPAN sty=
+le=3D"COLOR: #999999" class=3DApple-style-span><FONT size=3D3>Ek khel hain =
+aurang-e-sulemaan mere nazdeek</FONT></SPAN></B></SPAN></DIV>
+<DIV><SPAN st=
+yle=3D"FONT-SIZE: medium" class=3DApple-style-span><B><SPAN style=3D"COLOR:=
+ #999999" class=3DApple-style-span><FONT size=3D3>Ek baat hain ijaz-e-masia=
+h mere aage.</FONT></SPAN></B></SPAN></DIV></SPAN></SPAN></SPAN></SPAN></B>=
+</DIV></FONT></SPAN></STRONG></DIV></STRONG></EM></DIV>
+<DIV><BR></DIV>
+<DI=
+V style=3D"FONT-FAMILY: times new roman, new york, times, serif; FONT-SIZE:=
+ 12pt"><BR>
+<DIV style=3D"BORDER-LEFT: #1010ff 2px solid; MARGIN: 5px 0px 5=
+px 5px; PADDING-LEFT: 5px; FONT-FAMILY: times new roman, new york, times, s=
+erif; FONT-SIZE: 12pt"><FONT size=3D2 face=3DTahoma>
+<HR SIZE=3D1>
+<B><SPAN=
+ style=3D"FONT-WEIGHT: bold">From:</SPAN></B> vedic_pathak <vedic_pathak=
+@...><BR><B><SPAN style=3D"FONT-WEIGHT: bold">To:</SPAN></B> vedic=
+-wisdom@yahoogroups.com<BR><B><SPAN style=3D"FONT-WEIGHT: bold">Sent:</SPAN=
+></B> Mon, 30 May, 2011 11:38:55 AM<BR><B><SPAN style=3D"FONT-WEIGHT: bold"=
+>Subject:</SPAN></B> [vedic-wisdom] !!!!!!!!Shani Jayanti !!!!!!!!<BR></FON=
+T><BR><SPAN style=3D"DISPLAY: none"> </SPAN> 
+<DIV id=3Dygrp-text>
+<P>=
+Om Sham Shanaishcharaaya Namah !<BR><BR>31st May/1st June (2011) is SHANI D=
+EV Jayanti (Vaishakh Amaavasyaa). Incidentally, Saturn is very very Slow in=
+ space. Infact, it is just 12 days away from becoming direct.<BR><BR>Hence,=
+ It occours to me that it has to be an extremely potential time to do spiri=
+tual activties. Homam, Japam, Pranaayam, meditation, reading of scriptures,=
+ Bhajans etc... (May not be good time for purchasing a TV set...:-)<BR><BR>=
+It should be a very good Muhurt as well to start a spiritual effort(s) for =
+consistancy and patient hardwork as well as long lasting positive effects.<=
+BR><BR>1stly its an Amaavasya, 2ndly It is a Shani Jayanti, 3rd Shani is al=
+most Stationary (Sthira) and Last but not the least, eclipse also happening=
+.<BR><BR>Cold (Shani-like) Regards,<BR><BR>Utpal<BR><BR></P></DIV>
+<STYLE t=
+ype=3Dtext/css>
+<!--
+#ygrp-mkp {
+border:1px solid #d8d8d8;font-family:Arial=
+;margin:10px 0;padding:0 10px;}
+
+#ygrp-mkp hr {
+border:1px solid #d8d8d8;}
+=
+
+#ygrp-mkp #hd {
+color:#628c2a;font-size:85%;font-weight:700;line-height:12=
+2%;margin:10px 0;}
+
+#ygrp-mkp #ads {
+margin-bottom:10px;}
+
+#ygrp-mkp .ad {
+=
+padding:0 0;}
+
+#ygrp-mkp .ad p {
+margin:0;}
+
+#ygrp-mkp .ad a {
+color:#0000f=
+f;text-decoration:none;}
+#ygrp-sponsor #ygrp-lc {
+font-family:Arial;}
+
+#ygr=
+p-sponsor #ygrp-lc #hd {
+margin:10px 0px;font-weight:700;font-size:78%;line=
+-height:122%;}
+
+#ygrp-sponsor #ygrp-lc .ad {
+margin-bottom:10px;padding:0 0=
+;}
+
+a {
+color:#1e66ae;}
+
+#actions {
+font-family:Verdana;font-size:11px;padd=
+ing:10px 0;}
+
+#activity {
+background-color:#e0ecee;float:left;font-family:V=
+erdana;font-size:10px;padding:10px;}
+
+#activity span {
+font-weight:700;}
+
+#=
+activity span:first-child {
+text-transform:uppercase;}
+
+#activity span a {
+=
+color:#5085b6;text-decoration:none;}
+
+#activity span span {
+color:#ff7900;}=
+
+
+#activity span .underline {
+text-decoration:underline;}
+
+.attach {
+clear:=
+both;display:table;font-family:Arial;font-size:12px;padding:10px 0;width:40=
+0px;}
+
+.attach div a {
+text-decoration:none;}
+
+.attach img {
+border:none;pa=
+dding-right:5px;}
+
+.attach label {
+display:block;margin-bottom:5px;}
+
+.atta=
+ch label a {
+text-decoration:none;}
+
+blockquote {
+margin:0 0 0 4px;}
+
+.bold=
+ {
+font-family:Arial;font-size:13px;font-weight:700;}
+
+.bold a {
+text-decor=
+ation:none;}
+
+dd.last p a {
+font-family:Verdana;font-weight:700;}
+
+dd.last =
+p span {
+margin-right:10px;font-family:Verdana;font-weight:700;}
+
+dd.last p=
+ span.yshortcuts {
+margin-right:0;}
+
+div.attach-table div div a {
+text-deco=
+ration:none;}
+
+div.attach-table {
+width:400px;}
+
+div.file-title a, div.file=
+-title a:active, div.file-title a:hover, div.file-title a:visited {
+text-de=
+coration:none;}
+
+div.photo-title a, div.photo-title a:active, div.photo-tit=
+le a:hover, div.photo-title a:visited {
+text-decoration:none;}
+
+div#ygrp-ml=
+msg #ygrp-msg p a span.yshortcuts {
+font-family:Verdana;font-size:10px;font=
+-weight:normal;}
+
+.green {
+color:#628c2a;}
+
+.MsoNormal {
+margin:0 0 0 0;}
+
+=
+o {
+font-size:0;}
+
+#photos div {
+float:left;width:72px;}
+
+#photos div div {=
+
+border:1px solid #666666;height:62px;overflow:hidden;width:62px;}
+
+#photos=
+ div label {
+color:#666666;font-size:10px;overflow:hidden;text-align:center=
+;white-space:nowrap;width:64px;}
+
+#reco-category {
+font-size:77%;}
+
+#reco-d=
+esc {
+font-size:77%;}
+
+.replbq {
+margin:4px;}
+
+#ygrp-actbar div a:first-chi=
+ld {
+margin-right:2px;padding-right:5px;}
+
+#ygrp-mlmsg {
+font-size:13px;fon=
+t-family:Arial, helvetica, clean, sans-serif;}
+
+#ygrp-mlmsg table {
+font-si=
+ze:inherit;font:100%;}
+
+#ygrp-mlmsg select, input, textarea {
+font:99% Aria=
+l, Helvetica, clean, sans-serif;}
+
+#ygrp-mlmsg pre, code {
+font:115% monosp=
+ace;}
+
+#ygrp-mlmsg * {
+line-height:1.22em;}
+
+#ygrp-mlmsg #logo {
+padding-bo=
+ttom:10px;}
+
+#ygrp-mlmsg a {
+color:#1E66AE;}
+
+#ygrp-msg p a {
+font-family:V=
+erdana;}
+
+#ygrp-msg p#attach-count span {
+color:#1E66AE;font-weight:700;}
+
+=
+#ygrp-reco #reco-head {
+color:#ff7900;font-weight:700;}
+
+#ygrp-reco {
+margi=
+n-bottom:20px;padding:0px;}
+
+#ygrp-sponsor #ov li a {
+font-size:130%;text-d=
+ecoration:none;}
+
+#ygrp-sponsor #ov li {
+font-size:77%;list-style-type:squa=
+re;padding:6px 0;}
+
+#ygrp-sponsor #ov ul {
+margin:0;padding:0 0 0 8px;}
+
+#y=
+grp-text {
+font-family:Georgia;}
+
+#ygrp-text p {
+margin:0 0 1em 0;}
+
+#ygrp-=
+text tt {
+font-size:120%;}
+
+#ygrp-vital ul li:last-child {
+border-right:non=
+e !important;
+}
+-->
+</STYLE>
+</DIV></DIV></div></body></html>
+--0-1095312001-1306736191=:75296--
+
+

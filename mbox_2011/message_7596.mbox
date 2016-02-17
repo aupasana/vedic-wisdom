@@ -1,0 +1,332 @@
+From rajarshi14@...  Wed Feb 17 11:10:01 2016
+Return-Path: <rajarshi14@...>
+X-Sender: rajarshi14@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 7357 invoked from network); 7 Dec 2011 11:43:58 -0000
+X-Received: from unknown (98.137.34.45)
+  by m2.grp.sp2.yahoo.com with QMQP; 7 Dec 2011 11:43:58 -0000
+X-Received: from unknown (HELO nm4-vm0.bullet.mail.in.yahoo.com) (121.101.151.213)
+  by mta2.grp.sp2.yahoo.com with SMTP; 7 Dec 2011 11:43:57 -0000
+X-Received: from [121.101.151.238] by nm4.bullet.mail.in.yahoo.com with NNFMP; 07 Dec 2011 11:43:53 -0000
+X-Received: from [121.101.151.234] by tm3.bullet.mail.in.yahoo.com with NNFMP; 07 Dec 2011 11:45:35 -0000
+X-Received: from [127.0.0.1] by omp1003.mail.in.yahoo.com with NNFMP; 07 Dec 2011 11:45:48 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 734260.97663.bm@...
+X-Received: (qmail 72142 invoked by uid 60001); 7 Dec 2011 11:43:53 -0000
+X-YMail-OSG: 6KFXZZcVM1kMNDS0tYWmnFNrxfJxLTzCkRl8XqNDnfAeftZ
+ gTCVYN8pQ7Z8U6H6E2o7zR_49xx751ddbOrQM4YZli9icFKZqZbZv7hG7vCi
+ Lc2TvGY97dXolS1AV8pm8nZQ9M9M5X.RU923fAd42XSlSGaK_EneoEhqG6Se
+ XKG9kbaxgZFrozNyWRYBh8BEwkQ8Znmc3Yh8cH_2bH42bi6klDrrj9OsCEky
+ u_Ox_5XHALvRD3qSj9ru1nUT2lOiHXbkAet9Krd1_hmqEZPiTVVpn9OJ5XRC
+ pfBeA2m0IMC.66UJSW6odREyCwnHsdy4Jr.MKtgznYOjsH6Xq4DaX6g_DCcN
+ ctRsTIiIQHAoTjVDPCt.LMccgMOcTnfBFjZ.S4DzBSVFhmSWw9pRDtwCymSs
+ ElvpHnewD8wNx9NVgi5wICsK4Aru8ffdggp3Gmw8L45ysjgf8Rbo.XY405ob
+ 5TqXASrRwA2MO9rZfYisSq8h4zgES63loLilZX2xVN7v37IE2tTn41FYLYmL
+ FKvbH4XWdQQxu0DQC0dPMnPrEzZdKO7Mqs1PxNFeZX4tHmC1glMcE9YzEO1g
+ coT0_yXx40JEtl1QikjKH3pN36QSp7hQYlxaiVGymdrinxMEDe6Dbpmyh9aF
+ d1AbJGXatdw5FVsXSiIObKagOrBXf7aLp1Vd3EgGxu5kebFi.azl.J9eRD3U
+ _IuVMyQncDGR8y1oTZC0mXCdII4plq7l2sA8dNJoKGQ_FPAdZMVL95Htox2G
+ M7GFQOfhFjz2SC7LgVWq0yRWMvOjhIkSGdRq_l0D2PcbPqm63g8TaVOnSTMq
+ rq5Njdo1__qyFntQnQrWpTyWSnsAk34SmadaPbsp3RuwNvSbk3NPBOWZcJkI
+ tM6XRAO7zAcicfz6C6HCgqa1lmeeM4V_8bNpObBMnw8JIDu35bdYVwKci26A
+ ajrkLObboiEtux5tuPWkdYhhQ6JqtI.q3dFK2R_sx6bZbmrTP4xIgEWq0T9j
+ 1jEqEHMQdjhdOtboHZ1PRViCvrr87wOf_Y3WFsA5iGPJcIazFWRsC2bT5bIw
+ tY2mS6Hh0xJLpq2.LtCL_qc3IYQ4jL2BXy8opw605OIEXF66N06KxWw1pcmL
+ aPtbvyV1sseShqq0cfn_FWQeUhXca46Bki5CDMOEaETSK50aVqSG2T8EZ7r0
+ JEkl814FQaZbQGbdUGGcM_AN3W1WK3MXJunx6a5lJEFTUWdMV2NankrysUt1
+ g1K4f6KwGwgrLHMaBm6kBDavx.XZacFDmu3ib7bPoeKOAxDACy2XlJU_qaPW
+ afyaDwqmQJstMqBnVz2e8Y7soEAhwoJ.QoMkfpuCct1eo9.n61fjPOc6n5qv
+ EHlrmclHBi9J1XTElEnnJvfIGRVpiKdZG39tHDfiXcpAt7vZsdCGgF3MXQc6
+ 94tWKE.A0Wzf8pJXJJzvR1D1N67DYYfWMIK_PCGVgCItI6nn4Vda5g8m9Eoa
+ O26nfnb7EDRSbCby9dYoWNamooqC7AsYRRZsJ71KBED7ocQ7YHhM6Sj7z2s1
+ NAWgTVByQiBzGQM3YURlwBFHxUJae85S4NWxtb4Rsm6Vqn7wi81ih6azBXM6
+ dz7n7RxQ6.WVCWsCksTrwSqdhWQ6rf62SMvIgDu_9lNuU_CdFWOfEayO_XHB
+ lDXg8zwSDNADiaYqEJonY9uJXjBw3kWqbv9tp6jPacsAvOPiAPb5PFfMF0pe
+ o05pfteFdXIb3nQSimK8YSEVnCysNAqwyjH1LCwzEZtyYXSrTHvs0L4S3kD_
+ 6RObg4qXjX5Tu_WB0XEkgrfY873kPA_s1mv5EXViIkpeveOJ1In475F1pCCt
+ 1vVqrTY9SR4FCiorBR53tcxpGiXFm6VTgOZpdsHYUDsW3y7065hh6pB3_abj
+ NpgC90R1taL9h4KEbzv95F.jxYk5khT4pd9kvEMaRNwrnkzKcQrXeB.cy1wX
+ f2IWNlaw7VQLXz4e_XwRfGN.mZEIJhIfrd.ZWmOEELnPxkxaRX8gPn3pWgIM
+ EHIGa72ipT1fI.oPXqdpfg9hpvU47jnYi9Pe.MFsonESYCYISItLyVHjDZd6
+ W_EzMu8MhkMBZWU2sLY1AoE4cdC_2NTT8vXhiJUDiZgv1prqTdiDOgyhXxLY
+ 2HcTQfUPFLs8j4SABUNXCDLAqRBeC0UYOOE_XCl8GVoggpJZbRKnpTkMAty7
+ Pj_5kWMf83ayGGL6xo2W9iTvUqxacq28vvYb8j95rxy5r9H1j8zRPy2o68lM
+ ik6ELESuni0iLBfnY2qeai4vGitAnK3lukIfHB4HyM8_mEzQnAjnIjVqVo2Y
+ .j4GhuWq..1U65hmv1LjWMdt4oipkAg5Ah_EWAWIswjZKxFT_zka.V0d0ody
+ IYhvFENm4NN2q39DZoJ3z9LOLi0_ZEG1lT2T1ncmh58RFI8S9m09W5ubDj9O
+ 9rsOnead4aRqyoWLajJfKHrWuwGkieJSEN9rm08w1TVLJTVlDPk3LA4KHZ4N
+ YhUqohATqkRCUaKaLv5E0HgzIXP12GBNvJPI5tejVSoOJJsE-
+X-Received: from [64.138.135.70] by web95510.mail.in.yahoo.com via HTTP; Wed, 07 Dec 2011 17:13:53 IST
+X-Mailer: YahooMailWebService/0.8.115.331698
+References: <1323254604.58355.YahooMailRC@...> <1323255472.63863.YahooMailNeo@...> <1323256888.9504.YahooMailRC@...>
+Message-ID: <1323258233.65159.YahooMailNeo@...>
+Date: Wed, 7 Dec 2011 17:13:53 +0530 (IST)
+To: "vedic-wisdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com>
+In-Reply-To: <1323256888.9504.YahooMailRC@...>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="-291040610-2131805395-1323258233=:65159"
+X-Originating-IP: 121.101.151.213
+X-eGroups-Msg-Info: 1:12:0:0:0
+From: rajarshi nandy <rajarshi14@...>
+Reply-To: rajarshi nandy <rajarshi14@...>
+Subject: Re: [vedic-wisdom] Using wood for Homam
+X-Yahoo-Group-Post: member; u=216162964; y=oHtSNT6-hsWgLz2CojXws3kPLPDA8o4bIZnjnyjuACQ1Pwx1Vg
+X-Yahoo-Profile: rajarshi14
+
+
+---291040610-2131805395-1323258233=:65159
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Dear Ananda,
+=C2=A0
+Actually,=C2=A0 Neem works very well for some homas whi=
+ch aim at removing negativity, physical or spiritual. I have never had the =
+opportunity to do homas with Neem wood, so I cannot vouch for its effects m=
+yself, but there are scriptures which recommend Neem as well. 
+=C2=A0
+The r=
+eason why common knowledge says not to do homas with Neem is because it is =
+bitter in taste (Teak too). If you are starting homas, then mango wood woul=
+d be the easiest choice. If you know any shop which sells puja-related item=
+s, ask them. They can help. 
+=C2=A0
+-Regards
+=C2=A0Rajarshi
+
+=C2=A0
+
+______=
+__________________________
+From: Ananda Kishora Dadi <varaha_2000@...=
+>
+To: vedic-wisdom@yahoogroups.com 
+Sent: Wednesday, 7 December 2011 4:51 P=
+M
+Subject: Re: [vedic-wisdom] Using wood for Homam
+
+
+=C2=A0 
+Namaste Rajars=
+hi,
+
+This timber=C2=A0mart is located in hyderabad..they=C2=A0have web page=
+ also:
+
+http://www.shreelakshmitimbers.com/contactus.aspx
+
+Sales boy said t=
+hey are selling Teak(Rs 2/kg)=C2=A0and Neem and that cant be used homam.
+=
+=C2=A0
+Thx,Ananda 
+
+
+
+
+________________________________
+From: rajarshi nand=
+y <rajarshi14@...>
+To: "vedic-wisdom@yahoogroups.com" <vedic-wisdom=
+@yahoogroups.com>
+Sent: Wed, December 7, 2011 4:27:52 PM
+Subject: Re: [vedi=
+c-wisdom] Using wood for Homam
+
+=C2=A0 
+Dear Ananda,
+=C2=A0
+If I may ask, w=
+hich place (country/state) is this timber mart located? Also what wood (whi=
+ch tree)=C2=A0is this and how did they know it can't be used for homa?
+=C2=
+=A0
+-Regards
+=C2=A0Rajarshi
+
+
+
+________________________________
+From: Anand=
+a Kishora Dadi <varaha_2000@...>
+To: vedic-wisdom@yahoogroups.com 
+Se=
+nt: Wednesday, 7 December 2011 4:13 PM
+Subject: [vedic-wisdom] Using wood f=
+or Homam
+
+
+=C2=A0 
+Namaste,
+
+I am planning to switch to wood from copras fo=
+r homam.
+
+I would like to=C2=A0know if any clean wood can be used for Homam=
+ or not?
+
+I have=C2=A0called local timber depo for wood, he said=C2=A0wood =
+they are selling is Rs 2/Kg(very cheap) but cant be used in Homam.
+
+If any =
+body using wood in Homam, can you please suggest which wood is best for hom=
+am, where to get them?
+=C2=A0
+Thx,=C2=A0Ananda 
+
+
+
+---291040610-2131805395-1323258233=:65159
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"color:#000; background-color:#fff; font-family:ti=
+mes new roman, new york, times, serif;font-size:12pt"><div style=3D"RIGHT: =
+auto"><SPAN style=3D"RIGHT: auto">Dear Ananda,</SPAN></div>
+<div style=3D"R=
+IGHT: auto"><SPAN style=3D"RIGHT: auto"></SPAN> </div>
+<div style=3D"R=
+IGHT: auto"><SPAN style=3D"RIGHT: auto">Actually,  Neem works very wel=
+l for some homas which aim at removing negativity, physical or spiritual. I=
+ have never had the opportunity to do homas with Neem wood, so I cannot vou=
+ch for its effects myself, but there are scriptures which recommend Neem as=
+ well. </SPAN></div>
+<div style=3D"RIGHT: auto"><SPAN style=3D"RIGHT: auto"=
+></SPAN> </div>
+<div style=3D"RIGHT: auto"><SPAN style=3D"RIGHT: auto"=
+>The reason why common knowledge says not to do homas with Neem is because =
+it is bitter in taste (Teak too). If you are starting homas, then mango woo=
+d would be the easiest choice. If you know any shop which sells puja-relate=
+d items, ask them. They can <VAR id=3Dyui-ie-cursor></VAR>help. </SPAN></di=
+v>
+<div style=3D"RIGHT: auto"><SPAN style=3D"RIGHT: auto"></SPAN> </di=
+v>
+<div style=3D"RIGHT: auto"><SPAN style=3D"RIGHT: auto">-Regards</SPAN></=
+div>
+<div style=3D"RIGHT: auto"><SPAN style=3D"RIGHT: auto"> Rajarshi<=
+/SPAN></div>
+<DIV></DIV>
+<DIV style=3D"RIGHT: auto"> </DIV>
+<DIV style=
+=3D"RIGHT: auto"><I style=3D"RIGHT: auto"><STRONG style=3D"RIGHT: auto">
+<D=
+IV style=3D"RIGHT: auto" class=3DMsoNormal></STRONG></I> </DIV></DIV>
+=
+<DIV style=3D"FONT-FAMILY: times new roman, new york, times, serif; FONT-SI=
+ZE: 12pt">
+<DIV style=3D"FONT-FAMILY: times new roman, new york, times, ser=
+if; FONT-SIZE: 12pt"><FONT size=3D2 face=3DArial>
+<DIV style=3D"BORDER-BOTT=
+OM: #ccc 1px solid; BORDER-LEFT: #ccc 1px solid; PADDING-BOTTOM: 0px; LINE-=
+HEIGHT: 0; MARGIN: 5px 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; HEIGHT: =
+0px; FONT-SIZE: 0px; BORDER-TOP: #ccc 1px solid; BORDER-RIGHT: #ccc 1px sol=
+id; PADDING-TOP: 0px" class=3Dhr contentEditable=3Dfalse readonly=3D"true">=
+</DIV><B><SPAN style=3D"FONT-WEIGHT: bold">From:</SPAN></B> Ananda Kishora =
+Dadi <varaha_2000@...><BR><B><SPAN style=3D"FONT-WEIGHT: bold">=
+To:</SPAN></B> vedic-wisdom@yahoogroups.com <BR><B><SPAN style=3D"FONT-WEIG=
+HT: bold">Sent:</SPAN></B> Wednesday, 7 December 2011 4:51 PM<BR><B><SPAN s=
+tyle=3D"FONT-WEIGHT: bold">Subject:</SPAN></B> Re: [vedic-wisdom] Using woo=
+d for Homam<BR></FONT><BR>
+<DIV style=3D"RIGHT: auto" id=3Dyiv1170624057>
+<=
+DIV style=3D"RIGHT: auto"><SPAN style=3D"DISPLAY: none"> </SPAN> 
+<DIV=
+ id=3Dyiv1170624057ygrp-text>
+<DIV style=3D"FONT-FAMILY: arial, helvetica, =
+sans-serif; FONT-SIZE: 12pt">
+<DIV></DIV>
+<DIV>Namaste Rajarshi,</DIV>
+<DIV=
+> </DIV>
+<DIV>This timber mart is located in hyderabad..they =
+;have web page also:</DIV>
+<DIV> </DIV>
+<DIV><A href=3D"http://www.shr=
+eelakshmitimbers.com/contactus.aspx" rel=3Dnofollow target=3D_blank>http://=
+www.shreelakshmitimbers.com/contactus.aspx</A></DIV>
+<DIV> </DIV>
+<DIV=
+ style=3D"RIGHT: auto">Sales boy said they are selling Teak(Rs 2/kg) a=
+nd Neem and that cant be used homam.<BR> </DIV>
+<DIV>Thx,</DIV>Ananda =
+
+<DIV><BR></DIV>
+<DIV style=3D"FONT-FAMILY: arial, helvetica, sans-serif; F=
+ONT-SIZE: 12pt"><BR>
+<DIV style=3D"BORDER-LEFT: #1010ff 2px solid; FONT-FAM=
+ILY: times new roman, new york, times, serif; FONT-SIZE: 12pt"><FONT size=
+=3D2 face=3DTahoma>
+<DIV style=3D"BORDER-BOTTOM: #ccc 1px solid; BORDER-LEF=
+T: #ccc 1px solid; PADDING-BOTTOM: 0px; LINE-HEIGHT: 0; MARGIN: 5px 0px; PA=
+DDING-LEFT: 0px; PADDING-RIGHT: 0px; HEIGHT: 0px; FONT-SIZE: 0px; BORDER-TO=
+P: #ccc 1px solid; BORDER-RIGHT: #ccc 1px solid; PADDING-TOP: 0px" class=3D=
+hr contentEditable=3Dfalse readonly=3D"true"></DIV><B><SPAN style=3D"FONT-W=
+EIGHT: bold">From:</SPAN></B> rajarshi nandy <rajarshi14@...>=
+<BR><B><SPAN style=3D"FONT-WEIGHT: bold">To:</SPAN></B> "vedic-wisdom@yahoo=
+groups.com" <vedic-wisdom@yahoogroups.com><BR><B><SPAN style=3D"FONT-=
+WEIGHT: bold">Sent:</SPAN></B> Wed, December 7, 2011 4:27:52 PM<BR><B><SPAN=
+ style=3D"FONT-WEIGHT: bold">Subject:</SPAN></B> Re: [vedic-wisdom] Using w=
+ood for Homam<BR></FONT><BR><SPAN> </SPAN> 
+<DIV id=3Dyiv1170624057ygr=
+p-text>
+<DIV style=3D"BACKGROUND-COLOR: #fff; FONT-FAMILY: times new roman,=
+ new york, times, serif; COLOR: #000; FONT-SIZE: 12pt">
+<DIV><SPAN>Dear Ana=
+nda,</SPAN></DIV>
+<DIV><SPAN></SPAN> </DIV>
+<DIV><SPAN>If I may ask, w=
+hich place (country/state) is this timber mart located? Also what wood (whi=
+ch tree) is this and how did they know it can't be used for homa?</SPA=
+N></DIV>
+<DIV><SPAN></SPAN> </DIV>
+<DIV><SPAN>-Regards</SPAN></DIV>
+<D=
+IV><SPAN> Rajarshi</SPAN></DIV>
+<DIV></DIV>
+<DIV> </DIV>
+<DIV>&nb=
+sp;</DIV>
+<DIV style=3D"FONT-FAMILY: times new roman, new york, times, seri=
+f; FONT-SIZE: 12pt">
+<DIV style=3D"FONT-FAMILY: times new roman, new york, =
+times, serif; FONT-SIZE: 12pt"><FONT size=3D2 face=3DArial><VAR id=3Dyiv117=
+0624057yui-ie-cursor></VAR>
+<DIV style=3D"BORDER-BOTTOM: #ccc 1px solid; BO=
+RDER-LEFT: #ccc 1px solid; HEIGHT: 0px; FONT-SIZE: 0px; BORDER-TOP: #ccc 1p=
+x solid; BORDER-RIGHT: #ccc 1px solid" class=3Dyiv1170624057hr></DIV><B><SP=
+AN style=3D"FONT-WEIGHT: bold">From:</SPAN></B> Ananda Kishora Dadi <var=
+aha_2000@...><BR><B><SPAN style=3D"FONT-WEIGHT: bold">To:</SPAN></=
+B> vedic-wisdom@yahoogroups.com <BR><B><SPAN style=3D"FONT-WEIGHT: bold">Se=
+nt:</SPAN></B> Wednesday, 7 December 2011 4:13 PM<BR><B><SPAN style=3D"FONT=
+-WEIGHT: bold">Subject:</SPAN></B> [vedic-wisdom] Using wood for Homam<BR><=
+/FONT><BR>
+<DIV id=3Dyiv1170624057>
+<DIV><SPAN> </SPAN> 
+<DIV id=3Dyiv=
+1170624057ygrp-text>
+<DIV style=3D"FONT-FAMILY: arial, helvetica, sans-seri=
+f; FONT-SIZE: 12pt">
+<DIV></DIV>
+<DIV>Namaste,</DIV>
+<DIV> </DIV>
+<DIV=
+>I am planning to switch to wood from copras for homam.</DIV>
+<DIV> </=
+DIV>
+<DIV>I would like to know if any clean wood can be used for Homam=
+ or not?</DIV>
+<DIV> </DIV>
+<DIV>I have called local timber depo =
+for wood, he said wood they are selling is Rs 2/Kg(very cheap) but can=
+t be used in Homam.</DIV>
+<DIV> </DIV>
+<DIV>If any body using wood in =
+Homam, can you please suggest which wood is best for homam, where to get th=
+em?</DIV>
+<DIV> <BR>Thx, </DIV>Ananda 
+<DIV></DIV></DIV></DIV></D=
+IV></DIV><BR><BR></DIV></DIV></DIV></DIV></DIV></DIV></DIV></DIV></DIV></DI=
+V><BR><BR></DIV></DIV></div></body></html>
+---291040610-2131805395-1323258233=:65159--
+
+

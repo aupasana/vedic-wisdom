@@ -1,0 +1,218 @@
+From evnarasimhan@...  Wed Feb 17 11:09:37 2016
+Return-Path: <evnarasimhan@...>
+Received: (qmail 4479 invoked from network); 19 May 2011 15:55:45 -0000
+Received: from unknown (98.137.34.45)
+  by m3.grp.sp2.yahoo.com with QMQP; 19 May 2011 15:55:45 -0000
+Received: from unknown (HELO n40b.bullet.mail.sp1.yahoo.com) (66.163.168.154)
+  by mta2.grp.sp2.yahoo.com with SMTP; 19 May 2011 15:55:45 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoogroups.com; s=lima; t=1305820541; bh=T/WoLaVfBA/qinU1eSTTFz9u37tkkM2ZhtoqgOt/Gaw=; h=Received:Received:X-Sender:X-Apparently-To:X-Received:X-Received:X-Received:X-Received:X-Received:X-Received:X-Yahoo-Newman-Property:X-Yahoo-Newman-Id:X-Received:Message-ID:X-YMail-OSG:X-Received:X-Mailer:References:Date:To:Cc:In-Reply-To:MIME-Version:Content-Type:X-Originating-IP:X-eGroups-Msg-Info:From:Subject:X-Yahoo-Group-Post:X-Yahoo-Profile:X-YGroups-SubInfo:Sender:X-Yahoo-Marked-Not-Spam:X-eGroups-Approved-By:X-eGroups-Auth; b=NKZN/Y8fQKVgkK/G52c6AcW5Ek8Eh+wHsDu0/Z+G8ul/CrakAZEhakvhjqwHCTNB1uUByYXHBpTDArjLshDh7AI3QD+4j4OcMnTMDsPQUlcnYWo8Le8M/MRF6761NWX6
+Received: from [69.147.65.147] by n40.bullet.mail.sp1.yahoo.com with NNFMP; 19 May 2011 15:55:41 -0000
+Received: from [98.137.34.32] by t10.bullet.mail.sp1.yahoo.com with NNFMP; 19 May 2011 15:55:41 -0000
+X-Sender: evnarasimhan@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 92179 invoked from network); 10 May 2011 06:42:13 -0000
+X-Received: from unknown (98.137.34.46)
+  by m8.grp.sp2.yahoo.com with QMQP; 10 May 2011 06:42:13 -0000
+X-Received: from unknown (HELO nm4-vm0.bullet.mail.in.yahoo.com) (121.101.151.213)
+  by mta3.grp.sp2.yahoo.com with SMTP; 10 May 2011 06:42:12 -0000
+X-Received: from [121.101.151.236] by nm4.bullet.mail.in.yahoo.com with NNFMP; 10 May 2011 06:44:56 -0000
+X-Received: from [121.101.151.234] by tm1.bullet.mail.in.yahoo.com with NNFMP; 10 May 2011 06:44:15 -0000
+X-Received: from [127.0.0.1] by omp1003.mail.in.yahoo.com with NNFMP; 10 May 2011 06:43:01 -0000
+X-Yahoo-Newman-Property: groups-system
+X-Yahoo-Newman-Id: 754620.81246.bm@...
+X-Received: (qmail 74542 invoked by uid 60001); 10 May 2011 06:42:08 -0000
+Message-ID: <895743.69515.qm@...>
+X-YMail-OSG: t_n0SlkVM1nHxAZU1R_HihNWTb8KBWqmmNxuYa3BlkmwJeD
+ 8_KpiaHbgS040bENgHsnWtBh.uozwAD6W0LP9NolcKLOqNJUlzhn0YIsdtwu
+ .JCvcW4hPT9Vqz2kVwvauGdWrxmHIRuhffOTmbzIqIOLdmBBOQzWmY6.TKIO
+ AiWfBAC.CCOfoxc9JckcdM76Okj9uYNApT0btAmJvj0jySm5rZAuJosBy742
+ n5RTo_BvoKVHWCkaeVccnNhrNkdqIadbOfIhL2qcNsH8o9s8eNvOdUYFicGk
+ cPdk6N4OJua8HVJIMXuh6gOk0.3sQImKzwrC_XXjfXigxDWP4gz2lRulD0jH
+ EelE2ZK1RjJjx8cjsuS4oodPoUXA2HJlsT_W1gOckoKhDJW7OYzG6VQejRFf
+ 4GrStzA21tnAs6K1JK.GVE5ZKbsfl5GzxBbV9mfvKCE0xAOxuAK1Li7oDRoa
+ KtOumOvtkKEhoDAosaGdCKxuZ2a.E6E1np4rEa2SVjqKYQv2.sTMzWto2Vqu
+ eY6M1QT8PC4QtXWIK0kIbSIuMb6XM8zgx4UwI0wKMJ7wJlczv2lOJIdePaf4
+ jjFovxqz8bLCF99MRVc_ug3KAFggibKggyFxls13dAEAHQFlgm5HK9zpHSXa
+ 50Gt0_WB1xyghRaPiasqLYt8XACz9SGyyhIJmn6_INExE7exSBKdEp898TEI
+ sMpnbPHKKEVzibwZYL4AZDwTSfNZ0t6UNwxTCi37BnAxPGsSB3Q75EDo5sg5
+ GL2BdZI6Ehg4on57tijjiO_K.KpSxzCcQkagPao6hvuxPA9MRFB8yWBiJrX4
+ wl2MF0Mf0kpcwq5iJ2dND0ohFnKxmu.W2t84Juz_h5ujqG5ak4KXN
+X-Received: from [80.254.154.59] by web95502.mail.in.yahoo.com via HTTP; Tue, 10 May 2011 12:12:08 IST
+X-Mailer: YahooMailRC/559 YahooMailWebService/0.8.110.299900
+References: <AANLkTikrUHjRukAWPSUo+7SAUxydbMFVJFGY0d_1CNCw@...> <AANLkTikr6XfaQd3sD6h+HQ6nPQ-3JF5HAvEMGGXGGOOk@...> <261007.47754.qm@...> <AANLkTi=rVEAkWxWUGvsm43u2qu5zOAV770wvMHW1Mpkd@...> <BANLkTikir-rBHsyy2z4cROqQbv2NX-q=YQ@...>
+Date: Tue, 10 May 2011 12:12:08 +0530 (IST)
+To: Group Srivaishanavasabha <srivaishnavasabha@yahoogroups.com>,
+  Group Sri Desika Sabha <sridesikasabha@yahoogroups.com>,
+  Narasimhan EV <evnarasimhan@...>,
+  SriDesikasabha <sridesikasabha@...>
+Cc: Chithrai Homam <chithraihomam@...>
+In-Reply-To: <BANLkTikir-rBHsyy2z4cROqQbv2NX-q=YQ@...>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-2058383826-1305009728=:69515"
+X-Originating-IP: 121.101.151.213
+X-eGroups-Msg-Info: 2:4:8:0:0
+From: EV Narasimhan <evnarasimhan@...>
+Subject: Fw: chithrai homam (nrusimha sudharsana homam)
+X-Yahoo-Group-Post: member; u=246932832; y=BGpama2J7HxXLNEnVxNY6klego5Hqznpk3HD0X4vUFylYyaqFViM
+X-Yahoo-Profile: evnarasimhan
+X-Yahoo-Marked-Not-Spam: 
+X-eGroups-Approved-By: pvr108 via web; 19 May 2011 15:55:40 -0000
+
+
+--0-2058383826-1305009728=:69515
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+FYI
+
+----- Forwarded Message ----
+From: varadhan desikan <chithraihomam@gma=
+il.com>
+To: ak.rajagopalan@...; andal1967@...; 
+arun.krishnamac=
+hari@...; av.balaji@...; c_vasi@...; 
+cjvathsala@gmai=
+l.com; d_varadha@...; dileepan@...; 
+giridhar73@...; govi=
+nd@...; hk_raman@...; 
+jrr71@...; k_kalyan53@rediff=
+mail.com; kannan.amr@...; 
+karthik.sourirajan@...; malolanarasi=
+mhan@...; 
+manju_murali06@...; mayu_srinivasan@...; n=
+_varadhu@...; 
+partha_sathya@...; prkrishnamurthy@...; ra=
+jan_ra@...; 
+ramarajan1702@...; Ravi.Ranganathan@...; =
+ravi@...; 
+resilientvinod@...; rohiniraju2010@...; =
+s_kasthuri@...; 
+sathya56@...; sathyanarayanan.r@...; smu=
+thappan@...; 
+srinivasan.mayu@...; srivatsan.nadadur@...;=
+ sudharsan_an@...; 
+tsr_lsm@...; vatsanpriya@...; vbren=
+gan@...; 
+venkat.raghavan20@...; Chitra Malolan <chitramal=
+olan@...>; damu 
+<ksdamu@...>; diwakar <diwakark@...>; EV=
+ Narasimhan 
+<evnarasimhan@...>; hariharan <sanghikk@...>; ko=
+undinyan sri 
+<koundinyansri@...>; mohana vasudevan <mohanavasudevan@=
+yahoo.com>; 
+Narayanan Raghavan <varunlogistics@...>; Padma Krishnamu=
+rthy 
+<peakaymurthy_21@...>; Padmanabhan Vijayaraghavan 
+<padmanabh=
+an55@...>; R.SREENIVASAN SREENIVASAN <sreenivasanram@...>; 
+raj=
+agopalan veeraraghavan <rajagopalan505@...>; Rajan Raman 
+<rajanr@opt=
+online.net>; ranganath <rama@...>; ravi enjimedu 
+<cheenu100@yahoo.c=
+om>; ravirangaswami <acravirangaswami@...>; sr balaji 
+<balajisr_2000=
+@...>; Srihari Raghavan <srihari.raghavan@...>; 
+srikanth ragha=
+van <srikanth.raghavan@...>; sumati ramesh 
+<sumati.ramesh@...>=
+; vasanth <vasanth@...>; venkat 
+<vedven@...>; Vimala=
+ Rajaji <vimalarajaji@...>
+Sent: Mon, 9 May, 2011 11:34:39 AM
+Subject=
+: chithrai homam (nrusimha sudharsana homam)
+
+
+
+
+
+
+
+dear bhagavathas
+
+this =
+month Nrusimha Sudharsana homam will be held on Sunday, 15th May 2011, at 
+=
+8.45 AM at Sri Oppiliappan Pattabisheka Ramar Koil, Srinivasan Salai, Ram N=
+agar 
+(North), Puzhudhivakkam, Madipakkam, Chennai -91.=A0 All are welcome =
+to 
+participate.
+
+
+
+dasan
+
+
+varadhachary 
+--0-2058383826-1305009728=:69515
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><style type=3D"text/css"><!-- DIV {margin:0px;} --></style></he=
+ad><body><div style=3D"font-family:Courier New, courier, monaco, monospace,=
+ sans-serif;font-size:12pt"><DIV>FYI<BR></DIV>
+<DIV style=3D"FONT-SIZE: 12p=
+t; FONT-FAMILY: Courier New, courier, monaco, monospace, sans-serif">
+<DIV =
+style=3D"FONT-SIZE: 12pt; FONT-FAMILY: times new roman, new york, times, se=
+rif"><FONT face=3DTahoma size=3D2>----- Forwarded Message ----<BR><B><SPAN =
+style=3D"FONT-WEIGHT: bold">From:</SPAN></B> varadhan desikan <chithraih=
+omam@...><BR><B><SPAN style=3D"FONT-WEIGHT: bold">To:</SPAN></B> a=
+k.rajagopalan@...; andal1967@...; arun.krishnamachari@...=
+; av.balaji@...; c_vasi@...; cjvathsala@...; d_varadh=
+a@...; dileepan@...; giridhar73@...; govind@...=
+; hk_raman@...; jrr71@...; k_kalyan53@...; kannan.=
+amr@...; karthik.sourirajan@...; malolanarasimhan@...; =
+manju_murali06@...; mayu_srinivasan@...; n_varadhu@...;=
+ partha_sathya@...; prkrishnamurthy@...; rajan_ra@...=
+m; ramarajan1702@...; Ravi.Ranganathan@...; ravi@...;=
+ resilientvinod@...; rohiniraju2010@...;
+ s_kasthuri@...=
+m; sathya56@...; sathyanarayanan.r@...; smuthappan@...; sri=
+nivasan.mayu@...; srivatsan.nadadur@...; sudharsan_an@...=
+; tsr_lsm@...; vatsanpriya@...; vbrengan@...; venk=
+at.raghavan20@...; Chitra Malolan <chitramalolan@...>; da=
+mu <ksdamu@...>; diwakar <diwakark@...>; EV Narasim=
+han <evnarasimhan@...>; hariharan <sanghikk@...>;=
+ koundinyan sri <koundinyansri@...>; mohana vasudevan <mohan=
+avasudevan@...>; Narayanan Raghavan <varunlogistics@...&g=
+t;; Padma Krishnamurthy <peakaymurthy_21@...>; Padmanabhan Vi=
+jayaraghavan <padmanabhan55@...>; R.SREENIVASAN SREENIVASAN <=
+;sreenivasanram@...>; rajagopalan veeraraghavan <rajagopalan505=
+@...>; Rajan Raman <rajanr@...>; ranganath <ram=
+a@...>; ravi enjimedu
+ <cheenu100@...>; ravirangaswam=
+i <acravirangaswami@...>; sr balaji <balajisr_2000@...=
+>; Srihari Raghavan <srihari.raghavan@...>; srikanth raghava=
+n <srikanth.raghavan@...>; sumati ramesh <sumati.ramesh@gmai=
+l.com>; vasanth <vasanth@...>; venkat <vedven@hot=
+mail.com>; Vimala Rajaji <vimalarajaji@...><BR><B><SPAN styl=
+e=3D"FONT-WEIGHT: bold">Sent:</SPAN></B> Mon, 9 May, 2011 11:34:39 AM<BR><B=
+><SPAN style=3D"FONT-WEIGHT: bold">Subject:</SPAN></B> chithrai homam (nrus=
+imha sudharsana homam)<BR></FONT><BR><BR>
+<DIV class=3Dgmail_quote><BR><BR>=
+
+<DIV class=3Dgmail_quote>
+<DIV class=3Dgmail_quote>
+<DIV>
+<DIV style=3D"FO=
+NT-SIZE: 12pt; FONT-FAMILY: Courier New, courier, monaco, monospace, sans-s=
+erif">
+<DIV style=3D"FONT-SIZE: 12pt; FONT-FAMILY: Courier New, courier, mo=
+naco, monospace, sans-serif">
+<DIV style=3D"FONT-SIZE: 12pt; FONT-FAMILY: t=
+imes new roman, new york, times, serif">
+<DIV class=3Dgmail_quote>
+<DIV cla=
+ss=3Dgmail_quote><BR>dear bhagavathas<BR><BR>this month Nrusimha Sudharsana=
+ homam will be held on Sunday, 15th May 2011, at 8.45 AM at Sri Oppiliappan=
+ Pattabisheka Ramar Koil, Srinivasan Salai, Ram Nagar (North), Puzhudhivakk=
+am, Madipakkam, Chennai -91.  All are welcome to participate.<BR><BR><=
+BR><BR>dasan<BR><BR><BR>varadhachary </DIV><BR></DIV><BR></DIV></DIV></DIV>=
+<BR></DIV></DIV><BR></DIV><BR></DIV><BR></DIV></DIV></div></body></html>
+--0-2058383826-1305009728=:69515--
+
+

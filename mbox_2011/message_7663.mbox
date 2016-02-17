@@ -1,0 +1,201 @@
+From rajarshi14@...  Wed Feb 17 11:10:02 2016
+Return-Path: <rajarshi14@...>
+X-Sender: rajarshi14@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 66298 invoked from network); 20 Dec 2011 11:50:49 -0000
+X-Received: from unknown (98.137.35.160)
+  by m2.grp.sp2.yahoo.com with QMQP; 20 Dec 2011 11:50:49 -0000
+X-Received: from unknown (HELO nm1.bullet.mail.in.yahoo.com) (121.101.151.239)
+  by mta4.grp.sp2.yahoo.com with SMTP; 20 Dec 2011 11:50:48 -0000
+X-Received: from [121.101.151.237] by nm1.bullet.mail.in.yahoo.com with NNFMP; 20 Dec 2011 11:50:46 -0000
+X-Received: from [121.101.151.233] by tm2.bullet.mail.in.yahoo.com with NNFMP; 20 Dec 2011 11:51:16 -0000
+X-Received: from [127.0.0.1] by omp1002.mail.in.yahoo.com with NNFMP; 20 Dec 2011 11:57:58 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 650831.47329.bm@...
+X-Received: (qmail 2836 invoked by uid 60001); 20 Dec 2011 11:50:45 -0000
+X-YMail-OSG: liSnfvQVM1kgYbFo3EEFD.r98kIU.pZWX1.OjBT4UruQ8.u
+ s3OGuedqC6sdbIXVGEtgQE9uJzMLADSf0OFIWY34YWdexLZRfuSOUdag4acc
+ BwjFwftZ155AyYQJsnnMONrhzV6Qcys5dNMAj.ith0ifConrLCrGrNGx4ieP
+ q.0Qdg9_XZrUoNQj99n6lOx0oUSATMQLG7HXGKb4Sk6MO.0VTvDXGNc.7iHY
+ Hy9L48xf.5Lqh2jnDtJ3fxIfq4ZysRC0d6Q84izHRlccAFI0w9qREATxB_BS
+ M95D17utt5O8jbUeiTtiGDHiz1y3sZmet6A.HA.C898CaS7Ae9HZ.h1pdiTE
+ nk9EOp_eGbHkKDEda5OeUYqnSgtHf6LjCME1PosWbH4iNhVZ7nlKxqmJl7Lm
+ zzsfpyc7WFcmKGDRNLhRK8EhL2rIiYy94nCL2ijpbPE.3nQSHcljdOvTbeS4
+ CvOVqWhN_NWaV3F6wSsp0aq15AVWjIBwWRmZmw70i6_mCCL67S5czgLJFz4g
+ Hc7pk7tz9ucVdc1NXRb3NmtybEHm3occ5wjQJR4efuPULd9hI4sL_KjKnSAU
+ YLvILTtWxqyyF7tO1Sem5aMUTU_1ytgx68oGvLnihUVVwK2u0DEaA.sRqPVR
+ CJg2QR6zddCll2keeGkapjB.5KHRq.MOxABxTyZbOG8CtJC4G6biK_DGBKCa
+ CwnDbGBqaeaXFiIjE0JsIl8xSxIrNgfQ7mzg.A0u0zNhe90pLRZfEjeA415C
+ f1GhHg77_aKZm9Fgit2RZWIPHDnZZsMMn3DCelMp2WFFVrK1d0mR6xxiTdPc
+ bpvYQIK4uncvqPQ5fwoj.mu..X7u9Zk6JbyF2a_F2TSVrLGwRChCTaHv8u8Y
+ vnT2d2Mtu4rZ0HOVMrOOC7xBv8Sov1ZLXFMZq3sbx9.JM6OwU0PUOMl5scQj
+ MAL26KbhpGXuhpX.7ZAPq2YnzKiB0g3xliZ0FCOHfodN7AWqMVEHgqY9t6qj
+ LaQng_RcEGQMOpVOmE0ngBDaQORRPHOscRTPN.xXq36boUGbtPj20qFGTmEJ
+ 0GesAZ3ksDEj5qs13mUqbEr7zmXT.WrsHG3xK8u_VJz57Y7j6ClT4CKnKq8x
+ f7WDxLZtt5q1G1.vTcoJAKjfDdwd6e103st_HW2VF2Xqo4XGtVGqu9O1bjMV
+ X3A.TEZfQtojIB0yMpx94sVP8azwRa3gBSzeUubwFRL4dbFxbOlEp3q.IkZD
+ hPHHYmteGYXmhWNjQvsewG_ZFd8wrIsz1GA1qxK2jpFT8oN7pWek3e3GFiAX
+ kdR4uySv8H8n1V65zo.ZxQL0Kdv.Zivk8ZxxkOfB8_JuxhIsrob8B.rsBSU9
+ .MVTQ5maDQLhzqrFInsogqIYljR3MWW9YBItK1YIUYPoWYSHoL0Lngh9xnCy
+ Xv5tlhcQonV366QM4R2zLc09rEjVKz.LmcnY.Vyd8Qqwj3wfK6CDZGjF7lwh
+ I42mkWwPHYRDZ0L9v3rfOWe2DIWZZt_9GJhn4scSb4Z7BQwn2zFZ.yPP2vUh
+ J4qxxaaJlZ.b6M.SkXdliNlLVqptSeUZt_LZQAiq_kfDFMMGuBP3e.FYlBtq
+ ksbpIlEr9PAICZedSNf2G._0SfCiHXTDWqUS2w.jMfoUNhW7QRHXv39IEMkL
+ zqAExDhd.PWGmnOPKY2bMnDREG0Z6W7ZxW15iJvCnDyZ8cevgasexjFwnwmd
+ LffmrI3ET9qVc088BoL2U2xHIGNPnh8yyPQvKFyCuzBUvRucBhZZyiUx2HTW
+ PqlAUjKacyqzxjuxp8xAGlzfoZQfnvTvb_ovt.WM7ekb68OktfGxngqgMFn1
+ TmxiuHrxlPQldRumRcwWOrKSVWupdHsVaxH6ZMJ1dQ03_plSd0tbMselCS.c
+ w4a.d.qXgWLpmYBwKx.Ejc5k1fuFV5dd.jHi_KCWhFzIg1pqXDktJxb1APCV
+ bZEzq8IiiawDtkkxduShSRRmLDkjws9h6E1gBSnMoVIgmoyTVFtnWr5etGEV
+ 7DwJ1NmDnwm.Zz7VmPHRvEOfk1sJSe9uvsjiuYVwhKjOIyuEvuZCYiU223Ii
+ lOajjSuMek_xwdBCulSpsxKnuBecfq0Hsg8qNDI4XTcmQjmLdfmPnh0OOMVm
+ taxkD0nq4iaYVz0EpYlY8GuVm4pete_6f4eXrVUUfKUX4ENNbljLsaaLznzn
+ HUQuqdFh2sKqVjGRaq2lXf9ZYvipsLC3U4IYKzbPt0RrfycKeoFQ322pbHIn
+ E.WuHd4lUYVwfFA2MLk6lVQ9vJi.hcPfOWn9wZ9zTwBvZBYggZ5iAhAnRd8o
+ wVxXQ7_QJctVipftuCE3lHsAim9jVMjlnBpWrRLNoQMPkUUuYBrsUXVHS2Tw
+ uRIDSao6Apu2aSrsH.7_b7zrMs9UoAGzjL766GQac0U0qC2dcqblBi6BCrCc
+ 4D6yvcdrJ.frNf1mJhC5akxIMAEWXcftFwwJgBpfigMd0
+X-Received: from [64.138.135.70] by web95511.mail.in.yahoo.com via HTTP; Tue, 20 Dec 2011 17:20:45 IST
+X-Mailer: YahooMailWebService/0.8.115.331698
+References: <1324381237.6573.YahooMailRC@...>
+Message-ID: <1324381845.2689.YahooMailNeo@...>
+Date: Tue, 20 Dec 2011 17:20:45 +0530 (IST)
+To: "vedic-wisdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com>
+In-Reply-To: <1324381237.6573.YahooMailRC@...>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="-1486285689-735243035-1324381845=:2689"
+X-Originating-IP: 121.101.151.239
+X-eGroups-Msg-Info: 1:12:0:0:0
+From: rajarshi nandy <rajarshi14@...>
+Reply-To: rajarshi nandy <rajarshi14@...>
+Subject: Re: [vedic-wisdom] Chandi
+X-Yahoo-Group-Post: member; u=216162964; y=jHDGIUX2_-ay9DlUeM-qou4omU37N8ZIGf-vKSN9MK3dt69cqw
+X-Yahoo-Profile: rajarshi14
+
+
+---1486285689-735243035-1324381845=:2689
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Namaste,
+=C2=A0
+There are no accurate pictures of Ma Chandi. Those who have=
+ seen her, do not draw, and those who draw have never seen Her. Drawings ar=
+e mostly the mental imagination of artists. So are most idols. Infact till =
+date I have met only one person who has seen Her and he had told me, most o=
+f drawings of the Goddess in public sphere, internet etc are incorrect. She=
+ is extremely fierce, to the extent that for an unprepared person, Her ener=
+gy would be enough to cause a mental breakdown. Which is one of the chief=
+=C2=A0reasons why often, while doing her sadhana, She does not apprear in f=
+ront view so easily. 
+=C2=A0
+-Regards
+=C2=A0Rajarshi
+
+
+____________________=
+____________
+From: Ananda Kishora Dadi <varaha_2000@...>
+To: vedic-wi=
+sdom@yahoogroups.com 
+Sent: Tuesday, 20 December 2011 5:10 PM
+Subject: [ved=
+ic-wisdom] Chandi
+
+
+=C2=A0 
+Namaste,
+
+=C2=A0=C2=A0=C2=A0 I am looking for p=
+icutures of divine mother Chandi, there are so many of them on net,=C2=A0no=
+t all are ugra roopa pictures too.
+
+=C2=A0=C2=A0=C2=A0=C2=A0Can somebody po=
+int Chandi picture?
+
+Thx,
+Ananda
+
+AGNI(Fire) purifies......Rig Veda 
+
+---1486285689-735243035-1324381845=:2689
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"color:#000; background-color:#fff; font-family:ti=
+mes new roman, new york, times, serif;font-size:12pt"><div style=3D"RIGHT: =
+auto"><SPAN style=3D"RIGHT: auto">Namaste,</SPAN></div>
+<div style=3D"RIGHT=
+: auto"><SPAN style=3D"RIGHT: auto"></SPAN> </div>
+<div style=3D"RIGHT=
+: auto"><SPAN style=3D"RIGHT: auto">There are no accurate pictures of Ma Ch=
+andi. Those who have seen her, do not draw, and those who draw have never s=
+een Her. Drawings are mostly the mental imagination of artists. So are most=
+ idols. Infact till date I have met only one person who has seen Her and he=
+ had told me, most of drawings of the Goddess in public sphere, internet et=
+c are incorrect. She is extremely fierce, to the extent that for an unprepa=
+red person, Her energy would be enough to cause a mental breakdown. Which i=
+s one of the chief reasons why often, while doing her sadhana, She doe=
+s not apprear in front view so easily. <VAR id=3Dyui-ie-cursor></VAR></SPAN=
+></div>
+<div style=3D"RIGHT: auto"><SPAN style=3D"RIGHT: auto"></SPAN> =
+;</div>
+<div style=3D"RIGHT: auto"><SPAN style=3D"RIGHT: auto">-Regards</SP=
+AN></div>
+<div style=3D"RIGHT: auto"><SPAN style=3D"RIGHT: auto"> Raja=
+rshi</SPAN></div>
+<DIV></DIV>
+<DIV> </DIV>
+<DIV style=3D"RIGHT: auto">=
+<I style=3D"RIGHT: auto"><STRONG style=3D"RIGHT: auto">
+<DIV style=3D"RIGHT=
+: auto" class=3DMsoNormal><STRONG style=3D"RIGHT: auto"><SPAN style=3D"FONT=
+-FAMILY: Verdana; COLOR: navy; FONT-SIZE: 10pt" class=3Dms__id39433><FONT s=
+tyle=3D"RIGHT: auto" color=3D#000000 face=3D"Times New Roman">
+<DIV style=
+=3D"RIGHT: auto"><B style=3D"RIGHT: auto"><SPAN style=3D"COLOR: #000066; RI=
+GHT: auto" class=3DApple-style-span><SPAN style=3D"FONT-SIZE: 16px" class=
+=3DApple-style-span><SPAN style=3D"COLOR: #000099" class=3DApple-style-span=
+><SPAN style=3D"FONT-SIZE: 13px" class=3DApple-style-span>
+<DIV>
+<DIV><SPAN=
+ style=3D"FONT-SIZE: 16px" class=3DApple-style-span><B><SPAN style=3D"COLOR=
+: #999999" class=3DApple-style-span></SPAN></B></SPAN></DIV></SPAN></SPAN><=
+/SPAN></SPAN></B></DIV></FONT></SPAN></STRONG></STRONG></I></DIV></DIV></DI=
+V>
+<DIV style=3D"FONT-FAMILY: times new roman, new york, times, serif; FONT=
+-SIZE: 12pt">
+<DIV style=3D"FONT-FAMILY: times new roman, new york, times, =
+serif; FONT-SIZE: 12pt"><FONT size=3D2 face=3DArial>
+<DIV style=3D"BORDER-B=
+OTTOM: #ccc 1px solid; BORDER-LEFT: #ccc 1px solid; PADDING-BOTTOM: 0px; LI=
+NE-HEIGHT: 0; MARGIN: 5px 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; HEIGH=
+T: 0px; FONT-SIZE: 0px; BORDER-TOP: #ccc 1px solid; BORDER-RIGHT: #ccc 1px =
+solid; PADDING-TOP: 0px" class=3Dhr contentEditable=3Dfalse readonly=3D"tru=
+e"></DIV><B><SPAN style=3D"FONT-WEIGHT: bold">From:</SPAN></B> Ananda Kisho=
+ra Dadi <varaha_2000@...><BR><B><SPAN style=3D"FONT-WEIGHT: bol=
+d">To:</SPAN></B> vedic-wisdom@yahoogroups.com <BR><B><SPAN style=3D"FONT-W=
+EIGHT: bold">Sent:</SPAN></B> Tuesday, 20 December 2011 5:10 PM<BR><B><SPAN=
+ style=3D"FONT-WEIGHT: bold">Subject:</SPAN></B> [vedic-wisdom] Chandi<BR><=
+/FONT><BR>
+<DIV id=3Dyiv86617015>
+<DIV><SPAN style=3D"DISPLAY: none"> =
+</SPAN> 
+<DIV id=3Dyiv86617015ygrp-text>
+<DIV style=3D"FONT-FAMILY: arial, =
+helvetica, sans-serif; FONT-SIZE: 12pt">
+<DIV></DIV>
+<DIV>Namaste,</DIV>
+<D=
+IV> </DIV>
+<DIV>    I am looking for picutures of divin=
+e mother Chandi, there are so many of them on net, not all are ugra ro=
+opa pictures too.</DIV>
+<DIV><BR> </DIV>   Can somebody=
+ point Chandi picture?<BR><BR>Thx,<BR>Ananda<BR><BR>AGNI(Fire) purifies....=
+..Rig Veda 
+<DIV></DIV></DIV></DIV></DIV></DIV><BR><BR></DIV></DIV></div></=
+body></html>
+---1486285689-735243035-1324381845=:2689--
+
+

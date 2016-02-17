@@ -1,0 +1,435 @@
+From nagraj_um@...  Wed Feb 17 11:09:59 2016
+Return-Path: <nagraj_um@...>
+X-Sender: nagraj_um@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 83642 invoked from network); 20 Nov 2011 03:27:33 -0000
+X-Received: from unknown (98.137.34.45)
+  by m5.grp.sp2.yahoo.com with QMQP; 20 Nov 2011 03:27:33 -0000
+X-Received: from unknown (HELO nm20-vm0.access.bullet.mail.mud.yahoo.com) (66.94.236.29)
+  by mta2.grp.sp2.yahoo.com with SMTP; 20 Nov 2011 03:27:33 -0000
+X-Received: from [66.94.237.192] by nm20.access.bullet.mail.mud.yahoo.com with NNFMP; 20 Nov 2011 03:27:33 -0000
+X-Received: from [66.94.237.96] by tm3.access.bullet.mail.mud.yahoo.com with NNFMP; 20 Nov 2011 03:27:33 -0000
+X-Received: from [127.0.0.1] by omp1001.access.mail.mud.yahoo.com with NNFMP; 20 Nov 2011 03:27:33 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 454130.57785.bm@...
+X-Received: (qmail 14587 invoked by uid 60001); 20 Nov 2011 03:27:33 -0000
+X-YMail-OSG: vDbWPE0VM1l_UddzqVZhyqtro9d8_fzw.dAUiuXzix0Jnpo
+ mrfBLRH0AOjjsQXAwIo.V0wg.FJS9PiEQBY75VS.bAs771EH4RzKO_9_u.Sx
+ zibspMoR8Et58G52alAhq.yACE1ePS_pPp8PaObw3IxL6WIzgrU9YTB1xfKX
+ K1UsNe_l1T7F0VRf5oJEP8UwmSMwRqpEAuY5Vwqw886lLJiY9nR3ES3B4b22
+ 7vIzO7iL6abMDRQ9_CKMCLUeHfqzpK_UottD0T6k0Ldcbfcbl3CeGaKgiiBH
+ YPFlw3s..PZjCKVe0KcdBXfFfufMvHmG7qanMnjHWWI_E.uqTivZ_Bu5pl0T
+ _ApMP9YWTIuqs6Lvb5Y_vmSrJGG2QhEoYZDLaWfm3KzRat4Krn57xXiAI0AG
+ GFlM8eHzvgwFlIJn3OcfYuYMJbEhNUpwmrVmeMfI1cY5TawTYXjVjABqLU4s
+ _yaYZGfiFllhWNXntghaWvwTi2i8m8q7yf4oh07GWAo4DL4VNTFrUuicgxJ.
+ nMfNtiWWooMX4hysS8Vr9NwjwFw_3SA7cbfpLXacgU8giLuEwVGgQLV37GAU
+ 5k2.DRnr4VRWA7DA.MOcsIijt_WLZKIblptQrVjYk3TRdTPO184Ew2MfoWCw
+ oXN4rCVzXW0qGUQxlMxUiuJzl7vtNHm60FXXEuvLgZSD.hZChqhKOtyeQS3o
+ Ri3Bsn9nGNdi0amLYDWDKmcqvtxvoq9Apm6DYXWjpdYT5dpI6L.1uA50pf.V
+ DzMArldY2NU1pic6UK0x_Vz_VcraLJen8q8z6Ym6AZ8xsEzvAYkAqlGVIHCV
+ Z2zoW365M6tqi0hldMeshv7x423xpeWPnDwBxTh4UQy6BTM3Dj2njxEFG2Ll
+ UPP9MlnubEIMJMYDn2w0ceC7zBP5mahKb8rZ2JDqnqM8g06PJSEq70zBgxdD
+ PnkRZUYMjMBVoeme0k_ZZSc1d1_CUKogoAuuRb.KAzphgwNOzCLioJRqiSWI
+ cG8slerXvjCk_iNAu9l2Bp.EaxslxKsb7GlohzLp.dhZuSVzKDSV2oWqYPdH
+ q9n771ZgvCs_v1ItmcqwFaGauFSfuyGJ63wbMrVCyYwndF4B5ge56F5rUmxh
+ n6Z7.tXpH9OcjACZqy0o0shi5qTc.ip3YjMnQxRjjqoGcOzgKxvQ3yLMQaYw
+ weq_d92Dxqc.E1oxDpYMRIC6g0QgGG5ePP4ZrFifbW4A9YYWC9XbAJ6ZcRwY
+ O4Zngujn1k36Vd8Gy23x0foR08BspATTzHVXF2zUn3TCxMtPs3cpyiJImwa0
+ Uycl_qcUUHDilNmdPZYbE4ui8re24a1N788SxhnrMTmE5f4XEA4Wo1Zn8I4_
+ SKrzDOoACz07rImSiTJHNx4yLOcIfix6dYGekd8QffnGfcB.NmdpjkmOHIn8
+ EL3zY9k23mHevLxjbwNXebiYZd.3EXNrbJS8A5r1t_32uFdVy5fme7nAYn6n
+ 9X8yxjQGzPbCqjkYvfRJKZoZfIICd4aIcmXA8IzFCjbfzb071gYDnkQZVDPH
+ 7sguYv5ZTpBE.PsSrzpuX.5kPG12ZFSrGsdbwrlNJocgJ6eVzN41NwkF6ynR
+ MjPuIUhm8XT.Gw.LJrOWcMqnQHEfwVuSn9vaN1eJleYauxTKpqE5sLYrzinq
+ GHXZp1Qsl6qXu6Jzw1W2_MOzf9Q.vvrzRUpX6HJzDJHbbl3vktBDdOtLx2hW
+ Is2hVeWHXINTSequLoOVUgBcn0FOuNGvBQYm4TwoPwkm4Dn8LGHnmWJcO820
+ hfIcLDPNQWPRVYaK2NF6TyEkH7iXJQC6tFpEx2lo09Qa9a1E_xCDHTNNtgi6
+ z_crfyKHhqD92OEN8SDlh3R5rQs_gofymCxEWpKJ0FWlo3f8FbzKrbqIbKsy
+ UTcS3gyqLPPqDTrDI4LsBK3LblWiecNwxzMMQSG2jywCF2TkOJni7iDt0AoN
+ eGeoLe50OQRz2tOgVGmPcqTjtbZ5M1lNnCNNffItV.0c.QLXQMzdBTxi4ScC
+ xMMJ2QULCMW.SDN1kAdStAQgovkqE.4XubJjCMGVYS_G3mE5G
+X-Received: from [99.18.90.157] by web82902.mail.mud.yahoo.com via HTTP; Sat, 19 Nov 2011 19:27:33 PST
+X-Mailer: YahooMailClassic/14.0.11 YahooMailWebService/0.8.115.325013
+Message-ID: <1321759653.86628.YahooMailClassic@...>
+Date: Sat, 19 Nov 2011 19:27:33 -0800 (PST)
+To: vedic-wisdom@yahoogroups.com
+In-Reply-To: <1321725788.45040.YahooMailNeo@...>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="1534528096-552375416-1321759653=:86628"
+X-Originating-IP: 66.94.236.29
+From: Nagraj Kota <nagraj_um@...>
+Subject: Re: [vedic-wisdom] Re: Why Sapthshati mantras is called Siddha mantra?
+X-Yahoo-Group-Post: member; u=140821230; y=p_YlzW1NDQSQfjwuc62mhIj-t9Yt0uMzFLergoW_nVHkaJcz
+X-Yahoo-Profile: nagraj@...
+
+
+--1534528096-552375416-1321759653=:86628
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Dear Rajarshi, 
+=C2=A0
+=C2=A0
+I completely agree with you that Chandipath i=
+s a wonderful sadhana and I am stating this with personal experience. Aroun=
+d Navaratri this year I have completed a 108 times recitation of chandipath=
+ over two/three months and that was indeed one of the best periods of my li=
+fe so far. Although there is nothing that manifested in terms of material b=
+enefits, my overall mood was pretty elevated/calm most of the time. After t=
+hat, however I am not able to practise it so much and I don't enjoy that sa=
+me bliss anymore. But whenever I do Chandipath, that day in general my ment=
+al state is pretty calm. However, it is a tough sadhana to do everyday. The=
+ Path alone takes around an hour to recite, that too if you superfast, whic=
+h you are not supposed to, according to the book. If you recite at comforta=
+ble speed, it takes around 1 hour 20 minutes just for the 13 chapters. Add =
+the kavacham, argala, keelaka, ratrisuktam, artharvaseersham before and dev=
+i sooktam, three
+ rahasyams, kshama prathana and siddha kunjika strotram yo=
+u are taking 2 to 2.5 hours. For me that seems impossible on a daily basis.=
+ So, I=C2=A0have tried to do 2/3 chapters a day for daily practise but that=
+ does not give me the same bliss that I enjoy when I do the whole thing. So=
+, I don't know how to practise this regularly on a permanent basis. Any inp=
+uts from you?
+=C2=A0
+Nagraj
+
+
+--- On Sat, 11/19/11, rajarshi nandy <rajarsh=
+i14@...> wrote:
+
+
+From: rajarshi nandy <rajarshi14@...>
+Sub=
+ject: Re: [vedic-wisdom] Re: Why Sapthshati mantras is called Siddha mantra=
+?
+To: "vedic-wisdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com>
+Date: S=
+aturday, November 19, 2011, 1:03 PM
+
+
+
+=C2=A0 
+
+
+
+
+
+=C2=A0Dear Rakesh,
+
+
+Th=
+e ChandiPath is a text which can bestow all the four aims of life as mentio=
+ned in scriptures - Dharma, Artha, Kama and Moskha. One who does a Chandipa=
+th thrice a day for a few years at leasts,=C2=A0 ends up transforming himse=
+lf completely from being an ordinary, average, limited, frail human being t=
+o a 'god' of sorts. Our religion teaches the transformation of how a man be=
+comes a god. Not G-d but god.
+
+
+Strength, courage, confidence, devotion, kn=
+owledge, application of special knowledge, authority (if one so desires it)=
+, power, wisdom, spiritual experiences, liberation, enlightenment etc - eve=
+rything comes from this one text. It is a whole package.=C2=A0
+
+
+Eventually=
+ you get what you crave for deep down. It is not too difficult to master th=
+e text. Some effort, some patience and it can be done. Spend one hour daily=
+ practicing the text and in 3 months you can read it whole.
+
+
+Best of luck.=
+
+
+
+-Regards
+=C2=A0Rajarshi
+
+
+PS: A small word of caution. Maybe not relevan=
+t right now, but if ever by Her will you become an accomplished Chandi sadh=
+aka in future then this will be of help. Don't ask for anything when doing =
+Her worship is an ideal situation. If you pray simply as you pray in any te=
+mple, then too there is not a problem. Praying with humility is never a pro=
+blem. BUT if ever you try out kriyas with Chandi or do the Chandipath to ge=
+t xyz results in abc timeframe, (specially during complex forms of worship =
+of Chandi like those involving charnel grounds), then be sure that you know=
+ the precise and exact procedures. There are no half measures in those. Nis=
+hkama worship in complex methods is fine, but desire for material results w=
+ithout the knowledge of the procedures during complex rituals in begging fo=
+r trouble, whoever you might be. 
+
+
+
+Ami Jantra Tumi Jantri
+Ami Ghar Tumi G=
+harani
+
+Ami Ratha Tumi Rathi
+Jemon Chalao Temni Chali
+=C2=A0
+
+
+
+
+
+
+
+From: r=
+akesh.behal <rakesh.behal@...>
+To: vedic-wisdom@yahoogroups.com 
+Sent=
+: Wednesday, 16 November 2011 11:09 PM
+Subject: [vedic-wisdom] Re: Why Sapt=
+hshati mantras is called Siddha mantra?
+
+
+
+=C2=A0 
+
+Dear Rajarshi,
+
+Can u p=
+ls elaborate about durga sapathshati, its benefits, and uses in general man=
+ life, also if i have to start reading chapters menas increasing one by one=
+ so pls tell me imortance viz how should i increase
+
+1] 1 m fully comfortab=
+le in reading chap 11, now started reading 2, 4,5
+
+regards
+Rakesh
+
+--- In v=
+edic-wisdom@yahoogroups.com, rajarshi nandy <rajarshi14@...> wrote:
+>
+> Dea=
+r Priyank,
+> =C3=82=C2=A0
+> The document refers to samputikaran mantras for=
+ the Chandi. Samputikaran is a process by which you prefix or suffix certai=
+n mantras to some texts or other mantras to derive certain specific results=
+ out of it.
+> =C3=82=C2=A0
+> There are many more samput mantras for Chandi =
+apart from what that document lists. Yes, the Chandi is a siddha text. Sidd=
+ha in the sense of being "accomplished for Self realization" as well as "si=
+ddhis", depending on the inclination and capacity of the sadhaka and of cou=
+rse Her will.
+> 
+> To understand why it is so, one has to do sadhana and ke=
+ep praying to Her. Intellectual comprehension falls flat beyond a point. It=
+ is plain useless.=C3=82=C2=A0And the sadhana is not a one day/few months/o=
+ne year or few years process. It is=C3=82=C2=A0like an endless ocean, there=
+ are simply no limits except for the ones you set for yourself in your own =
+mind. One can experience the highest states of consciousness and yet not be=
+ able to comprehend the Chandi in totality. 
+> 
+> -Regards
+> =C3=82=C2=A0Ra=
+jarshi
+> 
+> Ami Jantra Tumi Jantri
+> Ami Ghar Tumi Gharani
+> 
+> Ami Ratha T=
+umi Rathi
+> Jeman Chalao Temni Chali
+> 
+> 
+> ______________________________=
+__
+> From: priyank_priyank <aks_day@...>
+> To: vedic-wisdom@yahoogroups.com=
+
+> Sent: Wednesday, 16 November 2011 8:09 AM
+> Subject: [vedic-wisdom] Why =
+Sapthshati mantras is called Siddha mantra?
+> 
+> 
+> =C3=82=C2=A0 
+> Namaste=
+ all, 
+> 
+> Its mentioned at many places over net that the mantra's in Durg=
+a Saptshathi are siddha mantras. is there any particular reference for this=
+ as to why they are called so?
+> 
+> http://sanskritdocuments.org/all_pdf/sa=
+ptashatIsiddhasampuTamantra.pdf
+> 
+> will appreciate guidance in this regar=
+d
+> 
+> thanks
+> Priyank
+>
+
+
+
+
+
+
+
+
+
+--1534528096-552375416-1321759653=:86628
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<table cellspacing=3D"0" cellpadding=3D"0" border=3D"0" ><tr><td valign=3D"=
+top" style=3D"font: inherit;"><DIV>Dear Rajarshi, </DIV>
+<DIV> </DIV>
+=
+<DIV> </DIV>
+<DIV>I completely agree with you that Chandipath is a won=
+derful sadhana and I am stating this with personal experience. Around Navar=
+atri this year I have completed a 108 times recitation of chandipath over t=
+wo/three months and that was indeed one of the best periods of my life so f=
+ar. Although there is nothing that manifested in terms of material benefits=
+, my overall mood was pretty elevated/calm most of the time. After that, ho=
+wever I am not able to practise it so much and I don't enjoy that same blis=
+s anymore. But whenever I do Chandipath, that day in general my mental stat=
+e is pretty calm. However, it is a tough sadhana to do everyday. The Path a=
+lone takes around an hour to recite, that too if you superfast, which you a=
+re not supposed to, according to the book. If you recite at comfortable spe=
+ed, it takes around 1 hour 20 minutes just for the 13 chapters. Add the kav=
+acham, argala, keelaka, ratrisuktam, artharvaseersham before and devi sookt=
+am, three
+ rahasyams, kshama prathana and siddha kunjika strotram you are t=
+aking 2 to 2.5 hours. For me that seems impossible on a daily basis. So, I&=
+nbsp;have tried to do 2/3 chapters a day for daily practise but that does n=
+ot give me the same bliss that I enjoy when I do the whole thing. So, I don=
+'t know how to practise this regularly on a permanent basis. Any inputs fro=
+m you?</DIV>
+<DIV> </DIV>
+<DIV>Nagraj</DIV>
+<DIV><BR><BR>--- On <B>Sat=
+, 11/19/11, rajarshi nandy <I><rajarshi14@...></I></B> wrote:=
+<BR></DIV>
+<BLOCKQUOTE style=3D"BORDER-LEFT: rgb(16,16,255) 2px solid; PADD=
+ING-LEFT: 5px; MARGIN-LEFT: 5px"><BR>From: rajarshi nandy <rajarshi14@ya=
+hoo.co.in><BR>Subject: Re: [vedic-wisdom] Re: Why Sapthshati mantras is =
+called Siddha mantra?<BR>To: "vedic-wisdom@yahoogroups.com" <vedic-wisdo=
+m@yahoogroups.com><BR>Date: Saturday, November 19, 2011, 1:03 PM<BR><BR>=
+
+<DIV id=3Dyiv1794645011>
+<DIV><SPAN style=3D"DISPLAY: none"> </SPAN> =
+
+<DIV id=3Dyiv1794645011ygrp-text>
+<DIV>
+<DIV style=3D"BACKGROUND-COLOR: #f=
+ff; FONT-FAMILY: times new roman, new york, times, serif; COLOR: #000; FONT=
+-SIZE: 12pt">
+<DIV><SPAN> Dear Rakesh,</SPAN></DIV>
+<DIV><BR></DIV>
+<D=
+IV>The ChandiPath is a text which can bestow all the four aims of life as m=
+entioned in scriptures - Dharma, Artha, Kama and Moskha. One who does a Cha=
+ndipath thrice a day for a few years at leasts,  ends up transforming =
+himself completely from being an ordinary, average, limited, frail human be=
+ing to a 'god' of sorts. Our religion teaches the transformation of how a m=
+an becomes a god. Not G-d but god.</DIV>
+<DIV><BR></DIV>
+<DIV>Strength, cou=
+rage, confidence, devotion, knowledge, application of special knowledge, au=
+thority (if one so desires it), power, wisdom, spiritual experiences, liber=
+ation, enlightenment etc - everything comes from this one text. It is a who=
+le package. </DIV>
+<DIV><BR></DIV>
+<DIV>Eventually you get what you cr=
+ave for deep down. It is not too difficult to master the text. Some effort,=
+ some patience and it can be done. Spend one hour daily practicing the text=
+ and in 3 months you can read it whole.</DIV>
+<DIV><BR></DIV>
+<DIV>Best of =
+luck.</DIV>
+<DIV><BR></DIV>
+<DIV>-Regards</DIV>
+<DIV> Rajarshi</DIV>
+<=
+DIV><BR></DIV>
+<DIV>PS: A small word of caution. Maybe not relevant right n=
+ow, but if ever by Her will you become an accomplished Chandi sadhaka in fu=
+ture then this will be of help. Don't ask for anything when doing Her worsh=
+ip is an ideal situation. If you pray simply as you pray in any temple, the=
+n too there is not a problem. Praying with humility is never a problem. BUT=
+ if ever you try out kriyas with Chandi or do the Chandipath to get xyz res=
+ults in abc timeframe, (specially during complex forms of worship of Chandi=
+ like those involving charnel grounds), then be sure that you know the prec=
+ise and exact procedures. There are no half measures in those. Nishkama wor=
+ship in complex methods is fine, but desire for material results without th=
+e knowledge of the procedures during complex rituals in begging for trouble=
+, whoever you might be. <BR></DIV>
+<DIV><BR><SPAN></SPAN></DIV>
+<DIV style=
+=3D"FONT-WEIGHT: bold">Ami Jantra Tumi Jantri<BR>Ami Ghar Tumi Gharani<BR><=
+BR>Ami Ratha Tumi Rathi<BR>Jemon Chalao Temni Chali</DIV>
+<DIV> </DIV>=
+
+<DIV><BR></DIV>
+<DIV><BR></DIV>
+<DIV style=3D"FONT-FAMILY: times new roman=
+, new york, times, serif; FONT-SIZE: 12pt">
+<DIV style=3D"FONT-FAMILY: time=
+s new roman, new york, times, serif; FONT-SIZE: 12pt"><FONT size=3D2 face=
+=3DArial>
+<HR SIZE=3D1>
+<B><SPAN style=3D"FONT-WEIGHT: bold">From:</SPAN></=
+B> rakesh.behal <rakesh.behal@...><BR><B><SPAN style=3D"FONT-WE=
+IGHT: bold">To:</SPAN></B> vedic-wisdom@yahoogroups.com <BR><B><SPAN style=
+=3D"FONT-WEIGHT: bold">Sent:</SPAN></B> Wednesday, 16 November 2011 11:09 P=
+M<BR><B><SPAN style=3D"FONT-WEIGHT: bold">Subject:</SPAN></B> [vedic-wisdom=
+] Re: Why Sapthshati mantras is called Siddha mantra?<BR></FONT><BR>
+<DIV i=
+d=3Dyiv1794645011>
+<DIV><SPAN> </SPAN> 
+<DIV id=3Dyiv1794645011ygrp-te=
+xt>
+<DIV>Dear Rajarshi,<BR><BR>Can u pls elaborate about durga sapathshati,=
+ its benefits, and uses in general man life, also if i have to start readin=
+g chapters menas increasing one by one so pls tell me imortance viz how sho=
+uld i increase<BR><BR>1] 1 m fully comfortable in reading chap 11, now star=
+ted reading 2, 4,5<BR><BR>regards<BR>Rakesh<BR><BR>--- In <A href=3D"http:/=
+/us.mc829.mail.yahoo.com/mc/compose?to=3Dvedic-wisdom%40yahoogroups.com" re=
+l=3Dnofollow target=3D_blank ymailto=3D"mailto:vedic-wisdom%40yahoogroups.c=
+om">vedic-wisdom@yahoogroups.com</A>, rajarshi nandy <rajarshi14@...>=
+ wrote:<BR>><BR>> Dear Priyank,<BR>> =C3=82 <BR>> The docu=
+ment refers to samputikaran mantras for the Chandi. Samputikaran is a proce=
+ss by which you prefix or suffix certain mantras to some texts or other man=
+tras to derive certain specific results out of it.<BR>> =C3=82 <BR>=
+> There are many more samput mantras for Chandi apart from what that doc=
+ument lists.
+ Yes, the Chandi is a siddha text. Siddha in the sense of bein=
+g "accomplished for Self realization" as well as "siddhis", depending on th=
+e inclination and capacity of the sadhaka and of course Her will.<BR>> <=
+BR>> To understand why it is so, one has to do sadhana and keep praying =
+to Her. Intellectual comprehension falls flat beyond a point. It is plain u=
+seless.=C3=82 And the sadhana is not a one day/few months/one year or =
+few years process. It is=C3=82 like an endless ocean, there are simply=
+ no limits except for the ones you set for yourself in your own mind. One c=
+an experience the highest states of consciousness and yet not be able to co=
+mprehend the Chandi in totality. <BR>> <BR>> -Regards<BR>> =C3=82&=
+nbsp;Rajarshi<BR>> <BR>> Ami Jantra Tumi Jantri<BR>> Ami Ghar Tumi=
+ Gharani<BR>> <BR>> Ami Ratha Tumi Rathi<BR>> Jeman Chalao Temni C=
+hali<BR>> <BR>> <BR>> ________________________________<BR>> Fro=
+m: priyank_priyank
+ <aks_day@...><BR>> To: <A href=3D"http://us.mc=
+829.mail.yahoo.com/mc/compose?to=3Dvedic-wisdom%40yahoogroups.com" rel=3Dno=
+follow target=3D_blank ymailto=3D"mailto:vedic-wisdom%40yahoogroups.com">ve=
+dic-wisdom@yahoogroups.com</A><BR>> Sent: Wednesday, 16 November 2011 8:=
+09 AM<BR>> Subject: [vedic-wisdom] Why Sapthshati mantras is called Sidd=
+ha mantra?<BR>> <BR>> <BR>> =C3=82  <BR>> Namaste all, <BR=
+>> <BR>> Its mentioned at many places over net that the mantra's in D=
+urga Saptshathi are siddha mantras. is there any particular reference for t=
+his as to why they are called so?<BR>> <BR>> <A href=3D"http://sanskr=
+itdocuments.org/all_pdf/saptashatIsiddhasampuTamantra.pdf" rel=3Dnofollow t=
+arget=3D_blank>http://sanskritdocuments.org/all_pdf/saptashatIsiddhasampuTa=
+mantra.pdf</A><BR>> <BR>> will appreciate guidance in this regard<BR>=
+> <BR>> thanks<BR>>
+ Priyank<BR>><BR><BR></DIV></DIV></DIV></DI=
+V><BR><BR></DIV></DIV></DIV></DIV></DIV></DIV></BLOCKQUOTE></td></tr></tabl=
+e>
+--1534528096-552375416-1321759653=:86628--
+
+

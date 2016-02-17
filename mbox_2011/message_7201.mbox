@@ -1,0 +1,326 @@
+From kbk_murthi@...  Wed Feb 17 11:09:54 2016
+Return-Path: <kbk_murthi@...>
+Received: (qmail 87855 invoked from network); 6 Sep 2011 15:18:22 -0000
+Received: from unknown (98.137.35.160)
+  by m8.grp.sp2.yahoo.com with QMQP; 6 Sep 2011 15:18:22 -0000
+Received: from unknown (HELO n44d.bullet.mail.sp1.yahoo.com) (66.163.169.158)
+  by mta4.grp.sp2.yahoo.com with SMTP; 6 Sep 2011 15:18:22 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoogroups.com; s=lima; t=1315322301; bh=Itym0XOmICPXn4X32yhMgdaLaVc+KvQFTzI81DOpOss=; h=Received:Received:X-Sender:X-Apparently-To:X-Received:X-Received:X-Received:X-Received:X-Received:X-Received:X-Yahoo-Newman-Property:X-Yahoo-Newman-Id:X-Received:X-YMail-OSG:X-Received:X-Mailer:References:Message-ID:Date:To:Cc:In-Reply-To:MIME-Version:Content-Type:X-Originating-IP:X-eGroups-Msg-Info:From:Subject:X-Yahoo-Group-Post:X-Yahoo-Profile:X-YGroups-SubInfo:Sender:X-Yahoo-Marked-Not-Spam:X-eGroups-Approved-By:X-eGroups-Auth; b=BEXRObEvgsnpLdqG0Ub22kbSuMiHPhe+BIk/Idd6tQqx85FQXQF50CB/D7g38dRTq6BV22Lc0pRPN9CIAn9D83Pb1kD3fjleIWra8I5KJSpzAaJuYU3SLpe9AQ0P3sQ4
+Received: from [69.147.65.173] by n44.bullet.mail.sp1.yahoo.com with NNFMP; 06 Sep 2011 15:18:21 -0000
+Received: from [98.137.34.73] by t15.bullet.mail.sp1.yahoo.com with NNFMP; 06 Sep 2011 15:18:21 -0000
+X-Sender: kbk_murthi@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 48992 invoked from network); 25 Aug 2011 16:57:00 -0000
+X-Received: from unknown (98.137.34.44)
+  by m2.grp.sp2.yahoo.com with QMQP; 25 Aug 2011 16:57:00 -0000
+X-Received: from unknown (HELO nm4-vm0.bullet.mail.in.yahoo.com) (121.101.151.213)
+  by mta1.grp.sp2.yahoo.com with SMTP; 25 Aug 2011 16:56:59 -0000
+X-Received: from [121.101.151.238] by nm4.bullet.mail.in.yahoo.com with NNFMP; 25 Aug 2011 16:59:33 -0000
+X-Received: from [121.101.151.234] by tm3.bullet.mail.in.yahoo.com with NNFMP; 25 Aug 2011 16:57:33 -0000
+X-Received: from [127.0.0.1] by omp1003.mail.in.yahoo.com with NNFMP; 25 Aug 2011 16:57:33 -0000
+X-Yahoo-Newman-Property: groups-system
+X-Yahoo-Newman-Id: 970725.73675.bm@...
+X-Received: (qmail 30671 invoked by uid 60001); 25 Aug 2011 16:56:58 -0000
+X-YMail-OSG: s1OMuhwVM1lxWoy2u6TgNlcFnrGkkAtjdBMRGlt4cr.h9yS
+ b5yOlyVgh2b6my9f_bNIJyW8MepVnycNRT8Rs.wDOQGIZK_9TInQf5iCv1uV
+ A3udF4b.p68MO_Z3GQ8DWPN.vxEzJaLq1U.NVRw2AaKc1stja5b2HNTA8wDQ
+ sSBfr5BVeRoUbH5T8Ikp3IBAFjT5BFY.T9eBr77Kk8RgQ2t5ZA.aBplEZ7Ul
+ mz.h_xQJT8UKKL3rCQKzR68sKCveVnN7xbkLu4khnlce5zfZWAoD2lIOopSg
+ z2V5IpE.iUbpYBtph8QoClkA1PuyZAPQcseBqvDNGkjF0lzsrd_30MbBFOhE
+ zJ_UaBjd3U0N21UsSd2KX8uvKq.RFeFH7k73DFgkwAfa6EJ2pgCnxhCMz6Ld
+ jYBLOAzVVgtS6rRMZi9q3Xk5N4FU06TvTt.Xz_ZRMnUGwKvbzllXbmxeyTX9
+ KQZn9Nt2G0uxiaT2LEl1nlKTm8nEdIWXEgA7iHhzbQiuWF0JB56qzM07Iv67
+ Lxlz1_Sba7.ye3FNwo1ocndaYQCiSQTqi8iHLPu81xNo32ie2QRiQfJA.KTf
+ kI6j1sPpmK_l7Ky4XLAjoBPwAM0PzKvv7hW_O1JUPEsSqR4WR0.D7OOgT0RU
+ TjqDH3T_bLgcNTQnB2HVqQFneTj7ULoi9DAtBd0O.G0C8I19Ydzvv5ZyL2vp
+ tkefI6zbqpcRA7VKb1JUndswGn5ClWqse8O2Oe65WEDjmaJnmlnHR973GJeh
+ g1oKhL2lIjiyKCry9gfX1QPFaiGH5ffhIUAOtskM4bqpCFQeOdcHs8DrAphK
+ wC5KHfl_FH7iLfthJ_dyqlYirR8JTeeOl9VEVf24YKdOFmHy0Bg2WdZUIjRm
+ 5MK6Q3a_bBW_yBu5_huliDdzlQid9XsXV5QfpRAxv1GQr2dMFDXc7e5g7XPk
+ Urx6I22yR01.mIZhBVgtaKdgDqtKpNUcKwux8_I4p4uRwxG3nwTdvtP2BOXb
+ NSNZRBlrz11TsWVkeJbZjOi.C95h6q9h0VZX1UOtwd3E00lbKMFqpUb5ZBD7
+ uSNjBmdOdhdBZcdM3Ogp84.Zw3AL1HLlAmSyGKB1cHE0QJGl1CK2jP_yJFFL
+ 1NJwL_v0nyDcZ7CQeES.RBQRnun48HBuJyFBC9Iu4HnoSuw.kWPcgyb8Xpx6
+ w0K1jYvTAHgfeSEAOfvvaOfJnfNIInYlLXOsYTaVEQnXHyrU0BO32S5qLGhC
+ Z3M7Ef5.MntT550PYtoiv9yucnFT4Ez5708x7gvQAlsSJz8_um.uoktpZTSs
+ tPrNJUY2Qd5cvDah1Jz7Ppvg5Af98RFmluGJByz667NAz4TbKJT02pmIZgm7
+ 9FBVIRP3oxajSCeeo5oBCpYH1zy6S5s53qh.roGRLR9bteTKvWGApQEMabZB
+ cijm2L5qr5zp420BpckSQrnEneunYRqiBU9l0tYfEfa5C9a2qOpBhwU9Q2nM
+ ma5gH_zO6RFbqW10vnZqj6oui9mRCPQwc8X3XJhQq5maBjn1SQnVCtV9WnGj
+ BuOuAG6l715h8IleZs99xp_ZuyO4hPu1W2goP9kNdUvCZgwtNJj3jpTeauAd
+ a5I8ffp6QtF9fSdROmHDABEuZWNnaX0EbYjfm6NLWD_q1SnDvD1d_F9FA1kV
+ 1tIRYIzYWWX78Aj9op3Fo.Vm6N6G3EBMBybTXeJHFWN0RDI5hhEXT7ZOZtk1
+ 5EjJpeBpitCVOP96phcNdLm.bmwZ1PFrQ7kAlHmEkRIiLAmTsmvx75Qm0rJE
+ CtYKHpOSucj8Uzk35SqEYdVpfvyRW50yx5YMpxJS1w_mqkiWQSfGFeabzV8J
+ qUtlk0XrVhMCHITzVJNRgQAd3osXu_LnBKLBwZ0QgniYvgGCXpi4Ydnxwu7v
+ Lq5vM0WMy8Wyim5TWjURLJzR3KGOysV4TJY.iQwVu83AzTzHSdX2TPIdCJif
+ EphWcV7fL4uOT_xO5lmyXaY14NDf05Q_2M1.0ScOlGsjctoFlH4iHXVBPKIf
+ TDJqBLai7XtF6WK.Y.st1YiJarj7.aQ9QkWT1pW1wKPTMekt.aNyT33kjgFb
+ I61CghxAJnQ50tJ5obJDMA_nwdtHPBZUL4IRAJd7dMge4BNxbC2qnrsNUQSP
+ TRFV2yMSiVkY0lMBtARStSJ80NLAzgTzjqoGpPxs3mVu37Fii2VspO.3H8_K
+ ogaG2ZrebswyqahYnxDmGo3LomzY9JIIfGLglb8ihDCnsY6wVYDN_qhMzgLU
+ vUopQry5i3mTP4aq_eiufkWeFGuc_gxl9yZzvd9V2e5EVKeKFMddNf.maUOa
+ JAmsn6OPZMH_QCzMDVP_Bb7kQaqlE7KXgVQyX9zR9kjGZGkzQu.9WQttebdn
+ BJx8wLPU0ekzJBHTjkX2rdPNJx9pKdjfADYw.pbL.z6.JFighYIl7e3A6HRz
+ nCt4NPT3f6kBiTaMY35l6WIYbfuQvYUB7l14YV3m878UGlXkyzWc9aiyHihg
+ 17y73aLSIe9GQyPp7RFA7xvQZ7t1G77r5gq.GlyMKZbJDQGgYHSNB1UBYmfX
+ P52UcPlx1L6_fwK6MX3TqobPz0UBS3Yku2iT0Q_97oIIU_Lb7pAuneNuKvo3
+ Nm4qwK4CSwRYTDo1vwflTIES2PYorvSiKouTjw9ywYoFFl_Bko7VyVKl6LsL
+ yary94HZNq8.bJjt5_Z7nBGfhJkmHIo17IEKIpfg19M54KkpH6ngiIyjz3pm
+ kYHuSzLhLyOgJGsUhuVwKCFFxX8kbRB5yESPR_BT_.ec2WiYSdOOlcdVXVFq
+ QjhHlluQZp514etQ.ywmuVVqjvsUYX.ucU6y24HKcjiCTrtANalEsA.V_ddU
+ 4_qPug5U08WJ1v4ehY7zg8if5eLXpIYu3LEayoZctTJjQRegCTeBtUc3ZxFj
+ bOhTsKwFKw9tgySDVcI2bJXIXrxiGD4MzwP7N_Gps97G6NeDhNk3tSmGYN.k
+ gOQW4WL74bqpcU5ab8xWC5MACVH2cP3cr8wKNnc321eMzdXJP33YjC6IwUAT
+ UAqQFib10zE0xFKqsSkUqI.7tPcQi.1V0lp2ZuSActS6FLFIQ97NAQeHBGVa
+ 6fWtrFEf8iXaVeTVAOg--
+X-Received: from [59.165.87.134] by web95820.mail.in.yahoo.com via HTTP; Thu, 25 Aug 2011 22:26:57 IST
+X-Mailer: YahooMailRC/574 YahooMailWebService/0.8.113.315625
+References: <CADf76NpORxtubuN46Gszch9wEDW-JwKc1TO2mCnDXYGPe_ioUw@...>
+Message-ID: <1314291417.28090.YahooMailRC@...>
+Date: Thu, 25 Aug 2011 22:26:57 +0530 (IST)
+To: vedic-wisdom@yahoogroups.com
+Cc: Vani Sankar <pathumai@...>
+In-Reply-To: <CADf76NpORxtubuN46Gszch9wEDW-JwKc1TO2mCnDXYGPe_ioUw@...>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1636084373-1314291417=:28090"
+X-Originating-IP: 121.101.151.213
+X-eGroups-Msg-Info: 2:2:2:0:0
+From: Balakrishna Murthy <kbk_murthi@...>
+Subject: Re: [vedic-wisdom] Birthday Dates
+X-Yahoo-Group-Post: member; u=67081164; y=EydoQ9yqN4N5XXpwjpjJjeQGrkoU_Wn1drtuTO0wwBQmdcZV9w
+X-Yahoo-Profile: kbk_murthi
+X-Yahoo-Marked-Not-Spam: 
+X-eGroups-Approved-By: pvr108 via web; 06 Sep 2011 15:18:18 -0000
+
+
+--0-1636084373-1314291417=:28090
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+DEAR daughter Vani Sankar,
+Can you inform the time and place of birth also =
+to know the star, sayana sun 
+sign and tidhi. In South India, birthday is c=
+elebrated on the TIDHI. In 
+Tamilnadu, I think it is done on the star.
+Many=
+ celebrate on the date.
+
+THE IDEA OF CELEBRATING BIRTHDAY IS TO RE-VIEW WHA=
+T HAS BEEN DONE until this 
+birthday since birth, and how one should propos=
+e to transform future for 
+positive actions and fulfillment of taking birth=
+ as a human being.
+
+Nevertheless, it has become a fashion and exhibition of=
+ status now a days.
+Most important point is it is borrowed from west to lig=
+hten candles and to put 
+them off blowing air by the birthday person , whil=
+e all others clap and shout 
+Happy Birthday.
+This is  a most negative act. =
+In or dharma, one should not blow off any light, 
+but only make fire/light =
+and spread light.
+
+So if a person has completed , say 8 years, do not light=
+en 8 candles and then 
+ blow them off. But lighten 9 candles or lights with=
+ gingelly oil or cow ghee 
+and cotton threads.This signifies starting of 9t=
+h year and inviting light and 
+energy for the new year.
+
+If you are interes=
+ted, I shall share a procedure invoking fire/light for having 
+good eye sig=
+ht,good health, good children to continue the tradition, 100 years 
+life fo=
+r  positive contribution, not to get hatred and jealousy with others, eat 
+=
+ together, live togethe, get strength together, get protected together and =
+
+always include all and never exclude any one from your relationship. These=
+ hymns 
+from Veda are very powerful and grant all the above positive traits=
+ when 
+invoked.
+So the usual  Birthday celebration with cake, blowing off c=
+andles,spending huge 
+money, gifts and hungama is not what is expected from=
+ celebration of a birthday.
+
+love and blessings to yourself, husband and th=
+e baby.
+Uncle KBKM
+
+
+
+________________________________
+From: Vani Sankar <p=
+athumai@...>
+To: vedic-wisdom@yahoogroups.com
+Sent: Thu, 25 August, 2=
+011 3:52:26 PM
+Subject: [vedic-wisdom] Birthday Dates
+
+  
+Good Day to all,
+=
+ 
+ 
+my daughter's bday is on 29th sept.  my relative told me to celebrate h=
+er bday 
+on 8th sept 11 coz thats when her star is born.  hence my daughter=
+ will be 
+benefitted more of i go to temple n do sm special prayers.  
+
+ 
+a=
+s a modern mom, this is new to me.  is this how hindus celebrate bdays?  
+ =
+
+please enlighten me on how a birthday shld be celebrated.  
+ 
+thanks alot.=
+ 
+ 
+--0-1636084373-1314291417=:28090
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><style type=3D"text/css"><!-- DIV {margin:0px;} --></style></he=
+ad><body><div style=3D"font-family:'lucida console', sans-serif;font-size:1=
+4pt"><div style=3D"color: black; font-family: 'lucida console', sans-serif;=
+ font-size: 14pt; ">DEAR daughter Vani Sankar,</div><div style=3D"color: bl=
+ack; font-family: 'lucida console', sans-serif; font-size: 14pt; ">Can you =
+inform the time and place of birth also to know the star, sayana sun sign a=
+nd tidhi. In South India, birthday is celebrated on the TIDHI. In Tamilnadu=
+, I think it is done on the star.</div><div style=3D"color: black; font-fam=
+ily: 'lucida console', sans-serif; font-size: 14pt; ">Many celebrate on the=
+ date.</div><div style=3D"color: black; font-family: 'lucida console', sans=
+-serif; font-size: 14pt; "><br></div><div style=3D"color: black; font-famil=
+y: 'lucida console', sans-serif; font-size: 14pt; ">THE IDEA OF CELEBRATING=
+ BIRTHDAY IS TO RE-VIEW WHAT HAS BEEN DONE until this birthday since birth,=
+ and
+ how one should propose to transform future for positive actions and f=
+ulfillment of taking birth as a human being.</div><div style=3D"color: blac=
+k; font-family: 'lucida console', sans-serif; font-size: 14pt; "><br></div>=
+<div style=3D"color: black; font-family: 'lucida console', sans-serif; font=
+-size: 14pt; ">Nevertheless, it has become a fashion and exhibition of stat=
+us now a days.</div><div><font class=3D"Apple-style-span" face=3D"'lucida c=
+onsole', sans-serif" size=3D"4">Most important point is it is </font><=
+font class=3D"Apple-style-span" face=3D"'lucida console', sans-serif"><span=
+ class=3D"Apple-style-span" style=3D"font-size: 19px;">borrowed</span></fon=
+t><font class=3D"Apple-style-span" face=3D"'lucida console', sans-serif" si=
+ze=3D"4"> from west to lighten candles and to put them off blowing air=
+ by the birthday person , while all others clap and shout Happy Birthday.</=
+font></div><div style=3D"color: black; font-family: 'lucida console', sans-=
+serif; font-size: 14pt;
+ ">This is  a most negative act. In or dharma,=
+ one should not blow off any light, but only make fire/light and spread lig=
+ht.</div><div style=3D"color: black; font-family: 'lucida console', sans-se=
+rif; font-size: 14pt; "><br></div><div style=3D"color: black; font-family: =
+'lucida console', sans-serif; font-size: 14pt; ">So if a person has complet=
+ed , say 8 years, do not lighten 8 candles and then  blow them off. Bu=
+t lighten 9 candles or lights with gingelly oil or cow ghee and cotton thre=
+ads.This signifies starting of 9th year and inviting light and energy for t=
+he new year.</div><div style=3D"color: black; font-family: 'lucida console'=
+, sans-serif; font-size: 14pt; "><br></div><div><font class=3D"Apple-style-=
+span" face=3D"'lucida console', sans-serif" size=3D"4">If you are intereste=
+d, I shall share a procedure invoking fire/light for having good eye sight,=
+good health, good children to continue the tradition, 100 years life for &n=
+bsp;positive contribution,
+ not to get hatred and </font><font class=
+=3D"Apple-style-span" face=3D"'lucida console', sans-serif"><span class=3D"=
+Apple-style-span" style=3D"font-size: 19px; ">jealousy</span></font><font c=
+lass=3D"Apple-style-span" face=3D"'lucida console', sans-serif" size=3D"4">=
+ with others, eat  together, live togethe, get strength together,=
+ get protected together and always include all and never exclude any one fr=
+om your relationship. These hymns from Veda are very powerful and grant all=
+ the above positive traits when invoked.</font></div><div><font class=3D"Ap=
+ple-style-span" face=3D"'lucida console', sans-serif" size=3D"4">So the usu=
+al  Birthday celebration with cake, blowing off candles,spending huge =
+money, gifts and hungama is not what is expected from celebration of a birt=
+hday.</font></div><div><font class=3D"Apple-style-span" face=3D"'lucida con=
+sole', sans-serif" size=3D"4"><br></font></div><div><font class=3D"Apple-st=
+yle-span" face=3D"'lucida console', sans-serif"
+ size=3D"4">love and blessi=
+ngs to yourself, husband and the baby.</font></div><div><font class=3D"Appl=
+e-style-span" face=3D"'lucida console', sans-serif" size=3D"4">Uncle KBKM</=
+font></div><div style=3D"color: black; font-family: 'lucida console', sans-=
+serif; font-size: 14pt; "><br><div style=3D"padding-left:5px;margin:5px 0px=
+ 5px 5px;border-left:#1010ff 2px solid;font-family:times new roman, new yor=
+k, times, serif;font-size:12pt"><font size=3D"2" face=3D"Tahoma"><hr size=
+=3D"1"><b><span style=3D"font-weight: bold;">From:</span></b> Vani Sankar &=
+lt;pathumai@...><br><b><span style=3D"font-weight: bold;">To:</spa=
+n></b> vedic-wisdom@yahoogroups.com<br><b><span style=3D"font-weight: bold;=
+">Sent:</span></b> Thu, 25 August, 2011 3:52:26 PM<br><b><span style=3D"fon=
+t-weight: bold;">Subject:</span></b> [vedic-wisdom] Birthday Dates<br></fon=
+t><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span style=3D"display:none;"> </span>
+
+
+
+    <di=
+v id=3D"ygrp-text">
+      
+      
+      <p></p><div>Good Day to all,</div>
+=
+<div> </div>
+<div> </div>
+<div>my daughter's bday is on 29th sept=
+.  my relative told me to celebrate her bday on 8th sept 11 coz thats =
+when her star is born.  hence my daughter will be benefitted more of i=
+ go to temple n do sm special prayers.  </div>
+
+<div> </div>
+<div=
+>as a modern mom, this is new to me.  is this how hindus celebrate bda=
+ys?  </div>
+<div> </div>
+<div>please enlighten me on how a birthd=
+ay shld be celebrated.  </div>
+<div> </div>
+<div>thanks alot. </d=
+iv>
+
+
+    </div>
+     
+
+
+
+
+
+
+
+
+
+</div></div><div style=3D"color: black; fon=
+t-family: 'lucida console', sans-serif; font-size: 14pt; position: fixed; "=
+></div>
+
+
+</div></body></html>
+--0-1636084373-1314291417=:28090--
+
+

@@ -1,0 +1,298 @@
+From sai.balakrishnan@...  Wed Feb 17 11:09:55 2016
+Return-Path: <sai.balakrishnan@...>
+X-Sender: sai.balakrishnan@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 61752 invoked from network); 17 Sep 2011 08:44:24 -0000
+X-Received: from unknown (98.137.34.45)
+  by m13.grp.sp2.yahoo.com with QMQP; 17 Sep 2011 08:44:24 -0000
+X-Received: from unknown (HELO nm19-vm0.bullet.mail.sp2.yahoo.com) (98.139.91.216)
+  by mta2.grp.sp2.yahoo.com with SMTP; 17 Sep 2011 08:44:24 -0000
+X-Received: from [98.139.91.65] by nm19.bullet.mail.sp2.yahoo.com with NNFMP; 17 Sep 2011 08:44:23 -0000
+X-Received: from [98.139.91.31] by tm5.bullet.mail.sp2.yahoo.com with NNFMP; 17 Sep 2011 08:44:23 -0000
+X-Received: from [127.0.0.1] by omp1031.mail.sp2.yahoo.com with NNFMP; 17 Sep 2011 08:44:23 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 456884.84927.bm@...
+X-Received: (qmail 9566 invoked by uid 60001); 17 Sep 2011 08:44:23 -0000
+X-YMail-OSG: .8EqEQoVM1kS4MK83Ht_Sd0jo6m9e_SOxa4nb6h5s9w5llm
+ cm37RgAWnrm1vJPAQXqgl.EJcoEoZl2ypeiD_ZsiFdZsOsMW8eSVoKUPYyn5
+ y9_YSbHg55_dtvEF3kkrYUDl0yBgUMX5ALqKgQtCU8rIJJJc_PiTThrVoRTn
+ qj4dA1sD0JLtTXi.pnlgQWr9JkV_ToQnb7pvKibU6zsuEmancCIpP7cdgiOy
+ oyuvT3zxCg2_Xxf20ZEKgf8nqQcLMWYQm8L96Xb3crMg.fRyndQL5q6dDeDy
+ UThzwVjASl.1DEgjtQURyXFdq9VDgPvdd4gMFQk4gKu8AOs0l9UwunqnVix_
+ W70qMvCTGndCKcHgkKYniJzmheq1u1vgfBpoSBO6yPiKkPqo5HBANMSkBwFV
+ pfJ031ehtzM75HKUYlk8R_Nmg4NCKkvhfmS9IeVR8CXAKK8TJl_oYuDbaT1d
+ OxKFv61oYUMiG167Dsy4248gS6jrvkjUhg7pvtvd4MRAi3fgW8iNr4i3Gw7B
+ wjCCAefI6A70mZzYXuhdWanYiKHJrYb3HxjiFv33nlIk60B11WEHkil_TG5O
+ kh.Lf15LEHvz9LNNdSrIGjd4xbUKPoY1AJCDTjuZABu6lzCIk2KRJodgF7WB
+ 9KBTxmn5rw.whUDmdU41d9XvT0knugadq6lMM0MOethqc4qlFS2iVLdDyvkD
+ mQWftENv_lsnePrreUaIPjdAWizfu7F6ljQkCGsskNrr1eyKjn9PN.Y_q0F3
+ Ao5FeEXeJ3SsMOO3d8Mz0EZEEeA6C.ijSsPeVjLUzx2QeJiJoVf2KTISWpJS
+ bVKBzrSjfG_npwr5wQfc4mYcxgxEjOvxtsVBnDNwkOFLoyVwgINin3NfJ5p6
+ hkfJu7XQrWBwBfLd844UcjmDtK7KYU601r8I.PAnegonS9vqFAgtvD91fJ64
+ BvlYPxNvVrZldEJs8JS10f8ZC04KHdt.tmSDrMQ1otcudaQtzKBM5uAY6FPa
+ r0_WD1Sbb4EMSQ69s5kCLInA8BuBN5Yzg4iXW8DAFfoHlqlebM7dG6bQrFMB
+ 5bkyAwQJqbPJsAdp0_8aCpHT1kjVMbjISe86FbtTupxt12PKT6SZl.zTXJ72
+ hoxec6avpEb_Mr7uyEMgaZ4njy6OeuSBDSiNENMzpBK82d1UgoHchbYMhD1k
+ E4n0ZXrYVgzftT._Iv8C.MxRUVfSq_uocATi99r4p8AkKR199JBMQrsivHSC
+ DUAaE2P.9X5wxxP60APcT.XvExCad3fBD.2kgra6WoSu2On4xEa5bChCG6WG
+ cQB9_OcI4CxrZR_wqUUJwc0ePRAIbAzHcxxrHLJtvTVw.fxbU0gDNG7dN_QK
+ dqHBCkDN7yFaMD6Sjo9Q76CWEUTvFcHePxobwVpJkE9o9tV8LxPIkWDb2VhV
+ Dta7KI4zH1t.SysbOAkjmZANw0RHS2GuuHjGL2E0SOjROjN4GwEDnTKVNlLa
+ TNQUU4f5TAhz3rHEqo0ubt_8HwRww5nosCDLX4KsN8QYXXQwXd7j2EiXeZdH
+ Cec.RsP60oW4Zxb0zXyBhOj82NaeAB2GGq8c2e0giHNmj_glvefBj_xaoT5R
+ Zsl7ESVtwdqI.3LY2uV2qtkGi_scy99m0JXiMorWaIrpYG4nDhe1gR7NUB1P
+ HLX0EWCj2ixWCZc8DXMa.HhTaZDcJ1JhqkCveg2.dOwgAyGO68KvxOCYGCt1
+ kllc9rydCU7WQ.Py9GrLEfTe8xTC4EH.etz64nIl_cmiNilNfCCx9zLAUPkz
+ zR7FixU.LNGgkcigltTHzaft1JZhWCPyVgLvk4yu5Pk32_.FILDr_EvAewvJ
+ XSvCJqM5VrY7fk6GXTbi8C3091WwVxF7HI1z9cwBlQJNI7sCMBcKraiTwxsL
+ fWhITalnC.9v5n3_jLJThTpLBaAkhgiIQMosIZTBgXFKW3_4k4pVqjg1H3fg
+ .ONG2uqbgegIRGycS9bJL0xroySeIOEXKrItzjwTi.BJ9H1P7LwGzZ9YxNbM
+ NBY4pekyUeE1E9eKx0HcktE0c0LNmF1R0wH_2FF_6YB5vJkvX2opaHzIymdN
+ huuJZzy5h9FT4UNtnCD.HwD3eA.n7ARbkHHKAwbfKQokWPgx4KkViVxHSy7C
+ t
+X-Received: from [14.96.120.81] by web111312.mail.gq1.yahoo.com via HTTP; Sat, 17 Sep 2011 01:44:22 PDT
+X-Mailer: YahooMailWebService/0.8.113.315625
+References: <j50aml+atnr@...>
+Message-ID: <1316249062.8547.YahooMailNeo@...>
+Date: Sat, 17 Sep 2011 01:44:22 -0700 (PDT)
+To: "vedic-wisdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com>
+In-Reply-To: <j50aml+atnr@...>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="-435270448-1671952794-1316249062=:8547"
+X-Originating-IP: 98.139.91.216
+X-eGroups-Msg-Info: 1:12:0:0:0
+From: Sai <sai.balakrishnan@...>
+Reply-To: Sai <sai.balakrishnan@...>
+Subject: Re: [vedic-wisdom] Rig Vedic hymn on Pitru devatas - 4
+X-Yahoo-Group-Post: member; u=282027813; y=wgCoTovOJ979h4eS8iWbGqZPlyOiQBjNDilQZsMH5rMGHLHxomPq3DM31Q
+X-Yahoo-Profile: sai.balakrishnan
+
+
+---435270448-1671952794-1316249062=:8547
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Dear all, There is also a Yajur Veda Mantra "Pitrun Prinani" which is gener=
+ally chanted after ashirwadham mantras, I was told its on the Samhita 5th K=
+anda.. Can some one help me locate the text/audio .=C2=A0
+
+Thanks & Rgds
+sa=
+
+
+
+________________________________
+From: agnijihva <agnijihva@...>
+T=
+o: vedic-wisdom@yahoogroups.com
+Sent: Saturday, September 17, 2011 1:44 AM
+=
+Subject: [vedic-wisdom] Rig Vedic hymn on Pitru devatas - 4
+
+
+=C2=A0 
+OM gu=
+M gurubhyo namaH - gaM gaNapataye namaH - saM saraswatyai namaH ..
+
+=C2=A0N=
+amaste,
+
+=C2=A0 Part 4 of 14 -
+
+=C2=A0 Link to image if you want to have th=
+is in devanagari - =C2=A0http://www.4shared.com/photo/qBHA8ONd/1001504.html=
+=C2=A0
+
+=C2=A0 Link to Audio of this rik - http://www.4shared.com/audio/L9d=
+nNuu-/RV10154.html=C2=A0
+
+=C2=A0 If there are any mistakes in these transla=
+tions would request learned ones to please correct and guide.
+
+
+##samhitaa#=
+#
+barhi\'ShadaH pitara uu\_tya1\'\_rvaagi\_maa vo\' ha\_vyaa ca\'kR^imaa ju=
+\_Shadhva\'m =C2=A0|\\
+ta aa ga\_taava\'saa\_ shaMta\'me\_naathaa\' naH\_ s=
+haM yora\'ra\_po da\'dhaata =C2=A0|| ##10.015.04##
+
+##pada##
+barhi\'ShadaH =
+pi\_ta\_raH\_ uu\_ti a\_rvaak i\_maaH vaH\_ ha\_vyaa ca\_kR^i\_ma\_ ju\_Sha=
+dhva\'m =C2=A0|\\
+te aa ga\_ta\_ ava\'saa shaMta\'mena atha\' naH\_ sham yo=
+H a\_ra\_paH da\_dhaa\_ta\_ =C2=A0|| ##10.015.04##
+
+##pada2##
+barhi-ShadaH#=
+#seated on dharbha## pitaraH##fathers## uuti##kindness/for help## arvaak##h=
+ere## imaaH##these## vaH##for you all## havyaa##offerrings## cakR^ima##we m=
+ade## juShadhvam##accept them with favour## =C2=A0|\\
+te##as such## aa gata=
+##aagata - come## avasaa##to us## shaMtamena##most auspicious## =C2=A0atha#=
+#then## naH##to us## sham##peace/auspicious## yoH##that## arapaH##free from=
+ hurt/free from diseases/sinless## dadhaata##grant## =C2=A0|| ##10.015.04##=
+
+
+Translation-
+The Fathers who sit on sacred grass, come here with aid; the=
+se offerings have we made for you, accept them.
+So come to us with most aus=
+picious favour, and give us health and blessing free from hurt
+
+Interpretat=
+ion -
+=C2=A0We invoke the offerings(havyaa) made for you (the pitru devataa=
+s), pitru devataas who sit on the layer of sacred grass (barhiShad) come he=
+re with kindness (uuti/uutii) and accept the offerings and favour us by com=
+ing here in most auspicious form, thereafter grant us the blessings that ar=
+e free from sin.
+
+=C2=A0the invocation is being made to pitru devataas to c=
+ome and accept the offerings prepared by us and then favour us by providing=
+ health and blessings free from sin - seems to be a bribe being made to pit=
+ru devataas, certainly not. the request is to bestow sinless peace and tran=
+quility upon us, the word rapaH is a synonymn for sin and arapaH is opposit=
+e of that i.e. sinless. the request is to grant peace and tranquility that =
+is sinless upon us (naH shaM yoH arapaH dadhaata). One will attain sinless =
+peace when there is "in-action in action" and that is sacrifice/yaGYa/pitru=
+ kaarya, one can attain peace (temporary) by "no-action" but that is sinful=
+, and sacrifices such as yaGYa/pitru kaarya are ones dharma (actually a RRi=
+Na), hence the requisition is for a dharmic cause - to help us (uuti) by pr=
+oviding sinless peace (arapaH - shaM), arapaH also means free from disease =
+(i.e health) so the requisition can also be translated as - to help us by p=
+roviding
+ auspicious blessing and health (connected to earlier rik RV10.015=
+.03 - where the invokation was for progeny =C2=A0- napaataM =C2=A0to contin=
+ue with yaGYa - viShNoH)
+
+=C2=A0 references: Vedic reader by A.A. MacDonell=
+, Monier Williams and Mac Donell dictionaries via Mudgala Kosha, Roots and =
+Verb-Forms by W.D. Whitney, Vedic Grammar by AA MacDonell, all these refere=
+nces are freely available on the internet.
+
+Regards,
+sarma.
+=C2=A0=C2=A0
+ 
+---435270448-1671952794-1316249062=:8547
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"color:#000; background-color:#fff; font-family:ti=
+mes new roman, new york, times, serif;font-size:12pt"><div><span>Dear all, =
+There is also a Yajur Veda Mantra "Pitrun Prinani" which is generally chant=
+ed after ashirwadham mantras, I was told its on the Samhita 5th Kanda.. Can=
+ some one help me locate the text/audio . </span></div><div><span><br>=
+</span></div><div><span>Thanks & Rgds</span></div><div><span>sa</span><=
+/div><div><br></div><div style=3D"font-size: 12pt; font-family: 'times new =
+roman', 'new york', times, serif; "><div style=3D"font-size: 12pt; font-fam=
+ily: 'times new roman', 'new york', times, serif; "><font size=3D"2" face=
+=3D"Arial"><hr size=3D"1"><b><span style=3D"font-weight:bold;">From:</span>=
+</b> agnijihva <agnijihva@...><br><b><span style=3D"font-weight=
+: bold;">To:</span></b> vedic-wisdom@yahoogroups.com<br><b><span style=3D"f=
+ont-weight: bold;">Sent:</span></b> Saturday, September 17, 2011 1:44 AM<br=
+><b><span
+ style=3D"font-weight: bold;">Subject:</span></b> [vedic-wisdom] =
+Rig Vedic hymn on Pitru devatas - 4<br></font><br><div id=3D"yiv964113725">=
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+<span style=3D"display:none;"> </span>
+
+
+
+    <div id=
+=3D"yiv964113725ygrp-text">
+      
+      
+      <div></div><div>OM guM guru=
+bhyo namaH - gaM gaNapataye namaH - saM saraswatyai namaH ..</div><div><br>=
+</div><div> Namaste,</div><div><br></div><div>  <b>Part 4 of 14</=
+b> -</div><div><br></div><div>  Link to image if you want to have this=
+ in devanagari -  <a rel=3D"nofollow" target=3D"_blank" href=3D"http:/=
+/www.4shared.com/photo/qBHA8ONd/1001504.html">http://www.4shared.com/photo/=
+qBHA8ONd/1001504.html</a> </div><div><br></div><div>  Link to Aud=
+io of this rik - <span class=3D"yiv964113725Apple-tab-span" style=3D"white-=
+space:pre;">	</span><a rel=3D"nofollow" target=3D"_blank" href=3D"http://ww=
+w.4shared.com/audio/L9dnNuu-/RV10154.html">http://www.4shared.com/audio/L9d=
+nNuu-/RV10154.html</a> </div><div><br></div><div>  If there are a=
+ny mistakes in these translations would request learned ones to please corr=
+ect and guide.</div><div><br></div><div><br></div><div>##samhitaa##</div><d=
+iv>barhi\'ShadaH pitara uu\_tya1\'\_rvaagi\_maa
+ vo\' ha\_vyaa ca\'kR^imaa =
+ju\_Shadhva\'m  |\\</div><div>ta aa ga\_taava\'saa\_ shaMta\'me\_naath=
+aa\' naH\_ shaM yora\'ra\_po da\'dhaata  || ##10.015.04##</div><div><b=
+r></div><div>##pada##</div><div>barhi\'ShadaH pi\_ta\_raH\_ uu\_ti a\_rvaak=
+ i\_maaH vaH\_ ha\_vyaa ca\_kR^i\_ma\_ ju\_Shadhva\'m  |\\</div><div>t=
+e aa ga\_ta\_ ava\'saa shaMta\'mena atha\' naH\_ sham yoH a\_ra\_paH da\_dh=
+aa\_ta\_  || ##10.015.04##</div><div><br></div><div>##pada2##</div><di=
+v>barhi-ShadaH##seated on dharbha## pitaraH##fathers## uuti##kindness/for h=
+elp## arvaak##here## imaaH##these## vaH##for you all## havyaa##offerrings##=
+ cakR^ima##we made## juShadhvam##accept them with favour##  |\\</div><=
+div>te##as such## aa gata##aagata - come## avasaa##to us## shaMtamena##most=
+ auspicious##  atha##then## naH##to us## sham##peace/auspicious## yoH#=
+#that## arapaH##free from hurt/free from diseases/sinless## dadhaata##grant=
+##  ||
+ ##10.015.04##</div><div><br></div><div>Translation-</div><div>=
+The Fathers who sit on sacred grass, come here with aid; these offerings ha=
+ve we made for you, accept them.</div><div>So come to us with most auspicio=
+us favour, and give us health and blessing free from hurt</div><div><br></d=
+iv><div>Interpretation -</div><div> We invoke the offerings(havyaa) ma=
+de for you (the pitru devataas), pitru devataas who sit on the layer of sac=
+red grass (barhiShad) come here with kindness (uuti/uutii) and accept the o=
+fferings and favour us by coming here in most auspicious form, thereafter g=
+rant us the blessings that are free from sin.</div><div><br></div><div>&nbs=
+p;the invocation is being made to pitru devataas to come and accept the off=
+erings prepared by us and then favour us by providing health and blessings =
+free from sin - seems to be a bribe being made to pitru devataas, certainly=
+ not. the request is to bestow sinless peace and tranquility upon us, the w=
+ord
+ rapaH is a synonymn for sin and arapaH is opposite of that i.e. sinles=
+s. the request is to grant peace and tranquility that is sinless upon us (n=
+aH shaM yoH arapaH dadhaata). One will attain sinless peace when there is "=
+in-action in action" and that is sacrifice/yaGYa/pitru kaarya, one can atta=
+in peace (temporary) by "no-action" but that is sinful, and sacrifices such=
+ as yaGYa/pitru kaarya are ones dharma (actually a RRiNa), hence the requis=
+ition is for a dharmic cause - to help us (uuti) by providing sinless peace=
+ (arapaH - shaM), arapaH also means free from disease (i.e health) so the r=
+equisition can also be translated as - to help us by providing auspicious b=
+lessing and health (connected to earlier rik RV10.015.03 - where the invoka=
+tion was for progeny  - napaataM  to continue with yaGYa - viShNo=
+H)</div><div><br></div><div>  references: Vedic reader by A.A. MacDone=
+ll, Monier Williams and Mac Donell dictionaries via Mudgala Kosha, Roots
+ a=
+nd Verb-Forms by W.D. Whitney, Vedic Grammar by AA MacDonell, all these ref=
+erences are freely available on the internet.</div><div><br></div><div>Rega=
+rds,</div><div>sarma.</div><div>  </div>
+
+
+    </div>
+     
+
+
+
+ 
+=
+
+
+
+
+
+</div><br><br></div></div></div></body></html>
+---435270448-1671952794-1316249062=:8547--
+
+

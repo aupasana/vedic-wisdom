@@ -1,0 +1,454 @@
+From sreenivas_s@...  Wed Feb 17 11:09:54 2016
+Return-Path: <sreenivas_s@...>
+X-Sender: sreenivas_s@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 98389 invoked from network); 9 Sep 2011 16:46:29 -0000
+X-Received: from unknown (98.137.34.46)
+  by m4.grp.sp2.yahoo.com with QMQP; 9 Sep 2011 16:46:29 -0000
+X-Received: from unknown (HELO nm22-vm4.bullet.mail.ne1.yahoo.com) (98.138.91.182)
+  by mta3.grp.sp2.yahoo.com with SMTP; 9 Sep 2011 16:46:29 -0000
+X-Received: from [98.138.90.49] by nm22.bullet.mail.ne1.yahoo.com with NNFMP; 09 Sep 2011 16:46:29 -0000
+X-Received: from [98.138.89.167] by tm2.bullet.mail.ne1.yahoo.com with NNFMP; 09 Sep 2011 16:46:29 -0000
+X-Received: from [127.0.0.1] by omp1023.mail.ne1.yahoo.com with NNFMP; 09 Sep 2011 16:46:29 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 101569.22039.bm@...
+X-Received: (qmail 83995 invoked by uid 60001); 9 Sep 2011 16:46:28 -0000
+X-YMail-OSG: 4.JM9QsVM1mSfcu6GTPjA4YnI8F2lzm48N4WxBLAFKd.zdw
+ ZRAix2qqcFSo8ec3WdNzx5L62a.73qeiQGRO06sJak80oawrHRrMg7B50pRR
+ hPUqa2UbXnTB_DzEEHbkPtjnKh0R5YLcpkzWU1SBT2HfDsOaG4o1e13uMheu
+ yoT0YTJbDCjlK8sHxyiAGzvjd5vF42i8sCkn8KGO_w7CHIEirIkqlRsr8bWY
+ Dzh06eFjrXXQZ8kN0cRsCblBwLOT8Zl9iEnM5hMhN5oFmBBN1ZrBQkpPuNjA
+ hGSMtUst7UZPjvoRhSV.G4jpJ4RsIfpSIta1Zq_r0PwRHogKQYI07t6I9GcD
+ hB2UpXP6IYm23n_3z0QsnLoEigPKepalp8AuuPs.j81duymLdaBLy2dpSIO8
+ YhmAziLWwL9dz35fD3Fh0wpMnCuEp36obJbIsn4eCrWbmygZkHNIhSFRwBkl
+ cF.gh9XY_8WGEA5KetSjbXAUiaBFWJzK_6Qg7VgxPsDesn3h0.uwb2TiNbQb
+ 50ryaQ6EISH44CFEUg6hEjW.BjYBrO6.ObW26i8Jvnf0DFxa8Bs_yHJUE3Um
+ 8cMJ.Fcbot6Q9QP_YSmJQMnHE_Rx7ReLCAZj4l81Cqrx4pDlrq0.mPe4vRWw
+ Nlv1wbx.53vOktykKdUOX8QDMjYaTMelRs6kK2Z2fQhymFgE1p_BnUclkUSE
+ iOaOWITPPNtYV4Lofkn4SRgwFUsjVrAeiL3oZWQB7f.a6ovud3gaCDxAR3AW
+ Qgxwsu.7ZX9xGKpf9jmQ38Fx58thIiO7AM4IuUic.yMwExY0zRtoAOWL9RyJ
+ aAvZiyuAEGvQC0tvRCqVokJNLbCyH2vOqWAhbK33zpL18puw4tThC1idY.te
+ IP770UmIoiObrgLl6UQlC_rcdfhjGLRBI9KUEh3ZssHXiDAX8kIpa6iBAhce
+ sl9ZMzph.irUXO6rSogfUST8odNY9yRDeS_hLtC7k4bd9AosPC5o.SsSgi1P
+ BunMGhX5SmKJGP6rXr3hZfFOFJGSjSgUFqqnkbPk_eENFcq9Pj6svyiKNtza
+ jfRPaH0QLYFB1wwbzhmxAFETecqvYRKASAWaTwKlPKmmXaFk5H_qrBS53akx
+ xwaDJeuWajb3nUviiBH3TFdDcNtFxPuefUZPCLAgDRkCiuDNpS7Q.Kkn8HEm
+ TdKICxq6W5r9HFFzt5fREhXmTrLHkigNmh2_BPLNQG.gtaQQ2d3YsG_TldUS
+ j4iS5GHSQoToGy3b0bE.r44pLrf2BNPRoyaswyYHLx_oW9B.EMBSw3sY4wWH
+ J2oOudV9WLU_5_L3LIzmsyoDnVFTrXLV.28MKyGDQKeiPYY7ttaYWlss23__
+ KT3ZjzOnX_l6o6CWZN_lLtSLXCI247MbF6_XvIlqJCMe0d7r3_YeKg7SjjyN
+ ovoVgSRtUUemyZnORdYFfa5zz_FZUgWWNvhhOfrmjppobGxdFeFPkYt6FJFW
+ OJA--
+X-Received: from [122.175.75.20] by web120217.mail.ne1.yahoo.com via HTTP; Fri, 09 Sep 2011 09:46:28 PDT
+X-Mailer: YahooMailWebService/0.8.113.315625
+References: <CADf76NpORxtubuN46Gszch9wEDW-JwKc1TO2mCnDXYGPe_ioUw@...> <1314291417.28090.YahooMailRC@...> <CADf76NoPmfPWnnWkTOHqQynk1DOs=R+iayhQEAV+KJTNB46P+A@...>
+Message-ID: <1315586788.82602.YahooMailNeo@...>
+Date: Fri, 9 Sep 2011 09:46:28 -0700 (PDT)
+To: "vedic-wisdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com>
+In-Reply-To: <CADf76NoPmfPWnnWkTOHqQynk1DOs=R+iayhQEAV+KJTNB46P+A@...>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1518014157-1315586788=:82602"
+X-Originating-IP: 98.138.91.182
+X-eGroups-Msg-Info: 1:12:0:0:0
+From: Sreenivas <sreenivas_s@...>
+Reply-To: Sreenivas <sreenivas_s@...>
+Subject: Re: [vedic-wisdom] Birthday Dates [1 Attachment]
+X-Yahoo-Group-Post: member; u=59455432; y=57Q-lFgAUWkXzVMB672R0bRfo3qB0HxNxmrifagIOK7q0rKBRJE
+X-Yahoo-Profile: sreenivas_s
+
+
+--0-1518014157-1315586788=:82602
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Mrs Vani,
+
+Tithi is a lunar day as per indian calendar. For example I was b=
+orn on Margasira Sukla Navami, 9th day in the first half of 9th Lunar month=
+.=C2=A0 This typically does not exactly align with English date, you need t=
+o refer to online indian calendar to translate to an english date every yea=
+r.
+
+=C2=A0
+Regards,
+SSR
+
+
+>________________________________
+>From: Vani San=
+kar <pathumai@...>
+>To: vedic-wisdom@yahoogroups.com; kbk_murthi@yaho=
+o.com
+>Sent: Friday, 26 August 2011 6:44 AM
+>Subject: Re: [vedic-wisdom] Bi=
+rthday Dates [1 Attachment]
+>
+>
+>=C2=A0 
+>[Attachment(s) from Vani Sankar i=
+ncluded below]
+>Dear Sir,
+>=C2=A0
+>i very glad to read what u have writtien=
+. 
+>=C2=A0
+>my daughter name is Jayashree. She is born in Singapore on 29/0=
+9/2009 at 1.45am (singapore time).
+>=C2=A0
+>=C2=A0
+>Like you said i dislike=
+ the idea of blowing of the candles..but sadly i was forced to blow off the=
+ candle on her 1st bday which we did in a lavish way,=C2=A0 But i dont thin=
+k so i gonna practice this for the sake of other races.
+>=C2=A0
+>=C2=A0i re=
+member i attend a friend bday.=C2=A0 they made the child to blow the candle=
+s but then beside the cake they lit up a candle n they nvr blow it.=C2=A0=
+=C2=A0 i was thinking is this a new way to please=C2=A0other races=C2=A0and=
+ also dont let go of our belief. do u think its a right think to do? 
+>=C2=
+=A0
+>Mr sreenivas and you have been talking abt Tithi.=C2=A0 can you please=
+ enlighten me abt what is Tithi?=C2=A0 And yes i am intrested to know the p=
+rocedure of invoking a fire for my child. 
+>=C2=A0
+>=C2=A0
+>All this years,=
+ i have visited temple, pray for all well beings and recited sm god songs a=
+nd faithfully take part in all important=C2=A0occasions such as vinaygar ch=
+urthi, adi,=C2=A0 krisna=C2=A0jayaanthi etc.=C2=A0
+>=C2=A0
+>but now i=C2=A0=
+could like to=C2=A0go further...and learn more..so that i can teach my chil=
+d too.=C2=A0=C2=A0=C2=A0
+>=C2=A0
+>anyway i have attached my daughter's pic.=
+=C2=A0 Juz for sharing my happines with you guys.=C2=A0 
+>=C2=A0
+>
+>
+>=C2=
+=A0
+>On Fri, Aug 26, 2011 at 12:56 AM, Balakrishna Murthy <kbk_murthi@yahoo=
+.com> wrote:
+>
+>DEAR daughter Vani Sankar,
+>>Can you inform the time and pl=
+ace of birth also to know the star, sayana sun sign and tidhi. In South Ind=
+ia, birthday is celebrated on the TIDHI. In Tamilnadu, I think it is done o=
+n the star.
+>>Many celebrate on the date.
+>>
+>>
+>>THE IDEA OF CELEBRATING B=
+IRTHDAY IS TO RE-VIEW WHAT HAS BEEN DONE until this birthday since birth, a=
+nd how one should propose to transform future for positive actions and fulf=
+illment of taking birth as a human being.
+>>
+>>
+>>Nevertheless, it has beco=
+me a fashion and exhibition of status now a days.
+>>Most important point is=
+ it is=C2=A0borrowed=C2=A0from west to lighten candles and to put them off =
+blowing air by the birthday person , while all others clap and shout Happy =
+Birthday.
+>>This is =C2=A0a most negative act. In or dharma, one should not=
+ blow off any light, but only make fire/light and spread light.
+>>
+>>
+>>So =
+if a person has completed , say 8 years, do not lighten 8 candles and then =
+=C2=A0blow them off. But lighten 9 candles or lights with gingelly oil or c=
+ow ghee and cotton threads.This signifies starting of 9th year and inviting=
+ light and energy for the new year.
+>>
+>>
+>>If you are interested, I shall =
+share a procedure invoking fire/light for having good eye sight,good health=
+, good children to continue the tradition, 100 years life for =C2=A0positiv=
+e contribution, not to get hatred and=C2=A0jealousy=C2=A0with others, eat =
+=C2=A0together, live togethe, get strength together, get protected together=
+ and always include all and never exclude any one from your relationship. T=
+hese hymns from Veda are very powerful and grant all the above positive tra=
+its when invoked.
+>>So the usual =C2=A0Birthday celebration with cake, blow=
+ing off candles,spending huge money, gifts and hungama is not what is expec=
+ted from celebration of a birthday.
+>>
+>>
+>>love and blessings to yourself,=
+ husband and the baby.
+>>Uncle KBKM
+>>
+>>
+>>
+>>____________________________=
+____
+>> From: Vani Sankar <pathumai@...>
+>>To: vedic-wisdom@yahoogrou=
+ps.com
+>>Sent: Thu, 25 August, 2011 3:52:26 PM
+>>Subject: [vedic-wisdom] Bi=
+rthday Dates
+>>
+>>=C2=A0 
+>>Good Day to all,
+>>=C2=A0
+>>=C2=A0
+>>my daughte=
+r's bday is on 29th sept.=C2=A0 my relative told me to celebrate her bday o=
+n 8th sept 11 coz thats when her star is born.=C2=A0 hence my daughter will=
+ be benefitted more of i go to temple n do sm special prayers.=C2=A0 
+>>=C2=
+=A0
+>>as a modern mom, this is new to me.=C2=A0 is this how hindus celebrat=
+e bdays?=C2=A0 
+>>=C2=A0
+>>please enlighten me on how a birthday shld be ce=
+lebrated.=C2=A0 
+>>=C2=A0
+>>thanks alot. 
+>
+> 
+>
+>
+--0-1518014157-1315586788=:82602
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"color:#000; background-color:#fff; font-family:ve=
+rdana, helvetica, sans-serif;font-size:12pt"><div><span>Mrs Vani,</span></d=
+iv><div><br><span></span></div><div><span>Tithi is a lunar day as per india=
+n calendar. For example I was born on Margasira Sukla Navami, 9th day in th=
+e first half of 9th Lunar month.  This typically does not exactly alig=
+n with English date, you need to refer to online indian calendar to transla=
+te to an english date every year.</span></div><div> </div><div>Regards=
+,<br>SSR<br><blockquote style=3D"border-left: 2px solid rgb(16, 16, 255); m=
+argin-left: 5px; padding-left: 5px;"><div style=3D"font-family: verdana, he=
+lvetica, sans-serif; font-size: 12pt;"><div style=3D"font-family: times new=
+ roman, new york, times, serif; font-size: 12pt;"><font size=3D"2" face=3D"=
+Arial"><hr size=3D"1"><b><span style=3D"font-weight:bold;">From:</span></b>=
+ Vani Sankar <pathumai@...><br><b><span style=3D"font-weight:
+ =
+bold;">To:</span></b> vedic-wisdom@yahoogroups.com; kbk_murthi@...<br=
+><b><span style=3D"font-weight: bold;">Sent:</span></b> Friday, 26 August 2=
+011 6:44 AM<br><b><span style=3D"font-weight: bold;">Subject:</span></b> Re=
+: [vedic-wisdom] Birthday Dates [1 Attachment]<br></font><br><div id=3D"yiv=
+1584038159">
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+<span style=3D"display:none;"> </span>
+
+
+
+=
+    <div id=3D"yiv1584038159ygrp-text">
+      
+        
+      
+      <div>D=
+ear Sir,</div>
+<div> </div>
+<div>i very glad to read what u have writt=
+ien. </div>
+<div> </div>
+<div>my daughter name is Jayashree. She is bo=
+rn in Singapore on 29/09/2009 at 1.45am (singapore time).</div>
+<div> =
+</div>
+<div> </div>
+<div>Like you said i dislike the idea of blowing o=
+f the candles..but sadly i was forced to blow off the candle on her 1st bda=
+y which we did in a lavish way,  But i dont think so i gonna practice =
+this for the sake of other races.</div>
+
+<div> </div>
+<div> i rem=
+ember i attend a friend bday.  they made the child to blow the candles=
+ but then beside the cake they lit up a candle n they nvr blow it. &nb=
+sp; i was thinking is this a new way to please other races and al=
+so dont let go of our belief. do u think its a right think to do? </div>
+
+<=
+div> </div>
+<div>Mr sreenivas and you have been talking abt Tithi.&nbs=
+p; can you please enlighten me abt what is Tithi?  And yes i am intres=
+ted to know the procedure of invoking a fire for my child. </div>
+<div>&nbs=
+p;</div>
+<div> </div>
+<div>All this years, i have visited temple, pray=
+ for all well beings and recited sm god songs and faithfully take part in a=
+ll important occasions such as vinaygar churthi, adi,  krisna&nbs=
+p;jayaanthi etc. </div>
+<div> </div>
+<div>but now i could li=
+ke to go further...and learn more..so that i can teach my child too.&n=
+bsp;  </div>
+<div> </div>
+<div>anyway i have attached my dau=
+ghter's pic.  Juz for sharing my happines with you guys.  </div>
+=
+<div> </div>
+<div><br><br> </div>
+<div class=3D"yiv1584038159gmai=
+l_quote">On Fri, Aug 26, 2011 at 12:56 AM, Balakrishna Murthy <span dir=3D"=
+ltr"><<a rel=3D"nofollow" ymailto=3D"mailto:kbk_murthi@..." target=
+=3D"_blank" href=3D"mailto:kbk_murthi@...">kbk_murthi@...</a>&g=
+t;</span> wrote:<br>
+<blockquote class=3D"yiv1584038159gmail_quote" style=
+=3D"BORDER-LEFT:#ccc 1px solid;">
+<div>
+<div style=3D"FONT-SIZE:14pt;FONT-F=
+AMILY:sans-serif;">
+<div class=3D"yiv1584038159im">
+<div style=3D"FONT-SIZE=
+:14pt;COLOR:black;FONT-FAMILY:sans-serif;">DEAR daughter Vani Sankar,</div>=
+
+<div style=3D"FONT-SIZE:14pt;COLOR:black;FONT-FAMILY:sans-serif;">Can you =
+inform the time and place of birth also to know the star, sayana sun sign a=
+nd tidhi. In South India, birthday is celebrated on the TIDHI. In Tamilnadu=
+, I think it is done on the star.</div>
+
+<div style=3D"FONT-SIZE:14pt;COLOR=
+:black;FONT-FAMILY:sans-serif;">Many celebrate on the date.</div>
+<div styl=
+e=3D"FONT-SIZE:14pt;COLOR:black;FONT-FAMILY:sans-serif;"><br></div>
+<div st=
+yle=3D"FONT-SIZE:14pt;COLOR:black;FONT-FAMILY:sans-serif;">THE IDEA OF CELE=
+BRATING BIRTHDAY IS TO RE-VIEW WHAT HAS BEEN DONE until this birthday since=
+ birth, and how one should propose to transform future for positive actions=
+ and fulfillment of taking birth as a human being.</div>
+
+<div style=3D"FON=
+T-SIZE:14pt;COLOR:black;FONT-FAMILY:sans-serif;"><br></div>
+<div style=3D"F=
+ONT-SIZE:14pt;COLOR:black;FONT-FAMILY:sans-serif;">Nevertheless, it has bec=
+ome a fashion and exhibition of status now a days.</div>
+<div><font size=3D=
+"4" face=3D"'lucida console', sans-serif">Most important point is it is&nbs=
+p;</font><font face=3D"'lucida console', sans-serif"><span style=3D"FONT-SI=
+ZE:19px;">borrowed</span></font><font size=3D"4" face=3D"'lucida console', =
+sans-serif"> from west to lighten candles and to put them off blowing =
+air by the birthday person , while all others clap and shout Happy Birthday=
+.</font></div>
+
+<div style=3D"FONT-SIZE:14pt;COLOR:black;FONT-FAMILY:sans-s=
+erif;">This is  a most negative act. In or dharma, one should not blow=
+ off any light, but only make fire/light and spread light.</div>
+
+<div styl=
+e=3D"FONT-SIZE:14pt;COLOR:black;FONT-FAMILY:sans-serif;"><br></div>
+<div st=
+yle=3D"FONT-SIZE:14pt;COLOR:black;FONT-FAMILY:sans-serif;">So if a person h=
+as completed , say 8 years, do not lighten 8 candles and then  blow th=
+em off. But lighten 9 candles or lights with gingelly oil or cow ghee and c=
+otton threads.This signifies starting of 9th year and inviting light and en=
+ergy for the new year.</div>
+
+<div style=3D"FONT-SIZE:14pt;COLOR:black;FONT=
+-FAMILY:sans-serif;"><br></div>
+<div><font size=3D"4" face=3D"'lucida conso=
+le', sans-serif">If you are interested, I shall share a procedure invoking =
+fire/light for having good eye sight,good health, good children to continue=
+ the tradition, 100 years life for  positive contribution, not to get =
+hatred and </font><font face=3D"'lucida console', sans-serif"><span st=
+yle=3D"FONT-SIZE:19px;">jealousy</span></font><font size=3D"4" face=3D"'luc=
+ida console', sans-serif"> with others, eat  together, live toget=
+he, get strength together, get protected together and always include all an=
+d never exclude any one from your relationship. These hymns from Veda are v=
+ery powerful and grant all the above positive traits when invoked.</font></=
+div>
+
+<div><font size=3D"4" face=3D"'lucida console', sans-serif">So the us=
+ual  Birthday celebration with cake, blowing off candles,spending huge=
+ money, gifts and hungama is not what is expected from celebration of a bir=
+thday.</font></div>
+
+<div><font size=3D"4" face=3D"'lucida console', sans-s=
+erif"><br></font></div>
+<div><font size=3D"4" face=3D"'lucida console', san=
+s-serif">love and blessings to yourself, husband and the baby.</font></div>=
+
+<div><font size=3D"4" face=3D"'lucida console', sans-serif">Uncle KBKM</fo=
+nt></div></div>
+<div style=3D"FONT-SIZE:14pt;COLOR:black;FONT-FAMILY:sans-s=
+erif;"><br>
+<div style=3D"FONT-SIZE:12pt;BORDER-LEFT:#1010ff 2px solid;FONT=
+-FAMILY:times new roman, new york, times, serif;">
+<div class=3D"yiv1584038=
+159im"><font size=3D"2" face=3D"Tahoma">
+<hr size=3D"1">
+<b><span style=3D"=
+FONT-WEIGHT:bold;">From:</span></b> Vani Sankar <<a rel=3D"nofollow" yma=
+ilto=3D"mailto:pathumai@..." target=3D"_blank" href=3D"mailto:pathuma=
+i@...">pathumai@...</a>><br><b><span style=3D"FONT-WEIGHT:bo=
+ld;">To:</span></b> <a rel=3D"nofollow" ymailto=3D"mailto:vedic-wisdom@yaho=
+ogroups.com" target=3D"_blank" href=3D"mailto:vedic-wisdom@yahoogroups.com"=
+>vedic-wisdom@yahoogroups.com</a><br>
+<b><span style=3D"FONT-WEIGHT:bold;">=
+Sent:</span></b> Thu, 25 August, 2011 3:52:26 PM<br><b><span style=3D"FONT-=
+WEIGHT:bold;">Subject:</span></b> [vedic-wisdom] Birthday Dates<br></font><=
+br><span> </span> </div>
+<div>
+<div>
+<div>
+
+<div>Good Day to all,</div=
+>
+<div>
+<div></div>
+<div class=3D"yiv1584038159h5">
+<div> </div>
+<div>=
+ </div>
+<div>my daughter's bday is on 29th sept.  my relative tol=
+d me to celebrate her bday on 8th sept 11 coz thats when her star is born.&=
+nbsp; hence my daughter will be benefitted more of i go to temple n do sm s=
+pecial prayers.  </div>
+
+<div> </div>
+<div>as a modern mom, this =
+is new to me.  is this how hindus celebrate bdays?  </div>
+<div>&=
+nbsp;</div>
+<div>please enlighten me on how a birthday shld be celebrated.&=
+nbsp; </div>
+<div> </div>
+<div>thanks alot. </div></div></div></div>
+<=
+div class=3D"yiv1584038159im">
+<div style=3D"COLOR:#fff;"></div></div></div=
+>
+<div style=3D"FONT-SIZE:14pt;COLOR:black;FONT-FAMILY:sans-serif;"></div><=
+/div></div></div></div></div></blockquote></div><br>
+
+
+    </div>
+     
+
+
+
+=
+ 
+
+
+
+
+
+</div><br><br></div></div></blockquote></div></div></body></html>
+--0-1518014157-1315586788=:82602--
+
+

@@ -1,0 +1,595 @@
+From kbk_murthi@...  Wed Feb 17 11:09:54 2016
+Return-Path: <kbk_murthi@...>
+Received: (qmail 87838 invoked from network); 6 Sep 2011 15:18:22 -0000
+Received: from unknown (98.137.34.45)
+  by m8.grp.sp2.yahoo.com with QMQP; 6 Sep 2011 15:18:22 -0000
+Received: from unknown (HELO n46b.bullet.mail.sp1.yahoo.com) (66.163.168.160)
+  by mta2.grp.sp2.yahoo.com with SMTP; 6 Sep 2011 15:18:22 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoogroups.com; s=lima; t=1315322301; bh=eUL+NStbH3tf8pYk1nwUhHvsRYvCbE+GLprjfEFw+UI=; h=Received:Received:X-Sender:X-Apparently-To:X-Received:X-Received:X-Received:X-Received:X-YMail-OSG:X-Received:X-Mailer:References:Message-ID:Date:To:Cc:In-Reply-To:MIME-Version:Content-Type:X-Originating-IP:X-eGroups-Msg-Info:From:Subject:X-Yahoo-Group-Post:X-Yahoo-Profile:X-YGroups-SubInfo:Sender:X-Yahoo-Marked-Not-Spam:X-Yahoo-Newman-Property:X-eGroups-Approved-By:X-eGroups-Auth; b=GN49ZGb095DMADKr6VN84QC9mo/rCt+NzJ4v9gh+6GSvFSwJOrBL4XLNald58M0E1irbNeEGA3eDjj9Z/rRpcQasL91HrxToFjd9txDEw6CO7quxzF9BenKjNy0dbmav
+Received: from [69.147.65.173] by n46.bullet.mail.sp1.yahoo.com with NNFMP; 06 Sep 2011 15:18:21 -0000
+Received: from [98.137.34.73] by t15.bullet.mail.sp1.yahoo.com with NNFMP; 06 Sep 2011 15:18:21 -0000
+X-Sender: kbk_murthi@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 54046 invoked from network); 26 Aug 2011 04:00:58 -0000
+X-Received: from unknown (98.137.34.44)
+  by m2.grp.sp2.yahoo.com with QMQP; 26 Aug 2011 04:00:58 -0000
+X-Received: from unknown (HELO web95808.mail.in.yahoo.com) (180.222.116.48)
+  by mta1.grp.sp2.yahoo.com with SMTP; 26 Aug 2011 04:00:57 -0000
+X-Received: (qmail 25497 invoked by uid 60001); 26 Aug 2011 04:00:55 -0000
+X-YMail-OSG: vPV7tloVM1lTN9HE_uWA4mX5WMezXM_.Yc3L5ij9ZaQXxfo
+ DQPGZ.eAm2jiExV4DTo6U9DnMKEgYYVvlEHweQxZmhpAD5rRO3BwTN78eJic
+ modWQ4wQh9i2XVo1COeUxWc.lMYdReDHRvLjiDBtlAzZNc75uP.STRh7pJO.
+ qekTMCZ94nEmmgK3gh_RYxu9yCC40W2Du48.oEbbclbYbIa3UagolY_Flu39
+ pMk97VOyk5DzawzkHTMDZaKFs9BMHxyNe_oB17Z8p7oxnnTzSihR2JSxWEgk
+ 01bWCah6.Vpuhu8dgZK6Op67.n9vp3kcazw9uvzO9w61chT3BVQXIf9G8XjJ
+ exrGiQyIXsaWn_xkbJbzoARm6f52Sh4CIrpfCB_5JMn37eGV8vXJ5Bg2EaQr
+ gKymKLLiQNylXRVCO8dtA6ky0YN.VMKLmKIwTzA_tkSAeaIyATJrmvaayIC0
+ InUoH90e4ByRdT4PEMihZm7zzuEwTH6qu2SuwzaBUgAjwsAtqZ37eVOTHFbG
+ 78Lrh511C4tlZbgeRP7Xh94VCJLBR.o8SpCNP3AWeTIGqyVIT2FPB8Pv9SRF
+ Oxrc0Vqb0yKBZVQQoG.NiMsackGrAjdzHmkZVzuGL3LrqlLzbHVIfArilk8H
+ 42xcn8qvQlzLV5E486x9uBsX9AUbFvI3yXmYFGL0LIylaO19hOCvpZ_1u5Mn
+ b4FnlceWj1GXL_abiI4yh3ahoohl91vNyeReve0qxNdIpB9Xp5ywq4i06K79
+ UQ8STTUvafHvC9pQ8f2LlB.C9OpHB6.WPA.HpD4.pZ6TUv8hgt0yT9ix_uMv
+ x1DpeVe.ZgWz5u_QldRf5NhpKLX0.kvoVIvLQ2ntgLSyrKoxMSZCprcYXI0Y
+ UjM_ucN3s5phpFnkQsBy8bl1dwUQ0j9bKjdkPiiGWRJlePOSa8wK4DXCxIsN
+ FUqiTpbjrCWkiO1AqqxDGskigMagiMR2SkN.dGijaOwi3N9JONMvVCMDyF59
+ 3SyQq.BvVAlfu_wbyb5BAJ_Dn3zi0nyrp_Ki3kWKMJ_sK9VWTCEWGGP.7ukD
+ pmI71E6emz.pwBHSkmJ2UBIcW1MHFMVBhJk3Sxcg66ew-
+X-Received: from [59.165.87.134] by web95808.mail.in.yahoo.com via HTTP; Fri, 26 Aug 2011 09:30:55 IST
+X-Mailer: YahooMailRC/574 YahooMailWebService/0.8.113.315625
+References: <CADf76NpORxtubuN46Gszch9wEDW-JwKc1TO2mCnDXYGPe_ioUw@...> <1314291417.28090.YahooMailRC@...> <CADf76NoPmfPWnnWkTOHqQynk1DOs=R+iayhQEAV+KJTNB46P+A@...>
+Message-ID: <1314331255.24072.YahooMailRC@...>
+Date: Fri, 26 Aug 2011 09:30:55 +0530 (IST)
+To: Vani Sankar <pathumai@...>
+Cc: vedic-wisdom@yahoogroups.com
+In-Reply-To: <CADf76NoPmfPWnnWkTOHqQynk1DOs=R+iayhQEAV+KJTNB46P+A@...>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1099453372-1314331255=:24072"
+X-Originating-IP: 180.222.116.48
+X-eGroups-Msg-Info: 2:2:2:0:0
+From: Balakrishna Murthy <kbk_murthi@...>
+Subject: Re: [vedic-wisdom] Birthday Dates-blowing off lights
+X-Yahoo-Group-Post: member; u=67081164; y=63Y1ap39_ziTRedl-eKnmGiNr4bd9Q29XI03YBT_TvLao61aEg
+X-Yahoo-Profile: kbk_murthi
+X-Yahoo-Marked-Not-Spam: 
+X-Yahoo-Newman-Property: groups-system
+X-eGroups-Approved-By: pvr108 via web; 06 Sep 2011 15:18:19 -0000
+
+
+--0-1099453372-1314331255=:24072
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Dear Thalli,
+Glad to see your mail.
+It is never good to blow off the light.=
+ Even when the light before God is 
+finished, we will only say it has gone =
+Up Hill.But never say ended. So you can 
+tell others who are used to blow o=
+ff lights, that light is an indication of 
+energy spread from the Lord to u=
+s, in the same way we get energy from the SUN to 
+the entire world. Hence w=
+e should never put it off. It does not signify the 
+years passed by this bi=
+rthday.We do not want to wipe off the past life. But we 
+want to review wha=
+t we were before and what positive amends do we now add to the 
+present new=
+ year. it is not hurting any one race or religion, but we need to 
+explain =
+relevant information so as to make them understand the science behind. 
+We =
+do not want to convince them to do like what we do. But just accept what we=
+ 
+do in our home as not hurting them.
+
+So what you suggested may not be tho=
+ught off as an alternative.We can never 
+start afresh every year by ignorin=
+g all we have done in the past continuously.
+
+I shall try to tell you the T=
+ithi and star.
+In Nirayana system, the birth chart is drawn for the date, t=
+ime and place of 
+birth details. it gives the placement of all planets and =
+what are called houses. 
+The relative positioning and aspects between the p=
+lanets indicate the video of 
+our life. This is because one is destined to =
+take birth on a designed day, time 
+and place and also to a particular pare=
+nts, so that he will have the life 
+blended with awards and rewards, happin=
+ess, punishments, sufferings etc  based 
+on the sum total of all the good a=
+nd bad deeds done by him in the entire past 
+life in so many thousands of l=
+ives, taken together and brought forward in every 
+birth.
+However, if one c=
+hooses to better his life, one can clue from his astrological 
+chart and am=
+end his activities, make use of good traits offered by the planets, 
+taking=
+ care in worse situations. care means living in a system of rules and 
+regu=
+lations. We tend to suffer mainly because of unruly acts, unlimited 
+activi=
+ty, laziness, selfishness, and hurried doings and short cut doings. This 
+i=
+ndiscipline the planet SATURN does not allow.o it gives a check b way of an=
+ 
+obstacle or punishment. Bur we fail to understand this good work and try =
+to 
+continue our mistakes with out getting transformed.
+
+So Birth Tithi in =
+this chart is the placement of SUN and Moon, i.e. the 
+difference between t=
+he longitudes of Sun and Moon gives the Tithi. Star or 
+Nakshatra is the lo=
+ngitude of MOON alone. Hence Tithi is reflected by the two 
+important plane=
+ts Sun and Moon.
+You need to possess little Astro knowledge to further appr=
+eciate this.
+
+I shall provide the MANTRAS that give the blessings I referre=
+d earlier.
+Let us not be afraid of others when we want to go by a path of D=
+HRMA with well 
+established Rules and Regulations and also Advises.
+You can=
+ plan to celebrate the Birthday on 29th September, so that that will 
+estab=
+lish her date of birth for record too in photographs, Videos and news.
+
+You=
+ need not subscribe to what ever told by me. Have your own discretion and a=
+ct 
+in a convinced and bold manner.
+Love and Blessings from Uncle KBKM.
+
+
+
+=
+________________________________
+From: Vani Sankar <pathumai@...>
+To:=
+ vedic-wisdom@yahoogroups.com; kbk_murthi@...
+Sent: Fri, 26 August, 2=
+011 6:44:31 AM
+Subject: Re: [vedic-wisdom] Birthday Dates
+
+
+Dear Sir,
+ 
+i v=
+ery glad to read what u have writtien. 
+ 
+my daughter name is Jayashree. Sh=
+e is born in Singapore on 29/09/2009 at 1.45am 
+(singapore time).
+ 
+ 
+Like =
+you said i dislike the idea of blowing of the candles..but sadly i was 
+for=
+ced to blow off the candle on her 1st bday which we did in a lavish way,  B=
+ut 
+i dont think so i gonna practice this for the sake of other races.
+ 
+ i=
+ remember i attend a friend bday.  they made the child to blow the candles =
+but 
+then beside the cake they lit up a candle n they nvr blow it.   i was =
+thinking 
+is this a new way to please other races and also dont let go of o=
+ur belief. do u 
+think its a right think to do? 
+
+ 
+Mr sreenivas and you ha=
+ve been talking abt Tithi.  can you please enlighten me 
+abt what is Tithi?=
+  And yes i am intrested to know the procedure of invoking a 
+fire for my c=
+hild. 
+
+ 
+ 
+All this years, i have visited temple, pray for all well beings=
+ and recited sm 
+god songs and faithfully take part in all important occasi=
+ons such as vinaygar 
+churthi, adi,  krisna jayaanthi etc. 
+ 
+but now i cou=
+ld like to go further...and learn more..so that i can teach my 
+child too. =
+  
+ 
+anyway i have attached my daughter's pic.  Juz for sharing my happines=
+ with you 
+guys.  
+
+ 
+
+
+ 
+On Fri, Aug 26, 2011 at 12:56 AM, Balakrishna Mur=
+thy <kbk_murthi@...> 
+wrote:
+
+DEAR daughter Vani Sankar,
+>Can you inf=
+orm the time and place of birth also to know the star, sayana sun 
+>sign an=
+d tidhi. In South India, birthday is celebrated on the TIDHI. In 
+>Tamilnad=
+u, I think it is done on the star.
+>Many celebrate on the date.
+>
+>
+>THE ID=
+EA OF CELEBRATING BIRTHDAY IS TO RE-VIEW WHAT HAS BEEN DONE until this 
+>bi=
+rthday since birth, and how one should propose to transform future for 
+>po=
+sitive actions and fulfillment of taking birth as a human being.
+>
+>
+>Never=
+theless, it has become a fashion and exhibition of status now a days.
+>Most=
+ important point is it is borrowed from west to lighten candles and to put =
+
+>them off blowing air by the birthday person , while all others clap and s=
+hout 
+>Happy Birthday.
+>This is  a most negative act. In or dharma, one sho=
+uld not blow off any light, 
+>but only make fire/light and spread light.
+>
+=
+>
+>So if a person has completed , say 8 years, do not lighten 8 candles and=
+ then 
+> blow them off. But lighten 9 candles or lights with gingelly oil o=
+r cow ghee 
+>and cotton threads.This signifies starting of 9th year and inv=
+iting light and 
+>energy for the new year.
+>
+>
+>If you are interested, I sh=
+all share a procedure invoking fire/light for having 
+>good eye sight,good =
+health, good children to continue the tradition, 100 years 
+>life for  posi=
+tive contribution, not to get hatred and jealousy with others, eat 
+> toget=
+her, live togethe, get strength together, get protected together and 
+>alwa=
+ys include all and never exclude any one from your relationship. These hymn=
+s 
+>from Veda are very powerful and grant all the above positive traits whe=
+n 
+>invoked.
+>So the usual  Birthday celebration with cake, blowing off can=
+dles,spending huge 
+>money, gifts and hungama is not what is expected from =
+celebration of a birthday.
+>
+>
+>love and blessings to yourself, husband and=
+ the baby.
+>Uncle KBKM
+>
+>
+>
+________________________________
+ From: Vani S=
+ankar <pathumai@...>
+>To: vedic-wisdom@yahoogroups.com
+>Sent: Thu, 25=
+ August, 2011 3:52:26 PM
+>Subject: [vedic-wisdom] Birthday Dates
+>
+>  
+>Goo=
+d Day to all,
+> 
+> 
+>my daughter's bday is on 29th sept.  my relative told =
+me to celebrate her bday 
+>on 8th sept 11 coz thats when her star is born. =
+ hence my daughter will be 
+>benefitted more of i go to temple n do sm spec=
+ial prayers.  
+>
+> 
+>as a modern mom, this is new to me.  is this how hindu=
+s celebrate bdays?  
+> 
+>please enlighten me on how a birthday shld be cele=
+brated.  
+> 
+>thanks alot. 
+>
+
+--0-1099453372-1314331255=:24072
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><style type=3D"text/css"><!-- DIV {margin:0px;} --></style></he=
+ad><body><div style=3D"font-family:'lucida console', sans-serif;font-size:1=
+4pt"><div style=3D"color: black; font-family: 'lucida console', sans-serif;=
+ font-size: 14pt; ">Dear Thalli,</div><div style=3D"color: black; font-fami=
+ly: 'lucida console', sans-serif; font-size: 14pt; ">Glad to see your mail.=
+</div><div><font class=3D"Apple-style-span" face=3D"'lucida console', sans-=
+serif" size=3D"4">It is never good to blow off the light. Even when the lig=
+ht before God is finished, we will only say it has gone Up Hill.But never s=
+ay ended. So you can tell others who are used to blow off lights, that ligh=
+t is an indication of energy spread from the Lord to us, in the same way we=
+ get energy from the SUN to the entire world. Hence we should never put it =
+off. It does not signify the years passed by this birthday.We do not want t=
+o wipe off the past life. But we want to review what we were before and wha=
+t
+ positive amends do we now add to the present new year. it is not hurting=
+ any one race or religion, but we need to explain </font><font class=
+=3D"Apple-style-span" face=3D"'lucida console', sans-serif"><span class=3D"=
+Apple-style-span" style=3D"font-size: 19px;">relevant</span></font><font cl=
+ass=3D"Apple-style-span" face=3D"'lucida console', sans-serif" size=3D"4">&=
+nbsp;information so as to make them understand the science behind. We do no=
+t want to convince them to do like what we do. But just accept what we do i=
+n our home as not hurting them.</font></div><div><font class=3D"Apple-style=
+-span" face=3D"'lucida console', sans-serif" size=3D"4"><br></font></div><d=
+iv><font class=3D"Apple-style-span" face=3D"'lucida console', sans-serif" s=
+ize=3D"4">So what you suggested may not be thought off as an alternative.We=
+ can never start afresh every year by ignoring all we have done in the past=
+ continuously.</font></div><div><font class=3D"Apple-style-span" face=3D"'l=
+ucida console', sans-serif"
+ size=3D"4"><br></font></div><div><font class=
+=3D"Apple-style-span" face=3D"'lucida console', sans-serif" size=3D"4">I sh=
+all try to tell you the Tithi and star.</font></div><div><font class=3D"App=
+le-style-span" face=3D"'lucida console', sans-serif" size=3D"4">In Nirayana=
+ system, the birth chart is drawn for the date, time and place of birth det=
+ails. it gives the placement of all planets and what are called houses. The=
+ relative positioning and aspects between the planets indicate the video of=
+ our life. This is because one is destined to take birth on a designed day,=
+ time and place and also to a particular parents, so that he will have the =
+life blended with awards and rewards, happiness, punishments, sufferings et=
+c  based on the sum total of all the good and bad deeds done by him in=
+ the entire past life in so many thousands of lives, taken together and bro=
+ught forward in every birth.</font></div><div><font class=3D"Apple-style-sp=
+an" face=3D"'lucida console', sans-serif"
+ size=3D"4">However, if one choos=
+es to better his life, one can clue from his astrological chart and amend h=
+is activities, make use of good traits offered by the planets, taking care =
+in worse situations. care means living in a system of rules and regulations=
+. We tend to suffer mainly because of unruly acts, unlimited activity, =
+;laziness, selfishness, and hurried doings and short cut doings. This indis=
+cipline the planet SATURN does not allow.o it gives a check b way of an obs=
+tacle or punishment. Bur we fail to understand this good work and try to co=
+ntinue our mistakes with out getting transformed.</font></div><div><font cl=
+ass=3D"Apple-style-span" face=3D"'lucida console', sans-serif" size=3D"4"><=
+br></font></div><div><font class=3D"Apple-style-span" face=3D"'lucida conso=
+le', sans-serif" size=3D"4">So Birth Tithi in this chart is the placement o=
+f SUN and Moon, i.e. the difference between the longitudes of Sun and Moon =
+gives the Tithi. Star or Nakshatra is the
+ longitude of MOON alone. Hence T=
+ithi is reflected by the two important planets Sun and Moon.</font></div><d=
+iv><font class=3D"Apple-style-span" face=3D"'lucida console', sans-serif" s=
+ize=3D"4">You need to possess little Astro knowledge to further appreciate =
+this.</font></div><div><font class=3D"Apple-style-span" face=3D"'lucida con=
+sole', sans-serif" size=3D"4"><br></font></div><div><font class=3D"Apple-st=
+yle-span" face=3D"'lucida console', sans-serif" size=3D"4">I shall provide =
+the MANTRAS that give the blessings I referred earlier.</font></div><div><f=
+ont class=3D"Apple-style-span" face=3D"'lucida console', sans-serif" size=
+=3D"4">Let us not be afraid of others when we want to go by a path of DHRMA=
+ with well established Rules and Regulations and also Advises.</font></div>=
+<div><font class=3D"Apple-style-span" face=3D"'lucida console', sans-serif"=
+ size=3D"4">You can plan to celebrate the Birthday on 29th September, so th=
+at that will establish her date of birth for record too in
+ photographs, Vi=
+deos and news.</font></div><div><font class=3D"Apple-style-span" face=3D"'l=
+ucida console', sans-serif" size=3D"4"><br></font></div><div><font class=3D=
+"Apple-style-span" face=3D"'lucida console', sans-serif" size=3D"4">You nee=
+d not subscribe to what ever told by me. Have your own discretion and act i=
+n a convinced and bold manner.</font></div><div><font class=3D"Apple-style-=
+span" face=3D"'lucida console', sans-serif" size=3D"4">Love and Blessings f=
+rom Uncle KBKM.</font></div><div style=3D"color: black; font-family: 'lucid=
+a console', sans-serif; font-size: 14pt; "><br><div style=3D"padding-left:5=
+px;margin:5px 0px 5px 5px;border-left:#1010ff 2px solid;font-family:times n=
+ew roman, new york, times, serif;font-size:12pt"><font size=3D"2" face=3D"T=
+ahoma"><hr size=3D"1"><b><span style=3D"font-weight: bold;">From:</span></b=
+> Vani Sankar <pathumai@...><br><b><span style=3D"font-weight: =
+bold;">To:</span></b> vedic-wisdom@yahoogroups.com; kbk_murthi@...<br=
+><b><span
+ style=3D"font-weight: bold;">Sent:</span></b> Fri, 26 August, 20=
+11 6:44:31 AM<br><b><span style=3D"font-weight: bold;">Subject:</span></b> =
+Re: [vedic-wisdom] Birthday Dates<br></font><br><div>Dear Sir,</div>
+<div>&=
+nbsp;</div>
+<div>i very glad to read what u have writtien. </div>
+<div>&nbs=
+p;</div>
+<div>my daughter name is Jayashree. She is born in Singapore on 29=
+/09/2009 at 1.45am (singapore time).</div>
+<div> </div>
+<div> </d=
+iv>
+<div>Like you said i dislike the idea of blowing of the candles..but sa=
+dly i was forced to blow off the candle on her 1st bday which we did in a l=
+avish way,  But i dont think so i gonna practice this for the sake of =
+other races.</div>
+
+<div> </div>
+<div> i remember i attend a frie=
+nd bday.  they made the child to blow the candles but then beside the =
+cake they lit up a candle n they nvr blow it.   i was thinking is=
+ this a new way to please other races and also dont let go of our=
+ belief. do u think its a right think to do? </div>
+
+<div> </div>
+<div=
+>Mr sreenivas and you have been talking abt Tithi.  can you please enl=
+ighten me abt what is Tithi?  And yes i am intrested to know the proce=
+dure of invoking a fire for my child. </div>
+<div> </div>
+<div> <=
+/div>
+<div>All this years, i have visited temple, pray for all well beings =
+and recited sm god songs and faithfully take part in all important occ=
+asions such as vinaygar churthi, adi,  krisna jayaanthi etc. =
+;</div>
+<div> </div>
+<div>but now i could like to go further=
+...and learn more..so that i can teach my child too.   </div=
+>
+<div> </div>
+<div>anyway i have attached my daughter's pic.  Ju=
+z for sharing my happines with you guys.  </div>
+<div> </div>
+<di=
+v><br><br> </div>
+<div class=3D"gmail_quote">On Fri, Aug 26, 2011 at 1=
+2:56 AM, Balakrishna Murthy <span dir=3D"ltr"><<a rel=3D"nofollow" ymail=
+to=3D"mailto:kbk_murthi@..." target=3D"_blank" href=3D"mailto:kbk_mur=
+thi@...">kbk_murthi@...</a>></span> wrote:<br>
+<blockquote c=
+lass=3D"gmail_quote" style=3D"PADDING-LEFT:1ex;MARGIN:0px 0px 0px 0.8ex;BOR=
+DER-LEFT:#ccc 1px solid;">
+<div>
+<div style=3D"FONT-SIZE:14pt;">
+<div class=
+=3D"im">
+<div style=3D"FONT-SIZE:14pt;COLOR:black;">DEAR daughter Vani Sank=
+ar,</div>
+<div style=3D"FONT-SIZE:14pt;COLOR:black;">Can you inform the tim=
+e and place of birth also to know the star, sayana sun sign and tidhi. In S=
+outh India, birthday is celebrated on the TIDHI. In Tamilnadu, I think it i=
+s done on the star.</div>
+
+<div style=3D"FONT-SIZE:14pt;COLOR:black;">Many =
+celebrate on the date.</div>
+<div style=3D"FONT-SIZE:14pt;COLOR:black;"><br=
+></div>
+<div style=3D"FONT-SIZE:14pt;COLOR:black;">THE IDEA OF CELEBRATING =
+BIRTHDAY IS TO RE-VIEW WHAT HAS BEEN DONE until this birthday since birth, =
+and how one should propose to transform future for positive actions and ful=
+fillment of taking birth as a human being.</div>
+
+<div style=3D"FONT-SIZE:1=
+4pt;COLOR:black;"><br></div>
+<div style=3D"FONT-SIZE:14pt;COLOR:black;">Nev=
+ertheless, it has become a fashion and exhibition of status now a days.</di=
+v>
+<div><font face=3D"'lucida console', sans-serif" size=3D"4">Most importa=
+nt point is it is </font><font face=3D"'lucida console', sans-serif"><=
+span style=3D"FONT-SIZE:19px;">borrowed</span></font><font face=3D"'lucida =
+console', sans-serif" size=3D"4"> from west to lighten candles and to =
+put them off blowing air by the birthday person , while all others clap and=
+ shout Happy Birthday.</font></div>
+
+<div style=3D"FONT-SIZE:14pt;COLOR:bla=
+ck;">This is  a most negative act. In or dharma, one should not blow o=
+ff any light, but only make fire/light and spread light.</div>
+
+<div style=
+=3D"FONT-SIZE:14pt;COLOR:black;"><br></div>
+<div style=3D"FONT-SIZE:14pt;CO=
+LOR:black;">So if a person has completed , say 8 years, do not lighten 8 ca=
+ndles and then  blow them off. But lighten 9 candles or lights with gi=
+ngelly oil or cow ghee and cotton threads.This signifies starting of 9th ye=
+ar and inviting light and energy for the new year.</div>
+
+<div style=3D"FON=
+T-SIZE:14pt;COLOR:black;"><br></div>
+<div><font face=3D"'lucida console', s=
+ans-serif" size=3D"4">If you are interested, I shall share a procedure invo=
+king fire/light for having good eye sight,good health, good children to con=
+tinue the tradition, 100 years life for  positive contribution, not to=
+ get hatred and </font><font face=3D"'lucida console', sans-serif"><sp=
+an style=3D"FONT-SIZE:19px;">jealousy</span></font><font face=3D"'lucida co=
+nsole', sans-serif" size=3D"4"> with others, eat  together, live =
+togethe, get strength together, get protected together and always include a=
+ll and never exclude any one from your relationship. These hymns from Veda =
+are very powerful and grant all the above positive traits when invoked.</fo=
+nt></div>
+
+<div><font face=3D"'lucida console', sans-serif" size=3D"4">So t=
+he usual  Birthday celebration with cake, blowing off candles,spending=
+ huge money, gifts and hungama is not what is expected from celebration of =
+a birthday.</font></div>
+
+<div><font face=3D"'lucida console', sans-serif" =
+size=3D"4"><br></font></div>
+<div><font face=3D"'lucida console', sans-seri=
+f" size=3D"4">love and blessings to yourself, husband and the baby.</font><=
+/div>
+<div><font face=3D"'lucida console', sans-serif" size=3D"4">Uncle KBK=
+M</font></div></div>
+<div style=3D"FONT-SIZE:14pt;COLOR:black;"><br>
+<div s=
+tyle=3D"PADDING-LEFT:5px;FONT-SIZE:12pt;MARGIN:5px 0px 5px 5px;BORDER-LEFT:=
+#1010ff 2px solid;FONT-FAMILY:times new roman, new york, times, serif;">
+<d=
+iv class=3D"im"><font face=3D"Tahoma" size=3D"2">
+<hr size=3D"1">
+<b><span =
+style=3D"FONT-WEIGHT:bold;">From:</span></b> Vani Sankar <<a rel=3D"nofo=
+llow" ymailto=3D"mailto:pathumai@..." target=3D"_blank" href=3D"mailt=
+o:pathumai@...">pathumai@...</a>><br><b><span style=3D"FONT-=
+WEIGHT:bold;">To:</span></b> <a rel=3D"nofollow" ymailto=3D"mailto:vedic-wi=
+sdom@yahoogroups.com" target=3D"_blank" href=3D"mailto:vedic-wisdom@yahoogr=
+oups.com">vedic-wisdom@yahoogroups.com</a><br>
+<b><span style=3D"FONT-WEIGH=
+T:bold;">Sent:</span></b> Thu, 25 August, 2011 3:52:26 PM<br><b><span style=
+=3D"FONT-WEIGHT:bold;">Subject:</span></b> [vedic-wisdom] Birthday Dates<br=
+></font><br><span> </span> </div>
+<div>
+<div>
+<div>
+<p></p>
+<div>Good =
+Day to all,</div>
+<div>
+<div></div>
+<div class=3D"h5">
+<div> </div>
+<d=
+iv> </div>
+<div>my daughter's bday is on 29th sept.  my relative =
+told me to celebrate her bday on 8th sept 11 coz thats when her star is bor=
+n.  hence my daughter will be benefitted more of i go to temple n do s=
+m special prayers.  </div>
+
+<div> </div>
+<div>as a modern mom, th=
+is is new to me.  is this how hindus celebrate bdays?  </div>
+<di=
+v> </div>
+<div>please enlighten me on how a birthday shld be celebrate=
+d.  </div>
+<div> </div>
+<div>thanks alot. </div></div></div></div=
+>
+<div class=3D"im">
+<div style=3D"MIN-HEIGHT:0px;COLOR:#fff;"></div></div>=
+</div>
+<div style=3D"FONT-SIZE:14pt;COLOR:black;"></div></div></div></block=
+quote></div><br>
+</div></div><div style=3D"color: black; font-family: 'luci=
+da console', sans-serif; font-size: 14pt; position: fixed; "></div>
+
+
+</div=
+></body></html>
+--0-1099453372-1314331255=:24072--
+
+

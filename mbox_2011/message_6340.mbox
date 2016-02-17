@@ -1,0 +1,552 @@
+From rajarshi14@...  Wed Feb 17 11:09:36 2016
+Return-Path: <rajarshi14@...>
+X-Sender: rajarshi14@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 38429 invoked from network); 18 May 2011 18:11:43 -0000
+X-Received: from unknown (98.137.34.45)
+  by m3.grp.sp2.yahoo.com with QMQP; 18 May 2011 18:11:43 -0000
+X-Received: from unknown (HELO web95503.mail.in.yahoo.com) (121.101.151.3)
+  by mta2.grp.sp2.yahoo.com with SMTP; 18 May 2011 18:11:42 -0000
+X-Received: (qmail 50792 invoked by uid 60001); 18 May 2011 18:11:40 -0000
+Message-ID: <570757.50757.qm@...>
+X-YMail-OSG: ciwlQQ0VM1mRgXQnPnnilCjusOXa_fucL8Vpw_YrOtMv79e
+ u3uFR38drazf8OhUN4fwy6on4mxpWtU5Whn_TPPqOS82xt0xmsdWILbqduKF
+ InRkfGQ0FEAVvtQwBFRvptt7x5GeS2SXGkHiSw0PQ4awnuQy64FkEKFXvmyq
+ 9SODtWA6EAkZ1fb0Fk9eZEKJDc0lu5sJKiTbbcwQf2aGdmagya2LXL0YKNTi
+ UKzif.a4.LHqnA9P0_60aIbVD27xP0NRY2AAqe_kJMES2nMUysIHN5.QaNDu
+ bSGGaqIn9BzDfrfFRIGxAA6fEUDGVY2EZauBCp9GWxQdE3.V1IOuw.3Cook7
+ yrDC2j2dZ92B.Ba8RPN4b2wzI7FNnRYIZr.blONCd5gL5._1tZ4aeD9Q85x2
+ eT9z9eH78GnlXigRH4Nwo8f3xfJFlNFNMbzQjZuweoajp.Vro1EwvCVvvW5b
+ nkPRqH4FOGuR6Iw5ovKGm2p7jXZBRXpjGaPI8J42I11GYqB_U1MjtonBKBQQ
+ VbHYK2Qi5rNrhCRvgS0le1DDUHNebC06PeaccenGt6AZupm.5cW951L9FnX5
+ YvxwmRO7C0xdqEbxQvLPpPWEBgRG.CiBVx_pDCS13Vh0vJjNt5NkGkVwsowh
+ lv_OnlyKE12b7KpkulyHUtZ0.pO0jrojWHWenpnLvla4wI5VE88PvaDc_h.k
+ oIigvRiRauDt4yN7dcNOIk.LL4Zx01m0Ru5d2DRuke3iANdnESbPJYCdUW9m
+ EG8_DN_n3PRenoGeUi0hI0vL6O8m5QnQRQdOoImb._2x8Nvr6RJ1xweUcxwy
+ rfUyv_pU.Exn8qP_pIq.yEh8v3K5_KVTnjGCCcXndx5CQwN4EI_z_yLmbtm4
+ LoLlcYTP9DvWDLGFJhAattd0NQYfTyEQfQMZPAK8v4yLvHLlrg2UYJKAeQ7Q
+ ywqQ8rKfeaMxccD0hzA7h8EEoKZXq4ofECS5HyNw_.GrptdxS8uVhtmHlX0Y
+ 9E4XiwAbsUhuFpb676fylqE9GY1O.87FXOQc3Tt5yqIYqx5.GnW0ZvGOpScC
+ MXXs1oXex5pxytGPzA2hFNJKllSTMXEkFEuQWTurvt1KIPIYC4Pn1q_ULniv
+ DpQiXQtkOvvtHas2FqWhain0ud0PVbNc47glsCpsbuwZBRubiXPZ3dNCx_Rp
+ lInuUJRlaBqJKeSd2bl11QBlpi327urf4fw5aosfIQHv9YFX9Y4XSFPOowV0
+ MLhSmMlxlA_JR2xU9956NJmqtTfWbjX6JSw_AL2YDWxIZHQqDwWzlNQhEpPy
+ 38u6McKu9du9bNj89T_V4tffYLEXHgJjjkX1182zS7r_k1veiaVA5Sn6wegf
+ jPA3vJ9i1cPdtZ1uBsq2y61sJ.MFO3FXzc4akx1d9Ckb49nTNUjs39sYDAfj
+ D3HFSNeZMEyoAmkY.fhZpaAURZ4lL7tJjgs3msNboH5Oq3oIJEDwWwXc2p5y
+ lJj.cPi9x00iq3aEpF9oFiTYJbDNxJtCdoLqSiC84oLsU.MpBReaKhARDbQW
+ Yo4rOipvxPxJcmW1PJTk8kcbTYQdafy9bzdjAQXeVZMr48TuqvYRCV94gWRn
+ jkf.Cqi76U3YNc0FcgopEgCECndapDZrbtsF5qPqngk5gGTizibRM1kkG.m4
+ kBrDnLvspHbAFR5roGltshZiVzTBJc44jd.prUciwhSEOCjBzkOkwbtHuzDW
+ neWl_cX1knKm5BaIed5.NT4Ci9MhGoPzLSMPZo9BtLzi8u3jrLdN.mcRTp_U
+ BNraIbG22uZf8tIUZdA_nRwlJb3NQvaiH4CaPDIICbUkCD7fvAaQlwehdn3V
+ rnHsCbRIrt_6TUXAlccKzeQt6aRp4FFiZ.FBYzRU6eMHGRVTxGdVKMoDBhuH
+ THbFNRfsM73VXKNIykIT2nXHTiZtur2.FzWpkxMQEjKqPWRiEUXZ3Xi_j09o
+ Aqkg2Mfgx5uZlteHRu5dyE4K1Ni.0fSsCqOcz0IWjMMI7iWMq0hogWZE95AU
+ zGxAHZlmoc7eeaRU7Nxb5Q7RqXpE8ELwN3wbNVzgex2Jw8IBMDJ8c2XryPM7
+ ixEq_JHFQ34GddgUc43qrTTouCjyERXcBxZTm8ycMM1ICFfYPwG_2YE3Q2Rn
+ ztxilb6W.ZKotKmQ0ncg7mKbvHxaO9xeEN8M-
+X-Received: from [115.241.177.204] by web95503.mail.in.yahoo.com via HTTP; Wed, 18 May 2011 23:41:40 IST
+X-Mailer: YahooMailRC/567 YahooMailWebService/0.8.111.303096
+References: <6703C05C17715A4A94854B628BBE2D93016D5A27@...> <BANLkTi=J9WJw03hhur2Aoqf+sZ4gNDVLeg@...> <607636.43482.qm@...> <BANLkTikAVM8apvZeGr9cVbRBaVDdrw+f-Q@...>
+Date: Wed, 18 May 2011 23:41:40 +0530 (IST)
+To: vedic-wisdom@yahoogroups.com
+In-Reply-To: <BANLkTikAVM8apvZeGr9cVbRBaVDdrw+f-Q@...>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1925893121-1305742300=:50757"
+X-Originating-IP: 121.101.151.3
+X-eGroups-Msg-Info: 1:12:0:0:0
+From: rajarshi nandy <rajarshi14@...>
+Subject: Re: [vedic-wisdom] TimeLine of World Religions
+X-Yahoo-Group-Post: member; u=216162964; y=-rDuTqAMe7-PmuZeeWruqpXxIGowafebSjbZnr8643qeRzULVA
+X-Yahoo-Profile: rajarshi14
+
+
+--0-1925893121-1305742300=:50757
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+=C2=A0Thanks!
+
+Bazeecha-e-atfal hain duniya mere aage.
+Hota hain shab-o-roz=
+ tamasha mere aage
+=C2=A0
+Ek khel hain aurang-e-sulemaan mere nazdeek
+Ek ba=
+at hain ijaz-e-masiah mere aage.
+
+
+
+
+________________________________
+From:=
+ Prasanth Jalasutram <jvrsprasanth@...>
+To: vedic-wisdom@yahoogroups.=
+com
+Sent: Wed, 18 May, 2011 11:06:27 PM
+Subject: Re: [vedic-wisdom] TimeLin=
+e of World Religions
+
+=C2=A0 
+
+
+On Wed, May 18, 2011 at 12:35 PM, rajarshi =
+nandy <rajarshi14@...> wrote:
+
+=C2=A0 
+>Namaste,
+>
+>What is the nam=
+e of this book? 
+>
+>-Regards
+>=C2=A0Rajarshi
+>
+>Bazeecha-e-atfal hain duniy=
+a mere aage.
+>Hota hain shab-o-roz tamasha mere aage
+>=C2=A0
+>Ek khel hain =
+aurang-e-sulemaan mere nazdeek
+>Ek baat hain ijaz-e-masiah mere aage.
+>
+>
+>=
+
+>
+>
+________________________________
+From: Prasanth Jalasutram <jvrsprasan=
+th@...>
+>Sent: Wed, 18 May, 2011 10:21:46 AM
+>Subject: [vedic-wisdom]=
+ TimeLine of World Religions [1 Attachment]
+>
+>
+>=C2=A0 
+>http://1.bp.blogs=
+pot.com/-RKwjU-xNtWQ/TdNPXxGsM1I/AAAAAAAAIS4/VclDXfcuHb8/s1600/timeline%2Bo=
+f%2Bworld%2Breligions%2Blarge.JPG
+> 
+
+
+
+
+Dear=C2=A0Rajarshi,
+=C2=A0
+I got t=
+his information which I scanned and send the same from this book
+http://www=
+.amazon.co.uk/New-Lion-Handbook-Worlds-Religions/dp/0745951287
+
+--=C2=A0
+=
+=E0=B0=93=E0=B0=82=C2=A0 =E0=B0=A8=E0=B0=AE=E0=B1=8B=C2=A0 =E0=B0=AD=E0=B0=
+=97=E0=B0=B5=E0=B0=A4=E0=B1=87=C2=A0 =E0=B0=B6=E0=B1=8D=E0=B0=B0=E0=B1=80=
+=C2=A0 =E0=B0=B0=E0=B0=AE=E0=B0=A3=E0=B0=BE=E0=B0=AF=C2=A0=C2=A0=C2=A0
+=E0=
+=B0=AA=E0=B1=8D=E0=B0=B0=E0=B1=87=E0=B0=AE=E0=B1=87 =E0=B0=B6=E0=B0=BE=E0=
+=B0=B6=E0=B1=8D=E0=B0=B5=E0=B0=A4=E0=B0=AE=E0=B1=81=C2=A0=C2=A0
+
+
+r
+--0-1925893121-1305742300=:50757
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><style type=3D"text/css"><!-- DIV {margin:0px;} --></style></he=
+ad><body><div style=3D"font-family:times new roman, new york, times, serif;=
+font-size:12pt"><DIV></DIV>
+<DIV> Thanks!</DIV>
+<DIV> </DIV>
+<DIV=
+><EM><STRONG><STRONG><SPAN style=3D"FONT-FAMILY: Verdana; COLOR: navy; FONT=
+-SIZE: 10pt"><FONT color=3D#000000 face=3D"Times New Roman"><B><SPAN style=
+=3D"COLOR: #000066" class=3DApple-style-span><SPAN style=3D"FONT-SIZE: medi=
+um" class=3DApple-style-span><FONT color=3D#a2a2a2 size=3D3>Bazeecha-e-atfa=
+l hain duniya mere aage.</FONT></SPAN></SPAN></B></DIV>
+<DIV>
+<DIV class=3D=
+MsoNormal>
+<DIV><B><SPAN style=3D"COLOR: #000066" class=3DApple-style-span>=
+<SPAN style=3D"FONT-SIZE: medium" class=3DApple-style-span><FONT size=3D3><=
+FONT color=3D#a2a2a2>Hota hain shab-o-roz tamasha mere aage</FONT></FONT></=
+SPAN></SPAN></B></DIV>
+<DIV><B><SPAN style=3D"COLOR: #000066" class=3DApple=
+-style-span><SPAN style=3D"FONT-SIZE: medium" class=3DApple-style-span><SPA=
+N style=3D"COLOR: #000099" class=3DApple-style-span><SPAN style=3D"FONT-SIZ=
+E: small" class=3DApple-style-span><FONT size=3D2> </FONT></DIV>
+<DIV>=
+
+<DIV><SPAN style=3D"FONT-SIZE: medium" class=3DApple-style-span><B><SPAN s=
+tyle=3D"COLOR: #999999" class=3DApple-style-span><FONT size=3D3>Ek khel hai=
+n aurang-e-sulemaan mere nazdeek</FONT></SPAN></B></SPAN></DIV>
+<DIV><SPAN =
+style=3D"FONT-SIZE: medium" class=3DApple-style-span><B><SPAN style=3D"COLO=
+R: #999999" class=3DApple-style-span><FONT size=3D3>Ek baat hain ijaz-e-mas=
+iah mere aage.</FONT></SPAN></B></SPAN></DIV></SPAN></SPAN></SPAN></SPAN></=
+B></DIV></FONT></SPAN></STRONG></DIV></STRONG></EM></DIV>
+<DIV><BR></DIV>
+<=
+DIV style=3D"FONT-FAMILY: times new roman, new york, times, serif; FONT-SIZ=
+E: 12pt"><BR>
+<DIV style=3D"BORDER-LEFT: #1010ff 2px solid; MARGIN: 5px 0px=
+ 5px 5px; PADDING-LEFT: 5px; FONT-FAMILY: times new roman, new york, times,=
+ serif; FONT-SIZE: 12pt"><FONT size=3D2 face=3DTahoma>
+<HR SIZE=3D1>
+<B><SP=
+AN style=3D"FONT-WEIGHT: bold">From:</SPAN></B> Prasanth Jalasutram <jvr=
+sprasanth@...><BR><B><SPAN style=3D"FONT-WEIGHT: bold">To:</SPAN><=
+/B> vedic-wisdom@yahoogroups.com<BR><B><SPAN style=3D"FONT-WEIGHT: bold">Se=
+nt:</SPAN></B> Wed, 18 May, 2011 11:06:27 PM<BR><B><SPAN style=3D"FONT-WEIG=
+HT: bold">Subject:</SPAN></B> Re: [vedic-wisdom] TimeLine of World Religion=
+s<BR></FONT><BR><SPAN style=3D"DISPLAY: none"> </SPAN> 
+<DIV id=3Dygrp=
+-text>
+<P><SPAN style=3D"BORDER-COLLAPSE: collapse; FONT-FAMILY: arial, san=
+s-serif; FONT-SIZE: 13px" class=3DApple-style-span>
+<P class=3DMsoNormal><F=
+ONT color=3Dnavy size=3D2 face=3DArial><SPAN style=3D"FONT-FAMILY: Arial; C=
+OLOR: navy; FONT-SIZE: 10pt">Dear </SPAN></FONT>Rajarshi,</P>
+<P class=
+=3DMsoNormal><FONT size=3D3 face=3D"Times New Roman"><SPAN style=3D"FONT-SI=
+ZE: 12pt"> </SPAN></FONT></P>
+<P class=3DMsoNormal><FONT size=3D3 face=
+=3D"Times New Roman"><SPAN style=3D"FONT-SIZE: 12pt">I got this information=
+ which I scanned and send the same from this book</SPAN></FONT></P>
+<P clas=
+s=3DMsoNormal><FONT size=3D3 face=3D"Times New Roman"><SPAN style=3D"FONT-S=
+IZE: 12pt"><A style=3D"COLOR: rgb(0,0,204)" href=3D"http://www.amazon.co.uk=
+/New-Lion-Handbook-Worlds-Religions/dp/0745951287" rel=3Dnofollow target=3D=
+_blank>http://www.amazon.co.uk/New-Lion-Handbook-Worlds-Religions/dp/074595=
+1287</A></SPAN></FONT></P>
+<DIV><FONT size=3D3 face=3D"Times New Roman"><BR=
+></FONT></DIV>
+<DIV><FONT size=3D3 face=3D"Times New Roman"><SPAN style=3D"=
+BORDER-COLLAPSE: separate; FONT-FAMILY: arial; FONT-SIZE: small" class=3DAp=
+ple-style-span>-- <BR>=E0=B0=93=E0=B0=82  =E0=B0=A8=E0=B0=AE=E0=
+=B1=8B  =E0=B0=AD=E0=B0=97=E0=B0=B5=E0=B0=A4=E0=B1=87  =E0=B0=B6=
+=E0=B1=8D=E0=B0=B0=E0=B1=80  =E0=B0=B0=E0=B0=AE=E0=B0=A3=E0=B0=BE=E0=
+=B0=AF   <BR>=E0=B0=AA=E0=B1=8D=E0=B0=B0=E0=B1=87=E0=B0=AE=
+=E0=B1=87 =E0=B0=B6=E0=B0=BE=E0=B0=B6=E0=B1=8D=E0=B0=B5=E0=B0=A4=E0=B0=AE=
+=E0=B1=81  <BR></SPAN></FONT></DIV>
+<DIV><FONT size=3D3 face=3D"T=
+imes New Roman"><SPAN style=3D"BORDER-COLLAPSE: separate; FONT-FAMILY: aria=
+l; FONT-SIZE: small" class=3DApple-style-span><BR></SPAN></FONT></DIV></SPA=
+N><BR>
+<DIV class=3Dgmail_quote>On Wed, May 18, 2011 at 12:35 PM, rajarshi =
+nandy <SPAN dir=3Dltr><<A href=3D"mailto:rajarshi14@..." rel=3Dn=
+ofollow target=3D_blank ymailto=3D"mailto:rajarshi14@...">rajarshi1=
+4@...</A>></SPAN> wrote:<BR>
+<BLOCKQUOTE style=3D"BORDER-LEFT: #=
+ccc 1px solid" class=3Dgmail_quote>
+<DIV style=3D"BACKGROUND-COLOR: #fff"><=
+SPAN> </SPAN> 
+<DIV>
+<DIV>
+<DIV>
+<P></P>
+<DIV style=3D"FONT-FAMILY: ti=
+mes new roman, new york, times, serif; FONT-SIZE: 12pt">
+<DIV></DIV>
+<DIV>N=
+amaste,</DIV>
+<DIV> </DIV>
+<DIV>What is the name of this book? </DIV>
+=
+<DIV> </DIV>
+<DIV>-Regards</DIV>
+<DIV> Rajarshi</DIV>
+<DIV> =
+</DIV>
+<DIV><EM><STRONG>
+<DIV class=3DMsoNormal><STRONG><SPAN style=3D"FONT=
+-FAMILY: Verdana; COLOR: navy; FONT-SIZE: 10pt"><FONT color=3D#000000 face=
+=3D"Times New Roman">
+<DIV><B><SPAN style=3D"COLOR: #000066"><SPAN style=3D=
+"FONT-SIZE: medium"><FONT color=3D#a2a2a2 size=3D3>Bazeecha-e-atfal hain du=
+niya mere aage.</FONT></SPAN></SPAN></B></DIV>
+<DIV><B><SPAN style=3D"COLOR=
+: #000066"><SPAN style=3D"FONT-SIZE: medium"><FONT size=3D3><FONT color=3D#=
+a2a2a2>Hota hain shab-o-roz tamasha mere aage</FONT></FONT></SPAN></SPAN></=
+B></DIV>
+<DIV><B><SPAN style=3D"COLOR: #000066"><SPAN style=3D"FONT-SIZE: m=
+edium"><SPAN style=3D"COLOR: #000099"><SPAN style=3D"FONT-SIZE: small"><FON=
+T size=3D2> </FONT></SPAN></SPAN></SPAN></SPAN></B></DIV>
+<DIV>
+<DIV><=
+SPAN style=3D"FONT-SIZE: medium"><B><SPAN style=3D"COLOR: #999999"><FONT si=
+ze=3D3>Ek khel hain aurang-e-sulemaan mere nazdeek</FONT></SPAN></B></SPAN>=
+</DIV>
+<DIV><SPAN style=3D"FONT-SIZE: medium"><B><SPAN style=3D"COLOR: #999=
+999"><FONT size=3D3>Ek baat hain ijaz-e-masiah mere aage.</FONT></SPAN></B>=
+</SPAN></DIV></DIV></FONT></SPAN></STRONG></DIV></STRONG></EM></DIV></DIV>
+=
+<DIV><BR></DIV>
+<DIV style=3D"FONT-FAMILY: times new roman, new york, times=
+, serif; FONT-SIZE: 12pt"><BR>
+<DIV style=3D"BORDER-LEFT: #1010ff 2px solid=
+; FONT-FAMILY: times new roman, new york, times, serif; FONT-SIZE: 12pt"><F=
+ONT size=3D2 face=3DTahoma>
+<DIV class=3Dim>
+<HR SIZE=3D1>
+<B><SPAN style=
+=3D"FONT-WEIGHT: bold">From:</SPAN></B> Prasanth Jalasutram <<A href=3D"=
+mailto:jvrsprasanth@..." rel=3Dnofollow target=3D_blank ymailto=3D"ma=
+ilto:jvrsprasanth@...">jvrsprasanth@...</A>><BR></DIV><B><SP=
+AN style=3D"FONT-WEIGHT: bold">Sent:</SPAN></B> Wed, 18 May, 2011 10:21:46 =
+AM<BR><B><SPAN style=3D"FONT-WEIGHT: bold">Subject:</SPAN></B> [vedic-wisdo=
+m] TimeLine of World Religions [1 Attachment]<BR></FONT>
+<DIV class=3Dim><B=
+R><SPAN> </SPAN> 
+<DIV>
+<P><A href=3D"http://1.bp.blogspot.com/-RKwjU-=
+xNtWQ/TdNPXxGsM1I/AAAAAAAAIS4/VclDXfcuHb8/s1600/timeline%2Bof%2Bworld%2Brel=
+igions%2Blarge.JPG" rel=3Dnofollow target=3D_blank>http://1.bp.blogspot.com=
+/-RKwjU-xNtWQ/TdNPXxGsM1I/AAAAAAAAIS4/VclDXfcuHb8/s1600/timeline%2Bof%2Bwor=
+ld%2Breligions%2Blarge.JPG</A> </P></DIV></DIV></DIV></DIV>
+<P></P></DIV></=
+DIV>
+<DIV style=3D"COLOR: #fff"></DIV></DIV></DIV></BLOCKQUOTE></DIV><BR><B=
+R clear=3Dall><BR><BR></DIV>
+<STYLE type=3Dtext/css>
+<!--
+#ygrp-mkp {
+borde=
+r:1px solid #d8d8d8;font-family:Arial;margin:10px 0;padding:0 10px;}
+
+#ygrp=
+-mkp hr {
+border:1px solid #d8d8d8;}
+
+#ygrp-mkp #hd {
+color:#628c2a;font-si=
+ze:85%;font-weight:700;line-height:122%;margin:10px 0;}
+
+#ygrp-mkp #ads {
+m=
+argin-bottom:10px;}
+
+#ygrp-mkp .ad {
+padding:0 0;}
+
+#ygrp-mkp .ad p {
+margi=
+n:0;}
+
+#ygrp-mkp .ad a {
+color:#0000ff;text-decoration:none;}
+#ygrp-sponsor=
+ #ygrp-lc {
+font-family:Arial;}
+
+#ygrp-sponsor #ygrp-lc #hd {
+margin:10px 0=
+px;font-weight:700;font-size:78%;line-height:122%;}
+
+#ygrp-sponsor #ygrp-lc=
+ .ad {
+margin-bottom:10px;padding:0 0;}
+
+a {
+color:#1e66ae;}
+
+#actions {
+fo=
+nt-family:Verdana;font-size:11px;padding:10px 0;}
+
+#activity {
+background-c=
+olor:#e0ecee;float:left;font-family:Verdana;font-size:10px;padding:10px;}
+
+=
+#activity span {
+font-weight:700;}
+
+#activity span:first-child {
+text-trans=
+form:uppercase;}
+
+#activity span a {
+color:#5085b6;text-decoration:none;}
+
+=
+#activity span span {
+color:#ff7900;}
+
+#activity span .underline {
+text-dec=
+oration:underline;}
+
+.attach {
+clear:both;display:table;font-family:Arial;f=
+ont-size:12px;padding:10px 0;width:400px;}
+
+.attach div a {
+text-decoration=
+:none;}
+
+.attach img {
+border:none;padding-right:5px;}
+
+.attach label {
+dis=
+play:block;margin-bottom:5px;}
+
+.attach label a {
+text-decoration:none;}
+
+b=
+lockquote {
+margin:0 0 0 4px;}
+
+.bold {
+font-family:Arial;font-size:13px;fo=
+nt-weight:700;}
+
+.bold a {
+text-decoration:none;}
+
+dd.last p a {
+font-famil=
+y:Verdana;font-weight:700;}
+
+dd.last p span {
+margin-right:10px;font-family=
+:Verdana;font-weight:700;}
+
+dd.last p span.yshortcuts {
+margin-right:0;}
+
+d=
+iv.attach-table div div a {
+text-decoration:none;}
+
+div.attach-table {
+widt=
+h:400px;}
+
+div.file-title a, div.file-title a:active, div.file-title a:hove=
+r, div.file-title a:visited {
+text-decoration:none;}
+
+div.photo-title a, di=
+v.photo-title a:active, div.photo-title a:hover, div.photo-title a:visited =
+{
+text-decoration:none;}
+
+div#ygrp-mlmsg #ygrp-msg p a span.yshortcuts {
+fo=
+nt-family:Verdana;font-size:10px;font-weight:normal;}
+
+.green {
+color:#628c=
+2a;}
+
+.MsoNormal {
+margin:0 0 0 0;}
+
+o {
+font-size:0;}
+
+#photos div {
+float=
+:left;width:72px;}
+
+#photos div div {
+border:1px solid #666666;height:62px;=
+overflow:hidden;width:62px;}
+
+#photos div label {
+color:#666666;font-size:1=
+0px;overflow:hidden;text-align:center;white-space:nowrap;width:64px;}
+
+#rec=
+o-category {
+font-size:77%;}
+
+#reco-desc {
+font-size:77%;}
+
+.replbq {
+margi=
+n:4px;}
+
+#ygrp-actbar div a:first-child {
+margin-right:2px;padding-right:5p=
+x;}
+
+#ygrp-mlmsg {
+font-size:13px;font-family:Arial, helvetica, clean, sans=
+-serif;}
+
+#ygrp-mlmsg table {
+font-size:inherit;font:100%;}
+
+#ygrp-mlmsg se=
+lect, input, textarea {
+font:99% Arial, Helvetica, clean, sans-serif;}
+
+#yg=
+rp-mlmsg pre, code {
+font:115% monospace;}
+
+#ygrp-mlmsg * {
+line-height:1.2=
+2em;}
+
+#ygrp-mlmsg #logo {
+padding-bottom:10px;}
+
+#ygrp-mlmsg a {
+color:#1E=
+66AE;}
+
+#ygrp-msg p a {
+font-family:Verdana;}
+
+#ygrp-msg p#attach-count spa=
+n {
+color:#1E66AE;font-weight:700;}
+
+#ygrp-reco #reco-head {
+color:#ff7900;=
+font-weight:700;}
+
+#ygrp-reco {
+margin-bottom:20px;padding:0px;}
+
+#ygrp-spo=
+nsor #ov li a {
+font-size:130%;text-decoration:none;}
+
+#ygrp-sponsor #ov li=
+ {
+font-size:77%;list-style-type:square;padding:6px 0;}
+
+#ygrp-sponsor #ov =
+ul {
+margin:0;padding:0 0 0 8px;}
+
+#ygrp-text {
+font-family:Georgia;}
+
+#ygr=
+p-text p {
+margin:0 0 1em 0;}
+
+#ygrp-text tt {
+font-size:120%;}
+
+#ygrp-vita=
+l ul li:last-child {
+border-right:none !important;
+}
+-->
+</STYLE>
+</DIV></D=
+IV>r</div></body></html>
+--0-1925893121-1305742300=:50757--
+
+

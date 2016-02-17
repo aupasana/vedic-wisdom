@@ -1,0 +1,511 @@
+From msramplus@...  Wed Feb 17 11:09:55 2016
+Return-Path: <msramplus@...>
+X-Sender: msramplus@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 86009 invoked from network); 21 Sep 2011 04:30:24 -0000
+X-Received: from unknown (98.137.35.161)
+  by m10.grp.sp2.yahoo.com with QMQP; 21 Sep 2011 04:30:24 -0000
+X-Received: from unknown (HELO nm20-vm0.bullet.mail.bf1.yahoo.com) (98.139.213.165)
+  by mta5.grp.sp2.yahoo.com with SMTP; 21 Sep 2011 04:30:23 -0000
+X-Received: from [98.139.215.142] by nm20.bullet.mail.bf1.yahoo.com with NNFMP; 21 Sep 2011 04:30:22 -0000
+X-Received: from [98.139.212.243] by tm13.bullet.mail.bf1.yahoo.com with NNFMP; 21 Sep 2011 04:30:22 -0000
+X-Received: from [127.0.0.1] by omp1052.mail.bf1.yahoo.com with NNFMP; 21 Sep 2011 04:30:22 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 968464.46881.bm@...
+X-Received: (qmail 21346 invoked by uid 60001); 21 Sep 2011 04:30:22 -0000
+X-YMail-OSG: U4TZvs0VM1kWF3gG9BO_u640jcoP8LB2wMTZlxEWapEJ4EY
+ XSRj.9AImqMCB_SSn.zGbJCyrIPtwXyA9ANzb.rVaKRHT7qg6tGfabldfua8
+ pUvd9uBEnXOHmAtZql5lPD3OGnnoF5Wd.P9d4fJZnxlY_aa2jJ0E3KXr7oiM
+ 4Ba4fdTjaQULzVcw4qvG3NGrJVF2TGqwQEr9CXOGhKRSZpALWGkoVk_8UaQU
+ VgNl5b_vwXQM9xT7lGRVu6BVOn8LGHcZVqxBTsPe6O0dXSXJFPDefrAyOrIJ
+ HPP9EwM3DDc2hQf3BcS7dUsjtvS5nJJCp916C6RQ8qVumYR5PIpXtGuXJg7f
+ ncT3i3uiu9fx3otcUR61vdsXOswO8jmJgN8TUHw3BruBX6ODfR2YK5lyIScB
+ Z6.QaXKAramNrDcfaB3BxORDjpqph6sHycguNGax6PiTQH4x3pK4UEyRANv_
+ 2pwcSqWOViRaRZuN7J3q99uywgtde7r.gYUJu5QK02MwxDRng_WuQ3QPF_zS
+ CjWcGM1A_Imdg77mVVki7iOoDDWp7Ntw.THsC81m.vV5K6ujfzdOlw.W4tqS
+ Js.KvJ6DJGAAMzAmIN2Fbn3oO6SIDkhLfU8cwVeZ2cLpV5scARUFFiQPqIAy
+ qX.fvzL3NP_Bw7GEbd8XwTwDwCfJv0ZCpQnbflGl8b8YXjom0VNKc6INKUXu
+ AdMsMcMD7wVyW5suN8Ah6hZ7c5gUBHgI0HgGLrzqGqLbqoZLMqb_I8W6uaMw
+ Hx07K53a9EDpgCTa9grMqLlsKwyqQH1.U4Ae2TtyFee15rtyhlhVznQGkYu.
+ TxYiP8piADOcRKGub4yj9kcKp0m.l90uW2jTnI0QhBpke7HnyUbnS09UqCsG
+ CgtZ3268JlO2Q4fSi.ERQtOAXcKrG.stqXuRy.CT4pMr1L6ewbKamzCTjBQ9
+ 9PDHAtRbFU3mfMHWIWV6Bqh9WcIvppgY9qXfu4_zkUI8Vd5Hsyn_6omMm6X1
+ JmAyp8BiyvUkYAu9W3CgQr51XuhNBoU_pDA6FVNr.NXWCfYmOQwysjurZN75
+ ZKH6v9t1bPB5acU7I.l4QtUja3jn3KwOxhx2MhveP3PNi4TovyMrFQc3jUzp
+ qTcxgCxShMFLTHwrhw05jaHIQZvW.Kt6518HbFuBk8.H4BNCpGy0hf76nLtn
+ rmIAdIaDXsaX9mCj8ECGBK_UgRJJwNr1p8ZbO2UsJma6faJ.66X3OIDqy4lt
+ 9pi2.x_5AB.y3NHs7JTqdGHlg97v0C_1CKKJ0bbRIxx4mB1Sy0_tjjrXi1F4
+ IzRL0nBE0yhHMqWb4kiSoLxCxAgz0dWdrBJ1.V4dBeUWku3iuRpnxlO.7EnQ
+ NWWCZGawOMamFWq1GbWE84F1X.H0e_fXJoqviNfaGgDPtRgGV9Bw5KhAwaCm
+ Z4OZteR0Y8Brj7.DDDf_aY11ukkv1ye6.p44aZ1KdOkCV20EakZRotOHU.Gd
+ CgmVD3eF737sXbIsxG27tfD3XXg7wsXoe_MDKD_nu8z61D.cqha0uMib_YW.
+ 4la9y1CBiQdVdndFIzJhyDrXUph_aDZBx7Au.SBZaWKv4x_z7WtWfUHJqeaM
+ ztX4uT7JyjBBofLNoTwsjyN1OYPZZ6aTgOODF8Wf9aQDAXCma0eFNq9sdopf
+ UeEp6m2EANCmYC.GlypJa8Eycp8td267tzjGNUbTc7nb0hCHNfZcTnbd8mfY
+ wCFYPHHubGi67L7w6.JKahyEJ4QuRioqUo39dbBz2BFGXn4hqI2glFKgsRnS
+ 7HzXzn6teMqJETv09_xSfXEVQPyjG.SXt_tDvdqXKkyUICKdGBpr.cLibT4H
+ 1KRFerNAH4pEYjOtjPAqVCOeF7XR3Rk8FP02hhsTRcNIwRVkFs4bQebNAOwA
+ Ty5gP7Ww2ekdPXbR8B91Vv8H0HFIg4UDNIsYc4X7lvYbl8dnnks8XA8AyKLy
+ lbidYddb56GE_Fp1fsDVzBUgickZl1msngVLWyieRdyPzcrQeC9naqFEAjfU
+ DQlvfE8aIje0.K.mwN5pbM.kDFhiUIEekMODs9zXHBEVeOxfDfommK.fpKVO
+ 9vgNXMzlCgfY7b0UjmKta7hSEzeVYxDUZGPlj5VjzTyxXXxmxMspmRK37JHS
+ RtvguGPayd58O7IuvWmG1MFTk.3ZE0V7pkGeMbjnIbn6i6cR00L2gD9oT1dB
+ px3.S3uhGj1zkqe9xDuR6vhlfOnh3xtQJDIi9AhVLC9SiC7ukI41T2oOejWC
+ IEErpnKFOfdWcccwb38cPxjm1hfxU
+X-Received: from [84.62.62.147] by web161616.mail.bf1.yahoo.com via HTTP; Tue, 20 Sep 2011 21:30:22 PDT
+X-Mailer: YahooMailWebService/0.8.113.315625
+References: <CAHoRuqD38fFJmSwfo9ReCkVkam0ePBHMk4codUREJyyJfyM4Zg@...> <005001cc7815$711c05d0$0401a8c0@server>
+Message-ID: <1316579422.20217.YahooMailNeo@...>
+Date: Tue, 20 Sep 2011 21:30:22 -0700 (PDT)
+To: "vedic-wisdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com>
+In-Reply-To: <005001cc7815$711c05d0$0401a8c0@server>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-734062349-1316579422=:20217"
+X-Originating-IP: 98.139.213.165
+X-eGroups-Msg-Info: 1:12:0:0:0
+From: ram ms <msramplus@...>
+Reply-To: ram ms <msramplus@...>
+Subject: Re: [vedic-wisdom] Durga Sapthasathi
+X-Yahoo-Group-Post: member; u=159061851; y=2UXVjpOvtmOq6u82ppESvSCSeXQ54sKlYnbSGBDC1BB_Qksc
+X-Yahoo-Profile: msramplus
+
+
+--0-734062349-1316579422=:20217
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Dear All,
+
+I understand that one should read Durga Saptasathi only after re=
+ceiving proper initiation. 
+
+
+Could anyone let me know, if there are simila=
+r restrictions for reading Durga SaptaShloki of 7 verses?
+
+Regards
+Sairam
+
+=
+
+
+________________________________
+From: "eastro@..." <eastro@dataon=
+e.in>
+To: vedic-wisdom@yahoogroups.com
+Sent: Wednesday, September 21, 2011 =
+6:17 AM
+Subject: Re: [vedic-wisdom] Durga Sapthasathi
+
+
+=C2=A0 
+Here is the=
+ link
+http://www.youtube.com/watch?v=3DTdVnlnE6ddM
+=C2=A0
+=C2=A0
+With warm =
+regards,
+=C2=A0
+G Kumar
+Financial Astrology Scholar
+http://www.stockmarketa=
+strology.com
+=C2=A0
+
+Live Streaming Cricket at
+http://www.cricketastro.com
+=
+=C2=A0
+=C2=A0=C2=A0 
+----- Original Message ----- 
+>From: Astro  Sishya 
+>T=
+o: vedic-wisdom@yahoogroups.com 
+>Sent: Wednesday, September 21, 2011 8:41 =
+ AM
+>Subject: [vedic-wisdom] Durga  Sapthasathi
+>
+>=C2=A0 
+>Dear All,
+>
+>Ca=
+n any one please point me to links for Audio and Telugu 
+  PDF for Durga Sa=
+ptasathi? You will be doing me a great favor.
+>
+>Thanks in 
+  advance,
+>Sri=
+nivas
+>
+>
+>On Tue, Sep 20, 2011 at 3:00 PM, agnijihva <agnijihva@...>=
+ wrote:
+>
+> 
+>>=C2=A0 
+>>
+>>
+>>OM guM gurubhyo namaH - gaM gaNapataye namaH=
+ - saM saraswatyai namaH  ..
+>>
+>>
+>>=C2=A0Namaste,
+>>
+>>
+>>=C2=A0 Part 8 o=
+f 14 -
+>>
+>>
+>>=C2=A0 Link to image if you want to have this in devanagari =
+- =C2=A0http://www.4shared.com/photo/TfZe_4le/1001508.html=C2=A0
+>>
+>>
+>>=
+=C2=A0 Link to Audio of this rik -http://www.4shared.com/audio/MsEHYdZW/RV1=
+0158.html=C2=A0
+>>
+>>
+>>=C2=A0 if there are any mistakes in these translati=
+ons would request  learned ones to please correct and guide.
+>>=C2=A0 =C2=
+=A0
+>>##samhitaa##
+>>ye naH\_ puurve\' pi\_taraH\' so\_myaaso\'.anuuhi\_re =
+so\'mapii\_thaM  vasi\'ShThaaH =C2=A0|\\
+>>tebhi\'rya\_maH saM\'raraa\_No h=
+a\_viiMShyu\_shannu\_shadbhiH\'  pratikaa\_mama\'ttu =C2=A0|| ##10.015.08##=
+=C2=A0
+>>
+>>
+>>##pada##
+>>ye naH\_ puurve\' pi\_taraH\' so\_myaasaH\' a\_nu=
+u\_hi\_re  so\_ma\_pii\_tham vasi\'ShThaaH =C2=A0|\\
+>>tebhiH\' ya\_maH sa\=
+_Mra\_raa\_NaH ha\_viiMShi\' u\_shan u\_shadbhiH\'  pra\_ti\_kaa\_mam a\_tt=
+u\_ =C2=A0|| ##10.015.08##=C2=A0
+>>
+>>
+>>##pada2##
+>>ye naH puurve pitaraH =
+somyaasaH anu-uhire soma-piitham vasiShThaaH  =C2=A0|\\
+>>tebhiH yamaH sam-=
+raraaNaH haviiMShi ushan ushat-bhiH prati-kaamam attu  =C2=A0|| ##10.015.08=
+##=C2=A0
+>>
+>>
+>>ye##those## naH##our## puurve##former## pitaraH##pitru dev=
+ataas##  somyaasaH##soma loving## anu-uhire##drive## soma-piitham##soma dri=
+nk##  vasiShThaaH##the Vasishistaas/most noble## =C2=A0|\\
+>>tebhiH##with t=
+hem## yamaH##Yama## sam-raraaNaH##sharing the gifts##  haviiMShi##offerings=
+## ushan##the glad one## ushat-bhiH##with willingness##  prati-kaamam##acco=
+rding to wish## attu##eat## =C2=A0||  ##10.015.08##=C2=A0
+>>
+>>
+>>Translati=
+on -=C2=A0
+>>=C2=A0 Those fore fathers of ours, who are soma loving, who fa=
+re after  vasiShThaah to the soma drinks,
+>>=C2=A0 with them let Yama, shar=
+ing their gifts, he who is the glad one  with willingness, eat the oblation=
+s according to wish.
+>>
+>>
+>>Interpretation -
+>>=C2=A0 =C2=A0pitru devataas=
+, who are soma loving are driven here by  vasiShTaah's, vasiShTaah's also m=
+ean the most noble, and in this context it  can mean the noble Yama who lea=
+d the pitru devataas and brought them to soma  drinks, soma drinks can mean=
+ the oblations over here. vasiShtaas/most noble  can also mean agni and per=
+haps now the interpretation can be like - pitru  devataas who are soma lovi=
+ng have been made worthy of soma drinks [uuh means  consider, and anu-uhire=
+ could mean who have been considered worthy] by  vasiShTaah's/the most nobl=
+est one/agni.
+>>=C2=A0 Yama the glad one[ushan] with the pitru devataas who=
+ have been  led to our place (by Yama), share the gifts of pitru devataas (=
+rayiM, ref  10.015.07). Yama since has led the pitru devataas is also offer=
+ed the  oblations and Yama is requested to accept the offerings with  willi=
+ngness[ushadbhiH] and consume[attu] them at 
+pleasure[pratikaamaM].
+>>
+>>
+>=
+>
+>>
+>>=C2=A0references: The Internet, Vedic reader by A.A. MacDonell, Moni=
+er  Williams andMac Donell dictionaries via Mudgala Kosha, Roots and Verb-F=
+orms  by W.D.Whitney, Vedic Grammar by AA MacDonell, all these references a=
+re  freelyavailable on the internet.
+>>=C2=A0
+>>Regards,
+>>sarma.
+>>
+>>
+>
+ 
+--0-734062349-1316579422=:20217
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"color:#000; background-color:#fff; font-family:ta=
+homa, new york, times, serif;font-size:10pt"><div><span>Dear All,</span></d=
+iv><div><br><span></span></div><div><span>I understand that one should read=
+ Durga Saptasathi only after receiving proper initiation. <br></span></div>=
+<div><br><span></span></div><div><span>Could anyone let me know, if there a=
+re similar restrictions for reading Durga SaptaShloki of 7 verses?</span></=
+div><div><br><span></span></div><div><span>Regards</span></div><div><span>S=
+airam</span></div><div><br></div><div style=3D"font-family: tahoma, new yor=
+k, times, serif; font-size: 10pt;"><div style=3D"font-family: times new rom=
+an, new york, times, serif; font-size: 12pt;"><font face=3D"Arial" size=3D"=
+2"><hr size=3D"1"><b><span style=3D"font-weight:bold;">From:</span></b> "ea=
+stro@..." <eastro@...><br><b><span style=3D"font-weight=
+: bold;">To:</span></b> vedic-wisdom@yahoogroups.com<br><b><span style=3D"f=
+ont-weight:
+ bold;">Sent:</span></b> Wednesday, September 21, 2011 6:17 AM<=
+br><b><span style=3D"font-weight: bold;">Subject:</span></b> Re: [vedic-wis=
+dom] Durga Sapthasathi<br></font><br><div id=3D"yiv53188973">
+
+
+
+
+
+
+
+
+
+
+
+
+
+=
+ 
+<span style=3D"display:none;"> </span>
+
+
+
+    <div id=3D"yiv53188973=
+ygrp-text">
+      
+      
+      <div>
+
+
+</div><div><font face=3D"Arial" siz=
+e=3D"2">Here is the link</font></div>
+<div><a rel=3D"nofollow" target=3D"_b=
+lank" href=3D"http://www.youtube.com/watch?v=3DTdVnlnE6ddM"><font color=3D"=
+#0000ff">http://www.youtube.com/watch?v=3DTdVnlnE6ddM</font></a></div>
+<div=
+><font face=3D"Arial" size=3D"2"></font> </div>
+<div><font face=3D"Ari=
+al" size=3D"2"></font> </div>
+<div><font face=3D"Arial" size=3D"2">Wit=
+h warm regards,</font></div>
+<div> </div><font face=3D"Arial" size=3D"=
+2">
+<div><br>G Kumar<br>Financial Astrology Scholar<br><a rel=3D"nofollow" =
+target=3D"_blank" href=3D"http://www.stockmarketastrology.com">http://www.s=
+tockmarketastrology.com</a></div>
+<div> </div>
+<div><br>Live Streaming=
+ Cricket at<br><a rel=3D"nofollow" target=3D"_blank" href=3D"http://www.cri=
+cketastro.com">http://www.cricketastro.com</a></div>
+<div> </div>
+<div=
+> </div>
+<div></div></font> 
+<blockquote style=3D"BORDER-LEFT:#00=
+0000 2px solid;">
+  <div style=3D"FONT:10pt arial;">----- Original Message =
+----- </div>
+  <div style=3D"BACKGROUND:#e4e4e4;FONT:10pt arial;"><b>From:<=
+/b> 
+  <a rel=3D"nofollow" title=3D"astro.sishya@..." ymailto=3D"mail=
+to:astro.sishya@..." target=3D"_blank" href=3D"mailto:astro.sishya@gm=
+ail.com">Astro 
+  Sishya</a> </div>
+  <div style=3D"FONT:10pt arial;"><b>To=
+:</b> <a rel=3D"nofollow" title=3D"vedic-wisdom@yahoogroups.com" ymailto=3D=
+"mailto:vedic-wisdom@yahoogroups.com" target=3D"_blank" href=3D"mailto:vedi=
+c-wisdom@yahoogroups.com">vedic-wisdom@yahoogroups.com</a> 
+  </div>
+  <div=
+ style=3D"FONT:10pt arial;"><b>Sent:</b> Wednesday, September 21, 2011 8:41=
+ 
+  AM</div>
+  <div style=3D"FONT:10pt arial;"><b>Subject:</b> [vedic-wisdo=
+m] Durga 
+  Sapthasathi</div>
+  <div><br></div><span> </span> 
+  <div =
+id=3D"yiv53188973ygrp-text">
+  <div>Dear All,<br><br>Can any one please poi=
+nt me to links for Audio and Telugu 
+  PDF for Durga Saptasathi? You will b=
+e doing me a great favor.<br><br>Thanks in 
+  advance,<br>Srinivas<br><br>
+=
+  </div><div class=3D"yiv53188973gmail_quote">On Tue, Sep 20, 2011 at 3:00 =
+PM, agnijihva <span dir=3D"ltr"><<a rel=3D"nofollow" ymailto=3D"mailto:a=
+gnijihva@..." target=3D"_blank" href=3D"mailto:agnijihva@...">a=
+gnijihva@...</a>></span> 
+wrote:<br>
+  <blockquote class=3D"yiv531=
+88973gmail_quote" style=3D"BORDER-LEFT:rgb(204,204,204) 1px solid;"><u></u>=
+
+    <div style=3D"BACKGROUND-COLOR:rgb(255,255,255);"><span> </span> =
+
+    <div>
+    <div>
+    <div>
+    
+    <div><br></div>
+    <div>OM guM gur=
+ubhyo namaH - gaM gaNapataye namaH - saM saraswatyai namaH 
+    ..</div>
+  =
+  <div><br></div>
+    <div> Namaste,</div>
+    <div><br></div>
+    <di=
+v>  <b>Part 8 of 14 </b>-</div>
+    <div><br></div>
+    <div>  Li=
+nk to image if you want to have this in devanagari -  <a rel=3D"nofoll=
+ow" target=3D"_blank" href=3D"http://www.4shared.com/photo/TfZe_4le/1001508=
+.html">http://www.4shared.com/photo/TfZe_4le/1001508.html</a> </div>
+ =
+   <div><br></div>
+    <div>  Link to Audio of this rik -<a rel=3D"nof=
+ollow" target=3D"_blank" href=3D"http://www.4shared.com/audio/MsEHYdZW/RV10=
+158.html"> 
+    http://www.4shared.com/audio/MsEHYdZW/RV10158.html</a> =
+;</div>
+    <div><br></div>
+    <div>  if there are any mistakes in th=
+ese translations would request 
+    learned ones to please correct and guid=
+e.</div>
+    <div>   </div>
+    <div>##samhitaa##</div>
+    <div>=
+ye naH\_ puurve\' pi\_taraH\' so\_myaaso\'.anuuhi\_re so\'mapii\_thaM 
+    =
+vasi\'ShThaaH  |\\</div>
+    <div>tebhi\'rya\_maH saM\'raraa\_No ha\_v=
+iiMShyu\_shannu\_shadbhiH\' 
+    pratikaa\_mama\'ttu  || ##10.015.08##=
+ </div>
+    <div><br></div>
+    <div>##pada##</div>
+    <div>ye naH\_ =
+puurve\' pi\_taraH\' so\_myaasaH\' a\_nuu\_hi\_re 
+    so\_ma\_pii\_tham va=
+si\'ShThaaH  |\\</div>
+    <div>tebhiH\' ya\_maH sa\_Mra\_raa\_NaH ha\=
+_viiMShi\' u\_shan u\_shadbhiH\' 
+    pra\_ti\_kaa\_mam a\_ttu\_  || #=
+#10.015.08## </div>
+    <div><br></div>
+    <div>##pada2##</div>
+    <=
+div>ye naH puurve pitaraH somyaasaH anu-uhire soma-piitham vasiShThaaH 
+   =
+  |\\</div>
+    <div>tebhiH yamaH sam-raraaNaH haviiMShi ushan ushat-b=
+hiH prati-kaamam attu 
+     || ##10.015.08## </div>
+    <div><br>=
+</div>
+    <div>ye##those## naH##our## puurve##former## pitaraH##pitru deva=
+taas## 
+    somyaasaH##soma loving## anu-uhire##drive## soma-piitham##soma =
+drink## 
+    vasiShThaaH##the Vasishistaas/most noble##  |\\</div>
+   =
+ <div>tebhiH##with them## yamaH##Yama## sam-raraaNaH##sharing the gifts## 
+=
+    haviiMShi##offerings## ushan##the glad one## ushat-bhiH##with willingne=
+ss## 
+    prati-kaamam##according to wish## attu##eat##  || 
+    ##10.=
+015.08## </div>
+    <div><br></div>
+    <div>Translation - </div>=
+
+    <div>  Those fore fathers of ours, who are soma loving, who fare =
+after 
+    vasiShThaah to the soma drinks,</div>
+    <div>  with them =
+let Yama, sharing their gifts, he who is the glad one 
+    with willingness=
+, eat the oblations according to wish.</div>
+    <div><br></div>
+    <div>I=
+nterpretation -</div>
+    <div>   pitru devataas, who are soma lo=
+ving are driven here by 
+    vasiShTaah's, vasiShTaah's also mean the most =
+noble, and in this context it 
+    can mean the noble Yama who lead the pit=
+ru devataas and brought them to soma 
+    drinks, soma drinks can mean the =
+oblations over here. vasiShtaas/most noble 
+    can also mean agni and perh=
+aps now the interpretation can be like - pitru 
+    devataas who are soma l=
+oving have been made worthy of soma drinks [uuh means 
+    consider, and an=
+u-uhire could mean who have been considered worthy] by 
+    vasiShTaah's/th=
+e most noblest one/agni.</div>
+    <div>  Yama the glad one[ushan] wit=
+h the pitru devataas who have been 
+    led to our place (by Yama), share t=
+he gifts of pitru devataas (rayiM, ref 
+    10.015.07). Yama since has led =
+the pitru devataas is also offered the 
+    oblations and Yama is requested=
+ to accept the offerings with 
+    willingness[ushadbhiH] and consume[attu]=
+ them at 
+pleasure[pratikaamaM].</div>
+    <div><br></div>
+    <div><br></d=
+iv>
+    <div> references: The Internet, Vedic reader by A.A. MacDonell=
+, Monier 
+    Williams andMac Donell dictionaries via Mudgala Kosha, Roots =
+and Verb-Forms 
+    by W.D.Whitney, Vedic Grammar by AA MacDonell, all thes=
+e references are 
+    freelyavailable on the internet.</div>
+    <div> =
+;</div>
+    <div>Regards,</div>
+    <div>sarma.</div>
+    <div><br></div></=
+div>
+    <div style=3D"COLOR:rgb(255,255,255);"></div></div></div></div></b=
+lockquote></div><br>
+  </div>
+</blockquote>
+
+    </div>
+     
+
+
+
+ 
+
+
+
+
+
+</d=
+iv><br><br></div></div></div></body></html>
+--0-734062349-1316579422=:20217--
+
+

@@ -1,0 +1,256 @@
+From vijayakumarkiruba@...  Wed Feb 17 11:10:03 2016
+Return-Path: <vijayakumarkiruba@...>
+X-Sender: vijayakumarkiruba@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 89766 invoked from network); 1 Jan 2012 06:36:23 -0000
+X-Received: from unknown (98.137.35.160)
+  by m4.grp.sp2.yahoo.com with QMQP; 1 Jan 2012 06:36:23 -0000
+X-Received: from unknown (HELO nm30-vm0.bullet.mail.bf1.yahoo.com) (98.139.213.126)
+  by mta4.grp.sp2.yahoo.com with SMTP; 1 Jan 2012 06:36:22 -0000
+X-Received: from [98.139.212.145] by nm30.bullet.mail.bf1.yahoo.com with NNFMP; 01 Jan 2012 06:36:22 -0000
+X-Received: from [98.139.212.205] by tm2.bullet.mail.bf1.yahoo.com with NNFMP; 01 Jan 2012 06:36:22 -0000
+X-Received: from [127.0.0.1] by omp1014.mail.bf1.yahoo.com with NNFMP; 01 Jan 2012 06:36:22 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 24832.44115.bm@...
+X-Received: (qmail 52730 invoked by uid 60001); 1 Jan 2012 06:36:21 -0000
+X-YMail-OSG: apkBmXkVM1mRRYL5KNYqPIrTHQy0veTQd7iAvW89Poo5LjW
+ LOmctySboV1ToQEOJf.lzkuLTusDBABKlwiwRHkVPxo09SAm2nkL_DEyVQc_
+ 85Fop47KJ6iTRBuTzFNW4mvIIVzyrBIcaYwkRn8FyLHzsrcmlWAqtAnw2t63
+ 0VDNLEPQOzVoFthFRY7IrS_8Y4.WRpij5A5eXFil_lSOmLCpK0iunvWsRwf8
+ ohmRj9x1_KHkIZyVOUoXnNXonEThDOEdQRvrjcdlwrVELfNVjHYJer2vPT3j
+ pBkuTmdiriebJpg7uxqf9o3i_ZZGuugIWliGzdKsUlSb4Xusr11zmgth1Lhy
+ 1BAtlma5Wn.8FM2.DSKSHf6fhn00mP9wNm07ljgA4M23umw6RY4UUDI3Y71N
+ bh4vU8gq.Io6l.YanuJyt7E6gzJFfDtdqdaetyyT5HM8tWnGsO_jZAN1zy.L
+ okfRoTBiDxbZBRMC.1fu0z939G2_InTdsgqvGKNnqa0Z5N7TVe5gA5GFiu.I
+ oAYziu.rPYc6rToI4SlbiDkgI5UVO6Vz5_bkeg61e0QOzuK_uBfXl5a4aUCp
+ VwQhlOElMKgE9X9l_X3LuR8DqFzmXNPSxjWd4Yj1IfUy_fAOYDI35TGytexf
+ Nh1uPdav1Bh6M1rW1CzmiviAx76bFzSYaeYeCi4y6IVURRe9SB0MN_WLw7ZV
+ mVp9dyEPKqXRrxtF3FE11YT.PEEKDXvzQiJOO6MzwwUnewk0uphz5feVPCMO
+ Xb_EfW8efdPu9_sUmD6Jb74d0EH9X0M92oSp4m3opom2mwJ2UHWVbaVZQglE
+ UbAusud1MPquRFAoDjjjvcRLb1j27DE1kXYJ6phB_G70nuusj_NlJRrvGGgX
+ Gf8j18646Z6ZdYz14FtcFYGkPcEO73uuqwMLw1rExuEHJNRNQjqTswkHj5Mw
+ 8.xwhVQctgNsCMaSZSugUSy2ZVTn45ArqYlSc.9YywXtByQ26vC8_HR5H.El
+ f0OWlX63U28mUgZLpglVEm20UwLvqYh3.DBGZ.uiGZw3bOkJ3jI4OT2R.aq_
+ Qv8GUrDN_b45kGepWTwJ2KocuS9ll9DL6FijE2yQG9SAit1EwRmFdkwFJR87
+ H9nShJHkgpLmj3UA0fmMxqUeG3z4.XyD5V438HqtO10wTVxjSikmD.C.Gn50
+ yXwMEYIagkxQPyz0emPLJWz4kskunrO5spgrGQrlsq2nEjYTOdtLK_zedAVP
+ TxfKauW3myxcIeNfwpj9YPB_SyNUtjbzM.B3f3AHtSz22ROOOWFoV9EE.1sS
+ Y77GYnAAJvYk3McoTopakRvkHS5I5IfhWnHxmVUqNXmVXZaIBBEg2UFISzpm
+ k6KQqCjX9Da9lyQX8aMZUkrJpM.wW0znkMC6kIQKTZmBZj_ibdoYhtJaMTHm
+ AJC4kqONluO_eapxBkRMkEl4QcdOCYgISfvU7eyhDP1BJmUn9Bvatr9_EWJ2
+ uPeIeTq0AuCZEsf44TMEEWPVE_7zzSTnmyRzMczcudhLeufC.g_6PI7IVbJB
+ 9S0Z.o0GqQ4QrgrnCOdA_PeDnuvCzJ.eHSjSGyK0xm_pveRwkPSHAjJ3u38c
+ TRDmuuWfWlqVgT899WPFpEbfQGuBJFvG4IgfSYLID9A0ybxvhl00RFS.GNjG
+ A8b_sDCa0l8TnBOBUTrFiVbmvZ_PGMWzdSxQ0UiSirIPetcTDpMVUzi0Jcu8
+ RWCIOHTZJyZZIgMk4IY4WCruBRlxM70sgNq.W0Q5mVYNCghryjlgcrJ4GFbI
+ zh_7D1P.uRJN2kOsa4bLHyhtimjJCivfUei0vElqkY8_b8yRaS.rn1.2gQ92
+ XmiSANAjnOosDSx.zkagcLmN8wXNcmJp_Oxb0XyuXUuRiVhoqAQONtW_XOei
+ F0XovwKrSNDzNPVhU2AxrDrxeb7rtqF.JPiaHUhLixTz1NC9HdcyQ96iyPpA
+ Iskp6PfnRmSBRN1Odk6MmfE2kaXnHf0i53cYGbdQ2OQklph7cK2podAER88N
+ iwbfeWX.W5PmIBQKu5YLRkhgCgdA0CrTHpQxjg8x2bdhyVwR0JQTuBFsndPa
+ UGFZoxc889_5QbqgDkylJtmdWPTUQ4KPV1I_VqDdzfAC_s.dX3Up6JLX0H1Y
+ bli9ioPLXtoR_qA1ycBBs14aA2zGptG42ykH7W94d3jDGuoZQRDzQRg.PGtV
+ B.xCACtobdLBs_7T0sbF9CZWY5CTwEZ_KPt.7fxk3XQyigQp.VPNOBwGpZDS
+ 2wz11CUZTqXeY87JhKrVrYaNe5SvZb7MlpyO91K0nxEwO34tGXTqQLrgq3I7
+ q3S0sEfN2YWRRYbho90mF_M33t9C_TbVUdkWAPFG1RgOyW.IeDZUQd5GleMi
+ 8k.pt.KTFfIO7XxnSZYsuHf757ridZX0PwIvGYOKPWrWKqTe.lP6CePGToMA
+ lJ_MuCO0BieF_UDxyErjLBs0qdftfdeMGY5cO1LICTIeRM6e_Su6JpiwcMq3
+ LSJcxufzEPNbnBEd148sBO4_2X0SGMPSVvHClo44fUJYMfh9DPcozGkGh.FX
+ el0Uasng50glMrJ.XAAYf3c4t3nrW7YfFcEd3vk8je1fU5kM6.4zVZhZ77.Z
+ gMwV2fAv503ZkABoiyTcxDXPSqHPZbHxJlU5eitL6dmgk3UBXEwNoBWkCsJG
+ FoajMx644zi7Dkib47_RGKeYbYPUIQDpMfqDhvRc7eHh3MCORG_xXOwYL9CX
+ F88.AoVUXCWc1mCrGl5ZRbKTYNRVskqY5PNU8y5bjBnJpeOvMEAgVCJA0DUQ
+ PlTYO77Wn.7ChBYlwpu_aPGfLSJd0N2jkd6jCrKd93L6UJDpmU6jRUdRL2Gf
+ 2i_lmT1GWu1ZyFg360l2FBK5wuz4uYwYaKs3Vr5go_ezslBrgEih_rjf4zGP
+ Irl7dxiKtj0YhWy.BJy124b3DdeY1D6krvRdrjgvJXXT3NzfMj70aT8AZOJz
+ xkJE32L5dQw0_j9l3ZvWn7fbRo7NnBToWEkZ7QgJPkNAnou6iKeRlMkJ6r8u
+ H_qoaTuk47UtZBiCGaRAVIsCS9ZSGBhG3yo40yPzZkVB1kGpGDrFg.Sto4Vp
+ oOz1pYkliiYaYg3sdNfgxm0W0DSaDyKkyvBBkvELY2OuMp_5Rb3NywLes5CT
+ 93Z.Ii7E5tfpAsXCQMozdHUyA.OpNSI099hXHHWLgAECRPqlKpfA9ld5qquM
+ yUSobtOBub5lei2ITa3LJLRTI9MCBrvmDB9gfm1KGLw--
+X-Received: from [117.230.34.138] by web161404.mail.bf1.yahoo.com via HTTP; Sat, 31 Dec 2011 22:36:21 PST
+X-Mailer: YahooMailWebService/0.8.115.331698
+References: <1325387907.57093.YahooMailClassic@...> <815798626-1325399053-cardhu_decombobulator_blackberry.rim.net-1869055290-@...>
+Message-ID: <1325399781.34480.YahooMailNeo@...>
+Date: Sat, 31 Dec 2011 22:36:21 -0800 (PST)
+To: "vedic-wisdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com>
+In-Reply-To: <815798626-1325399053-cardhu_decombobulator_blackberry.rim.net-1869055290-@...>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="1038709272-386879651-1325399781=:34480"
+X-Originating-IP: 98.139.213.126
+X-eGroups-Msg-Info: 1:12:0:0:0
+From: vijyakumar <vijayakumarkiruba@...>
+Reply-To: vijyakumar <vijayakumarkiruba@...>
+Subject: Re: [vedic-wisdom] Happy New Year
+X-Yahoo-Group-Post: member; u=226787774; y=VKfUiaa32ZlJytqTDL4_aX11_ddDQDHvo7lpw846S6a-60RQNUhmqS0Tzv4
+X-Yahoo-Profile: vijayakumarkiruba
+
+
+--1038709272-386879651-1325399781=:34480
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+thanks for greetings, wish you happy new year 2012
+
+with thanks and regards=
+
+vijay 
+
+
+
+________________________________
+ From: "groovyacharya@...=
+" <groovyacharya@...>
+To: vedic-wisdom@yahoogroups.com 
+Sent: Sunday,=
+ 1 January 2012 11:54 AM
+Subject: Re: [vedic-wisdom] Happy New Year
+ 
+
+=C2=
+=A0 
+We cannot change our past.We cannot bring the FUTURE to the present BU=
+T we CAN enscript a memorable present to make it a unique past and the memo=
+rable past builds a splendid bridge for a fabulous journey towards a magnif=
+icent future.So realise the power of this very moment NOW. HAPPY 2012.
+Sent=
+ from BlackBerry=C2=AE on Airtel
+________________________________
+
+From:  k=
+rishna Kanth <kritels@...> 
+Sender:  vedic-wisdom@yahoogroups.com 
+Da=
+te: Sat, 31 Dec 2011 19:18:27 -0800 (PST)
+To: <vedic-wisdom@yahoogroups.com=
+>
+ReplyTo:  vedic-wisdom@yahoogroups.com 
+Subject: [vedic-wisdom] Happy New=
+ Year
+=C2=A0 
+Pranamam
+=C2=A0
+I wish you all a very very happy New Year 201=
+2 and pray to=C2=A0remain more firm on our paths to self :)=C2=A0=C2=A0
+
+
+S=
+ubhamasthu
+KK 
+ 
+--1038709272-386879651-1325399781=:34480
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"color:#000; background-color:#fff; font-family:ti=
+mes new roman, new york, times, serif;font-size:14pt"><div><span>thanks for=
+ greetings, wish you happy new year 2012</span></div><div><br><span></span>=
+</div><div><span>with thanks and regards</span></div><div><span>vijay </spa=
+n></div><div><br></div>  <div style=3D"font-family: times new roman, new yo=
+rk, times, serif; font-size: 14pt;"> <div style=3D"font-family: times new r=
+oman, new york, times, serif; font-size: 12pt;"> <font face=3D"Arial" size=
+=3D"2"> <hr size=3D"1">  <b><span style=3D"font-weight:bold;">From:</span><=
+/b> "groovyacharya@..." <groovyacharya@...><br> <b><span =
+style=3D"font-weight: bold;">To:</span></b> vedic-wisdom@yahoogroups.com <b=
+r> <b><span style=3D"font-weight: bold;">Sent:</span></b> Sunday, 1 January=
+ 2012 11:54 AM<br> <b><span style=3D"font-weight: bold;">Subject:</span></b=
+> Re: [vedic-wisdom] Happy New Year<br> </font> <br><div id=3D"yiv105325087=
+2">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div>
+<span style=3D"display:none;"> </span>
+
+
+
+    <=
+div id=3D"yiv1053250872ygrp-text">
+      
+      
+      <div>
+
+
+
+
+
+
+
+
+
+
+
+
+We=
+ cannot change our past.We cannot bring the FUTURE to the present BUT we CA=
+N enscript a memorable present to make it a unique past and the memorable p=
+ast builds a splendid bridge for a fabulous journey towards a magnificent f=
+uture.So realise the power of this very moment NOW. HAPPY 2012.</div><div>S=
+ent from BlackBerry=C2=AE on Airtel</div><hr><div><b>From: </b> krishna Kan=
+th <kritels@...>
+</div><div><b>Sender: </b> vedic-wisdom@yahoog=
+roups.com
+</div><div><b>Date: </b>Sat, 31 Dec 2011 19:18:27 -0800 (PST)</di=
+v><div><b>To: </b><vedic-wisdom@yahoogroups.com></div><div><b>ReplyTo=
+: </b> vedic-wisdom@yahoogroups.com
+</div><div><b>Subject: </b>[vedic-wisdo=
+m] Happy New Year</div><div><br></div>
+<span> </span>
+
+
+
+    <div id=
+=3D"yiv1053250872ygrp-text">
+      
+      
+      <table border=3D"0" cellpa=
+dding=3D"0" cellspacing=3D"0"><tbody><tr><td style=3D"font:inherit;" valign=
+=3D"top"><div>Pranamam</div>
+<div> </div>
+<div>I wish you all a very v=
+ery happy New Year 2012 and pray to remain more firm on our paths to s=
+elf :)  <br><br></div>
+<div>Subhamasthu</div>
+<div>KK</div></td><=
+/tr></tbody></table>
+
+    </div>
+     
+
+    
+
+
+
+
+
+
+
+
+
+
+    </div>
+     
+
+
+
+=
+</div>
+
+
+
+
+
+</div><br><br> </div> </div>  </div></body></html>
+--1038709272-386879651-1325399781=:34480--
+
+

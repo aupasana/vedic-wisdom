@@ -1,0 +1,409 @@
+From rajarshi14@...  Wed Feb 17 11:09:59 2016
+Return-Path: <rajarshi14@...>
+X-Sender: rajarshi14@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 66005 invoked from network); 19 Nov 2011 18:03:12 -0000
+X-Received: from unknown (98.137.35.161)
+  by m5.grp.sp2.yahoo.com with QMQP; 19 Nov 2011 18:03:12 -0000
+X-Received: from unknown (HELO nm4-vm0.bullet.mail.in.yahoo.com) (121.101.151.213)
+  by mta5.grp.sp2.yahoo.com with SMTP; 19 Nov 2011 18:03:10 -0000
+X-Received: from [121.101.151.238] by nm4.bullet.mail.in.yahoo.com with NNFMP; 19 Nov 2011 18:03:09 -0000
+X-Received: from [121.101.151.235] by tm3.bullet.mail.in.yahoo.com with NNFMP; 19 Nov 2011 18:04:45 -0000
+X-Received: from [127.0.0.1] by omp1004.mail.in.yahoo.com with NNFMP; 19 Nov 2011 18:03:09 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 499380.72148.bm@...
+X-Received: (qmail 47649 invoked by uid 60001); 19 Nov 2011 18:03:09 -0000
+X-YMail-OSG: BbXIDWwVM1nqH35RJM0ykrnuX5fxqbQTCfyzVdYiuPKIV.U
+ uY8tcMfVmr.29WlFvOQ1NQqh7D5C5dktNCojvial391TFc_f6JIL1pHGNtqc
+ RiTneQrruON4fZ3nwG.JPGohkp_qp9Vn6XotD3_r7qJJbnsA8sZuhpv.pqE1
+ 0fNNLBp_94dnRluDzTDDaOYsCzHvvsdwH9x3v0iEzGMqOX1Qe.hWRjKhWkSQ
+ Z9sm0eUq380YCE0QaGbLpuPG2q1iXhbNpUX2RLF1tftsghWGfOfBdNOcbQgv
+ qadfXM0vXMQAVX1NaQp2AJ1rqeLHg6GvZTWhsZvMZ8vBjf4wRgqdp62Fo9GK
+ rP56PafSV3oEynPKInpMggKD4ySa1IeFoCFOz.NWfXoIsOZ_TpIfM78F2DyP
+ PpKbXtD6HopoTAWlsL75SdNehQWUWljBxgEpoNdVTXlgqtfmjtNozGBcfbCW
+ YLNXLelikj_BH6uQPjr0LpisgvfX0OINWaCMsXNx2N0S1fHhV80sJDH80IDT
+ lKrWtymo6g..qpWR4nl0rYeHJ54uWQZMsxGWqSAjIvbKXWDk7C8pvp9.Hs49
+ 7ZcOyveloMIFvQCinM55AV667fDj5Ts3ETvUCW9ar31t0SUWuJ6ChHE0HwoR
+ aDz8O5bp.Q7mog59tryBOZiKCFEwmhofXMaZj9NpIIucoiF5WrTG.Fh_V6Q5
+ 4u_l8Vc1m.hCsjg31qchQ4GRldWGTFCTFo7aUsOWfR6EvGszD1Ogr9NZd3m4
+ .IfjbwEbT.IAct9iuxBu82chgukhY.crxUoZ06o0wh2_p3M2HeUp12bMboBP
+ sfMwJqvuffn_dv7Pv1VLt690aUPqGuIeAp3Bl1l7HoiU6hwoZ__ct9AX9YdT
+ NX9r6W7MkPJfgZF4rAFAlgV1WcxZuqiyad8c5Y0Oqka.VdaPlbttQO2N8e7Y
+ lcUtpX.13bpnb9j1F_vNajk6e96yuKGBSqlLKKK_JR5YXVIbUt.xLNmeZi8r
+ nA7R34xen1Ism.jvlyF8iIdkjDWbF21BmIqDycHhw.cKwUOSxfetw_r2PjEA
+ atl47gmOa..5yu4yQpuZqb.7qN9Lzc7BBh7a1d..q3aSnDSZZznV0jeX7rOC
+ s2KyqwyW_2qgAD3izw.NAeD.OvlfKLV3pMnSEWB7oCiumiJvsBi4P2SOXs9V
+ nlx5C1YeNO1FJ1z0T1GSfLdvygzp9Xt1ByKWQaOFWnmrGFEr1a7SpJ.qJIWd
+ 6ec_4m4B1ryQKxHw_K7KRO4SeUoH5qkEIjoxZge8ehhbC5MlJ3ka8.W5j3GZ
+ xB7XJ1.oAfnvQSxAwgzIJXwToMvL2e7jnMhKl.9j461Fw7VthKRCmz2GnIpk
+ a.GHL2FaOqNe6jOZPg8TZDfRF8iVtHKRFcj_XRADxnABPKx3kGac.dzEYC2k
+ CW3To5CbtcmTXD836yTEDkmtMKcKxj2KekV.ah_iuDM5haQf22Ou7Qofik5A
+ oQuuYwPaEUs2O_Yqj_nU654LF7xV1SVvJBd.OH95R3IjiLwMhCDEhGoM1n2f
+ 1Wxhe8RGeS0JA.Z2M7BKBfctVNhvdj_TeEcJ7oz5BvRGAKFbnmZ8BWKqmmmi
+ kjcVK9inYgscgdyhmf1wWLuvwNRUo1cPFqS4NrBsaIMQRzGmkuLqoX4Al.xQ
+ 22LgVTBfWEzcZky0rjUt5HcehIgLRbKHZfw3l7zmhd376WtgRTwHyup4P69Y
+ a7xTD6Gklih2YUlJNoBJtUjE8u_5fvkHMSnLOJosJ8a5JPPrjk7.H0l3W3Xz
+ ll_L0p2Yz.ORDwdUpBm_nPq6Ne7l2EIbppo_jK8mqs0Nd6rHzN.XmRALx4K9
+ 0HBT25ahgcRdm0tmKy.H2mAm8Mse8QKM7Ia3MLXnvHgEm7zTN0nGYCHddVLT
+ TEX0p4f9s6VTK5ynmDHOIM1Np_gTp5yReVSxsIvSegKCg.GHo8mjbp.x2ljE
+ C63LEZoTdtFfRftUsBoN8zzcBBIHX3HUVF1SJUXaUITgSFcXj2vMKl5.fHyW
+ ZfhyzQR6tSTe57fLej6w_hVlJWKWWbSVBc_5E03I59qdd1rgwI9Q0jKACxqS
+ r84BJ8ceLFow18MsvCEgDHKZYXbk8rRZ_gqHhQMm1ZFveoph_N7rmYgXMIAk
+ 1E3LjF.qJhwV.lOWTSDb60JIZzBNA5B.wJY1LhM4xJWF1emndy7E1QqtRMi4
+ Q8P3mAkZVhJ7onBJxVNElmcjp4MgVNwWH7JJSwqME6_C6HUEES.I5bH8Jsnw
+ ZT1AXJBkMHGG.2MlGVs82ddFoAVJGZJQv0O359T.9ii95F55L2aEf7lUk60n
+ lsLY_ahUvyc41oaQPW_DBylHjgLLX94xn2_tN10bbnvtM1gkDUrajHRIfXv7
+ .YJ2qoF7egdeUYlHNmtN.8KK2hywuqL7r3JNDffjYQ3M4QP_nfMXmy37Yed.
+ 3EQ7LpOgSKj.fK0IdM5GqgR_cdYI0LBOeQIj5tONhnhwBAO8k.lOflt0jd0U
+ N2JZnJHsN2jJYjplo9gdqWIIv.A2rthUgz9uCTh5_EiVGi84EY9sWPSUGMOV
+ Ti7Miu1ayQePMYo4K6WV69H1SH1MxDBSNaSRQ7PRFrHjaS6wSfE4fSaavBy3
+ aRN3AHyOoZC4oEzUl2zf9GKDqb00vzYYxcMf7LU7fjhwaw2sWGcBNu4vXf9c
+ lRqWmj7nLZxCvkTONX17IxA4TmAmkH24vE9017W8ohPK7ctTWZwDx_Sj0GCh
+ M4WPGRaLe5XrPlRniO1_a7rsoBs_ClMJFsgZtcPqnCifNydJjT2eUJJK_PnL
+ SatJ5KD_uv4cWQogWCO8Wt_xS6JtPY0fJQ1UXqYi_CQ0CU6VtsUdYKq92h_s
+ rSqbmGp4UpZwBSAsYcq1DbdtHhzgqEZJf6yjp.CQ56FvVC.C3bSc1Kb84GH6
+ XflpytMX9.OderiQpWdDQi2FTQiYcLpzS9N7Xr0tXWUhz3QpE_Qv0oYX6Ve2
+ faF3VXLYAE7jJUZaElc0Gs_ZJQKxVU3ewha27emZ.LNRGNVXXhY8keYqw0li
+ aVpDzBDOEl2qkAMEARsOgNER3nL9zbBT8AXCmbASquHZhUsMfpN1w8bd9cmu
+ bZqL_EAWEqlbP.5ah8C_NoJJ8dKPzlIGI91LGyHFQnBVRjebnslKTUJFOdmb
+ s2CCQ5jRDuBipT72ncoWoy1wrYztkr6edhwZVMQ5dg0wlNjWnnvAzELboe6T
+ z3aScok9.bukAgWJ7ffPIGuYuAUVrDbDATFxdSRlBJy2_7MCbB5M779Ft_K.
+ a9PeYWXWglOnNTaWUTVTjJZtO2jDnE68l6NoEPt8k0LzE9mM6
+X-Received: from [14.97.219.168] by web95505.mail.in.yahoo.com via HTTP; Sat, 19 Nov 2011 23:33:08 IST
+X-Mailer: YahooMailWebService/0.8.115.325013
+References: <1321426596.40259.YahooMailNeo@...> <ja0sgu+sar1@...>
+Message-ID: <1321725788.45040.YahooMailNeo@...>
+Date: Sat, 19 Nov 2011 23:33:08 +0530 (IST)
+To: "vedic-wisdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com>
+In-Reply-To: <ja0sgu+sar1@...>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="-1604987517-592581497-1321725788=:45040"
+X-Originating-IP: 121.101.151.213
+From: rajarshi nandy <rajarshi14@...>
+Reply-To: rajarshi nandy <rajarshi14@...>
+Subject: Re: [vedic-wisdom] Re: Why Sapthshati mantras is called Siddha mantra?
+X-Yahoo-Group-Post: member; u=216162964; y=2cCOsUHK5OhQamUTvZAhES8sfAXySS4c1ncSjeDWoSyi6xEMjw
+X-Yahoo-Profile: rajarshi14
+
+
+---1604987517-592581497-1321725788=:45040
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+=C2=A0Dear Rakesh,
+
+The ChandiPath is a text which can bestow all the four =
+aims of life as mentioned in scriptures - Dharma, Artha, Kama and Moskha. O=
+ne who does a Chandipath thrice a day for a few years at leasts,=C2=A0 ends=
+ up transforming himself completely from being an ordinary, average, limite=
+d, frail human being to a 'god' of sorts. Our religion teaches the transfor=
+mation of how a man becomes a god. Not G-d but god.
+
+Strength, courage, con=
+fidence, devotion, knowledge, application of special knowledge, authority (=
+if one so desires it), power, wisdom, spiritual experiences, liberation, en=
+lightenment etc - everything comes from this one text. It is a whole packag=
+e.=C2=A0
+
+Eventually you get what you crave for deep down. It is not too di=
+fficult to master the text. Some effort, some patience and it can be done. =
+Spend one hour daily practicing the text and in 3 months you can read it wh=
+ole.
+
+Best of luck.
+
+-Regards
+=C2=A0Rajarshi
+
+PS: A small word of caution. =
+Maybe not relevant right now, but if ever by Her will you become an accompl=
+ished Chandi sadhaka in future then this will be of help. Don't ask for any=
+thing when doing Her worship is an ideal situation. If you pray simply as y=
+ou pray in any temple, then too there is not a problem. Praying with humili=
+ty is never a problem. BUT if ever you try out kriyas with Chandi or do the=
+ Chandipath to get xyz results in abc timeframe, (specially during complex =
+forms of worship of Chandi like those involving charnel grounds), then be s=
+ure that you know the precise and exact procedures. There are no half measu=
+res in those. Nishkama worship in complex methods is fine, but desire for m=
+aterial results without the knowledge of the procedures during complex ritu=
+als in begging for trouble, whoever you might be. 
+
+
+Ami Jantra Tumi Jantri=
+
+Ami Ghar Tumi Gharani
+
+Ami Ratha Tumi Rathi
+Jemon Chalao Temni Chali
+=C2=
+=A0
+
+
+
+________________________________
+ From: rakesh.behal <rakesh.behal@y=
+ahoo.com>
+To: vedic-wisdom@yahoogroups.com 
+Sent: Wednesday, 16 November 20=
+11 11:09 PM
+Subject: [vedic-wisdom] Re: Why Sapthshati mantras is called Si=
+ddha mantra?
+ 
+
+=C2=A0 
+Dear Rajarshi,
+
+Can u pls elaborate about durga sap=
+athshati, its benefits, and uses in general man life, also if i have to sta=
+rt reading chapters menas increasing one by one so pls tell me imortance vi=
+z how should i increase
+
+1] 1 m fully comfortable in reading chap 11, now s=
+tarted reading 2, 4,5
+
+regards
+Rakesh
+
+--- In vedic-wisdom@yahoogroups.com,=
+ rajarshi nandy <rajarshi14@...> wrote:
+>
+> Dear Priyank,
+> =C3=82=C2=A0
+> =
+The document refers to samputikaran mantras for the Chandi. Samputikaran is=
+ a process by which you prefix or suffix certain mantras to some texts or o=
+ther mantras to derive certain specific results out of it.
+> =C3=82=C2=A0
+>=
+ There are many more samput mantras for Chandi apart from what that documen=
+t lists. Yes, the Chandi is a siddha text. Siddha in the sense of being "ac=
+complished for Self realization" as well as "siddhis", depending on the inc=
+lination and capacity of the sadhaka and of course Her will.
+> 
+> To unders=
+tand why it is so, one has to do sadhana and keep praying to Her. Intellect=
+ual comprehension falls flat beyond a point. It is plain useless.=C3=82=C2=
+=A0And the sadhana is not a one day/few months/one year or few years proces=
+s. It is=C3=82=C2=A0like an endless ocean, there are simply no limits excep=
+t for the ones you set for yourself in your own mind. One can experience th=
+e highest states of consciousness and yet not be able to comprehend the Cha=
+ndi in totality. 
+> 
+> -Regards
+> =C3=82=C2=A0Rajarshi
+> 
+> Ami Jantra Tumi=
+ Jantri
+> Ami Ghar Tumi Gharani
+> 
+> Ami Ratha Tumi Rathi
+> Jeman Chalao Te=
+mni Chali
+> 
+> 
+> ________________________________
+> From: priyank_priyank =
+<aks_day@...>
+> To: vedic-wisdom@yahoogroups.com
+> Sent: Wednesday, 16 Nove=
+mber 2011 8:09 AM
+> Subject: [vedic-wisdom] Why Sapthshati mantras is calle=
+d Siddha mantra?
+> 
+> 
+> =C3=82=C2=A0 
+> Namaste all, 
+> 
+> Its mentioned a=
+t many places over net that the mantra's in Durga Saptshathi are siddha man=
+tras. is there any particular reference for this as to why they are called =
+so?
+> 
+> http://sanskritdocuments.org/all_pdf/saptashatIsiddhasampuTamantra=
+.pdf
+> 
+> will appreciate guidance in this regard
+> 
+> thanks
+> Priyank
+>
+
+=
+
+ 
+---1604987517-592581497-1321725788=:45040
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"color:#000; background-color:#fff; font-family:ti=
+mes new roman, new york, times, serif;font-size:12pt"><div><span> Dear=
+ Rakesh,</span></div><div><br></div><div>The ChandiPath is a text which can=
+ bestow all the four aims of life as mentioned in scriptures - Dharma, Arth=
+a, Kama and Moskha. One who does a Chandipath thrice a day for a few years =
+at leasts,  ends up transforming himself completely from being an ordi=
+nary, average, limited, frail human being to a 'god' of sorts. Our religion=
+ teaches the transformation of how a man becomes a god. Not G-d but god.</d=
+iv><div><br></div><div>Strength, courage, confidence, devotion, knowledge, =
+application of special knowledge, authority (if one so desires it), power, =
+wisdom, spiritual experiences, liberation, enlightenment etc - everything c=
+omes from this one text. It is a whole package. </div><div><br></div><=
+div>Eventually you get what you crave for deep down. It is not too
+ difficu=
+lt to master the text. Some effort, some patience and it can be done. Spend=
+ one hour daily practicing the text and in 3 months you can read it whole.<=
+/div><div><br></div><div>Best of luck.</div><div><br></div><div>-Regards</d=
+iv><div> Rajarshi</div><div><br></div><div>PS: A small word of caution=
+. Maybe not relevant right now, but if ever by Her will you become an accom=
+plished Chandi sadhaka in future then this will be of help. Don't ask for a=
+nything when doing Her worship is an ideal situation. If you pray simply as=
+ you pray in any temple, then too there is not a problem. Praying with humi=
+lity is never a problem. BUT if ever you try out kriyas with Chandi or do t=
+he Chandipath to get xyz results in abc timeframe, (specially during comple=
+x forms of worship of Chandi like those involving charnel grounds), then be=
+ sure that you know the precise and exact procedures. There are no half mea=
+sures in those. Nishkama worship in complex methods is fine,
+ but desire fo=
+r material results without the knowledge of the procedures during complex r=
+ituals in begging for trouble, whoever you might be. <br></div><div><br><sp=
+an></span></div><div style=3D"font-weight: bold;">Ami Jantra Tumi Jantri<br=
+>Ami Ghar Tumi Gharani<br><br>Ami Ratha Tumi Rathi<br>Jemon Chalao Temni Ch=
+ali</div><div> </div><div><br></div><div><br></div>  <div style=3D"fon=
+t-family: times new roman, new york, times, serif; font-size: 12pt;"> <div =
+style=3D"font-family: times new roman, new york, times, serif; font-size: 1=
+2pt;"> <font size=3D"2" face=3D"Arial"> <hr size=3D"1">  <b><span style=3D"=
+font-weight:bold;">From:</span></b> rakesh.behal <rakesh.behal@...=
+><br> <b><span style=3D"font-weight: bold;">To:</span></b> vedic-wisdom@=
+yahoogroups.com <br> <b><span style=3D"font-weight: bold;">Sent:</span></b>=
+ Wednesday, 16 November 2011 11:09 PM<br> <b><span style=3D"font-weight: bo=
+ld;">Subject:</span></b> [vedic-wisdom] Re: Why Sapthshati mantras is
+ call=
+ed Siddha mantra?<br> </font> <br><div id=3D"yiv2056389812">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<=
+div>
+<span style=3D"display:none;"> </span>
+
+
+
+    <div id=3D"yiv20563=
+89812ygrp-text">
+      
+      
+      <div>Dear Rajarshi,<br>
+<br>
+Can u pls=
+ elaborate about durga sapathshati, its benefits, and uses in general man l=
+ife, also if i have to start reading chapters menas increasing one by one s=
+o pls tell me imortance viz how should i increase<br>
+<br>
+1] 1 m fully com=
+fortable in reading chap 11, now started reading 2, 4,5<br>
+<br>
+regards<br=
+>
+Rakesh<br>
+<br>
+--- In <a rel=3D"nofollow" ymailto=3D"mailto:vedic-wisdom=
+%40yahoogroups.com" target=3D"_blank" href=3D"mailto:vedic-wisdom%40yahoogr=
+oups.com">vedic-wisdom@yahoogroups.com</a>, rajarshi nandy <rajarshi14@.=
+..> wrote:<br>
+><br>
+> Dear Priyank,<br>
+> =C3=82 <br>
+>=
+; The document refers to samputikaran mantras for the Chandi. Samputikaran =
+is a process by which you prefix or suffix certain mantras to some texts or=
+ other mantras to derive certain specific results out of it.<br>
+> =C3=
+=82 <br>
+> There are many more samput mantras for Chandi apart from=
+ what that document lists. Yes, the Chandi is a siddha text. Siddha in the =
+sense of being "accomplished for Self realization" as well as "siddhis", de=
+pending on the inclination and capacity of the sadhaka and of course Her wi=
+ll.<br>
+> <br>
+> To understand why it is so, one has to do sadhana an=
+d keep praying to Her. Intellectual comprehension falls flat beyond a point=
+. It is plain useless.=C3=82 And the sadhana is not a one day/few mont=
+hs/one year or few years process. It is=C3=82 like an endless ocean, t=
+here are simply no limits except for the ones you set for yourself in your =
+own mind. One can experience the highest states of consciousness and yet no=
+t be able to comprehend the Chandi in totality. <br>
+> <br>
+> -Regard=
+s<br>
+> =C3=82 Rajarshi<br>
+> <br>
+> Ami Jantra Tumi Jantri<b=
+r>
+> Ami Ghar Tumi Gharani<br>
+> <br>
+> Ami Ratha Tumi Rathi<br>
+&=
+gt; Jeman Chalao Temni Chali<br>
+> <br>
+> <br>
+> _________________=
+_______________<br>
+> From: priyank_priyank <aks_day@...><br>
+>=
+ To: <a rel=3D"nofollow" ymailto=3D"mailto:vedic-wisdom%40yahoogroups.com" =
+target=3D"_blank" href=3D"mailto:vedic-wisdom%40yahoogroups.com">vedic-wisd=
+om@yahoogroups.com</a><br>
+> Sent: Wednesday, 16 November 2011 8:09 AM<b=
+r>
+> Subject: [vedic-wisdom] Why Sapthshati mantras is called Siddha man=
+tra?<br>
+> <br>
+> <br>
+> =C3=82  <br>
+> Namaste all, <br>
+=
+> <br>
+> Its mentioned at many places over net that the mantra's in D=
+urga Saptshathi are siddha mantras. is there any particular reference for t=
+his as to why they are called so?<br>
+> <br>
+> <a rel=3D"nofollow" ta=
+rget=3D"_blank" href=3D"http://sanskritdocuments.org/all_pdf/saptashatIsidd=
+hasampuTamantra.pdf">http://sanskritdocuments.org/all_pdf/saptashatIsiddhas=
+ampuTamantra.pdf</a><br>
+> <br>
+> will appreciate guidance in this re=
+gard<br>
+> <br>
+> thanks<br>
+> Priyank<br>
+><br>
+<br>
+</div>
+
+ =
+   </div>
+     
+
+
+
+</div>
+
+
+
+
+
+</div><br><br> </div> </div>  </div></body><=
+/html>
+---1604987517-592581497-1321725788=:45040--
+
+

@@ -1,0 +1,312 @@
+From rajarshi14@...  Wed Feb 17 11:10:02 2016
+Return-Path: <rajarshi14@...>
+X-Sender: rajarshi14@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 53043 invoked from network); 12 Dec 2011 09:30:34 -0000
+X-Received: from unknown (98.137.35.160)
+  by m3.grp.sp2.yahoo.com with QMQP; 12 Dec 2011 09:30:34 -0000
+X-Received: from unknown (HELO nm3-vm0.bullet.mail.in.yahoo.com) (121.101.151.212)
+  by mta4.grp.sp2.yahoo.com with SMTP; 12 Dec 2011 09:30:33 -0000
+X-Received: from [121.101.151.237] by nm3.bullet.mail.in.yahoo.com with NNFMP; 12 Dec 2011 09:30:31 -0000
+X-Received: from [121.101.151.233] by tm2.bullet.mail.in.yahoo.com with NNFMP; 12 Dec 2011 09:30:55 -0000
+X-Received: from [127.0.0.1] by omp1002.mail.in.yahoo.com with NNFMP; 12 Dec 2011 09:37:22 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 157739.67136.bm@...
+X-Received: (qmail 65888 invoked by uid 60001); 12 Dec 2011 09:30:31 -0000
+X-YMail-OSG: Vr9qn3kVM1ml.ZQnWPLEbCNF95Uo0gu5fL3oz7azCsWmabG
+ RHCZIxq.QWUh18YFoXRveFNcOWqkkUq3Z4KfZyT_b9CHxtxr3NVSTChKxIi5
+ P_65CPbpOB3gw5YDoYNcaYpuK6CA7907u99sYQJbCmdW7fynrE.UnLRA9TI9
+ sATY7zMwTFq_KoKB4xcYJ0m4.YGVeqm1nlzu2rfT_jZCWf8yGcztG_TnuUBb
+ ERyPh9rf6Zl56w7Oe30VOzW8FgUSg.ZV0IQ_ojwjiglGmbLjrUTleISR1rXF
+ bTiPZBjV4jgZlf_gcgMlcRRSsZAuCyVrshRYaCkcypw8A5xXUgOJqDuvAw0J
+ C5jkRaBOyIogIQc0D9kyYIgs0UwfluIkH_UaYvhNJL70BiE9Jer4R5E1V5Hz
+ 6J4EA1MFjynKyU_bywby8a9bT5Yw81n7ZnxtSW9QXt6qnYyVo_VZox._x.2M
+ Auv2ZpHDz_zYaLTXobg7PBiTmw.BGnkI.XkhFsizGQQbfuhDzObFL3ECF4g9
+ ZPbPsPik0pybEv3etL73hymvJRMxoCXKR3M75umWbsdW7TT8__zIAn8MnDfd
+ 99Yi_4jypLpdLqJ5J6Vof4XdAC4kZoYIzCGa_zVKKuIul9s9eK9pXK2jEJbr
+ zFlSYnMnciTKVLGh6sXKDbFss2.tQ5q_5aB4I8xGyHN70cK6NU90XNG9740Y
+ 9SbSLxZapgT9IsgdTj5shKVJXxrWr90ZNvabJO.a7KUDtDFsFppC1tbB3Q_6
+ nlSnpSu9V.YdEVv5KUH4U2YRsaHhNDc7JtqhLWuIC5l3P1oqP6LIpq3D7AcD
+ mWI4PSz6hs6M0L8R2P2nIoaiuAhbRTqsqePfPpRwFzPIMQToTOP28ooTXpZf
+ 3u_USJa2LsmaSLG9hvlAoUseidcAeEHXyaEJB7LBdRXAGhJ1sN_KjNLKA0HI
+ v44x8t8KN3UZkeCBhE8C2KW6qCO5QL3erp_SUeZ1GPrj6dVObWzp7o9RSS36
+ vIz2bKG8jtWBoSOzczz4t53QAoLJ0qMLgVd1PkfKq7hLewA7jGVO8YdYPPfC
+ Am7Tnv46YtBK5uibYmOPpeAS3aqRTsJnkzQKuEyf61YmiA32W4ypM0zH50CC
+ VNUAPme6j3IzI67NMPRmZr8eJQf7CUazYvZvXCq7kmdzyJuBEvatD2iDE6r4
+ 29ucBTFu3PsvRSSYiUc2cthh2WzRmPSz9d2s1AuVK1RrcnRktHLMsZSNAohw
+ KA0pK9sCejvVaB5Kwf7fTZgzePAaqe.yKXlk8QKkFQwSGT2NyKHnqyUmeFYQ
+ iLmydu32fGoSusa0ITtWz7HLE.xOgs7lUS7J7r1HbJadm9p_nWOSf7RZVkdl
+ Eejk9gIqMs0T8iwtjx4zr6lDsDoS.UW0PlgpRP9FfOtDjkXTH1m_bSxoReIp
+ ctEUrge_CycCMBh5hIP8yjh_gMb2Nss72sa5.RulmjJzqt2m5k.sDwpG6Bqt
+ hyFcboAh39OkXzjGEdYjMVa.vhFsgCRHaPATHzxKz_j8MwJEt3X5qmk3oqvL
+ HQJApua8sDBUopDZG1ocK6kTqzy_HTD_o2YYE9iosAy4OimzT0A49E5pHYi1
+ 2oDVFWSCSrlseh6EGcwo_GGmuhhaLSHck3TaFwfvd8QRyomQRafJ57qptRq8
+ E2Occ.EI2BZ1x88JDUrQ5gB3BorM_HpvTM1vCiZZOlZ0SKyZ8D7VRU11yOQd
+ MPZlOb_1hjowQ7HXCKSkR9IQwx0kRykcRaWiIFiIz8GDX4ZEtDygcCx.U6L4
+ JtRG4fxxj8sBhpFP8xP6GgWuTUVqs6pLdxWv6bacofipC4ZOtVg9lz1KTcE9
+ HJNEmhmMdWHmaTnCRNT0Qu1CPUHEAdkjsYUruPHVLVQg4nbppv0w3D.Yw2ve
+ JSbcb1HqbQJdMMwXKSSRdtSFhJTnFdG4OsjVb5zff9NXOtUczaMhelMfQwe2
+ MRkLWSZnSoOjNuxntk4fHiTrLEAERogvpzGbRip.HGlagn17IQGGYGZPo8o4
+ CAg9y79AyHwQZ_QKxSFWbK1kQT_XYEnJEZNFZ2uH_jC1Fhb7TT2Vv5MN3kx8
+ YdcPov0vLA5Fr.5M9Bx7St6tOu_eUps4nurWoAc3e2DHoVUXPyOzUPBma6Ut
+ w7YwnGcr8E1ql6zJ0fPLaJHqM4hK1P19JMjIeRTDCOdjOviJ9bUZFieRc
+X-Received: from [64.138.135.70] by web95507.mail.in.yahoo.com via HTTP; Mon, 12 Dec 2011 15:00:30 IST
+X-Mailer: YahooMailWebService/0.8.115.331698
+References: <jc27ga+8jgs@...> <1323676988.35386.YahooMailRC@...>
+Message-ID: <1323682230.65015.YahooMailNeo@...>
+Date: Mon, 12 Dec 2011 15:00:30 +0530 (IST)
+To: "vedic-wisdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com>
+In-Reply-To: <1323676988.35386.YahooMailRC@...>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="-1848055611-542863251-1323682230=:65015"
+X-Originating-IP: 121.101.151.212
+X-eGroups-Msg-Info: 1:12:0:0:0
+From: rajarshi nandy <rajarshi14@...>
+Reply-To: rajarshi nandy <rajarshi14@...>
+Subject: Re: [vedic-wisdom] Maha Ganapati Homam Questions
+X-Yahoo-Group-Post: member; u=216162964; y=ckgwhLAezoaTujQhY3vwDBXrkp0bP6-T6m4pRlrEoUbxS8Alag
+X-Yahoo-Profile: rajarshi14
+
+
+---1848055611-542863251-1323682230=:65015
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+
+
+=C2=A0Namaste,
+
+No, initially at least it does not matter too much as lon=
+g as it done with a sense of devotion and surrender. Secondly, there are ma=
+ny states of fire. Fire is a source of energy. Doing a homa is like doing a=
+ satsanga with a very very powerful saint who charges you with energy. When=
+ we think that the fire is dying, and find reddish cinders burning, that to=
+o is a state of fire. The state where it can provide the least amount of sh=
+akti because it is in sleep.
+
+To be able to make sure that the fire does no=
+t die down, one must be able to build a solid connection between internal a=
+nd external fire. This cannot happen in one or even a few years, or maybe e=
+ven one lifetime, if at all it happens.. 
+
+Once when Sai Baba was sitting b=
+eside his dhuni, teh fire suddenly started leaping upto the celing. Sai bab=
+a took his stick, struck a pillar nearby and the asked the fire to calm dow=
+n and fire became normal. THAT is what it means to have real connection wit=
+h fire. In that state, every action of the external fire has a perfect corr=
+espondence with the mind of the person=C2=A0which the person will understan=
+d. And that is teh ideal state when a continuous dhuni can be maintained. B=
+efore that state is achieved,=C2=A0a dhuni is a futile exercise which won't=
+ survive. I know of at least one person who used to maintrain a fire for mo=
+nths and years continuously, but his connection with fire was so strong tha=
+t even if he was a million miles away he would know perfectly what state th=
+e fire was in, whether it needed fuel or not. 
+
+So for most of us, who are =
+only beginners, relighting=C2=A0a fire and doing it with devotion is a simp=
+le, practical and effective mechanism if and when needed.
+
+-Regards
+=C2=A0R=
+ajarshi
+
+
+
+________________________________
+From: Ananda Kishora Dadi <vara=
+ha_2000@...>
+To: vedic-wisdom@yahoogroups.com 
+Sent: Monday, 12 Decem=
+ber 2011 1:33 PM
+Subject: Re: [vedic-wisdom] Maha Ganapati Homam Questions
+=
+
+
+=C2=A0 
+I had experinced the same problem when I do it terrace, homam fir=
+e gets blown away by gusty winds.
+
+I have started putting some chairs=C2=A0=
+ in front of fire=C2=A0kund in a row, to reduce the intensity of the wind a=
+nd to minimize the fire blowing away...although not much success.
+
+Is it go=
+ing to reduce the homam benifit one would receive=C2=A0if one=C2=A0re-ignit=
+es the =C2=A0fire several times?
+
+
+=C2=A0
+Thx,Ananda 
+
+
+
+
+_________________=
+_______________
+From: miveda91 <miveda91@...>
+To: vedic-wisdom@yahoog=
+roups.com
+Sent: Sun, December 11, 2011 5:55:46 PM
+Subject: [vedic-wisdom] M=
+aha Ganapati Homam Questions
+
+=C2=A0 
+Namaste,
+
+Om Ganeshai Namah!!
+
+Since =
+Navaratri, for last three months, I have been doing Maha Ganapati Homam onc=
+e a month. Now, from yesterday with Lunar Eclipse, my intention is to do th=
+e Homam weekly basis each weekend.
+
+I would also like to increase the count=
+s of Moola Mantra and Vedic Mantra, but I have following questions:
+
+1) How=
+ do we keep count of the number of Mantra chanted?
+2) Homam Manual the sugg=
+ested count is 4/8/12/21/28/108/1008, for progressing the count, there is b=
+ig gap between 28 and 1008, is this intentional or any other suggestion?
+
+A=
+s I am doing Homam in terrace, for fire in Kunda, I have only trouble in th=
+e start but once fire is big enough no problem, but the lamp get put off, q=
+uite frequently, yesterday, I put the lamp inside one Steel vessel, is ther=
+e any better way ?
+
+Thanks and regards.
+Mihir
+
+
+
+---1848055611-542863251-1323682230=:65015
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"color:#000; background-color:#fff; font-family:ti=
+mes new roman, new york, times, serif;font-size:12pt"><div><SPAN><BR class=
+=3Dyui-cursor></SPAN></div>
+<DIV></DIV>
+<DIV style=3D"RIGHT: auto"> Na=
+maste,</DIV>
+<DIV style=3D"RIGHT: auto"> </DIV>
+<DIV style=3D"RIGHT: a=
+uto">No, initially at least it does not matter too much as long as it done =
+with a sense of devotion and surrender. Secondly, there are many states of =
+fire. Fire is a source of energy. Doing a homa is like doing a satsanga wit=
+h a very very powerful saint who charges you with energy. When we think tha=
+t the fire is dying, and find reddish cinders burning, that too is a state =
+of fire. The state where it can provide the least amount of shakti because =
+it is in sleep.</DIV>
+<DIV style=3D"RIGHT: auto"> </DIV>
+<DIV style=3D=
+"RIGHT: auto">To be able to make sure that the fire does not die down, one =
+must be able to build a solid connection between internal and external fire=
+. This cannot happen in one or even a few years, or maybe even one lifetime=
+, if at all it happens.. </DIV>
+<DIV style=3D"RIGHT: auto"> </DIV>
+<DI=
+V style=3D"RIGHT: auto">Once when Sai Baba was sitting beside his dhuni, te=
+h fire suddenly started leaping upto the celing. Sai baba took his stick, s=
+truck a pillar nearby and the asked the fire to calm down and fire became n=
+ormal. THAT is what it means to have real connection with fire. In that sta=
+te, every action of the external fire has a perfect correspondence with the=
+ mind of the person which the person will understand. <VAR id=3Dyui-ie=
+-cursor></VAR>And that is teh ideal state when a continuous dhuni can be ma=
+intained. Before that state is achieved, a dhuni is a futile exercise =
+which won't survive. I know of at least one person who used to maintrain a =
+fire for months and years continuously, but his connection with fire was so=
+ strong that even if he was a million miles away he would know perfectly wh=
+at state the fire was in, whether it needed fuel or not. </DIV>
+<DIV style=
+=3D"RIGHT: auto"> </DIV>
+<DIV style=3D"RIGHT: auto">So for most of us,=
+ who are only beginners, relighting a fire and doing it with devotion =
+is a simple, practical and effective mechanism if and when needed.</DIV>
+<D=
+IV style=3D"RIGHT: auto"> </DIV>
+<DIV style=3D"RIGHT: auto">-Regards</=
+DIV>
+<DIV style=3D"RIGHT: auto"> Rajarshi</DIV>
+<DIV style=3D"RIGHT: a=
+uto"> </DIV>
+<DIV style=3D"RIGHT: auto"> </DIV>
+<DIV style=3D"FON=
+T-FAMILY: times new roman, new york, times, serif; FONT-SIZE: 12pt">
+<DIV s=
+tyle=3D"FONT-FAMILY: times new roman, new york, times, serif; FONT-SIZE: 12=
+pt"><FONT size=3D2 face=3DArial>
+<DIV style=3D"BORDER-BOTTOM: #ccc 1px soli=
+d; BORDER-LEFT: #ccc 1px solid; PADDING-BOTTOM: 0px; LINE-HEIGHT: 0; MARGIN=
+: 5px 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; HEIGHT: 0px; FONT-SIZE: 0=
+px; BORDER-TOP: #ccc 1px solid; BORDER-RIGHT: #ccc 1px solid; PADDING-TOP: =
+0px" class=3Dhr contentEditable=3Dfalse readonly=3D"true"></DIV><B><SPAN st=
+yle=3D"FONT-WEIGHT: bold">From:</SPAN></B> Ananda Kishora Dadi <varaha_2=
+000@...><BR><B><SPAN style=3D"FONT-WEIGHT: bold">To:</SPAN></B> ve=
+dic-wisdom@yahoogroups.com <BR><B><SPAN style=3D"FONT-WEIGHT: bold">Sent:</=
+SPAN></B> Monday, 12 December 2011 1:33 PM<BR><B><SPAN style=3D"FONT-WEIGHT=
+: bold">Subject:</SPAN></B> Re: [vedic-wisdom] Maha Ganapati Homam Question=
+s<BR></FONT><BR>
+<META content=3Doff http-equiv=3Dx-dns-prefetch-control>
+<=
+DIV style=3D"RIGHT: auto" id=3Dyiv399625143>
+<DIV style=3D"RIGHT: auto"><SP=
+AN style=3D"DISPLAY: none"> </SPAN> 
+<DIV id=3Dyiv399625143ygrp-text>
+=
+<DIV style=3D"FONT-FAMILY: arial, helvetica, sans-serif; FONT-SIZE: 12pt">
+=
+<DIV></DIV>
+<DIV>I had experinced the same problem when I do it terrace, ho=
+mam fire gets blown away by gusty winds.</DIV>
+<DIV> </DIV>
+<DIV style=
+=3D"RIGHT: auto">I have started putting some chairs  in front of fire&=
+nbsp;kund in a row, to reduce the intensity of the wind and to minimize the=
+ fire blowing away...although not much success.</DIV>
+<DIV> </DIV>
+<DI=
+V>Is it going to reduce the homam benifit one would receive if one&nbs=
+p;re-ignites the  fire several times?</DIV>
+<DIV> </DIV>
+<DIV><BR=
+> </DIV>
+<DIV>Thx,</DIV>Ananda 
+<DIV><BR></DIV>
+<DIV style=3D"FONT-FAM=
+ILY: arial, helvetica, sans-serif; FONT-SIZE: 12pt"><BR>
+<DIV style=3D"BORD=
+ER-LEFT: #1010ff 2px solid; FONT-FAMILY: times new roman, new york, times, =
+serif; FONT-SIZE: 12pt"><FONT size=3D2 face=3DTahoma>
+<DIV style=3D"BORDER-=
+BOTTOM: #ccc 1px solid; BORDER-LEFT: #ccc 1px solid; PADDING-BOTTOM: 0px; L=
+INE-HEIGHT: 0; MARGIN: 5px 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; HEIG=
+HT: 0px; FONT-SIZE: 0px; BORDER-TOP: #ccc 1px solid; BORDER-RIGHT: #ccc 1px=
+ solid; PADDING-TOP: 0px" class=3Dhr contentEditable=3Dfalse readonly=3D"tr=
+ue"></DIV><B><SPAN style=3D"FONT-WEIGHT: bold">From:</SPAN></B> miveda91 &l=
+t;miveda91@...><BR><B><SPAN style=3D"FONT-WEIGHT: bold">To:</SPAN>=
+</B> vedic-wisdom@yahoogroups.com<BR><B><SPAN style=3D"FONT-WEIGHT: bold">S=
+ent:</SPAN></B> Sun, December 11, 2011 5:55:46 PM<BR><B><SPAN style=3D"FONT=
+-WEIGHT: bold">Subject:</SPAN></B> [vedic-wisdom] Maha Ganapati Homam Quest=
+ions<BR></FONT><BR><SPAN> </SPAN> 
+<DIV id=3Dyiv399625143ygrp-text>
+<d=
+iv>Namaste,<BR><BR>Om Ganeshai Namah!!<BR><BR>Since Navaratri, for last thr=
+ee months, I have been doing Maha Ganapati Homam once a month. Now, from ye=
+sterday with Lunar Eclipse, my intention is to do the Homam weekly basis ea=
+ch weekend.<BR><BR>I would also like to increase the counts of Moola Mantra=
+ and Vedic Mantra, but I have following questions:<BR><BR>1) How do we keep=
+ count of the number of Mantra chanted?<BR>2) Homam Manual the suggested co=
+unt is 4/8/12/21/28/108/1008, for progressing the count, there is big gap b=
+etween 28 and 1008, is this intentional or any other suggestion?<BR><BR>As =
+I am doing Homam in terrace, for fire in Kunda, I have only trouble in the =
+start but once fire is big enough no problem, but the lamp get put off, qui=
+te frequently, yesterday, I put the lamp inside one Steel vessel, is there =
+any better way ?<BR><BR>Thanks and regards.<BR>Mihir<BR><BR></div></DIV></D=
+IV></DIV></DIV></DIV></DIV></DIV>
+<META content=3Don http-equiv=3Dx-dns-pre=
+fetch-control><BR><BR></DIV></DIV></div></body></html>
+---1848055611-542863251-1323682230=:65015--
+
+

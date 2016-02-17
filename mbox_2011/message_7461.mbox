@@ -1,0 +1,217 @@
+From rajarshi14@...  Wed Feb 17 11:09:59 2016
+Return-Path: <rajarshi14@...>
+X-Sender: rajarshi14@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 75878 invoked from network); 16 Nov 2011 06:56:41 -0000
+X-Received: from unknown (98.137.34.46)
+  by m16.grp.sp2.yahoo.com with QMQP; 16 Nov 2011 06:56:41 -0000
+X-Received: from unknown (HELO nm4.bullet.mail.in.yahoo.com) (121.101.151.226)
+  by mta3.grp.sp2.yahoo.com with SMTP; 16 Nov 2011 06:56:40 -0000
+X-Received: from [121.101.151.238] by nm4.bullet.mail.in.yahoo.com with NNFMP; 16 Nov 2011 06:56:37 -0000
+X-Received: from [121.101.151.234] by tm3.bullet.mail.in.yahoo.com with NNFMP; 16 Nov 2011 06:58:14 -0000
+X-Received: from [127.0.0.1] by omp1003.mail.in.yahoo.com with NNFMP; 16 Nov 2011 06:58:30 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 185471.49659.bm@...
+X-Received: (qmail 43168 invoked by uid 60001); 16 Nov 2011 06:56:37 -0000
+X-YMail-OSG: DzFpDJQVM1kc2l8TnNNWVmrSeW2BNQbDP_xtNS5AMW8hzwi
+ zoRhMDtJqIAyOpDrDUt3xOr7mpFprpw8Kq0cHapP3hDKvsNXZEZB3JuYDEyk
+ AtW9kx.IQAUwUPVgGEDjhuP5AnOaTykE8wDpfGnARcwSp5UxM_mdT6wuIV.F
+ UFcS401S2me4z9dkBYX7Il5J8098KZHtQs9ibZVQWp.ahgMsPTD4hETciSrU
+ XcCanzu.ROynzcvoC980QuYzQecU0XZiKtQudhCtrKpcvxL_aLh1IYaljocu
+ BiWYTRKaE.fOiVopD97LTLywsy9QW26F9WVJUhayHIBj1llnOAwIl.nIGU1L
+ HtV4gDpT3xp.0gsbzapcvJk.MjnF9fs6TZ7e2EB7wydkXrOTA9_3V9UxVLCs
+ GubhQ_NY8zBQOyjfR61GNYtiqy2YUyDdD_0Jq_7ZzQOyn0z6gUsRG2wdMCKk
+ j3krkOVg05b0PsJPUTwJwzCgRnK5hY9K.azjVsmmk_IIUtI4FNF_a5GwT__a
+ ShhIOkQDDbcm54SF6QZiXZdPZXIUQHeUlLVz6ZA8qlJ8V8deinQXzwszlp4p
+ 4tTVmrqLlV5AKXNYnKe6GQsWtBXnD1PnDcspj2M..vsTBTvrsV3cDasd9IwG
+ OfnkRakHx3NLgyD1vQSdnS33QM8bxrGHUi3GSqGZ3SEuFul2Gydy2QXo8f1N
+ bTWjiko0lfQHllrR3OAAdC5RuVFTPxsltBDNYtW822Y0brV6AL5SPTjoINd4
+ AYlKoGBAr2lREc9CvmxApeZdT9.TFqZC2s466IpucSoWPAXlb3ntIxamJbfb
+ 44hAORgOXt3uAbeIUjuVvcmO7bckNb0RJ4mPyYRoSrtTzjhYw9TutntrN8.D
+ zGHjwCKy_eyYuoh0v.LZL0Xv7WOGLCL8Np3b2lPZ_KHTCtMoJI5SfZWCTE.3
+ jnfP8i8gD61uj.4y1TwZGwHlpB6B4e5fQKX9p3hS6MEIpgc7zbqU7.zyEtZ0
+ Akuv2zTn8GAOJWntAhwnfDERpJmN3UbNQjIAewJm9C4O9mCVngqlyLroWC9I
+ OBuUqoRg.n.agdr3ckz8w8TciOrgA_kkdk7W3p9qZ6D_mc_9Y13sUn0BlC26
+ rJW3XLTO8DvaQbFlOREw3YTUPeykoQNi4iAkkuizFX0k90z3cILlEwMvTEI9
+ aFwdAzNZImS1EOP3Fg5wZgDWBgSlklxr7bjccyN.69MKVneKdjBvGWcc9RUO
+ zV0DSrojp.u18J_8m2ekAtlPZGYDGuaGpGaPlLAkipp_jIGXE4.W2pcthLYb
+ OUhhiZl7Vpmh9WiR9yxAWOSbMuKCyaWjh1FhIa8WwYIXbVHbZE3357nfIiTZ
+ NnogVWV7FZ4ZZ0w_jP8HnS_CGZQ0wQE_Bo49rlaOuMzrW5PREeacU2ZhgF.x
+ Mo8wGT0lqxN7FT9pXE6pUKCnrP_8G.Ph6CC9Ox6RJ4SObwpxG7_0WUbK247L
+ wKDdorrBeWWm2eyw7Hm1qhMz7WhOHtdxglbgTU_dZSatS7vOkz3labSwP06L
+ EJwopH2EyBsAJqxbkBEWNY1AyWnyIqzS4nWb1gBnjSPmOu3m9zhzdMGd.5f5
+ uir0PPN44aSsVTpLMV9eyJu23nJ8yhkSP2zU2PrPo947eLAuenD.L8x7F2Ti
+ S4jORTE4dQI5v6aSSz9B7m29xJeG9ETEnRq.aXlzDyxN4_gfTjJ2ZMhYcl7B
+ cTDCLGESffGrrS9_w70mwznB2GONSaXKBlbj_KXosHNm_YebcvoALGp_S75R
+ ocC_DFJnKvMNT.p0kQX1eEB5RKRjI8iQErk6Z3IXumK.P2raHZeEKh9rHsbL
+ 7mVhqim_V6cHkbVIyXZc6nxF6FNwBOCT0nx_00shrL0GuMD_OcAj.DmSBZwc
+ cake1nlmLbdULSyQlO.0NUPm82WmQXQIDNuh__bc07NK6ATProBTsxHMyDfD
+ 8MRq2esLomRYibbYuppYP8BmDJJA0pzNp32BIbmsHtfKDaUv.QDf2x9w_2AY
+ yMWM2f6_St8y6lao97Lr8kj2xDmzv7d.VcdU47S.diJP8kGROw780i4yBlmC
+ cnjpgHIuFY7SdFyAKEwGQGCrlgVOQurPiSyr3StG6F7fAZy5n7ArtBSc7gdF
+ 5Z2vklR67K1xLtDPljMxonGXsb1j3OauJjH5Omr6IuozQ.4ixckpeBq6Cmt9
+ yFWD36sbBSVRelC5vNVyR21mWqgHsm.4JUUYug0POYzCDQfj7h8_JJ6hEs_i
+ V4GX_Zt4W1Wa90.FsbqosU9IzVRAL68i2IMKg9B87Qy8SjLli0u5YJIeYg_z
+ 2_RyNeMXLediZJbAAtstJJXPzBjPz.lkaAMP3.5.YIX3XgjrQtTabVmU6Wcw
+ _4_6_nrv7aN_RUeaRDwMR8GJspUZ9FePHrDZ9R7j3z5x.G84x_Da6rgOwmaq
+ TWVGl6Ra2HM6nb2jFVzj_JwUWqS350oIcDWlzh8G7xHKtOiK9vff3YqSZlzq
+ wW1IcdMf5TJ5vaB7KIRSPBgrLn4LN0JhCu.IhpDN8.5kMbJIJ7keJ6bU1UE.
+ L5XG9Su9p44wEq11htHb6WYp4f2uyCXQkTA4DWG8uGLGb8CNXqoWmQVWe
+X-Received: from [220.227.118.3] by web95513.mail.in.yahoo.com via HTTP; Wed, 16 Nov 2011 12:26:36 IST
+X-Mailer: YahooMailWebService/0.8.115.325013
+References: <j9v7op+u6ui@...>
+Message-ID: <1321426596.40259.YahooMailNeo@...>
+Date: Wed, 16 Nov 2011 12:26:36 +0530 (IST)
+To: "vedic-wisdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com>
+In-Reply-To: <j9v7op+u6ui@...>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="562430024-1492292210-1321426596=:40259"
+X-Originating-IP: 121.101.151.226
+X-eGroups-Msg-Info: 1:12:0:0:0
+From: rajarshi nandy <rajarshi14@...>
+Reply-To: rajarshi nandy <rajarshi14@...>
+Subject: Re: [vedic-wisdom] Why Sapthshati mantras is called Siddha mantra?
+X-Yahoo-Group-Post: member; u=216162964; y=7rjkem4rHzft-GwNNmxrda_JlKCQUBL2bxvaRct-eMLKncLjKQ
+X-Yahoo-Profile: rajarshi14
+
+
+--562430024-1492292210-1321426596=:40259
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Dear Priyank,
+=C2=A0
+The document refers to samputikaran mantras for the Ch=
+andi. Samputikaran is a process by which you prefix or suffix certain mantr=
+as to some texts or other mantras to derive certain specific results out of=
+ it.
+=C2=A0
+There are many more samput mantras for Chandi apart from what t=
+hat document lists. Yes, the Chandi is a siddha text. Siddha in the sense o=
+f being "accomplished for Self realization" as well as "siddhis", depending=
+ on the inclination and capacity of the sadhaka and of course Her will.
+
+To=
+ understand why it is so, one has to do sadhana and keep praying to Her. In=
+tellectual comprehension falls flat beyond a point. It is plain useless.=C2=
+=A0And the sadhana is not a one day/few months/one year or few years proces=
+s. It is=C2=A0like an endless ocean, there are simply no limits except for =
+the ones you set for yourself in your own mind. One can experience the high=
+est states of consciousness and yet not be able to comprehend the Chandi in=
+ totality. 
+
+-Regards
+=C2=A0Rajarshi
+
+Ami Jantra Tumi Jantri
+Ami Ghar Tumi =
+Gharani
+
+Ami Ratha Tumi Rathi
+Jeman Chalao Temni Chali
+
+
+__________________=
+______________
+From: priyank_priyank <aks_day@...>
+To: vedic-wisdom@y=
+ahoogroups.com
+Sent: Wednesday, 16 November 2011 8:09 AM
+Subject: [vedic-wi=
+sdom] Why Sapthshati mantras is called Siddha mantra?
+
+
+=C2=A0 
+Namaste all=
+, 
+
+Its mentioned at many places over net that the mantra's in Durga Saptsh=
+athi are siddha mantras. is there any particular reference for this as to w=
+hy they are called so?
+
+http://sanskritdocuments.org/all_pdf/saptashatIsidd=
+hasampuTamantra.pdf
+
+will appreciate guidance in this regard
+
+thanks
+Priyan=
+k
+
+
+
+--562430024-1492292210-1321426596=:40259
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"color:#000; background-color:#fff; font-family:ti=
+mes new roman, new york, times, serif;font-size:12pt"><div style=3D"RIGHT: =
+auto"><SPAN style=3D"RIGHT: auto">Dear Priyank,</SPAN></div>
+<div style=3D"=
+RIGHT: auto"><SPAN style=3D"RIGHT: auto"></SPAN> </div>
+<div style=3D"=
+RIGHT: auto"><SPAN style=3D"RIGHT: auto">The document refers to samputikara=
+n mantras for the Chandi. Samputikaran is a process by which you prefix or =
+suffix certain mantras to some texts or other mantras to derive certain spe=
+cific results out of it.</SPAN></div>
+<div style=3D"RIGHT: auto"><SPAN styl=
+e=3D"RIGHT: auto"></SPAN> </div>
+<div style=3D"RIGHT: auto"><SPAN styl=
+e=3D"RIGHT: auto">There are many more samput mantras for Chandi apart from =
+what that document lists. Yes, the Chandi is a siddha text. Siddha in the s=
+ense of being "accomplished for Self realization" as well as "siddhis", dep=
+ending on the inclination and capacity of the sadhaka and of course Her wil=
+l.</SPAN></div>
+<DIV></DIV>
+<DIV style=3D"RIGHT: auto"> </DIV>
+<DIV st=
+yle=3D"RIGHT: auto">To understand why it is so, one has to do sadhana and k=
+eep praying to Her. Intellectual comprehension falls flat beyond a point. I=
+t is plain useless. And the sadhana is not a one day/few months/one ye=
+ar or few years process. It is like an endless ocean, there are simply=
+ no limits except for the ones you set for yourself in your own mind. One c=
+an experience the highest states of consciousness and yet not be able to co=
+mprehend the Chandi in totality. </DIV>
+<DIV style=3D"RIGHT: auto"> </=
+DIV>
+<DIV style=3D"RIGHT: auto"><VAR id=3Dyui-ie-cursor></VAR>-Regards</DIV=
+>
+<DIV style=3D"RIGHT: auto"> Rajarshi</DIV>
+<DIV style=3D"RIGHT: auto=
+"> </DIV>
+<DIV style=3D"RIGHT: auto"><I style=3D"RIGHT: auto"><STRONG =
+style=3D"RIGHT: auto">
+<DIV style=3D"RIGHT: auto" class=3DMsoNormal>Ami Jan=
+tra Tumi Jantri<BR>Ami Ghar Tumi Gharani<BR><BR>Ami Ratha Tumi Rathi<BR>Jem=
+an Chalao Temni Chali<BR></STRONG></I></DIV></DIV>
+<DIV style=3D"FONT-FAMIL=
+Y: times new roman, new york, times, serif; FONT-SIZE: 12pt">
+<DIV style=3D=
+"FONT-FAMILY: times new roman, new york, times, serif; FONT-SIZE: 12pt"><FO=
+NT size=3D2 face=3DArial>
+<DIV style=3D"BORDER-BOTTOM: #ccc 1px solid; BORD=
+ER-LEFT: #ccc 1px solid; PADDING-BOTTOM: 0px; LINE-HEIGHT: 0; MARGIN: 5px 0=
+px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; HEIGHT: 0px; FONT-SIZE: 0px; BOR=
+DER-TOP: #ccc 1px solid; BORDER-RIGHT: #ccc 1px solid; PADDING-TOP: 0px" cl=
+ass=3Dhr contentEditable=3Dfalse readonly=3D"true"></DIV><B><SPAN style=3D"=
+FONT-WEIGHT: bold">From:</SPAN></B> priyank_priyank <aks_day@...&g=
+t;<BR><B><SPAN style=3D"FONT-WEIGHT: bold">To:</SPAN></B> vedic-wisdom@yaho=
+ogroups.com<BR><B><SPAN style=3D"FONT-WEIGHT: bold">Sent:</SPAN></B> Wednes=
+day, 16 November 2011 8:09 AM<BR><B><SPAN style=3D"FONT-WEIGHT: bold">Subje=
+ct:</SPAN></B> [vedic-wisdom] Why Sapthshati mantras is called Siddha mantr=
+a?<BR></FONT><BR>
+<DIV id=3Dyiv1930234323>
+<DIV><SPAN style=3D"DISPLAY: non=
+e"> </SPAN> 
+<DIV id=3Dyiv1930234323ygrp-text>
+<div>Namaste all, <BR><=
+BR>Its mentioned at many places over net that the mantra's in Durga Saptsha=
+thi are siddha mantras. is there any particular reference for this as to wh=
+y they are called so?<BR><BR><A href=3D"http://sanskritdocuments.org/all_pd=
+f/saptashatIsiddhasampuTamantra.pdf" rel=3Dnofollow target=3D_blank>http://=
+sanskritdocuments.org/all_pdf/saptashatIsiddhasampuTamantra.pdf</A><BR><BR>=
+will appreciate guidance in this regard<BR><BR>thanks<BR>Priyank<BR><BR></d=
+iv></DIV></DIV></DIV><BR><BR></DIV></DIV></div></body></html>
+--562430024-1492292210-1321426596=:40259--
+
+

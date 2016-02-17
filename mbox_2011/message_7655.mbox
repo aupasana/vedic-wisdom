@@ -1,0 +1,400 @@
+From rajarshi14@...  Wed Feb 17 11:10:02 2016
+Return-Path: <rajarshi14@...>
+X-Sender: rajarshi14@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 19196 invoked from network); 18 Dec 2011 18:54:04 -0000
+X-Received: from unknown (98.137.34.46)
+  by m6.grp.sp2.yahoo.com with QMQP; 18 Dec 2011 18:54:04 -0000
+X-Received: from unknown (HELO nm4-vm0.bullet.mail.in.yahoo.com) (121.101.151.213)
+  by mta3.grp.sp2.yahoo.com with SMTP; 18 Dec 2011 18:54:03 -0000
+X-Received: from [121.101.151.238] by nm4.bullet.mail.in.yahoo.com with NNFMP; 18 Dec 2011 18:54:01 -0000
+X-Received: from [121.101.151.235] by tm3.bullet.mail.in.yahoo.com with NNFMP; 18 Dec 2011 18:55:52 -0000
+X-Received: from [127.0.0.1] by omp1004.mail.in.yahoo.com with NNFMP; 18 Dec 2011 18:54:01 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 486144.96145.bm@...
+X-Received: (qmail 94019 invoked by uid 60001); 18 Dec 2011 18:54:01 -0000
+X-YMail-OSG: TXmruLAVM1ksZqoTf69V9wDA3W68itc58AhVoppImbQCK8.
+ jveeJ0ZYcnDsx1H8B7Zx6m2gto92JcRC9QTDV7ytDf7Y3HhvauvotdwqqSlJ
+ 2WgrcLXtCBnApS0ZYx8F6XHmvjWiELTgbmRtR62AXbu4Nr6PHmaOCBC45HG8
+ HDl1JFH_87wn.uUDB9Z.YOOoOiLbZ3pOdbSuAGBG9QXHeixZDQFLjCIsbnx1
+ q48MDcWrKuMgm6DkH33maNPEwyW7j2UgyrZ8bNAajyi4lXBD181L_PUEd6dq
+ S8KPtMfYV.9os1TMqaSrdjqYC9akxeEJGGIHfpue2Y76EvdbiBe9uCValA0U
+ PjiB5QYyxC1eE.MhfXSuh105JHVbhY0bdOfjp0DN4WmtoqtXAb59Fusj.6rs
+ pam1bD5LYSVzIj.ydrhDwrpERF6lBofnk2MDq4vSiPGQeW3BQs74gavJ2S1j
+ Vq_4bjmrhJu3snbfYZzmx7Z7_U4lutqtkZ1khzXPhlK0g7WqVZwEqT3j2E50
+ Vy2TQsrY2CEyK9ak4P6m4.2bX06leLWwlQGY9HhxvXjawETBo5x2tGhgKPbP
+ 7Yhl_4HS4JwsKqD85fz3Jd5cLWGZ.yCdBsIQdRWimUMoV_KZZexN5IGGvTxv
+ 74TtPVf2kLJDfpp8fcjsKkcXdkVShSajor67Ix5ydwhTJlF_cgDQWGEETdBF
+ q9p1S7KtAR2j3FpD4TJ_VFyioKkIcDMNzlNtsxkbu6PpFbdnYVZGo2MyGLNz
+ PP9Xe0ORmWLoC0LL2CpWXLfqIxBW9s3bdl0g7wy.SxKYTMbl2ZxUlsKsC9x1
+ MkDTTC2he0DJtPMwBRju6BeEf36SGyTcaz5rtvGKheQD2tqb2MHDI9mtovKx
+ uz.ba82G4wAv1gGjmiwqSOwc3_bN3LX4ylI82l1S3MOKxM47Jl5AZSTM6CaT
+ QD6rtgPcFjSajxKJ.IO9xPE5s3FHHYJhCVmB7mJ7YeXVncCfTIhQ8OBjCSCS
+ nCGF0PxD4iUZRFQijnQPVRHnxHDH_Q45Ln9g7n7kh9wgO2FJd4imOpz29aL7
+ ZYf0e1FQ9G5knKo14D4qD3LCI2MOQAuxIDe59DbwQM4GcKAmA6JDipnMqyK9
+ 00n6QGFJURxQGqKI9ZI0ZZTWNe1Z7Tbo4wjQB74v.xPbM.jWZWPfLBz1Uxh5
+ wNr9uvJrfFfllP.f4vLrmH_htBGv2dAdjLu_aRDATVtqMIo5YxKx1GTLSRNr
+ HZfBGWAevPX5wVP_oMyqyvCRsZmN0ja8ju_iulBIwMk10VAc0wfZooHwqH0z
+ b9L8YOj7CCpZ0sldFT.Re62ALHHD7znvioF1CUTZ7DKz7dWWVa1AkMYlnTDW
+ wO5oT2cyMu6lcDMYqPeaizPGgXZRFtqEKJvzDKLX4G2aj3ULCEpdSIiMKwcF
+ gluAr8mwoxD0eeI3wUpNjvvlSRIbgKXCr65ZNs2LRmQHRGJO6c9sbas4fgTN
+ CQD68CyKjOvWdbuIPgOeI3eO1APwyKBYQfutAPISn8mzIEKInQ7Dsbfz5ula
+ d9yHHRSCVIdolfaeBGjtrLHhvWLGo9vDsd5pLcTCiF0XnnfC2Cg6jlnwJJrG
+ P8yZtGEOQFJBBQZHafLciLICbAfZBkQs9EEGGX5ytGzFx4ziqbhGecgCg8Bn
+ smNwZBkVYRTsJPfqmz.pXLB4E3UjIft3WUVDuj3IPRPxg40e5UnbqQAZZLj.
+ fgufGv9fYKSiGF1dhK5p_dby1KFhZ1oMRU210K.cXN_e..vxQ5aAzT6ptPr1
+ nGam0ekajffCQfOLLAMvxm1vocHwJTkvNUUc2E_iePHmQ2J9troJ5znEJSR9
+ K5YcnEHn1rveyocJ7onNN5GFCFE4SP9snGgREPhMQlsisWdJIfw6rOuiDtQd
+ tYO6otUt8K3A3dRqCxI8f8lGKDq9afslZxMsGFQshwGSh7MD25.KAu8Atkd6
+ LjSf1u3QMpsroW4k.H0CY0fAi_lP36ZU4NoxHzgmlPlzEXerVF3A_PrqHYle
+ 1UuEyB4SqlIjDUeRQSXO8Kz2X3aPz2XqByOAXdCd3iRjbVQELrbP5ILToUoV
+ Rpu9mMFPBerMRsWUmkTERn1nbdy5xQtoWY9VnS.WPZVCTPSjCeetIUPiQ4To
+ tPNabwraJsw0qSQosvjz6XbAYuPj5sCzoumxDcYg4aPGWcERlloDE.qyVREL
+ mS_EzpzaScoAJCF.SzZKcwdlvH.r278PzmHaYRDY08iO4_0ywVHtHzJfyUGY
+ 0IHk0CNkfNoLYpBxbmsXccE6l4xwk65SiEXIMRsUS7zQi4JQItj8QuuuttAS
+ JiHUfnYwuolqMQnDd9vRJ8mRg.1UgtJre_kTh12stXfNve5ZmH4VcsKtJiA9
+ VLObO6y0e8kKa8pwKR2PJqGCi5BOyhhtHC.fe6mP97iEY6NScyyA_hVqvPKd
+ EYc89I0_LzB88P88W2lGMdtSdrb6fi3KybGeL2RnrtYWnbABCcvXO8JjM4e.
+ Fuj.jRxxpPmbYBhMdwiCfgjuAr5htByakvQtMsgmDDmlMCgBvJ96BOmzHkfp
+ ajn37OF0eUDgR.g7uF4UYQ6ur.B3dZW2ycC2aCj2QIfC0jEsudst0it2VH5t
+ 0TF4lLKHjJxxrevpS_BYDPv.4dS2JqYYELwtoymD7cXSf5gUwRQant4kZ6NH
+ _Mb5F_uJ2pXu497AwYPaZ5zffB3ADSJCU7xh6ThEgrGJXdH1cXraW9BEDc1f
+ 99SMmoAnL2dE730bYHuOUR2rQFHwdsSgX9Ly0LmQ.gDmgq7EYfupMoEWqkyM
+ 2Ajilvozd.t.RSTtR8ewD0XOIHGUUAVGd.I2C_xkWAGubPBM1zd3nceN2jac
+ B0S8ZvheT3jRQTuhFBdZMnCXvIWk5lshDOu6zW6MV_7hqi.7E1BBlyoAhT5p
+ .M2BmRMkRiR80Jx0TYgS.6kaYaltTJWPBzFDq786u7egAVv6U2p0mO5ASMoy
+ TrQBZxzN46TJndK2vdWRtu_rAUoRf.ivJD06ZgJSLDsloMEhzuk.N8s2PG4a
+ HCJmAOi6SXhDsuH5gG7Q8EHgEhLyt89nV5SvpCVCGTpijgwtPGuOR54Ir9Fh
+ rfmiBHjaCn30qR3cjtjG0fXxDLRG8tUwHbQY6AJnty_PUfiL53GhJktPWAUW
+ a4DDyd9b_ulUQadVvhbB.PAkdg1eeHjt_BSu.KzpuMdEjYw7FSx3y6JcXNB.
+ Waw3e
+X-Received: from [115.118.159.79] by web95505.mail.in.yahoo.com via HTTP; Mon, 19 Dec 2011 00:24:00 IST
+X-Mailer: YahooMailWebService/0.8.115.331698
+References: <a1f70a7.4c266.1344ef18534.Webtop.49@...>
+Message-ID: <1324234440.90723.YahooMailNeo@...>
+Date: Mon, 19 Dec 2011 00:24:00 +0530 (IST)
+To: "vedic-wisdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com>
+In-Reply-To: <a1f70a7.4c266.1344ef18534.Webtop.49@...>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="-1604987517-1110385011-1324234440=:90723"
+X-Originating-IP: 121.101.151.213
+X-eGroups-Msg-Info: 1:12:0:0:0
+From: rajarshi nandy <rajarshi14@...>
+Reply-To: rajarshi nandy <rajarshi14@...>
+Subject: Re: [vedic-wisdom] Tribute to Dara Shikoh (a Mughal Prince)
+X-Yahoo-Group-Post: member; u=216162964; y=QhiDhEm3JkveGarCepZm2wdOo3UFCEW_YHV09HZtB_9AFMw-aA
+X-Yahoo-Profile: rajarshi14
+
+
+---1604987517-1110385011-1324234440=:90723
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Not only Dara Sikhoh but even the 9th Sikh Guru Tegh Bahadur was executed b=
+y Aurangzeb. Ramakrishna used to say that all the Sikh Gurus were partial i=
+ncarnations of one Rishi. Tegh Bahadur formed an army to protect Hindus in =
+Kashmir from forcible conversion. He was called by Hindus as the "shield of=
+ India". On being captured, he was tortured mercilessly and asked to conver=
+t to Islam and/or perform miracles in public to convince that he is a genui=
+ne man of God. Tegh Bahadur stubbornly refused to do both, and he was behea=
+ded. After his death the decline of Aurangzeb started in full force.
+
+-Rega=
+rds
+=C2=A0Rajarshi
+
+
+
+
+________________________________
+ From: Narasimha PV=
+R Rao <pvr@...>
+To: vedic-wisdom@yahoogroups.com 
+Sent: Sunday, 18 =
+December 2011 7:42 AM
+Subject: [vedic-wisdom] Tribute to Dara Shikoh (a Mug=
+hal Prince)
+ 
+
+=C2=A0 
+Namaste,
+
+Dara Shikoh was the eldest son of Mughal e=
+mperor Shah Jahan and his wife 
+Mumtaz Mahal (in whose honor Shah Jahan bui=
+lt Taj Mahal). He was a 
+spiritually elevated soul. He believed that search=
+ for god was the same 
+all over the world through ages and believed that co=
+rrect answers were 
+found by great seers in various parts of the world at v=
+arious times. As 
+these findings are often expressed allegorically, underst=
+anding any 
+single version becomes tough but putting multiple versions toge=
+ther 
+gives better insight.
+
+He studied under Sufi Islamic saints and also =
+studied Hindu scriptures. 
+He put them together and tried to find some comm=
+on ground. His 
+conclusions were recorded in "Majma ul-Bahrain" (The Mingli=
+ng of Two 
+Oceans). He detailed the similarities between Vedantic and Sufi =
+notions 
+of the Absolute Truth.
+
+He learnt Sanskrit and, taking help from s=
+cholars and ascetics of 
+Varanasi, translated 52 Upanishads, Yoga Vasishtha=
+m and Bhagavad Gita 
+(what a wonderful and thoughtful selection!) into the =
+Persian language. 
+He believed that Upanishads are the book referred to in =
+Quran as Kitab 
+al-Maknun (The Hidden Book)!
+
+He saw this as his mission an=
+d spent much of his time and energy in this 
+translation effort. As though =
+this was indeed what he was born for, his 
+life ended a couple of years aft=
+er he finished this work. He was 
+persecuted by the clergy and his younger =
+brother Aurangazeb and was 
+executed.
+
+Interestingly, his work served an im=
+portant purpose. Apart from laying 
+foundation for an integration of Hindu =
+and Muslim philosophies, it was 
+the first step in awakening the Western in=
+tellectual circles to the 
+wisdom of Vedanta. Twelve years after his death,=
+ a French visitor took 
+the Persian translation to France and that laid the=
+ foundation for 
+awakening European interest in Indian philosophy.
+
+Had he =
+become the Mughal emperor, which was expected at some stage, 
+world history=
+ would have been so different. His ambitious younger 
+brother Aurangazeb di=
+d some machinations and won the throne finally. 
+Again, had he left Dara Sh=
+ikoh alone and enjoyed the throne, world 
+history would have been so differ=
+ent. He made the singular sin of 
+killing Dara Shikoh. Dara Shikoh was not =
+a normal soul and this Brahma 
+Hatya was a terrible sin. The weight of such=
+ a huge sin was needed to 
+pull down a strong empire. Mughal empire fell so=
+on.
+
+We do not know the divine plan fully. We need to play our role as we s=
+ee 
+it in this divine drama and trust the director (god) to have a solid 
+s=
+cript that ties everything together!
+
+Best regards,
+Narasimha
+-------------=
+---------------------------------------------
+Free Jyotish Software, Free J=
+yotish Lessons, Jyotish Writings,
+"Do It Yourself" ritual manuals for short=
+ Homam and Pitri Tarpana:
+http://www.VedicAstrologer.org
+Films that make a =
+difference: http://SaraswatiFilms.org
+Spirituality: http://groups.yahoo.com=
+/group/vedic-wisdom
+Jyotish writings: http://groups.yahoo.com/group/Jyotish=
+Writings
+Twitter ID: @homam108
+--------------------------------------------=
+--------------
+
+ 
+---1604987517-1110385011-1324234440=:90723
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"color:#000; background-color:#fff; font-family:ti=
+mes new roman, new york, times, serif;font-size:12pt"><div>Not only Dara Si=
+khoh but even the 9th Sikh Guru Tegh Bahadur was executed by Aurangzeb. Ram=
+akrishna used to say that all the Sikh Gurus were partial incarnations of o=
+ne Rishi. Tegh Bahadur formed an army to protect Hindus in Kashmir from for=
+cible conversion. He was called by Hindus as the "shield of India". On bein=
+g captured, he was tortured mercilessly and asked to convert to Islam and/o=
+r perform miracles in public to convince that he is a genuine man of God. T=
+egh Bahadur stubbornly refused to do both, and he was beheaded. After his d=
+eath the decline of Aurangzeb started in full force.<br><br>-Regards<br>&nb=
+sp;Rajarshi<br></div><div><i><strong><div class=3D"MsoNormal"><strong><span=
+ class=3D"yui_3_2_0_12_132423325669075"
+ style=3D"FONT-SIZE:10pt;COLOR:navy=
+;FONT-FAMILY:Verdana;"><br></span></strong></div></strong></i></div><div><b=
+r></div>  <div style=3D"font-family: times new roman, new york, times, seri=
+f; font-size: 12pt;"> <div style=3D"font-family: times new roman, new york,=
+ times, serif; font-size: 12pt;"> <font size=3D"2" face=3D"Arial"> <hr size=
+=3D"1">  <b><span style=3D"font-weight:bold;">From:</span></b> Narasimha PV=
+R Rao <pvr@...><br> <b><span style=3D"font-weight: bold;">To:=
+</span></b> vedic-wisdom@yahoogroups.com <br> <b><span style=3D"font-weight=
+: bold;">Sent:</span></b> Sunday, 18 December 2011 7:42 AM<br> <b><span sty=
+le=3D"font-weight: bold;">Subject:</span></b> [vedic-wisdom] Tribute to Dar=
+a Shikoh (a Mughal Prince)<br> </font> <br><div id=3D"yiv1660541265">
+
+
+
+
+
+=
+
+
+
+
+
+
+
+
+<div>
+<span style=3D"display:none;"> </span>
+
+
+
+    <div id=3D=
+"yiv1660541265ygrp-text">
+      
+      
+      <div>Namaste,<br>
+<br>
+Dara S=
+hikoh was the eldest son of Mughal emperor Shah Jahan and his wife <br>
+Mum=
+taz Mahal (in whose honor Shah Jahan built Taj Mahal). He was a <br>
+spirit=
+ually elevated soul. He believed that search for god was the same <br>
+all =
+over the world through ages and believed that correct answers were <br>
+fou=
+nd by great seers in various parts of the world at various times. As <br>
+t=
+hese findings are often expressed allegorically, understanding any <br>
+sin=
+gle version becomes tough but putting multiple versions together <br>
+gives=
+ better insight.<br>
+<br>
+He studied under Sufi Islamic saints and also stu=
+died Hindu scriptures. <br>
+He put them together and tried to find some com=
+mon ground. His <br>
+conclusions were recorded in "Majma ul-Bahrain" (The M=
+ingling of Two <br>
+Oceans). He detailed the similarities between Vedantic =
+and Sufi notions <br>
+of the Absolute Truth.<br>
+<br>
+He learnt Sanskrit an=
+d, taking help from scholars and ascetics of <br>
+Varanasi, translated 52 U=
+panishads, Yoga Vasishtham and Bhagavad Gita <br>
+(what a wonderful and tho=
+ughtful selection!) into the Persian language. <br>
+He believed that Upanis=
+hads are the book referred to in Quran as Kitab <br>
+al-Maknun (The Hidden =
+Book)!<br>
+<br>
+He saw this as his mission and spent much of his time and e=
+nergy in this <br>
+translation effort. As though this was indeed what he wa=
+s born for, his <br>
+life ended a couple of years after he finished this wo=
+rk. He was <br>
+persecuted by the clergy and his younger brother Aurangazeb=
+ and was <br>
+executed.<br>
+<br>
+Interestingly, his work served an importan=
+t purpose. Apart from laying <br>
+foundation for an integration of Hindu an=
+d Muslim philosophies, it was <br>
+the first step in awakening the Western =
+intellectual circles to the <br>
+wisdom of Vedanta. Twelve years after his =
+death, a French visitor took <br>
+the Persian translation to France and tha=
+t laid the foundation for <br>
+awakening European interest in Indian philos=
+ophy.<br>
+<br>
+Had he become the Mughal emperor, which was expected at some=
+ stage, <br>
+world history would have been so different. His ambitious youn=
+ger <br>
+brother Aurangazeb did some machinations and won the throne finall=
+y. <br>
+Again, had he left Dara Shikoh alone and enjoyed the throne, world =
+<br>
+history would have been so different. He made the singular sin of <br>=
+
+killing Dara Shikoh. Dara Shikoh was not a normal soul and this Brahma <br=
+>
+Hatya was a terrible sin. The weight of such a huge sin was needed to <br=
+>
+pull down a strong empire. Mughal empire fell soon.<br>
+<br>
+We do not kn=
+ow the divine plan fully. We need to play our role as we see <br>
+it in thi=
+s divine drama and trust the director (god) to have a solid <br>
+script tha=
+t ties everything together!<br>
+<br>
+Best regards,<br>
+Narasimha<br>
+------=
+----------------------------------------------------<br>
+   Free Jyotish So=
+ftware, Free Jyotish Lessons, Jyotish Writings,<br>
+"Do It Yourself" ritual=
+ manuals for short Homam and Pitri Tarpana:<br>
+                   <a rel=
+=3D"nofollow" target=3D"_blank" href=3D"http://www.VedicAstrologer.org">htt=
+p://www.VedicAstrologer.org</a><br>
+      Films that make a difference: <a =
+rel=3D"nofollow" target=3D"_blank" href=3D"http://SaraswatiFilms.org">http:=
+//SaraswatiFilms.org</a><br>
+      Spirituality: <a rel=3D"nofollow" target=
+=3D"_blank" href=3D"http://groups.yahoo.com/group/vedic-wisdom">http://grou=
+ps.yahoo.com/group/vedic-wisdom</a><br>
+   Jyotish writings: <a rel=3D"nofo=
+llow" target=3D"_blank" href=3D"http://groups.yahoo.com/group/JyotishWritin=
+gs">http://groups.yahoo.com/group/JyotishWritings</a><br>
+                 =
+     Twitter ID: @homam108<br>
+--------------------------------------------=
+--------------<br>
+</div>
+
+    </div>
+     
+
+
+
+</div>
+
+
+
+
+
+</div><br><br> <=
+/div> </div>  </div></body></html>
+---1604987517-1110385011-1324234440=:90723--
+
+
