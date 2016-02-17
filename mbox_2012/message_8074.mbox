@@ -1,0 +1,373 @@
+From cvspavan@...  Wed Feb 17 11:10:10 2016
+Return-Path: <cvspavan@...>
+X-Sender: cvspavan@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 47218 invoked from network); 26 Mar 2012 09:24:36 -0000
+X-Received: from unknown (98.137.34.45)
+  by m1.grp.sp2.yahoo.com with QMQP; 26 Mar 2012 09:24:36 -0000
+X-Received: from unknown (HELO nm7-vm5.bullet.mail.sg3.yahoo.com) (106.10.148.180)
+  by mta2.grp.sp2.yahoo.com with SMTP; 26 Mar 2012 09:24:35 -0000
+X-Received: from [106.10.166.62] by nm7.bullet.mail.sg3.yahoo.com with NNFMP; 26 Mar 2012 09:24:34 -0000
+X-Received: from [106.10.151.203] by tm19.bullet.mail.sg3.yahoo.com with NNFMP; 26 Mar 2012 09:24:34 -0000
+X-Received: from [127.0.0.1] by omp1015.mail.sg3.yahoo.com with NNFMP; 26 Mar 2012 09:24:34 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 494631.83955.bm@...
+X-Received: (qmail 2156 invoked by uid 60001); 26 Mar 2012 09:24:34 -0000
+X-YMail-OSG: mwgTRjoVM1mMdEEfWl.jS.DbanrfKY.7SWI6Ra8bsdTCT5x
+ KT9T05rSIECAr.YV6jLCWtKzo7wEQRQABmh_2ugywwaE2ptUh3f2NzvBAfPR
+ QNNhBUXXyaypdXOfD1rML5Ge6ILBOk6B61JphJCwt1D.FMn0wYpFVDUGgsCx
+ gNCjiSgs.VmcZMFVviuNbvApHnp_wFC7HYayVy5Io0tBfq2VQANPaChTzR2q
+ MYXTtxsZQSDUNSiYqMis_ax0W5PiRBZtDxq_nAVM7zyB7lskQtn0hDcdANlu
+ e_P5Q.saYymC7FiqRn4yYMlPy8Sry1wrLSndX81h4k3zmMaN_g59AsVngXWr
+ cDHdrk0oAVA.ONInrTXqEvCgDjBZeK8MEwqiZApnbSAj6VmzYtaG4on90tlH
+ QTPmXOdXj7hHOMV6KRGpL9KjtQWrCAIAYeyzNVREJyyFLik26n.A.FGnyM_W
+ gOpJ7vPTxvO0DSocMkWHQYbee_r0NHJtJ8BaxlilWPGA9HhztGD.pcUD1UeB
+ Nd8_A2FG63myDExC9gctdWNnsUtIMMVkiytU6y34kkQl1OXYA1xv.xXIn5hn
+ MHOqmyEeheb4gHjXcjYMoVkIvsM7Nech1v6m0En3W3qwsQPGBnCG895otatK
+ a45.Mz9XTXcwWQIhjr.RmMZAZIQzD65xooQQh7z5BjAJ8QGjWQXktwfXatnW
+ A0ZRHA_YLrqCUPu14mdm62Luitxykq9V8YaKs0fjayVUcQZw1ed_dVh_JO6C
+ nVuFyzY23LjBUp0BArYzKDlBnU7D4wkzmF3k1jSZRMzflHEdi0T1cPptTCsU
+ ltlFs0vN_39u6h6He_MtPnWDUH_AEub9qfubNH54_AJWLIH6JlH5sv03Kf.Z
+ NINutktb6jlll.3ZUk1nckiw5K30odApXNjZbpMp2vhiStEWxbALjpID3fcV
+ 2XV3wsR_025JeSIyAZoSjyhrwl6GgskJn2N1Ps22bfFtUwfQM2TOCmLwkLz6
+ KNNJy6jLfl9Mpx2B4P4VtK0BA6XELBPRB_9GgGjXkXj15K8G30aZVBmRHuLY
+ 7GpIYu7TvN7wB60x6cGar0Xrx9k7NbaOZyKGM9ZHY.2Olwu4_7SmF6biLHxA
+ i.kawPYzTlnWfcK.UXq4vqB4InAC75jDF3rJr9DOwdfGRJwB7yMRF0.A8xhJ
+ tc16f91keyyVikSEBw6zs1z1NKMZ9PtbOiNW.7LJ.GS2ybZzNbG1jPBelhoT
+ Wd8OpOkIvkLuHIRQ_gTwhk.ANvtM_QkcMCLrw.6f1PrPyiAz4brhOB2z.W6R
+ jOCtO4Fiig4cYsv7g_LR_WJorPOUZ1dys5pU0RLrZZeP6nAFhvnH8MMSm2zs
+ rwOnkRCQQcf8L0WOMMPhFTykgQcGLGQoNlq9Oft3rHHivMerX0ftQ7_a3z99
+ n4kwXrMeZC5rPsKG21di18ZbfdD__uV25np6zGYlFN4dlZXxdzR9.1FhIpNi
+ hHr8m3cM8EA_06Eyz5GmkzslC_HH0N7uq66qaerRJWRmyIJo_rEpBi6TRMeU
+ 8OhlfxX6LAoEaOtIAsPoWxWpC5E_mNH922zjNRXbQj9Z0VSwOuDnDV_WqKjl
+ RjR323QInph7oiVvhTXKtjR355pnA0DPo61IMv_FexMWSN2LwI5blYsferr0
+ fJgEjbWQ.LS8Ldub.AnKBxJeiV4ScwWzOT86WbuUV9EKdhADKEb9P_1MpaOy
+ mqhYRrke0G.u94VgcJE5wcR97ZFhTOOHzhcHjwpvjlmRWnvmMXIu5gKX0U6k
+ 8aZaA0hamXsDne9MS.XXT.TWWpBpUjuePCMYQrwZkLDVt2rDZX2wItBJgyso
+ d68wCjoDEdygohnjkeWXOba8t046ZyQ--
+X-Received: from [205.203.130.22] by web192506.mail.sg3.yahoo.com via HTTP; Mon, 26 Mar 2012 17:24:34 SGT
+X-Mailer: YahooMailClassic/15.0.5 YahooMailWebService/0.8.117.340979
+Message-ID: <1332753874.60836.YahooMailClassic@...>
+Date: Mon, 26 Mar 2012 17:24:34 +0800 (SGT)
+To: vedic-wisdom@yahoogroups.com
+In-Reply-To: <jko4ra+h24p@...>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="-848367683-818788774-1332753874=:60836"
+X-Originating-IP: 106.10.148.180
+X-eGroups-Msg-Info: 1:12:0:0:0
+From: pavan kumar <cvspavan@...>
+Subject: Re: [vedic-wisdom] First homam experience
+X-Yahoo-Group-Post: member; u=177870519; y=Pfhws5PnqMaB3N036x9Q2nNtg06u3TKDb8k8sDiD4hkmZr4
+X-Yahoo-Profile: cvspavan
+
+
+---848367683-818788774-1332753874=:60836
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+I believe that it doesn't matter if you perform homam for 3hrs or 3 mins an=
+d with many materials or little materials. Minimum things are always requir=
+ed.All it matters is the concentration and belief in performing homam and o=
+n GOD. We pray GOD with fear and not with belief and love. 
+There is always=
+ a mantra in the end 'Kriya heenam...', which says 'Oh Lord please excuse u=
+s for wrong doing by ignorance and materialize our offerings'. 
+Performing =
+japam for 10X times is to please GOD. Each GOD has their unique way of plea=
+sing them. Doing homam in such short cut ways might not give desired result=
+s though in many cases it doesn't harm. 
+=C2=A0
+=C2=A0
+Thanks,
+Pavan
+
+--- O=
+n Mon, 26/3/12, king_tanvir <lord_rex@...> wrote:
+
+
+From: king_tanvir =
+<lord_rex@...>
+Subject: [vedic-wisdom] First homam experience
+To: vedi=
+c-wisdom@yahoogroups.com
+Date: Monday, 26 March, 2012, 3:35
+
+
+
+=C2=A0 
+
+
+
+N=
+amaste Narasimha Ji and other members
+
+I have performed a super-short Shani=
+ Homam this evening. I thank you for guiding me so detailed... without your=
+ manual it would never be possible.
+
+Interesting point to note, that in Dec=
+ of 2005 I visited India and stayed with a Brahmin family for about 10 days=
+ and the ONLY PURPOSE of my visit was to learn doing homam! However I was d=
+isappoint because their procedure was so big that it would take about 3 hou=
+rs for the homam, and many more materials also. Of course, they learnt it f=
+rom 'guru-kulam' and it was their own tradition. They are not a modern rese=
+archer like you [Narasimha Ji] who could compare many traditions, research =
+on them, and even come up with a shorter version. They had no idea that a s=
+horter version is possible, or something can be left out. As an example, th=
+ey suggested a mantadory japam of 10x times before I do an 'x' times offeri=
+ng in homam, and many more formalities.
+
+So, I knew in Bangladesh I would n=
+ever have so much materials needed, and I would not be able to perform a 3 =
+hour homam regularly, so it was of no use. 
+
+Much later when I was reading =
+your manual, I remember about Achamanan, Raksha etc. from their teaching :-=
+)
+
+Anyway Ji...
+
+Everything was almost as per recommendation, except I used=
+ a melamine spoon to offer ghee, because I couldn't manage a wooden spoon e=
+ven after a lot of effort. May be I have to order it... but I will have to =
+work much hard to find a craft-man who can make a spoon with wood.
+
+I burnt=
+ the fire with mango-wood and jute-sticks.
+
+Purnahuti with ghee only.
+
+That=
+ WAS the problem. Soon after starting the fire, I had an idea how fast the =
+woods were burning. So while I was moving with the homam, I knew that with =
+a big stream of ghee as a purnahuti, the fire will not survive long to allo=
+w me meditate even 5 mins. Because the woods were burning out fast.
+
+So I c=
+ould not meditate.
+
+My first Q. - 1) Would you have any suggestion how can =
+I make the fire last long so that it burns for at least 10 mins allowing me=
+ mediate? I noted even if I had put much wood, they would still burn out fa=
+st...
+
+Offering full / half coconut seems to be the only thing that would k=
+eep the fire alive for 10-15 mins and let me meditate.
+
+Another Q. - 2) I h=
+ave sliced coconut copras and drying them for last 3-4 days, I can dry them=
+ no matter how long it takes, so that I can use them as suggested in the ma=
+nual. HOWEVER, my question is - how to I dry a "FULL" coconut so much that =
+it becomes BURNABLE for purnahuti? I mean, I am drying sliced coconuts... b=
+ut if I keep a full coconut somewhere for a few days, will not it be rotten=
+ or something? Any procedure? I am asking this because here no one has any =
+idea about that, because no one even thinks of having "burnable" full cocon=
+uts. That is why.
+
+Mantras work very strong for me. But I feel not strong e=
+nough for big spiritual or material effects. I have had very strong experie=
+nces with homam before while performing with others. Even a few times I *ar=
+ranged* homams for others and I always directly felt a strong effect workin=
+g on me also.
+
+Today with the homam, the effect was not that strong. I know=
+ why, because it was a super-short homam, with many mantras left. Also, I s=
+hould honestly admit that when I imagined Lord Ganesha and Lord Shani Deva =
+in the fire, the imagination was not 100% strong. Because, I was worried an=
+d nervous about making mistake, so I could not 100% focus on their presence=
+. Which I should. I guess it will improve with time.
+
+I am going to add man=
+tras from the main homam soon, common mantras which are needed in all homam=
+s like Anugya, Kalasha Suddhi, Agni Deva prayer etc. Also I guess Avahana-r=
+elated Sanskrit mantras are very important.
+
+By the way I did 108 offerings=
+ with Veda-Vyasa Shani mantra and then 21 offerings with the smallest Shani=
+ mantra again.
+
+I am thankful to the ultimate divinity that at least I didn=
+'t have any negative experience after the homam. I was pretty nervous about=
+ the possibility. Because long back in 2002-2003 when I started mantras, al=
+most everyday I faced negative energies for the imperfection of pronunciati=
+on and procedures. Sometimes the negatives were so strong. But I didn't giv=
+e up and tried to understand the correct ways because since I saw the power=
+ in it, I had to find what's the right way to get the pure blessings, avoid=
+ing mistakes.
+
+As an example, you [Narasimha Ji] instructed to stay in an e=
+mpty stomach while doing homam. I find this 100% true from my mantra japam =
+experience. Though no website or almost no one instructed me to stay empty =
+stomached in japam, I found that mantras work very strong with empty stomac=
+h. Also, I always got strong negative effects when I did japam after my din=
+ner. Thus, I learned this from my own experience but after a lot of trouble=
+s faced [for the wrong practices I did]! Now days, I can't eat anything aft=
+er my lunch... because I do mantras in the evening. At times it becomes ver=
+y difficult not to eat something as I sometimes hang out with friends etc. =
+at afternoon or early evening. But I have no choice.
+
+That is the thing I a=
+ppreciate about you [Narasimha Ji] to make the small [yet very important] t=
+hings always mentioned.
+
+Same thing about your instruction of minimum movem=
+ent of the body, I find it very correct.
+
+Anyway Ji I guess I am stretching=
+ my mail very long...
+
+my 3rd Q. - 3) As per your manual if I take Shani as=
+ an expression of the ultimate cosmic power or divinity, I can offer other =
+Gods' mantras in fire too. Can I do a Navagraha homam this way, or at least=
+ a homam for 6-7 grahas?
+
+4) If yes, should I maintain the graha order such=
+ as Surya, Chandra, Kuja and so on?
+
+5) Is there any exceptional instructio=
+n while doing homam of Rahu and Ketu etc., or just like Shani?
+
+Wanted to m=
+ention that I am also planning to do homam of Maha Lakshmi and other deitie=
+s but manuals for those deities are already there, hence these additional q=
+uestions about graha-homams.
+
+Appreciate your time to answer me.
+
+Thanking =
+you again,
+Tanvir
+
+
+
+
+
+
+
+---848367683-818788774-1332753874=:60836
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<table cellspacing=3D"0" cellpadding=3D"0" border=3D"0" ><tr><td valign=3D"=
+top" style=3D"font: inherit;"><DIV>I believe that it doesn't matter if you =
+perform homam for 3hrs or 3 mins and with many materials or little material=
+s. Minimum things are always required.All it matters is the concentration a=
+nd belief in performing homam and on GOD. We pray GOD with fear and not wit=
+h belief and love. </DIV>
+<DIV>There is always a mantra in the end 'Kriya h=
+eenam...', which says 'Oh Lord please excuse us for wrong doing by ignoranc=
+e and materialize our offerings'. </DIV>
+<DIV>Performing japam for 10X time=
+s is to please GOD. Each GOD has their unique way of pleasing them. Doing h=
+omam in such short cut ways might not give desired results though in many c=
+ases it doesn't harm. </DIV>
+<DIV> </DIV>
+<DIV> </DIV>
+<DIV>Thank=
+s,</DIV>
+<DIV>Pavan</DIV>
+<DIV><BR>--- On <B>Mon, 26/3/12, king_tanvir <I>&=
+lt;lord_rex@...></I></B> wrote:<BR></DIV>
+<BLOCKQUOTE style=3D"PADD=
+ING-LEFT: 5px; MARGIN-LEFT: 5px; BORDER-LEFT: rgb(16,16,255) 2px solid"><BR=
+>From: king_tanvir <lord_rex@...><BR>Subject: [vedic-wisdom] Fir=
+st homam experience<BR>To: vedic-wisdom@yahoogroups.com<BR>Date: Monday, 26=
+ March, 2012, 3:35<BR><BR>
+<DIV id=3Dyiv519082554>
+<DIV><SPAN style=3D"DISP=
+LAY: none"> </SPAN> 
+<DIV id=3Dyiv519082554ygrp-text>
+<DIV>Namaste Nar=
+asimha Ji and other members<BR><BR>I have performed a super-short Shani Hom=
+am this evening. I thank you for guiding me so detailed... without your man=
+ual it would never be possible.<BR><BR>Interesting point to note, that in D=
+ec of 2005 I visited India and stayed with a Brahmin family for about 10 da=
+ys and the ONLY PURPOSE of my visit was to learn doing homam! However I was=
+ disappoint because their procedure was so big that it would take about 3 h=
+ours for the homam, and many more materials also. Of course, they learnt it=
+ from 'guru-kulam' and it was their own tradition. They are not a modern re=
+searcher like you [Narasimha Ji] who could compare many traditions, researc=
+h on them, and even come up with a shorter version. They had no idea that a=
+ shorter version is possible, or something can be left out. As an example, =
+they suggested a mantadory japam of 10x times before I do an 'x' times offe=
+ring in homam, and many more formalities.<BR><BR>So,
+ I knew in Bangladesh =
+I would never have so much materials needed, and I would not be able to per=
+form a 3 hour homam regularly, so it was of no use. <BR><BR>Much later when=
+ I was reading your manual, I remember about Achamanan, Raksha etc. from th=
+eir teaching :-)<BR><BR>Anyway Ji...<BR><BR>Everything was almost as per re=
+commendation, except I used a melamine spoon to offer ghee, because I could=
+n't manage a wooden spoon even after a lot of effort. May be I have to orde=
+r it... but I will have to work much hard to find a craft-man who can make =
+a spoon with wood.<BR><BR>I burnt the fire with mango-wood and jute-sticks.=
+<BR><BR>Purnahuti with ghee only.<BR><BR>That WAS the problem. Soon after s=
+tarting the fire, I had an idea how fast the woods were burning. So while I=
+ was moving with the homam, I knew that with a big stream of ghee as a purn=
+ahuti, the fire will not survive long to allow me meditate even 5 mins. Bec=
+ause the woods were burning out
+ fast.<BR><BR>So I could not meditate.<BR><=
+BR>My first Q. - 1) Would you have any suggestion how can I make the fire l=
+ast long so that it burns for at least 10 mins allowing me mediate? I noted=
+ even if I had put much wood, they would still burn out fast...<BR><BR>Offe=
+ring full / half coconut seems to be the only thing that would keep the fir=
+e alive for 10-15 mins and let me meditate.<BR><BR>Another Q. - 2) I have s=
+liced coconut copras and drying them for last 3-4 days, I can dry them no m=
+atter how long it takes, so that I can use them as suggested in the manual.=
+ HOWEVER, my question is - how to I dry a "FULL" coconut so much that it be=
+comes BURNABLE for purnahuti? I mean, I am drying sliced coconuts... but if=
+ I keep a full coconut somewhere for a few days, will not it be rotten or s=
+omething? Any procedure? I am asking this because here no one has any idea =
+about that, because no one even thinks of having "burnable" full coconuts. =
+That is
+ why.<BR><BR>Mantras work very strong for me. But I feel not strong=
+ enough for big spiritual or material effects. I have had very strong exper=
+iences with homam before while performing with others. Even a few times I *=
+arranged* homams for others and I always directly felt a strong effect work=
+ing on me also.<BR><BR>Today with the homam, the effect was not that strong=
+. I know why, because it was a super-short homam, with many mantras left. A=
+lso, I should honestly admit that when I imagined Lord Ganesha and Lord Sha=
+ni Deva in the fire, the imagination was not 100% strong. Because, I was wo=
+rried and nervous about making mistake, so I could not 100% focus on their =
+presence. Which I should. I guess it will improve with time.<BR><BR>I am go=
+ing to add mantras from the main homam soon, common mantras which are neede=
+d in all homams like Anugya, Kalasha Suddhi, Agni Deva prayer etc. Also I g=
+uess Avahana-related Sanskrit mantras are very important.<BR><BR>By the way=
+
+ I did 108 offerings with Veda-Vyasa Shani mantra and then 21 offerings wi=
+th the smallest Shani mantra again.<BR><BR>I am thankful to the ultimate di=
+vinity that at least I didn't have any negative experience after the homam.=
+ I was pretty nervous about the possibility. Because long back in 2002-2003=
+ when I started mantras, almost everyday I faced negative energies for the =
+imperfection of pronunciation and procedures. Sometimes the negatives were =
+so strong. But I didn't give up and tried to understand the correct ways be=
+cause since I saw the power in it, I had to find what's the right way to ge=
+t the pure blessings, avoiding mistakes.<BR><BR>As an example, you [Narasim=
+ha Ji] instructed to stay in an empty stomach while doing homam. I find thi=
+s 100% true from my mantra japam experience. Though no website or almost no=
+ one instructed me to stay empty stomached in japam, I found that mantras w=
+ork very strong with empty stomach. Also, I always got strong
+ negative eff=
+ects when I did japam after my dinner. Thus, I learned this from my own exp=
+erience but after a lot of troubles faced [for the wrong practices I did]! =
+Now days, I can't eat anything after my lunch... because I do mantras in th=
+e evening. At times it becomes very difficult not to eat something as I som=
+etimes hang out with friends etc. at afternoon or early evening. But I have=
+ no choice.<BR><BR>That is the thing I appreciate about you [Narasimha Ji] =
+to make the small [yet very important] things always mentioned.<BR><BR>Same=
+ thing about your instruction of minimum movement of the body, I find it ve=
+ry correct.<BR><BR>Anyway Ji I guess I am stretching my mail very long...<B=
+R><BR>my 3rd Q. - 3) As per your manual if I take Shani as an expression of=
+ the ultimate cosmic power or divinity, I can offer other Gods' mantras in =
+fire too. Can I do a Navagraha homam this way, or at least a homam for 6-7 =
+grahas?<BR><BR>4) If yes, should I maintain the graha
+ order such as Surya,=
+ Chandra, Kuja and so on?<BR><BR>5) Is there any exceptional instruction wh=
+ile doing homam of Rahu and Ketu etc., or just like Shani?<BR><BR>Wanted to=
+ mention that I am also planning to do homam of Maha Lakshmi and other deit=
+ies but manuals for those deities are already there, hence these additional=
+ questions about graha-homams.<BR><BR>Appreciate your time to answer me.<BR=
+><BR>Thanking you again,<BR>Tanvir<BR><BR></DIV></DIV></DIV></DIV></BLOCKQU=
+OTE></td></tr></table>
+---848367683-818788774-1332753874=:60836--
+
+

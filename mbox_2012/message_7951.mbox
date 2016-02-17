@@ -1,0 +1,439 @@
+From charan_ssv@...  Wed Feb 17 11:10:08 2016
+Return-Path: <charan_ssv@...>
+X-Sender: charan_ssv@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 57197 invoked from network); 29 Feb 2012 12:35:46 -0000
+X-Received: from unknown (98.137.35.160)
+  by m6.grp.sp2.yahoo.com with QMQP; 29 Feb 2012 12:35:46 -0000
+X-Received: from unknown (HELO nm36-vm3.bullet.mail.sg3.yahoo.com) (106.10.151.78)
+  by mta4.grp.sp2.yahoo.com with SMTP; 29 Feb 2012 12:35:45 -0000
+X-Received: from [106.10.166.112] by nm36.bullet.mail.sg3.yahoo.com with NNFMP; 29 Feb 2012 12:35:43 -0000
+X-Received: from [106.10.151.155] by tm1.bullet.mail.sg3.yahoo.com with NNFMP; 29 Feb 2012 12:35:43 -0000
+X-Received: from [127.0.0.1] by omp1009.mail.sg3.yahoo.com with NNFMP; 29 Feb 2012 12:35:43 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 592007.26556.bm@...
+X-Received: (qmail 97740 invoked by uid 60001); 29 Feb 2012 12:35:43 -0000
+X-YMail-OSG: s2cD98oVM1mi8fVu5A0fi7p8s8_KhWHdDZ7zb6Qwus_E2TY
+ IgUHUxolUH1f6LFpbLG5AAspD5FQohSLKXK1J48TY9bjR50qAt5GxRLTbiEL
+ Rh3mAYOpMSkhW02YfOMQsOkEdmcQZ2Vt4WbzhAGFL981lrWfCB8ARr8XaN2u
+ njmsld2Xb1o79MfUifKyhpvwiVy1n4C_4L_xiOvI4x.UsMana9Tn0grJIOqy
+ .6HZryctqpEh__UsZI.DiMGeDn1z4.oOentKsYyAJI5CPalKxNSweCk5SXCm
+ Y_DZxHRpZdRZpKLCYSFUyjzhsUppCri6rCD.ekRC9_cQPNrP6hwsKeMy0_4p
+ jrdds7rri0EValBZPgho4kBEV_Vb4pIE0FeLGMu2DhiPkkv8SaG3WNOLrnCv
+ 9suJtrDohMZaRuN2lV71T71k4_5G0rpq7nSrSbciSSn.EcT2LOOMWJkt8VZi
+ HAUQW2NtMuOJaviH.wsnBNoJ028.OlXuMse416F6VGubr1KjgGG1u6SvuJhM
+ Gb54Yx89yXeOzIBVaKy.D7uA_k2kkEJLYgW_wuNonSazdm.YHzGVhRwYB3Qf
+ jCZip0D1gGCNu8x4GHisAzpmFdPLbUDGeaT2LZD7ToOA6kIjt5Im2LVUdovb
+ q97XPEtPF4TfzF_T21naW46ULCkVbBYPyW3qg5idmFZJ8JWyZSDWutEe_Hy6
+ WEVzdaNOVBgvXwD5fOTwW0K8pozzKeeWt5x.2S3jdAYoSZ3oSpzTv.t9Rm4i
+ Hax0GxAPkfzzCAOA5XpXGmfESVEYF1KaF_n5ObupV_smYzAUk2MrJKOXssX6
+ 3Ke85NPM.HoKgbUCKYn2wg7z9rESMDueqjdH8Q988d3ik_GgUeRdBEYLJNE_
+ vFrAjg9lhNFuglnvn9FQPWuNw0hbgVMFXc2uP6Zju6eqUg1sf.d3MKiA94xe
+ ODI73Fa_pgsHKJ2csMsX1Fjbj9stoeFcEgMj0nEHijSa3kFYDH7JAvLgYb3e
+ 0pvk8kuV8E3a.elAVpqfSGulQa.kGVe5tfSOrF0c21y3miwHepAisHyyK5LD
+ wpmzgF5phtPDZYdrlonTk7XkTUa3Rl.qEogOdks0mS9hbst454o11vP9eVSK
+ 6EdCcWAGtl3fOY5uZqZye0_yads2f73MgLiIBt1WggthmIfV2NTBQNUmMWOK
+ MEdzRDQHLFrVmuH7qqEZdz0qXRjEkYgkB4Dvl5kUzb51MG5QsGaUbnbK1LGY
+ pJwFc.bF6whEvhVcQIW2P9mgaj7KgeiF8QESH0fi5FVGz4LCxHc3WiVAGVgR
+ Jw14lG6gcp5GoIwITTUou7e1vsxalceawT__xoCqwG_NpndJxS2MrydoG1eN
+ ZpFBjQH6nz5EttrOtU3T1Df0Z4H09c11SKxJhIN0GmJTbVTOPEGSEM1L1sUv
+ YsymuA1wILHw2_r0o.u_6z0_H5zPLcoLT0Wt9ulLd9yjhvHt1MB1ncGpbco4
+ h6jWcJWrf9ViKKSDXtuB7aIEqGbGjAjBmHKzckjUi5kvSPRg7gaE6ckopdlM
+ XRgnqFYIJ48Vsakf3hzlUA4jONo_UDgjrHARGyddz_8Y0h5HIr_xB8eWbnbI
+ orSBiQ3pW94down7I8ssFdsAao5mGAdKUe4qjL0iHultuTRZ7TecsIv5.uuA
+ ifDvgY5yX97I.yLc9hLoolS28RVMMWaGnWYCUmbQMXGuMCAGifyHcidbUpXm
+ fOnjLMKHggsyQCwZJiBAk_WpqQjxVyhnvG5XH4x5mawINNKcA7Jt9z9rCQQD
+ X75qs7LNLUejLyc54blSEzHnQ1TJ6RzCJfngPHeShihy7z_xjrAlOgnW9UHG
+ XkyjBDFT7Q6KUYTcoSaZmq5YQv7cS6mItvI4XW26eDJt07qTjZC0tL7ZsRhz
+ 3mVUk18VYLsV6JL6uePVp3MIXmie4bOVb93pAVmPGarwIwsKzZEmb6MmOnbo
+ rvdGYayaAB5Z0TjIsDbdxRjkmgurub2Gw.jciMtcn5_WR8.2ZNY8aEpeyEB6
+ RX4.8cUCwMdaRsH9HFmLGjyIlGTUIQkFj74rbJ3DFsujK6MFy7fszYR3o6q7
+ m35sCDP.tV3L7GA2Squp9QCKUt_7m3SJB62ex45tUefiX4GNCde9HJu.IFmF
+ .
+X-Received: from [138.246.2.108] by web192201.mail.sg3.yahoo.com via HTTP; Wed, 29 Feb 2012 20:35:43 SGT
+X-Mailer: YahooMailWebService/0.8.116.338427
+References: <CAE60OE1zrNe2atL9_kByGDXDnk-9X8G8H+NuaZDVp-SpBJeLDA@...>
+Message-ID: <1330518943.88932.YahooMailNeo@...>
+Date: Wed, 29 Feb 2012 20:35:43 +0800 (SGT)
+To: "vedic-wisdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com>
+In-Reply-To: <CAE60OE1zrNe2atL9_kByGDXDnk-9X8G8H+NuaZDVp-SpBJeLDA@...>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="-1874337156-788304929-1330518943=:88932"
+X-Originating-IP: 106.10.151.78
+X-eGroups-Msg-Info: 1:12:0:0:0
+From: Saranyan <charan_ssv@...>
+Reply-To: Saranyan <charan_ssv@...>
+Subject: Re: [vedic-wisdom] The ways of karma By Sri Sri RaviSankar
+X-Yahoo-Group-Post: member; u=215634901; y=8-RKf-TiB-uCfOSwqLB_R6j2krO5bx7EsASfI2B5KxCyf7p-ow
+X-Yahoo-Profile: charan_ssv
+
+
+---1874337156-788304929-1330518943=:88932
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+
+
+
+
+Dear Prasanth,
+
+=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=
+=C2=A0=C2=A0 With all respects to Sri Ravishankar, wouldn't it be enough to=
+ cite or paste material in as much as it contributes or negates a discussio=
+n and keep discussions personal, simple and direct otherwise?
+
+=C2=A0best r=
+egards,
+=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0 Saranyan
+=C2=A0=C2=A0=C2=A0=C2=
+=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=
+=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=
+=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=
+=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=
+=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=
+=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=
+=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=
+=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=
+=A0=C2=A0  =C2=A0
+
+________________________________
+ From: Prasanth Jalasut=
+ram <jvrsprasanth@...>
+To: 
+Sent: Tuesday, 28 February 2012 8:21 PM
+S=
+ubject: [vedic-wisdom] The ways of karma By Sri Sri RaviSankar
+ 
+
+=C2=A0 
+E=
+very object in the universe is endowed with four
+characteristics: dharma, k=
+arma, prema and gyana. Of these, karma is the most
+talked about; it is also=
+ the most misunderstood. The Gita says: "Gahna
+Karmanyo Gathi" -- Unfathoma=
+ble are the ways of karma. 
+=C2=A0
+There are three types of karma: Prarabha=
+, sanchita and
+agami. The first is latent karma, an impression or seed of a=
+ction. The second
+is karma as action, and the third is karma as result. Pra=
+rabha means 'begun';
+the action that is already manifesting and that is yie=
+lding its effect right
+now. You cannot avoid it or change it, as it is alre=
+ady happening. Sanchita is
+accumulated karma. It is latent or manifested in=
+ the form of a tendency or
+impression in the mind. 
+=C2=A0
+Sanchita karma c=
+an be burned off by spiritual practices
+before it manifests. Agami karma is=
+ the future karma of action; that which has
+not yet come and which will tak=
+e effect in the future. If you commit a crime,
+you may not get caught today=
+, but will live with the possibility that one day
+you may get caught. 
+=C2=
+=A0
+Karma is also always bound by time, because every action has
+a limited =
+reaction. If you do something good to people they will come to thank
+you an=
+d be grateful to you as long as they are experiencing the effect of your
+ac=
+tion. So, karma has only a limited sphere of its effect, be it good or bad.=
+ 
+=C2=A0
+It is often asked, "Why are good people made to
+suffer while those=
+ who commit injustice go unpunished?" Such questions
+arise when we see an e=
+vent in its limited framework. No good action will yield
+a bad result and n=
+o bad action will bring a good result. This is the law of
+karma. As you sow=
+, so shall you reap. If you sow a mango tree, some thorny
+bushes may come u=
+p because of the seeds present in the manure brought from
+somewhere else. I=
+t is not the mango seed that brings up the thorny bush. Your
+mango seed wil=
+l bring mango fruit, in due course. 
+=C2=A0
+Karma is that which propels rei=
+ncarnation. The stronger the
+impression, the greater the possibility of the=
+ next life being according to
+that. So, often you reincarnate like the pers=
+on you hate or love. The mind
+which is full of different impressions leaves=
+ this body but the impressions
+await suitable situations to come back. So t=
+he last thought is very important.
+Whatever you do throughout your life, in=
+ the last moment your mind should be
+free and happy. 
+=C2=A0
+Our perception=
+ of suffering, of good and bad, is always
+relative. God is absolute reality=
+; a witness of all. See God as movie director,
+rather than as a judge. He h=
+as no ill feeling for the villain and no special
+favour for the hero. Each =
+one is playing her role. 
+=C2=A0
+An awareness of dharma helps in comprehend=
+ing the strange
+ways of karma. Whenever you see bad karma or someone suffer=
+ing, you need to
+help. That is your dharma. If you do not do your dharma, t=
+hen you incur bad
+karma for not having done your dharma. Take recourse in y=
+our dharma to
+transcend the bondage of karma and avoid getting stuck with e=
+vents or
+personalities. Live with karma; don't be attached to it. 'See acti=
+on in
+inaction and inaction in action' says the Gita. Awareness, alertness,=
+ knowledge
+and meditation will help erase past impressions. It has the stre=
+ngth to
+dissolve and destroy any karma and free you.
+=C2=A0
+http://timesofi=
+ndia.indiatimes.com/life-style/spirituality/vintage-wisdom/The-ways-of-karm=
+a/articleshow/8603911.cms
+-- 
+=E0=B0=93=E0=B0=82=C2=A0 =E0=B0=A8=E0=B0=AE=
+=E0=B1=8B=C2=A0 =E0=B0=AD=E0=B0=97=E0=B0=B5=E0=B0=A4=E0=B1=87=C2=A0 =E0=B0=
+=B6=E0=B1=8D=E0=B0=B0=E0=B1=80=C2=A0 =E0=B0=B0=E0=B0=AE=E0=B0=A3=E0=B0=BE=
+=E0=B0=AF=C2=A0=C2=A0 
+=E0=B0=AA=E0=B1=8D=E0=B0=B0=E0=B1=87=E0=B0=AE=E0=B1=
+=87 =E0=B0=B6=E0=B0=BE=E0=B0=B6=E0=B1=8D=E0=B0=B5=E0=B0=A4=E0=B0=AE=E0=B1=
+=81=C2=A0 
+
+
+ 
+---1874337156-788304929-1330518943=:88932
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"color:#000; background-color:#fff; font-family:ti=
+mes new roman, new york, times, serif;font-size:12pt"><div><span><br></span=
+></div><br><div><br>Dear Prasanth,</div><div><br></div><div>  &nb=
+sp;         With all respects to Sr=
+i Ravishankar, wouldn't it be enough to cite or paste material in as much a=
+s it contributes or negates a discussion and keep discussions personal, sim=
+ple and direct otherwise?</div><div><br></div><div> best regards,</div=
+><div>      
+ Saranyan<br></div>  &=
+nbsp;           &nbs=
+p;            &=
+nbsp;           &nbs=
+p;            &=
+nbsp;           &nbs=
+p;            &=
+nbsp;           &nbs=
+p;            &=
+nbsp;       <div style=3D"font-family: times new roman, new =
+york, times, serif; font-size: 12pt;"> <div style=3D"font-family: times new=
+ roman, new york, times, serif; font-size: 12pt;"> <div dir=3D"ltr"> <font =
+face=3D"Arial" size=3D"2"> <hr size=3D"1">  <b><span style=3D"font-weight:b=
+old;">From:</span></b> Prasanth Jalasutram
+ <jvrsprasanth@...><=
+br> <b><span style=3D"font-weight: bold;">To:</span></b>  <br> <b><span sty=
+le=3D"font-weight: bold;">Sent:</span></b> Tuesday, 28 February 2012 8:21 P=
+M<br> <b><span style=3D"font-weight: bold;">Subject:</span></b> [vedic-wisd=
+om] The ways of karma By Sri Sri RaviSankar<br> </font> </div> <br><div id=
+=3D"yiv1656504443">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div>
+<span style=3D"display:none;"> =
+</span>
+
+
+
+    <div id=3D"yiv1656504443ygrp-text">
+      
+      
+      <div=
+ class=3D"yiv1656504443gmail_quote"><div lang=3D"EN-GB"><div><div class=3D"=
+yiv1656504443MsoNormal">Every object in the universe is endowed with four
+c=
+haracteristics: dharma, karma, prema and gyana. Of these, karma is the most=
+
+talked about; it is also the most misunderstood. The Gita says: "Gahna
+Kar=
+manyo Gathi" -- Unfathomable are the ways of karma. <u></u><u></u></div>
+
+<=
+div class=3D"yiv1656504443MsoNormal"><u></u> <u></u></div>
+
+<div class=
+=3D"yiv1656504443MsoNormal">There are three types of karma: Prarabha, sanch=
+ita and
+agami. The first is latent karma, an impression or seed of action. =
+The second
+is karma as action, and the third is karma as result. Prarabha m=
+eans 'begun';
+the action that is already manifesting and that is yielding i=
+ts effect right
+now. You cannot avoid it or change it, as it is already hap=
+pening. Sanchita is
+accumulated karma. It is latent or manifested in the fo=
+rm of a tendency or
+impression in the mind. <u></u><u></u></div>
+
+<div clas=
+s=3D"yiv1656504443MsoNormal"><u></u> <u></u></div>
+
+<div class=3D"yiv1=
+656504443MsoNormal">Sanchita karma can be burned off by spiritual practices=
+
+before it manifests. Agami karma is the future karma of action; that which=
+ has
+not yet come and which will take effect in the future. If you commit a=
+ crime,
+you may not get caught today, but will live with the possibility th=
+at one day
+you may get caught. <u></u><u></u></div>
+
+<div class=3D"yiv16565=
+04443MsoNormal"><u></u> <u></u></div>
+
+<div class=3D"yiv1656504443MsoN=
+ormal">Karma is also always bound by time, because every action has
+a limit=
+ed reaction. If you do something good to people they will come to thank
+you=
+ and be grateful to you as long as they are experiencing the effect of your=
+
+action. So, karma has only a limited sphere of its effect, be it good or b=
+ad. <u></u><u></u></div>
+
+<div class=3D"yiv1656504443MsoNormal"><u></u>&nbs=
+p;<u></u></div>
+
+<div class=3D"yiv1656504443MsoNormal"><b>It is often asked=
+, "Why are good people made to
+suffer while those who commit injustice go u=
+npunished?" Such questions
+arise when we see an event in its limited framew=
+ork. No good action will yield
+a bad result and no bad action will bring a =
+good result. This is the law of
+karma. As you sow, so shall you reap. If yo=
+u sow a mango tree, some thorny
+bushes may come up because of the seeds pre=
+sent in the manure brought from
+somewhere else. It is not the mango seed th=
+at brings up the thorny bush. Your
+mango seed will bring mango fruit, in du=
+e course. <u></u><u></u></b></div>
+
+<div class=3D"yiv1656504443MsoNormal"><=
+u></u> <u></u></div>
+
+<div class=3D"yiv1656504443MsoNormal">Karma is t=
+hat which propels reincarnation. The stronger the
+impression, the greater t=
+he possibility of the next life being according to
+that. So, often you rein=
+carnate like the person you hate or love. The mind
+which is full of differe=
+nt impressions leaves this body but the impressions
+await suitable situatio=
+ns to come back. So the last thought is very important.
+Whatever you do thr=
+oughout your life, in the last moment your mind should be
+free and happy. <=
+u></u><u></u></div>
+
+<div class=3D"yiv1656504443MsoNormal"><u></u> <u>=
+</u></div>
+
+<div class=3D"yiv1656504443MsoNormal">Our perception of sufferi=
+ng, of good and bad, is always
+relative. God is absolute reality; a witness=
+ of all. See God as movie director,
+rather than as a judge. He has no ill f=
+eeling for the villain and no special
+favour for the hero. Each one is play=
+ing her role. <u></u><u></u></div>
+
+<div class=3D"yiv1656504443MsoNormal"><=
+u></u> <u></u></div>
+
+<div class=3D"yiv1656504443MsoNormal">An awarene=
+ss of dharma helps in comprehending the strange
+ways of karma. Whenever you=
+ see bad karma or someone suffering, you need to
+help. That is your dharma.=
+ If you do not do your dharma, then you incur bad
+karma for not having done=
+ your dharma. Take recourse in your dharma to
+transcend the bondage of karm=
+a and avoid getting stuck with events or
+personalities. Live with karma; do=
+n't be attached to it. 'See action in
+inaction and inaction in action' says=
+ the Gita. Awareness, alertness, knowledge
+and meditation will help erase p=
+ast impressions. It has the strength to
+dissolve and destroy any karma and =
+free you.<u></u><u></u></div>
+
+<div class=3D"yiv1656504443MsoNormal"><u></u=
+> <u></u></div>
+
+<div class=3D"yiv1656504443MsoNormal"><a rel=3D"nofol=
+low" target=3D"_blank" href=3D"http://timesofindia.indiatimes.com/life-styl=
+e/spirituality/vintage-wisdom/The-ways-of-karma/articleshow/8603911.cms">ht=
+tp://timesofindia.indiatimes.com/life-style/spirituality/vintage-wisdom/The=
+-ways-of-karma/articleshow/8603911.cms</a><u></u><u></u></div>
+
+
+<div class=
+=3D"yiv1656504443MsoNormal"><br><u></u></div></div></div></div>-- <br>=E0=
+=B0=93=E0=B0=82  =E0=B0=A8=E0=B0=AE=E0=B1=8B  =E0=B0=AD=E0=B0=97=
+=E0=B0=B5=E0=B0=A4=E0=B1=87  =E0=B0=B6=E0=B1=8D=E0=B0=B0=E0=B1=80 =
+; =E0=B0=B0=E0=B0=AE=E0=B0=A3=E0=B0=BE=E0=B0=AF   <br>=E0=B0=AA=
+=E0=B1=8D=E0=B0=B0=E0=B1=87=E0=B0=AE=E0=B1=87 =E0=B0=B6=E0=B0=BE=E0=B0=B6=
+=E0=B1=8D=E0=B0=B5=E0=B0=A4=E0=B0=AE=E0=B1=81  <br><br>
+
+
+    </div>
+ =
+    
+
+
+
+</div>
+
+
+
+
+
+</div><br><br> </div> </div>  </div></body></html>
+---1874337156-788304929-1330518943=:88932--
+
+

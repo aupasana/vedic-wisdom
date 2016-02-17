@@ -1,0 +1,252 @@
+From rajarshi14@...  Wed Feb 17 11:10:08 2016
+Return-Path: <rajarshi14@...>
+X-Sender: rajarshi14@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 49937 invoked from network); 29 Feb 2012 18:21:41 -0000
+X-Received: from unknown (98.137.35.162)
+  by m6.grp.sp2.yahoo.com with QMQP; 29 Feb 2012 18:21:41 -0000
+X-Received: from unknown (HELO nm4.bullet.mail.in.yahoo.com) (121.101.151.226)
+  by mta6.grp.sp2.yahoo.com with SMTP; 29 Feb 2012 18:21:39 -0000
+X-Received: from [121.101.151.238] by nm4.bullet.mail.in.yahoo.com with NNFMP; 29 Feb 2012 18:21:38 -0000
+X-Received: from [121.101.151.233] by tm3.bullet.mail.in.yahoo.com with NNFMP; 29 Feb 2012 18:23:53 -0000
+X-Received: from [127.0.0.1] by omp1002.mail.in.yahoo.com with NNFMP; 29 Feb 2012 18:29:42 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 644272.48721.bm@...
+X-Received: (qmail 86712 invoked by uid 60001); 29 Feb 2012 18:21:38 -0000
+X-YMail-OSG: rkoiOUsVM1mpDin.LG_fbF9cWi2ADB0XHgz5qoiJeL4zcRd
+ GHZNB3DN8.X6OyRHFio790.ws0V.q3WFFTzHZbQYQXni9_Vxu4jvgouHwOJz
+ B01vdDwi18Fx0vUvJr.1FoQyAALcrH5QByRiPCaYH0CF_47eLLX9V6.jtnuX
+ kW8sru3Zr1DpF3vKm4BxGKeULw3p6HVDhclOP5_QPSkryyW4pI_l_PGSsYWB
+ BOtyekD82iteM.IWeUYAYW4QPxN7rSeM6ozQehCUWhP2h_UaR0LMOP9wGUN0
+ VGK06sJKKl7NDlZU1z5jlWZ7aX0ICCqrU6taGroQkY11eAB2hIT1A.1mb2xQ
+ E2mKA1eRLQ.8FQt5IEQPxsAz1hhNj75Pc1F6gGNbWe8VZg6ijd_Xn_5DqTls
+ IC1IjkBnmEL_ozkny4Takz.CQNhud8L.6MPj0lsqCO0sXp9Pwbe9X0ZO6g_T
+ tEeiSfYrVU1nRIHYmRWuXaxxloysOHc_bFMlVDYFFfRyOmnG7YpIdGAyw.zS
+ 69S80D7G3RpUUj1X8.ay.YSI.501U29KMY9d.mySy3jp7QJ6ZIEZeZUqJfF.
+ Mg.aZ8iSrrij9ioD0fY48jMJerCxv.GO_NEIUguz.Z5ISvb09_UuU5BtH_AS
+ ujsuCqee3T6WWwbHZT_L5k12x8IwItVbu2OCGPKDKDH237WHZKXRF7PMM5j7
+ 6ehQdsHehUJsldEyG0NnzI8r6KFRrxWxLtc_ZohddJ68tJtnw1MMNecKoRBa
+ vLuM0gHbnp4EeE.16vTndNi9k8sCs6v7i2Ft8ZHH3bpivfss9C9rRkgPckse
+ 9am.IMia9V1Kieszy8pZLJW2521YGWdM_J.CXgmSiYN_ugnMaCuvapB9GaAP
+ 5fR_V6rzFc5sI8G5XHnsoccV5RbgSU4Q_He_5wJHTXJrmoLk9LwG1X3lQ.M6
+ 83n1BJxNbEyhW0rHGtxMFT1O1_7iNm_PYikWCrK2kClZ4iFoaYHwvSeVfOw1
+ 4iKsE0.usuqkZC0GKyKytYq3ZxJD3L7.LfULB732soEkc8TcvxOeU84Hjj6B
+ 32lgSG_p0UUb1eaSujFRTLXa2opGUAIlTgQiyPps2AYcqPjy4P3SF_Y.pVHS
+ qorwug5SFZ7RHBScgimogULBtF.S2jHPFhTCK4tDusmFvLEA0xT8zTNbu4r3
+ q4ChvutweLJP6ZLdGrBr0VgVEGgvZPqKBr7ZBw0OG.XvB9GDdyEK4QHrgkZA
+ BAEeN17cfhAuS8IS_uVb.Hz9ibyJ7IzkZIdDB.taxwStrL6D7s3QYYXDy2Q0
+ efedMB6LzAI7ZYfEQx466da48vRUE3v0vHumwE2zGDRxxo2z90ItPx5Iyu.U
+ gawJStN4Cxh0ZpvVOyKI6bqJZcB9qKHkoFhVYoEzd8uYFBXPwIwvXPS18_bV
+ 7XhLwxwkrH0.oNYEXruCv0kuVWwqCW5TBlhWg860U4Nj9HuK5yLswHX1bYXt
+ t4WSXzQVG2hmYQ7bIplp3nVKJv7oZKuwADKxCMk8MlWFZLikkkI9_SHfIYMd
+ BKhg4wK3HvkZBXl4EZAnx.A3HnW11w7UWeCK5uMxwh1EBj3JMuLOpBPmgRmI
+ 95cOxMvbaNXgPS_kzS1LCBLvyB.RGi.ln_mnSeojGXGch8K.uiORMr6t_Pif
+ LbJ7OrHWd0Dc6bWUBuWMYZDbyLSUaYz3MRjw2uFpoI7dbQMm08sBDpuCym00
+ jBOcWv4rm21YvzkISI44Do7wFtoYg8r3fZqMnhfMh.45yovKk9pg1vYj_yQg
+ iU_q1BOgTVSOllTuT9b0p7CoA1bXgXqGo6HR_VlVjk5n1ITWae1dovVplFPl
+ dzlHAT_a8OtOz3q2g.9pQ4.QsnOSt8lIxnAYHlhSwJMyIHHUXIbg3kErVQKA
+ 6WY1c12vD6Zk0_r5ChoWsOHCILEIa651hl6_eMjrDrQ--
+X-Received: from [115.184.21.24] by web95514.mail.in.yahoo.com via HTTP; Wed, 29 Feb 2012 23:51:38 IST
+X-Mailer: YahooMailWebService/0.8.116.338427
+References: <jilhq4+qvd2@...>
+Message-ID: <1330539698.83411.YahooMailNeo@...>
+Date: Wed, 29 Feb 2012 23:51:38 +0530 (IST)
+To: "vedic-wisdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com>
+In-Reply-To: <jilhq4+qvd2@...>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="-270697586-347901344-1330539698=:83411"
+X-Originating-IP: 121.101.151.226
+X-eGroups-Msg-Info: 1:12:0:0:0
+From: rajarshi nandy <rajarshi14@...>
+Reply-To: rajarshi nandy <rajarshi14@...>
+Subject: Re: [vedic-wisdom] Hierarchy in Hinduism
+X-Yahoo-Group-Post: member; u=216162964; y=CnzI_2qZEIoqpbpfyatiYw_ZTl5Hg7k8Tx4p-fqgB2aAilkJQg
+X-Yahoo-Profile: rajarshi14
+
+
+---270697586-347901344-1330539698=:83411
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Namaste,
+
+A minor point here.
+
+<<who take care of the triple task of creati=
+on, sustenance and destruction.>>
+
+
+The interpretation that we have of deit=
+ies, that one creates, one destroys, one sustains, or one is angry, (Kali) =
+or such is based on *our* perspective, not theirs. For a deity, there is on=
+ly one motivation and that is doing the right thing at the right time with =
+literally zero attachment. Because each deity is a living example of the pe=
+rfection in detached execution of their own dharmas, Nature accords them va=
+st roles in its grand design. That is why each of them are actually capable=
+ of doing everything. A Deity does, what it must do at that specific point =
+in time. That's all.
+
+
+-Regards
+=C2=A0Rajarshi
+
+
+
+
+
+_______________________=
+_________
+ From: anoop.sehgal <anoop.sehgal@...>
+To: vedic-wisdom@y=
+ahoogroups.com 
+Sent: Wednesday, 29 February 2012 9:25 PM
+Subject: [vedic-w=
+isdom] Hierarchy in Hinduism
+ 
+
+=C2=A0 
+Namaste Sir and everyone,
+
+We are t=
+rying to prepare a chart to explain to teenagers and children in our place,=
+ the hierarchy of God and beings as taught by hinduism. 
+
+For this, we have=
+ parabrahman or the formless God at the beginning. Parabrahman takes the 6 =
+forms of higher deities like athi parashakti, narayana, shiva, ganapathi, e=
+tc as taught by Shankara. Below these we have the trinity representing the =
+trigunas, Brahma-Vishnu-Rudra, who take care of the triple task of creation=
+, sustenance and destruction. Below them we have the Gods beginning with In=
+dra and the remaining 33 main devas referenced in the vedas. 
+
+Please advis=
+e and correct us if our understanding regarding this is proper.
+
+Our furthe=
+r questions which we need some light from everyone else is:
+1) Where do oth=
+er beings and demigods like Gandharva, Yaksha, Kinnaras, Apsaras, feature i=
+n the scheme of things in this hierarchy. Other than those 4 I mentioned ar=
+e there other types of beings?
+
+2) Where do Rishis and Manushya feature in =
+the scheme of things in the same hierarchy?
+
+3) How about Pishaachas, and o=
+ther beings? 
+
+Please offer any information you can on this for us.
+
+Pranam=
+s,
+Anoop.
+
+
+ 
+---270697586-347901344-1330539698=:83411
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"color:#000; background-color:#fff; font-family:ti=
+mes new roman, new york, times, serif;font-size:12pt"><div><span>Namaste,</=
+span></div><div><br><span></span></div><div><span>A minor point here.</span=
+></div><div><br><span></span></div><div><span><<</span>who take care =
+of the triple task of creation, sustenance and destruction.>></div><d=
+iv><br></div><div><br></div><div>The interpretation that we have of deities=
+, that one creates, one destroys, one sustains, or one is angry, (Kali) or =
+such is based on *our* perspective, not theirs. For a deity, there is only =
+one motivation and that is doing the right thing at the right time with lit=
+erally zero attachment. Because each deity is a living example of the perfe=
+ction in detached execution of their own dharmas, Nature accords them vast =
+roles in its grand design. That is why each of them are actually capable of=
+ doing everything. A Deity does, what it must do at that specific
+ point in=
+ time. That's all.<br></div><div><br></div><div>-Regards</div><div> Ra=
+jarshi<br></div><div><br></div><br><div><br></div>  <div style=3D"font-fami=
+ly: times new roman, new york, times, serif; font-size: 12pt;"> <div style=
+=3D"font-family: times new roman, new york, times, serif; font-size: 12pt;"=
+> <div dir=3D"ltr"> <font face=3D"Arial" size=3D"2"> <hr size=3D"1">  <b><s=
+pan style=3D"font-weight:bold;">From:</span></b> anoop.sehgal <anoop.seh=
+gal@...><br> <b><span style=3D"font-weight: bold;">To:</span></b=
+> vedic-wisdom@yahoogroups.com <br> <b><span style=3D"font-weight: bold;">S=
+ent:</span></b> Wednesday, 29 February 2012 9:25 PM<br> <b><span style=3D"f=
+ont-weight: bold;">Subject:</span></b> [vedic-wisdom] Hierarchy in Hinduism=
+<br> </font> </div> <br><div id=3D"yiv1271098855">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div>
+<span=
+ style=3D"display:none;"> </span>
+
+
+
+    <div id=3D"yiv1271098855ygrp-=
+text">
+      
+      
+      <div>Namaste Sir and everyone,<br>
+<br>
+We are t=
+rying to prepare a chart to explain to teenagers and children in our place,=
+ the hierarchy of God and beings as taught by hinduism. <br>
+<br>
+For this,=
+ we have parabrahman or the formless God at the beginning. Parabrahman take=
+s the 6 forms of higher deities like athi parashakti, narayana, shiva, gana=
+pathi, etc as taught by Shankara. Below these we have the trinity represent=
+ing the trigunas, Brahma-Vishnu-Rudra, who take care of the triple task of =
+creation, sustenance and destruction. Below them we have the Gods beginning=
+ with Indra and the remaining 33 main devas referenced in the vedas. <br>
+<=
+br>
+Please advise and correct us if our understanding regarding this is pro=
+per.<br>
+<br>
+Our further questions which we need some light from everyone =
+else is:<br>
+1) Where do other beings and demigods like Gandharva, Yaksha, =
+Kinnaras, Apsaras, feature in the scheme of things in this hierarchy. Other=
+ than those 4 I mentioned are there other types of beings?<br>
+<br>
+2) Wher=
+e do Rishis and Manushya feature in the scheme of things in the same hierar=
+chy?<br>
+<br>
+3) How about Pishaachas, and other beings? <br>
+<br>
+Please o=
+ffer any information you can on this for us.<br>
+<br>
+Pranams,<br>
+Anoop.<b=
+r>
+<br>
+</div>
+
+    </div>
+     
+
+
+
+</div>
+
+
+
+
+
+</div><br><br> </div> </div=
+>  </div></body></html>
+---270697586-347901344-1330539698=:83411--
+
+

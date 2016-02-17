@@ -1,0 +1,557 @@
+From vishal_vijaywargiya@...  Wed Feb 17 11:10:24 2016
+Return-Path: <vishal_vijaywargiya@...>
+X-Sender: vishal_vijaywargiya@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 14525 invoked from network); 24 Oct 2012 08:04:40 -0000
+X-Received: from unknown (98.137.35.161)
+  by m7.grp.sp2.yahoo.com with QMQP; 24 Oct 2012 08:04:40 -0000
+X-Received: from unknown (HELO nm34-vm7.bullet.mail.sg3.yahoo.com) (106.10.151.246)
+  by mta5.grp.sp2.yahoo.com with SMTP; 24 Oct 2012 08:04:39 -0000
+X-Received: from [106.10.166.119] by nm34.bullet.mail.sg3.yahoo.com with NNFMP; 24 Oct 2012 08:04:38 -0000
+X-Received: from [106.10.150.29] by tm8.bullet.mail.sg3.yahoo.com with NNFMP; 24 Oct 2012 08:04:38 -0000
+X-Received: from [127.0.0.1] by omp1030.mail.sg3.yahoo.com with NNFMP; 24 Oct 2012 08:04:38 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 603533.26894.bm@...
+X-Received: (qmail 81697 invoked by uid 60001); 24 Oct 2012 08:04:38 -0000
+X-YMail-OSG: X7E_434VM1kCLFrG1HuHYmPZO_Yz3Oygq_LTWbq2PIaQ56J
+ rWU5rX7MVx5f3kyvUBgOcZqmV1g4wblkAX6oRFxOPpV8GEgkE_CohPmuoAA0
+ .nWODgPRlhTzBkjIDgTU03u18ZOkueU28vpi6P5YcASwwMduRRu2ae_ZJNgE
+ ffM3rjFAkmiPlTaaiWpFPAl0Il2R87JbXtZCB7GW6Sod3mHlrph965V25GZG
+ zb1ejE0cx7epp2uPWLCTf3E.cF5JG1vr7alZsf3Lia4vcseI2Nnhg0iXpvgo
+ ..T0C.YHd880nx.IW9mLdTYLBsM5CwPCcrZIO49KJc8QBrlpF093vxKAQzIp
+ S0TXXJQbxQcPhtrvK5kw_56S74f8q54yw1zjKYFNvJRFbjURF4eGZ9ihzUq1
+ wV_HzPk_n9td.u.FhD6VQj.Xb.ToVLEtSrMQAW4FTKM75DbkUh8QaciozZmr
+ 3fWuHV2beuDvYdqLCgUNI2ufNgZG4bOihaDWqTCMQbL9dnTJ9123fLTMGy7.
+ _F8jemIHKlF3kRLMv8Orz9.4qJbRVAV7jc8QV9MOvRj4wp3MLzX2SfJmnRu6
+ iZHl5easZDiKsQXvl4ZuGDc4Pd4LoXPvWOxNxaukZ6ZO2v.qv92nErTpTO3V
+ G3TewNVjKMsJvaMhAgEdf3vyvIQAQlMIQP0ykyeE9h0zLpRYhabkGKglIynm
+ AGp4320rmiGWUwCAeygn2aaj5n971ZUv56WDbLiOcGFLtU.q4tjFc71WaoAj
+ K5S70Eibai6mYV_PPVbykq9TLC7CT2v3z08tlW2KCi8BkLjoUfSZoYt8fcm3
+ 5btVZHzLkr_TAVP7yBwl_hG46Nw6T94u_CipWsCMeit1sSFRxT3jNMqkrMjj
+ U4KjkBLe42uB8pOseVAXvDkF6nxrlnMhTktsPzu69QpANjy4JVVmJaxeQH8v
+ gcQ382zakh.ZC_kgujBYKqi6fX3CVe2uzm0tUServR_b7yJxH48d4TMjHEJF
+ 0Qq5mV.RgokBp8Vohyf24O8_SxXWGrr_QdH1AafM5K7n7E_gyL4qGrhRMINz
+ M5R_qMnhHaELCc7ZFXMf2NKFmXB6xbFzRGkJg0XTpj8L.rzXIW6ZtuTsineu
+ 7ZIttuB_4UChKBLiFoP0dWJL9gEha2bItBjGQSCk1rw9epsQbmSF00.R.dDw
+ 6MmrKNkvYsD1qF59qE1gCYRqxL9l0cvnvuJEN0YV12Vu1CcKRvQ0HrBnY6kz
+ wxgN5Oxnl0PFnLLTkLcM9ssdP0FjuVFxLNzu3vUa7VDgroxQTTq2aGUc4fdb
+ tYLudYjJLIRnssUxejsaDXV5y7wvvkO_HTKPPkHBB8Fq3HkI.pZSEnHDfBPg
+ TqWk.AbTOVqiAPW_9p0CuPb6j0XCGrDvCJ2bfLDuuCtlUwMyO3BDxYjGEK3m
+ J5M.0AoVFinNil_yTEvtIMFltJU_r296j8zj8rKB4Lqk_9qHwNg--
+X-Received: from [14.97.207.67] by web190704.mail.sg3.yahoo.com via HTTP; Wed, 24 Oct 2012 16:04:38 SGT
+X-Rocket-MIMEInfo: 001.001,RGVhciBSYWtlc2hqaSBhbmQgb3RoZXIgbGVhcm5lZCBtZW1iZXJzIG9mIHRoZSBncm91cCwNCkkgaGFkIG9uZSBjbGFyaWZpY2F0aW9uIG9uIHRoZSBwb2ludCBvZiBiZWluZyBmbGV4aWJsZSB3aXRoIHRoZSBydWxlcy4gQXMgcGVyIG15IHVuZGVyc3RhbmRpbmcgZnJvbSBvdGhlciBlbWFpbHMgaW4gdGhpcyBncm91cCwgb25lIHNob3VsZCBhbHdheXMgc3RhcnQgd2l0aCBhIHJ1bGUgYW5kIHRoZW4gZ3JhZHVhbGx5IG1vdmUgb3ZlciB0byBjb21wbGV0ZSBzdXJyZW5kZXIgd2hlcmVpbiB0aGVyZSBhcmUgbm8BMAEBAQE-
+X-Mailer: YahooMailClassic/15.0.8 YahooMailWebService/0.8.123.450
+Message-ID: <1351065878.81552.YahooMailClassic@...>
+Date: Wed, 24 Oct 2012 16:04:38 +0800 (SGT)
+To: vedic-wisdom@yahoogroups.com
+In-Reply-To: <k66m28+b95d@...>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="-929976460-500187089-1351065878=:81552"
+X-Originating-IP: 106.10.151.246
+X-eGroups-Msg-Info: 1:12:0:0:0
+From: vishal vijaywargiya <vishal_vijaywargiya@...>
+Subject: Re: [vedic-wisdom] Re: The way of a pilgrim
+X-Yahoo-Group-Post: member; u=185510489; y=nqJl7mi0CxzJqCgSfkUHLsXCuzBzZVh5Wn7T78LxOVma1CKPmn-c0oPN846V5g
+X-Yahoo-Profile: vishal_vijaywargiya
+
+
+---929976460-500187089-1351065878=:81552
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Dear Rakeshji and other learned members of the group,
+I had one clarificati=
+on on the point of being flexible with the rules. As per my understanding f=
+rom other emails in this group, one should always start with a rule and the=
+n gradually move over to complete surrender wherein there are no rules. A k=
+id who wants to run a marathon needs to follow rules/discipline for practic=
+ing daily. Once he has developed a practice routine, it is ok even if he do=
+esnt follow rules. Similarly for this long journey towards realization.
+But=
+ how does one identify the boundary at which you stop following a rule? Man=
+y a times, I find keeping count of mantras slightly distracting and feel th=
+at I should instead just sit and meditate for some time. May be more time s=
+ome day and less time on other days.
+Any advice or practical pointers in th=
+is regard will be very helpful.
+Kind regards,Vishal
+
+--- On Tue, 23/10/12, =
+rakesh.behal <rakesh.behal@...> wrote:
+
+From: rakesh.behal <rakesh.be=
+hal@...>
+Subject: [vedic-wisdom] Re: The way of a pilgrim
+To: vedic-w=
+isdom@yahoogroups.com
+Date: Tuesday, 23 October, 2012, 11:01 AM
+
+
+
+
+
+
+
+
+
+
+
+=
+
+
+
+
+
+=C2=A0
+
+
+
+  
+
+
+    
+      
+      
+      Dear Aparana,
+
+
+
+Mantra is don=
+e like this : 
+
+
+
+once while inhaling and once while exhaling.
+
+through con=
+tinuous efforts a stage automatically comes when it gets embeded in our bre=
+athing system and then it runs with our rhythem.
+
+It all depends upon HIS g=
+race, keep on putting efforts.
+
+But do not count mantra, it is only for ini=
+tial stages when u count,
+
+ even while counting ur focus is on numbers whic=
+h is bad
+
+it is the only  ceaseles pray , japa which is best.through practi=
+ce it is possible and possible when one has deep love for God.
+
+Even mantra=
+ stops at advance stages as then soul itself travels further.
+
+
+
+Mantra=3Do=
+ne which keeps mind here in present
+
+
+
+one can Meet HIM when one does not h=
+ave any desire and I have seen ur many mails and even this desire should no=
+t be there that when we will relise HIM
+
+
+
+USKE LIYE ITNI TADAP HO ki WO MA=
+ZBOOR HO JAYE AANE KE LIYE.
+
+
+
+See Hanuman ji , his body was immersed in Ra=
+m nam, he never desired anything.
+
+
+
+These is no rule, those who follow rul=
+e , they have time to see rules but those who r immersed in HIS LOVE , they=
+ feel their body is just tool through which HE is working.their   I     die=
+s.
+
+see Gopis in Love of Krishna
+
+
+
+It is HIS will, accept in all circumsta=
+nces, Surrender is the key, Be kid, new born baby, who does not know anythi=
+ng except his mother,
+
+
+
+Did Shabri from Ramayan followd any rules, rules a=
+pply for Sakam Bhakti, means there r desires, avod all this, no desire of e=
+ven realising HIM,it will also bloch.ceasless pray, and keep dhayan of HIM =
+
+
+
+
+one should remeber HIM in Mahkhane or Pakhana, where is HE not present,=
+ who except HIM is presnt.
+
+
+
+Realised person see HIM everywheer and nothin=
+g else.becuse theer is no Duality
+
+ 
+
+U R DOCTOR, SEE ur patients as LORD ,=
+ u r also LORD , LORD in form of  doctor , serving LORD patients.
+
+where r =
+u, HE IS alone.Transform ur thought process like this wheer thoughts will r=
+educe to one just GOD.
+
+Teach ur mind this ,when  Mind understands , it sta=
+rts helping.Donot seek rules,
+
+Rule following people can never Realise HIM.=
+What so ever way u can connect to HIM , do that way, 
+
+He will guide u  thr=
+ough u only LISTEN to HIM , inside u  
+
+
+
+Hope it helps
+
+regards
+
+
+
+--- In =
+vedic-wisdom@yahoogroups.com, "sunrise_1080" <sunrise_1080@...> wrote:
+
+>
+
+=
+> Namaste all,
+
+> 
+
+> "They way of a pilgrim" is very interesting book that=
+ I have just started to read. It's about a man who succeeds in constant rem=
+emberance of God.
+
+> 
+
+> In a nutshell, it's an (annonymous) autobiography =
+of an average man from 19th century Russia who began to repeat a Christian =
+'mantra' called the Jesus prayer..."Lord Jesus Christ have mercy on me a si=
+nner"...day in and day out (after his wife died and he was drawn to the spi=
+ritual path). And slowly he explains how the mantra began to repeat itself =
+constantly in his mind without him having to do anything. He solves the pro=
+blems of mind-wandering and attains
+
+> one-pointedness, and various spiritu=
+al truths are slowly revealed to him.
+
+> 
+
+> By the way, is there anyone on=
+ the forum who has actually experienced this state? If yes, please can you =
+advise how you got there? How did you overcome obstacles such as laziness, =
+boredom, forgetfullness, mind-wandering etc? It would be inspiring to hear =
+your experiences. Reading stories of highly exalted God realised beings is =
+fine, but it's difficult to relate to them (they seem so far advanced). It =
+sometimes helps to hear from someone who was just like you, and how they wo=
+rked on themselves.
+
+> 
+
+> Coming back to the book, in the first chapter, h=
+e is a 'spiritual baby' just starting out on the path and completely ignora=
+nt (was an ordinary householder, but then wife died and his house burnt dow=
+n and he became poor) He reads in the Bible "pray unceasingly" and becomes =
+fascinated with this idea.
+
+> 
+
+> He meets a Guru (an elderly monk) and sai=
+d "I want to pray unceasingly but I don't know how". Guru taught him the Je=
+sus prayer and said do 3000 repetions a day of the prayer for one week, 600=
+0 a day the week after, and 12000 a day the week after that! After 12000 re=
+petitions a day, he says his tongue felt a bit numb, and his wrist/thumb we=
+re hurting a little from counting the beads on his
+
+> rosary! But he follow=
+ed his Guru's instructions fully.
+
+> 
+
+> Later the Guru said, well done...n=
+ow it's time to repeat this prayer all the time, keeping other thoughts awa=
+y as much as possible! How is this possible asks the student (as many of us=
+ may also ask). The Guru said just try. He tries, and succeeds. Quite inspi=
+ring.
+
+> 
+
+> For anyone who's interesting in glancing through a few chapter=
+s, a preview is available on google books.
+
+> 
+
+> http://books.google.co.uk=
+/books?id=3DPsQ7zEi9AGsC&source=3Dgbs_book_similarbooks
+
+> 
+
+> Here is a su=
+mmary of the seeker on wikipedia
+
+> 
+
+> http://en.wikipedia.org/wiki/The_Wa=
+y_of_a_Pilgrim
+
+> 
+
+> Om Namo Narayanaya
+
+> 
+
+> Aparna
+
+>
+
+
+
+
+
+    
+     
+
+=
+    
+    
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+---929976460-500187089-1351065878=:81552
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<table cellspacing=3D"0" cellpadding=3D"0" border=3D"0" ><tr><td valign=3D"=
+top" style=3D"font: inherit;">Dear Rakeshji and other learned members of th=
+e group,<div><br></div><div>I had one clarification on the point of being f=
+lexible with the rules. As per my understanding from other emails in this g=
+roup, one should always start with a rule and then gradually move over to c=
+omplete surrender wherein there are no rules. A kid who wants to run a mara=
+thon needs to follow rules/discipline for practicing daily. Once he has dev=
+eloped a practice routine, it is ok even if he doesnt follow rules. Similar=
+ly for this long journey towards realization.</div><div><br></div><div>But =
+how does one identify the boundary at which you stop following a rule? Many=
+ a times, I find keeping count of mantras slightly distracting and feel tha=
+t I should instead just sit and meditate for some time. May be more time so=
+me day and less time on other days.</div><div><br></div><div>Any advice or
+=
+ practical pointers in this regard will be very helpful.</div><div><br></di=
+v><div>Kind regards,</div><div>Vishal<br><br>--- On <b>Tue, 23/10/12, rakes=
+h.behal <i><rakesh.behal@...></i></b> wrote:<br><blockquote sty=
+le=3D"border-left: 2px solid rgb(16, 16, 255); margin-left: 5px; padding-le=
+ft: 5px;"><br>From: rakesh.behal <rakesh.behal@...><br>Subject:=
+ [vedic-wisdom] Re: The way of a pilgrim<br>To: vedic-wisdom@...=
+m<br>Date: Tuesday, 23 October, 2012, 11:01 AM<br><br><div id=3D"yiv5682749=
+36">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div>
+<span style=3D"display:none;"> </span>
+
+
+
+    =
+<div id=3D"yiv568274936ygrp-text">
+      
+      
+      <p>Dear Aparana,<br>=
+
+<br>
+Mantra is done like this : <br>
+<br>
+once while inhaling and once whi=
+le exhaling.<br>
+through continuous efforts a stage automatically comes whe=
+n it gets embeded in our breathing system and then it runs with our rhythem=
+.<br>
+It all depends upon HIS grace, keep on putting efforts.<br>
+But do no=
+t count mantra, it is only for initial stages when u count,<br>
+ even while=
+ counting ur focus is on numbers which is bad<br>
+it is the only  ceaseles =
+pray , japa which is best.through practice it is possible and possible when=
+ one has deep love for God.<br>
+Even mantra stops at advance stages as then=
+ soul itself travels further.<br>
+<br>
+Mantra=3Done which keeps mind here i=
+n present<br>
+<br>
+one can Meet HIM when one does not have any desire and I=
+ have seen ur many mails and even this desire should not be there that when=
+ we will relise HIM<br>
+<br>
+USKE LIYE ITNI TADAP HO ki WO MAZBOOR HO JAYE =
+AANE KE LIYE.<br>
+<br>
+See Hanuman ji , his body was immersed in Ram nam, h=
+e never desired anything.<br>
+<br>
+These is no rule, those who follow rule =
+, they have time to see rules but those who r immersed in HIS LOVE , they f=
+eel their body is just tool through which HE is working.their   I     dies.=
+<br>
+see Gopis in Love of Krishna<br>
+<br>
+It is HIS will, accept in all ci=
+rcumstances, Surrender is the key, Be kid, new born baby, who does not know=
+ anything except his mother,<br>
+<br>
+Did Shabri from Ramayan followd any r=
+ules, rules apply for Sakam Bhakti, means there r desires, avod all this, n=
+o desire of even realising HIM,it will also bloch.ceasless pray, and keep d=
+hayan of HIM <br>
+<br>
+one should remeber HIM in Mahkhane or Pakhana, where=
+ is HE not present, who except HIM is presnt.<br>
+<br>
+Realised person see =
+HIM everywheer and nothing else.becuse theer is no Duality<br>
+ <br>
+U R DO=
+CTOR, SEE ur patients as LORD , u r also LORD , LORD in form of  doctor , s=
+erving LORD patients.<br>
+where r u, HE IS alone.Transform ur thought proce=
+ss like this wheer thoughts will reduce to one just GOD.<br>
+Teach ur mind =
+this ,when  Mind understands , it starts helping.Donot seek rules,<br>
+Rule=
+ following people can never Realise HIM.What so ever way u can connect to H=
+IM , do that way, <br>
+He will guide u  through u only LISTEN to HIM , insi=
+de u  <br>
+<br>
+Hope it helps<br>
+regards<br>
+<br>
+--- In <a rel=3D"nofollo=
+w" ymailto=3D"mailto:vedic-wisdom%40yahoogroups.com" target=3D"_blank" href=
+=3D"/mc/compose?to=3Dvedic-wisdom%40yahoogroups.com">vedic-wisdom@yahoogrou=
+ps.com</a>, "sunrise_1080" <sunrise_1080@...> wrote:<br>
+><br>
+>=
+; Namaste all,<br>
+> <br>
+> "They way of a pilgrim" is very interesti=
+ng book that I have just started to read. It's about a man who succeeds in =
+constant rememberance of God.<br>
+> <br>
+> In a nutshell, it's an (an=
+nonymous) autobiography of an average man from 19th century Russia who bega=
+n to repeat a Christian 'mantra' called the Jesus prayer..."Lord Jesus Chri=
+st have mercy on me a sinner"...day in and day out (after his wife died and=
+ he was drawn to the spiritual path). And slowly he explains how the mantra=
+ began to repeat itself constantly in his mind without him having to do any=
+thing. He solves the problems of mind-wandering and attains<br>
+> one-po=
+intedness, and various spiritual truths are slowly revealed to him.<br>
+>=
+; <br>
+> By the way, is there anyone on the forum who has actually exper=
+ienced this state? If yes, please can you advise how you got there? How did=
+ you overcome obstacles such as laziness, boredom, forgetfullness, mind-wan=
+dering etc? It would be inspiring to hear your experiences. Reading stories=
+ of highly exalted God realised beings is fine, but it's difficult to relat=
+e to them (they seem so far advanced). It sometimes helps to hear from some=
+one who was just like you, and how they worked on themselves.<br>
+> <br>=
+
+> Coming back to the book, in the first chapter, he is a 'spiritual bab=
+y' just starting out on the path and completely ignorant (was an ordinary h=
+ouseholder, but then wife died and his house burnt down and he became poor)=
+ He reads in the Bible "pray unceasingly" and becomes fascinated with this =
+idea.<br>
+> <br>
+> He meets a Guru (an elderly monk) and said "I want=
+ to pray unceasingly but I don't know how". Guru taught him the Jesus praye=
+r and said do 3000 repetions a day of the prayer for one week, 6000 a day t=
+he week after, and 12000 a day the week after that! After 12000 repetitions=
+ a day, he says his tongue felt a bit numb, and his wrist/thumb were hurtin=
+g a little from counting the beads on his<br>
+> rosary! But he followed =
+his Guru's instructions fully.<br>
+> <br>
+> Later the Guru said, well=
+ done...now it's time to repeat this prayer all the time, keeping other tho=
+ughts away as much as possible! How is this possible asks the student (as m=
+any of us may also ask). The Guru said just try. He tries, and succeeds. Qu=
+ite inspiring.<br>
+> <br>
+> For anyone who's interesting in glancing =
+through a few chapters, a preview is available on google books.<br>
+> <b=
+r>
+> <a rel=3D"nofollow" target=3D"_blank" href=3D"http://books.google.c=
+o.uk/books?id=3DPsQ7zEi9AGsC&source=3Dgbs_book_similarbooks">http://boo=
+ks.google.co.uk/books?id=3DPsQ7zEi9AGsC&source=3Dgbs_book_similarbooks<=
+/a><br>
+> <br>
+> Here is a summary of the seeker on wikipedia<br>
+>=
+; <br>
+> <a rel=3D"nofollow" target=3D"_blank" href=3D"http://en.wikiped=
+ia.org/wiki/The_Way_of_a_Pilgrim">http://en.wikipedia.org/wiki/The_Way_of_a=
+_Pilgrim</a><br>
+> <br>
+> Om Namo Narayanaya<br>
+> <br>
+> Aparn=
+a<br>
+><br>
+<br>
+</p>
+
+    </div>
+     
+
+
+
+</div>
+
+
+
+
+
+</div></blockquot=
+e></div></td></tr></table>
+---929976460-500187089-1351065878=:81552--
+
+

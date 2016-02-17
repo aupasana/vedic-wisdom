@@ -1,0 +1,395 @@
+From prm7782@...  Wed Feb 17 11:10:26 2016
+Return-Path: <prm7782@...>
+X-Sender: prm7782@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 29813 invoked from network); 28 Dec 2012 21:36:34 -0000
+X-Received: from unknown (98.137.35.161)
+  by m7.grp.sp2.yahoo.com with QMQP; 28 Dec 2012 21:36:34 -0000
+X-Received: from unknown (HELO nm32-vm4.bullet.mail.bf1.yahoo.com) (72.30.239.140)
+  by mta5.grp.sp2.yahoo.com with SMTP; 28 Dec 2012 21:36:34 -0000
+X-Received: from [98.139.212.144] by nm32.bullet.mail.bf1.yahoo.com with NNFMP; 28 Dec 2012 21:36:33 -0000
+X-Received: from [98.139.215.249] by tm1.bullet.mail.bf1.yahoo.com with NNFMP; 28 Dec 2012 21:36:33 -0000
+X-Received: from [127.0.0.1] by omp1062.mail.bf1.yahoo.com with NNFMP; 28 Dec 2012 21:36:33 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 329563.67538.bm@...
+X-Received: (qmail 83672 invoked by uid 60001); 28 Dec 2012 21:36:33 -0000
+X-YMail-OSG: B0LfMB4VM1nQ55giNWZZMRKR2FEpNYDRp5qdKzDraVGIDVv
+ CK4niClAGI6xVz2qq66gJZc9mH3oyFrDw_mgxH1IytnPPd6U9gNE4dZ.CXlq
+ J7JhO.rzs2LXzz9VHEOs7oGpqe_FzDSZPo71pSpy61_aPTk.GsxLMQMgrcL7
+ gk5Ml58FTvJorlOOQITCSSJ4OMGJreF2Oh1M99kMapIA4Ci4BcLx9rqQbrRn
+ _8lUHjsjAcfm7q42jp8MkPY5f76uMkMWqBRLMzJlgWJwM4KndBc29IGRohDd
+ 15pu3AuEQrUvp8jCNC687ZslxL3cstESvDenxtK_z9Cg5QCoEGkB_g2hYEL8
+ t2a0mo8jQWPryAN55IXE1qTEWsOEPUYUr4fl9SS303Wze6ltQ6ihNWL2hhdD
+ cojEeDXJGHLr4DGULfhYed4rIrM7vxJ_aSNPGwrEqp1hVL8B_FeaQTuKbaf.
+ q2Jriz0nbI27NKElVzu9sum48Es.yTN.kbKRKderwMVx_7VXTodL5nKQhSkh
+ UyVuDBni2YqXZ80ElIlaXRIC0n_2wOf70.f24kpyfw0qOVjmjnAjG1jXizdF
+ T38eS2sZBvFgaUeuVkeXjHQ.udc4H9y6WC8GK64.ad_xbgfaWLpCInvJytrt
+ Y1IS6oBnB.NBR5HTZT_t9nhUev0Cjasg0DyewhzjAlxQcHuJ1RC7cdsyDEsq
+ Cd0RBNjWbqgGcgESMAV8fyyiRx1Z4fD313ImUUE5nGR116r9D46bVjyDNstp
+ S81byWXWYJZWqphKBKQ5uVARcffUbSee5P2Q0PobozAbRegOaHHrh68g.Hof
+ Hndl4.p7dzaq6tLCQIR3CKRcNAf2L2RY8RpnXcbqnq64HI9lOrH_wArHz2tL
+ btI1WK9SneYT0HncDei1pbdODL3_K9ZXesA_Ac4V95QfqBjjAFoKbXkIcnRb
+ a0cXF5BG.VwD8o.a8BqZY31zm1ba3XS1nxlxt14pDA1bKpJ84mkaPDJKqQfy
+ sXfeVEvnRhiOry0Bt4R2UpflX9GnNMU_RLb1ChttJUu81JjPXvJxiAP2PXHn
+ 5cQWl5VWd4k9KECI6TUlzwPInW3h1eHLHtt64lsiiJBks0GdtNHysKlf2MdV
+ o7bXmPuUD2UajTAJrIhbN7GF3r3QnTnZb06L1gkjEChYjNI0gYinkO79An.d
+ lMJstp3qHkJLNA.K0tkNzXkHYJD8uro9_H3cHmGqekyXVrhDsiSHC8CvxW78
+ q9VYAf_JH0pnfhzrSCQQkAopRa5P2AXIyGs4MncifSvjj4jsGT.NyGeioQ16
+ 3guAgktm09ob2s8SrKp.vud8V.AP.2bneLbokLI1qTmTXLGDpJ8J8QrYVL4w
+ dFgzTOZI2p14.JDSY3xpW4L3E9cjaAAWukknsKAkcexbsANZ6tqfKu2oshMv
+ D1jZSMfa7I4jeQwq4ogKq79dP_aara.EE98bzr3zK9vbVdO7GW9ASLd4kZ.g
+ bnxz7ioAFy8aaSZWzu0Ul6qgOVTPDMnuT9b7gVPmfU_32z4I.0R7lsKaEMUz
+ F_0ndCVmEMqawvnDsUSRHZI_V7l4RxYWERJxJEuHGaKyKWoVZgB55xN_Twa4
+ priwCpGpuUQoN6rAv6jXkCscmXAuObyfwos9ImlX2Rmicz0Vazq3XnK5SIYa
+ yDCQodBNxANPURk_F2xA7i4wBMqC6yWSGGYR22PwkEh9DQj0eU1xEJ5osoHI
+ cgvebybxfIE5PQwD8zcepXerC3F7K7PIPBe1aesmr.x9uk.ktjiybQz6RG8z
+ Aj_imUf.dpGBiyppMQ_eAKWQKlUAK5v6xRZtHDt00SrFbPdPorfd74lEqXH7
+ 7c8iyhQ.uyeU87NmuHZ9PLdjEJ_4QkDdmfdTufZ7WsHSFlLA2e8bWAdbORPn
+ zP44au251orxC8aNPaA3TgblaohZIS1RANOluLG6AQrzEp_ZQqvyoHe6s4jo
+ kqLYnjT8R0s.wfg_ClcVQkEvYr4nBaMITdavSdm9Lur7Xf3aLqY7BuiQclcB
+ sXkc7o2IqYmC30c_.pOIEddZUdkCJ2RK1kIZMP6xWs1.Z3qHF204achylmUR
+ d5EfUR3Ac8P.RXLDDaOZCd7avgDm8NQwvXyVjxzfD8t5._zlrqK3Q9PpN5wc
+ xK3P1pECURbKTHDzP9j2T.lEwlL1.K6Ox96cfQVLfx1vY7NIOp8Z_xk2KRHg
+ J
+X-Received: from [68.42.94.18] by web162202.mail.bf1.yahoo.com via HTTP; Fri, 28 Dec 2012 13:36:33 PST
+X-Rocket-MIMEInfo: 001.001,SGkgUHJpeWFuaywgaG93IGFyZSB5b3UuLi50aGFua3PCoGZvciBzYXlpbmcgdGhpcy4KwqAKQSBjb3VudHJ5KEluZGlhKSB3aGljaCB3YXMgcnVsZWQgYnkgUmFtYSBpcyBub3cgYmVpbmcgcnVsZWQgYnkgbm90IG9uZSBieSBtYW55IFJhdmFuYXMuIE1hbnkgb2YgdXMgYXJlIGx1Y2t5IHRvwqBiZSBzZXR0bGVkIGFicm9hZC4uLmJ1dMKgaGVhcnQgaW5zaWRlIHBvdXJzIG91dCBmb3IgdGhvc2UgaW5ub2NlbnQgYmVpbmdzIGluIEluZGlhLsKgCkxlYXN0IHdlIGFsbCBjYW4gZG8gaXPCoGNoYW50IFZTUywgYXQBMAEBAQE-
+X-Mailer: YahooMailWebService/0.8.129.483
+References: <25e2baf9.2b743b.13bd527179b.Webtop.45@...> <kbkk44+ehsg@...>
+Message-ID: <1356730593.67890.YahooMailNeo@...>
+Date: Fri, 28 Dec 2012 13:36:33 -0800 (PST)
+To: "vedic-wisdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com>
+In-Reply-To: <kbkk44+ehsg@...>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="2102937278-894778612-1356730593=:67890"
+X-Originating-IP: 72.30.239.140
+X-eGroups-Msg-Info: 1:12:0:0:0
+From: Priya M <prm7782@...>
+Reply-To: Priya M <prm7782@...>
+Subject: Vishnu Homam
+X-Yahoo-Group-Post: member; u=431354722; y=NNHtFpBkXjg9wq1cGgayAJdnVuIZYZlFMjkPd8j8SlwmNQ
+X-Yahoo-Profile: prm7782
+
+
+--2102937278-894778612-1356730593=:67890
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Hi Priyank, how are you...thanks=C2=A0for saying this.
+=C2=A0
+A country(Ind=
+ia) which was ruled by Rama is now being ruled by not one by many Ravanas. =
+Many of us are lucky to=C2=A0be settled abroad...but=C2=A0heart inside pour=
+s out for those innocent beings in India.=C2=A0
+Least we all can do is=C2=
+=A0chant VSS, atleast once a day...
+=C2=A0
+I also=C2=A0request PVR garu if =
+you could post some messages about the benefits of chanting VSS and encoura=
+ge people to do more=C2=A0Vishnu homam=C2=A0for justice and peace=C2=A0to r=
+eign...
+Also wondering seeing the present situation=C2=A0do you see any pre=
+monitions=C2=A0for our country in the coming years? 
+=C2=A0
+Regards,
+Priya=
+=C2=A0 
+
+________________________________
+ From: priyank_priyank <aks_day@y=
+ahoo.com>
+To: vedic-wisdom@yahoogroups.com 
+Sent: Friday, December 28, 2012=
+ 12:15 PM
+Subject: [vedic-wisdom] Re: homam or sadhana for marriage
+   
+ 
+=
+=C2=A0  
+ 
+Namaste PVR ji, 
+
+Will appreciate if you can write more on signi=
+ficance of "Vishnu sahasra naama stotram". 
+
+Last yr also you had mentioned=
+ once that we need more people to do VSS
+
+Reggards
+priyank
+
+--- In mailto:v=
+edic-wisdom%40yahoogroups.com, Narasimha PVR Rao <pvr@...> wrote:
+>
+> 
+> Na=
+maste,
+> 
+> Whichever planet it is due to, Chandi homam with samputikarana =
+with that 
+> verse is supposed to be good.
+> 
+> If one is more attracted to=
+ other deities, one can worship other deities 
+> in either fire or by medit=
+ation, as well.
+> 
+> There are several remedies given in scriptures for get=
+ting married. 
+> Examples are Swayamvara Parvati homam, Kanya Paashupata Ho=
+mam, Rukmini 
+> Kalyanam etc.
+> 
+> Also, Vishnu sahasra naama stotram is a =
+very powerful prayer in this 
+> age. If one does homam with it everyday (re=
+peating the 108 verses 4-8 
+> times everyday), one can eventually get any r=
+easonable dharmik desire 
+> (unless there are really serious blocking karma=
+s that require a much 
+> bigger effort).
+> 
+> Best regards,
+> Narasimha
+> -=
+-------
+> Astrology & Spirituality Resources: http://www.VedicAstrologer.or=
+g
+> --------
+> 
+> 
+> On Tue, Dec 25, 2012 at 9:33 PM, aswin kumar wrote:
+> =
+
+> 
+> ------------------------------
+> On Sun 23 Dec, 2012 10:14 PM IST Nar=
+asimha PVR Rao wrote:
+> 
+> >
+> > Namaste Sir,
+> > For this purpose in tradi=
+tion, Chandi homam is suggested by doing 
+> > samputikarana with the "patnI=
+M manoramAM dehi manovR^ittAnusAriNIM" 
+> > verse towards the end of Argala=
+ stotram.
+> > If a prayer contains verses 1, 2, 3, 4, 5 etc, its samputikar=
+ana with 
+> > verse S is done by doing the following:
+> > S, 1, S, 2, S, 3,=
+ S, 4, ..., S.
+> > Best regards, Narasimha -------- Astrology & Spiritualit=
+y Resources: 
+> > http://www.vedicastrologer.org/ <http://www.vedicastrolog=
+er.org/> 
+> > --------
+> >
+> > On Sun, Dec 23, 2012 at 9:13 AM, rakesh.beha=
+l wrote:
+> > Dear all,
+> > namaste.
+> > in our shastras , Is there any homa=
+m or sadhana for getting married if 
+> > it is delayed(crossed 36 years) du=
+e to Rahu.
+> > pls suggest
+> > thanks Rakesh
+> If it is due to saturn what =
+to do
+> 
+>   <http://www.vedicastrologer.org/>
+> 
+> <javascript:parent.wgMa=
+il.openComposeWindow(mailto:%27ygroupsnotifications%40yahoogroups.com')>
+>
+=
+
+   
+         
+--2102937278-894778612-1356730593=:67890
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"color:#000; background-color:#fff; font-family:ar=
+ial, helvetica, sans-serif;font-size:12pt"><div><span>Hi Priyank, how are y=
+ou...thanks for saying this.</span></div><div><span></span> </div=
+><div><span>A country(India) which was ruled by Rama is now being ruled by =
+not one by many Ravanas. Many of us are lucky to be settled abroad...b=
+ut heart inside pours out for those innocent beings in India. </s=
+pan></div><div><span>Least we all can do is chant VSS, atleast once a =
+day...</span></div><div><span></span> </div><div><span>I also req=
+uest PVR garu if you could post some messages about the benefits of chantin=
+g VSS and encourage people to do more Vishnu homam for justice an=
+d peace to reign...</span></div><div><span>Also wondering seeing the p=
+resent situation do you see any premonitions for our country in t=
+he coming years?
+ </span></div><div><span></span> </div><div><span>Reg=
+ards,</span></div><div><span>Priya</span></div>  <div style=3D"font-fa=
+mily: arial, helvetica, sans-serif; font-size: 12pt;"> <div style=3D"font-f=
+amily: times new roman, new york, times, serif; font-size: 12pt;"> <div dir=
+=3D"ltr"> <font size=3D"2" face=3D"Arial"> <div style=3D"margin: 5px 0px; p=
+adding: 0px; border: 1px solid rgb(204, 204, 204); height: 0px; line-height=
+: 0; font-size: 0px;" class=3D"hr" contentEditable=3D"false" readonly=3D"tr=
+ue"></div>  <b><span style=3D"font-weight: bold;">From:</span></b> priyank_=
+priyank <aks_day@...><br> <b><span style=3D"font-weight: bold;"=
+>To:</span></b> vedic-wisdom@yahoogroups.com <br> <b><span style=3D"font-we=
+ight: bold;">Sent:</span></b> Friday, December 28, 2012 12:15 PM<br> <b><sp=
+an style=3D"font-weight: bold;">Subject:</span></b> [vedic-wisdom] Re: homa=
+m or sadhana for marriage<br> </font> </div> <wbr>
+<div id=3D"yiv1123662970=
+">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div>
+<span style=3D"display: none;"> </span>
+
+
+
+    <=
+div id=3D"yiv1123662970ygrp-text">
+      
+      
+      <div>Namaste PVR ji,=
+ <br>
+<br>
+Will appreciate if you can write more on significance of "Vishnu=
+ sahasra naama stotram". <br>
+<br>
+Last yr also you had mentioned once that=
+ we need more people to do VSS<br>
+<br>
+Reggards<br>
+priyank<br>
+<br>
+--- I=
+n <a href=3D"mailto:vedic-wisdom%40yahoogroups.com" rel=3D"nofollow" target=
+=3D"_blank" ymailto=3D"mailto:vedic-wisdom%40yahoogroups.com">mailto:vedic-=
+wisdom%40yahoogroups.com</a>, Narasimha PVR Rao <pvr@...> wrote:<br>
+=
+><br>
+> <br>
+> Namaste,<br>
+> <br>
+> Whichever planet it is =
+due to, Chandi homam with samputikarana with that <br>
+> verse is suppos=
+ed to be good.<br>
+> <br>
+> If one is more attracted to other deities=
+, one can worship other deities <br>
+> in either fire or by meditation, =
+as well.<br>
+> <br>
+> There are several remedies given in scriptures =
+for getting married. <br>
+> Examples are Swayamvara Parvati homam, Kanya=
+ Paashupata Homam, Rukmini <br>
+> Kalyanam etc.<br>
+> <br>
+> Also,=
+ Vishnu sahasra naama stotram is a very powerful prayer in this <br>
+> a=
+ge. If one does homam with it everyday (repeating the 108 verses 4-8 <br>
+&=
+gt; times everyday), one can eventually get any reasonable dharmik desire <=
+br>
+> (unless there are really serious blocking karmas that require a mu=
+ch <br>
+> bigger effort).<br>
+> <br>
+> Best regards,<br>
+> Nara=
+simha<br>
+> --------<br>
+> Astrology & Spirituality Resources: ht=
+tp://www.VedicAstrologer.org<br>
+> --------<br>
+> <br>
+> <br>
+>=
+ On Tue, Dec 25, 2012 at 9:33 PM, aswin kumar wrote:<br>
+> <br>
+> <br=
+>
+> ------------------------------<br>
+> On Sun 23 Dec, 2012 10:14 PM=
+ IST Narasimha PVR Rao wrote:<br>
+> <br>
+> ><br>
+> > Namaste=
+ Sir,<br>
+> > For this purpose in tradition, Chandi homam is suggeste=
+d by doing <br>
+> > samputikarana with the "patnIM manoramAM dehi man=
+ovR^ittAnusAriNIM" <br>
+> > verse towards the end of Argala stotram.<=
+br>
+> > If a prayer contains verses 1, 2, 3, 4, 5 etc, its samputikar=
+ana with <br>
+> > verse S is done by doing the following:<br>
+> &g=
+t; S, 1, S, 2, S, 3, S, 4, ..., S.<br>
+> > Best regards, Narasimha --=
+------ Astrology & Spirituality Resources: <br>
+> > <a href=3D"ht=
+tp://www.vedicastrologer.org/" rel=3D"nofollow" target=3D"_blank">http://ww=
+w.vedicastrologer.org/</a> <<a href=3D"http://www.vedicastrologer.org/" =
+rel=3D"nofollow" target=3D"_blank">http://www.vedicastrologer.org/</a>> =
+<br>
+> > --------<br>
+> ><br>
+> > On Sun, Dec 23, 2012 at=
+ 9:13 AM, rakesh.behal wrote:<br>
+> > Dear all,<br>
+> > namaste=
+.<br>
+> > in our shastras , Is there any homam or sadhana for getting=
+ married if <br>
+> > it is delayed(crossed 36 years) due to Rahu.<br>=
+
+> > pls suggest<br>
+> > thanks Rakesh<br>
+> If it is due to=
+ saturn what to do<br>
+> <br>
+>   <<a href=3D"http://www.vedicastr=
+ologer.org/" rel=3D"nofollow" target=3D"_blank">http://www.vedicastrologer.=
+org/</a>><br>
+>  <br>
+> <javascript:parent.wgMail.openComposeWi=
+ndow(<a href=3D"mailto:%27ygroupsnotifications%40yahoogroups.com" rel=3D"no=
+follow" target=3D"_blank" ymailto=3D"mailto:%27ygroupsnotifications%40yahoo=
+groups.com">mailto:%27ygroupsnotifications%40yahoogroups.com</a>')><br>
+=
+><br>
+<br>
+</div>
+
+    </div>
+     
+
+
+
+</div>
+
+
+
+
+
+</div><wbr><wbr> </di=
+v> </div>  </div></body></html>
+--2102937278-894778612-1356730593=:67890--
+
+

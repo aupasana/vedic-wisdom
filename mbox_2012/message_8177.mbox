@@ -1,0 +1,741 @@
+From sreenivas_s@...  Wed Feb 17 11:10:12 2016
+Return-Path: <sreenivas_s@...>
+X-Sender: sreenivas_s@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 74946 invoked from network); 26 Apr 2012 06:47:16 -0000
+X-Received: from unknown (98.137.35.161)
+  by m2.grp.sp2.yahoo.com with QMQP; 26 Apr 2012 06:47:16 -0000
+X-Received: from unknown (HELO nm12-vm6.bullet.mail.sg3.yahoo.com) (106.10.149.6)
+  by mta5.grp.sp2.yahoo.com with SMTP; 26 Apr 2012 06:47:15 -0000
+X-Received: from [106.10.166.61] by nm12.bullet.mail.sg3.yahoo.com with NNFMP; 26 Apr 2012 06:47:13 -0000
+X-Received: from [106.10.167.218] by tm18.bullet.mail.sg3.yahoo.com with NNFMP; 26 Apr 2012 06:47:13 -0000
+X-Received: from [127.0.0.1] by smtp191.mail.sg3.yahoo.com with NNFMP; 26 Apr 2012 06:47:13 -0000
+X-Yahoo-Newman-Id: 636517.48573.bm@...
+X-Yahoo-Newman-Property: ymail-3
+X-YMail-OSG: ZnUPKdkVM1kpq5rCDIdDk6WH7UkW7ExLJ4C0oN_BJ1xnZzH
+ 5u9t3oqMg818PbejAYeWeuWy57XLjwqAafFe1zpOvIVEQBIcFsSQ_6qvD5vW
+ U2uiW5bpw1A25DooQkJBQb6WILhDpu6MGBXGHozBoj9XVzTE5DXuB.BKd1BQ
+ j4fVAn9b_.F4lXR_9oD5sFoMT0hZkBFLT7njyi7SkGXnmvjB0F3Ct5tRf5SH
+ RMgFcqXHeKQ9KZLpxOsqp.DtyrqXPLX9fiO3s._OkaANOq1HCMcu6iJIlIzg
+ QOrD5fyZwXwNtybR4jtEqPVklp0Md8sIE3MnlLRsq5SdC3m35qCDdXvk3RVW
+ 3KmVfEsA3drHEuhEZiAUEzu.9sfOz3Etw0IcFmY_AVZDiwWntHMtskJWCp08
+ QdTJ1VpQLIg.rbNx0SIvd9HFySlVLJLBIgMD792tTkPvg7TOKlLz4KZfX707
+ xWhJMPpbfnc7jt4aCWfa3yA3OqV298tyWrzoklW15YGv1MAq1snVzXKmMrV8
+ hF1wVvEI2BKGPfyGS23NseLksZFxXosdE2zPDFLsUrvhs..5.A_1ujF0y04u
+ md0UiZgZit_n1ze2ykzvw6nZofQmzPH_UOuEKCaCplOkDpQaO6Ud5.pFuB9U
+ MqU4ZlazfPhQkviO0zZ4hfOjgcvx82pKm5ps6QvdEiJT9F6_slD6TJJn1Emw
+ Xac.faqmkjC4OdGIHmoWnQWMfEbEx.mflm1lLvhNdl7PisISTnED8uXKpNQv
+ 41jp7s8ellDaty8ZvBcSNlIulm0SvW72aaJ6f.gnNe7L6PYBT37gX8PlpAW.
+ 47VlBLRO7mbQ_T_qo8faZteYo04GPxmUImQj_rEPvNwZAsTLFox3r1oTFtTu
+ 4ENFZ_rwoXqFYEDnBo4CZ4pc6eZUPzjYG12VUYMmo4rQBt2WCFrooewzSKNf
+ R0SrPSj9179IaA7haC0u7tyrCanITjuJTHK8LXQV7MuWZJMEIQWkaLZkht43
+ g5ZBxsyCs3MOEZrL4X0ZkS2Dg1HfyFWxNNj9fWpflhsXRO3RtQ954njqJnWm
+ AnmZd6Fub15shiy3eU_SqIR1EGoTf.61DqfQ4Wv4TNcTCytVzSns6CmJ_q17
+ WgzCm_4fZMNjPMuHVKHubSB5Axpo2LurJb.D6ZMt7DM.PyzprewwwJ1oz4Du
+ Z4wGVrAcMjV1hBjD2U87svQdLWWcfjAfr1zypjlL_IWHzDm2fYE79vq1k6Q9
+ LPl.ezy8YFgSX1yEUOTSi4sL.OMyp0HuGGNi396TY.FXd.JNbvf3TR7p5p5L
+ yfnD23YzSLn4OKCV.Zu4ME3kTMwaXmzm7OENqucF6r6Ewul1hABhhiQSj48p
+ .d3jiFaXwhr2U8BOEQoVC5Co6Luu20L5dxMW65mSzbNAhZJsxz4W34itZC7M
+ 7S944v7ujtCyl8qTTs8dEeGiVhVpbGsK1cJXyjnsLE_HdHfgVb56GV8fdtNK
+ YbQZ1va2tnBflLw2DOi6R50_XogBLfxD.e_ScY44EkU6F7DajlUYjkU52aqI
+ kk5X3OWnfoovItYXeYZATDfdjO_fpLXO37H2u8xIgp5tTKor57P0tayaGk88
+ IN8HCKDoF1aK0gBjVj2OhvOZjp0.u3C9jg90Ax28w
+X-Yahoo-SMTP: 1dY_GOuswBBCwD6MxkkC41cKjAE42pB.
+X-Received: from [10.0.0.3] (sreenivas_s@122.175.13.70 with plain)
+        by smtp191.mail.sg3.yahoo.com with SMTP; 25 Apr 2012 23:47:12 -0700 PDT
+Message-ID: <4F98EF71.2020704@...>
+Date: Thu, 26 Apr 2012 12:17:13 +0530
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:11.0) Gecko/20120327 Thunderbird/11.0.1
+MIME-Version: 1.0
+To: vedic-wisdom@yahoogroups.com
+References: <18ab2090.c8ec8.136e6fa33af.Webtop.45@...> <1335356346.24067.YahooMailNeo@...> <1335356763.40704.YahooMailNeo@...> <CAMZkcQUTH11zU7kSsmzZfv9J0pdSaiXn6T-tH-Cai4CPxLrXGA@...>,<1335411451.19772.YahooMailNeo@...> <SNT124-W24148B46811ABA95B7F6FA81240@...>
+In-Reply-To: <SNT124-W24148B46811ABA95B7F6FA81240@...>
+Content-Type: multipart/alternative;
+ boundary="------------050007020206040605040809"
+X-Originating-IP: 106.10.149.6
+X-eGroups-Msg-Info: 1:12:0:0:0
+From: Sreenivasa Rao S <sreenivas_s@...>
+Subject: Re: [vedic-wisdom] Pariharim visit in temples.
+X-Yahoo-Group-Post: member; u=59455432; y=y6f6GcXa-g1m958iEq_saEch8DsBZWgVHSxIOSMhrPLIjej7TZc
+X-Yahoo-Profile: sreenivas_s
+
+
+--------------050007020206040605040809
+Content-Type: text/plain; charset=windows-1252; format=flowed
+Content-Transfer-Encoding: 8bit
+
+Then why even trust such priest/ astrologer. I think the question here 
+is NOT about procedure, rather credibility of the astrologers. Would you 
+do pariharam as he prescribed!
+
+One of the important things I heard recently from pravachan's was DO NOT 
+emulate great souls. Probably 99% of us are not capable of seeing GOD 
+every where. There were souls that could live seeing GOD in everything. 
+For example, we can not emulate Bhagavan Ramana. However this statement 
+"GOD is every where" is a good target for us to reach, it takes a one in 
+a million soul to live that way.
+
+I do not mean to offend/ undermine anyone's maturity here, however it is 
+dangerous to emulate great souls.
+
+Regds
+SSR
+
+
+On 26-04-2012 10:48, ramamoorthy thiyagarajan wrote:
+>
+> Really the person reflected my heart feelings.  Nowadays either avoid 
+> visiting of such temples or if i go i'll pray directly the Gods and 
+> not with such Pariharam pujas - Moorthy Iyer
+>
+> ------------------------------------------------------------------------
+> To: vedic-wisdom@yahoogroups.com
+> From: rainbow_in@...
+> Date: Wed, 25 Apr 2012 20:37:31 -0700
+> Subject: Re: [vedic-wisdom] Pariharim visit in temples.
+>
+>
+> hi
+>
+> kishore,
+>
+> i am saying that Astrology doesn't work, Astrology is good, some half 
+> boiled Astrologers are Fools and their predictions are foolish.
+>
+> As Mr. Narasimhan rightly said, oxygen is good at a certain place. i 
+> agree to this comment.
+>
+> where as these days if you see Many temples around Kumbakonam, the 
+> priest are Greedy,  they do not perform the rituals, pranayama, sadana 
+> etc, which is rightly needed for the profession, when these priest 
+> when they perform anything to God, it is aswell the pooja doing by a 
+> non-professional, so nowadays there is no not much power in these 
+> temples,
+>
+> i believe in sarvaantheryami, God is present everywhere, you can pray 
+> to him anywhere sitting,
+>
+> even if you are in America, India, Europe, anywhere you call him 
+> "avahayami" he is present you can offer prayers, homam, gifts, food 
+> etc., even you can do pariharams also. God will be pleased,
+>
+> if you think if i go there and do pariharam then only God will accept 
+> there, here he will not accept and after accepting you should straight 
+> go home. if you go else where what ever you have done pariharam will 
+> return back to God.
+>
+> what an idea!
+>
+> pls think those days are gone. Americans do not believe in any 
+> pariharams, thyey just pray and do the things rightly, till today they 
+> are the richest in the world, they have the best Cars, Best houses, 
+> Tall building see their dress code, body style, most of them are 
+> healthy. Most of the Priest here around Kumbakonam have a big belly 
+> stomach, like they are pregnant, Most 90% of the priest don't have a 
+> healthy body, they don't do any pranayama, exercise etc., . 
+> many Priest are unfit in Health. learn little are the westerns also 
+>  which is good, don't go by the old beliefs,  Belief should be there, 
+> there should be some logic behind rational thinking.
+>
+> rest it is left to individual thinking, since this matter is not 
+> serious, it is just oral thinking, it is just a belief and age old 
+> tradition which we are following from many years, atleast now we have 
+> to think globally, during those days our elders had no media to see 
+> and analyse, whatever resources they had and in that little knowledge 
+> they have done this, now it is the time to wake up, see the world and 
+> to take a decision globally.
+>
+> Rest the things is left to God.
+>
+> sathya
+>
+> ------------------------------------------------------------------------
+> *From:* Kishore Chitrapu <chitrapu@...>
+> *To:* vedic-wisdom@yahoogroups.com
+> *Sent:* Wednesday, 25 April 2012 10:58 PM
+> *Subject:* Re: [vedic-wisdom] Pariharim visit in temples.
+>
+> Namaste Sathya,
+>
+> > God is every where, he is antheryami, he is everywhere,
+>
+> If God is everywhere, why should one seek an astrologer's help and go 
+> to temples.
+> One's Antheryami lens view says all places, life events and actions 
+> are Antheryami and leave results to Antheryami. Game over.
+>
+> Before calling astrologer foolish and greedy, could it be possible 
+> that Antheryami in astrologer or those old people, knowingly or 
+> unknowingly, suggested Ganesh to go to one temple in the hope that he 
+> will put complete faith in Antheryami at Navagraha temple.
+>
+> If Ganesh insisted on visiting multiple temples, they might have hoped 
+> his memory holds the last place best and hence suggested to visit 
+> navagraha temple at the end of trip.
+>
+> I don't know much about these temple around Kumbakonam. It seems like 
+> there is some value in spending few minutes listening to those aged 
+> people in Coimbatore and understand their beliefs before dispelling 
+> them with broad theories. What do you think?
+>
+> Regards,
+> -Kishore
+>
+>
+> On Wed, Apr 25, 2012 at 8:26 AM, Sathya <rainbow_in@... 
+> <mailto:rainbow_in@...>> wrote:
+>
+>     hi,
+>
+>     the astrologer is Foolish, he thinks that God is only there in
+>     that Pariharam place.
+>
+>     God is every where, he is antheryami, he is everywhere,
+>
+>     if  the astrologer thinks that god is doing pariharam there in one
+>     place and the non pariharam in the other place, you can understand
+>     his caliber of Analyzing. This astrologers are making money these
+>     days in this type of interpretation, better take your own
+>     decision. and leave the result to the almighty GOD.
+>
+>     do your Duty rest the God will take care.
+>
+>     sathya
+>
+>
+>
+>     ------------------------------------------------------------------------
+>     *From:* Ganes <ganesh2cbe@... <mailto:ganesh2cbe@...>>
+>     *To:* "vedic-wisdom@yahoogroups.com
+>     <mailto:vedic-wisdom@yahoogroups.com>"
+>     <vedic-wisdom@yahoogroups.com <mailto:vedic-wisdom@yahoogroups.com>>
+>     *Sent:* Wednesday, 25 April 2012 5:49 PM
+>     *Subject:* [vedic-wisdom] Pariharim visit in temples.
+>
+>     Hi all,
+>
+>     I have a question. I consulted an astrologer. He told me to do
+>     pariharimam in navaghara temple @ kumbakonam. He added, that when
+>     i do going to a temple to do pariharimam, then i must visit only
+>     that temple and come back to home.
+>
+>     I asked that i need to see few other temple in kumbakonam. The
+>     astrologer said i may visit the non-pariharimam temple first and
+>     finally go to the pariharimam temple and should not go to any
+>     other temple after that....
+>
+>     My question is - I want to go to other temple in kumbakonam, after
+>     the pariharimam temple - where pariharimam is done. But the local
+>     astrologers say that no other temple should be visited after
+>     pariharimam temple.
+>
+>     Its god every where, why is the difference
+>
+>     regards,
+>
+>     Ganesh
+>
+>
+>
+>
+>
+>
+> 
+
+--------------050007020206040605040809
+Content-Type: text/html; charset=windows-1252
+Content-Transfer-Encoding: 8bit
+
+<html>
+  <head>
+    <meta content="text/html; charset=windows-1252"
+      http-equiv="Content-Type">
+  </head>
+  <body bgcolor="#FFFFFF" text="#000000">
+    <tt>Then why even trust such priest/ astrologer. I think the
+      question here is NOT about procedure, rather credibility of the
+      astrologers. Would you do pariharam as he prescribed!<br>
+      <br>
+      One of the important things I heard recently from pravachan's was
+      DO NOT emulate great souls. Probably 99% of us are not capable of
+      seeing GOD every where. There were souls that could live seeing
+      GOD in everything. For example, we can not emulate Bhagavan
+      Ramana. However this statement "GOD is every where" is a good
+      target for us to reach, it takes a one in a million soul to live
+      that way.<br>
+      <br>
+      I do not mean to offend/ undermine anyone's maturity here, however
+      it is dangerous to emulate great souls. <br>
+      <br>
+    </tt>
+    <pre class="moz-signature" cols="72">Regds
+SSR</pre>
+    <br>
+    On 26-04-2012 10:48, ramamoorthy thiyagarajan wrote:
+    <blockquote cite="mid:SNT124-W24148B46811ABA95B7F6FA81240@..."
+      type="cite">
+      <span style="display:none">�</span>
+      
+          <div id="ygrp-text">
+            <p>
+            </p>
+            <div dir="ltr">
+              Really the person reflected my heart feelings. �Nowadays
+              either avoid visiting of such temples or if i go i'll pray
+              directly the Gods and not with such Pariharam pujas -
+              Moorthy Iyer<br>
+              <br>
+              <div>
+                <hr id="stopSpelling">To: <a class="moz-txt-link-abbreviated" href="mailto:vedic-wisdom@yahoogroups.com">vedic-wisdom@yahoogroups.com</a><br>
+                From: <a class="moz-txt-link-abbreviated" href="mailto:rainbow_in@...">rainbow_in@...</a><br>
+                Date: Wed, 25 Apr 2012 20:37:31 -0700<br>
+                Subject: Re: [vedic-wisdom] Pariharim visit in temples.<br>
+                <br>
+                <span>�</span>
+                <div id="ecxygrp-mlmsg">
+                  <div id="ecxygrp-msg">
+                    <div id="ecxygrp-text"> <br>
+                      <div
+                        style="color:#000;background-color:#fff;font-family:bookman
+                        old style, new york, times,
+                        serif;font-size:12pt;">
+                        <div style="font-family:'bookman old style',
+                          'new york', times, serif;font-size:12pt;"><span>hi�</span></div>
+                        <div style="font-family:'bookman old style',
+                          'new york', times, serif;font-size:12pt;"><span><br>
+                          </span></div>
+                        <div style="font-family:'bookman old style',
+                          'new york', times, serif;font-size:12pt;"><span>kishore,</span></div>
+                        <div style="font-family:'bookman old style',
+                          'new york', times, serif;font-size:12pt;"><span><br>
+                          </span></div>
+                        <div><span><font size="3">i am saying that
+                              Astrology doesn't work, Astrology is good,
+                              some half boiled Astrologers are Fools
+                              and�</font>their<font size="3">�predictions
+                              are foolish.�</font></span></div>
+                        <div><span><font size="3"><br>
+                            </font></span></div>
+                        <div><span><font size="3">As Mr. Narasimhan
+                              rightly said, oxygen is good at a certain
+                              place. i agree to this comment.�</font></span></div>
+                        <div><span><font size="3"><br>
+                            </font></span></div>
+                        <div><span><font size="3">where as these days if
+                              you see Many temples around Kumbakonam, </font></span>the
+                          priest are Greedy,��they do not perform the
+                          rituals, pranayama, sadana etc, which is
+                          rightly needed for the profession, when these
+                          priest when they perform anything to God, it
+                          is aswell the pooja doing by a
+                          non-professional, so nowadays there is no not
+                          much power in these temples,�</div>
+                        <div><span><font size="3"><br>
+                            </font></span></div>
+                        <div><span><font size="3">i believe in
+                              sarvaantheryami, God is present
+                              everywhere, you can pray to him anywhere
+                              sitting,�</font></span></div>
+                        <div><span><font size="3"><br>
+                            </font></span></div>
+                        <div><span><font size="3">even if you are in
+                              America, India, Europe, anywhere you call
+                              him "avahayami" he is present you can
+                              offer prayers, homam, gifts, food etc.,
+                              even you can do pariharams also. God will
+                              be pleased,�</font></span></div>
+                        <div><span><font size="3"><br>
+                            </font></span></div>
+                        <div><span><font size="3">if you think if i go
+                              there and do pariharam then only God
+                              will�accept there, here he will not accept
+                              and after accepting you should straight go
+                              home. if you go else where what ever you
+                              have done pariharam will return back to
+                              God.�</font></span></div>
+                        <div><span><font size="3"><br>
+                            </font></span></div>
+                        <div><span><font size="3">what an idea!</font></span></div>
+                        <div><span><font size="3"><br>
+                            </font></span></div>
+                        <div><span><font size="3">pls think those days
+                              are gone. Americans do not believe in any
+                              pariharams, thyey just pray and do the
+                              things rightly, till today they are the
+                              richest in the world, they have the best
+                              Cars, Best houses, Tall building see their
+                              dress code, body style, most of them are
+                              healthy. Most of the Priest here around
+                              Kumbakonam have a big belly stomach, like
+                              they are pregnant, Most 90% of the priest
+                              don't have a healthy body, they don't do
+                              any pranayama, exercise etc., .
+                              many�Priest are unfit in Health. learn
+                              little are the westerns also �which is
+                              good, don't go by the old beliefs, �Belief
+                              should be there, there should be some
+                              logic behind rational thinking.</font></span></div>
+                        <div><span><font size="3"><br>
+                            </font></span></div>
+                        <div>rest it is left to individual thinking,
+                          since this matter is not serious, it is just
+                          oral thinking, it is just a belief and age old
+                          tradition which we are following from many
+                          years, atleast now we have to think globally,
+                          during those days our elders had no media to
+                          see and analyse, whatever resources they had
+                          and in that little knowledge they have done
+                          this, now it is the time to wake up, see the
+                          world and to take a decision globally.</div>
+                        <div><br>
+                        </div>
+                        <div>Rest the things is left to God.</div>
+                        <div><br>
+                        </div>
+                        <div>sathya</div>
+                        <div><span><font size="3">��</font></span></div>
+                        <div style="font-size:12pt;"><br>
+                        </div>
+                        <div style="font-size:12pt;font-family:'bookman
+                          old style', 'new york', times, serif;">
+                          <div style="font-size:12pt;font-family:'times
+                            new roman', 'new york', times, serif;">
+                            <div dir="ltr"> <font face="Arial" size="2">
+                                <hr size="1"> <b><span
+                                    style="font-weight:bold;">From:</span></b>
+                                Kishore Chitrapu
+                                <a class="moz-txt-link-rfc2396E" href="mailto:chitrapu@..."><chitrapu@...></a><br>
+                                <b><span style="font-weight:bold;">To:</span></b>
+                                <a class="moz-txt-link-abbreviated" href="mailto:vedic-wisdom@yahoogroups.com">vedic-wisdom@yahoogroups.com</a> <br>
+                                <b><span style="font-weight:bold;">Sent:</span></b>
+                                Wednesday, 25 April 2012 10:58 PM<br>
+                                <b><span style="font-weight:bold;">Subject:</span></b>
+                                Re: [vedic-wisdom] Pariharim visit in
+                                temples.<br>
+                              </font> </div>
+                            <br>
+                            <div id="ecxyiv2097414582">
+                              <div>
+                                <span>�</span>
+                                <div id="ecxyiv2097414582ygrp-text">
+                                  <div
+                                    class="ecxyiv2097414582gmail_extra"><font
+class="ecxyiv2097414582Apple-style-span" face="verdana, sans-serif">Namaste
+                                      Sathya,<br>
+                                      <br>
+                                    </font></div>
+                                  <div
+                                    class="ecxyiv2097414582gmail_extra"><font
+class="ecxyiv2097414582Apple-style-span" face="verdana, sans-serif">
+                                      <div><span>> God is every
+                                          where, he is antheryami, he is
+                                          everywhere,�</span></div>
+                                      <div><span><br>
+                                        </span></div>
+                                      <div><span>If God is everywhere,
+                                          why should one seek an
+                                          astrologer's help and go to
+                                          temples.�</span></div>
+                                      One's Antheryami lens view says
+                                      all places, life events and
+                                      actions are Antheryami and leave
+                                      results to Antheryami. Game over.�</font></div>
+                                  <div
+                                    class="ecxyiv2097414582gmail_extra"><font
+class="ecxyiv2097414582Apple-style-span" face="verdana, sans-serif"><br>
+                                    </font>
+                                    <div><span><font
+                                          class="ecxyiv2097414582Apple-style-span"
+                                          face="verdana, sans-serif">Before
+                                          calling astrologer foolish and
+                                          greedy, could it be possible
+                                          that Antheryami in astrologer
+                                          or those old people, knowingly
+                                          or unknowingly, suggested
+                                          Ganesh to go to one temple in
+                                          the hope that he will put
+                                          complete faith in Antheryami
+                                          at Navagraha temple.</font></span></div>
+                                    <div><span><font
+                                          class="ecxyiv2097414582Apple-style-span"
+                                          face="verdana, sans-serif"><br>
+                                        </font></span></div>
+                                    <div><span><font
+                                          class="ecxyiv2097414582Apple-style-span"
+                                          face="verdana, sans-serif">If
+                                          Ganesh insisted on visiting
+                                          multiple temples, they might
+                                          have hoped his memory holds
+                                          the last place best and hence
+                                          suggested to visit navagraha
+                                          temple at the end of trip.�</font></span></div>
+                                    <div><span><font
+                                          class="ecxyiv2097414582Apple-style-span"
+                                          face="verdana, sans-serif"><br>
+                                        </font></span></div>
+                                    <div><span><font
+                                          class="ecxyiv2097414582Apple-style-span"
+                                          face="verdana, sans-serif">I
+                                          don't know much about these
+                                          temple around Kumbakonam. It
+                                          seems like there is some value
+                                          in spending few minutes
+                                          listening to those aged people
+                                          in Coimbatore and understand
+                                          their beliefs before
+                                          dispelling them with broad
+                                          theories. What do you think?</font></span></div>
+                                    <div><span><font
+                                          class="ecxyiv2097414582Apple-style-span"
+                                          face="verdana, sans-serif"><br>
+                                        </font></span></div>
+                                    <div><span><font
+                                          class="ecxyiv2097414582Apple-style-span"
+                                          face="verdana, sans-serif">Regards,</font></span></div>
+                                    <div><font
+                                        class="ecxyiv2097414582Apple-style-span"
+                                        face="verdana, sans-serif">-Kishore</font></div>
+                                    <div><font
+                                        class="ecxyiv2097414582Apple-style-span"
+                                        face="verdana, sans-serif"><br>
+                                      </font></div>
+                                    <div><span><br>
+                                      </span></div>
+                                    <div
+                                      class="ecxyiv2097414582gmail_quote">On
+                                      Wed, Apr 25, 2012 at 8:26 AM,
+                                      Sathya <span dir="ltr"><<a
+                                          moz-do-not-send="true"
+                                          rel="nofollow"
+                                          href="mailto:rainbow_in@...">rainbow_in@...</a>></span>
+                                      wrote:<br>
+                                      <blockquote
+                                        class="ecxyiv2097414582gmail_quote"
+                                        style="border-left:1px #ccc
+                                        solid;">
+                                        <div>
+                                          <span>�</span>
+                                          <div>
+                                            <div>
+                                              <div>
+                                                <div
+                                                  style="font-size:12pt;font-family:'bookman
+                                                  old style', 'new
+                                                  york', times, serif;">
+                                                  <div><span>hi,</span></div>
+                                                  <div><span><br>
+                                                    </span></div>
+                                                  <div><span>the
+                                                      astrologer is
+                                                      Foolish, he thinks
+                                                      that God is only
+                                                      there in that
+                                                      Pariharam place.�</span></div>
+                                                  <div><span><br>
+                                                    </span></div>
+                                                  <div><span>God is
+                                                      every where, he is
+                                                      antheryami, he is
+                                                      everywhere,�</span></div>
+                                                  <div><span><br>
+                                                    </span></div>
+                                                  <div><span>if�
+                                                      the
+                                                      astrologer�thinks
+                                                      that god is doing
+                                                      pariharam there in
+                                                      one place and the
+                                                      non pariharam in
+                                                      the other place,
+                                                      you can understand
+                                                      his caliber of
+                                                      Analyzing. This
+                                                      astrologers are
+                                                      making money these
+                                                      days in this type
+                                                      of interpretation,
+                                                      better take your
+                                                      own decision. and
+                                                      leave the result
+                                                      to the almighty
+                                                      GOD.</span></div>
+                                                  <div><span><br>
+                                                    </span></div>
+                                                  <div><span>do your
+                                                      Duty rest the God
+                                                      will take care.</span></div>
+                                                  <div><span><br>
+                                                    </span></div>
+                                                  <div><span>sathya</span></div>
+                                                  <div><span><br>
+                                                    </span></div>
+                                                  <div><span><br>
+                                                    </span></div>
+                                                  <div><br>
+                                                  </div>
+                                                  <div
+                                                    style="font-size:12pt;font-family:times,
+                                                    serif;">
+                                                    <div
+                                                      style="font-size:12pt;font-family:times,
+                                                      serif;">
+                                                      <div dir="ltr"> <font
+                                                          face="Arial">
+                                                          <hr size="1">
+                                                          <b><span
+                                                          style="font-weight:bold;">From:</span></b>
+                                                          Ganes <<a
+                                                          moz-do-not-send="true"
+                                                          rel="nofollow"
+href="mailto:ganesh2cbe@...">ganesh2cbe@...</a>><br>
+                                                          <b><span
+                                                          style="font-weight:bold;">To:</span></b>
+                                                          "<a
+                                                          moz-do-not-send="true"
+                                                          rel="nofollow"
+href="mailto:vedic-wisdom@yahoogroups.com">vedic-wisdom@yahoogroups.com</a>"
+                                                          <<a
+                                                          moz-do-not-send="true"
+                                                          rel="nofollow"
+href="mailto:vedic-wisdom@yahoogroups.com">vedic-wisdom@yahoogroups.com</a>>
+                                                          <br>
+                                                          <b><span
+                                                          style="font-weight:bold;">Sent:</span></b>
+                                                          Wednesday, 25
+                                                          April 2012
+                                                          5:49 PM<br>
+                                                          <b><span
+                                                          style="font-weight:bold;">Subject:</span></b>
+                                                          [vedic-wisdom]
+                                                          Pariharim
+                                                          visit in
+                                                          temples.<br>
+                                                        </font> </div>
+                                                      <div
+                                                        class="ecxyiv2097414582im">
+                                                        <br>
+                                                        <div>
+                                                          <div>
+                                                          <span>�</span>
+                                                          <div>
+                                                          <div
+                                                          style="font-size:12pt;font-family:garamond,
+                                                          times, serif;">
+                                                          <div>Hi all,</div>
+                                                          <div><br>
+                                                          </div>
+                                                          <div>I have a
+                                                          question. I
+                                                          consulted an
+                                                          astrologer. He
+                                                          told me to do
+                                                          pariharimam in
+                                                          navaghara
+                                                          temple @
+                                                          kumbakonam. He
+                                                          added, that
+                                                          when i do
+                                                          going to a
+                                                          temple to do
+                                                          pariharimam,
+                                                          then i must
+                                                          visit only
+                                                          that temple
+                                                          and come back
+                                                          to home.</div>
+                                                          <div><br>
+                                                          </div>
+                                                          <div>I asked
+                                                          that i need to
+                                                          see few other
+                                                          temple in
+                                                          kumbakonam.
+                                                          The astrologer
+                                                          said i may
+                                                          visit the
+                                                          non-pariharimam
+                                                          temple first
+                                                          and finally go
+                                                          to the
+                                                          pariharimam
+                                                          temple and
+                                                          should not go
+                                                          to any other
+                                                          temple after
+                                                          that....</div>
+                                                          <div><br>
+                                                          </div>
+                                                          <div>My
+                                                          question is -
+                                                          I want to go
+                                                          to other
+                                                          temple in
+                                                          kumbakonam,
+                                                          after the
+                                                          pariharimam
+                                                          temple - where
+                                                          pariharimam is
+                                                          done. But the
+                                                          local
+                                                          astrologers
+                                                          say that no
+                                                          other temple
+                                                          should be
+                                                          visited after
+                                                          pariharimam
+                                                          temple.</div>
+                                                          <div><br>
+                                                          </div>
+                                                          <div>Its god
+                                                          every where,
+                                                          why is the
+                                                          difference�</div>
+                                                          <div><br>
+                                                          </div>
+                                                          <div>regards,</div>
+                                                          <div><br>
+                                                          </div>
+                                                          <div>Ganesh</div>
+                                                          </div>
+                                                          </div>
+                                                          </div>
+                                                        </div>
+                                                        <br>
+                                                        <br>
+                                                      </div>
+                                                    </div>
+                                                  </div>
+                                                </div>
+                                              </div>
+                                            </div>
+                                          </div>
+                                        </div>
+                                      </blockquote>
+                                    </div>
+                                    <br>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                            <br>
+                            <br>
+                          </div>
+                        </div>
+                      </div>
+                      <br>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          
+      
+      <!-- end group email -->
+    </blockquote>
+  </body>
+</html>
+
+--------------050007020206040605040809--
+
+

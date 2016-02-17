@@ -1,0 +1,253 @@
+From rajarshi14@...  Wed Feb 17 11:10:19 2016
+Return-Path: <rajarshi14@...>
+X-Sender: rajarshi14@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 77504 invoked from network); 30 Jul 2012 19:06:39 -0000
+X-Received: from unknown (98.137.34.44)
+  by m5.grp.sp2.yahoo.com with QMQP; 30 Jul 2012 19:06:39 -0000
+X-Received: from unknown (HELO nm21-vm6.bullet.mail.sg3.yahoo.com) (106.10.151.37)
+  by mta1.grp.sp2.yahoo.com with SMTP; 30 Jul 2012 19:06:38 -0000
+X-Received: from [106.10.166.119] by nm21.bullet.mail.sg3.yahoo.com with NNFMP; 30 Jul 2012 19:06:37 -0000
+X-Received: from [106.10.151.252] by tm8.bullet.mail.sg3.yahoo.com with NNFMP; 30 Jul 2012 19:06:37 -0000
+X-Received: from [127.0.0.1] by omp1001.mail.sg3.yahoo.com with NNFMP; 30 Jul 2012 19:06:37 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 191171.15148.bm@...
+X-Received: (qmail 48711 invoked by uid 60001); 30 Jul 2012 19:06:37 -0000
+X-YMail-OSG: zpAANIAVM1lV23MLhkjqcor_ckNTSJlK7rYZmFc1lPNC69l
+ V9JbSiJdlwmiZ3gXDElcVsJL_NNFTZdIpfgIRTNhYkVzq5MROvhNacvGVhLU
+ PpX8_BeZYRmeB7H_DmN.jFcOturDhvo2MeO4oyVt6y1RLDCFk2KvxCtkKa.J
+ 7SS3sFSoK0jR4UXC.yBo62ALB7ovDOubQp1F0fkOjXfdwi5RctS96ScsTqCA
+ UipbUg5pJeW2Zu3BVSlCxr.fvXhEGaKeFx6I2349lLID8i5U92E3KDZL.noS
+ QTGAnLphkNxT37RLk76PVYNsQb84fEPyRhayVZ.23Dt5bNDjdGrTb0.At2Ki
+ glqkORzPApo2vKyUW2DzPxVqEanoOY8CEnXVdm5iKv7EfP5.zxC_y1VYNglF
+ dDF6fCX4hTCQzSL1AcgCblLrXfJ5Jlu.U7IR5TW5i8xmr_h_fAJcT9v1STq.
+ mDB__q5QEKVGCtM3UrCBuHq38z5tbkkNhVGuMlD3skURB0.j9skxBNtHAQJa
+ zOXxoSeBZAmwfEqPMZi893ivqUc7tRvGvuqXe2sRREtlBHI97c_5owR4mHQE
+ TucElDr_XJupCTEpgmNyCXMXVIfzQUWq0eeezg.cYSpxEgwO3z53imBW0Xfd
+ b2Qjz8JSwZx0NasIOwYZHS2y156Fojo.sh0ITk2yVNvgP1zBflWOWf4CUJVz
+ zLoRWR62TXLyVwOX5MlMOOGzlMLYXB5to5lMfGvpb8rj6eDiR82RaIeO_spl
+ ZeMBMpR1oV3wkMd0fSA4HqxujzaN.vVnBXz9xX3wfnf1J.7bWqPXn633OWQh
+ gDMx1UUu.KJAq2YJZytX9XjaFu1PbmlGlE6NbPKpXj4RKetiRpR5gG6CLncH
+ T9hxcd1540ZRhyB92MeR9w33L5IjhDpGQi4mfJWWjc87xl7kGEHfKYa4wW.E
+ cPfIKH4b0_933ft7cSQAm7dXftl4bzn2fZw_C.NgozzlKQnwMsztshFi2LUf
+ MpyWnY9SqeNVt0BqlsWgEd5s4oMbtUyeIx8LIYJqIYQxTyjbgP8qgY99bII4
+ T8NWiuN.jYus16RG.U1Z6irEKYHXLniNgTmM9tOHBfPm1gPDvLzIkbXldhge
+ axwmoWFTg5ODaLChbxDY8zZwtwAdRCxt5ajbvCpQbU1lG3YxS3grOtgelexm
+ nvTHIbGu0bJSG2dwRGb6QPAV164SVU96afBLjIEHWXc5lLtH2AnU4p2wQS32
+ 995wKRh6OvjMyTCo8mzAFLtfOzMMuACBjwM.QewUeUeCMVksoyIe_Wei6JDG
+ uH5tYfZveS15mEHnFSPL505aYRS0F.lmG467FDydzFgT_0K2lQ8bn.Q_jLe.
+ aluyqXoAe3Ez.DsWYhCid33Acy1mBMIkx8VAIbJ.DhmxvuiUZ2pyFGixMSi2
+ bx6dvAkaa216S7eYXNfKGU3j_GdGwCODyx6HOG2ZQ8Fq7gKB5.Pi8uKXaZGq
+ HhW1pYC7Qhy74958DrhzaS0SO8ThNEt2z382deA.tiagDJxqZ.i3nQepSvfl
+ fA9MBCanL16CmyBW4eC.hZHwy0AR7LYcKe.RofHrodxZPnZSnJI28Yet.dsj
+ pgVq.6BBozYpUPFJQmjN0ljn8sxynrYZFiFxvfnguvuCoV3S6azAxAT_W0j6
+ bYH47u3r9.sWxEjwjo5qodKOwZm0x4i1ZsGFoZN0S6yuQ74F5H82fTLSdnRw
+ gUdd122GDwXwZxmk9itskY3CqbSB28kWgiY7ksN8Xw_35WrD52x_IAz9hZkY
+ 6tVXr99_2KzEPomRjxOpGBJJUigx9ZuFobcZ3rEybx9sJvqRwn6rW.XOs.Ss
+ 2SnRcG2cKDFK8eRtqG4xID1VUiWzG_Qj2UAUgB96PSzTi9UNWQaPNOMpb3aS
+ oZUJA4EonEp7x3s4LuhQKc3S1MQT8mHe6v86clLsln2iRkOJjD7NOMmDLO5R
+ B.JeTeHCpIshph6KFGTpD6hqUsKXNkIYIoY5XOwxZmHl_Wri5EA--
+X-Received: from [14.97.135.188] by web190904.mail.sg3.yahoo.com via HTTP; Tue, 31 Jul 2012 03:06:36 SGT
+X-Mailer: YahooMailWebService/0.8.120.356233
+References: <jv6itq+e927@...>
+Message-ID: <1343675196.33758.YahooMailNeo@...>
+Date: Tue, 31 Jul 2012 03:06:36 +0800 (SGT)
+To: "vedic-wisdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com>
+In-Reply-To: <jv6itq+e927@...>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="-2020808392-1938360113-1343675196=:33758"
+X-Originating-IP: 106.10.151.37
+X-eGroups-Msg-Info: 1:12:0:0:0
+From: rajarshi nandy <rajarshi14@...>
+Reply-To: rajarshi nandy <rajarshi14@...>
+Subject: Re: [vedic-wisdom] Homam in the kitchen while standing
+X-Yahoo-Group-Post: member; u=216162964; y=zIin-zWJURzLca3k-bHs1RXweZ4Ki_haRYYTOFcqboPkksiplg
+X-Yahoo-Profile: rajarshi14
+
+
+---2020808392-1938360113-1343675196=:33758
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+
+
+=C2=A0Sounds great to me!
+
+-Regards
+=C2=A0Rajarshi
+
+
+awaktam wyaktimApann=
+am manyantE mAmabuddhayah |
+param bhAwamajAnanto mamAwyayamanuttamam ||[7:2=
+4]
+
+
+________________________________
+ From: sunrise_1080 <sunrise_1080@yah=
+oo.co.uk>
+To: vedic-wisdom@yahoogroups.com 
+Sent: Monday, 30 July 2012 11:4=
+4 PM
+Subject: [vedic-wisdom] Homam in the kitchen while standing
+ 
+
+=C2=A0 =
+
+Dear all,
+
+I'm afraid I have a very stupid question. Is it okay to do homa=
+m while standing up? 
+
+I once did a very simple homam while cooking. While =
+the food cooked for 20-30 minutes, I muttered the mantras and tended to a s=
+mall homam kunda (basically a brass bowl, with some wooden sticks and ghee =
+and basil leaf offerings) that I placed on the table next to the cooking fo=
+od. 
+
+It was a very pleasant experience. Far from feeling distracted, the s=
+implicity of the whole process made it easier for me to focus on the mantra=
+. 
+
+The key thing is I could do this sort of a homam every day, as I cook m=
+ost days. And my family would not complain that I am spending too much time=
+ away from them doing spiritual things. (It might even give the food a bett=
+er flavour as people say that food cooked while repeating mantras with feel=
+ing absorbs the mantra...who knows!)
+
+I am thinking of doing an ultra simpl=
+e homam while standing in the kitchen. Please tell me if you think this is =
+against the scriptures, as I wouldn't want to do it if so.
+
+I know people s=
+ay feeling is more important that ritual. This homam procedure gives me a p=
+retty good feeling. I'm planning to give it a try again and see how it feel=
+s. I was wondering if there is anything in the scriptures that forbids doin=
+g homam standing up? If I can generate concentration and feeling while stan=
+ding and doing the homam, surely it will be equally effective (I hope so an=
+yway). 
+
+Thanks very much in advance. Sorry if it sounds silly! 
+
+Aparna
+
+P=
+.S. I am doing a weekly homam the 'proper' way i.e. sitting down and focuss=
+ing. Just wanted to do a daily one and this would be the best way for me ri=
+ght now. I have read the Agnihotra homam can be done "anywhere" so wonderin=
+g about other homams. 
+
+
+ 
+---2020808392-1938360113-1343675196=:33758
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"color:#000; background-color:#fff; font-family:ve=
+rdana, helvetica, sans-serif;font-size:10pt"><div><span><br></span></div><d=
+iv> Sounds great to me!<br><br>-Regards<br> Rajarshi<br></div><di=
+v><br></div><div><i><b><div class=3D"MsoNormal"><b><span class=3D"Apple-sty=
+le-span" style=3D"font-size:16px;"><b><span class=3D"Apple-style-span" styl=
+e=3D"color:rgb(153, 153, 153);"></span></b></span></b><span class=3D"yui_3_=
+2_0_2_134243527249950" style=3D"font-family:times new roman, new york, time=
+s, serif;">awaktam wyaktimApannam manyantE mAmabuddhayah |</span><br><b><sp=
+an class=3D"yui_3_2_0_2_134243506227946 yui_3_2_0_2_134243527249952 yui_3_2=
+_0_37_134367064044582" style=3D"FONT-SIZE:10pt;COLOR:navy;FONT-FAMILY:Verda=
+na;"><font color=3D"#000000" face=3D"Times New Roman"><div><div> param bhAw=
+amajAnanto mamAwyayamanuttamam ||[7:24]</div></div></font></span></b></div>=
+</b></i></div><div><br></div>  <div style=3D"font-family: verdana, helvetic=
+a, sans-serif;
+ font-size: 10pt;"> <div style=3D"font-family: times new rom=
+an, new york, times, serif; font-size: 12pt;"> <div dir=3D"ltr"> <font size=
+=3D"2" face=3D"Arial"> <hr size=3D"1">  <b><span style=3D"font-weight:bold;=
+">From:</span></b> sunrise_1080 <sunrise_1080@...><br> <b><sp=
+an style=3D"font-weight: bold;">To:</span></b> vedic-wisdom@yahoogroups.com=
+ <br> <b><span style=3D"font-weight: bold;">Sent:</span></b> Monday, 30 Jul=
+y 2012 11:44 PM<br> <b><span style=3D"font-weight: bold;">Subject:</span></=
+b> [vedic-wisdom] Homam in the kitchen while standing<br> </font> </div> <b=
+r><div id=3D"yiv1484266594">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div>
+<span style=3D"display:none=
+;"> </span>
+
+
+
+    <div id=3D"yiv1484266594ygrp-text">
+      
+      
+ =
+     <div>Dear all,<br>
+<br>
+I'm afraid I have a very stupid question. Is i=
+t okay to do homam while standing up? <br>
+<br>
+I once did a very simple ho=
+mam while cooking. While the food cooked for 20-30 minutes, I muttered the =
+mantras and tended to a small homam kunda (basically a brass bowl, with som=
+e wooden sticks and ghee and basil leaf offerings) that I placed on the tab=
+le next to the cooking food. <br>
+<br>
+It was a very pleasant experience. F=
+ar from feeling distracted, the simplicity of the whole process made it eas=
+ier for me to focus on the mantra. <br>
+<br>
+The key thing is I could do th=
+is sort of a homam every day, as I cook most days. And my family would not =
+complain that I am spending too much time away from them doing spiritual th=
+ings. (It might even give the food a better flavour as people say that food=
+ cooked while repeating mantras with feeling absorbs the mantra...who knows=
+!)<br>
+<br>
+I am thinking of doing an ultra simple homam while standing in =
+the kitchen. Please tell me if you think this is against the scriptures, as=
+ I wouldn't want to do it if so.<br>
+<br>
+I know people say feeling is more=
+ important that ritual. This homam procedure gives me a pretty good feeling=
+. I'm planning to give it a try again and see how it feels. I was wondering=
+ if there is anything in the scriptures that forbids doing homam standing u=
+p? If I can generate concentration and feeling while standing and doing the=
+ homam, surely it will be equally effective (I hope so anyway). <br>
+<br>
+T=
+hanks very much in advance. Sorry if it sounds silly! <br>
+<br>
+Aparna<br>
+=
+<br>
+P.S. I am doing a weekly homam the 'proper' way i.e. sitting down and =
+focussing. Just wanted to do a daily one and this would be the best way for=
+ me right now. I have read the Agnihotra homam can be done "anywhere" so wo=
+ndering about other homams. <br>
+<br>
+</div>
+
+    </div>
+     
+
+
+
+</div>
+
+
+=
+
+
+
+</div><br><br> </div> </div>  </div></body></html>
+---2020808392-1938360113-1343675196=:33758--
+
+

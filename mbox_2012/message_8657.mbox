@@ -1,0 +1,647 @@
+From sharma_rc@...  Wed Feb 17 11:10:21 2016
+Return-Path: <sharma_rc@...>
+X-Sender: sharma_rc@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 52711 invoked from network); 5 Sep 2012 13:59:45 -0000
+X-Received: from unknown (98.137.34.45)
+  by m9.grp.sp2.yahoo.com with QMQP; 5 Sep 2012 13:59:45 -0000
+X-Received: from unknown (HELO nm9-vm0.bullet.mail.ac4.yahoo.com) (98.139.53.192)
+  by mta2.grp.sp2.yahoo.com with SMTP; 5 Sep 2012 13:59:45 -0000
+X-Received: from [98.139.52.188] by nm9.bullet.mail.ac4.yahoo.com with NNFMP; 05 Sep 2012 13:59:44 -0000
+X-Received: from [98.139.52.149] by tm1.bullet.mail.ac4.yahoo.com with NNFMP; 05 Sep 2012 13:59:44 -0000
+X-Received: from [127.0.0.1] by omp1032.mail.ac4.yahoo.com with NNFMP; 05 Sep 2012 13:59:44 -0000
+X-Yahoo-Newman-Id: 839164.64640.bm@...
+X-Received: (qmail 70851 invoked from network); 5 Sep 2012 13:59:44 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-YMail-OSG: sjuQIc8VM1maqtjIUEan0_C9dyGTO67gNqM7gIGLYuIAeiZ
+ 7FaCL69oBPJ1pyXmsXuSuBU0yUey0hKd8jBc.0FwB9_0dG7RddVoeX_m5lLT
+ IFbktFLPeC3XkdPZI8mguTTXO6z0AvZHcXJX5vVY2lruCfWg97Gq3SzkVUNS
+ 85PDV4K.gRatIQJtxqKWel4.1fBAMn2XKysuEkVAo.WsrAJd9GrZPFfwmGtc
+ fjCVFy__JwNtOc08S.4PoGiUp8uEU37o_HLjviziKe39hFgh1UJoSIe8EjXU
+ Efyy9N6I1F0kisGRbZDZLxYDZGDLPDszCfrdNStj1VZDqXQZ6PYbQNlrmTJ2
+ dEHPHNhaW3IChAEZ32v2Rhq.H2GjtJKDokFSdZjqHH6rrQWgZ7XDCV1HPMqF
+ pB2Ut8uEtSJ1xi8kahu.xRdNnbJu.hGv3c67GYFWyVfanzvO9R068anNUR9d
+ S6639Rc8h8KvyfxT3d_2sHp58HANJszsUCHCuYzvFBfwVNrd4D0OjQqILu2O
+ h4tCF80m_qLPefBvp5cNB_KeLUsReBNmRcgNmBBcpHquHnvIepGl.8pp_J4t
+ d17tBDKx1yhwvTgfrnt_MhcHbZLh87xErH8OBlDyYWMcB9I1bOLim0y33Imd
+ 6o7.PK0dcoMdkfv5iNf.4F8qrhpnPDAtLPb6p8UMdtmYs17ULC94zUpDBPRO
+ qfJ6gQMGtabYnjTHv.D_sHAKSFHwbvybKkH_btrTPP2RNi2Ptx0hofYh4kMw
+ gbBke7JlcbcN1PNjRWpfOmfIBraDGI3et9ijZp5ifT1RlT.7hvnuKZSb2rrv
+ Rye5AjTvrXt9Q6luquYltn_csnB8PONAg8jACJEnY7Cu6Bfft9uVlhA3LpUf
+ MOrdSf8QyCJgQAF3ZSXKu4qRM7SRuosfzr8FqV066atVzOtLqyPR5GDBLe5z
+ I91rQbw2msbo_60ZlZhe3VAI8zWJxJ881_6ZZlfPPP1ctqhXLSgytBobF_9g
+ EUzmwq17ipV2VVmEzMB_GnLQzmXWEIOWFyrSh10xB5MjUbCosGh_36ls4tr1
+ eEzb64fZazvmkbQhb8l5i6fxZT5Dd7IV84bXyWcRFCdQmTyTg7C3z3JVVBMB
+ QM8j2ZywEFV9AerGFaIDy92a1qf0dNm8AiLrhUILY7zkXfNQWIoqB1wB9YW7
+ 1E.HMfhfWX8m3PJ1rvtmamEzFioeplb7Z.vdU6wBrxO3R_GTL4.KbjKg1P60
+ DJnlroGAHtILhjX.UHP7UMnSfjFtKV01WLEuerKcLbC_UtbovWUFTE7HLQ.U
+ ZpQ6q76aeJ4InFRfynOWQX5N72kMFH2J13Xsv4NhqO3aEZAyR6K4cbGn6loo
+ A79HexlZ5gocGuGfEsBJgnGWCUqrqRKfNUcrlR2kab1FM8zxnMb4KeVW4VAf
+ SZ1FGgvYFCmsk9i8bZq1wJDMrEMR0aSRhalk7BcF2_lkytbTGGqVIDHzP1Qb
+ 4DkUrLEE1hneXN6N.EPBxqYXuWypSuCJgpMAL9epmwOdFHco9zgiY8ncq6so
+ o7rvqxujhoP8OyDcy0WIiJsp.qGpZfKjFPj8PYN9JSMZGPp7yav.xLmKxu4O
+ 90mhVbo1n17AruJXZUhks895ZUqMYQO3jDJvgQMmBSnlOPRvLQI28yFQDEj8
+ UHPyGb2JN.R.WI_gF.SOm1BqitQUG24CqITydh9_Zth8B4IOBwZlpShPtANB
+ M9_Cl_0zY5h07PHYKFROcWFVxfYOkqWoO20okqIDiJuxCwYLw7ufdayK.Aw-
+ -
+X-Yahoo-SMTP: DgL85lCswBBMviCokCf0qlMUY4hRXg--
+X-Received: from [192.168.100.117] (sharma_rc@209.156.166.226 with xymcookie)
+        by smtp106-mob.biz.mail.ac4.yahoo.com with SMTP; 05 Sep 2012 06:59:41 -0700 PDT
+References: <1346745392.419.17686.m1@yahoogroups.com>
+Content-Type: multipart/alternative;
+	boundary=Apple-Mail-E873C919-2782-40F9-93C1-99CB2843ADF7
+X-Mailer: iPhone Mail (9B206)
+In-Reply-To: <1346745392.419.17686.m1@yahoogroups.com>
+Message-Id: <14646E37-E55A-4CCB-B7ED-7E9B722DDE6C@...>
+Date: Wed, 5 Sep 2012 09:53:58 -0400
+To: vedic <vedic-wisdom@yahoogroups.com>
+Content-Transfer-Encoding: 7bit
+Mime-Version: 1.0 (1.0)
+X-Originating-IP: 98.139.53.192
+X-eGroups-Msg-Info: 1:12:0:0:0
+From: RS <sharma_rc@...>
+Subject: Re: [vedic-wisdom] Digest Number 1591
+X-Yahoo-Group-Post: member; u=154025631; y=9gWD2W_je6-dFziRth1Y9dbjiYhBpicA4CY5KRoE9ZknLQ_a
+X-Yahoo-Profile: sharma_rc
+
+
+--Apple-Mail-E873C919-2782-40F9-93C1-99CB2843ADF7
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain;
+	charset=us-ascii
+
+i joined recently and would like to know/learn sudarshan kriya. 
+
+On Sep 4,=
+ 2012, at 3:56 AM, vedic-wisdom@yahoogroups.com wrote:
+
+            Wisdom =
+of Vedic Rishis Group            
+5 New Messages              Digest #1591 =
+     
+1a     Re: Burning Bad Karma: Homa / Sudarshan Kriya by "vedic_pathak=
+"                        vedic_pathak
+1b     Re: Burning Bad Karma: Homa / =
+Sudarshan Kriya by "vinayak tandle" vinayakmechie
+1c     Re: Burning Bad Ka=
+rma: Homa / Sudarshan Kriya by "vinayak tandle" vinayakmechie
+1d     Re: Bu=
+rning Bad Karma: Homa / Sudarshan Kriya by "vedic_pathak"                  =
+      vedic_pathak
+1e     Re: Burning Bad Karma: Homa / Sudarshan Kriya by =
+"miveda91" miveda91
+Messages
+1a        Re: Burning Bad Karma: Homa / Sudars=
+han Kriya
+Mon Sep 3, 2012 4:24 am (PDT) . Posted by:      "vedic_pathak" ve=
+dic_pathak                         Just to add further, I never tried combi=
+ned practices of Havan and Sudarshan Kriya. Any ways, It is matter of findi=
+ng out by one's own experiences (and that is actually the only way)rather t=
+han relying on experiences of others. This is also opinion of Mihir and Nar=
+asimha Garu. unless ofcourse one has a spiritual Guru and full faith in Gur=
+u to just blindly perform the Sadhana commanded by Guru. for such person it=
+ is fine not to roam around.
+
+Medium used in Sudarshan Kriya is Air (on gro=
+ss level atleast) while that in Homam/Havan is Fire and it is only logical =
+to think that there must lie some differences in terms of speed/quality/eff=
+ects in their respective evolutionary curves and as far as I am concerned, =
+I have probably had some knwoeldge of differences using Air and Fire. I can=
+ see that Mihir's experience of SK is somewhat similar to mine. It'll be in=
+teresting to note here that I did perform a couple of havans with the inspi=
+ration of AOL and that was Mahamritunjaya Havan, back in 2006 (before i sta=
+rted Havan regularly in 2008 with the divine inspiration of Narasimha).
+
+Be=
+st Regards,
+
+Utpal
+
+--- In vedic-wisdom@yahoogroups.com, "vedic_pathak" <ve=
+dic_pathak@...> wrote:
+>
+> Namaste Vinayak,
+> 
+> [you are the one of the 4
+=
+> > prominent people who have influenced & inspired me on spiritual path]
+>=
+ 
+> I am sure the 2nd important person is me :)
+> Jokes apart, let me share=
+ a little bit of my personal background on Sudrashan Kriya and Homa as i ha=
+ve done both practices.
+> 
+> I learnt SK in 2005 and then almost daily kept=
+ doing it till 2008 mid. I also learnt advance course as well as Padmasadha=
+na (PS) from AOL in 2006. I also regularly kept doing PS ALMOST everyday. F=
+or about 3 years, I used to do SK and PS regularly. 
+> 
+> Now I got started=
+ with Homa on daily basis since 2008 Sept and keep doing it till date (with=
+ few breaks/irregularities at times) and since then I have stopped SK, howe=
+ver sometime do PS as i enjoy that systematic Yogaasanas.
+> 
+> Just gave ab=
+ove background which may help to assess.
+> ***
+> SK and PS helped me cure s=
+ome physical chronic issues which troubled me since childhood and were help=
+ful to strengthen my will power. It generated an inner attitude to sustain =
+any problems or calamities life may throw by making my mind generally calme=
+r then it used to be. I am able to say that because I actually faced deep c=
+rises in 2006 July to sept and I was still more or less unperturbed and cou=
+ld handle the situation. i increasingly become philosophical in my attitude=
+.
+> 
+> Now I started Chandi paath and Havan combination in 2008. if i now s=
+it back and look at things then i can see some striking differences. Havan =
+and CP combination striked at my emotional aspect. In the past, i was hardl=
+y tested on Emotional/Relational issues in general with society. i hardly f=
+aced any trouble in that area. However, when I started Havan and CP, it loo=
+ks that it badly attacked this aspect of my being and I was severely tested=
+. in Short, My public relations which used to be always excellent (naturall=
+y) started falling apart. It shook me up very badly as it never happened in=
+ the past and I did not have enough experience, knowledge to handle such th=
+ings. severe EQ testing then surfaced other weaknesses which i felt that i =
+never had :-). it amazed me at one side while at the same time It threw a f=
+ormidable challenge to my so called **ballooned spiritual ego**. All these =
+happening were more inside and much less tangible outside. There are crises=
+ i went through in my job which also tested me a lot. I lost a good some of
+--Apple-Mail-E873C919-2782-40F9-93C1-99CB2843ADF7
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html;
+	charset=utf-8
+
+<html><head></head><body bgcolor=3D"#FFFFFF"><div>i joined recently and wou=
+ld like to know/learn sudarshan kriya. <br><br>On Sep 4, 2012, at 3:56=
+ AM, <a href=3D"mailto:vedic-wisdom@yahoogroups.com">vedic-wisdom@yahoogrou=
+ps.com</a> wrote:<br><br></div><div></div><div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+=
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+<title>Wisdom of Vedic Rishis</title>
+
+
+
+ <div style=3D"wi=
+dth:800px;">
+
+    <div style=3D"font-family: helvetica, clean, sans-serif; =
+color: #efefef and #999999; font-size: 13px; font-style: normal; font-varia=
+nt: normal; font-weight: Bold; text-decoration: none; drop-shadow: 1px #000=
+000; background-color: #393939; height: 50px;">
+   <div style=3D"float: lef=
+t; padding: 5px 0px 2px 20px">
+    <a style=3D"text-decoration: none" href=
+=3D"http://groups.yahoo.com/;_ylc=3DX3oDMTJlZXFsdW9lBF9TAzk3MzU5NzE1BGdycEl=
+kAzE5MDI5MDE1BGdycHNwSWQDMTcwNTA3NTk5MQRzZWMDZnRyBHNsawNnZnAEc3RpbWUDMTM0Nj=
+c0NTM5Mg--"><span style=3D"color: #ffffff;"> <img src=3D"http://l.yimg.com/=
+ru/static/images/yg/img/email/Logo_YGroups_20120705.gif" border=3D"0" alt=
+=3D"Yahoo! Groups">  </span>
+    </a>
+   </div>
+
+   <div style=3D"float:rig=
+ht; padding: 20px 30px 7px 0px; font-size:13px; max-width: 550px;">
+    <a =
+style=3D"text-decoration: none; color: #ffffff;" href=3D"http://groups.yaho=
+o.com/group/vedic-wisdom;_ylc=3DX3oDMTJldTZ2bmYwBF9TAzk3MzU5NzE1BGdycElkAzE=
+5MDI5MDE1BGdycHNwSWQDMTcwNTA3NTk5MQRzZWMDaGRyBHNsawNocGgEc3RpbWUDMTM0Njc0NT=
+M5MQ--">
+      <span style=3D"color: #ffffff"> Wisdom of Vedic Rishis </spa=
+n> <span style=3D"color: #b7b7b7"> Group </span> 
+    </a> 
+   </div>
+   <d=
+iv style=3D"clear:both;"> </div>
+
+  </div> 
+
+  <div style=3D"float: left;">=
+ 
+    <div style=3D"float: left; background-color: #393939; height: 20px; w=
+idth: 20px;"> 
+  </div>
+
+  <div style=3D"float:left; width:750px; backgroun=
+d-color: #f6f6f6; border-top: 1px #dddddd; border-left: 1px #dddddd; border=
+-right: 1px #dddddd; border-bottom: none; font-family: arial, helvetica, cl=
+ean, sans-serif; color: #222222; font-size: 11px; font-style: normal; font-=
+variant: normal; font-weight: Bold; text-decoration: none;">
+      <h1 styl=
+e=3D"float:left; padding: 14px 0px 11px 20px; font-family: arial, helvetica=
+, clean, sans-serif; color: #222222; font-size: 11px; font-style: normal; f=
+ont-variant:normal; font-weight: Bold; text-decoration: none; margin: 0px;"=
+>
+        5  New 
+                  Messages              </h1>
+
+      <div=
+ style=3D"float:right; padding: 14px 20px 10px 0px">
+        Digest #1591  =
+    </div>
+      <div style=3D"clear:both"> 
+      </div>
+  </div>
+
+    <di=
+v style=3D"float: left; background-color: #393939; height: 20px; width: 30p=
+x;"> 
+  </div>
+  <div style=3D"clear:both;"> </div>
+  </div> 
+           
+ =
+ <table style=3D"width:750px; border-collapse: collapse; margin-left: 20px;=
+ border: 1px solid #dddddd;">
+   <tbody>
+    <tr>
+     <td style=3D"width: =
+750px; padding-left: 0px; padding-right: 0px;">
+      <a name=3D"toc"></a>
+=
+       <div style=3D"float: left; background-color: #ffffff; line-height:19=
+px; width: 748px;">
+                                          
+      <div s=
+tyle=3D"padding:7px 18px 6px 18px;">
+
+    
+    <div style=3D"float: left; w=
+idth:30px; text-align: right; font-family: arial, helvetica, clean, sans-se=
+rif; color: #222222; font-size: 12px; font-style: normal; font-variant: nor=
+mal; font-weight: bold; text-decoration: none;"> 
+      1a 
+    </div>
+
+   =
+     <div style=3D"float:left; padding: 0px 0px 0px 10px; width: 660px; fon=
+t-family: arial, helvetica, clean, sans-serif; color: #3353f3; font-size: 1=
+2px; font-style: normal; font-variant: normal; font-weight: bold; text-deco=
+ration: none;"> 
+           <a style=3D"text-decoration:none; color: #3353f=
+3;" href=3D"#1a"> 
+           Re: Burning Bad Karma: Homa / Sudarshan Kriya=
+ 
+       </a> 
+
+      <span style=3D"margin-left: 3px; text-decoration: non=
+e; color: #333333">
+       by 
+                "vedic_pathak"
+             =
+          vedic_pathak             </span>
+    </div>
+
+    <div style=3D"cl=
+ear:both"> 
+    </div>
+  </div>
+                                           =
+   
+      <div style=3D"padding:7px 18px 6px 18px;">
+
+    
+    <div style=
+=3D"float: left; width:30px; text-align: right; font-family: arial, helveti=
+ca, clean, sans-serif; color: #222222; font-size: 12px; font-style: normal;=
+ font-variant: normal; font-weight: bold; text-decoration: none;"> 
+      1=
+b 
+    </div>
+
+        <div style=3D"float:left; padding: 0px 0px 0px 10px;=
+ width: 660px; font-family: arial, helvetica, clean, sans-serif; color: #33=
+53f3; font-size: 12px; font-style: normal; font-variant: normal; font-weigh=
+t: bold; text-decoration: none;"> 
+           <a style=3D"text-decoration:n=
+one; color: #3353f3;" href=3D"#1b"> 
+           Re: Burning Bad Karma: Homa=
+ / Sudarshan Kriya 
+       </a> 
+
+      <span style=3D"margin-left: 3px; te=
+xt-decoration: none; color: #333333">
+       by 
+                "vinayak t=
+andle"
+                       vinayakmechie             </span>
+    </div>
+=
+
+    <div style=3D"clear:both"> 
+    </div>
+  </div>
+                      =
+                        
+      <div style=3D"padding:7px 18px 6px 18px;">
+
+=
+    
+    <div style=3D"float: left; width:30px; text-align: right; font-fam=
+ily: arial, helvetica, clean, sans-serif; color: #222222; font-size: 12px; =
+font-style: normal; font-variant: normal; font-weight: bold; text-decoratio=
+n: none;"> 
+      1c 
+    </div>
+
+        <div style=3D"float:left; padding=
+: 0px 0px 0px 10px; width: 660px; font-family: arial, helvetica, clean, san=
+s-serif; color: #3353f3; font-size: 12px; font-style: normal; font-variant:=
+ normal; font-weight: bold; text-decoration: none;"> 
+           <a style=
+=3D"text-decoration:none; color: #3353f3;" href=3D"#1c"> 
+           Re: Bu=
+rning Bad Karma: Homa / Sudarshan Kriya 
+       </a> 
+
+      <span style=3D=
+"margin-left: 3px; text-decoration: none; color: #333333">
+       by 
+     =
+           "vinayak tandle"
+                       vinayakmechie           =
+  </span>
+    </div>
+
+    <div style=3D"clear:both"> 
+    </div>
+  </div>
+ =
+                                             
+      <div style=3D"padding:7=
+px 18px 6px 18px;">
+
+    
+    <div style=3D"float: left; width:30px; text-a=
+lign: right; font-family: arial, helvetica, clean, sans-serif; color: #2222=
+22; font-size: 12px; font-style: normal; font-variant: normal; font-weight:=
+ bold; text-decoration: none;"> 
+      1d 
+    </div>
+
+        <div style=
+=3D"float:left; padding: 0px 0px 0px 10px; width: 660px; font-family: arial=
+, helvetica, clean, sans-serif; color: #3353f3; font-size: 12px; font-style=
+: normal; font-variant: normal; font-weight: bold; text-decoration: none;">=
+ 
+           <a style=3D"text-decoration:none; color: #3353f3;" href=3D"#1d=
+"> 
+           Re: Burning Bad Karma: Homa / Sudarshan Kriya 
+       </a> 
+=
+
+      <span style=3D"margin-left: 3px; text-decoration: none; color: #3333=
+33">
+       by 
+                "vedic_pathak"
+                       vedic=
+_pathak             </span>
+    </div>
+
+    <div style=3D"clear:both"> 
+   =
+ </div>
+  </div>
+                                              
+      <div =
+style=3D"padding:7px 18px 6px 18px;">
+
+    
+    <div style=3D"float: left; =
+width:30px; text-align: right; font-family: arial, helvetica, clean, sans-s=
+erif; color: #222222; font-size: 12px; font-style: normal; font-variant: no=
+rmal; font-weight: bold; text-decoration: none;"> 
+      1e 
+    </div>
+
+  =
+      <div style=3D"float:left; padding: 0px 0px 0px 10px; width: 660px; fo=
+nt-family: arial, helvetica, clean, sans-serif; color: #3353f3; font-size: =
+12px; font-style: normal; font-variant: normal; font-weight: bold; text-dec=
+oration: none;"> 
+           <a style=3D"text-decoration:none; color: #3353=
+f3;" href=3D"#1e"> 
+           Re: Burning Bad Karma: Homa / Sudarshan Kriy=
+a 
+       </a> 
+
+      <span style=3D"margin-left: 3px; text-decoration: no=
+ne; color: #333333">
+       by 
+                "miveda91"
+                =
+       miveda91             </span>
+    </div>
+
+    <div style=3D"clear:bot=
+h"> 
+    </div>
+  </div>
+                                        <div style=
+=3D"clear:both"> </div>
+       </div>   
+     </td>
+    </tr>
+   </tbody>
+ =
+ </table>
+
+  
+ 
+  <p> </p>
+
+  
+  <div style=3D"margin-left: 20px; margin-ri=
+ght: 30px; width:750px; margin-top: 27px">   
+   <div style=3D"float: left;=
+ width: 584px;">
+    
+    <h1 style=3D"font-size:110%; font-weight:bold; pa=
+dding:0px 0px 10px 10px; margin: 0; ">
+             Messages          </h1>=
+
+
+               
+ <div style=3D"float: left; margin-bottom: 40px;">
+
+     =
+ <div style=3D"width:564px; line-height:20px; font-family: arial, helvetica=
+, clean, sans-serif; font-size: 16px; font-style: normal; font-variant: nor=
+mal; text-decoration: none;">
+      <h2 style=3D"float: left; margin: 0px; =
+padding: 0px; width:30px; color: #222222; text-align: right; line-height:20=
+px; font-family: arial, helvetica, clean, sans-serif; font-size: 16px; font=
+-style: normal; font-variant: normal; text-decoration: none;">
+       1a  
+=
+      </h2>
+    
+      <h2 style=3D"float: left; width: 524px; padding: 0px=
+; margin: 0px 0px 0px 10px; float: left; color: #222222; font-weight: bold;=
+ line-height:20px; font-family: arial, helvetica, clean, sans-serif; font-s=
+ize: 16px; font-style: normal; font-variant: normal; text-decoration: none;=
+">
+        <a style=3D"text-decoration:none;" href=3D"http://groups.yahoo.c=
+om/group/vedic-wisdom/message/8647;_ylc=3DX3oDMTJydG5nZHJjBF9TAzk3MzU5NzE1B=
+GdycElkAzE5MDI5MDE1BGdycHNwSWQDMTcwNTA3NTk5MQRtc2dJZAM4NjQ3BHNlYwNkbXNnBHNs=
+awN2bXNnBHN0aW1lAzEzNDY3NDUzOTI-" name=3D"1a"> 
+        <span style=3D"colo=
+r: #3353f3;">
+        Re: Burning Bad Karma: Homa / Sudarshan Kriya        =
+</span>
+        </a>
+      </h2>
+      <div style=3D"clear:both;"> </div>
+ =
+  </div> 
+   <div style=3D"float:left; width: 524px; line-height:20px; marg=
+in-left: 40px; ">
+      <h4 style=3D"float: left; font-family: arial, helve=
+tica, clean, sans-serif; color: #000000; font-size: 12px; font-style: norma=
+l; font-variant: normal; font-weight: normal; text-decoration: none; margin=
+: 0px; pading: 0px;">
+        Mon Sep 3, 2012 4:24 am       =
+ (PDT)        . Posted by:      </h4>
+
+      <h3 style=3D"float: left; font=
+-family: arial, helvetica, clean, sans-serif; color: #3353f3; font-size: 12=
+px; font-style: normal; font-variant: normal; font-weight: normal; text-dec=
+oration: none; margin: 0px 0px 0px 1px; padding: 0px ">
+        <a style=3D=
+"text-decoration:none;" href=3D"mailto:vedic_pathak@...?subject=3DRe%=
+3A%20Burning%20Bad%20Karma%3A%20Homa%20%2F%20Sudarshan%20Kriya">
+        <s=
+pan style=3D"color: #3353f3;">
+        "vedic_pathak"         vedic_pathak =
+        </span>
+        </a>
+      </h3>
+    </div>
+
+        <div style=3D"=
+width: 524px; float:left; margin-top: 22px; margin-bottom: 6px; margin-left=
+: 40px; font-family: arial, helvetica, clean, sans-serif; color: #333333; f=
+ont-size: 13px; font-style: normal; font-variant: normal; font-weight: norm=
+al; text-decoration: none; line-height:19px;">
+             Just to add fur=
+ther, I never tried combined practices of Havan and Sudarshan Kriya. Any wa=
+ys, It is matter of finding out by one's own experiences (and that is actua=
+lly the only way)rather than relying on experiences of others. This is also=
+ opinion of Mihir and Narasimha Garu. unless ofcourse one has a spiritual G=
+uru and full faith in Guru to just blindly perform the Sadhana commanded by=
+ Guru. for such person it is fine not to roam around.<br>
+<br>
+Medium used =
+in Sudarshan Kriya is Air (on gross level atleast) while that in Homam/Hava=
+n is Fire and it is only logical to think that there must lie some differen=
+ces in terms of speed/quality/<wbr>effects in their respective evolutionary=
+ curves and as far as I am concerned, I have probably had some knwoeldge of=
+ differences using Air and Fire. I can see that Mihir's experience of SK is=
+ somewhat similar to mine. It'll be interesting to note here that I did per=
+form a couple of havans with the inspiration of AOL and that was Mahamritun=
+jaya Havan, back in 2006 (before i started Havan regularly in 2008 with the=
+ divine inspiration of Narasimha).<br>
+<br>
+Best Regards,<br>
+<br>
+Utpal<br=
+>
+<br>
+--- In <a href=3D"mailto:vedic-wisdom%40yahoogroups.com">vedic-wisdo=
+m@<wbr>yahoogroups.<wbr>com</a>, "vedic_pathak" <vedic_pathak@<wbr>...&g=
+t; wrote:<br>
+><br>
+> Namaste Vinayak,<br>
+> <br>
+> [you are th=
+e one of the 4<br>
+> > prominent people who have influenced & ins=
+pired me on spiritual path]<br>
+> <br>
+> I am sure the 2nd important =
+person is me :)<br>
+> Jokes apart, let me share a little bit of my perso=
+nal background on Sudrashan Kriya and Homa as i have done both practices.<b=
+r>
+> <br>
+> I learnt SK in 2005 and then almost daily kept doing it t=
+ill 2008 mid. I also learnt advance course as well as Padmasadhana (PS) fro=
+m AOL in 2006. I also regularly kept doing PS ALMOST everyday. For about 3 =
+years, I used to do SK and PS regularly. <br>
+> <br>
+> Now I got star=
+ted with Homa on daily basis since 2008 Sept and keep doing it till date (w=
+ith few breaks/irregulariti<wbr>es at times) and since then I have stopped =
+SK, however sometime do PS as i enjoy that systematic Yogaasanas.<br>
+> =
+<br>
+> Just gave above background which may help to assess.<br>
+> ***=
+<br>
+> SK and PS helped me cure some physical chronic issues which troub=
+led me since childhood and were helpful to strengthen my will power. It gen=
+erated an inner attitude to sustain any problems or calamities life may thr=
+ow by making my mind generally calmer then it used to be. I am able to say =
+that because I actually faced deep crises in 2006 July to sept and I was st=
+ill more or less unperturbed and could handle the situation. i increasingly=
+ become philosophical in my attitude.<br>
+> <br>
+> Now I started Chan=
+di paath and Havan combination in 2008. if i now sit back and look at thing=
+s then i can see some striking differences. Havan and CP combination strike=
+d at my emotional aspect. In the past, i was hardly tested on Emotional/Rel=
+ationa<wbr>l issues in general with society. i hardly faced any trouble in =
+that area. However, when I started Havan and CP, it looks that it badly att=
+acked this aspect of my being and I was severely tested. in Short, My publi=
+c relations which used to be always excellent (naturally) started falling a=
+part. It shook me up very badly as it never happened in the past and I did =
+not have enough experience, knowledge to handle such things. severe EQ test=
+ing then surfaced other weaknesses which i felt that i never had :-). it am=
+azed me at one side while at the same time It threw a formidable challenge =
+to my so called **ballooned spiritual ego**. All these happening were more =
+inside and much less tangible outside. There are crises i went through in m=
+y job which also tested me a lot. I lost a good some of </div></div></div><=
+/div></div></div></body></html>
+--Apple-Mail-E873C919-2782-40F9-93C1-99CB2843ADF7--
+
+

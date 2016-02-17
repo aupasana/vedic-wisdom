@@ -1,0 +1,281 @@
+From rajarshi14@...  Wed Feb 17 11:10:24 2016
+Return-Path: <rajarshi14@...>
+X-Sender: rajarshi14@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 509 invoked from network); 29 Oct 2012 19:40:36 -0000
+X-Received: from unknown (98.137.34.45)
+  by m14.grp.sp2.yahoo.com with QMQP; 29 Oct 2012 19:40:36 -0000
+X-Received: from unknown (HELO nm2-vm6.bullet.mail.sg3.yahoo.com) (106.10.148.109)
+  by mta2.grp.sp2.yahoo.com with SMTP; 29 Oct 2012 19:40:36 -0000
+X-Received: from [106.10.166.125] by nm2.bullet.mail.sg3.yahoo.com with NNFMP; 29 Oct 2012 19:40:35 -0000
+X-Received: from [106.10.151.187] by tm14.bullet.mail.sg3.yahoo.com with NNFMP; 29 Oct 2012 19:40:35 -0000
+X-Received: from [127.0.0.1] by omp1013.mail.sg3.yahoo.com with NNFMP; 29 Oct 2012 19:40:35 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 34377.71138.bm@...
+X-Received: (qmail 15940 invoked by uid 60001); 29 Oct 2012 19:40:34 -0000
+X-YMail-OSG: 1xjuFOEVM1kW9LKXnjcefoR47xdZ81BLbWP5rNOWcE.SIbH
+ uEcDkEzbPrW31njKKoxn.QRf.LqllUEgc2KP1.aa1UoA0XfhRm.ydR693pgd
+ ZRBS.B_BfvAKsVLLwYxnDwmjrk4sowOQ2XMW1q5oStl7CRVz3fBxK9bMCAm0
+ yYRDIw8lzsJYL8dPlVz932bPnLxV09OZumM4PBCPD5TMGfc67cKaJgPnZEzP
+ sYNBL7SuOkbBLb0A7Yi5NoVJ.Q6pP4yUHwnYD.ii7iqyhxxYn9kDilnW_2j9
+ mec3ofezDgKtsPjYTqdl_7WRSu2EVyOawu.U_dITVY05FEgeYZNTUaQwoQDh
+ dnwq.Ukqd69_UmgYsM0l2ALM5K0Ovb_YbQ8ViYpv31zWXt6Juri2IaunTOR1
+ D2mikK9fNJNWQ5d3ghEA8gTR65uN7fN9XtB.hyfkIJwm1jbOlo3NKhclXYgc
+ RpeRhP74tndZkiJGMFKldjhFBLEoNzYCqy28ZNP2GvZ3nerglzCPwW_ysuL.
+ 06DAJz2lvmz_T9.hTtxBOldcnH.hbtCwCYFXgTMLLpzPUAtHmqUuhxvW4jlD
+ 00_wDmMv68gbHy3lt99J6IVxHFCMjrr3FpbHeb.TF4Il_cJJ.PCGpK_ZZsKq
+ 42G_e6MbiHnGY37I1lUB9iMWjMkOTBbdkugeSNg1kltlol9YgeHxJusoYErt
+ XECwJetv0xDthsVhcfigt7b5_5z6zJHEOfjENt0O1y_ZnShWTfmoAhT0MqvQ
+ pHaleDp4_nkpOh1VCtgTRb6jIiFTnT8Z2OTsB5ihjBceOQDcFxBT4S9ObjkU
+ jFc0b9yBsDB_8YEQJ4e_SDe35eXr9i.hjVX_lHUNGGHDiOjMcK2McEXKjYvQ
+ k3BTz2ixww2EKe1Ov0fbGEv5p1v77ii4FsMo7ua76ZyPUh6z6PCiIhp7B0go
+ 9JXYDiijKnzfWSxb0Yv3YiMTFxGw4FDkMASyD3xKlkjLPTYdolb9yKmME.Tb
+ xy1N5VTNDRl0AZHBMADaD2z.lIMutz9Ut5rV3_t7TtXTKuasluBwmZSVzDIH
+ yv6DyG6l8SWqeG5qmQl1.VQ_YxAChf2N.OOvK3Mhgy1Zt4NOqWYv3F5xeUOs
+ Ubib6Zk6sR7JMGr._WAtUPDNJrIu56HRSreFuraRcvqaT.zI7y88ILTkddDC
+ U0p3W6tygTkf5aiX6inSD7foKizAlwW2pPC_sNwfgAnI5QNzmJ5_l1lM.ekd
+ 5sr6Hs5WE2zI9HlQBhXCMldM4rP.p3BfDZnqoix3iiktgsZUZoZAyjn9bS5m
+ dsJOM_9YUyCrazfM_I1EIbbcsl4IsMIIEPlnlJUtSCw8xzbfRXpnUeXPXW8Y
+ zeRvBywDgPPbSc6CbuZzp72pR9XiCsVhxBITSEwHvgFAnAa2AeSyfSvfoSU6
+ g5.ZSIPQP94wenY_6ZelqhNEy4_wInZOPCFe9GcAEDgYPal_pXRrR9_znX0O
+ Yf.STo.s_EBqp1XereT3EEBLHh4gsa6790tMKe4loYFTmrYgKmhmeDkgbWLR
+ x7_TQyVp8y1T9QZcE9F4AdYOqEEucuB0gzcKz124ZdnFlUMFG4rQ15Aajbap
+ DCIdtWUtANbtbsMh4XfBDcRsC5uWDG8OdamCjrHL.R8ge70F7OrjPjKqI5wt
+ Ppq0WT7IXOzPxIK73rN6NZp2.pzvhd75jV8p9ydaifpzUYIFIU1pSBH52By0
+ pIi.uXXfqUQGvt16FxLm9_w.NDxD71ed321UpvJIC0nVyOzKXGTGonxvCnaH
+ dxGY1I40dO_N4fMAjloA3.iNdxj2iC8Op0EvD_kA3ef8FmLT5_Z95SIiC71r
+ qdrSInHRYoG8xWlBvWJ7E1WyfaP38HaAZJguHwWXYXslHKmM6TaccUL.ZgPR
+ Gcw--
+X-Received: from [101.63.105.33] by web190905.mail.sg3.yahoo.com via HTTP; Tue, 30 Oct 2012 03:40:34 SGT
+X-Rocket-MIMEInfo: 001.001,CgpOYW1hc3RlLAoKVGhlcmUgd2VyZSBzbyBtYW55IHNlbnRlbmNlcyBpbiB0aGF0IGJsb2cgd2hpY2ggY291bGQgYmUgcGlja2VkLCBxdWVzdGlvbmVkLCBkZWJhdGVkIGFuZCByaXBwZWQsIGFuZCBzaHJlZGRlZCB0aGF0IEkgYW0gbm90IGV2ZW4gc3VyZSB3aGV0aGVyIHRvIGxhdWdoIG9yIHRvIGNyeS4KClRoaXMga2luZCBvZiBkdWJpb3VzIGxvZ2ljIGNhbiBiZSB1c2VkIHRvIHByb3ZlIGFueXRoaW5nIHVuZGVyIHRoZSBzdW4uIE1vcmVvdmVyLCB0aGUgc28gY2FsbGVkIE5hdmFzYXRpIGlzIGEgZmlnbWUBMAEBAQE-
+X-Mailer: YahooMailWebService/0.8.123.450
+References: <k6mafh+k5qe@...>
+Message-ID: <1351539634.12547.YahooMailNeo@...>
+Date: Tue, 30 Oct 2012 03:40:34 +0800 (SGT)
+To: "vedic-wisdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com>
+In-Reply-To: <k6mafh+k5qe@...>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="1004636618-1515069753-1351539634=:12547"
+X-Originating-IP: 106.10.148.109
+X-eGroups-Msg-Info: 1:12:0:0:0
+From: rajarshi nandy <rajarshi14@...>
+Reply-To: rajarshi nandy <rajarshi14@...>
+Subject: Re: [vedic-wisdom] Saptashati and Navashati
+X-Yahoo-Group-Post: member; u=216162964; y=Cr_xv8FQFKnYpudvIGWUTG75sjpraUO_5NAuE3HnJ8VMSrCFjw
+X-Yahoo-Profile: rajarshi14
+
+
+--1004636618-1515069753-1351539634=:12547
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+
+
+Namaste,
+
+There were so many sentences in that blog which could be picked=
+, questioned, debated and ripped, and shredded that I am not even sure whet=
+her to laugh or to cry.
+
+This kind of dubious logic can be used to prove an=
+ything under the sun. Moreover, the so called Navasati is a figment of some=
+ "SRI SRI SRI KALYANANDA BHARATHI MANTACHARYA MAHASWAMY"'s meditations usin=
+g 'mantra-shastra' to baptise the Saptasati to make it "vedic" (as per thei=
+r understanding of what vedic must entail) and save it from "Tantrikas". So=
+rry, sounds like a bag of hot air.
+
+
+Many statements are rank malicious, li=
+ke - "The term "PARAMPARA" invariably denotes=C2=A0 VEDIC PARAMPRA ONLY and=
+ there is no PARAMPARA FOR SAPTHASATHI"! Absolute rubbish. Tantras are as m=
+uch a valid path as any other. And there have been great paramaparas which =
+have been using the Sri Sri Chandi as its main sadhana and producing lines =
+of serious spiritual greats since ages. If anyone really has a far better l=
+ocus standi to comment on Sri Sri Chandi, it is the Tantrika Paramparams, f=
+or they have done this sadhana is far greater depth and dimension and volum=
+e than anyone else at any point in history. Whatever one cannot digest is n=
+ot necessarily bad and evil and flawed. As a corollary, this blog reminded =
+me of the religious fights during middle-ages, when each group would kill t=
+he other fighting over whose imaginary sky-daddy is greater.
+
+I could have =
+still attempted to take this so called found-in-meditation 'navasati' with =
+some seriousness, had not the author of this blog betrayed such rank ignora=
+nce, malice, bigotry and intolerance of what clearly has gone way above his=
+ cranium. Moreover it is questionable if his so called Vedic-wisdom is trul=
+y what the Vedas say, or something *he thinks* the Vedas are saying.
+
+Anywa=
+y. There is no debate here. At best, after completing the whole blog I have=
+ only one question for the author, "Sir, what have you been smoking?".
+
+-Re=
+gards
+=C2=A0Rajarshi
+
+
+
+awaktam wyaktimApannam manyantE mAmabuddhayah |
+par=
+am bhAwamajAnanto mamAwyayamanuttamam ||[7:24]
+
+
+__________________________=
+______
+ From: enlnlife <enlnlife@...>
+To: vedic-wisdom@...=
+m 
+Sent: Monday, 29 October 2012 9:52 PM
+Subject: [vedic-wisdom] Saptashati=
+ and Navashati
+ 
+
+=C2=A0 
+Dear PVR Narsimha Garu/Or other great sadhakas in=
+ the group,
+
+I adore Saptashati and fond of reading/reciting/meditating on =
+it.  I recently came across something called Navashati.  Some how it did no=
+t feel right that some one was trying to find faults with Saptashati.
+
+Here=
+ is a link that I found
+
+http://navasathi.blogspot.com/2011/11/sri-devi-mah=
+atmyam-chandi-navasati.html
+
+For me Saptashati feels complete, right and re=
+sonates well. 
+
+Please comment if you care to on this Navashati which was r=
+aised by one. 
+
+Regards,
+Kris.
+
+
+ 
+--1004636618-1515069753-1351539634=:12547
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"color:#000; background-color:#fff; font-family:Co=
+urier New, courier, monaco, monospace, sans-serif;font-size:12pt"><div><spa=
+n><br></span></div><div>Namaste,<br><br>There were so many sentences in tha=
+t blog which could be picked, questioned, debated and ripped, and shredded =
+that I am not even sure whether to laugh or to cry.<br><br>This kind of dub=
+ious logic can be used to prove anything under the sun. Moreover, the so ca=
+lled Navasati is a figment of some "<span class=3D"st"><em>SRI SRI SRI KALY=
+ANANDA BHARATHI MANTACHARYA MAHASWAMY"'s </em><span>meditations</span> usin=
+g 'mantra-shastra' to baptise the Saptasati to make it "vedic" (as per thei=
+r understanding of what vedic must entail) and save it from "Tantrikas". So=
+rry, sounds like a bag of hot air.<br><br><br>Many statements are rank mali=
+cious, like - "</span><span class=3D"st">The term "PARAMPARA" invariably de=
+notes  <b>VEDIC PARAMPRA ONLY and there is no PARAMPARA FOR
+ SAPTHASAT=
+HI"! </b>Absolute rubbish. Tantras are as much a valid path as any other. A=
+nd there have been great paramaparas which have been using the Sri Sri Chan=
+di as its main sadhana and producing lines of serious spiritual greats sinc=
+e ages. If anyone really has a far better locus standi to comment on Sri Sr=
+i Chandi, it is the Tantrika Paramparams, for they have done this sadhana i=
+s far greater depth and dimension and volume than anyone else at any point =
+in history. Whatever one cannot digest is not necessarily bad and evil and =
+flawed. As a corollary, this blog reminded me of the religious fights durin=
+g middle-ages, when each group would kill the other fighting over whose ima=
+ginary sky-daddy is greater.<br><b><br></b>I could have still attempted to =
+take this so called found-in-meditation 'navasati' with some seriousness, h=
+ad not the author of this blog betrayed such rank ignorance, malice, bigotr=
+y and intolerance of what clearly has gone way above his
+ cranium. Moreover=
+ it is questionable if his so called Vedic-wisdom is truly what the Vedas s=
+ay, or something *he thinks* the Vedas are saying.<br><br>Anyway. There is =
+no debate here. At best, after completing the whole blog I have only one qu=
+estion for the author, "Sir, what have you been smoking?".<br><br>-Regards<=
+br> Rajarshi<br><b><br><br></b></span></div><div><i><b><div class=3D"M=
+soNormal"><b><span class=3D"Apple-style-span" style=3D"font-size:16px;"><b>=
+<span class=3D"Apple-style-span" style=3D"color:rgb(153, 153, 153);"></span=
+></b></span></b><span class=3D"yui_3_2_0_2_134243527249950" style=3D"font-f=
+amily:times new roman, new york, times, serif;">awaktam wyaktimApannam many=
+antE mAmabuddhayah |</span><br><b><span class=3D"yui_3_2_0_2_13424350622794=
+6 yui_3_2_0_2_134243527249952 yui_3_7_2_20_1351534086440_68" style=3D"FONT-=
+SIZE:10pt;COLOR:navy;FONT-FAMILY:Verdana;"><font color=3D"#000000" face=3D"=
+Times New Roman"><div><div> param bhAwamajAnanto mamAwyayamanuttamam
+ ||[7:=
+24]</div></div></font></span></b></div></b></i></div><div><br></div>  <div =
+style=3D"font-family: Courier New, courier, monaco, monospace, sans-serif; =
+font-size: 12pt;"> <div style=3D"font-family: times new roman, new york, ti=
+mes, serif; font-size: 12pt;"> <div dir=3D"ltr"> <font face=3D"Arial" size=
+=3D"2"> <hr size=3D"1">  <b><span style=3D"font-weight:bold;">From:</span><=
+/b> enlnlife <enlnlife@...><br> <b><span style=3D"font-weight: =
+bold;">To:</span></b> vedic-wisdom@yahoogroups.com <br> <b><span style=3D"f=
+ont-weight: bold;">Sent:</span></b> Monday, 29 October 2012 9:52 PM<br> <b>=
+<span style=3D"font-weight: bold;">Subject:</span></b> [vedic-wisdom] Sapta=
+shati and Navashati<br> </font> </div> <br><meta http-equiv=3D"x-dns-prefet=
+ch-control" content=3D"off"><div id=3D"yiv945043750">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div>
+<s=
+pan style=3D"display:none;"> </span>
+
+
+
+    <div id=3D"yiv945043750ygr=
+p-text">
+      
+      
+      <div>Dear PVR Narsimha Garu/Or other great sad=
+hakas in the group,<br>
+<br>
+I adore Saptashati and fond of reading/recitin=
+g/meditating on it.  I recently came across something called Navashati.  So=
+me how it did not feel right that some one was trying to find faults with S=
+aptashati.<br>
+<br>
+Here is a link that I found<br>
+<br>
+<a rel=3D"nofollow=
+" target=3D"_blank" href=3D"http://navasathi.blogspot.com/2011/11/sri-devi-=
+mahatmyam-chandi-navasati.html">http://navasathi.blogspot.com/2011/11/sri-d=
+evi-mahatmyam-chandi-navasati.html</a><br>
+<br>
+For me Saptashati feels com=
+plete, right and resonates well.  <br>
+<br>
+Please comment if you care to o=
+n this Navashati which was raised by one. <br>
+<br>
+Regards,<br>
+Kris.<br>
+=
+<br>
+</div>
+
+    </div>
+     
+
+
+
+</div>
+
+
+
+
+
+</div><meta http-equiv=3D"x-dn=
+s-prefetch-control" content=3D"on"><br><br> </div> </div>  </div></body></h=
+tml>
+--1004636618-1515069753-1351539634=:12547--
+
+

@@ -1,0 +1,328 @@
+From rajarshi14@...  Wed Feb 17 11:10:15 2016
+Return-Path: <rajarshi14@...>
+X-Sender: rajarshi14@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 45401 invoked from network); 12 Jun 2012 07:32:28 -0000
+X-Received: from unknown (98.137.35.160)
+  by m4.grp.sp2.yahoo.com with QMQP; 12 Jun 2012 07:32:28 -0000
+X-Received: from unknown (HELO nm21-vm6.bullet.mail.sg3.yahoo.com) (106.10.151.37)
+  by mta4.grp.sp2.yahoo.com with SMTP; 12 Jun 2012 07:32:27 -0000
+X-Received: from [106.10.166.112] by nm21.bullet.mail.sg3.yahoo.com with NNFMP; 12 Jun 2012 07:32:26 -0000
+X-Received: from [106.10.151.203] by tm1.bullet.mail.sg3.yahoo.com with NNFMP; 12 Jun 2012 07:32:26 -0000
+X-Received: from [127.0.0.1] by omp1015.mail.sg3.yahoo.com with NNFMP; 12 Jun 2012 07:32:26 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 239226.69798.bm@...
+X-Received: (qmail 4920 invoked by uid 60001); 12 Jun 2012 07:32:26 -0000
+X-YMail-OSG: e3x5ceoVM1nHber6KHIoaIntUhQHZeMN_AUjkN2vCnh2lht
+ GKLVQNqJmdKSDz10VtcDYLNXV5SX11YZkk9xYKC8uMeUXNAMOBhvM6.E13bH
+ 9Bqe8bJeo53O2hj97gGmVy6FrnFqe5QgJX3f7SMvRaxGJQ5vEodQTmOOSZ5f
+ G35bILSN7klJ5jaK.GyNQK3TvvuNPkiDR6mylwiPFSrsWRE25iOh7kNBb2Ta
+ UqWGYnJ9xRjjpoYd0zahta822_dEGikf6jPKL45izePWlInf3Hht0BzeY.sx
+ XfwESnrsIu54dfIfqRDBq1M6JVhEucdChID2wRnRJzzDKSoFiEQBt0nWMWVP
+ 2gYrrn9bknYuOYlHvUYWSml9zY0YkUo9Z0XDAVtMoSgiizW0VS0fHqYtHpOD
+ vu8FpZryIDo0eI23uz8kA64asIvlQYCP7BQXAUQPWu4pkdyUQmv3txUIGLzV
+ P5cZYOE2o6V_.wFn01UBWCAv5gSViZN5LMyYNR3UBVd.3KyMqpbFxyO9z1nK
+ 8imf7jU4zFYjIde56Fv6.JL0BmBQYwfQflOGWrLiJjALV5Ztf9sO6oxI9c33
+ z_HAVa775g954vmYUyHMZOCOqXLTD2RFGgnN0UjpDiF1emOaf_sQg_zPcSZF
+ oHBxW.AuIa18mVYLe73Zs2YWrJRlKj8u7Slt2NjNHOzcL_xadaiETREYACeA
+ 8ZLzBcYpZwn3mUtnQWCvk9opAGFNt7DU.M0kl_vDJZa6Lhj2T9nfnsfd8zAq
+ FKWxZ.krnQGX3e7aZNDxG8tfQJef6D0mlv8VsKQKTy5SmxShQlG4xKQQctSY
+ M8lNblnTpuq8JAreZ43RAS8kyX6e2Zr0S1LwxRilJjlLtwYRhrZGf_3RdAHK
+ wnxuhaqbyLhnHOG0D95moJmOalcbNqkKKYohDohjViEQ7xYQdKK5lbF0awIk
+ tEOqSLW7zDVPMUE0syBT2zL0fz6j1EHY4kFmbmq46BZwLJRJhOKZm48mrzlh
+ t4X2a63_I15GOw2o_9zUKdFWOow0_tY81B6WHWMFtkW1V2U2Sy2AzcVAcGis
+ u97Q4641ruh3rnoS3uQm7g6mHuQB1sqt_cCLmeWWFfDZ6uDd5762AXooSR4v
+ ACiB4I1gPCuNxSyGsLbwSM6TQ8dFWI0kVaYdk4iiHicmteYlKmMxcP7HdLL9
+ Xqx1rsmrmxzY05hQkWKmed6oVvMTHfneczwHxJKFmOStIax_kFn8Fgwmv1rP
+ gYPVGPg2aKyvy158j50kjIgZi7p1ecCevC7D2nyKRkiAq_zX0C0zUhOaHsBM
+ MZyX2hAatOi.ReXd5YA89TkIztNE1MwXXtUlZZMuFaBzt_9KYOFQEBDYFXxu
+ PnKJUuQS7Dpuz0E3Xfyls42H5L3cuWpfLhvfOMvdRPm4k7CvMgJYZ1F_hmKR
+ 8ALL27CO1jWD1vbENEXszB8HBQav8X1beyvuL51i7XfpXkq1GH8T8j.PEnhc
+ UqfOAiASCUwPrxq0LV1impDX95jxuLevZQpEk5KGtR.22HzARHGR7VY_IGZ9
+ tqZIWtwoKJEbGBJzuHpAC6_x0zB9IYv2X6.xay1tjh.pL.0THCFg0Z_Llfxo
+ pT5aTBu0ee.bX3.3EGNuAbI3xWUd5jrjPgMEAJL15fQ92IQWBul1J.IhGfTC
+ j7T6gmOvjf4Y7WxMkWkZhLQ_9y0N5hy0ffrSXLXoaxfKw4GZmh6k7ueC2iPW
+ 0NGo_f0yx3_ybw_LeMDTUL.bejrSddsy_cvKa00EXGbu8_10wD3tS39Hol_9
+ aGHpls.u2ZwsRT0dxYDYl2A--
+X-Received: from [101.63.171.203] by web193103.mail.sg3.yahoo.com via HTTP; Tue, 12 Jun 2012 15:32:25 SGT
+X-Mailer: YahooMailWebService/0.8.118.349524
+References: <jr6hfj+3f12@...>
+Message-ID: <1339486345.96768.YahooMailNeo@...>
+Date: Tue, 12 Jun 2012 15:32:25 +0800 (SGT)
+To: "vedic-wisdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com>
+In-Reply-To: <jr6hfj+3f12@...>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="-814770868-1093130735-1339486345=:96768"
+X-Originating-IP: 106.10.151.37
+X-eGroups-Msg-Info: 1:12:0:0:0
+From: rajarshi nandy <rajarshi14@...>
+Reply-To: rajarshi nandy <rajarshi14@...>
+Subject: Re: [vedic-wisdom] Karmic liability for Tantra "material sadhana"
+X-Yahoo-Group-Post: member; u=216162964; y=lciP3PzP15sFVubOUYZ1P1cwoRq_bP-hjVpAkJKWolBqqXQFCw
+X-Yahoo-Profile: rajarshi14
+
+
+---814770868-1093130735-1339486345=:96768
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Dear Priyank,
+
+These three attitudes that you have named are for any sadhan=
+a, not just Tantra. Even so called Vedic Sadhanas are often done for materi=
+al gains. Recall how most of the Sanskrit stotras of various deities contai=
+n a phalastuti (the expected results), is that not material gain? Doing a M=
+ahamrityunjaya Mantra for health benefits, isn't that a material gain? It i=
+s not the path, but the attitude of the sadhaka which determines for what h=
+e/she is performing a certain sadhana.
+
+
+Yogis and/or those who do sadhana =
+using 'Vedic' tools also acquire siddhis. Yogis acquire siddhis, which can =
+come as a byproduct of the path. The problem is not with siddhis per se, it=
+ is with misusing them or commercializing them or hanging on to them. Any s=
+adhaka who can gain a siddhi, can also let go of that siddhi whenever he/sh=
+e wants. 
+
+
+Speaking of Karma, everything has a karma of it's own. Tantra, =
+as it stands today, is roughly divided into two major geographic and philos=
+ophical demarcations. The style practiced in South India - mostly Dakshina =
+Margi - and that practiced in Bengal and adjacent areas - mostly Vama Margi=
+. In my personal opinion, the adherents of the path in both cases, generall=
+y speaking, have been trapped in two delusions born out of collateral bypro=
+ducts of their respective paths. The first step of Shakti sadhana is genera=
+ting shakti. Second step is holding the shakti. Third step is channeling th=
+e shakti. In view of this, one school of Tantra that is prevalent today has=
+ tied itself up in too much of technicalities, such that on an average they=
+ forget to capture shakti (here shakti means energy, not Shakti the supreme=
+ Goddess). WHile the other school is able to generate and hold shakti much =
+better, only to commercialize the same and/or misuse it (generally speaking=
+,
+ expcetions are there too). End result, both eventually do not end up pro=
+ducing enough genuine Tantrik saints.
+
+<<
+i am wondering "if at all" and "w=
+hat kind" of karmic liabilities one might be getting into ?>>
+
+A fair excha=
+nge is never a robbery, as Vimalananda says. Theoretically, when the *right=
+ person* performs many of the things mentioned in that blog, (and some of t=
+he stuff there is not exactly accurately portrayed), he/she will know how t=
+o balance the karmic impact well. In the hands of an immature individual, i=
+t can lead to disaster. Further, the so called division between 'classical =
+Tantra' and 'folk Tantra' is not as sharp and clear as it is made out there=
+. Each influences the other and is very much intermingled.=C2=A0 Every sadh=
+ana in Vama Margi Tantra has a firm spiritual basis. Performed correctly, w=
+ith the right attitude, and by the right individual, it leads to very high =
+spiritual states.
+
+-Regards
+=C2=A0Rajarshi
+
+
+
+=C2=A0
+Bazeecha-e-atfal hain =
+duniya mere aage.
+Hota hain shab-o-roz tamasha mere aage
+=C2=A0
+Ek khel hai=
+n aurang-e-sulemaan mere nazdeek
+Ek baat hain ijaz-e-masiah mere aage.
+
+
+__=
+______________________________
+ From: priyank_priyank <aks_day@...>
+T=
+o: vedic-wisdom@yahoogroups.com 
+Sent: Tuesday, 12 June 2012 10:14 AM
+Subje=
+ct: [vedic-wisdom] Karmic liability for Tantra "material sadhana"
+ 
+
+=C2=A0=
+ 
+Hello all, 
+
+I have been following some tantra groups and in tantra there=
+ seems to be 3 attitudes. 
+
+1. IShta sadhana - complete surrender
+2. Siddhi=
+ sadhana - for gaining specific siddhi (part bhog part moksha)
+
+3. Material=
+ sadhana - related to bhog part of life. you do this specifically for the r=
+esult you want. here there are sadhanas right from kuber sadhanas to apsara=
+/urvashi to making pact with lot of entities (from ghosts to whatnot).
+
+i a=
+m wondering "if at all" and "what kind" of karmic liabilities one might be =
+getting into ?
+
+related reading
+http://aghorpir.blogspot.in/2012/05/classic=
+al-and-folk-tantra.html
+
+regards
+priyank
+
+
+ 
+---814770868-1093130735-1339486345=:96768
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"color:#000; background-color:#fff; font-family:ve=
+rdana, helvetica, sans-serif;font-size:10pt"><div><span>Dear Priyank,</span=
+></div><div><br><span></span></div><div><span>These three attitudes that yo=
+u have named are for any sadhana, not just Tantra. Even so called Vedic Sad=
+hanas are often done for material gains. Recall how most of the Sanskrit st=
+otras of various deities contain a phalastuti (the expected results), is th=
+at not material gain? Doing a Mahamrityunjaya Mantra for health benefits, i=
+sn't that a material gain? It is not the path, but the attitude of the sadh=
+aka which determines for what he/she is performing a certain sadhana.</span=
+></div><div><br><span></span></div><div><br><span></span></div><div><span>Y=
+ogis and/or those who do sadhana using 'Vedic' tools also acquire siddhis. =
+Yogis acquire siddhis, which can come as a byproduct of the path. The probl=
+em is not with siddhis per se, it is with misusing them or
+ commercializing=
+ them or hanging on to them. Any sadhaka who can gain a siddhi, can also le=
+t go of that siddhi whenever he/she wants. <br></span></div><div><br><span>=
+</span></div><div><span>Speaking of Karma, everything has a karma of it's o=
+wn. Tantra, as it stands today, is roughly divided into two major geographi=
+c and philosophical demarcations. The style practiced in South India - most=
+ly Dakshina Margi - and that practiced in Bengal and adjacent areas - mostl=
+y Vama Margi. In my personal opinion, the adherents of the path in both cas=
+es, generally speaking, have been trapped in two delusions born out of coll=
+ateral byproducts of their respective paths. The first step of Shakti sadha=
+na is generating shakti. Second step is holding the shakti. Third step is c=
+hanneling the shakti. In view of this, one school of Tantra that is prevale=
+nt today has tied itself up in too much of technicalities, such that on an =
+average they forget to capture shakti (here shakti
+ means energy, not Shakt=
+i the supreme Goddess). WHile the other school is able to generate and hold=
+ shakti much better, only to commercialize the same and/or misuse it (gener=
+ally speaking, expcetions are there too). End result, both eventually do no=
+t end up producing enough genuine Tantrik saints.</span></div><div><br><spa=
+n></span></div><div><span><<</span><br>
+i am wondering "if at all" an=
+d "what kind" of karmic liabilities one might be getting into ?>><br>=
+<br>A fair exchange is never a robbery, as Vimalananda says. Theoretically,=
+ when the *right person* performs many of the things mentioned in that blog=
+, (and some of the stuff there is not exactly accurately portrayed), he/she=
+ will know how to balance the karmic impact well. In the hands of an immatu=
+re individual, it can lead to disaster. Further, the so called division bet=
+ween 'classical Tantra' and 'folk Tantra' is not as sharp and clear as it i=
+s made out there. Each influences the other and is very much intermingled.&=
+nbsp; Every sadhana in Vama Margi Tantra has a firm spiritual basis. Perfor=
+med correctly, with the right attitude, and by the right individual, it lea=
+ds to very high spiritual states.</div><div><br></div><div>-Regards</div><d=
+iv> Rajarshi<br></div><div><br></div><div><span><br></span></div><div>=
+ </div><div><i><strong><div
+ class=3D"MsoNormal"><strong><span class=
+=3D"yui_3_2_0_96_133947784389769" style=3D"FONT-SIZE:10pt;COLOR:navy;FONT-F=
+AMILY:Verdana;"><font color=3D"#000000" face=3D"Times New Roman"><div><b><s=
+pan class=3D"Apple-style-span" style=3D"COLOR:#000066;"><span class=3D"Appl=
+e-style-span" style=3D"FONT-SIZE:medium;"><font color=3D"#a2a2a2" size=3D"3=
+">Bazeecha-e-atfal hain duniya mere aage.</font></span></span></b></div><di=
+v><b><span class=3D"Apple-style-span" style=3D"COLOR:#000066;"><span class=
+=3D"Apple-style-span" style=3D"FONT-SIZE:medium;"><font size=3D"3"><font co=
+lor=3D"#a2a2a2">Hota hain shab-o-roz tamasha mere aage</font></font></span>=
+</span></b></div><div><b><span class=3D"Apple-style-span" style=3D"COLOR:#0=
+00066;"><span class=3D"Apple-style-span" style=3D"FONT-SIZE:medium;"><span =
+class=3D"Apple-style-span" style=3D"COLOR:#000099;"><span class=3D"Apple-st=
+yle-span" style=3D"FONT-SIZE:small;"><font size=3D"2"> </font></span><=
+/span></span></span></b></div><div><div><b><span class=3D"Apple-style-span"=
+
+ style=3D"FONT-SIZE:medium;"><b><span class=3D"Apple-style-span" style=3D"=
+COLOR:#999999;"><font size=3D"3">Ek khel hain aurang-e-sulemaan mere nazdee=
+k</font></span></b></span></b></div><div><b><span class=3D"Apple-style-span=
+" style=3D"FONT-SIZE:medium;"><b><span class=3D"Apple-style-span" style=3D"=
+COLOR:#999999;"><font size=3D"3">Ek baat hain ijaz-e-masiah mere aage.</fon=
+t></span></b></span></b></div></div></font></span></strong></div></strong><=
+/i></div><div><br></div>  <div style=3D"font-family: verdana, helvetica, sa=
+ns-serif; font-size: 10pt;"> <div style=3D"font-family: times new roman, ne=
+w york, times, serif; font-size: 12pt;"> <div dir=3D"ltr"> <font face=3D"Ar=
+ial" size=3D"2"> <hr size=3D"1">  <b><span style=3D"font-weight:bold;">From=
+:</span></b> priyank_priyank <aks_day@...><br> <b><span style=
+=3D"font-weight: bold;">To:</span></b> vedic-wisdom@yahoogroups.com <br> <b=
+><span style=3D"font-weight: bold;">Sent:</span></b> Tuesday, 12 June 2012 =
+10:14 AM<br> <b><span
+ style=3D"font-weight: bold;">Subject:</span></b> [ve=
+dic-wisdom] Karmic liability for Tantra "material sadhana"<br> </font> </di=
+v> <br><meta http-equiv=3D"x-dns-prefetch-control" content=3D"off"><div id=
+=3D"yiv1798809087">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div>
+<span style=3D"display:none;"> =
+</span>
+
+
+
+    <div id=3D"yiv1798809087ygrp-text">
+      
+      
+      <div=
+>Hello all, <br>
+<br>
+I have been following some tantra groups and in tantr=
+a there seems to be 3 attitudes. <br>
+<br>
+1. IShta sadhana - complete surr=
+ender<br>
+2. Siddhi sadhana - for gaining specific siddhi (part bhog part m=
+oksha)<br>
+<br>
+3. Material sadhana - related to bhog part of life. you do =
+this specifically for the result you want. here there are sadhanas right fr=
+om kuber sadhanas to apsara/urvashi to making pact with lot of entities (fr=
+om ghosts to whatnot).<br>
+<br>
+i am wondering "if at all" and "what kind" =
+of karmic liabilities one might be getting into ?<br>
+<br>
+related reading<=
+br>
+<a rel=3D"nofollow" target=3D"_blank" href=3D"http://aghorpir.blogspot.=
+in/2012/05/classical-and-folk-tantra.html">http://aghorpir.blogspot.in/2012=
+/05/classical-and-folk-tantra.html</a><br>
+<br>
+regards<br>
+priyank<br>
+<br=
+>
+</div>
+
+    </div>
+     
+
+
+
+</div>
+
+
+
+
+
+</div><meta http-equiv=3D"x-dns-p=
+refetch-control" content=3D"on"><br><br> </div> </div>  </div></body></html=
+>
+---814770868-1093130735-1339486345=:96768--
+
+

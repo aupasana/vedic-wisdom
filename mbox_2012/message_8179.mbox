@@ -1,0 +1,412 @@
+From rajarshi14@...  Wed Feb 17 11:10:12 2016
+Return-Path: <rajarshi14@...>
+X-Sender: rajarshi14@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 11880 invoked from network); 26 Apr 2012 13:23:44 -0000
+X-Received: from unknown (98.137.34.44)
+  by m2.grp.sp2.yahoo.com with QMQP; 26 Apr 2012 13:23:44 -0000
+X-Received: from unknown (HELO nm4-vm6.bullet.mail.sg3.yahoo.com) (106.10.148.133)
+  by mta1.grp.sp2.yahoo.com with SMTP; 26 Apr 2012 13:23:43 -0000
+X-Received: from [106.10.166.63] by nm4.bullet.mail.sg3.yahoo.com with NNFMP; 26 Apr 2012 13:23:41 -0000
+X-Received: from [106.10.151.202] by tm20.bullet.mail.sg3.yahoo.com with NNFMP; 26 Apr 2012 13:23:41 -0000
+X-Received: from [127.0.0.1] by omp1014.mail.sg3.yahoo.com with NNFMP; 26 Apr 2012 13:23:41 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 625926.60550.bm@...
+X-Received: (qmail 38698 invoked by uid 60001); 26 Apr 2012 13:23:41 -0000
+X-YMail-OSG: 4NfnGhgVM1kho6LtfghDr40cRkLYwJOUoDgIVpQVyMaJJV7
+ JPuoKMRh2MNbHjZf7C0mj64DhrQDqruW8gKC6jaCs978d9XQ5ekgSqi.dpGY
+ AJ2D7JS2Cxy7MjB5z.HjMk2dLcEVVyChPvb33I7RMxTGJ36b2X5KuE5fIpDg
+ 0Rx4dKElYXAVBJpgoys1McksSUlPoImpwbRQjH_SupT_FYEe8_Zl5CsCB4.H
+ xhd0s5B1kW3tZrABc.lMKy2NNJ.C_lqKqmw8prV_RTKhYy4bPLmOf.bgwcVd
+ jF6_fc.NxLve91iIYcBCpkFi.V615VziV5X3nTqZ9gP8t6ZPaLGbvP.x7nSF
+ dVC6nh.GmdtWgAWzlMcZ0VV0rE3IPr2sjalNt2XJsdresTXP7iH19QrmF1Xb
+ pxvoLxBdCQksUgUFCDseRGlicJk6szKMWXJBJJzP6O6kSqTOeKvapq02hBrQ
+ reo8qZM8ZKWXXuTWS2dij91GSb4jHE24IWqnvyiTQiihwuCbsFE7RdAM8PPH
+ 9I9CcJSeIRe34hlq1zwAskdizD_GyGLD.I8eDQjUy9Ijr6l.RtN32j8pEcmw
+ JU5oHX8vnWnVQUc6iVl7VADnjCL3tGNO2I1Zpeay5d3Lwg3wIhkgW2OqXvd2
+ 0MJGyQ4igRVe_Dkoa.d8lZ_rLmYkOpvmOs8yAptDBoqgM0oL_kI8.gjtIUWp
+ qeuigiq5gtEkbkWKE.IqHDsJk5LADsFGFpQPOPhtcacIwRv1XNbyIer3bzLS
+ OxEVo4cauEtBjckHMCDeBDZ1KL5j8i1S3x.meu1U_axBHSjwV5wTYM3_u_26
+ ZiTOsXwULk_OA4T4bTB6_cgnbXd9MQHpFTJmpFTHm.PoJzUzpRMcrOO.Jixe
+ INyXbD8VR4Si.DETsb.nhmWfqCtbAsxgVm9T_Nrx3dGBD6D1P_SqXCv2oiT8
+ bD6Uoi4msh1ExYaXDTa6Fn6eJ3jWXGbSjvZYZIsehBBOo7DvWtGSkR7aLdES
+ Aw5Hdbhd14Dil2QDw866ta_MdnxLk4OL9OEpuA8a2xV3363ocyc9ZKiekrmZ
+ dTmcUMAxXRAS4nBhVOpGFe2w.8Tv9Jek3rAEa83sgWtJFQb9Jv2287X64D0T
+ Yc4ml1IO2GRE6w4Sp.zcapeezceuK_XI0HJn55yXFwdKRrodGHjgP9FdxncK
+ zXeA1S9vKLkGI8rPKM.iUI624STU3PtecK5Vh4CxmCgWipfFieCTDcDw_XdW
+ OQntKH12xtGFSGtNH3gD6Z7cSZ2zhIiUOHJ2zHBCFLGork4mB_JOtthxn4lX
+ eQ_ZdwgPkW4aVKYqZDWfvPd6Ipa2ZU9T4eNmchOk_qEDwDg3DaJF8CtoDgR8
+ AKFr5R56hwzbBF6KoYctGrwYf.Vps6_.3wf75hvNyWCI31J_JpjuX_1gQ4ye
+ A2hKOUCKvMcDtvDF8OleMbNsXfGBu.amrLH_ZYBt1snr97SQLkLckhVaHAeB
+ 4lCS15gua454SOvPtQLin9gdthlYV5.eAJ2mesgwRkbHKcT9HUYMAStxf6jw
+ rk6GvzfWQTJxo93uqIPj4RmLXtcmDG5yVFljRugenayJ_zRu6rV3D0TuUP3D
+ nmNuODTmGKtCGx7xV1xlbgMcZ9k4vTU7ryIz3Ylg0dmvdCqwlJgq5CqsGanT
+ lRzUs.z1kfvIbbw7hudoeeWGXE2GdDSb83iObGkN343_gEQwACPo53Ai3oSO
+ RRiF7LrJn1aagGRXtWaV6JvGWetjbr4Dw.Rn5HXR1B04dddL4SXyMjzK4p_3
+ Mz2XJwVu8HkD9fKcyCgZjt.7CSqn1AfyVaDOxOPrlTmvr1ckUX2CtdlZYMKh
+ YvXl2qqedkrHfs76xvJndXhCKKikSrhqMbCXC1a7DQ9ZTSYXZ5JHkCmgjKNj
+ CgV3F72j6qoTBsdalqTR4VymH5RcwIQYjOMW_CZn2VTYQF35I3B85lZl2fNY
+ zhpMU4A--
+X-Received: from [64.138.135.70] by web193103.mail.sg3.yahoo.com via HTTP; Thu, 26 Apr 2012 21:23:41 SGT
+X-Mailer: YahooMailWebService/0.8.117.340979
+References: <28149D78-793A-4D37-8766-AD23E6EE3F79@...> <1335357851.30944.YahooMailNeo@...> <56820EDF-FC17-4E7E-8264-CA64A15151C1@...>
+Message-ID: <1335446621.37485.YahooMailNeo@...>
+Date: Thu, 26 Apr 2012 21:23:41 +0800 (SGT)
+To: "vedic-wisdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com>
+In-Reply-To: <56820EDF-FC17-4E7E-8264-CA64A15151C1@...>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="-814770868-1302914506-1335446621=:37485"
+X-Originating-IP: 106.10.148.133
+X-eGroups-Msg-Info: 1:12:0:0:0
+From: rajarshi nandy <rajarshi14@...>
+Reply-To: rajarshi nandy <rajarshi14@...>
+Subject: Re: [vedic-wisdom] Lord Shani's worship during night times.
+X-Yahoo-Group-Post: member; u=216162964; y=2VlB4DvjPyYyrt19l1vXXePFoKh8YgGVu0hTuN0il56IyPBjBw
+X-Yahoo-Profile: rajarshi14
+
+
+---814770868-1302914506-1335446621=:37485
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Namate,
+
+I do homas myself, home or outside.
+
+-Regards
+=C2=A0Rajarshi
+
+=C2=
+=A0
+Bazeecha-e-atfal hain duniya mere aage.
+Hota hain shab-o-roz tamasha me=
+re aage
+=C2=A0
+Ek khel hain aurang-e-sulemaan mere nazdeek
+Ek baat hain ija=
+z-e-masiah mere aage.
+
+
+________________________________
+ From: Vasavi <vas=
+avi_rani@...>
+To: "vedic-wisdom@yahoogroups.com" <vedic-wisdom@yahoog=
+roups.com> 
+Cc: "vedic-wisdom@yahoogroups.com" <vedic-wisdom@...=
+m> 
+Sent: Wednesday, 25 April 2012 10:42 PM
+Subject: Re: [vedic-wisdom] Lor=
+d Shani's worship during night times.
+ 
+
+=C2=A0 
+Thanks all for response. R=
+ajesh, are u performing homam at home, yourself or a priest?
+
+Sent from my =
+iPad
+
+On 25-Apr-2012, at 8:44, rajarshi nandy <rajarshi14@...> wrot=
+e:
+
+
+=C2=A0 
+>Namaste,
+>
+>
+>I have, for more than a year now, been doing Sh=
+ani homas every Saturday. Doing a mantra of Shani, during sunset, after sun=
+set and at night has a relatively stronger effect than doing it when the su=
+n is up in the sky, assuming everything else is constant. Of course for a v=
+ery spiritually powerful person, anytime maybe fine, but night times do hav=
+e a more pronounced effect when worshiping Saturn, IMO.
+>
+>
+>-Regards
+>=C2=
+=A0Rajarshi
+>=C2=A0
+>Bazeecha-e-atfal hain duniya mere aage.
+>Hota hain sha=
+b-o-roz tamasha mere aage
+>=C2=A0
+>Ek khel hain aurang-e-sulemaan mere nazd=
+eek
+>Ek baat hain ijaz-e-masiah mere aage.
+>
+>
+>
+>_________________________=
+_______
+> From: Vasavi <vasavi_rani@...>
+>To: vedic-wisdom@yahoogroup=
+s.com 
+>Sent: Tuesday, 24 April 2012 2:14 PM
+>Subject: [vedic-wisdom] Lord =
+Shani's worship during night times.
+> 
+>
+>=C2=A0 
+>
+>Respected Narasimhaji =
+and Learned scholars,
+>
+>I have a question on shani's worship.This is not a=
+n astrological question. Currently, all the four members of my family are r=
+unning bad period such as Sade sati, arthashtama sani and kantaka shani.
+>
+=
+>One of shani upasaka suggested to my husband to perform shani Japa during =
+night times at any place other than home. He starts at about 10:00 PM, draw=
+s something on the floor and performs Japa for 4-5 hrs and goes to temple n=
+ext day morning before coming home. I am confused on this procedure.
+>
+>my =
+question is:
+>
+>Why should we perform shani Japa at night times only? I am =
+suggesting him to do at day times in a shiva temple.
+>Is there a method for=
+ shani worship written in any scriptures?
+>Can we perform shani homa?
+>
+>Pl=
+ease provide me some insights, as I am not comfortable with him performing =
+Pooja at night times.
+>
+>Thanks all
+>Vasavi
+>Sent from my iPad
+>
+>=3D 
+ 
+---814770868-1302914506-1335446621=:37485
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"color:#000; background-color:#fff; font-family:ve=
+rdana, helvetica, sans-serif;font-size:10pt"><div><span>Namate,</span></div=
+><div><br><span></span></div><div><span>I do homas myself, home or outside.=
+</span></div><div><br><span></span><span>-Regards</span></div><div><span>&n=
+bsp;Rajarshi</span></div><div> </div><div><i><strong><div class=3D"Mso=
+Normal"><strong><span class=3D"yui_3_2_0_21_133544689028273" style=3D"FONT-=
+SIZE:10pt;COLOR:navy;FONT-FAMILY:Verdana;"><font color=3D"#000000" face=3D"=
+Times New Roman"><div><b><span class=3D"Apple-style-span" style=3D"COLOR:#0=
+00066;"><span class=3D"Apple-style-span" style=3D"FONT-SIZE:medium;"><font =
+color=3D"#a2a2a2" size=3D"3">Bazeecha-e-atfal hain duniya mere aage.</font>=
+</span></span></b></div><div><b><span class=3D"Apple-style-span" style=3D"C=
+OLOR:#000066;"><span class=3D"Apple-style-span" style=3D"FONT-SIZE:medium;"=
+><font size=3D"3"><font color=3D"#a2a2a2">Hota hain shab-o-roz tamasha mere=
+
+ aage</font></font></span></span></b></div><div><b><span class=3D"Apple-st=
+yle-span" style=3D"COLOR:#000066;"><span class=3D"Apple-style-span" style=
+=3D"FONT-SIZE:medium;"><span class=3D"Apple-style-span" style=3D"COLOR:#000=
+099;"><span class=3D"Apple-style-span" style=3D"FONT-SIZE:small;"><font siz=
+e=3D"2"> </font></span></span></span></span></b></div><div><div><b><sp=
+an class=3D"Apple-style-span" style=3D"FONT-SIZE:medium;"><b><span class=3D=
+"Apple-style-span" style=3D"COLOR:#999999;"><font size=3D"3">Ek khel hain a=
+urang-e-sulemaan mere nazdeek</font></span></b></span></b></div><div><b><sp=
+an class=3D"Apple-style-span" style=3D"FONT-SIZE:medium;"><b><span class=3D=
+"Apple-style-span" style=3D"COLOR:#999999;"><font size=3D"3">Ek baat hain i=
+jaz-e-masiah mere aage.</font></span></b></span></b></div></div></font></sp=
+an></strong></div></strong></i></div><div><br></div>  <div style=3D"font-fa=
+mily: verdana, helvetica, sans-serif; font-size: 10pt;"> <div style=3D"font=
+-family: times new roman, new york,
+ times, serif; font-size: 12pt;"> <div =
+dir=3D"ltr"> <font face=3D"Arial" size=3D"2"> <hr size=3D"1">  <b><span sty=
+le=3D"font-weight:bold;">From:</span></b> Vasavi <vasavi_rani@...&=
+gt;<br> <b><span style=3D"font-weight: bold;">To:</span></b> "vedic-wisdom@=
+yahoogroups.com" <vedic-wisdom@yahoogroups.com> <br><b><span style=3D=
+"font-weight: bold;">Cc:</span></b> "vedic-wisdom@yahoogroups.com" <vedi=
+c-wisdom@yahoogroups.com> <br> <b><span style=3D"font-weight: bold;">Sen=
+t:</span></b> Wednesday, 25 April 2012 10:42 PM<br> <b><span style=3D"font-=
+weight: bold;">Subject:</span></b> Re: [vedic-wisdom] Lord Shani's worship =
+during night times.<br> </font> </div> <br><div id=3D"yiv1413771991">
+
+
+
+
+
+=
+
+
+
+
+
+
+
+
+<div>
+<span style=3D"display:none;"> </span>
+
+
+
+    <div id=3D=
+"yiv1413771991ygrp-text">
+      
+      
+      <div>Thanks all for response.=
+ Rajesh, are u performing homam at home, yourself or a priest?<br><br>Sent =
+from my iPad</div><div><br>On 25-Apr-2012, at 8:44, rajarshi nandy <<a r=
+el=3D"nofollow" ymailto=3D"mailto:rajarshi14@..." target=3D"_blank"=
+ href=3D"mailto:rajarshi14@...">rajarshi14@...</a>> wrot=
+e:<br><br></div><div></div><blockquote type=3D"cite"><div>
+
+
+
+
+<span> =
+</span>
+
+
+
+    <div id=3D"yiv1413771991ygrp-text">
+      
+      
+      <div=
+ style=3D"color:#000;background-color:#fff;font-family:verdana, helvetica, =
+sans-serif;font-size:10pt;"><div><span>Namaste,</span></div><div><br><span>=
+</span></div><div><span>I have, for more than a year now, been doing Shani =
+homas every Saturday. Doing a mantra of Shani, during sunset, after sunset =
+and at night has a relatively stronger effect than doing it when the sun is=
+ up in the sky, assuming everything else is constant. Of course for a very =
+spiritually powerful person, anytime maybe fine, but night times do have a =
+more pronounced effect when worshiping Saturn, IMO.</span></div><div><br><s=
+pan></span></div><div><span>-Regards</span></div><div><span> Rajarshi<=
+/span></div><div> </div><div><i><b><div class=3D"yiv1413771991MsoNorma=
+l"><strong><span class=3D"yiv1413771991yui_3_2_0_469_133533495485169 yui_3_=
+2_0_21_1335446890282123" style=3D"FONT-SIZE:10pt;COLOR:navy;FONT-FAMILY:Ver=
+dana;"><font color=3D"#000000" face=3D"Times New Roman"><div><b><span
+ clas=
+s=3D"yiv1413771991Apple-style-span" style=3D"COLOR:#000066;"><span class=3D=
+"yiv1413771991Apple-style-span" style=3D"FONT-SIZE:medium;"><font color=3D"=
+#a2a2a2" size=3D"3">Bazeecha-e-atfal hain duniya mere aage.</font></span></=
+span></b></div><div><b><span class=3D"yiv1413771991Apple-style-span" style=
+=3D"COLOR:#000066;"><span class=3D"yiv1413771991Apple-style-span" style=3D"=
+FONT-SIZE:medium;"><font size=3D"3"><font color=3D"#a2a2a2">Hota hain shab-=
+o-roz tamasha mere aage</font></font></span></span></b></div><div><b><span =
+class=3D"yiv1413771991Apple-style-span" style=3D"COLOR:#000066;"><span clas=
+s=3D"yiv1413771991Apple-style-span" style=3D"FONT-SIZE:medium;"><span class=
+=3D"yiv1413771991Apple-style-span" style=3D"COLOR:#000099;"><span class=3D"=
+yiv1413771991Apple-style-span" style=3D"FONT-SIZE:small;"><font size=3D"2">=
+ </font></span></span></span></span></b></div><div><div><b><span class=
+=3D"yiv1413771991Apple-style-span" style=3D"FONT-SIZE:medium;"><b><span cla=
+ss=3D"yiv1413771991Apple-style-span"
+ style=3D"COLOR:#999999;"><font size=
+=3D"3">Ek khel hain aurang-e-sulemaan mere nazdeek</font></span></b></span>=
+</b></div><div><b><span class=3D"yiv1413771991Apple-style-span" style=3D"FO=
+NT-SIZE:medium;"><b><span class=3D"yiv1413771991Apple-style-span" style=3D"=
+COLOR:#999999;"><font size=3D"3">Ek baat hain ijaz-e-masiah mere aage.</fon=
+t></span></b></span></b></div></div></font></span></strong></div></b></i></=
+div><div><br></div>  <div style=3D"font-family:verdana, helvetica, sans-ser=
+if;font-size:10pt;"> <div style=3D"font-family:times new roman, new york, t=
+imes, serif;font-size:12pt;"> <div dir=3D"ltr"> <font face=3D"Arial" size=
+=3D"2"> <hr size=3D"1">  <b><span style=3D"font-weight:bold;">From:</span><=
+/b> Vasavi <<a rel=3D"nofollow" ymailto=3D"mailto:vasavi_rani@..."=
+ target=3D"_blank" href=3D"mailto:vasavi_rani@...">vasavi_rani@yahoo.=
+com</a>><br> <b><span style=3D"font-weight:bold;">To:</span></b> <a rel=
+=3D"nofollow" ymailto=3D"mailto:vedic-wisdom@yahoogroups.com" target=3D"_bl=
+ank"
+ href=3D"mailto:vedic-wisdom@yahoogroups.com">vedic-wisdom@yahoogroups=
+.com</a> <br> <b><span style=3D"font-weight:bold;">Sent:</span></b> Tuesday=
+, 24 April 2012 2:14 PM<br> <b><span style=3D"font-weight:bold;">Subject:</=
+span></b> [vedic-wisdom] Lord Shani's worship during night times.<br> </fon=
+t> </div> <br><div id=3D"yiv1413771991">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div>
+<span> </s=
+pan>
+
+
+
+    <div id=3D"yiv1413771991ygrp-text">
+      
+      
+      <div><b=
+r>
+Respected Narasimhaji and Learned scholars,<br>
+<br>
+I have a question o=
+n shani's worship.This is not an astrological question. Currently, all the =
+four members of my family are running bad period such as Sade sati, arthash=
+tama sani and kantaka shani.<br>
+<br>
+One of shani upasaka suggested to my =
+husband to perform shani Japa during night times at any place other than ho=
+me. He starts at about 10:00 PM, draws something on the floor and performs =
+Japa for 4-5 hrs and goes to temple next day morning before coming home. I =
+am confused on this procedure.<br>
+<br>
+my question is:<br>
+<br>
+Why should=
+ we perform shani Japa at night times only? I am suggesting him to do at da=
+y times in a shiva temple.<br>
+Is there a method for shani worship written =
+in any scriptures?<br>
+Can we perform shani homa?<br>
+<br>
+Please provide m=
+e some insights, as I am not comfortable with him performing Pooja at night=
+ times.<br>
+<br>
+Thanks all<br>
+Vasavi<br>
+Sent from my iPad</div>
+
+    </d=
+iv>
+     
+
+
+
+</div>
+
+
+
+
+
+</div><br><br> </div> </div>  </div>
+
+    </div>
+ =
+    
+
+    
+
+
+
+
+
+
+
+</div></blockquote>=3D
+
+    </div>
+     
+
+
+
+</div>
+
+
+
+
+
+<=
+/div><br><br> </div> </div>  </div></body></html>
+---814770868-1302914506-1335446621=:37485--
+
+

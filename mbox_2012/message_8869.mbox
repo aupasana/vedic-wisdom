@@ -1,0 +1,486 @@
+From ganesh2cbe@...  Wed Feb 17 11:10:25 2016
+Return-Path: <ganesh2cbe@...>
+X-Sender: ganesh2cbe@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 26986 invoked from network); 22 Dec 2012 02:30:46 -0000
+X-Received: from unknown (98.137.35.160)
+  by m4.grp.sp2.yahoo.com with QMQP; 22 Dec 2012 02:30:46 -0000
+X-Received: from unknown (HELO nm17-vm6.bullet.mail.sg3.yahoo.com) (106.10.149.85)
+  by mta4.grp.sp2.yahoo.com with SMTP; 22 Dec 2012 02:30:46 -0000
+X-Received: from [106.10.166.123] by nm17.bullet.mail.sg3.yahoo.com with NNFMP; 22 Dec 2012 02:30:45 -0000
+X-Received: from [106.10.151.235] by tm12.bullet.mail.sg3.yahoo.com with NNFMP; 22 Dec 2012 02:30:44 -0000
+X-Received: from [127.0.0.1] by omp1019.mail.sg3.yahoo.com with NNFMP; 22 Dec 2012 02:30:44 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 957964.17147.bm@...
+X-Received: (qmail 55753 invoked by uid 60001); 22 Dec 2012 02:30:44 -0000
+X-YMail-OSG: K4eCQvcVM1kmDdQkxmqARklJMgXHyKjcvn2Pt9l272i4_Yh
+ jyF8pDaCI8kQb2a6YZkbQtaYNlRDbIG3tkT0ptq8gxVuUitEvtYXgD4.vzQx
+ VaNiqnkogrYJZuYWNCCNmMtVlUZs_4vojStTWoLkYi_4KG2mOh2SYJWszgBl
+ 51Yhw33vVpriE2SuZ1EPLBF855JN5anHVC11KVoteImNgUA1_PPKgY.k9wZm
+ fX77grPMNYagYagRnd4YBUzI79dx2F_9Q._FlkNo9mii0_11De4boODM6geS
+ TaQ8ds6y87RfevjJF.leumU7usnEj4Y0Rh3rokYVXS0PW_srTCus1JZgNPW3
+ wf15ACb79AvdsebmLAZ1uRf8XFU82c6GtdzI05OtCLsSb2iZsxVkoixSs0bA
+ YE.0M3v0fyIW6zpIe5pp4dB3cSgcXEMTA_F95oRy7Fy5LktOK.jpX_7_RXMb
+ t_oSaUExbh5_B0.Mq1BZo6dnNywzVYMIQGg6S0ou4VqYSvkTDHy1RMNbkJbV
+ 5QUNGViZptlbeXL4P_gXu_QkbGOpP1DvD3Wp6CgzU.MHKXrxfhhQ51TpNjCi
+ FIKCL2m_6W_Vos6uG52GIk9kEtBkSI6hdjQfhmdnthx.6IYF4ntN9JsIQctK
+ DlhgLfYZKphkUyj.7Q1dr80TsmLC0DDd1P_oO0XGPRL0nRYcVV1f0BbGJs_w
+ CQNBL7vXxiBYTSvXE8OCh1GzUX7jKilOFyw9yCMOTyf9XScF7raf0_d6aIVH
+ dLxAetrWJXP8ecHwws1qLm_5.769YV_WmIasulOCX55xcFiMRBD7l_ncZq4k
+ QQuM.YhrBVbvtfFTJuiweuiHkPiMbFxy5_zshK1NhoYPCQmsRowCobdzN_MQ
+ X1QowFqfxwdbz1sRu7tJbHxNSz2HBpprs.hM78.ZaRlUPbhPBQ3QvatAlchL
+ TLi8X578FUlnVj0qqoUPY2R2QpQsfG7vdwhUvc8lZO2PyW176AgDXxqi_rEO
+ WaZd5U7WyH5_HcDcuG4cOnFk3XSU1BsZ9RG1aT1Iq7aEMFsQqo1nOWnjh9Ne
+ 9TmU7izVTvlGNtWHd.v.ABEBtQFQZbFD_n93OmY6e32j_DCPmIVx8vsIjH0g
+ TyjcMtT6AfYu40.Ak0YeCxEnqWtH_NZt287c91nl.raxpZ0TZcmYzXWDZdRm
+ HRdPUmf3z4dCVJdmvI4hV3wki.9145em8pLq18m1I4BcHPOLLpgLXoWhRZue
+ KWAClmwhFff2QCALbymfDvUw8QZJB1e3XAatx1lPJU8oQVUCphDURqPZqGOK
+ QFD5yQzBfpLaJagnEsG0.ehM4aNuxZBKfo_C.A40qdJXfpFjHzQAdI8_ElO7
+ Lk5Tcbze_ml6CdTMpkVarFSqmXZFlArr87BaqjvSZ3DS1W_aHfjwQ3hzF5s0
+ Qb1EEFfMn8JoBoNQx8HFqMbwbBg9qIYT4nstk.xUMJdf_oimcyop81bGphfa
+ 5QmRY4ks5GD3cKdnp1.t9UBTjHxCmHHg6hyysdPV7iIQtmk9vMC52p9WYI_i
+ D.IG7AiW8l5PC3a3z36qZmz_f6SOO.7XfAeyepjlXHuBY6wDZ9Znq1WMyZnV
+ oArJMkJxZpsfywRB1.5CPZoMmeQYNzr9hDzNP5L3hCebeQ19xJYNOeUM8DU7
+ 1C.MexP.ntlJeE9cn_bV1NCWlybI9pNE5o2EsBv2ALREGZ1yEZueu93EdJEI
+ 2Is9mfA0GkVA7QixQutdgWFAgIgWEYaUg9bjX3XbFdoyXJrLORawNVlucJMa
+ f2_5xYV9dSGi93zhnOLW_c2ES64RHAEFc.27IFSawFi8nhRx0BI4eEp8SybO
+ h8vxmS9NuimbTLc3016XogD_NezIl63Wb0Pz828JDamwBWsUSvI4vdsopDK8
+ w7EivxOf4lKzmQxTOQxBNVx0Ly5KLytWtkX4rGoB3_AN1bqLa1Dn7ltEaZH7
+ uVVRdYuOnVCsJcz0ZnB7butOYL30mcKT7e93.K5CQAXi4TCT9Rlj4wsufmpg
+ qlI.jvyMxTt1dpE5yi3eF.AUSBH7UKhdka.W974Aev7X8YP8cS8aGkiURnq7
+ 4u_xm5Cb0X6c7tRbxQRonaNcre9KUCvEBvXVEWAY15wgh6698Ji5ubzpFinK
+ DVTn7oGBADrY-
+X-Received: from [122.178.157.35] by web193902.mail.sg3.yahoo.com via HTTP; Sat, 22 Dec 2012 10:30:44 SGT
+X-Rocket-MIMEInfo: 001.001,SGkgYW51cCwKCmNoZWNrIGZvciBDT0NPIFBFQVQuLi4uLiBibG9jay4uLi4uLi4uLiB1c2VkIGZvciBhZ3JpY3VsdHVyZSBwdXJwb3NlLgoKaHR0cDovL3d3dy5hbmt1cm51cnNlcnkuY29tL3Byb2R1Y3QtZGV0YWlscy1SLmFzcD9QaWQ9MzUmQ25hbWU9U29pbCtDb25kaXRpb25lcnMKCgpodHRwOi8vd3d3LmFtYXpvbi5jb20vcy9yZWY9bmJfc2Jfbm9zcy8xODYtODEzMTg3My04NjE0ODEyP3VybD1zZWFyY2gtYWxpYXMlM0RhcHMmZmllbGQta2V5d29yZHM9Y29jb3BlYXQKCgoKbG9va3MgZXhwZW5zaXZlIG8BMAEBAQE-
+X-Mailer: YahooMailWebService/0.8.129.483
+References: <1356060302.67102.YahooMailNeo@...> <kb2qrv+i0if@...>
+Message-ID: <1356143444.54655.YahooMailNeo@...>
+Date: Sat, 22 Dec 2012 10:30:44 +0800 (SGT)
+To: "vedic-wisdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com>
+In-Reply-To: <kb2qrv+i0if@...>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="1300679487-425838110-1356143444=:54655"
+X-Originating-IP: 106.10.149.85
+X-eGroups-Msg-Info: 1:12:0:0:0
+From: Ganes <ganesh2cbe@...>
+Reply-To: Ganes <ganesh2cbe@...>
+Subject: Fw: [vedic-wisdom] Re: Query on homam
+X-Yahoo-Group-Post: member; u=251997729; y=BWNeIA1BkcygzTJM2q2A1DaR54LP5aurXUmYBpqlZtk0m8Acaw
+X-Yahoo-Profile: ganesh2cbe
+
+
+--1300679487-425838110-1356143444=:54655
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Hi anup,
+
+check for COCO PEAT..... block......... used for agriculture purp=
+ose.
+
+http://www.ankurnursery.com/product-details-R.asp?Pid=3D35&Cname=3DSo=
+il+Conditioners
+
+
+http://www.amazon.com/s/ref=3Dnb_sb_noss/186-8131873-8614=
+812?url=3Dsearch-alias%3Daps&field-keywords=3Dcocopeat
+
+
+
+looks expensive o=
+nline in USA market, this actually cost Rs 25 for 5kg Block.
+
+Regards,
+
+Gan=
+esh
+
+
+
+----- Forwarded Message -----
+From: Ajaya B <laughing29@...>
+T=
+o: vedic-wisdom@yahoogroups.com 
+Sent: Friday, 21 December 2012 11:20 AM
+Su=
+bject: [vedic-wisdom] Re: Query on homam
+ 
+
+=C2=A0 
+
+Hi Anup.....
+
+Oak wood=
+ is most easily available from the trees themselves.  Just go for a walk in=
+ the forest. Check online for images of oak tree and bring a nice pair of c=
+utters or a saw and collect the wood the old fashioned way! Of course you h=
+ave to wait for it to dry but even then you could use your oven for that pu=
+rpose.
+
+Good luck!
+
+Ajaya 
+--- In vedic-wisdom@yahoogroups.com, Anup Ray <a=
+ray_usa@...> wrote:
+>
+> Thanks Narasimhaji and Ranga!! That helps.
+> 
+> I'm=
+ pretty sure of the ban as I've tried to get the coconut with coir from thr=
+ee different cities (in fact from three different states) in the last 4-6 w=
+eeks but got a consistent response from the stores on the ban.
+> 
+> Thanks!=
+!
+> Anup=C3=82=C2=A0
+> 
+> 
+> ________________________________
+>  From: Nara=
+simha PVR Rao <pvr@...>
+> To: vedic-wisdom@yahoogroups.com 
+> Sent: Wednesd=
+ay, December 19, 2012 7:58 PM
+> Subject: [vedic-wisdom] Re: Query on homam
+=
+> 
+> 
+> =C3=82=C2=A0 
+> Namaste,
+> =C3=82=C2=A0
+> Firewood is expensive at =
+such stores. If one has a home and can store firewood in bulk, buying from =
+a local firewood person will save money. Also, firewood sold stores comes w=
+ith heavy staples that are tough to remove.
+> =C3=82=C2=A0
+> Starter wood b=
+ags are available in several stores. Starter wood pieces are thin and catch=
+ fire faster. They can be used for starting fire and firewood logs can be p=
+laced on top. If one has a firewood splitter and splits firewood logs into =
+thinner pieces, they will burn brighter.
+> =C3=82=C2=A0
+> I am not aware of=
+ any dried copra (dried coconut meat) ban. I know that ICAO (International =
+Civil Aviation Organization) has a ban on it in flights unless one does som=
+e special paperwork, because dried copra is "highly combustible" according =
+to them and a "dangerous" material.
+> =C3=82=C2=A0
+> Thanks to Anup's mail,=
+ my sister-in-law immediately went to a local Indian store and bought whate=
+ver dried copra was in stock. So we have enough supply to last a few months=
+!
+> =C3=82=C2=A0
+> If ever dried copra is not available or banned, starter =
+wood pieces are a good alternative.
+> =C3=82=C2=A0
+> Best regards,
+> Narasi=
+mha
+> --------
+> Astrology & Spirituality Resources: http://www.VedicAstrol=
+oger.org
+> --------
+> =C3=82=C2=A0
+> =C3=82=C2=A0
+> On Wed, Dec 19, 2012 at=
+ 2:19 PM, Priya M wrote:
+> 
+> I don't have much idea but my guess would be =
+from Home Depot or Lowes in the firewood section.. 
+> =C3=82=C2=A0 
+> Regar=
+ds, 
+> Priya 
+> =C3=82=C2=A0 
+> From: Anup Ray <aray_usa@...> 
+> To: "vedic=
+-wisdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com> 
+> Sent: Wednesday,=
+=C3=82=C2=A0 December 19, 2012 12:41 AM 
+> Subject: Re: [vedic-wisdom] Re: =
+Query on homam 
+> =C3=82=C2=A0 Hi Ajaya & Priya, 
+> 
+> 
+> Sorry - I meant t=
+o state the ban on coconut coir instead of outer shell of coconut.=C3=82=C2=
+=A0 
+> I'm ok with going for wood from oak trees, but where do we typically=
+ get it? 
+> Can you suggest... 
+> 
+> 
+> Thanks!! 
+> Anup=C3=82=C2=A0 
+> 
+> =
+
+> From: Ajaya B=C3=82=C2=A0 <laughing29@...> 
+> To: vedic-wisdom@yahoogrou=
+ps.com 
+> Sent: Tuesday, December 18, 2012 7:24 AM 
+> Subject: [vedic-wisdo=
+m] Re: Query on homam 
+> =C3=82=C2=A0 Hello Anup... As far as I understand =
+the dried coconut meat is the part of coconut which is used for homam. Also=
+, I am unaware of there being any ban on the outer shell of coconut, as all=
+ parts of coconut are available at the local supermarkets, and the dried co=
+conuts being available at the local Indian markets. As far as other alterna=
+tives to coconuts are concerned, the wood from the oak trees burns hot and =
+clean producing a minimum of smoke. There are many ways to deal with the pr=
+oblem of smoke if you are living in a apartment or flat. And it depends on =
+how much you want to spend on fans and ducts to draw the smoke outside of t=
+he apartment, so as to reduce the likelihood of smoke damage to the walls a=
+nd painted surfaces. Hope this helps you get started again. Warm Regards Aj=
+aya --- In mailto:vedic-wisdom%40yahoogroups.com, Anup Ray=C3=82=C2=A0 wrot=
+e: Namaste All,=C3=82=C2=A0=C3=82=C2=A0 I'd a very fundamental query. I was=
+ planning to restart doing homam and came to
+ know that
+>  these days the o=
+uter shell of coconut is banned in US. Just wanted to know how others are c=
+onducting the homam? Also - I remember Narasimhaji had shared how we can se=
+tup the homam in US appartment, but couldnt find that email. If anyone can =
+share that email to me, that would be great.=C3=82=C2=A0=C3=82=C2=A0 Thanks=
+!! Anup
+>
+
+
+ 
+--1300679487-425838110-1356143444=:54655
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"color:#000; background-color:#fff; font-family:ar=
+ial, helvetica, sans-serif;font-size:10pt"><div style=3D"font-family: arial=
+, helvetica, sans-serif; font-size: 10pt;"><div style=3D"font-size: 10pt;">=
+<span>Hi anup,</span></div><div style=3D"background-color: transparent;"><s=
+pan><br></span></div><div style=3D"background-color: transparent;"><span>ch=
+eck for COCO PEAT..... block......... used for agriculture purpose.</span><=
+/div><div style=3D"background-color: transparent;"><span><br></span></div><=
+div style=3D"font-size: medium; background-color: transparent;"><span><font=
+ size=3D"2">http://www.ankurnursery.com/product-details-R.asp?Pid=3D35&=
+Cname=3DSoil+Conditioners</font><br></span></div><div style=3D"font-size: 1=
+6px; background-color: transparent;"><span><font size=3D"2"><br></font></sp=
+an></div><div style=3D"font-size: medium; background-color: transparent;"><=
+span><font
+ size=3D"2">http://www.amazon.com/s/ref=3Dnb_sb_noss/186-8131873=
+-8614812?url=3Dsearch-alias%3Daps&field-keywords=3Dcocopeat<br></font><=
+/span></div><div style=3D"background-color: transparent;"><span><font size=
+=3D"2"><br></font></span></div><div style=3D"background-color: transparent;=
+"><br></div><div style=3D"background-color: transparent;"><font size=3D"2">=
+looks expensive online in USA market, this actually cost Rs 25 for 5kg Bloc=
+k.</font></div><div style=3D"background-color: transparent;"><font size=3D"=
+2"><br></font></div><div style=3D"background-color: transparent;"><font siz=
+e=3D"2">Regards,</font></div><div style=3D"background-color: transparent;">=
+<font size=3D"2"><br></font></div><div style=3D"background-color: transpare=
+nt;"><font size=3D"2">Ganesh</font></div><div style=3D"background-color: tr=
+ansparent;"><font size=3D"2"><br></font></div></div><div style=3D"backgroun=
+d-color: transparent; color: rgb(0, 0, 0); font-family: arial, helvetica, s=
+ans-serif; font-style: normal; font-size:
+ 13px;"><font size=3D"2"><br></fo=
+nt></div><div style=3D"font-family: arial, helvetica, sans-serif; font-size=
+: 10pt;"><br></div>  <div style=3D"font-family: arial, helvetica, sans-seri=
+f; font-size: 10pt;"> <div style=3D"font-family: 'times new roman', 'new yo=
+rk', times, serif; font-size: 12pt;"> <div dir=3D"ltr"> <font size=3D"2" fa=
+ce=3D"Arial"> ----- Forwarded Message -----<br>  <b><span style=3D"font-wei=
+ght:bold;">From:</span></b> Ajaya B <laughing29@...><br> <b><sp=
+an style=3D"font-weight: bold;">To:</span></b> vedic-wisdom@yahoogroups.com=
+ <br> <b><span style=3D"font-weight: bold;">Sent:</span></b> Friday, 21 Dec=
+ember 2012 11:20 AM<br> <b><span style=3D"font-weight: bold;">Subject:</spa=
+n></b> [vedic-wisdom] Re: Query on homam<br> </font> </div> <br><div id=3D"=
+yiv1323893379">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div>
+<span style=3D"display:none;"> </sp=
+an>
+
+
+
+    <div id=3D"yiv1323893379ygrp-text">
+      
+      
+      <div><br=
+>
+Hi Anup.....<br>
+<br>
+Oak wood is most easily available from the trees th=
+emselves.  Just go for a walk in the forest. Check online for images of oak=
+ tree and bring a nice pair of cutters or a saw and collect the wood the ol=
+d fashioned way! Of course you have to wait for it to dry but even then you=
+ could use your oven for that purpose.<br>
+<br>
+Good luck!<br>
+<br>
+Ajaya <=
+br>
+--- In <a rel=3D"nofollow" ymailto=3D"mailto:vedic-wisdom%40yahoogroups=
+.com" target=3D"_blank" href=3D"mailto:vedic-wisdom%40yahoogroups.com">vedi=
+c-wisdom@yahoogroups.com</a>, Anup Ray <aray_usa@...> wrote:<br>
+>=
+<br>
+> Thanks Narasimhaji and Ranga!! That helps.<br>
+> <br>
+> I'm=
+ pretty sure of the ban as I've tried to get the coconut with coir from thr=
+ee different cities (in fact from three different states) in the last 4-6 w=
+eeks but got a consistent response from the stores on the ban.<br>
+> <br=
+>
+> Thanks!!<br>
+> Anup=C3=82 <br>
+> <br>
+> <br>
+> ____=
+____________________________<br>
+>  From: Narasimha PVR Rao <pvr@...&=
+gt;<br>
+> To: <a rel=3D"nofollow" ymailto=3D"mailto:vedic-wisdom%40yahoo=
+groups.com" target=3D"_blank" href=3D"mailto:vedic-wisdom%40yahoogroups.com=
+">vedic-wisdom@yahoogroups.com</a> <br>
+> Sent: Wednesday, December 19, =
+2012 7:58 PM<br>
+> Subject: [vedic-wisdom] Re: Query on homam<br>
+>  =
+<br>
+> <br>
+> =C3=82  <br>
+> Namaste,<br>
+> =C3=82 <b=
+r>
+> Firewood is expensive at such stores. If one has a home and can sto=
+re firewood in bulk, buying from a local firewood person will save money. A=
+lso, firewood sold stores comes with heavy staples that are tough to remove=
+.<br>
+> =C3=82 <br>
+> Starter wood bags are available in several=
+ stores. Starter wood pieces are thin and catch fire faster. They can be us=
+ed for starting fire and firewood logs can be placed on top. If one has a f=
+irewood splitter and splits firewood logs into thinner pieces, they will bu=
+rn brighter.<br>
+> =C3=82 <br>
+> I am not aware of any dried cop=
+ra (dried coconut meat) ban. I know that ICAO (International Civil Aviation=
+ Organization) has a ban on it in flights unless one does some special pape=
+rwork, because dried copra is "highly combustible" according to them and a =
+"dangerous" material.<br>
+> =C3=82 <br>
+> Thanks to Anup's mail,=
+ my sister-in-law immediately went to a local Indian store and bought whate=
+ver dried copra was in stock. So we have enough supply to last a few months=
+!<br>
+> =C3=82 <br>
+> If ever dried copra is not available or ba=
+nned, starter wood pieces are a good alternative.<br>
+> =C3=82 <br>=
+
+> Best regards,<br>
+> Narasimha<br>
+> --------<br>
+> Astrology=
+ & Spirituality Resources: <a rel=3D"nofollow" target=3D"_blank" href=
+=3D"http://www.vedicastrologer.org/">http://www.VedicAstrologer.org</a><br>=
+
+> --------<br>
+> =C3=82 <br>
+> =C3=82 <br>
+> On Wed,=
+ Dec 19, 2012 at 2:19 PM, Priya M wrote:<br>
+> <br>
+> I don't have mu=
+ch idea but my guess would be from Home Depot or Lowes in the firewood sect=
+ion.. <br>
+> =C3=82  <br>
+> Regards, <br>
+> Priya <br>
+> =
+=C3=82  <br>
+> From: Anup Ray <aray_usa@...> <br>
+> To: "<=
+a rel=3D"nofollow" ymailto=3D"mailto:vedic-wisdom%40yahoogroups.com" target=
+=3D"_blank" href=3D"mailto:vedic-wisdom%40yahoogroups.com">vedic-wisdom@yah=
+oogroups.com</a>" <<a rel=3D"nofollow" ymailto=3D"mailto:vedic-wisdom%40=
+yahoogroups.com" target=3D"_blank" href=3D"mailto:vedic-wisdom%40yahoogroup=
+s.com">vedic-wisdom@yahoogroups.com</a>> <br>
+> Sent: Wednesday,=C3=
+=82  December 19, 2012 12:41 AM <br>
+> Subject: Re: [vedic-wisdom] =
+Re: Query on homam <br>
+> =C3=82  Hi Ajaya & Priya, <br>
+> <=
+br>
+> <br>
+> Sorry - I meant to state the ban on coconut coir instead=
+ of outer shell of coconut.=C3=82  <br>
+> I'm ok with going for woo=
+d from oak trees, but where do we typically get it? <br>
+> Can you sugge=
+st... <br>
+> <br>
+> <br>
+> Thanks!! <br>
+> Anup=C3=82  <br=
+>
+> <br>
+> <br>
+> From: Ajaya B=C3=82  <laughing29@...>=
+ <br>
+> To: <a rel=3D"nofollow" ymailto=3D"mailto:vedic-wisdom%40yahoogr=
+oups.com" target=3D"_blank" href=3D"mailto:vedic-wisdom%40yahoogroups.com">=
+vedic-wisdom@yahoogroups.com</a> <br>
+> Sent: Tuesday, December 18, 2012=
+ 7:24 AM <br>
+> Subject: [vedic-wisdom] Re: Query on homam <br>
+> =C3=
+=82  Hello Anup... As far as I understand the dried coconut meat is th=
+e part of coconut which is used for homam. Also, I am unaware of there bein=
+g any ban on the outer shell of coconut, as all parts of coconut are availa=
+ble at the local supermarkets, and the dried coconuts being available at th=
+e local Indian markets. As far as other alternatives to coconuts are concer=
+ned, the wood from the oak trees burns hot and clean producing a minimum of=
+ smoke. There are many ways to deal with the problem of smoke if you are li=
+ving in a apartment or flat. And it depends on how much you want to spend o=
+n fans and ducts to draw the smoke outside of the apartment, so as to reduc=
+e the likelihood of smoke damage to the walls and painted surfaces. Hope th=
+is helps you get started again. Warm Regards Ajaya --- In mailto:vedic-wisd=
+om%40yahoogroups.com, Anup Ray=C3=82  wrote: Namaste All,=C3=82 =
+=C3=82  I'd a very fundamental query. I was planning to restart doing
+=
+ homam and came to know that<br>
+>  these days the outer shell of coconu=
+t is banned in US. Just wanted to know how others are conducting the homam?=
+ Also - I remember Narasimhaji had shared how we can setup the homam in US =
+appartment, but couldnt find that email. If anyone can share that email to =
+me, that would be great.=C3=82 =C3=82  Thanks!! Anup<br>
+><br>=
+
+<br>
+</div>
+
+    </div>
+     
+
+
+
+</div>
+
+
+
+
+
+</div><br><br> </div> </div> =
+ </div></body></html>
+--1300679487-425838110-1356143444=:54655--
+
+

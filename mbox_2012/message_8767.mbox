@@ -1,0 +1,405 @@
+From rajarshi14@...  Wed Feb 17 11:10:24 2016
+Return-Path: <rajarshi14@...>
+X-Sender: rajarshi14@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 1980 invoked from network); 22 Oct 2012 20:15:01 -0000
+X-Received: from unknown (98.137.34.46)
+  by m3.grp.sp2.yahoo.com with QMQP; 22 Oct 2012 20:15:00 -0000
+X-Received: from unknown (HELO nm13-vm4.bullet.mail.sg3.yahoo.com) (106.10.149.19)
+  by mta3.grp.sp2.yahoo.com with SMTP; 22 Oct 2012 20:14:59 -0000
+X-Received: from [106.10.166.127] by nm13.bullet.mail.sg3.yahoo.com with NNFMP; 22 Oct 2012 20:14:58 -0000
+X-Received: from [106.10.151.171] by tm16.bullet.mail.sg3.yahoo.com with NNFMP; 22 Oct 2012 20:14:58 -0000
+X-Received: from [127.0.0.1] by omp1011.mail.sg3.yahoo.com with NNFMP; 22 Oct 2012 20:14:58 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 223023.8988.bm@...
+X-Received: (qmail 91654 invoked by uid 60001); 22 Oct 2012 20:14:58 -0000
+X-YMail-OSG: P3JErM0VM1m9KE851YHxJmXbNvF5ch7IvjNmvNlqsYJq5zr
+ 9KJFCx.JYoHdzL1Hs4kzWzzSWTabS_3jZ0ovbZ2LGXBEbszjgT3heAZfW775
+ nwJsk5PfD53gaI5eEjX6pH0SftWgQRlcfJdVGg4qwm77maVPKgU707.XrbiN
+ kCuJvVDMs8STcjYp1I1VKn2O7cqvwwlvGU3uWINZsSavBY4757HKBYH76PM0
+ zzYhO5o7YtSoa6rZy9W.i4epPzrRfZgY2GrEyWKs96hgCoiKgjNVOIQm8_G0
+ Dc17F3H14uJ1Aae5MgPH1IO.PouGA_nUU1_KPfvIzoIaXvvLGm.ws6cVFnLl
+ Z1AprRZKvhHdWt00iCuZ4zuQbkTFyeT2a7L67siFBuSiawrBbKOliCJbO3rn
+ 6PEyh_cpu1T9ohxS4vllc7GfFk1nhj_BL.rgGINgas1.whdDx5wJWIhH6nXT
+ vh5jlITiZTOADLaMmy9X4jJSAGdUBGagpZ0Bmzk1rjWvFP1GXI6WkcbiMikH
+ yRWZVRUdZgeYmqES4t9El0rG2R2aC9s1r5MsPczyQOKlZLlytRvnIW9RJ1uL
+ jHa_uGKvvGFbZ7srUGxvbqobGrO1P4QyCMCKfGDFXTBm5fGDbSLURQ4fw1kf
+ FkjBBxODrRszDhN6QhYjcJF8P6MAwAWpa_P16qJrQeOm3Ifam0UrTVGvZbeG
+ ..2YYbXW5Ndp4lWUI5nl8zkWVnCYhP0ydZTV1EP47AP_kFWO6r3VryhqKUxa
+ gARwsw2hs.jXBjYvyKy08nzvzOeyYk2temwXiYzewDkBK5uR1tEgjt8cJTV9
+ FjBFmpVcUU3AwtYLeDnNPiV_kJ1mxi0nzkTuUdxoAWkDhZCwylb31crXXTFd
+ fA_c1m8ANTIhuUfCbGoc1j1AlQ4c4ub8XVka9HBNrzlm5Z_FHc7.sKix9rv0
+ xaR3mn6CVsUyx.4GJ.HiuQbcDcM8hHXlJqrt3TypY57lLf24MBSFlJMj9baf
+ PyEn3JXpw_5Pmr7qPjX1xWRfZ2wDPbZaK8Uu5PUA_pzGyPIRwFTPnG0gsoDf
+ Bsvj0iOcdakWBO.mS3zJlgt8kus666OvNgi_TJfOSZGj.UhoIab6sbbFzJ3P
+ opF0tVZJ2VNfHHQQenuc3RNRytfMs1BeGXtCK6ic8dfsXUzegFvf1kmqPaJy
+ ebRD5QqP6NkcPcCK2OESzE8vxxw8O9ja4NwZr5levDOAEQt.hnVdtX9S3kmF
+ Y5LtBN4G.HmPPnakfmhHepxHP7sORr0aKRCnRPYsMpU0Nph1Rpn_MS_ETioz
+ Os2y.ERGXz8TpfMw1d6NAtgz9xRNvyeQOtfMW0_4P2sUrjO4ZnFog1Qx0xni
+ rDtlxZTNyTX6kyckS3gCc32sQVUjECofPTFyOYCKWxwFxLT8b4V52PC6wJL5
+ yPU9S.YjMCyeKUq8YU2Wj2hmgB8zxhB23ScKCO42Vn9UpoeqWDGHv7fQJWnV
+ Nt1zJ9J1mWCL55xbyIXwMdToh2fRfHFVFuLNfQBh4i6E_3t4pgYGwSAIrzXE
+ xnCc8kAKb3Wz7bKGKgUHdZ9ZM2DYOUnlzAw85AH2fZWUEX6fX60UduJj2K6i
+ skuDWTI6ayTgZyYoxTDoa4bRk5qMej0yNwq267N5r7X196ADlraMJ7QB9xXK
+ WzUQ7ANcTxPGiZQHVUKaK2IrZx4FIvhKVLc_RdFSrjacHykr_eXO7nVHK3mj
+ 8rgDYZoiY.oVFdUXSCfVUGauvstCTzQOqCfUT9aMhTNpPITyeuA--
+X-Received: from [115.240.106.191] by web190906.mail.sg3.yahoo.com via HTTP; Tue, 23 Oct 2012 04:14:57 SGT
+X-Rocket-MIMEInfo: 001.001,TmFtYXN0ZSBBc2h1dG9zaCBqaSwKCk15IG1haWwgaXMgbm90IGZvciB5b3UuIEkgdGhpbmsgeW91IHNob3VsZCBmb2xsb3cgd2hhdCB5b3VyIGhlYXJ0IGlzIHNheWluZyBhbmQgd2hhdCB5b3UgaGF2ZSBiZWVuIGFkdmlzZWQgdG8gZG8uCgoqwqDCoMKgICrCoMKgwqAgKgoKVGhpcyBpcyBhIG1vcmUgZ2VuZXJhbCBjb21tZW50IG9uIG9uZSBsaW5lIGZvcm0gdGhlIG1haWwgYmVsb3cuIFJlc3BlY3RmdWxseSB5ZXQgZmlybWx5IEkgZGlzYWdyZWUgb24gb25lIHBvaW50LgoKPDxNeXNlbGY6IERvZXNudCB0aGEBMAEBAQE-
+X-Mailer: YahooMailWebService/0.8.123.450
+References: <k63bnm+4pj6@...>
+Message-ID: <1350936897.85687.YahooMailNeo@...>
+Date: Tue, 23 Oct 2012 04:14:57 +0800 (SGT)
+To: "vedic-wisdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com>
+In-Reply-To: <k63bnm+4pj6@...>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="2124734478-120955543-1350936897=:85687"
+X-Originating-IP: 106.10.149.19
+X-eGroups-Msg-Info: 1:12:0:0:0
+From: rajarshi nandy <rajarshi14@...>
+Reply-To: rajarshi nandy <rajarshi14@...>
+Subject: Re: [vedic-wisdom] Homam - Ahuti numbers
+X-Yahoo-Group-Post: member; u=216162964; y=x4tjuHG7eHocmuJR88S6bidyYQ-IarofCAPPmmA9GHcrs-Te7Q
+X-Yahoo-Profile: rajarshi14
+
+
+--2124734478-120955543-1350936897=:85687
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Namaste Ashutosh ji,
+
+My mail is not for you. I think you should follow wha=
+t your heart is saying and what you have been advised to do.
+
+*=C2=A0=C2=A0=
+=C2=A0 *=C2=A0=C2=A0=C2=A0 *
+
+This is a more general comment on one line fo=
+rm the mail below. Respectfully yet firmly I disagree on one point.
+
+<<Myse=
+lf: Doesnt that only apply to purascharaNa (based on what I read in 
+Aghore=
+ book - as everybody in this group is already familiar with that 
+book seri=
+es)
+
+PrashNa conductor: No it applies to anything. PurascharaNa or regular =
+
+chanting. Doesnt matter. The rule is always 1:100 or at least 1:10. You 
+h=
+ave to follow it strictly.>.
+
+
+It is always good to do japa, but "strict" i=
+s too strong a word. There are many in different parts of India, well verse=
+d in sadhana as well as respective shastras (respective because no single h=
+uman being can known all possible Hindu Shastras, so most study that which =
+maybe relevant to his line of spiritual inquiry followed in his tradition) =
+who do homas without doing any pre-requisite japa. 
+
+One honest question th=
+at every sadhaka must ask himself/herself objectively is, how badly do we w=
+ant God? If the desire pure and unblemished, or is it also mixed with vario=
+us other desires, however small they maybe. If we also want other materiali=
+stic things along with it - and there is no harm in wanting legitimate thin=
+gs - then one can follow all instructions and rules set for whatever paramp=
+ara one is mentally afflicted to and given by his/her Guru(s). 
+
+But if one=
+ is desirous of ONLY God without any other desire attached to it, no rule i=
+s sufficient, no path is a guarantee, no sadhana is sure-shot way to achiev=
+e it.=C2=A0 Working on internal surrender to God and increased detachment i=
+n daily life along with and through whatever ritual one performs and in wha=
+tever manner, can be more helpful in the long run. Human aspiration alone i=
+s not enough. When the aspiration is genuine and pure, He/She extends his/h=
+er energy to lift the sadhak up.. this dual phenomenon together make a sadh=
+ana success. And this simple yet powerful truth is represented by the six-p=
+ointed triangle which is the basic yantra of so many deities, and specially=
+ one form of the Mother. The upward triangle is our aspiration, the downwar=
+d is Her grace coming down to transform the sadhak from his/her current sta=
+te. Together, it makes a complete whole. And grace is purely proportional t=
+o the purity of the aspiration, which only God can judge
+ accurately.
+
+-Reg=
+ards
+=C2=A0Rajarshi 
+
+
+awaktam wyaktimApannam manyantE mAmabuddhayah |
+para=
+m bhAwamajAnanto mamAwyayamanuttamam ||[7:24]
+
+
+___________________________=
+_____
+ From: ashutosh.srikanth <ashutosh.srikanth@...>
+To: vedic-wisd=
+om@yahoogroups.com 
+Sent: Monday, 22 October 2012 5:17 PM
+Subject: [vedic-w=
+isdom] Homam - Ahuti numbers
+ 
+
+=C2=A0 
+My pranams to all.
+I have been perf=
+orming weekly havan for more than a year and half.
+I want to point out cert=
+ain things related to havan so that it can be done as per shastra by others=
+ too.
+I am using a conversation that in fact took place to bring out these =
+relevant points.
+
+Sometime back there was informal "prashNa" session whose =
+summary I am presenting below: 
+
+[South Indians might be familiar with simi=
+lar "ashTamangala prashNa" conducted in temples when something goes wrong -=
+ called as dosha.]
+
+PrashNa conductor: There seems to be a dosha... Hmm... =
+let me see... Hmm.. Yes... You seem to be performing some kind of Agni kary=
+a at your home regularly.
+
+Myself: Yes (I was actually very surprised by th=
+is pointed question because I had not told anybody about the havan I did at=
+ home)
+
+PrashNa conductor: There are certain errors in the agni karya you a=
+re doing. You seem to be using dry samith materials. And your ahuti does no=
+t seem to be right.
+
+Myself: Yes I am using Til (sesame seeds).
+
+PrashNa co=
+nductor: You should mix that with atleast a little bit of ghee before givin=
+g it as ahuti.
+
+Myself: Ok. And what is the dosha in my ahuti apart from th=
+at?
+
+PrashNa conductor: Do you do required Japa before giving ahutis? And d=
+o you do the ahuti with the same mantra that you use for your regular japa?=
+
+
+Myself: What?... Required Japa? Is there a pre-requisite like that? No I =
+dont do any pre-defined set of japa?
+
+PrashNa conductor: Yes. Strictly the =
+japa-ahuti ratio is shatamsha. (that is for every 100 recitation of a mantr=
+a via meditation, one becomes qualified for one ahuti) or at least it shoul=
+d be dashamsha ( i.e. for every 10 recitations of mantra in meditation, one=
+ is qualified to give 1 ahuti)
+
+Myself: Doesnt that only apply to puraschar=
+aNa (based on what I read in Aghore book - as everybody in this group is al=
+ready familiar with that book series)
+
+PrashNa conductor: No it applies to =
+anything. PurascharaNa or regular chanting. Doesnt matter. The rule is alwa=
+ys 1:100 or at least 1:10. You have to follow it strictly.
+
+The conversatio=
+n went onto several other things. Subsequently I went on to get mantra-upad=
+esha from a accomplished seer and reciting that mantra and also using the s=
+ame mantra for my ahuti in homam as per the above mentioned ratio only and =
+have been very happy with my spiritual progress since. 
+
+Whether all the ho=
+ma-practioners in this group agree with me or not, I just wanted to point t=
+his out to all requesting everybody to perform at least 10 times Japa of th=
+e mantra used for ahuti to get the "qualification" for the ahuti.
+
+Regards,=
+
+Ashutosh
+
+
+ 
+--2124734478-120955543-1350936897=:85687
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"color:#000; background-color:#fff; font-family:Co=
+urier New, courier, monaco, monospace, sans-serif;font-size:12pt">Namaste A=
+shutosh ji,<br><br>My mail is not for you. I think you should follow what y=
+our heart is saying and what you have been advised to do.<br><br>* &nb=
+sp;  *    *<br><br>This is a more general comment on on=
+e line form the mail below. Respectfully yet firmly I disagree on one point=
+.<br><br><<Myself: Doesnt that only apply to purascharaNa (based on w=
+hat I read in 
+Aghore book - as everybody in this group is already familiar=
+ with that 
+book series)<br>
+<br>
+PrashNa conductor: No it applies to anyth=
+ing. PurascharaNa or regular 
+chanting. Doesnt matter. The rule is always 1=
+:100 or at least 1:10. You 
+have to follow it strictly.>.<br><br><br>It =
+is always good to do japa, but "strict" is too strong a word. There are man=
+y in different parts of India, well versed in sadhana as well as respective=
+ shastras (respective because no single human being can known all possible =
+Hindu Shastras, so most study that which maybe relevant to his line of spir=
+itual inquiry followed in his tradition) who do homas without doing any pre=
+-requisite japa. <br><br>One honest question that every sadhaka must ask hi=
+mself/herself objectively is, how badly do we want God? If the desire pure =
+and unblemished, or is it also mixed with various other desires, however sm=
+all they maybe. If we also want other materialistic things along with it - =
+and there is no harm in wanting legitimate things - then one can follow all=
+ instructions and rules set for whatever parampara one is mentally afflicte=
+d to and given by his/her Guru(s). <br><br>But if one is desirous of ONLY G=
+od without any other
+ desire attached to it, no rule is sufficient, no path=
+ is a guarantee, no sadhana is sure-shot way to achieve it.  Working o=
+n internal surrender to God and increased detachment in daily life along wi=
+th and through whatever ritual one performs and in whatever manner, can be =
+more helpful in the long run. Human aspiration alone is not enough. When th=
+e aspiration is genuine and pure, He/She extends his/her energy to lift the=
+ sadhak up.. this dual phenomenon together make a sadhana success. And this=
+ simple yet powerful truth is represented by the six-pointed triangle which=
+ is the basic yantra of so many deities, and specially one form of the Moth=
+er. The upward triangle is our aspiration, the downward is Her grace coming=
+ down to transform the sadhak from his/her current state. Together, it make=
+s a complete whole. And grace is purely proportional to the purity of the a=
+spiration, which only God can judge accurately.<br><br>-Regards<br> Ra=
+jarshi
+ <br><div><br></div><div><i><b><div class=3D"MsoNormal"><b><span cla=
+ss=3D"Apple-style-span" style=3D"font-size:16px;"><b><span class=3D"Apple-s=
+tyle-span" style=3D"color:rgb(153, 153, 153);"></span></b></span></b><span =
+class=3D"yui_3_2_0_2_134243527249950" style=3D"font-family:times new roman,=
+ new york, times, serif;">awaktam wyaktimApannam manyantE mAmabuddhayah |</=
+span><br><b><span class=3D"yui_3_2_0_2_134243506227946 yui_3_2_0_2_13424352=
+7249952 yui_3_7_2_23_1350933549454_69" style=3D"FONT-SIZE:10pt;COLOR:navy;F=
+ONT-FAMILY:Verdana;"><font color=3D"#000000" face=3D"Times New Roman"><div>=
+<div> param bhAwamajAnanto mamAwyayamanuttamam ||[7:24]</div></div></font><=
+/span></b></div></b></i></div><div><br></div>  <div style=3D"font-family: C=
+ourier New, courier, monaco, monospace, sans-serif; font-size: 12pt;"> <div=
+ style=3D"font-family: times new roman, new york, times, serif; font-size: =
+12pt;"> <div dir=3D"ltr"> <font face=3D"Arial" size=3D"2"> <hr size=3D"1"> =
+ <b><span
+ style=3D"font-weight:bold;">From:</span></b> ashutosh.srikanth &=
+lt;ashutosh.srikanth@...><br> <b><span style=3D"font-weight: bold;=
+">To:</span></b> vedic-wisdom@yahoogroups.com <br> <b><span style=3D"font-w=
+eight: bold;">Sent:</span></b> Monday, 22 October 2012 5:17 PM<br> <b><span=
+ style=3D"font-weight: bold;">Subject:</span></b> [vedic-wisdom] Homam - Ah=
+uti numbers<br> </font> </div> <br><meta http-equiv=3D"x-dns-prefetch-contr=
+ol" content=3D"off"><div id=3D"yiv942777488">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div>
+<span styl=
+e=3D"display:none;"> </span>
+
+
+
+    <div id=3D"yiv942777488ygrp-text">=
+
+      
+      
+      <div>My pranams to all.<br>
+I have been performing wee=
+kly havan for more than a year and half.<br>
+I want to point out certain th=
+ings related to havan so that it can be done as per shastra by others too.<=
+br>
+I am using a conversation that in fact took place to bring out these re=
+levant points.<br>
+<br>
+Sometime back there was informal "prashNa" session =
+whose summary I am presenting below: <br>
+<br>
+[South Indians might be fami=
+liar with similar "ashTamangala prashNa" conducted in temples when somethin=
+g goes wrong - called as dosha.]<br>
+<br>
+PrashNa conductor: There seems to=
+ be a dosha... Hmm... let me see... Hmm.. Yes... You seem to be performing =
+some kind of Agni karya at your home regularly.<br>
+<br>
+Myself: Yes (I was=
+ actually very surprised by this pointed question because I had not told an=
+ybody about the havan I did at home)<br>
+<br>
+PrashNa conductor: There are =
+certain errors in the agni karya you are doing. You seem to be using dry sa=
+mith materials. And your ahuti does not seem to be right.<br>
+<br>
+Myself: =
+Yes I am using Til (sesame seeds).<br>
+<br>
+PrashNa conductor: You should m=
+ix that with atleast a little bit of ghee before giving it as ahuti.<br>
+<b=
+r>
+Myself: Ok. And what is the dosha in my ahuti apart from that?<br>
+<br>
+=
+PrashNa conductor: Do you do required Japa before giving ahutis? And do you=
+ do the ahuti with the same mantra that you use for your regular japa?<br>
+=
+<br>
+Myself: What?... Required Japa? Is there a pre-requisite like that? No=
+ I dont do any pre-defined set of japa?<br>
+<br>
+PrashNa conductor: Yes. St=
+rictly the japa-ahuti ratio is shatamsha. (that is for every 100 recitation=
+ of a mantra via meditation, one becomes qualified for one ahuti) or at lea=
+st it should be dashamsha ( i.e. for every 10 recitations of mantra in medi=
+tation, one is qualified to give 1 ahuti)<br>
+<br>
+Myself: Doesnt that only=
+ apply to purascharaNa (based on what I read in Aghore book - as everybody =
+in this group is already familiar with that book series)<br>
+<br>
+PrashNa c=
+onductor: No it applies to anything. PurascharaNa or regular chanting. Does=
+nt matter. The rule is always 1:100 or at least 1:10. You have to follow it=
+ strictly.<br>
+<br>
+The conversation went onto several other things. Subseq=
+uently I went on to get mantra-upadesha from a accomplished seer and reciti=
+ng that mantra and also using the same mantra for my ahuti in homam as per =
+the above mentioned ratio only and have been very happy with my spiritual p=
+rogress since. <br>
+<br>
+Whether all the homa-practioners in this group agr=
+ee with me or not, I just wanted to point this out to all requesting everyb=
+ody to perform at least 10 times Japa of the mantra used for ahuti to get t=
+he "qualification" for the ahuti.<br>
+<br>
+Regards,<br>
+Ashutosh<br>
+<br>
+<=
+/div>
+
+    </div>
+     
+
+
+
+</div>
+
+
+
+
+
+</div><meta http-equiv=3D"x-dns-pref=
+etch-control" content=3D"on"><br><br> </div> </div>  </div></body></html>
+--2124734478-120955543-1350936897=:85687--
+
+

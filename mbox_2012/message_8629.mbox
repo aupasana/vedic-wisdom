@@ -1,0 +1,381 @@
+From gaurav_alld@...  Wed Feb 17 11:10:21 2016
+Return-Path: <gaurav_alld@...>
+X-Sender: gaurav_alld@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 87680 invoked from network); 26 Aug 2012 14:50:16 -0000
+X-Received: from unknown (98.137.34.45)
+  by m7.grp.sp2.yahoo.com with QMQP; 26 Aug 2012 14:50:16 -0000
+X-Received: from unknown (HELO nm2-vm2.bullet.mail.ne1.yahoo.com) (98.138.91.18)
+  by mta2.grp.sp2.yahoo.com with SMTP; 26 Aug 2012 14:50:16 -0000
+X-Received: from [98.138.90.49] by nm2.bullet.mail.ne1.yahoo.com with NNFMP; 26 Aug 2012 14:50:15 -0000
+X-Received: from [98.138.89.164] by tm2.bullet.mail.ne1.yahoo.com with NNFMP; 26 Aug 2012 14:50:15 -0000
+X-Received: from [127.0.0.1] by omp1020.mail.ne1.yahoo.com with NNFMP; 26 Aug 2012 14:50:15 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 574607.49254.bm@...
+X-Received: (qmail 69568 invoked by uid 60001); 26 Aug 2012 14:50:15 -0000
+X-YMail-OSG: 5Z8hmfwVM1lsVtRFYEF.Bj8rW.hwl8a5hdVDNG2KJBAQ72r
+ _Z4tjkkjjwr84RTF2DfHKHR8w4B0Tj4yEim_E3G0pNVSrxOgX7.j9o7tRwFA
+ 1bahBsGqGj6E_sLqRgaxEkHoogr0TM.vbC0Arev.sQ83G_5.Aw6B8QAvHUp5
+ pngDVYDFGL4v.JTA08bLhC5snYWSnuxNRq5wjtgPzLSrvaoZNb3ccKdczpLC
+ 47mzB6GOlkSKGEMvkLVxNV6HSoa1pnXcN8KALNlS3nUosC6bDVf4zROmkD5S
+ s.t2B4iiueKYSdZOxDAwS_uqwX0RweujrFKIra7t9GLWA8.wFYy5.DY6jluK
+ IlEFRr.RDX1F0iPVR4HRKZy97cEWw30r48SXP5UHmDbPhk0kRu.rsnzZbPBH
+ huFfoOEygaxE5WaMxLqs_H56IS_1FeVTDPMwMpV_psLY99JTnYbAO0oTaxys
+ sjmz5Z1JvPDOc1MYIglyIXLQzjFzTlf0zTm49VQbwlM5CZVdB0wGXAYrrAbM
+ 2VSDC52ON5GtvRe5WJ4FW20Lcg3o7wtQw2tAdI_PvolsbNqOYjrj2hOlLkw6
+ OHf_N8hYTy5HNA9WJ1t4dAolCaMkldr0H9HusC2LiuikYtOmCSFUcQbCbWCc
+ _6boJCS4PhJq28gu5GwcXmJfNZPiDnXz2XCpZndXQ.8nMuWjNypSBausvr0K
+ FKxptx6oFGl3q5fbjAyPvMOqzVVXWIrtKz0U.QzCThsvxsRZbkp_N7JCFzhn
+ G1G0XKonnNb8unx02CZfa6miJr222c.G2p5aZhrD1TsY_06tFyVUMcVmkzyC
+ aeQ5XPO.yA2MgUJzor9KHOR0UPUXJuWhr5iyy6ZShc8Q.jpGr3cVKYWe8yXK
+ eZVHzjMJkOpMq9Wr59PyEUQnLoXVwPGmVKWgpOakeZS6IAZwj_mD6169uXAc
+ gdWHyu.0Gyuc7z2FfMeZHRqoHR5CWg_9r3a9YH0isIYahlUPCzWkThjvllpi
+ _gIbf1GjqhhrTKCANppF0F5zJg0xID90cC07dpSMKE79vsrMklzuboTGVjQL
+ D.O0T_MFFzoySHiEeVDgK5OWALsfcUV7cBUiM4Wl0NtxutxubvC86bLWe50N
+ TkM5kL8T_D1rRXYnfMD5l1707P9r28ZxdO6HBO4xAkgIPEbj8UX4GUTs0N27
+ Aup3n11DTD33cBAVePGR6cPzTDdhoMZZ5FGrcafm6Pf6aJyTxhaCtmFn0PFz
+ 7YljObotxpk1BGxjZSnWa_TeixsI_QCl1mAmKce5xWpgyOFwEs.NDHw5lOLW
+ O6YF2vtmLw47EIm2ngmPqa9fHbXjADHOPl230Sq7_J5U.pQ3CfV1eL7LnllH
+ gdtZy._kz5JHdXS0.Se2RTTq4iLfLCtEV_MpNIjQ2YMN7PjQ0pavqWI8m.3o
+ 5Jn34eJc62cpoQscgNNid83vfMqQ.oClQh1jTj7O914e.zxmff2gJ06iJOIs
+ VUb.g.asgUrP0Yqh4YEDbepMFRmyzQ9bymJTx4Kx4f9sym_0j1.2MttpRFBL
+ s_gxrYIEUcFTBEaWc6IUCUcNtOX3d8VqbYW1Nmmx9ENivR43C6Za_85b3.U5
+ hRM9RoNzJDnoabPoHP23Wi5_vyeKxJcQSU8v_sY4kY5Ypr0Dve01Z53vRCiB
+ vBRiOcIrhitdVn0YLBDDgIq5QZ9S7bNEM31dpQy.pIVkTpOQychfllfKqeAc
+ JiOPa8Ied_IkDpKTdAx11y1WzXSLALHwpWwFWabIUC7FNa3fjz7oBAHI0fw_
+ Bse4f5aSiaPkvseUMaQ63w2NeeK04CmHaOn0kmVarEbOIJUdgJmoY7pm1y_D
+ Zp_wzC93bBhBFJBW1iLUhw71FyNtIaY7BicZgzjUBYb3I0AUI6OCVuGVzTR9
+ FOmOhsnon34aNY4SeO0TMrXWxU1aE71FnvDt7UzsrGBtfc2ihQTCPJtZmbcK
+ wjnrcMLYoItQGeBTG3TFMQLBjDP4aq06zctRTU1Wmy3MW1UMiq4pB_zVn
+X-Received: from [122.177.37.203] by web122605.mail.ne1.yahoo.com via HTTP; Sun, 26 Aug 2012 07:50:15 PDT
+X-Mailer: YahooMailWebService/0.8.121.416
+References: <k1b3ji+12o5@...> <k1b9vt+27ka@...>
+Message-ID: <1345992615.62014.YahooMailNeo@...>
+Date: Sun, 26 Aug 2012 07:50:15 -0700 (PDT)
+To: "vedic-wisdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com>
+In-Reply-To: <k1b9vt+27ka@...>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="1778881473-1762112633-1345992615=:62014"
+X-Originating-IP: 98.138.91.18
+X-eGroups-Msg-Info: 1:12:0:0:0
+From: gaurav tripathi <gaurav_alld@...>
+Reply-To: gaurav tripathi <gaurav_alld@...>
+Subject: Query  Meeting with God
+X-Yahoo-Group-Post: member; u=185631987; y=gjeIDq7qKbbrve4gO1UZVPaLYhkhTWCro-IenGBLVF6pIaN2wr0
+X-Yahoo-Profile: gaurav_alld
+
+
+--1778881473-1762112633-1345992615=:62014
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Dear All Learned members,
+=C2=A0 =C2=A0Following are my questions:
+1. After=
+ effect of Homam can be negative also. Is it true?
+2. Persons who do nothin=
+g =C2=A0in the field of spirituality can also meet God, higher saints. How =
+is it possible?
+3. I was reading =C2=A0a newspaper that people after having=
+ darshan of Mata Vaishno Devi, Kedarnaath, etc =C2=A0, while returning, met=
+ with accident and died. Why does this happen? People have just come from a=
+ such a wonderful darshan then why tragedy strikes them.
+4. People who are =
+married and have the wife and kid as responsibilities. Fulfilling the dutie=
+s of husband is a blockage in the spiritual path. You know =C2=A0what i mea=
+n.=C2=A0
+5. Why =C2=A0did Gautam Buddha left his wife and his child and eve=
+n then achieved the status of God?
+6. A common person gives =C2=A0a damn to=
+ the concept of liberation. When ever i =C2=A0have discussion with people i=
+n my office they think =C2=A0i am mad . How should one deal with that becau=
+se i =C2=A0think that people =C2=A0who are unaware of this great concept sh=
+ould be taught with this ideaology.
+
+Expecting to get the different version=
+s of the answers...!!!
+
+=C2=A0
+Just Gaurav
+
+
+
+_____________________________=
+___
+ From: vedic_pathak <vedic_pathak@...>
+To: vedic-wisdom@yahoogrou=
+ps.com 
+Sent: Sunday, August 26, 2012 1:15 AM
+Subject: [vedic-wisdom] Re: s=
+totras after atharva seersham ??
+ 
+
+=C2=A0 
+for sure Yes! 
+
+--- In vedic-wi=
+sdom@yahoogroups.com, "surajyg" <jyothikasooraj@...> wrote:
+>
+> 
+> 
+> 
+> Th=
+ank you for the reply.
+> Do we put ghee after vaushat?
+> The homam guidelin=
+e says to use sesame oil with turmeric for akshata.Can one use ghee.
+> Rega=
+rds
+> 
+> --- In vedic-wisdom@yahoogroups.com, "vedic_pathak" <vedic_pathak@=
+> wrote:
+> >
+> > namaste,
+> > 
+> > 1) Yes (for Ketu)
+> > 
+> > 2) 15 verses =
+are there in Venkatesha Stotra. After each verse add Swahaa. for example: S=
+waha after "Sheshaadripatireva cha", Swaha after "Madahavo Bhaktavatsal" an=
+d so on till the last verse. Plase note that Whenever you are reciting the =
+Stotra for the last time during Havan, you need to say "Vaushat" instead of=
+ Swahaa after "ShrimatVenkatnathaaya Srinivasaaya te namH" (Last Verse).
+> =
+> 
+> > 3) Hanuman Chalisa - It is called "Chalisa" because it is composed o=
+f 40 verses. So you are giving 40 Ahutis by saying Swahaa when you recite i=
+t once.
+> > 
+> > For example - 1st Swaha (and Viz-a-viz offerings) will be =
+after "Jay Kapish tihu loka ujaagar", 2nd Swaha will be after "Anajani Putr=
+a Pavansut naamaa" and Last Swaha (or Vaushat depending upon the if you are=
+ repeating the Chalisa or otherwise) will be after Kije naath Hriday Mam de=
+ra"
+> > 
+> > Om Ketave NamaH
+> > Jay Ramaji Ki !
+> > Jay Vekateshwara ! 
+> =
+> 
+> > --- In vedic-wisdom@yahoogroups.com, "surajyg" <jyothikasooraj@> wro=
+te:
+> > >
+> > > 
+> > > Dear Narasimha ji
+> > > As per the audio after Athar=
+va Seersham we can tell mantras and tell svaha.
+> > > Can we do this after =
+stotras, example
+> > > 
+> > > Ketu stotra :
+> > > Aneka roopa varnaischa,
+>=
+ > > Sathashotha sahsrashaha,
+> > > Uthpatha roopi jagatham,
+> > > Peedam h=
+arathu may Shikhi
+> > > 
+> > > After Shikhi do I say swaha.
+> > > 
+> > > Wh=
+at about stotras like Venkatesh stotra.When do I svaha,at the end of the fu=
+ll stotra?
+> > > 
+> > > How about Hanuman chalisa.
+> > > Thank you
+> > >
+> =
+>
+>
+
+
+ 
+--1778881473-1762112633-1345992615=:62014
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"color:#000; background-color:#fff; font-family:ti=
+mes new roman, new york, times, serif;font-size:12pt"><div><span>Dear All L=
+earned members,</span></div><div style=3D"color: rgb(0, 0, 0); font-size: 1=
+6px; font-family: 'times new roman', 'new york', times, serif; background-c=
+olor: transparent; font-style: normal; "><span>   Following are m=
+y questions:</span></div><div style=3D"color: rgb(0, 0, 0); font-size: 16px=
+; font-family: 'times new roman', 'new york', times, serif; background-colo=
+r: transparent; font-style: normal; "><span>1. After effect of Homam can be=
+ negative also. Is it true?</span></div><div style=3D"color: rgb(0, 0, 0); =
+font-size: 16px; font-family: 'times new roman', 'new york', times, serif; =
+background-color: transparent; font-style: normal; "><span>2. Persons who d=
+o nothing  in the field of spirituality can also meet God, higher sain=
+ts. How is it possible?</span></div><div style=3D"color: rgb(0, 0, 0);
+ fon=
+t-size: 16px; font-family: 'times new roman', 'new york', times, serif; bac=
+kground-color: transparent; font-style: normal; "><span>3. I was reading &n=
+bsp;a newspaper that people after having darshan of Mata Vaishno Devi, Keda=
+rnaath, etc  , while returning, met with accident and died. Why does t=
+his happen? People have just come from a such a wonderful darshan then why =
+tragedy strikes them.</span></div><div style=3D"color: rgb(0, 0, 0); font-s=
+ize: 16px; font-family: 'times new roman', 'new york', times, serif; backgr=
+ound-color: transparent; font-style: normal; "><span>4. People who are marr=
+ied and have the wife and kid as responsibilities. Fulfilling the duties of=
+ husband is a blockage in the spiritual path. You know  what i mean.&n=
+bsp;</span></div><div style=3D"color: rgb(0, 0, 0); font-size: 16px; font-f=
+amily: 'times new roman', 'new york', times, serif; background-color: trans=
+parent; font-style: normal; "><span>5. Why  did Gautam Buddha
+ left hi=
+s wife and his child and even then achieved the status of God?</span></div>=
+<div style=3D"color: rgb(0, 0, 0); font-size: 16px; font-family: 'times new=
+ roman', 'new york', times, serif; background-color: transparent; font-styl=
+e: normal; "><span>6. A common person gives  a damn to the concept of =
+liberation. When ever i  have discussion with people in my office they=
+ think  i am mad . How should one deal with that because i  think=
+ that people  who are unaware of this great concept should be taught w=
+ith this ideaology.</span></div><div style=3D"color: rgb(0, 0, 0); font-siz=
+e: 16px; font-family: 'times new roman', 'new york', times, serif; backgrou=
+nd-color: transparent; font-style: normal; "><span><br></span></div><div st=
+yle=3D"color: rgb(0, 0, 0); font-size: 16px; font-family: 'times new roman'=
+, 'new york', times, serif; background-color: transparent; font-style: norm=
+al; ">Expecting to get the different versions of the
+ answers...!!!</div><d=
+iv style=3D"color: rgb(0, 0, 0); font-size: 16px; font-family: 'times new r=
+oman', 'new york', times, serif; background-color: transparent; font-style:=
+ normal; "><br></div><div> </div><div>Just Gaurav<br></div><div><br></=
+div>  <div style=3D"font-family: 'times new roman', 'new york', times, seri=
+f; font-size: 12pt; "> <div style=3D"font-family: 'times new roman', 'new y=
+ork', times, serif; font-size: 12pt; "> <div dir=3D"ltr"> <font size=3D"2" =
+face=3D"Arial"> <hr size=3D"1">  <b><span style=3D"font-weight:bold;">From:=
+</span></b> vedic_pathak <vedic_pathak@...><br> <b><span style=
+=3D"font-weight: bold;">To:</span></b> vedic-wisdom@yahoogroups.com <br> <b=
+><span style=3D"font-weight: bold;">Sent:</span></b> Sunday, August 26, 201=
+2 1:15 AM<br> <b><span style=3D"font-weight: bold;">Subject:</span></b> [ve=
+dic-wisdom] Re: stotras after atharva seersham ??<br> </font> </div> <br><d=
+iv id=3D"yiv1609079713">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div>
+<span style=3D"display:none;">&=
+nbsp;</span>
+
+
+
+    <div id=3D"yiv1609079713ygrp-text">
+      
+      
+     =
+ <div>for sure Yes! <br>
+<br>
+--- In <a rel=3D"nofollow" ymailto=3D"mailto:=
+vedic-wisdom%40yahoogroups.com" target=3D"_blank" href=3D"mailto:vedic-wisd=
+om%40yahoogroups.com">vedic-wisdom@yahoogroups.com</a>, "surajyg" <jyoth=
+ikasooraj@...> wrote:<br>
+><br>
+> <br>
+> <br>
+> <br>
+> Th=
+ank you for the reply.<br>
+> Do we put ghee after vaushat?<br>
+> The =
+homam guideline says to use sesame oil with turmeric for akshata.Can one us=
+e ghee.<br>
+> Regards<br>
+> <br>
+> --- In <a rel=3D"nofollow" ymai=
+lto=3D"mailto:vedic-wisdom%40yahoogroups.com" target=3D"_blank" href=3D"mai=
+lto:vedic-wisdom%40yahoogroups.com">vedic-wisdom@yahoogroups.com</a>, "vedi=
+c_pathak" <vedic_pathak@> wrote:<br>
+> ><br>
+> > namaste,=
+<br>
+> > <br>
+> > 1) Yes (for Ketu)<br>
+> > <br>
+> >=
+; 2) 15 verses are there in Venkatesha Stotra. After each verse add Swahaa.=
+ for example: Swaha after "Sheshaadripatireva cha", Swaha after "Madahavo B=
+haktavatsal" and so on till the last verse. Plase note that Whenever you ar=
+e reciting the Stotra for the last time during Havan, you need to say "Vaus=
+hat" instead of Swahaa after "ShrimatVenkatnathaaya Srinivasaaya te namH" (=
+Last Verse).<br>
+> > <br>
+> > 3) Hanuman Chalisa - It is called=
+ "Chalisa" because it is composed of 40 verses. So you are giving 40 Ahutis=
+ by saying Swahaa when you recite it once.<br>
+> > <br>
+> > For=
+ example - 1st Swaha (and Viz-a-viz offerings) will be after "Jay Kapish ti=
+hu loka ujaagar", 2nd Swaha will be after "Anajani Putra Pavansut naamaa" a=
+nd Last Swaha (or Vaushat depending upon the if you are repeating the Chali=
+sa or otherwise) will be after Kije naath Hriday Mam dera"<br>
+> > <b=
+r>
+> > Om Ketave NamaH<br>
+> > Jay Ramaji Ki !<br>
+> > Ja=
+y Vekateshwara !  <br>
+> > <br>
+> > --- In <a rel=3D"nofollow" =
+ymailto=3D"mailto:vedic-wisdom%40yahoogroups.com" target=3D"_blank" href=3D=
+"mailto:vedic-wisdom%40yahoogroups.com">vedic-wisdom@yahoogroups.com</a>, "=
+surajyg" <jyothikasooraj@> wrote:<br>
+> > ><br>
+> > &g=
+t; 	<br>
+> > > Dear Narasimha ji<br>
+> > > As per the aud=
+io after Atharva Seersham we can tell mantras and tell svaha.<br>
+> >=
+ > Can we do this after stotras, example<br>
+> > > <br>
+> &g=
+t; > Ketu stotra :<br>
+> > > Aneka roopa varnaischa,<br>
+> &=
+gt; > Sathashotha sahsrashaha,<br>
+> > > Uthpatha roopi jagatha=
+m,<br>
+> > > Peedam harathu may Shikhi<br>
+> > > <br>
+>=
+; > > After Shikhi do I say swaha.<br>
+> > > <br>
+> > =
+> What about stotras like Venkatesh stotra.When do I svaha,at the end of=
+ the full stotra?<br>
+> > > <br>
+> > > How about Hanuman =
+chalisa.<br>
+> > > Thank you<br>
+> > ><br>
+> ><br>
+=
+><br>
+<br>
+</div>
+
+    </div>
+     
+
+
+
+</div>
+
+
+
+
+
+</div><br><br> </div>=
+ </div>  </div></body></html>
+--1778881473-1762112633-1345992615=:62014--
+
+

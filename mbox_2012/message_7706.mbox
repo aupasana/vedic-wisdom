@@ -1,0 +1,896 @@
+From ashish_tank@...  Wed Feb 17 11:10:03 2016
+Return-Path: <ashish_tank@...>
+X-Sender: ashish_tank@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 48970 invoked from network); 1 Jan 2012 15:32:28 -0000
+X-Received: from unknown (98.137.35.161)
+  by m10.grp.sp2.yahoo.com with QMQP; 1 Jan 2012 15:32:28 -0000
+X-Received: from unknown (HELO nm1-vm0.bullet.mail.in.yahoo.com) (121.101.151.211)
+  by mta5.grp.sp2.yahoo.com with SMTP; 1 Jan 2012 15:32:27 -0000
+X-Received: from [121.101.151.237] by nm1.bullet.mail.in.yahoo.com with NNFMP; 01 Jan 2012 15:32:25 -0000
+X-Received: from [121.101.151.234] by tm2.bullet.mail.in.yahoo.com with NNFMP; 01 Jan 2012 15:32:57 -0000
+X-Received: from [127.0.0.1] by omp1003.mail.in.yahoo.com with NNFMP; 01 Jan 2012 15:34:35 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 193888.52628.bm@...
+X-Received: (qmail 55439 invoked by uid 60001); 1 Jan 2012 15:32:25 -0000
+X-YMail-OSG: 0OiV0KMVM1k43I5ivXKXhyNxDFbIVwX2jdi0oimogGFNMYb
+ ZndFoKAPt8dUVDZaWd0cUH6jqx9PyEmjGjgPJeceVc7usFGGE7Tuy.tjfWGT
+ 1MR0tPWsTyGxl8xtFBwZA5SBZ7GDr3gkuqvGnZTpzT4DKsg0oKVauTOs0cNp
+ 7bOoO8I68vdiNqbb7lCfGid1tqFJyRCBoDkvjEn6qGVGkyVOpCMdJxn.1ZQK
+ Hve1Kptfnz808Hu.zYdVCVm3kjkW6lOE.q8BD.0NQ5REPsg6_FSTQFUIWwXR
+ iFQvzK.htvnBdfEktx1QA2sHiUGoe3Wu.SxeTUXRvPQ6x6a2HuKR46LuL.j8
+ sfnCWMVvVBpqQ.eHh8U4ivVuYdIiKjaMiejhfPDuXFal.url4dQKMV_75Z80
+ Hb2i8qT7spBne.hH7iNRrYRVNsahwLhwA5mBJ8bj9SCF2GzPIM3NV7uBgY5E
+ TJBXVxQ2DCm_Sjm2FFyZ4LeagVRqDxmVLAvCYlOSjrQ7J_YIKhyp9KTIUrya
+ ZnyBsA3maTJF3Wvd0HsGw0DOQPCaNcCIbLnnM8uvgISZN8m5BbFkz66dknRL
+ 0WRzNdf5PaOxJnajPtSYtkAc.PzJR1j_4B4Gt1KcMxzLuErNBe73ldXnuNjc
+ 5Swws98lZ6_BUFc4zva8xOt.fZHHYFBSe9UgvXRj9rX17yrr4tFi1BDDWApN
+ t2oc3.bIXZXBy2RgVXEzAnj54K9LKtNIo42xFMEoYxLkuT3uzb2P.k_EJC6q
+ YmzRBS1WeQVnUXoPCyDuwHlemhaCAigldqzqpjD3tn6zzwfPb.gwO90KjuIX
+ aWwYY4652X80uhabtS0yfgmxa0uZ1882mnmBUu.sdJr5QzO1JGkThu6G2ouN
+ w2gmr6qW_BaQ.vhCXLRSweziSPcr5G2cPuqEcyWg3edBp65Ewn74YLeU4iaq
+ 6cpsw_KXRJY.BL3mhnoPA.N1xS0maB9rElNMzddQqgIK6vYpfLY6rxNAfSv3
+ O.SLdaJU92Bt3JzGYYdo6blPqM7LkEv9eaL8evX7Tz15WrdlF50gQ513eeFH
+ dbfk3hphamxmKb7KHq4kaMzrviHmCZfi8JOZHXq5J1nb2jRmyBYHDnup31CP
+ 1qsVTU15lZVrfd9n19Qi0SVSMvdjoo5PB2Ojdr1dI1JomfeqXt2yDIvqJN6g
+ tREOJpII1.CkQErmqkfEyvjELHla0.sy1DYZeYRknzxGRc7A1XDw3CVjlT_a
+ HCJjkPkCB6Y0pJ8Go_CREg34b4i5231STaQDtGjMcIAQOVDjRZGxjv.Oz9MO
+ 0YskVIf_IUgVQwcxPqBBIJeJ7aagYj2W8jy1PXRCP89Y3.eDWJhfeoWhMyt0
+ ZeZcmGpoz0c3f.KRM9AKrMz9qDuS4qFFC18XpMjeLM8eKL4sOfMe9LTqbllT
+ Zw2mlSY6zmDitvAC5tlE-
+X-Received: from [49.249.187.16] by web95511.mail.in.yahoo.com via HTTP; Sun, 01 Jan 2012 21:02:25 IST
+X-Mailer: YahooMailWebService/0.8.115.331698
+References: <7cf9d17b.37642.134594d6bdd.Webtop.43@...> <CAP1m_RwmOD2=OhPAahdVjyqT9UNmneGMi4pRDvCL5209tg2rJA@...> <1324464946.2975.YahooMailNeo@...> <CAP1m_Rxz-4MwmrhmWPc1_DYvXP7csGgk7fnSYauW7=S4Wqw-=w@...> <1324535792.34006.YahooMailNeo@...>
+Message-ID: <1325431945.52626.YahooMailNeo@...>
+Date: Sun, 1 Jan 2012 21:02:25 +0530 (IST)
+To: "vedic-wisdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com>
+In-Reply-To: <1324535792.34006.YahooMailNeo@...>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="-1486285689-101663794-1325431945=:52626"
+X-Originating-IP: 121.101.151.211
+X-eGroups-Msg-Info: 1:12:0:0:0
+From: Ashish Tank <ashish_tank@...>
+Reply-To: Ashish Tank <ashish_tank@...>
+Subject: Re: [vedic-wisdom] Re: Mahavidya experience/Kaali
+X-Yahoo-Group-Post: member; u=392701165; y=lWQI5aHh02wSHkG6BazBoC2HmRnFEilrtXQTUHcY_It00urM36MnGjrXDZ4Gm6Jk
+X-Yahoo-Profile: ashish_tank@...
+
+
+---1486285689-101663794-1325431945=:52626
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Har Har Mahadev
+
+Whatever is happening in this forum cant be imagined by an=
+ ordinary person, I am happy that god has given me opportunity to access, i=
+ cant take part in you people's discussion as my knowledge and english is l=
+imited, but i have too many questions, i m feeling sorry for myself as i ca=
+nt be regular here, this is because i am 24 and Arth and Kama are levels to=
+ be cleared and some responsibilities too.
+
+Ashish
+
+
+______________________=
+__________
+ From: rajarshi nandy <rajarshi14@...>
+To: "vedic-wisdom=
+@yahoogroups.com" <vedic-wisdom@yahoogroups.com> 
+Sent: Thursday, 22 Decemb=
+er 2011 12:06 PM
+Subject: Re: [vedic-wisdom] Re: Mahavidya experience/Kaali=
+
+ 
+
+=C2=A0 
+
+
+=C2=A0Dear Srikanth,
+=C2=A0
+Jai Ma Durga!
+=C2=A0
+<<I would no=
+t want to argue ..>>
+=C2=A0
+Never stop yourself from arguing if you think y=
+our point of view has logic! I do it always, irrespective of consequences. =
+So your mail and view point is thoroughly welcome as far as I'm concerned.
+=
+=C2=A0
+I will try to explain a few points from your reply, as I see it.
+=C2=
+=A0
+<<It is not their identity that you see, it is the identity which we ha=
+ve been exposed to since ages. Just an analogy, Tendulkar may actually be a=
+ great father at home but we only saw the perceivable cricketer aspect of h=
+im as it is known to your outside world which dwells on popularity or a pro=
+nounced thing. Kali is dreadful Goddess to many who see her physical aspect=
+ but I did see many homes in Kolkata praying her as family Goddess. All exp=
+eriences are PERSONAL in nature between us and the deity and can be abstrac=
+t from a different view point.>>
+=C2=A0
+=C2=A0
+You see my basic point is th=
+at Tendulkar is a cricketing genius to 120 Crore Indians, while his identit=
+y as a father is limited to 2 children. If you approach Tendulkar and call =
+him father, he may feel weird about it.=C2=A0 Now deities of course are far=
+ more subtle and complex. One of names of Kaali in her sahashranama is also=
+=C2=A0Lalita. If you worship Kaali and expect Her to come to you in the for=
+m of Lalita, because the Sahasrahanama of=C2=A0Kaali has the name Lalita,=
+=C2=A0=C2=A0chances are that=C2=A0it may result in=C2=A0a hodgepodge. In th=
+e worst case it may result in fright. To give a very crude example, this is=
+ like buying the DVD for the movie "The Exorcist" while consciously and sub=
+-consciously expecting to see "Kaho Na Pyar Hai"!
+=C2=A0
+Yes Kaali is the m=
+ost worshipped deity in Bengal for various historical reasons, chief of whi=
+ch being that fantastic amount of Kali worshippers have lived in Bengal/Ass=
+am/Tripura/Odisha. This has caused=C2=A0the notion of Kali to get ingrained=
+ in the very culture. Even sufis in Bengal worship Kaali. But the key is to=
+ accept Her and love Her, AS SHE IS! Which means, say if you find the garla=
+nd of skulls on her neck and the skull in her hand disturbing, or if you fi=
+nd the blood-dripping from the freshly cut head in Her hand difficult to re=
+late to, you cannot cannot replace=C2=A0those from her iconography and expe=
+ct to get clear results from your worship. Love Her the way She is, in her =
+ferocity and wildness and beauty. When you do that, you're game.=C2=A0Yes S=
+he=C2=A0can be dreadful, but that is how She is loved by her devotees, with=
+out trying to modify Her innate nature and characteristics. Relate to Her a=
+s Ma, but don't ask Her to remove the skulls. 
+=C2=A0
+The=C2=A0traditional=
+=C2=A0idea, which I believe to be correct,=C2=A0is to worship the form in t=
+he way it is and love and relate to it in all its attributes. I know a cert=
+ain person who used to=C2=A0worship a very fierce form of Devi but mentally=
+ was=C2=A0unable to relate to that form. She was adviced by her guru to do =
+so, who used to worship that fierce form himself. When I asked her what doe=
+s she feel about the deity, she said I mentally think of Her of Gouri but p=
+erform the ritual for the fierce form=C2=A0as my Guru asked me to. I of cou=
+rse had no business interfering in the relationship between a Guru and his =
+disciple and so kept my mouth shut, but personally I was extremely skeptica=
+l of this approach. When you can't even love=C2=A0the form you are worshipp=
+ing, then what kind of worship is that? Later she met another individual wh=
+o acted as a mentor and gave her a mantra of a much milder form of God. Tod=
+ay=C2=A0the lady spends nearly=C2=A08 hours every day immersed in the worsh=
+ip of
+ that milder=C2=A0form. Her spiritual life leap-frogged once she star=
+ted worshipping the milder form of God. Thats why the Tantras stress so hea=
+vily on the importance of=C2=A0correct form for each individual. 
+=C2=A0
+=
+=C2=A0
+It is not my contention that worshipping an urga deity is difficult =
+or simple compared to worshipping a milder form. Both are difficult and to =
+succeed in any worship=C2=A0a combination of various factors must fall in p=
+lace. It's like trying to judge, which among Rugby and Table-tennis, is a m=
+ore difficult game. Some like one, some like the other, but you cannot pass=
+ a judgement about which is more dificult. 
+=C2=A0
+-Take Care
+=C2=A0 Rajars=
+hi
+
+From: Srikanth <srikanthnetworked@...>
+To: vedic-wisdom@yahoogrou=
+ps.com 
+Sent: Wednesday, 21 December 2011 8:09 PM
+Subject: Re: [vedic-wisdo=
+m] Re: Mahavidya experience
+
+
+=C2=A0 
+Jai Maa Durge.
+
+Rajarshiji,
+
+Again, M=
+y two cents with my own humble understanding:
+
+It is not their identity tha=
+t you see, it is the identity which we have been exposed to since ages. Jus=
+t an analogy, Tendulkar may actually be a great father at home but we only =
+saw the perceivable cricketer aspect of him as it is known to your outside =
+world which dwells on popularity or a pronounced thing. Kali is dreadful Go=
+ddess to many who see her physical aspect but I did see many homes in Kolka=
+ta praying her as family Goddess. All experiences are PERSONAL in nature be=
+tween us and the deity and can be abstract from a different view point.
+
+Ou=
+r Subjective experience is based on density of=C2=A0 Karmas and the associa=
+ted Vasanas accumulated over several births coupled with your present life =
+(Intensity of it depends on several variables in/out of our control) Sadhan=
+a. Mother will reveal the respective band of her spectrum as you progress
+ =
+further using your free will carefully is my view exactly as your physical =
+mother knows when you feel hungry and not in right frame of mind etc etc.(T=
+hough over simplified a bit)
+
+In general we all wish to pursue sadhana with=
+ a thought that she is not very far away and we indeed have a chance to rea=
+ch her or abide by her.
+
+I'm an ant at the foot hills of a mountain and can=
+not talk about a glorious mountain like "Sri Lalitha Devi". I worship the D=
+urga energies of her when I go on the karmic field and worship her play as =
+Lalitha when I enjoy the bhoga(healthy body,Mind,Intellect and Materials) s=
+he gave me unasked.
+
+I would not want to argue but you will find many such =
+ugra names in "Gayathri Sahasranaam" too.
+=C2=A0
+This synergistic concept o=
+f the Divine Mother was pursued in the sacred literature on Mother worship
+=
+across many centuries. In the Devi Mahatmya we find the Divine Mother as th=
+e most beautiful, benevolent,and
+ tranquil=E2=80=94saumy=C4=81-saumyatar=C4=
+=81=C5=9Be=E1=B9=A3a-saumyebhyastvatisundar=C4=AB 15=E2=80=94but at the sam=
+e time the
+most terrible, whenever required. Thus, the Divine Mother assume=
+s all the characteristics at one time:the wisdom and spiritual intellect of=
+ Saraswati, the redeeming spirit of Durga, the wealth, splendour,and cornuc=
+opia of Lakshmi or Sri, and the terribleface of Kali or Gouri.
+
+Medh=C4=81s=
+i devi vidit=C4=81khila-=C5=9B=C4=81stra-s=C4=81r=C4=81
+durg=C4=81si durga-=
+bhavas=C4=81gara-naur-asa=E1=B9=85g=C4=81;
+=C5=9Ari=E1=B8=A5 kai=E1=B9=ADab=
+h=C4=81ri-h=E1=B9=9Bdayaika-k=E1=B9=9Bt=C4=81dhiv=C4=81s=C4=81
+gour=C4=AB t=
+vam-eva =C5=9Ba=C5=9Bi-mauli-k=E1=B9=9Bta-prati=E1=B9=A3=E1=B9=ADh=C4=81.
+
+=
+Cordially Srikanth
+
+
+On Wed, Dec 21, 2011 at 4:25 PM, rajarshi nandy <rajar=
+shi14@...> wrote:
+
+ 
+>=C2=A0 
+>Dear Srikanth,
+>=C2=A0
+>Sometime bac=
+k this question was asked by a friend of mine. 
+>=C2=A0
+><<" Pancha Pretasa=
+nasina, Panch Brahmaswarupini" The one who sits on 4 corpses etc
+>
+>and "Ap=
+arna Chandika Chanda Mundasura Nishudini">>
+>=C2=A0
+>Traditionally, so I am=
+ told, this verse is ment to understand that She sits on a throne held by f=
+ive corpses. These five corpses are of=C2=A0Brahma, Vishnu, Rudra, Mahadeva=
+ and Sadashiva. Simply put, She is representative energy of everything. Per=
+sonally, I don't like this explanation. To me the five pretas are the five =
+koshas surrounding the human organism. She controls all of them.
+>=C2=A0
+>N=
+ow if we take this line=C2=A0literally, She sits on an asana of five pretas=
+ - spirits of a kind. You must have read the biographies of many siddhas wh=
+o worshipped Lalita Tripursundari. How many have you found who has had a vi=
+sion of Her in this form, sitting on corpses? The Lalita Sahashranama is a =
+complete text of ALL possible attirbutes of Lalita Tripursundari. Of these,=
+ what percentage of names do you find which can be described as ugra?
+>=C2=
+=A0
+>Consider this example. If you ask 100 people who is Sachin Tendulkar, =
+all will reply that he is a great cricketer. But isn't Tendulkar also a fat=
+her, brother, son, husband, a responsible citizen of India, a consumer at t=
+he local grocery store, and for all you know maybe even a reasonable bathro=
+om singer? These are all his identities too. But why don't we refer to them=
+ when we speak of Tendulkar? Because his central defining identity for us i=
+s his cricket.
+>=C2=A0
+>Same way, each deity eventually is everything. But =
+each has its own "defining identity" which has its own set of attributes. O=
+f all the people worshipping Lalita Tripursundari at this very moment, prob=
+ably a 2 percent or less=C2=A0will realize Her in this lifetime. Of these, =
+99.9999999999999999999 percent will realize Her ONLY in Her=C2=A0chief iden=
+tity as Lalita. How many will, or have till date, actually realized that fo=
+rm of Lalita Tripursundari sitting on a pretasana? And why is this form=C2=
+=A0so remote and so uncommon for most standard worshippers of Lalita Tripur=
+sundari? These are questions to ponder!
+>=C2=A0
+>=C2=A0
+>I've very little k=
+nowledge of worship of Sri Lalita Tripursundari, either theoritical or from=
+ the point of practical worship,=C2=A0but if there is beauty in this world,=
+ it is Her.=C2=A0Like a five course gourmet=C2=A0meal, like a sublime poetr=
+y, like=C2=A0an efforlessly brilliant music, like a dazzling play of lights=
+, like a classic Tendulkar shot,.... all these combined together and much m=
+uch=C2=A0more ...you feel and wish that it never comes to an end. It is dif=
+ficult to describe the feeling that She evokes, but it's like a flood of pu=
+re, distilled essence of=C2=A0beauty and you feel like there is nothing mor=
+e to be done, no goal to reach, no path to walk, no battles to fight -=C2=
+=A0simply bask in the depth of the moment because therein lies fullfilment =
+and a whole new world! She banishes the very roots of the sense of strife a=
+nd ugliness from your system... the knowledge that She exists is enough to =
+incapacitate you from asking anything more. She is THE greatest=C2=A0poetry=
+ of all
+ possible Universes of all possible cycles of creation.
+>=C2=A0
+>=
+=C2=A0
+>-Regards
+>=C2=A0Rajarshi
+>=C2=A0
+>=C2=A0
+>From: Srikanth <srikanthn=
+etworked@...>
+>To: vedic-wisdom@yahoogroups.com 
+>Sent: Wednesday, 21=
+ December 2011 2:19 PM
+>Subject: Re: [vedic-wisdom] Re: Mahavidya experienc=
+e
+> 
+>
+>
+>=C2=A0 
+>All,
+>
+>If we take a Soumya (according to us) Devata lik=
+e Sri Lalita Tripura Sundari, how do we correlate to the following verses f=
+rom Lalitha Sahasranaam:
+>
+>" Pancha Pretasanasina, Panch Brahmaswarupini" =
+The one who sits on 4 corpses etc
+>
+>and "Aparna Chandika Chanda Mundasura =
+Nishudini"
+>
+>In my little sadhana I have done with Maha Vidyas, I found th=
+at we are actually praying the spectrum and not the Specific Frequency Band=
+.
+>
+>Soumya and Ugra are Gunas of human mind and are used by Mother like a =
+toy when she wants and throws it away and she is beyond Gunas. 
+>
+>The drea=
+m you had could be your minds projection too or it could be your psyche whi=
+ch is getting adjusted to her mantra and best way is to approach MOTHER wit=
+h Utmost Love and Respect. As you repeat her mantra your mind and body will=
+ get adjusted to it. Please develop a personal relationship with Maa and as=
+sume her in your heart with physical form and see the
+ magic.
+>
+>=C2=A0I ut=
+terly fail to explain her POWER. She is indeed very powerful and the result=
+s are immediate and your enlightenment is HER AIM too:-)
+>
+>thanks
+>Srikant=
+h
+>
+>On Tue, Dec 20, 2011 at 7:59 AM, Narasimha PVR Rao <pvr@...> w=
+rote:
+>
+> 
+>>=C2=A0 
+>>Namaste,
+>>
+>>I am cc'ing this mail to vedic-wisdom =
+yahoogroup without revealing your 
+>>identity.
+>>
+>>Just for the record, I =
+do not advise against Mahavidya worship at all. 
+>>All I say is that recomm=
+ending a particular Mahavidya based on horoscope 
+>>is dicey and I am almos=
+t sure the standard principles are incorrect. 
+>>Also, I suggest that Mahav=
+idyas are much higher than what people have 
+>>made them out to be. They be=
+stow different aspects of Supreme Knowledge. 
+>>Worshipping them for winnin=
+g a court case or getting a job (which many 
+>>people try to do today) is l=
+ike trying to use a missile to crush an ant.
+>>
+>>Regarding your dream, it =
+may be genuine or merely a projection of your 
+>>mind. Remember that mind i=
+s very powerful and projects various conscious 
+>>and sub-conscious conditi=
+oning as its experiences, especially in a 
+>>dream.
+>>
+>>If you feel that t=
+he dream is a genuine experience of the devata, then 
+>>keep doing
+ the man=
+tra and see what happens.
+>>
+>>If you had the same experience with another =
+mahavidya, it is possible 
+>>that your mind is just projecting. If your min=
+d has affinity to a soumya 
+>>devata with certain nature, it may imagine wh=
+ichever devata you worship 
+>>to have that nature!
+>>
+>>If your mind is ima=
+gining an Ugra devata as a benign smiling form, 
+>>perhaps you should stick=
+ to a Soumya Devata. If the devata really gives 
+>>you a darshan in a fierc=
+e form, is your mind capable of handling it? If 
+>>your mind can visualize =
+and perceive an Ugra Devata in a truly fierce 
+>>form and yet feel deep lov=
+e and surrender for her, then only you are 
+>>suitable for such a sadhana.
+=
+>>
+>>Good luck in your sadhana!
+>>
+>>Best regards,
+>>Narasimha
+>>----------=
+------------------------------------------------
+>>Free Jyotish Software, F=
+ree Jyotish Lessons, Jyotish Writings,
+>>"Do It Yourself" ritual manuals fo=
+r short Homam and Pitri Tarpana:
+>>http://www.VedicAstrologer.org
+>>Films t=
+hat make a difference: http://SaraswatiFilms.org
+>>Spirituality: http://gro=
+ups.yahoo.com/group/vedic-wisdom
+>>Jyotish writings: http://groups.yahoo.co=
+m/group/JyotishWritings
+>>Twitter ID: @homam108
+>>-------------------------=
+---------------------------------
+>>
+>>> Hello,
+>>>
+>>> One of the Mahavidy=
+as I got a mantra from an astrologer and did it 
+>>> for 40 days, but with =
+5 days of
+>>> sadhana, it's was so cool , but got a real vison in dream of =
+what they 
+>>> call ugra devata , but Smiling
+>>> at me??? What does that m=
+ean since Mahavidya worship is NOT 
+>>> recommended by
+ you. Should I do in=
+tense
+>>> worship of that devata?
+>>>
+>>> Before this few years back I had =
+somebody give same mahavidya mantra 
+>>> and did and got a very same
+>>> ex=
+perience,,,, what does this mean??
+>>>
+>>> Can you please guide
+>>>
+>>> <de=
+leted>
+>>
+>
+>
+>
+
+
+
+ 
+---1486285689-101663794-1325431945=:52626
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"color:#000; background-color:#fff; font-family:ti=
+mes new roman, new york, times, serif;font-size:12pt"><div><span>Har Har Ma=
+hadev<br><br>Whatever is happening in this forum cant be imagined by an ord=
+inary person, I am happy that god has given me opportunity to access, i can=
+t take part in you people's discussion as my knowledge and english is limit=
+ed, but i have too many questions, i m feeling sorry for myself as i cant b=
+e regular here, this is because i am 24 and Arth and Kama are levels to be =
+cleared and some responsibilities too.</span></div><div><br><span></span></=
+div><div><span>Ashish<br></span></div><div style=3D"font-family: times new =
+roman, new york, times, serif; font-size: 12pt;"> <div style=3D"font-family=
+: times new roman, new york, times, serif; font-size: 12pt;"> <font face=3D=
+"Arial" size=3D"2"> <hr size=3D"1">  <b><span style=3D"font-weight:bold;">F=
+rom:</span></b> rajarshi nandy <rajarshi14@...><br> <b><span
+=
+ style=3D"font-weight: bold;">To:</span></b> "vedic-wisdom@yahoogroups.com"=
+ <vedic-wisdom@yahoogroups.com> <br> <b><span style=3D"font-weight: b=
+old;">Sent:</span></b> Thursday, 22 December 2011 12:06 PM<br> <b><span sty=
+le=3D"font-weight: bold;">Subject:</span></b> Re: [vedic-wisdom] Re: Mahavi=
+dya experience/Kaali<br> </font> <br><div id=3D"yiv22887326">
+
+
+
+
+
+
+
+
+
+
+
+
+
+=
+<div>
+<span style=3D"display:none;"> </span>
+
+
+
+    <div id=3D"yiv2288=
+7326ygrp-text">
+      
+      
+      <div style=3D"color:#000;background-col=
+or:#fff;font-family:times new roman, new york, times, serif;font-size:12pt;=
+"><div><span><br class=3D"yiv22887326yui-cursor"></span></div>
+<div></div>
+=
+<div> Dear Srikanth,</div>
+<div> </div>
+<div>Jai Ma Durga!</div>
+=
+<div> </div>
+<div><<I would not want to argue ..>></div>
+<=
+div> </div>
+<div>Never stop yourself from arguing if you think your po=
+int of view has logic! I do it always, irrespective of consequences. So you=
+r mail and view point is thoroughly welcome as far as I'm concerned.</div>
+=
+<div> </div>
+<div>I will try to explain a few points from your reply, =
+as I see it.</div>
+<div> </div>
+<div><<It is not their identity =
+that you see, it is the identity which we have been exposed to since ages. =
+Just an analogy, Tendulkar may actually be a great father at home but we on=
+ly saw the perceivable cricketer aspect of him as it is known to your outsi=
+de world which dwells on popularity or a pronounced thing. Kali is dreadful=
+ Goddess to many who see her physical aspect but I did see many homes in Ko=
+lkata praying her as family Goddess. All experiences are PERSONAL in nature=
+ between us and the deity and can be abstract from a different view point.&=
+gt;></div>
+<div> </div>
+<div> </div>
+<div>You see my basic poi=
+nt is that Tendulkar is a cricketing genius to 120 Crore Indians, while his=
+ identity as a father is limited to 2 children. If you approach Tendulkar a=
+nd call him father, he may feel weird about it.  <var id=3D"yiv2288732=
+6yui-ie-cursor"></var>Now deities of course are far more subtle and complex=
+. One of names of Kaali in her sahashranama is also Lalita. If you wor=
+ship Kaali and expect Her to come to you in the form of Lalita, because the=
+ Sahasrahanama of Kaali has the name Lalita,  chances are th=
+at it may result in a hodgepodge. In the worst case it may result=
+ in fright. To give a very crude example, this is like buying the DVD for t=
+he movie "The Exorcist" while consciously and sub-consciously expecting to =
+see "Kaho Na Pyar Hai"!</div>
+<div> </div>
+<div>Yes Kaali is the most =
+worshipped deity in Bengal for various historical reasons, chief of which b=
+eing that fantastic amount of Kali worshippers have lived in Bengal/Assam/T=
+ripura/Odisha. This has caused the notion of Kali to get ingrained in =
+the very culture. Even sufis in Bengal worship Kaali. But the key is to acc=
+ept Her and love Her, AS SHE IS! Which means, say if you find the garland o=
+f skulls on her neck and the skull in her hand disturbing, or if you find t=
+he blood-dripping from the freshly cut head in Her hand difficult to relate=
+ to, you cannot cannot replace those from her iconography and expect t=
+o get clear results from your worship. Love Her the way She is, in her fero=
+city and wildness and beauty. When you do that, you're game. Yes She&n=
+bsp;can be dreadful, but that is how She is loved by her devotees, without =
+trying to modify Her innate nature and characteristics. Relate to Her as Ma=
+, but don't ask Her
+ to remove the skulls. </div>
+<div> </div>
+<div>Th=
+e traditional idea, which I believe to be correct, is to wor=
+ship the form in the way it is and love and relate to it in all its attribu=
+tes. I know a certain person who used to worship a very fierce form of=
+ Devi but mentally was unable to relate to that form. She was adviced =
+by her guru to do so, who used to worship that fierce form himself. When I =
+asked her what does she feel about the deity, she said I mentally think of =
+Her of Gouri but perform the ritual for the fierce form as my Guru ask=
+ed me to. I of course had no business interfering in the relationship betwe=
+en a Guru and his disciple and so kept my mouth shut, but personally I was =
+extremely skeptical of this approach. When you can't even love the for=
+m you are worshipping, then what kind of worship is that? Later she met ano=
+ther individual who acted as a mentor and gave her a mantra of a much milde=
+r form of God. Today the lady spends
+ nearly 8 hours every day im=
+mersed in the worship of that milder form. Her spiritual life leap-fro=
+gged once she started worshipping the milder form of God. Thats why the Tan=
+tras stress so heavily on the importance of correct form for each indi=
+vidual. </div>
+<div> </div>
+<div>
+<div> </div>
+<div>It is not my =
+contention that worshipping an urga deity is difficult or simple compared t=
+o worshipping a milder form. Both are difficult and to succeed in any worsh=
+ip a combination of various factors must fall in place. It's like tryi=
+ng to judge, which among Rugby and Table-tennis, is a more difficult game. =
+Some like one, some like the other, but you cannot pass a judgement about w=
+hich is more dificult. </div>
+<div> </div>
+<div>-Take Care</div>
+<div>=
+  Rajarshi</div></div>
+<div><br></div>
+<div style=3D"FONT-FAMILY:times=
+ new roman, new york, times, serif;FONT-SIZE:12pt;">
+<div style=3D"FONT-FAM=
+ILY:times new roman, new york, times, serif;FONT-SIZE:12pt;"><font face=3D"=
+Arial" size=3D"2">
+<div style=3D"BORDER-BOTTOM:#ccc 1px solid;BORDER-LEFT:#=
+ccc 1px solid;HEIGHT:0px;FONT-SIZE:0px;BORDER-TOP:#ccc 1px solid;BORDER-RIG=
+HT:#ccc 1px solid;" class=3D"yiv22887326hr"></div><b><span style=3D"FONT-WE=
+IGHT:bold;">From:</span></b> Srikanth <srikanthnetworked@...><b=
+r><b><span style=3D"FONT-WEIGHT:bold;">To:</span></b> vedic-wisdom@yahoogro=
+ups.com <br><b><span style=3D"FONT-WEIGHT:bold;">Sent:</span></b> Wednesday=
+, 21 December 2011 8:09 PM<br><b><span style=3D"FONT-WEIGHT:bold;">Subject:=
+</span></b> Re: [vedic-wisdom] Re: Mahavidya experience<br></font><br>
+
+<di=
+v id=3D"yiv22887326">
+<div><span> </span> 
+<div id=3D"yiv22887326ygrp-=
+text">
+<div>Jai Maa Durge.<br><br>Rajarshiji,<br><br>Again, My two cents wi=
+th my own humble understanding:<br><br>It is not their identity that you se=
+e, it is the identity which we have been exposed to since ages. Just an ana=
+logy, Tendulkar may actually be a great father at home but we only saw the =
+perceivable cricketer aspect of him as it is known to your outside world wh=
+ich dwells on popularity or a pronounced thing. Kali is dreadful Goddess to=
+ many who see her physical aspect but I did see many homes in Kolkata prayi=
+ng her as family Goddess. All experiences are PERSONAL in nature between us=
+ and the deity and can be abstract from a different view point.<br><br>Our =
+Subjective experience is based on density of  Karmas and the associate=
+d Vasanas accumulated over several births coupled with your present life (I=
+ntensity of it depends on several variables in/out of our control) Sadhana.=
+ Mother will reveal the respective band of her spectrum as you progress
+ fu=
+rther using your free will carefully is my view exactly as your physical mo=
+ther knows when you feel hungry and not in right frame of mind etc etc.(Tho=
+ugh over simplified a bit)<br><br>In general we all wish to pursue sadhana =
+with a thought that she is not very far away and we indeed have a chance to=
+ reach her or abide by her.<br><br>I'm an ant at the foot hills of a mounta=
+in and cannot talk about a glorious mountain like "Sri Lalitha Devi". I wor=
+ship the Durga energies of her when I go on the karmic field and worship he=
+r play as Lalitha when I enjoy the bhoga(healthy body,Mind,Intellect and Ma=
+terials) she gave me unasked.<br><br>I would not want to argue but you will=
+ find many such ugra names in "Gayathri Sahasranaam" too.<br> <br>This=
+ synergistic concept of the Divine Mother was pursued in the sacred literat=
+ure on Mother worship<br>across many centuries. In the Devi Mahatmya we fin=
+d the Divine Mother as the most beautiful, benevolent,and
+ tranquil=E2=80=
+=94saumy=C4=81-saumyatar=C4=81=C5=9Be=E1=B9=A3a-saumyebhyastvatisundar=C4=
+=AB 15=E2=80=94but at the same time the<br>most terrible, whenever required=
+. Thus, the Divine Mother assumes all the characteristics at one time:the w=
+isdom and spiritual intellect of Saraswati, the redeeming spirit of Durga, =
+the wealth, splendour,and cornucopia of Lakshmi or Sri, and the terriblefac=
+e of Kali or Gouri.<br><br>Medh=C4=81si devi vidit=C4=81khila-=C5=9B=C4=81s=
+tra-s=C4=81r=C4=81<br>durg=C4=81si durga-bhavas=C4=81gara-naur-asa=E1=B9=85=
+g=C4=81;<br>=C5=9Ari=E1=B8=A5 kai=E1=B9=ADabh=C4=81ri-h=E1=B9=9Bdayaika-k=
+=E1=B9=9Bt=C4=81dhiv=C4=81s=C4=81<br>gour=C4=AB tvam-eva =C5=9Ba=C5=9Bi-mau=
+li-k=E1=B9=9Bta-prati=E1=B9=A3=E1=B9=ADh=C4=81.<br><br>Cordially Srikanth<b=
+r><br>
+<div class=3D"yiv22887326gmail_quote">On Wed, Dec 21, 2011 at 4:25 P=
+M, rajarshi nandy <span dir=3D"ltr"><<a rel=3D"nofollow" ymailto=3D"mail=
+to:rajarshi14@..." target=3D"_blank" href=3D"mailto:rajarshi14@yaho=
+o.co.in">rajarshi14@...</a>></span> wrote:<br>
+<blockquote style=
+=3D"BORDER-LEFT:rgb(204,204,204) 1px solid;" class=3D"yiv22887326gmail_quot=
+e"><u></u>
+<div style=3D"BACKGROUND-COLOR:rgb(255,255,255);"><span> </=
+span> 
+<div>
+<div>
+<div>
+<div style=3D"BACKGROUND-COLOR:rgb(255,255,255);FO=
+NT-FAMILY:times new roman, new york, times, serif;COLOR:rgb(0,0,0);FONT-SIZ=
+E:12pt;">
+<div><span>Dear Srikanth,</span></div>
+<div><span></span> </=
+div>
+<div><span>Sometime back this question was asked by a friend of mine. =
+</span></div>
+<div class=3D"yiv22887326im">
+<div><span></span> </div>
+=
+<div><span><<" Pancha Pretasanasina, Panch Brahmaswarupini" The one w=
+ho sits on 4 corpses etc<br><br>and "Aparna Chandika Chanda Mundasura Nishu=
+dini">></span></div>
+<div><span></span> </div></div>
+<div><span>=
+Traditionally, so I am told, this verse is ment to understand that She sits=
+ on a throne held by five corpses. These five corpses are of Brahma, V=
+ishnu, Rudra, Mahadeva and Sadashiva. Simply put, She is representative ene=
+rgy of everything. Personally, I don't like this explanation. To me the fiv=
+e pretas are the five koshas surrounding the human organism. She controls a=
+ll of them.</span></div>
+<div><span></span> </div>
+<div><span>Now if w=
+e take this line literally, She sits on an asana of five pretas - spir=
+its of a kind. You must have read the biographies of many siddhas who worsh=
+ipped Lalita Tripursundari. How many have you found who has had a vision of=
+ Her in this form, sitting on corpses? The Lalita Sahashranama is a complet=
+e text of ALL possible attirbutes of Lalita Tripursundari. Of these, what p=
+ercentage of names do you find which can be described as ugra?</span></div>=
+
+<div><span></span> </div>
+<div><span>Consider this example. If you as=
+k 100 people who is Sachin Tendulkar, all will reply that he is a great cri=
+cketer. But isn't Tendulkar also a father, brother, son, husband, a respons=
+ible citizen of India, a consumer at the local grocery store, and for all y=
+ou know maybe even a reasonable bathroom singer? These are all his identiti=
+es too. But why don't we refer to them when we speak of Tendulkar? Because =
+his central defining identity for us is his cricket.</span></div>
+<div><spa=
+n></span> </div>
+<div><span>Same way, each deity eventually is everyth=
+ing. But each has its own "defining identity" which has its own set of attr=
+ibutes. Of all the people worshipping Lalita Tripursundari at this very mom=
+ent, probably a 2 percent or less will realize Her in this lifetime. O=
+f these, 99.9999999999999999999 percent will realize Her ONLY in Her c=
+hief identity as Lalita. How many will, or have till date, actually realize=
+d that form of Lalita Tripursundari sitting on a pretasana? And why is this=
+ form so remote and so uncommon for most standard worshippers of Lalit=
+a Tripursundari? These are questions to ponder!</span></div>
+<div><span></s=
+pan> </div>
+<div><span></span> </div>
+<div><span>I've very little=
+ knowledge of worship of Sri Lalita Tripursundari, either theoritical or fr=
+om the point of practical worship, but if there is beauty in this worl=
+d, it is Her. Like a five course gourmet meal, like a sublime poe=
+try, like an efforlessly brilliant music, like a dazzling play of ligh=
+ts, like a classic Tendulkar shot,.... all these combined together and much=
+ much more ...you feel and wish that it never comes to an end. It is d=
+ifficult to describe the feeling that She evokes, but it's like a flood of =
+pure, distilled essence of beauty and you feel like there is nothing m=
+ore to be done, no goal to reach, no path to walk, no battles to fight -&nb=
+sp;simply bask in the depth of the moment because therein lies fullfilment =
+and a whole new world! She banishes the very roots of the sense of strife a=
+nd ugliness from your system... the knowledge that She exists is enough to =
+incapacitate you from asking anything
+ more. She is THE greatest poetr=
+y of all possible Universes of all possible cycles of creation.</span></div=
+>
+<div><span></span> </div>
+<div><span></span> </div>
+<div><span>=
+-Regards</span></div>
+<div><span> Rajarshi</span></div>
+<div><i><b><b>=
+<span style=3D"FONT-FAMILY:Verdana;COLOR:navy;FONT-SIZE:10pt;"><font color=
+=3D"#000000" face=3D"Times New Roman"><b><span style=3D"COLOR:rgb(0,0,102);=
+"><span style=3D"FONT-SIZE:16px;"><font color=3D"#a2a2a2" size=3D"3"></font=
+></span></span></b></font></span></b></b></i> </div>
+<div><var></var>&=
+nbsp;</div>
+<div style=3D"FONT-FAMILY:times new roman, new york, times, ser=
+if;FONT-SIZE:12pt;">
+<div style=3D"FONT-FAMILY:times new roman, new york, t=
+imes, serif;FONT-SIZE:12pt;"><font face=3D"Arial">
+<div style=3D"FONT-SIZE:=
+0px;"></div><b><span style=3D"FONT-WEIGHT:bold;">From:</span></b> Srikanth =
+<<a rel=3D"nofollow" ymailto=3D"mailto:srikanthnetworked@..." targ=
+et=3D"_blank" href=3D"mailto:srikanthnetworked@...">srikanthnetworked=
+@...</a>><br><b><span style=3D"FONT-WEIGHT:bold;">To:</span></b> <=
+a rel=3D"nofollow" ymailto=3D"mailto:vedic-wisdom@yahoogroups.com" target=
+=3D"_blank" href=3D"mailto:vedic-wisdom@yahoogroups.com">vedic-wisdom@yahoo=
+groups.com</a> <br><b><span style=3D"FONT-WEIGHT:bold;">Sent:</span></b> We=
+dnesday, 21 December 2011 2:19 PM<br><b><span style=3D"FONT-WEIGHT:bold;">S=
+ubject:</span></b> Re: [vedic-wisdom] Re: Mahavidya experience<br></font>
+<=
+div>
+<div class=3D"yiv22887326h5"><br>
+<div>
+<div><span> </span> 
+<div=
+>
+<div>All,<br><br>If we take a Soumya (according to us) Devata like Sri La=
+lita Tripura Sundari, how do we correlate to the following verses from Lali=
+tha Sahasranaam:<br><br>" Pancha Pretasanasina, Panch Brahmaswarupini" The =
+one who sits on 4 corpses etc<br><br>and "Aparna Chandika Chanda Mundasura =
+Nishudini"<br><br>In my little sadhana I have done with Maha Vidyas, I foun=
+d that we are actually praying the spectrum and not the Specific Frequency =
+Band.<br><br>Soumya and Ugra are Gunas of human mind and are used by Mother=
+ like a toy when she wants and throws it away and she is beyond Gunas. <br>=
+<br>The dream you had could be your minds projection too or it could be you=
+r psyche which is getting adjusted to her mantra and best way is to approac=
+h MOTHER with Utmost Love and Respect. As you repeat her mantra your mind a=
+nd body will get adjusted to it. Please develop a personal relationship wit=
+h Maa and assume her in your heart with physical form and see the
+ magic.<b=
+r><br> I utterly fail to explain her POWER. She is indeed very powerfu=
+l and the results are immediate and your enlightenment is HER AIM too:-)<br=
+><br>thanks<br>Srikanth<br>
+<div>On Tue, Dec 20, 2011 at 7:59 AM, Narasimha=
+ PVR Rao <span dir=3D"ltr"><<a rel=3D"nofollow" ymailto=3D"mailto:pvr@ch=
+arter.net" target=3D"_blank" href=3D"mailto:pvr@...">pvr@...=
+t</a>></span> wrote:<br>
+<blockquote style=3D"BORDER-LEFT:rgb(204,204,20=
+4) 1px solid;"><u></u>
+<div style=3D"BACKGROUND-COLOR:rgb(255,255,255);"><s=
+pan> </span> 
+<div>
+<div>
+<div>
+<div>Namaste,<br><br>I am cc'ing this =
+mail to vedic-wisdom yahoogroup without revealing your <br>identity.<br><br=
+>Just for the record, I do not advise against Mahavidya worship at all. <br=
+>All I say is that recommending a particular Mahavidya based on horoscope <=
+br>is dicey and I am almost sure the standard principles are incorrect. <br=
+>Also, I suggest that Mahavidyas are much higher than what people have <br>=
+made them out to be. They bestow different aspects of Supreme Knowledge. <b=
+r>Worshipping them for winning a court case or getting a job (which many <b=
+r>people try to do today) is like trying to use a missile to crush an ant.<=
+br><br>Regarding your dream, it may be genuine or merely a projection of yo=
+ur <br>mind. Remember that mind is very powerful and projects various consc=
+ious <br>and sub-conscious conditioning as its experiences, especially in a=
+ <br>dream.<br><br>If you feel that the dream is a genuine experience of th=
+e devata, then <br>keep doing
+ the mantra and see what happens.<br><br>If y=
+ou had the same experience with another mahavidya, it is possible <br>that =
+your mind is just projecting. If your mind has affinity to a soumya <br>dev=
+ata with certain nature, it may imagine whichever devata you worship <br>to=
+ have that nature!<br><br>If your mind is imagining an Ugra devata as a ben=
+ign smiling form, <br>perhaps you should stick to a Soumya Devata. If the d=
+evata really gives <br>you a darshan in a fierce form, is your mind capable=
+ of handling it? If <br>your mind can visualize and perceive an Ugra Devata=
+ in a truly fierce <br>form and yet feel deep love and surrender for her, t=
+hen only you are <br>suitable for such a sadhana.<br><br>Good luck in your =
+sadhana!<br><br>Best regards,<br>Narasimha<br>-----------------------------=
+-----------------------------<br>Free Jyotish Software, Free Jyotish Lesson=
+s, Jyotish Writings,<br>"Do It Yourself" ritual manuals for short Homam and=
+ Pitri Tarpana:<br><a
+ rel=3D"nofollow" target=3D"_blank" href=3D"http://ww=
+w.vedicastrologer.org/">http://www.VedicAstrologer.org</a><br>Films that ma=
+ke a difference: <a rel=3D"nofollow" target=3D"_blank" href=3D"http://saras=
+watifilms.org/">http://SaraswatiFilms.org</a><br>Spirituality: <a rel=3D"no=
+follow" target=3D"_blank" href=3D"http://groups.yahoo.com/group/vedic-wisdo=
+m">http://groups.yahoo.com/group/vedic-wisdom</a><br>Jyotish writings: <a r=
+el=3D"nofollow" target=3D"_blank" href=3D"http://groups.yahoo.com/group/Jyo=
+tishWritings">http://groups.yahoo.com/group/JyotishWritings</a><br>Twitter =
+ID: @homam108<br>----------------------------------------------------------=
+<br><br>> Hello,<br>><br>> One of the Mahavidyas I got a mantra fr=
+om an astrologer and did it <br>> for 40 days, but with 5 days of<br>>=
+; sadhana, it's was so cool , but got a real vison in dream of what they <b=
+r>> call ugra devata , but Smiling<br>> at me??? What does that mean =
+since Mahavidya worship is NOT <br>>
+ recommended by
+ you. Should I do i=
+ntense<br>> worship of that devata?<br>><br>> Before this few year=
+s back I had somebody give same mahavidya mantra <br>> and did and got a=
+ very same<br>> experience,,,, what does this mean??<br>><br>> Can=
+ you please guide<br>><br>> <deleted><br></div></div>
+<div styl=
+e=3D"COLOR:rgb(255,255,255);"></div></div></div></div></blockquote></div><b=
+r></div></div></div><br><br></div></div></div></div></div></div></div>
+<div=
+ style=3D"COLOR:rgb(255,255,255);"></div></div></div></div></blockquote></d=
+iv><br></div></div></div>
+<br><br></div></div></div></div>
+
+    </div>
+    =
+ 
+
+
+
+</div>
+
+
+
+
+
+</div><br><br> </div> </div>  </div></body></html>
+---1486285689-101663794-1325431945=:52626--
+
+

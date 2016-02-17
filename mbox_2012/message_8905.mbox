@@ -1,0 +1,376 @@
+From aswinefy2003@...  Wed Feb 17 11:10:26 2016
+Return-Path: <aswinefy2003@...>
+X-Sender: aswinefy2003@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 31148 invoked from network); 31 Dec 2012 04:29:57 -0000
+X-Received: from unknown (98.137.34.46)
+  by m9.grp.sp2.yahoo.com with QMQP; 31 Dec 2012 04:29:57 -0000
+X-Received: from unknown (HELO nm26-vm6.bullet.mail.sg3.yahoo.com) (106.10.151.117)
+  by mta3.grp.sp2.yahoo.com with SMTP; 31 Dec 2012 04:29:56 -0000
+X-Received: from [106.10.166.117] by nm26.bullet.mail.sg3.yahoo.com with NNFMP; 31 Dec 2012 04:29:55 -0000
+X-Received: from [106.10.151.170] by tm6.bullet.mail.sg3.yahoo.com with NNFMP; 31 Dec 2012 04:29:55 -0000
+X-Received: from [127.0.0.1] by omp1010.mail.sg3.yahoo.com with NNFMP; 31 Dec 2012 04:29:55 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 356168.1502.bm@...
+X-Received: (qmail 54281 invoked by uid 60001); 31 Dec 2012 04:29:55 -0000
+X-YMail-OSG: dcE3YpUVM1mLTxYqcsCPRtzvJepY6e0fDh5gKFSwlRfC6Zk
+ 6hMiboR2thU6lXsVkLfOJbIzxDZ1GjkLnXA07qn5p9kgbbn0om2cdPHWhpAF
+ R7q9248yiT2lvitUtu95iD_DEKLxulU_MWPl2S3aDFmUBfHXM259WkH_plzC
+ RgcDViBBw9rmJcsR4RJAR2WRHcAWTeX.ZLuX4WdNYTPKSi1vbQsfMqfIU_iz
+ jEELYfir5FttDAxdQVn.3ZttH.dkoLWHamKux4ysvb7l4miSJSe.mLkwjGZT
+ 9cxmB.DBQ96cxnx1NgjDjBRoL6cL9_sdHJJmThlB2jZesUbXUS3tcn3UrDbY
+ P.DCedHw7BTQ_y5jWq_B4_DJVlxGF1k86WOlc.g2eGjjYWgHqB3pTNbvxKTg
+ fYp6QwwVMxj3FduiKSD7Q9XNDpAp6c9g80ZeRwMyQUTg5uGE3dLXDJcoBW2A
+ TbRyUiNCpWyBErXSofJTJOg8HJznHgeRfNVyN9VcYhrEPOjCdO3ddsRcMJ1R
+ umf3mbYtuoZAnvxpVwaPTcGkkKuyvNo5hOK4038CBhCrkllRfVSJ4eCXGiqd
+ pMMg35eYFQlF5tvcmfplsHvaFdqMyJd3O.eS_Dd49pr2fSD1qwU1mYSqmuQN
+ snfAH8CKqfhdh6E.OYUTnfSIkbHWEEbemhpx2520gpAjjn3laO_lOGFmK2g0
+ DJNKa7Xf3k3pQzKeQ8FO25O_Uz9.vWyfHAwQcummnhzAH7FUC.EyePNPgaGL
+ .JzZknVEP_4Q5I1PKjlo32IHWjTS3mMYpn9zu0rr1bktJ9k4ocpdVY5atlEn
+ CsL2T6vpdTdOZ24YxmbMjq13jLsV9pqPa9pgWo9R8.KZvz1dskmR5i6Hx0el
+ p7yU71IWzIVRZfNPmzGNYxP8lIRyQiYx5xpAVVX__TvYmTeN1eoV3Gn5xZsF
+ ibmY3o8UykLsWDGZPoFmZgQaJf_vl.oyZHMAJhWhPQEhJSVV0y0VC67rpCNr
+ n3CfRTIzreHqB8KKEjknVkJl_pmjfImo7eHGsL.llOTYDmAKa2OLuqJpd36L
+ t2xnRpxuBb6usDRhkZEacQaKM1csZi2bsKX.hNaA0e.3dnFyOcn4VDHIaLBg
+ EUnqWufrrTZz53fr1f8p1LjI1sQK3.oGEO7zCjadfuFYPaY_H58vtIKUPKkA
+ KRxZhveW.AxlEqcfdLOskigc1gnudW6MrthwV5UVX0DAuQa67l5iimRx5Krv
+ g5MAFX2HNzYBkRRb5PHYx2ZUxuIfg.RSDsMH0uVkRlgAJjwgE8WR1ZZZc9rB
+ HQqSAaAyYFkaW7dAc80LChzXimb9hYMWVPOnRaLS6bEwVx0dPEIBzLaLHCF2
+ 72PURWxunCsxNVgQmZir_.yr.RaxaP7HaldScXxNLkYqVsgfl_4q.KSciHav
+ CDeLURz4QqHSLfdvNsK_CGdk6xEnWlhbfHZahYKOGaqkk4RqPODUYRF7IKHw
+ XxbEOmXxfX4qFOkPUlE7O10zZg9YNtVdr.9X5_Q2_XEyxczO7xby2nl8is0g
+ S_gB6_ZT763NQc3y0VFmIB4qj0t6ZfFYwgy.NvelC8atrcALbCC_6TGWXhKP
+ IJ6wzLQ4L6vGeE7ry4SSVUTamPQ5hTarW22.uTbrCEfiQg2eIIWpQXFveb3s
+ Oj10YRuxHR2j5xhyzrsDXUB9Y4VQc7wf1xTp88JeJm9Hgs9ECCI0.EZfnEqQ
+ gvZeIRALXltnC5pDZxUPMaTAMuhRff0McbToG8s4ruvoH.YhEeBCHEIipsA1
+ _4u45LWPgxmK0Byfki7k0zko0SHw2e2uV_tDSIvcD35CPh5M6tBZ3W1HiW0o
+ QFCAX.EccDzxdLMN6dEIglba05MWpKvl5QudAhZQckzpUKi7TeXLugIQ0l_p
+ h68y34puthylsymcQ91EWMJ7yKTFGZGJTxL9hoXSgyPqjbgwxUX1AYJsCZqX
+ 5SP8MZnhEIkcL0IoNUBOIiA2e8gleDwm9vapFjBkL6WK1il6ggaH_4T0rjz3
+ 4vRA7mp7kAc2HnQSeyMdagGYb3_yr0SpIuuMSsTYK3bBLyrVZptqRrVtBfAe
+ NiRhnchcesrx9XxCdWpb9XgWrkXY2.TPHZYZixl67dlc8gyJHtlrF5.Ca6qO
+ T9tNVOno9sC8cAErDDE6n4kYR7ZhYH_cXCQ--
+X-Received: from [14.139.154.34] by web190905.mail.sg3.yahoo.com via HTTP; Mon, 31 Dec 2012 12:29:54 SGT
+X-Rocket-MIMEInfo: 001.001,SG93IGFibG91dCBwcm9ub3VuY2F0aW9uIG9mIE1TIHN1YmJ1bGFrc2htaWppDQoNCi0tLSBPbiBTdW4sIDMwLzEyLzEyLCBzcmlrYW50aF9zaGVub3lfayA8c2tzaGVub3lAZ21haWwuY29tPiB3cm90ZToNCg0KRnJvbTogc3Jpa2FudGhfc2hlbm95X2sgPHNrc2hlbm95QGdtYWlsLmNvbT4NClN1YmplY3Q6IFt2ZWRpYy13aXNkb21dIFJlOiBSZWNpdGluZyBWaXNobnVzYWhhc3JhbmFtYW0NClRvOiB2ZWRpYy13aXNkb21AeWFob29ncm91cHMuY29tDQpEYXRlOiBTdW5kYXksIDMwIERlY2VtYmVyLCAyMDEyLCABMAEBAQE-
+X-Mailer: YahooMailClassic/15.1.2 YahooMailWebService/0.8.129.483
+Message-ID: <1356928194.53902.YahooMailClassic@...>
+Date: Mon, 31 Dec 2012 12:29:54 +0800 (SGT)
+To: vedic-wisdom@yahoogroups.com
+In-Reply-To: <kbpt4l+s6vi@...>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="1004636618-1607636294-1356928194=:53902"
+X-Originating-IP: 106.10.151.117
+X-eGroups-Msg-Info: 1:12:0:0:0
+From: aswin kumar <aswinefy2003@...>
+Subject: Re: [vedic-wisdom] Re: Reciting Vishnusahasranamam
+X-Yahoo-Group-Post: member; u=158727580; y=22r4PBYGNLjgsqLcp9HaZTYG5T9LBVcC5tj0yr3JwQzdxArgzam5
+X-Yahoo-Profile: aswinefy2003
+
+
+--1004636618-1607636294-1356928194=:53902
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+How ablout pronouncation of MS subbulakshmiji
+
+--- On Sun, 30/12/12, srikan=
+th_shenoy_k <skshenoy@...> wrote:
+
+From: srikanth_shenoy_k <skshenoy@=
+gmail.com>
+Subject: [vedic-wisdom] Re: Reciting Vishnusahasranamam
+To: vedi=
+c-wisdom@yahoogroups.com
+Date: Sunday, 30 December, 2012, 10:50 PM
+
+
+
+
+
+
+
+
+=
+
+
+
+
+
+
+
+
+=C2=A0
+
+
+
+  
+
+
+    
+      
+      
+      Dear Ranga,
+
+
+
+One of the p=
+rimary factors is by focusing a bit on pronunciation as well. (Some say lea=
+ve it to God. But we do have to put our effort to get correct pronunciation=
+. God helps thos who help themselves)
+
+
+
+Rendering of Vishnu Sahasra Nama b=
+y Challakere Brothers sounds very right. You can get it here
+
+
+
+http://www.=
+kannadaaudio.com/Songs/Devotional/home/MantraroopiMahaVishnu-ChallakereBrot=
+hers.php
+
+
+
+Also the idea of any Sahasra nama/ashtottara shatanama is to ru=
+minate over the qualities of Vishnu thus creating a flowing meditation of a=
+ttributes of that deity. For that to happen, one has to be able to recite f=
+rom memory effortlessly. Needless to say this generally takes quite long ti=
+me. But one has to start somewhere. Isnt it?
+
+
+
+Regards,
+
+Srikanth
+
+
+
+--- I=
+n vedic-wisdom@yahoogroups.com, "Ranga Nambakam" <ranga_nambakam2000@...> w=
+rote:
+
+>
+
+> Is there a "proper" or a "correct" way to recite Vishnusahasran=
+amam?
+
+> 
+
+> Some people play the CD while doing their daily chores and oth=
+ers sit at a place and read aloud or silently in concentration as the CD pl=
+ays. Yet others recite it from memory.
+
+> 
+
+> What is the most "effective" =
+way?
+
+> 
+
+> Thanks
+
+> Ranga
+
+> 
+
+> 
+
+> 
+
+> --- In vedic-wisdom@yahoogroups.=
+com, Priya M <prm7782@> wrote:
+
+> >
+
+> > Hi Priyank, how are you...thanks=
+=C3=82=C2=A0for saying this.
+
+> > =C3=82=C2=A0
+
+> > A country(India) which =
+was ruled by Rama is now being ruled by not one by many Ravanas. Many of us=
+ are lucky to=C3=82=C2=A0be settled abroad...but=C3=82=C2=A0heart inside po=
+urs out for those innocent beings in India.=C3=82=C2=A0
+
+> > Least we all c=
+an do is=C3=82=C2=A0chant VSS, atleast once a day...
+
+> > =C3=82=C2=A0
+
+> >=
+ I also=C3=82=C2=A0request PVR garu if you could post some messages about t=
+he benefits of chanting VSS and encourage people to do more=C3=82=C2=A0Vish=
+nu homam=C3=82=C2=A0for justice and peace=C3=82=C2=A0to reign...
+
+> > Also =
+wondering seeing the present situation=C3=82=C2=A0do you see any premonitio=
+ns=C3=82=C2=A0for our country in the coming years? 
+
+> > =C3=82=C2=A0
+
+> > =
+Regards,
+
+> > Priya=C3=82=C2=A0 
+
+> >
+
+>
+
+
+
+
+
+    
+     
+
+    
+    
+
+
+
+
+
+
+ =
+ 
+
+
+
+
+
+
+
+
+
+--1004636618-1607636294-1356928194=:53902
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<table cellspacing=3D"0" cellpadding=3D"0" border=3D"0" ><tr><td valign=3D"=
+top" style=3D"font: inherit;">How ablout pronouncation of MS subbulakshmiji=
+<br><br>--- On <b>Sun, 30/12/12, srikanth_shenoy_k <i><skshenoy@...=
+m></i></b> wrote:<br><blockquote style=3D"border-left: 2px solid rgb(16,=
+ 16, 255); margin-left: 5px; padding-left: 5px;"><br>From: srikanth_shenoy_=
+k <skshenoy@...><br>Subject: [vedic-wisdom] Re: Reciting Vishnu=
+sahasranamam<br>To: vedic-wisdom@yahoogroups.com<br>Date: Sunday, 30 Decemb=
+er, 2012, 10:50 PM<br><br><div id=3D"yiv1860547801">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div>
+<sp=
+an style=3D"display:none;"> </span>
+
+
+
+    <div id=3D"yiv1860547801ygr=
+p-text">
+      
+      
+      <p>Dear Ranga,<br>
+<br>
+One of the primary fac=
+tors is by focusing a bit on pronunciation as well. (Some say leave it to G=
+od. But we do have to put our effort to get correct pronunciation. God help=
+s thos who help themselves)<br>
+<br>
+Rendering of Vishnu Sahasra Nama by Ch=
+allakere Brothers sounds very right. You can get it here<br>
+<br>
+<a rel=3D=
+"nofollow" target=3D"_blank" href=3D"http://www.kannadaaudio.com/Songs/Devo=
+tional/home/MantraroopiMahaVishnu-ChallakereBrothers.php">http://www.kannad=
+aaudio.com/Songs/Devotional/home/MantraroopiMahaVishnu-ChallakereBrothers.p=
+hp</a><br>
+<br>
+Also the idea of any Sahasra nama/ashtottara shatanama is t=
+o ruminate over the qualities of Vishnu thus creating a flowing meditation =
+of attributes of that deity. For that to happen, one has to be able to reci=
+te from memory effortlessly. Needless to say this generally takes quite lon=
+g time. But one has to start somewhere. Isnt it?<br>
+<br>
+Regards,<br>
+Srik=
+anth<br>
+<br>
+--- In <a rel=3D"nofollow" ymailto=3D"mailto:vedic-wisdom%40y=
+ahoogroups.com" target=3D"_blank" href=3D"/mc/compose?to=3Dvedic-wisdom%40y=
+ahoogroups.com">vedic-wisdom@yahoogroups.com</a>, "Ranga Nambakam" <rang=
+a_nambakam2000@...> wrote:<br>
+><br>
+> Is there a "proper" or a "c=
+orrect" way to recite Vishnusahasranamam?<br>
+> <br>
+> Some people pl=
+ay the CD while doing their daily chores and others sit at a place and read=
+ aloud or silently in concentration as the CD plays. Yet others recite it f=
+rom memory.<br>
+> <br>
+> What is the most "effective" way?<br>
+> <=
+br>
+> Thanks<br>
+> Ranga<br>
+> <br>
+> <br>
+> <br>
+> --- I=
+n <a rel=3D"nofollow" ymailto=3D"mailto:vedic-wisdom%40yahoogroups.com" tar=
+get=3D"_blank" href=3D"/mc/compose?to=3Dvedic-wisdom%40yahoogroups.com">ved=
+ic-wisdom@yahoogroups.com</a>, Priya M <prm7782@> wrote:<br>
+> >=
+;<br>
+> > Hi Priyank, how are you...thanks=C3=82 for saying this=
+.<br>
+> > =C3=82 <br>
+> > A country(India) which was ruled=
+ by Rama is now being ruled by not one by many Ravanas. Many of us are luck=
+y to=C3=82 be settled abroad...but=C3=82 heart inside pours out f=
+or those innocent beings in India.=C3=82 <br>
+> > Least we all c=
+an do is=C3=82 chant VSS, atleast once a day...<br>
+> > =C3=82&n=
+bsp;<br>
+> > I also=C3=82 request PVR garu if you could post som=
+e messages about the benefits of chanting VSS and encourage people to do mo=
+re=C3=82 Vishnu homam=C3=82 for justice and peace=C3=82 to r=
+eign...<br>
+> > Also wondering seeing the present situation=C3=82&nbs=
+p;do you see any premonitions=C3=82 for our country in the coming year=
+s? <br>
+> > =C3=82 <br>
+> > Regards,<br>
+> > Priya=
+=C3=82  <br>
+> ><br>
+><br>
+<br>
+</p>
+
+    </div>
+     
+
+
+
+</d=
+iv>
+
+
+
+
+
+</div></blockquote></td></tr></table>
+--1004636618-1607636294-1356928194=:53902--
+
+

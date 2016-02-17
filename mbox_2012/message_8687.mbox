@@ -1,0 +1,309 @@
+From rajarshi14@...  Wed Feb 17 11:10:22 2016
+Return-Path: <rajarshi14@...>
+X-Sender: rajarshi14@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 39598 invoked from network); 17 Sep 2012 19:27:56 -0000
+X-Received: from unknown (98.137.34.44)
+  by m2.grp.sp2.yahoo.com with QMQP; 17 Sep 2012 19:27:56 -0000
+X-Received: from unknown (HELO nm29-vm4.bullet.mail.sg3.yahoo.com) (106.10.151.163)
+  by mta1.grp.sp2.yahoo.com with SMTP; 17 Sep 2012 19:27:55 -0000
+X-Received: from [106.10.166.126] by nm29.bullet.mail.sg3.yahoo.com with NNFMP; 17 Sep 2012 19:27:54 -0000
+X-Received: from [106.10.151.239] by tm15.bullet.mail.sg3.yahoo.com with NNFMP; 17 Sep 2012 19:27:54 -0000
+X-Received: from [127.0.0.1] by omp1023.mail.sg3.yahoo.com with NNFMP; 17 Sep 2012 19:27:54 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 238763.10376.bm@...
+X-Received: (qmail 53179 invoked by uid 60001); 17 Sep 2012 19:27:54 -0000
+X-YMail-OSG: cCntsQIVM1mkOY0i5hQg80V7_b1nNavRdF.loFl411RXde4
+ hd36pd6prUSCKk6VRtHkNk.Ufx6q1mvnTdcZ6qoNOi0WI_ORfwou859USXVI
+ Q1HQwEroeUjRh8hxQYk4M.D0UyZZN.AgEMLroI5L5VSW_G6ZTRBpnXTc6FJZ
+ nEP5mcNr.feSgB4a4LkUEfktvix_qPyGp.Leu9nAKXOSdcygupDRlBm3PKB7
+ St7MwM_cwid2i3uxxcFMAva5ClMBpNVq7PDF7VqEt_6bGOuZcUMZjx.iKhLp
+ seO4QIO.TGXUTLQi425EpBuIZKBuuuRqRy4UCDdfiofBg4GmMqw6QEFEFdn_
+ LA.3MV6QpZ2988XWMhtO304KLEaZbCeBUjcB_vV_O4uQMrHfMvkmk1Y3fjlT
+ cLUUW_4GlhGno1TCEaNmbojo4VW0PRirSOU8hA64XnE7baOsfPR5t.q9WtW0
+ EpJrHgWr2ZWyEqP0tmjzrkQGPxgsZlaPF8SAt.x0JcVNBg4v9UI1D5.DJeT_
+ zDs2_F1Q5O0dg9nAshRj6FFiaDOY6THXjrhOz8Tjt_chpcMy25bfmIAEv_BB
+ BuwTu2MNCutha0T.nhNQHg6uucrBq5CdYBIrwFM6299HRS99JfZQhs7d_42Y
+ ScwFIKMagZG_21oVeYrDbAZAE0qgQb4HGogHz4XpUqg_KtXdQrCANRnmYZYw
+ j46wobYbHbIgXIxTqU6jXgk1Wi0RCaMxssU0EpfV.DRQcelXV3wcKA5PWNA5
+ mz5Xfua6If1uwxcsTYBdCFml.aDQm68r9Z7QdEtfhGtCwopYYawuolkKqTSV
+ payu4QWzI9b.L6vd1GjMbmJUdW9OlDvcXjO26UOZArlXbGMftJNJTwHUMOka
+ nifydJXCR_EtWnV.TqVoqmmJyGG2YHNscEt5Ff8qq_Qi_uSOUwMqUO5Eu3Ri
+ ZvR0myVVWOrr37tpK5EVcHnmcaJ7OCtgqmOPGSG7SBHOk0h9HNRA1Ux3o0.Q
+ cYfhzSHEMOMyAW3twmLoJJii.JDxGEujqJWedwWikKxXlO8OOA_zShznOEog
+ XX3l1njNIFlVnncjqgk1Tflr6x.maXb1rqqkji4m3krOMkcc5u64NOxU116o
+ rMXMz2W4ufh2VTjFv2.Pf92sqeByFI2bPbD39Pla8zSfIM5kiQqOKPzs1cn1
+ e.wRDpgjmWHVd2XGTDSE7xVhCYhOOkfUB_oNRmkn48UxOlhLtPjPGe8MlXu8
+ hEU5bOYRCB3kKFMpnTxmzeQB.Te3pU5ungvIBh0KUR3JIKVyeoECVE9YWbfU
+ GyJm9AoErvr0Fiw1qls6bGy7CNhlCxRFf4uWMsnPvQFBU43EWM69P3jVmewK
+ Ga1gF2M1ZQmrYfBQSa3Uwp1236dN4WXZj5ocDNSEdMPKfsZx5DtYvTHJnTaG
+ HtE2_i_CZIIz1IYQSDno7FXdnN5dNqF6_PPC4e0xjigBTpvKXMaz.KxbHEMl
+ 27Q0QmKYJgG6RgaN.is_DXnUOnSvWXy5ObWuOMeMLClUYHjJJCM1IaOsm6CV
+ 1HaCiFW.z9vQGX20WABoWTaVrD_6xFT7IUrsu_TPNUBjMra8HI11ELTYJKlH
+ j2H6tOQEsdAK6VHXpuQLKRYithiWQ7nnv5JnjAWXZEnT.gAxlhPlbLcNuvqy
+ 7D9xvl_hBNV1Xj7awa.z.yxXW03P.j0H.XdrMFCFrZ63Zo288wlkqfK39MQu
+ Z4wh4zG0DL8LILzQ_imH310wVbB1LW0DZZt38jPmGNmoX0jgdmdDwK9i.tU5
+ UIpXSAl9OmILOD.VJYgueQ7vuHkr5M5bb51kZNyoiIJmFKUw1cVUHpIp.u3f
+ wUn7SwfMvekhOAsfVxoG_bVJYjzl7lIrsIhynoBMv6AnoGA2hgs4MI5_X5jz
+ j2Yucak0SmE_gWT_XW7M.IC7kVmErmXFZXN7rHiuMQxucEXaFzVhn1bL63sY
+ 3aF_96vXmpAPAVhCSH0RrlLyAh.ODzFPwvteoP9aoRopPJj2rIs0-
+X-Received: from [115.241.185.60] by web190901.mail.sg3.yahoo.com via HTTP; Tue, 18 Sep 2012 03:27:53 SGT
+X-Mailer: YahooMailWebService/0.8.121.416
+References: <k363q5+5etq@...>
+Message-ID: <1347910073.43198.YahooMailNeo@...>
+Date: Tue, 18 Sep 2012 03:27:53 +0800 (SGT)
+To: "vedic-wisdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com>
+In-Reply-To: <k363q5+5etq@...>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="701135548-338404252-1347910073=:43198"
+X-Originating-IP: 106.10.151.163
+X-eGroups-Msg-Info: 1:12:0:0:0
+From: rajarshi nandy <rajarshi14@...>
+Reply-To: rajarshi nandy <rajarshi14@...>
+Subject: Re: [vedic-wisdom] avatAr, rishi, jnAni and yOgi
+X-Yahoo-Group-Post: member; u=216162964; y=BVLLpifDCFFqlnc4snfoX1m9xnVV_L4nX6w75C5bO9Ca066dmw
+X-Yahoo-Profile: rajarshi14
+
+
+--701135548-338404252-1347910073=:43198
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+
+
+=C2=A0Namaste,
+
+I have a slightly different view. Aham Brahmasmi - the fa=
+mous Mahavakya is true, but with riders. One can become God in essence, but=
+ never in Power. And that makes a difference. Just like a water in a glass =
+and water in the ocean may have the same fundamental chemical composition -=
+ H2O - but the water in a glass cannot create a Tsunami, nor support a whol=
+e wide and complex ecosystem of organisms from microscopic to the gigantic,=
+ like an ocean does. That is a big difference.
+
+A man through penances can =
+eventually become a man of god, or godly, not never God. This viewpoint exp=
+lains why for example Krishna is an Avatara, and considered a perfection pe=
+rsonified incarnation of God. 
+
+Ramakrishna used to say, everybody is the D=
+ivine Mother's essence, but not every one has the same amount of Shakti fro=
+m the Divine Mother! He made this statement when he met a great reformist I=
+shwar Chandra Vidyasagar.
+
+-Regards
+=C2=A0Rajarshi
+
+
+awaktam wyaktimApannam=
+ manyantE mAmabuddhayah |
+param bhAwamajAnanto mamAwyayamanuttamam ||[7:24]=
+
+
+
+________________________________
+ From: vvootla <vvootla@...>
+To: =
+vedic-wisdom@yahoogroups.com 
+Sent: Monday, 17 September 2012 8:31 AM
+Subje=
+ct: [vedic-wisdom] avatAr, rishi, jnAni and yOgi
+ 
+
+=C2=A0 
+||| aum namO bh=
+agavathE vAsudEvAya |||
+
+Namaste all,
+
+Recently, I was party to a conversat=
+ion regarding an avatAr's supremacy over rishi and yOgi/jnAni. My mental af=
+filiations are closer to the yOga and advaita-vEdAnta philosophies (needles=
+s to mention, the way I understand them). So far, based on my affiliations =
+and understanding, I'm of the opinion that a Realized Being (however he may=
+ have realized) is Divine in all its absoluteness (i.e. nothing distinguish=
+es them from The Divinity). The way I understand 'tat tvam asi', mOksha, At=
+ma sAkshAtkAra, yOga, kaivalya, nirvANa etc. 
+
+While their prarabdha may ha=
+ve been different, once they are realized there is nothing that distinguish=
+es them from what we call the Ultimate Divinity. So by logical extension, a=
+n avatAr is just the re-incarnation of any Realized Being irrespective of t=
+hat Being having attained to the Highest in 1 life, 10 lives, 100 lives or =
+even a billion lives. Once they are Realized, their coming back in a future=
+ life is based on absolute free will and not by kArmic vAsanAs that draw th=
+em to a womb. In a nutshell, I saw no reason to distinguish between Divine =
+Descending (as an avatAr) vs. Man Ascending (as a Realized Being). I was al=
+so forceful in the conversation that the entire Manifest Existence is Divin=
+e Descending and used that rationale to further fortify my position that if=
+ we discount effects of prArabdha/sanchita, a Human Ascended yOgi/jnAni can=
+(if willing) be as omnipotent/omniscient as a Divine Descended avatAr. The =
+conversation ended with not much
+ conclusion. 
+
+The last few days, I had be=
+en revisiting this within myself a few times - specifically the rationale f=
+or such classification in the below three eras. I'd like to hear from the m=
+embers on this forum regarding their understanding of an avatAr, rishi, jnA=
+ni/yOgi etc. Please do mention the 'religious/spiritual tradition' you subs=
+cribe to, if possible. 
+
+Ramayana Era - rAma/paraSu rAma (avatAr), vaSishTa=
+/viSvAmitra/agastya (rishis), janaka/ashtAvakra/yAjnavalkya/rishyaSringa (j=
+nAnis/yOgis)
+
+Mahabharata Era - Krishna (avatAr), parASarA/vyAsa/Suka/paraS=
+urAma (rishis), dharma vyadha(jnAni)
+
+20th Century - Shirdi Sai (avatAr), r=
+amaNa(rishi), rAma krishna(yOgi), Jiddu Krishnamurthi (jnAni)
+
+Regards,
+-Pr=
+asad
+
+PS: I did ignore all bhaktas and many others who could fall in the ab=
+ove categories. I just quoted one/two in each as that suffices the subject =
+of the discussion. Please don't take the discussion towards why some one el=
+se not mentioned here is or is not an avatAr/rishi/jnAi/yOgi etc. 
+
+
+ 
+--701135548-338404252-1347910073=:43198
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"color:#000; background-color:#fff; font-family:ti=
+mes new roman, new york, times, serif;font-size:12pt"><div><span><br></span=
+></div><div> Namaste,<br><br>I have a slightly different view. Aham Br=
+ahmasmi - the famous Mahavakya is true, but with riders. One can become God=
+ in essence, but never in Power. And that makes a difference. Just like a w=
+ater in a glass and water in the ocean may have the same fundamental chemic=
+al composition - H2O - but the water in a glass cannot create a Tsunami, no=
+r support a whole wide and complex ecosystem of organisms from microscopic =
+to the gigantic, like an ocean does. That is a big difference.<br><br>A man=
+ through penances can eventually become a man of god, or godly, not never G=
+od. This viewpoint explains why for example Krishna is an Avatara, and cons=
+idered a perfection personified incarnation of God. <br><br>Ramakrishna use=
+d to say, everybody is the Divine Mother's essence, but not every one
+ has =
+the same amount of Shakti from the Divine Mother! He made this statement wh=
+en he met a great reformist Ishwar Chandra Vidyasagar.<br><br>-Regards<br>&=
+nbsp;Rajarshi<br></div><div><br></div><div><i><b><div class=3D"MsoNormal"><=
+b><span class=3D"Apple-style-span" style=3D"font-size:16px;"><b><span class=
+=3D"Apple-style-span" style=3D"color:rgb(153, 153, 153);"></span></b></span=
+></b><span class=3D"yui_3_2_0_2_134243527249950" style=3D"font-family:times=
+ new roman, new york, times, serif;">awaktam wyaktimApannam manyantE mAmabu=
+ddhayah |</span><br><b><span class=3D"yui_3_2_0_2_134243506227946 yui_3_2_0=
+_2_134243527249952 yui_3_2_0_24_134790552874086" style=3D"FONT-SIZE:10pt;CO=
+LOR:navy;FONT-FAMILY:Verdana;"><font color=3D"#000000" face=3D"Times New Ro=
+man"><div><div> param bhAwamajAnanto mamAwyayamanuttamam ||[7:24]</div></di=
+v></font></span></b></div></b></i></div><div><br></div>  <div style=3D"font=
+-family: times new roman, new york, times, serif; font-size: 12pt;"> <div
+ =
+style=3D"font-family: times new roman, new york, times, serif; font-size: 1=
+2pt;"> <div dir=3D"ltr"> <font face=3D"Arial" size=3D"2"> <hr size=3D"1">  =
+<b><span style=3D"font-weight:bold;">From:</span></b> vvootla <vvootla@g=
+mail.com><br> <b><span style=3D"font-weight: bold;">To:</span></b> vedic=
+-wisdom@yahoogroups.com <br> <b><span style=3D"font-weight: bold;">Sent:</s=
+pan></b> Monday, 17 September 2012 8:31 AM<br> <b><span style=3D"font-weigh=
+t: bold;">Subject:</span></b> [vedic-wisdom] avatAr, rishi, jnAni and yOgi<=
+br> </font> </div> <br><div id=3D"yiv1995159188">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div>
+<span =
+style=3D"display:none;"> </span>
+
+
+
+    <div id=3D"yiv1995159188ygrp-t=
+ext">
+      
+      
+      <div>||| aum namO bhagavathE vAsudEvAya |||<br>
+<=
+br>
+Namaste all,<br>
+<br>
+Recently, I was party to a conversation regarding=
+ an avatAr's supremacy over rishi and yOgi/jnAni. My mental affiliations ar=
+e closer to the yOga and advaita-vEdAnta philosophies (needless to mention,=
+ the way I understand them). So far, based on my affiliations and understan=
+ding, I'm of the opinion that a Realized Being (however he may have realize=
+d) is Divine in all its absoluteness (i.e. nothing distinguishes them from =
+The Divinity). The way I understand 'tat tvam asi', mOksha, Atma sAkshAtkAr=
+a, yOga, kaivalya, nirvANa etc. <br>
+<br>
+While their prarabdha may have be=
+en different, once they are realized there is nothing that distinguishes th=
+em from what we call the Ultimate Divinity. So by logical extension, an ava=
+tAr is just the re-incarnation of any Realized Being irrespective of that B=
+eing having attained to the Highest in 1 life, 10 lives, 100 lives or even =
+a billion lives. Once they are Realized, their coming back in a future life=
+ is based on absolute free will and not by kArmic vAsanAs that draw them to=
+ a womb. In a nutshell, I saw no reason to distinguish between Divine Desce=
+nding (as an avatAr) vs. Man Ascending (as a Realized Being). I was also fo=
+rceful in the conversation that the entire Manifest Existence is Divine Des=
+cending and used that rationale to further fortify my position that if we d=
+iscount effects of prArabdha/sanchita, a Human Ascended yOgi/jnAni can(if w=
+illing) be as omnipotent/omniscient as a Divine Descended avatAr. The conve=
+rsation ended with not much
+ conclusion. <br>
+<br>
+The last few days, I had=
+ been revisiting this within myself a few times - specifically the rational=
+e for such classification in the below three eras. I'd like to hear from th=
+e members on this forum regarding their understanding of an avatAr, rishi, =
+jnAni/yOgi etc. Please do mention the 'religious/spiritual tradition' you s=
+ubscribe to, if possible. <br>
+<br>
+Ramayana Era - rAma/paraSu rAma (avatAr=
+), vaSishTa/viSvAmitra/agastya (rishis), janaka/ashtAvakra/yAjnavalkya/rish=
+yaSringa (jnAnis/yOgis)<br>
+<br>
+Mahabharata Era - Krishna (avatAr), parASa=
+rA/vyAsa/Suka/paraSurAma (rishis), dharma vyadha(jnAni)<br>
+<br>
+20th Centu=
+ry - Shirdi Sai (avatAr), ramaNa(rishi), rAma krishna(yOgi), Jiddu Krishnam=
+urthi (jnAni)<br>
+<br>
+Regards,<br>
+-Prasad<br>
+<br>
+PS: I did ignore all b=
+haktas and many others who could fall in the above categories. I just quote=
+d one/two in each as that suffices the subject of the discussion. Please do=
+n't take the discussion towards why some one else not mentioned here is or =
+is not an avatAr/rishi/jnAi/yOgi etc. <br>
+<br>
+</div>
+
+    </div>
+     
+
+
+=
+
+</div>
+
+
+
+
+
+</div><br><br> </div> </div>  </div></body></html>
+--701135548-338404252-1347910073=:43198--
+
+

@@ -1,0 +1,285 @@
+From rajarshi14@...  Wed Feb 17 11:10:07 2016
+Return-Path: <rajarshi14@...>
+X-Sender: rajarshi14@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 39859 invoked from network); 25 Feb 2012 09:16:37 -0000
+X-Received: from unknown (98.137.34.46)
+  by m10.grp.sp2.yahoo.com with QMQP; 25 Feb 2012 09:16:37 -0000
+X-Received: from unknown (HELO nm3-vm0.bullet.mail.in.yahoo.com) (121.101.151.212)
+  by mta3.grp.sp2.yahoo.com with SMTP; 25 Feb 2012 09:16:35 -0000
+X-Received: from [121.101.151.238] by nm3.bullet.mail.in.yahoo.com with NNFMP; 25 Feb 2012 09:16:34 -0000
+X-Received: from [121.101.151.234] by tm3.bullet.mail.in.yahoo.com with NNFMP; 25 Feb 2012 09:18:49 -0000
+X-Received: from [127.0.0.1] by omp1003.mail.in.yahoo.com with NNFMP; 25 Feb 2012 09:18:42 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 202456.68112.bm@...
+X-Received: (qmail 96191 invoked by uid 60001); 25 Feb 2012 09:16:34 -0000
+X-YMail-OSG: HXavsAUVM1ltw7zmky0fx3krYMlB3BuduP7PMX7bkzC1z0O
+ Mi1hbF1tc39NGTIB18d4CFhmV9eVw7f6xjzKGrLN7z_tsW54sGetEmXleuKj
+ XUVWVTMNeNcYWshY5SXb.P0fEpwZyEzv9pPhIA4EuGG0YgySKIJ8b6ffyBrs
+ VfZQ799ExcjTokZLu7T_xUVx6pFsLRFmU6l5IC5d8WwMRsL8GxvqClZn7fX2
+ m73sUx8YEmnEAVBowxmY0uq8R7TMRLP58yYC6VgtEj2Z5FgnIJxmXUv9ExSp
+ uV3pb5gH.hU_4J18F7kcYRo.GPaGIkRj1W4KnyiIPXWl_nkzzh7KcDhTkTE.
+ z2WQ4qb6JWLKfFQDYJt9N56PvajXLDF00gPVbtYSiMPlj4XEJpFpwj_JDa27
+ gzpESy5dm4B9aXHdCVsNf7QQfzeZucKrCWVWhzCqD5CNxr6xsJKORNLOvEEx
+ HuRxzU8DGVngJF2.LFUd7vOeQntDoUB76hBDm97P5dxEhs99RkLUxLaS2MTb
+ 2U_YyeToe31TtgKRFq2eDwyV8kK5yDF1A6CZ0aNP3EuzbAR41Na7X4SMYTvw
+ imOWlk84ANvs3nhC26ppeweh.yFY.CMxSsazsMEgkOfD9Da5gPS0Athv4H6e
+ YTZYJkoPMBnHHuCm8hpjXZ4eHRDQk6jOdz.Zn37KsttBi9SZuNk3zBcTDDgm
+ PoJ.Ky1crTcow2BtmJSunIPss_vGmDMR2yNFWI4LUEa8JeBPydeEy7RRYxaI
+ GTxKIv9aZWm79XgTFNq9.FwG0pgi0JDkTWAwiFZchIXq3fbiB9DnHjRPchHA
+ ZR2diZ33qGkIzYUjLnQ21S4Q7BKRv1gmbu3iy8_VGJAUkkBLcai31SemdWlV
+ AZ.ljAHpC3XybH1P2IvY1U1dF5kEvne8go4E2Z6DdOdVh4FYlS6U4ZImSBLn
+ KIDppTXotLZZq.4QNqXiU..8xVZ6wkIJ2PjAlEX48IN_nR.IvNcrFFrgViMc
+ sJ.uzE1fmXbvtBPdTmEjiX0VoaHKj7Y5YVFpyqHoxmkbzrxXepCTcV_CWHz9
+ jXGEbWR6WKwPEPjCojGyru37DoyXvnP3sbl5C_RUgwxG64qAH3M0K1aL_pSh
+ j53qgkFakCdCtdIM.KoMpjmyO5t6FdgUt7AxW3_0CSl3I55._72cTecFQZAN
+ _TYT5EK2LGz3x6nB4Ai1sqGGdaldrX.imGbcG1byFTwEcQ6y8eC1OFj_QKtF
+ Zf0qhdqvAzJKKFqIXkI2xg9M5TJKDEmpBC4cCNkSxwu9FcU9_r8HTGZb..id
+ 6VepyhmKyBoY9WoWioa.Eds6uKYzBwEe6wZduzho7PLMaGPj3NqLfPY6ypR9
+ 45XSt9CJL5524jAUlraw0H9S6vGQMrmmBcMh4hnX_rsqrIp1skdbcPVB3hrC
+ dl.gSsL5uGaeWd7Rn.Z45F0zTCY37Ftfhj.BZszZLNKw4FFQfF6oFRon4awr
+ wPVCHJcrmn1dXameRZxgFsqsWLsXkVcSso6rZ3wwBowRUPqgk5RcRTjLWGqZ
+ tTzEkm7h7KMIXOYHc01eZALqedLiFsjj_jDLrWtRcAcz_UxMvgUPmlSnQoP1
+ 6LBNXUvMyBwn38yQsjOQVazNT891Ilziz46TzWY_13KedROcfdImhoc3OI1n
+ TtUdkt.IylhsSXjiHd5PmuXwMptPsajq.qw6q_ouFgITx1Fo6FS3tJB30DCD
+ GPQtb77e_en3Lb_xtU_HjmyqFs1NiNRg0JaUkpB.1GnjDu6OqygpcFPS.lGX
+ 6kGlGRY15wNTIqGdQxt7GYrkjFvqkehjXBD4XGpixIjXqMpp6fAQV4UoUm4r
+ iKXmdMX1utOTq8uW_6ZV1g9TJzo9nKJkQwLLHCjcUrjhe1icnToOman5hzux
+ bBov4dTYPKFAJjp4QEaZMEmfJsoZKzFLfanun9fBCagk9q5VJH_9LrFFtelU
+ OYw--
+X-Received: from [101.63.221.121] by web95512.mail.in.yahoo.com via HTTP; Sat, 25 Feb 2012 14:46:33 IST
+X-Mailer: YahooMailWebService/0.8.116.338427
+References: <4c98118b.2f8b66.1359148f34e.Webtop.46@...> <CAJY401UVc=zaWQDHgr8GkeW91OJQMMe9KFDZTqhjS0dH8BEUgQ@...>
+Message-ID: <1330161393.95645.YahooMailNeo@...>
+Date: Sat, 25 Feb 2012 14:46:33 +0530 (IST)
+To: "vedic-wisdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com>
+In-Reply-To: <CAJY401UVc=zaWQDHgr8GkeW91OJQMMe9KFDZTqhjS0dH8BEUgQ@...>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="804020959-644249783-1330161393=:95645"
+X-Originating-IP: 121.101.151.212
+X-eGroups-Msg-Info: 1:12:0:0:0
+From: rajarshi nandy <rajarshi14@...>
+Reply-To: rajarshi nandy <rajarshi14@...>
+Subject: Re: [vedic-wisdom] Wasting Food - Symbolism/Tantra
+X-Yahoo-Group-Post: member; u=216162964; y=S8moAGR3Cki0C1zgV4V9TUzQlJHN7vGjF8vmWFmdHb_tGiySqg
+X-Yahoo-Profile: rajarshi14
+
+
+--804020959-644249783-1330161393=:95645
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Namaste,
+=C2=A0
+In any ritual that involves establishing a kalasha, the pri=
+me philosophy is that the kalasha is representative of the mind of the indi=
+vidual. The rice represents the body. The kalasha is thus placed on the ric=
+e to act as a symbol of the mind in the=C2=A0body, and then the process of =
+the ritual is followed to invoke certain energies/principles in the kalasha=
+/mind of the devotee. In Navaratri kalasha the we ask the Goddess to fill t=
+he mind with shakti needed for the whole year. In SatyaNarayana Puja, we as=
+k the Lord of Truth to establish the mind firmly in its perception of truth=
+(s) - from the lower apparent truths to higher eternal ones. Rice is almost=
+ always used as a representative of the body. In my opinion, instead of ric=
+e if you use mud from a river bank, that too will work. But rice has some o=
+ther effects which mud will not produce.
+=C2=A0
+IF done accurately by a per=
+son with good focus and some shakti, using rice in any ritual will augment =
+all that is good for the body - which is a compound *mostly* of the earth a=
+nd water element - and thus increase and attract prosperity of the material=
+ kind. 
+=C2=A0
+Every part of=C2=A0any ritual is a confluence of symbolisms.=
+ Activating the symbolism to produce verifiable result is a part of Tantra.=
+ Rice can bring prosperity, til can download karmas faster, lime can break =
+down negatives (if used correctly), honey can increase a feeling of interna=
+l=C2=A0satisfaction, alcohol can make shakti rise at a furiously fast pace,=
+ IF and ONLY IF, used by the right person in the right ritual, else disaste=
+r.
+=C2=A0
+Similarly different animals have different symbolisms in=C2=A0 pr=
+actical Tantra. A dog represents one level of divine guidance, a cow repres=
+ents material prosperity, a pig represents the ability to survive through t=
+hick and thin, a snake (depending on the ritual) can represent both etherea=
+l beings of a lower plane to Shaktis of the highest order. A jackal represe=
+nts some of the most interesting forms of the Goddess -=C2=A0very rare for =
+most people.
+=C2=A0
+So that is why, IMO, rice is used as the base on which =
+the kalasha is established.
+=C2=A0
+-Regards
+=C2=A0Rajarshi
+=C2=A0
+=C2=A0
+
+_=
+_______________________________
+From: Ajit Krishnan <ajit.krishnan@...=
+m>
+To: vedic-wisdom@yahoogroups.com 
+Sent: Friday, 24 February 2012 10:52 P=
+M
+Subject: Re: [vedic-wisdom] Wasting Food
+
+
+=C2=A0 
+Dear Narasimha,
+
+When =
+the main devata is established in a kalasha, it is usually placed
+on a bed =
+of rice. For example, your satyanarayana puja manual says
+"place the kalash=
+a on some grains of rice".
+
+Often, a large amount of rice grains is used. D=
+uring the puja process,
+bits of flowers and various other odds and ends end=
+ up getting strewn
+on top of the rice. After the puja ends, all of this is =
+mostly
+unceremoniously discarded.
+
+It there a symbolic spiritual reason beh=
+ind placing rice under the
+kalasha? Or it is just a practical reason -- kal=
+ashas usually have a
+rounded bottom, and the floor is not always flat. Plac=
+ing it on a bed
+of rice grains gives the kalasha some stability.
+
+sasneham,=
+
+
+=C2=A0 =C2=A0ajit
+
+On Sat, Feb 18, 2012 at 8:26 AM, Narasimha PVR Rao <pv=
+r@...> wrote:
+> Namaste friends,
+>
+> This is an age of growing popu=
+lations and food shortages. A lot of
+> people are starving without food to =
+eat. As those who can afford food
+> waste the limited food that is availabl=
+e, that jacks up food prices and
+> makes it even more inaccessible to starv=
+ing people. This is already a
+> serious problem according to scientists and=
+ I am afraid will get much
+> worse in coming decades.
+
+
+--804020959-644249783-1330161393=:95645
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"color:#000; background-color:#fff; font-family:ti=
+mes new roman, new york, times, serif;font-size:12pt"><div style=3D"RIGHT: =
+auto"><SPAN style=3D"RIGHT: auto">Namaste,</SPAN></div>
+<div style=3D"RIGHT=
+: auto"><SPAN style=3D"RIGHT: auto"></SPAN> </div>
+<div style=3D"RIGHT=
+: auto"><SPAN style=3D"RIGHT: auto">In any ritual that involves establishin=
+g a kalasha, the prime philosophy is that the kalasha is representative of =
+the mind of the individual. The rice represents the body. The kalasha is th=
+us placed on the rice to act as a symbol of the mind in the body, and =
+then the process of the ritual is followed to invoke certain energies/princ=
+iples in the kalasha/mind of the devotee. In Navaratri kalasha the we ask t=
+he Goddess to fill the mind with shakti needed for the whole year. In Satya=
+Narayana Puja, we ask the Lord of Truth to establish the mind firmly in its=
+ perception of truth(s) - from the lower apparent truths to higher eternal =
+ones. Rice is almost always used as a representative of the body. In my opi=
+nion, instead of rice if you use mud from a river bank, that too will work.=
+ But rice has some other effects which mud will not produce.</SPAN></div>
+<=
+div style=3D"RIGHT: auto"><SPAN style=3D"RIGHT: auto"></SPAN> </div>
+<=
+div style=3D"RIGHT: auto"><SPAN style=3D"RIGHT: auto">IF done accurately by=
+ a person with good focus and some shakti, using rice in any ritual will au=
+gment all that is good for the body - which is a compound *mostly* of the e=
+arth and water element - and thus increase and attract prosperity of the ma=
+terial kind. </SPAN></div>
+<div style=3D"RIGHT: auto"><SPAN style=3D"RIGHT:=
+ auto"></SPAN> </div>
+<div style=3D"RIGHT: auto"><SPAN style=3D"RIGHT:=
+ auto">Every part of any ritual is a confluence of symbolisms. Activat=
+ing the symbolism to produce verifiable result is a part of Tantra. Rice ca=
+n bring prosperity, til can download karmas faster, lime can break down neg=
+atives (if used correctly), honey can increase a feeling of internal s=
+atisfaction, alcohol can make shakti rise at a furiously fast pace, IF and =
+ONLY IF, used by the right person in the right ritual, else disaster.</SPAN=
+></div>
+<div style=3D"RIGHT: auto"><SPAN style=3D"RIGHT: auto"></SPAN> =
+;</div>
+<div style=3D"RIGHT: auto"><SPAN style=3D"RIGHT: auto">Similarly di=
+fferent animals have different symbolisms in  practical Tantra. A dog =
+represents one level of divine guidance, a cow represents material prosperi=
+ty, a pig represents the ability to survive through thick and thin, a snake=
+ (depending on the ritual) can represent both ethereal beings of a lower pl=
+ane to Shaktis of the highest order. A jackal represents some of the most i=
+nteresting forms of the Goddess - very rare for most people.</SPAN></d=
+iv>
+<div style=3D"RIGHT: auto"><SPAN style=3D"RIGHT: auto"></SPAN> </d=
+iv>
+<div style=3D"RIGHT: auto"><SPAN style=3D"RIGHT: auto">So that is why, =
+IMO, rice is used as the base on which the kalasha is established.</SPAN></=
+div>
+<div style=3D"RIGHT: auto"><SPAN style=3D"RIGHT: auto"></SPAN> </=
+div>
+<div style=3D"RIGHT: auto"><SPAN style=3D"RIGHT: auto">-Regards</SPAN>=
+</div>
+<div style=3D"RIGHT: auto"><SPAN style=3D"RIGHT: auto"> Rajarsh=
+i</SPAN></div>
+<div style=3D"RIGHT: auto"><SPAN style=3D"RIGHT: auto"></SPA=
+N> </div>
+<div style=3D"RIGHT: auto"><SPAN style=3D"RIGHT: auto"></SPA=
+N> </div>
+<DIV style=3D"FONT-FAMILY: times new roman, new york, times,=
+ serif; FONT-SIZE: 12pt">
+<DIV style=3D"FONT-FAMILY: times new roman, new y=
+ork, times, serif; FONT-SIZE: 12pt">
+<DIV style=3D"RIGHT: auto" dir=3Dltr><=
+FONT size=3D2 face=3DArial><VAR id=3Dyui-ie-cursor></VAR>
+<DIV style=3D"BOR=
+DER-BOTTOM: #ccc 1px solid; BORDER-LEFT: #ccc 1px solid; PADDING-BOTTOM: 0p=
+x; LINE-HEIGHT: 0; MARGIN: 5px 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; =
+HEIGHT: 0px; FONT-SIZE: 0px; BORDER-TOP: #ccc 1px solid; BORDER-RIGHT: #ccc=
+ 1px solid; PADDING-TOP: 0px" class=3Dhr contentEditable=3Dfalse readonly=
+=3D"true"></DIV><B><SPAN style=3D"FONT-WEIGHT: bold">From:</SPAN></B> Ajit =
+Krishnan <ajit.krishnan@...><BR><B><SPAN style=3D"FONT-WEIGHT: =
+bold">To:</SPAN></B> vedic-wisdom@yahoogroups.com <BR><B><SPAN style=3D"FON=
+T-WEIGHT: bold">Sent:</SPAN></B> Friday, 24 February 2012 10:52 PM<BR><B><S=
+PAN style=3D"FONT-WEIGHT: bold">Subject:</SPAN></B> Re: [vedic-wisdom] Wast=
+ing Food<BR></FONT></DIV><BR>
+<DIV id=3Dyiv1854906591>
+<DIV><SPAN style=3D"=
+DISPLAY: none"> </SPAN> 
+<DIV id=3Dyiv1854906591ygrp-text>
+<div>Dear N=
+arasimha,<BR><BR>When the main devata is established in a kalasha, it is us=
+ually placed<BR>on a bed of rice. For example, your satyanarayana puja manu=
+al says<BR>"place the kalasha on some grains of rice".<BR><BR>Often, a larg=
+e amount of rice grains is used. During the puja process,<BR>bits of flower=
+s and various other odds and ends end up getting strewn<BR>on top of the ri=
+ce. After the puja ends, all of this is mostly<BR>unceremoniously discarded=
+.<BR><BR>It there a symbolic spiritual reason behind placing rice under the=
+<BR>kalasha? Or it is just a practical reason -- kalashas usually have a<BR=
+>rounded bottom, and the floor is not always flat. Placing it on a bed<BR>o=
+f rice grains gives the kalasha some stability.<BR><BR>sasneham,<BR><BR>&nb=
+sp;  ajit<BR><BR>On Sat, Feb 18, 2012 at 8:26 AM, Narasimha PVR Rao &l=
+t;<A href=3D"mailto:pvr%40charter.net" rel=3Dnofollow target=3D_blank ymail=
+to=3D"mailto:pvr%40charter.net">pvr@...</A>>
+ wrote:<BR>> Nam=
+aste friends,<BR>><BR>> This is an age of growing populations and foo=
+d shortages. A lot of<BR>> people are starving without food to eat. As t=
+hose who can afford food<BR>> waste the limited food that is available, =
+that jacks up food prices and<BR>> makes it even more inaccessible to st=
+arving people. This is already a<BR>> serious problem according to scien=
+tists and I am afraid will get much<BR>> worse in coming decades.<BR></d=
+iv></DIV></DIV></DIV><BR><BR></DIV></DIV></div></body></html>
+--804020959-644249783-1330161393=:95645--
+
+

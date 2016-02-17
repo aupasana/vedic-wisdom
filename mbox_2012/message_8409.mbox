@@ -1,0 +1,380 @@
+From gaurav_alld@...  Wed Feb 17 11:10:17 2016
+Return-Path: <gaurav_alld@...>
+X-Sender: gaurav_alld@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 14993 invoked from network); 20 Jun 2012 13:01:15 -0000
+X-Received: from unknown (98.137.34.44)
+  by m4.grp.sp2.yahoo.com with QMQP; 20 Jun 2012 13:01:15 -0000
+X-Received: from unknown (HELO nm14-vm0.bullet.mail.bf1.yahoo.com) (98.139.213.164)
+  by mta1.grp.sp2.yahoo.com with SMTP; 20 Jun 2012 13:01:14 -0000
+X-Received: from [98.139.215.141] by nm14.bullet.mail.bf1.yahoo.com with NNFMP; 20 Jun 2012 13:01:14 -0000
+X-Received: from [98.139.212.229] by tm12.bullet.mail.bf1.yahoo.com with NNFMP; 20 Jun 2012 13:01:14 -0000
+X-Received: from [127.0.0.1] by omp1038.mail.bf1.yahoo.com with NNFMP; 20 Jun 2012 13:01:14 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 121892.93322.bm@...
+X-Received: (qmail 16428 invoked by uid 60001); 20 Jun 2012 13:01:13 -0000
+X-YMail-OSG: xLrjLWMVM1kOSgdYZlZ3DgHZflDkw_4v7kTsWatfGFx0dHf
+ kDac9QnhnqpAxNDblU4xCWqKGl.H4kkNfk1DeyJscHsY_jmDfCr05UQJWKnD
+ QTBZhF0k67owWxMhpdGH1Mh2j5smG33AfeCDppeFWQK_F3QsLvGz0.sqmjzk
+ UjQBScMcZzJ3T6E2wR3Tl7HBzTg4uC3Anph0trB.ntWF36lFoutn_nTQy9e5
+ PqqMIkVo6iavBXN9EfxvZCW9B7yr5wC.KAIZ8eJmxW8VPMsr_nOVeqz8Kikq
+ EI.GnTcAVMmYvuoCCjtUdj50KJdrg_dd.FjIIHPXlhgNtYcgPxQCmIKTHuHH
+ BaLMVAYiGB5lP92HTHP8v98dHcpiKFPgE47CTt7pcVmmBdo5wqycaWfErqy1
+ qeJl73kbqt6IxfnUIA.2bBSy.LFvio9VxQNNSqtBRBV.cwpT1zE4DOcHj4R2
+ lheQYZKrVL7wy9RbLgPIIa7n3y_j8grbw3Rh9_.DX4pKzey5iGFdlNlQrUyw
+ sn8cfO9kwUrBt4ela9P.8xOFyxmP1GI0vfpIlgrXrXWOntbjHB3un8MrcVya
+ nFD5OuhsCu4HN_udrq25rOOuB_u0bmxKcywZ9hDsmomkCejkkeCZVdH7NfWX
+ Hosyddbmx6TF1RbGquQ5oyJM_2RF.55phB_2X1vQsRlANvq0dCUzMSLDGOu9
+ KQb.IQNCQFfwyiOar97YBy892OwpLnQO9rt8.SC9swMNM2oMW6bmI.ByG0nj
+ 18U1YA_iA7_QAuGvi6Wouv6ancdKgiOj3ZkpTZS7ULC.DnDTpFSPSk5_COPD
+ bgZ3TGGvFMP9ZuWJRuUba8Qbbj5TD_sKg44yV4ORCxvm7FCiscNqOgTOdJYk
+ 3iFJoWRQwCRi.fM1XosCl1OuoRHXmmg.DxsOdXtQjIYk4uUlmlmvdY5WdB1K
+ z5jYPWWGuLmjU2ICKaRupM1p25ssjgLTyIZa6Bs0qFgKfmYT_dm8iOYqnuVp
+ ECdWihH0Wrrop3Vb3NOUA50MNlwwiXfDsy9gHMgE3OAgOHVgkiTYSldzsnB5
+ R3Fde6ZZPr11x8FJlR8ET0MOwQC8ShMY264I5JfjooOsscd4RR8Y5EI_gzRz
+ gpJcMXqZ0f_e3TSbnu8fmRHuAZ.iM.nw0QF6c7w1g6BEXe1wFIQBC3njglNf
+ bvzTRlZtcEe7mswH3FIMHiiWHyXp.7U9RB2nLeWVzs609ViZGBg_gjg18ghx
+ uNCbe8WL601kZmmzPyJh6RGNByRYlEkY5OM3us8pu35XdjNPEA7i_T2kq6wa
+ _fRPGmPXg075Q64TRR4QguxhscH5DD7kgF7c7bixQRyajcAtoD5BFazU0_Tn
+ Bq3dMYGygbBHzmLP6fOovMg83ikLSdAF.NX.PcLoJLHCaLeqUQG0CkrHzZ7d
+ vwY2zn2QV6MNiJgxcZQKKk.STMU.qSjMnxn6FYI87BvTSPW8RAjHUrEzpULG
+ u4bwtwW77Bgh2lZSMZOevOtUmgGy769gF4_9PkMbjj.mhLz89FEG7bwzXTdu
+ CR2rT43qp7ukKmcUe0Q_PRz_icFnNKjrYCsQUz2bV4qmG4iGA90akcZrGJu8
+ NqoaUGssigHdPSvCa24yye6vEaTqxKMKPBbeXPZd1Im_CWBrbNvvZjvu5gc5
+ bNrJVEYrzm4yQXpQjvVyZnw_.zH3ULrZpWMd6VItJig67ElNc5znvD7j41df
+ 1ipity2x7E1.9I9X.II3kXd44AMM8rBW8.m8r.aKHYXNwAkRj9UJIDU90qSU
+ Ot3km9AnNTqqVyVsb2PHPewa1PVqHiUar_TWJGfXaUdiKCUV7owhEb9Nchnm
+ mNHjTHlek_bbRFk7hbZuJrc3YEKKudcAsVJS1LTFtv0ehQjr3ORmgPi_ZcYq
+ IthCOqUz6uRIyumGAW514Vnubznr11UHGhEXCgtmUkTQl_6ZSvXdkZgS4Fyi
+ WZozfnHB33vssablDfjrrYGT9PUL67Ma1WZUrwf6M8YhqFHfDLR1j9AxRDQ8
+ w570g
+X-Received: from [122.176.144.227] by web162901.mail.bf1.yahoo.com via HTTP; Wed, 20 Jun 2012 06:01:13 PDT
+X-Mailer: YahooMailWebService/0.8.118.349524
+References: <jrnrvh+kp64@...> <jrru25+vnuk@...>
+Message-ID: <1340197273.6901.YahooMailNeo@...>
+Date: Wed, 20 Jun 2012 06:01:13 -0700 (PDT)
+To: "vedic-wisdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com>
+In-Reply-To: <jrru25+vnuk@...>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="-1846104760-2003098655-1340197273=:6901"
+X-Originating-IP: 98.139.213.164
+X-eGroups-Msg-Info: 1:12:0:0:0
+From: gaurav tripathi <gaurav_alld@...>
+Reply-To: gaurav tripathi <gaurav_alld@...>
+Subject: Re: [vedic-wisdom] Re: How to repeat God's Name constantly?
+X-Yahoo-Group-Post: member; u=185631987; y=-K0FvEVPrVXpvqkakEOEYYTbulAf2_6w31iBQkep9Q8lR3ZQp6s
+X-Yahoo-Profile: gaurav_alld
+
+
+---1846104760-2003098655-1340197273=:6901
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Dear Freinds,
+=C2=A0 =C2=A0Is =C2=A0it =C2=A0really =C2=A0making =C2=A0a =
+=C2=A0tag =C2=A0of =C2=A0number counts =C2=A0to =C2=A0the =C2=A0Japa. It's =
+=C2=A0like programming :
+If(Number_of_Japas>Threashold_Value)
+{
+God_Presenc=
+e=3Dtrue;
+
+}
+
+Is =C2=A0it so =C2=A0simple ? Or a =C2=A0person can get the d=
+arshan even in one =C2=A0single =C2=A0count full of =C2=A0devotion ?
+Kindly=
+ =C2=A0clarify...because then people will start having =C2=A0a calculator =
+=C2=A0instead =C2=A0of =C2=A0bhakti?
+Cheerss
+=C2=A0
+Just Gaurav
+
+
+
+________=
+________________________
+ From: srinivas <sow4reap@...>
+To: vedic-w=
+isdom@yahoogroups.com 
+Sent: Wednesday, June 20, 2012 12:58 PM
+Subject: [ve=
+dic-wisdom] Re: How to repeat God's Name constantly?
+ 
+
+=C2=A0 
+Namaste Apa=
+rna,
+
+Take an example of Panchakshari Mantra (Aum Namah Shivaya:)japa;
+
+For=
+ One minute you can complete 100 times,
+For One hour you can complete 6000 =
+times,
+For 84 hours you can complete 5 lakhs and 4 thousand times,
+
+If you =
+regularly do japa for 4 hours, within 4200 days (11 years 6 months and 20 d=
+ays) you can complete ONE CRORE times.
+
+Thank you,
+Srini.
+
+--- In vedic-wis=
+dom@yahoogroups.com, "sunrise_1080" <sunrise_1080@...> wrote:
+>
+> This busi=
+ness of repeating God Name, that Nobody ji mentioned...it ain't no joke ...=
+doing it I mean! I tried today, and boy, it was hard...failed mostly, to be=
+ honest.
+> 
+> But every sage Ramakrishna, Anandamayi Ma, Ammachi, Sivananda=
+, Chaitanya, Mira, Rabia, Papa Ramdas, every one of them was obsessed with =
+this Name business. That means, there must be something to it.
+> 
+> I reall=
+y want to take up Nobody ji's suggestion and get obsessed with the Name. I =
+firmly believe in it. I got sick (real sick) a few times, and the Name help=
+ed me (have had 2-3 black outs when I was unwell, long story, but basically=
+, I was conscious during these black outs, and it felt like I was dying...a=
+nd it sounds odd, but there were no thoughts except the Name "Keshava pleas=
+e help me" or "Narayana"). These episodes scared the bejesus out of me, and=
+ each time I came out of them, I felt "I MUST DO MORE JAPA" it's the only t=
+hing that'll save me. All else is of no use when I'm in deep sh*t (pardon m=
+y language), the Name alone is reliable.
+> 
+> What I'm trying to say, is I =
+want to devise some practical ways to get serious about this sadhana. 
+> 
+>=
+ Sivananda Saraswati (Rishikesh) was a big fan of japa, and especially of P=
+urascharana (repeating mantra as many lakhs as there are syllables in the m=
+antra. Eg Gayatri has 24 syllables, so one Purascharana is 24 lakh repetiti=
+ons). He went on to say that 14 crore of japa with feeling would result in =
+Darshan of God in physical form, face to face. That would be great! Really =
+wanted to do it...but when I did the maths, I worked out that, at the rate =
+of 12 hours japa a day, every single day from now on, it would take me till=
+ age 83 to finish this. :( 
+> 
+> But hey, I decided to make a start anyway,=
+ and began my my first Purascharana of the Om Namo Narayanaya mantra, in Ja=
+nuary this year, I am doing a measley 11 rounds a day, with my mind wanderi=
+ng most of the time (hard core people do hundreds of rounds with proper con=
+centration daily). I'm a slow chanter, and need to say the mantra loudly or=
+ in a barely audible whisper. My mental chanting is gradually improving but=
+ very difficult to do for more than 1-2 minutes. It's gonna take me till Oc=
+tober 2013 to finish the 8 lakhs. Then my plan is to take a 3 month break (=
+and do 7 rounds a day), and then start another Purascharana. 
+> 
+> Anyway, =
+two things help me get my 11 rounds of japa done every day when I'm at work=
+/outdoors. Thought I'd mention it, if anybody's interested, just in case it=
+'s helpful. 
+> 
+> One is Telephone Japa. I hold my mobile to my ear, and pr=
+etend I'm on the phone. While doing this, I stick my hand in my pocket and =
+count the japa on my fingers. I get a couple of rounds done during my worki=
+ng day this way (I check carefully to make sure nobody's listening). Also w=
+hile stuck in traffic (while the car is NOT moving), I put my hands-free ea=
+r pieces on, and pretend I'm chatting to a friend on the phone and do a cou=
+ple of rounds. 
+> 
+> The other thing that I find useful (now please excuse =
+the phrase), is "Toilet japa". When I need to escape to do a round or two o=
+f japa at work, I excuse myself for a few minutes and lock myself up in a t=
+oilet cubicle. I then very very quietly mutter the mantra to myself for 5-1=
+0 minutes (lips moving, no sound audible, in case anybody hears). I do abou=
+t 2 sessions of this a day. This allows me to complete my 11 rounds a day, =
+on days when my working hours are long. 
+> 
+> I know this sounds bonkers, b=
+ut I thought I'd mention this for anyone else whose work life interferes wi=
+th their japa. At least, it provides a solution to doing a bit of japa at w=
+ork.
+> 
+> If anybody else has any thoughts/suggestions, on how to repeat Go=
+d' Name constantly, kindly share. 
+> 
+> Best wishes, and Om Namo Narayanaya=
+, 
+> 
+> Aparna
+>
+
+
+ 
+---1846104760-2003098655-1340197273=:6901
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"color:#000; background-color:#fff; font-family:ti=
+mes new roman, new york, times, serif;font-size:12pt"><div><span>Dear Frein=
+ds,</span></div><div><span>   Is  it  really  maki=
+ng  a  tag  of  number counts  to  the  =
+Japa. It's  like programming :</span></div><div><span>If(Number_of_Jap=
+as>Threashold_Value)</span></div><div><span>{</span></div><div><span><sp=
+an class=3D"Apple-tab-span" style=3D"white-space:pre">	</span>God_Presence=
+=3Dtrue;</span></div><div><span><br></span></div><div><span>}</span></div><=
+div><span><br></span></div><div><span>Is  it so  simple ? Or a &n=
+bsp;person can get the darshan even in one  single  count full of=
+  devotion ?</span></div><div><span>Kindly  clarify...because the=
+n people will start having  a calculator  instead  of  =
+bhakti?</span></div><div><span>Cheerss</span></div><div> </div><div>Ju=
+st
+ Gaurav<br></div><div><br></div>  <div style=3D"font-size: 12pt; font-fa=
+mily: 'times new roman', 'new york', times, serif; "> <div style=3D"font-si=
+ze: 12pt; font-family: 'times new roman', 'new york', times, serif; "> <div=
+ dir=3D"ltr"> <font size=3D"2" face=3D"Arial"> <hr size=3D"1">  <b><span st=
+yle=3D"font-weight:bold;">From:</span></b> srinivas <sow4reap@....u=
+k><br> <b><span style=3D"font-weight: bold;">To:</span></b> vedic-wisdom=
+@yahoogroups.com <br> <b><span style=3D"font-weight: bold;">Sent:</span></b=
+> Wednesday, June 20, 2012 12:58 PM<br> <b><span style=3D"font-weight: bold=
+;">Subject:</span></b> [vedic-wisdom] Re: How to repeat God's Name constant=
+ly?<br> </font> </div> <br>
+<div id=3D"yiv1399866192">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div>
+<=
+span style=3D"display:none;"> </span>
+
+
+
+    <div id=3D"yiv1399866192y=
+grp-text">
+      
+      
+      <div>Namaste Aparna,<br>
+<br>
+Take an exampl=
+e of Panchakshari Mantra (Aum Namah Shivaya:)japa;<br>
+<br>
+For One minute =
+you can complete 100 times,<br>
+For One hour you can complete 6000 times,<b=
+r>
+For 84 hours you can complete 5 lakhs and 4 thousand times,<br>
+<br>
+If =
+you regularly do japa for 4 hours, within 4200 days (11 years 6 months and =
+20 days) you can complete ONE CRORE times.<br>
+<br>
+Thank you,<br>
+Srini.<b=
+r>
+<br>
+--- In <a rel=3D"nofollow" ymailto=3D"mailto:vedic-wisdom%40yahoogr=
+oups.com" target=3D"_blank" href=3D"mailto:vedic-wisdom%40yahoogroups.com">=
+vedic-wisdom@yahoogroups.com</a>, "sunrise_1080" <sunrise_1080@...> w=
+rote:<br>
+><br>
+> This business of repeating God Name, that Nobody ji=
+ mentioned...it ain't no joke ...doing it I mean! I tried today, and boy, i=
+t was hard...failed mostly, to be honest.<br>
+> <br>
+> But every sage=
+ Ramakrishna, Anandamayi Ma, Ammachi, Sivananda, Chaitanya, Mira, Rabia, Pa=
+pa Ramdas, every one of them was obsessed with this Name business. That mea=
+ns, there must be something to it.<br>
+> <br>
+> I really want to take=
+ up Nobody ji's suggestion and get obsessed with the Name. I firmly believe=
+ in it. I got sick (real sick) a few times, and the Name helped me (have ha=
+d 2-3 black outs when I was unwell, long story, but basically, I was consci=
+ous during these black outs, and it felt like I was dying...and it sounds o=
+dd, but there were no thoughts except the Name "Keshava please help me" or =
+"Narayana"). These episodes scared the bejesus out of me, and each time I c=
+ame out of them, I felt "I MUST DO MORE JAPA" it's the only thing that'll s=
+ave me. All else is of no use when I'm in deep sh*t (pardon my language), t=
+he Name alone is reliable.<br>
+> <br>
+> What I'm trying to say, is I =
+want to devise some practical ways to get serious about this sadhana. <br>
+=
+> <br>
+> Sivananda Saraswati (Rishikesh) was a big fan of japa, and e=
+specially of Purascharana (repeating mantra as many lakhs as there are syll=
+ables in the mantra. Eg Gayatri has 24 syllables, so one Purascharana is 24=
+ lakh repetitions). He went on to say that 14 crore of japa with feeling wo=
+uld result in Darshan of God in physical form, face to face. That would be =
+great! Really wanted to do it...but when I did the maths, I worked out that=
+, at the rate of 12 hours japa a day, every single day from now on, it woul=
+d take me till age 83 to finish this. :( <br>
+> <br>
+> But hey, I dec=
+ided to make a start anyway, and began my my first Purascharana of the Om N=
+amo Narayanaya mantra, in January this year, I am doing a measley 11 rounds=
+ a day, with my mind wandering most of the time (hard core people do hundre=
+ds of rounds with proper concentration daily). I'm a slow chanter, and need=
+ to say the mantra loudly or in a barely audible whisper. My mental chantin=
+g is gradually improving but very difficult to do for more than 1-2 minutes=
+. It's gonna take me till October 2013 to finish the 8 lakhs. Then my plan =
+is to take a 3 month break (and do 7 rounds a day), and then start another =
+Purascharana. <br>
+> <br>
+> Anyway, two things help me get my 11 roun=
+ds of japa done every day when I'm at work/outdoors. Thought I'd mention it=
+, if anybody's interested, just in case it's helpful. <br>
+> <br>
+> O=
+ne is Telephone Japa. I hold my mobile to my ear, and pretend I'm on the ph=
+one. While doing this, I stick my hand in my pocket and count the japa on m=
+y fingers. I get a couple of rounds done during my working day this way (I =
+check carefully to make sure nobody's listening). Also while stuck in traff=
+ic (while the car is NOT moving), I put my hands-free ear pieces on, and pr=
+etend I'm chatting to a friend on the phone and do a couple of rounds. <br>=
+
+> <br>
+> The other thing that I find useful (now please excuse the p=
+hrase), is "Toilet japa". When I need to escape to do a round or two of jap=
+a at work, I excuse myself for a few minutes and lock myself up in a toilet=
+ cubicle. I then very very quietly mutter the mantra to myself for 5-10 min=
+utes (lips moving, no sound audible, in case anybody hears). I do about 2 s=
+essions of this a day. This allows me to complete my 11 rounds a day, on da=
+ys when my working hours are long. <br>
+> <br>
+> I know this sounds b=
+onkers, but I thought I'd mention this for anyone else whose work life inte=
+rferes with their japa. At least, it provides a solution to doing a bit of =
+japa at work.<br>
+> <br>
+> If anybody else has any thoughts/suggestio=
+ns, on how to repeat God' Name constantly, kindly share. <br>
+> <br>
+>=
+; Best wishes, and Om Namo Narayanaya, <br>
+> <br>
+> Aparna<br>
+><=
+br>
+<br>
+</div>
+
+    </div>
+     
+
+
+
+</div>
+
+
+
+
+
+</div><br><br> </div> </di=
+v>  </div></body></html>
+---1846104760-2003098655-1340197273=:6901--
+
+

@@ -1,0 +1,253 @@
+From rajarshi14@...  Wed Feb 17 11:10:21 2016
+Return-Path: <rajarshi14@...>
+X-Sender: rajarshi14@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 66579 invoked from network); 21 Aug 2012 06:05:50 -0000
+X-Received: from unknown (98.137.34.46)
+  by m8.grp.sp2.yahoo.com with QMQP; 21 Aug 2012 06:05:50 -0000
+X-Received: from unknown (HELO nm25-vm1.bullet.mail.sg3.yahoo.com) (106.10.151.96)
+  by mta3.grp.sp2.yahoo.com with SMTP; 21 Aug 2012 06:05:49 -0000
+X-Received: from [106.10.166.117] by nm25.bullet.mail.sg3.yahoo.com with NNFMP; 21 Aug 2012 06:05:48 -0000
+X-Received: from [106.10.151.250] by tm6.bullet.mail.sg3.yahoo.com with NNFMP; 21 Aug 2012 06:05:48 -0000
+X-Received: from [127.0.0.1] by omp1021.mail.sg3.yahoo.com with NNFMP; 21 Aug 2012 06:05:48 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 592009.19189.bm@...
+X-Received: (qmail 48227 invoked by uid 60001); 21 Aug 2012 06:05:48 -0000
+X-YMail-OSG: ai5ps.oVM1lDbElvnczZRDcCMU__0xHDt4RdkgV9eXVxJdT
+ zHT46jFoYC.nwEuQ8qUTPrYicdSy0Rkn3NiL2GGTi2MpjaOirKhrp2tiePAw
+ pZ8oJXYAb5SPX4_H_M9cray2vxJzp8G7i3UOTRVhQogkYe8i_3s05KS.YZuv
+ c7jvEoUye7bJfcroUyIU9pBllst53QEVSv73JLbcQ4_pLJC3QQRaoyI_Bzwr
+ Ox7qTEX4OFWwjq7gTkATXmp7AAGVzABO_pwvW6XPzudnwFxQJghzoK_xKu3k
+ eMI1_NOUG8WngKiwCHGcWK59xcYknucc1FLS4aoqEqQr4a2rh38Q9abHpzUz
+ x4iGTLuqfhRjF0s_tnvhZJuWw3sk5dGmblxG0HMFEcd3JaUE20PY0NakF7mS
+ ZW0lcvSuzjm_bgKpxyR_enjpewPGjoOeil1lxbpS_c9UKOBYxZlF63TW4lFm
+ x8rLN3cMziEnKNQThojwEAxSYTQrdHLXQyd6z622Qzo2CoAbihzt8eoGip6Q
+ caGvY_qJbrXVtkSt58LQ01FVsulg8QOYc9PW83s025yvpC6wLABB.KA4.9SO
+ D3RoY9keu9Vhr4gna7yokLDq2AZgDfRp3j0f58xGwkv_eXzv1d91e8m0uQNt
+ 6rXYow.YRwRQKhHAB4qaN6sCCv.OqqdtKJobYj7SPUvKho68bI7veq4xZTWy
+ Wy0q6bRLMicEO0sb9BxqrX.XHa6Y6gzZpPOEsT7oGUMwiJQqEkezhJ_Yaulx
+ nEdjyUSeMv5MLtSjX4Cgq..Ziwj9dFrf_Ixuj7jOVLmxQSdBTYxKp62oa62v
+ XntlESBtmxeuddqCd6mizMiHPdOeUn6XX1MPK3Asadgk_ufr37OU5m9aKK0R
+ MyK1BZwW5.kK5JLVJaiCb.LXZyKcLhl2K_OBsVPy0YHexcAGDAoae_U5hyLo
+ 9JfAJE99xUyrIt8WIr37y4oxqxH_N.V48wDabttmWShCD.x7o6ra_ySI3QQe
+ AnXr8BRmDEsu9q_fBV8W8D4pv_PNmm0MH8_g4jkr0qpZfMYCloYE65uEi0ix
+ M7J.ZDvEpjvTCVngne77_YR9H3WCqbGmu28hp2Vi4qwqQ_QrYLuuN8ijaFol
+ IuLiirg9pCMFuhOvlbxSfEP_dU9JKFyJm5KccxBJ1hm2kfmQj_mHE1.diK2A
+ a6CBEPTRCX_BzD_w39.pzmvyb1qSFthjjJEQKrzBn5Pa2yFNVdqm4cEPV7fD
+ rY0c0wuhrGW3OTd4lFF47gceFVNJHyn49nAkmFWufmzSu_BxzKddbOBm2G6Y
+ kf8K0lVSwTQGXUhl3hc3QrKODT1GeS6HnDxbQ7kzERCaj3OU1xG.r6jHUxTf
+ ReCCk2xKNXDeMyqtr7awwImDq.y3UwDHYTFy7OPIj.xyeqvGn8cvhHjNZ6J3
+ BYUJzsaFXunDEeH_w3KqQrRESRZoguRC7J9JVAwdBexnGEQcJMb.dlKvVK5u
+ cjAkpDfeelMgQeXPuKcXJg8MHJMSQkPNtOcGNgoS5bZFgxyqxA_7YaJpiZNX
+ 50F1bnkdjuV1KFSv3WSvj7mjnQcs_V359CET7F0Zqzmaukdct7U2j8UKp1Jx
+ RHPWxoWH3Tps3YiHyg6zqsKwPsv68YgYElNjC59WYrYNd7.wVNa3YDggbMX7
+ bW2OJ9BrnWkp9IdjBVOY3Sor1.E4mmBdMXhWjGhL.9t3p66puRjPz8wtGums
+ wLe2zcgxfDQWxowqQ6GEnnJufBtXgK9fD_fWLFbz4b.zzQkZDJty3aU6357u
+ 3561BOWVWQXWzh5Qfsx5.HuLn5HpqlvzzeUEzMjkkV9EBXZXx2GhiTmu3lbb
+ 7NfHdEqRatr9rIUKCDzJzuJyIZGtPcaPgrllF4JQbLwUFL7koNxjBPswmcTc
+ sRz35FAWVIY9yt0.5b0IzlV6iOkVnmWkjCFrzxcHNsBjKxMBb80Ads2VSL8m
+ Vifi3qRbetnQP0j9gmMCxBWFWAG.zLfi_671qI2iRl.UKt_TcyA--
+X-Received: from [64.138.135.70] by web190904.mail.sg3.yahoo.com via HTTP; Tue, 21 Aug 2012 14:05:48 SGT
+X-Mailer: YahooMailWebService/0.8.121.416
+References: <k0s1nv+te5r@...>
+Message-ID: <1345529148.45924.YahooMailNeo@...>
+Date: Tue, 21 Aug 2012 14:05:48 +0800 (SGT)
+To: "vedic-wisdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com>
+In-Reply-To: <k0s1nv+te5r@...>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="-2020808392-962490640-1345529148=:45924"
+X-Originating-IP: 106.10.151.96
+X-eGroups-Msg-Info: 1:12:0:0:0
+From: rajarshi nandy <rajarshi14@...>
+Reply-To: rajarshi nandy <rajarshi14@...>
+Subject: Re: [vedic-wisdom] Ben Adhem- "write me as one that loves his fellow men"
+X-Yahoo-Group-Post: member; u=216162964; y=XyRCy9kfT45i_NxjcvWccDpA83uVhScJ_xXe16ZMEy0XkhxpKA
+X-Yahoo-Profile: rajarshi14
+
+
+---2020808392-962490640-1345529148=:45924
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Great poem! One of my favorites. 
+
+-Regards
+=C2=A0Rajarshi
+
+
+=C2=A0
+
+awakta=
+m wyaktimApannam manyantE mAmabuddhayah |
+param bhAwamajAnanto mamAwyayaman=
+uttamam ||[7:24]
+
+
+________________________________
+ From: sunrise_1080 <su=
+nrise_1080@...>
+To: vedic-wisdom@yahoogroups.com 
+Sent: Monday, 20 =
+August 2012 6:22 AM
+Subject: [vedic-wisdom] Ben Adhem- "write me as one tha=
+t loves his fellow men"
+ 
+
+=C2=A0 
+Abou Ben Adhem 
+
+-by James Leigh Hunt
+
+A=
+bou Ben Adhem (may his tribe increase!)
+Awoke one night from a deep dream o=
+f peace,
+
+And saw, within the moonlight in his room,
+Making it rich, and li=
+ke a lily in bloom,
+
+An angel writing in a book of gold:=E2=80=94
+Exceeding=
+ peace had made Ben Adhem bold,
+
+And to the Presence in the room he said
+"W=
+hat writest thou?"=E2=80=94The vision raised its head,
+
+And with a look mad=
+e of all sweet accord,
+Answered "The names of those who love the Lord."
+
+"A=
+nd is mine one?" said Abou. "Nay, not so,"
+Replied the angel. Abou spoke mo=
+re low,
+
+But cheerly still, and said "I pray thee, then,
+Write me as one th=
+at loves his fellow men."
+
+The angel wrote, and vanished. The next night
+It=
+ came again with a great wakening light,
+
+And showed the names whom love of=
+ God had blessed,
+And lo! Ben Adhem's name led all the rest.
+
+
+ 
+---2020808392-962490640-1345529148=:45924
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"color:#000; background-color:#fff; font-family:ti=
+mes new roman, new york, times, serif;font-size:12pt">Great poem! One of my=
+ favorites. <br><br>-Regards<br> Rajarshi<br><div><span><br></span></d=
+iv><div> </div><div><br></div><div><i><b><div class=3D"MsoNormal"><b><=
+span class=3D"Apple-style-span" style=3D"font-size:16px;"><b><span class=3D=
+"Apple-style-span" style=3D"color:rgb(153, 153, 153);"></span></b></span></=
+b><span class=3D"yui_3_2_0_2_134243527249950" style=3D"font-family:times ne=
+w roman, new york, times, serif;">awaktam wyaktimApannam manyantE mAmabuddh=
+ayah |</span><br><b><span class=3D"yui_3_2_0_2_134243506227946 yui_3_2_0_2_=
+134243527249952 yui_3_2_0_18_134552786712286" style=3D"FONT-SIZE:10pt;COLOR=
+:navy;FONT-FAMILY:Verdana;"><font color=3D"#000000" face=3D"Times New Roman=
+"><div><div> param bhAwamajAnanto mamAwyayamanuttamam ||[7:24]</div></div><=
+/font></span></b></div></b></i></div><div><br></div>  <div style=3D"font-fa=
+mily: times new
+ roman, new york, times, serif; font-size: 12pt;"> <div sty=
+le=3D"font-family: times new roman, new york, times, serif; font-size: 12pt=
+;"> <div dir=3D"ltr"> <font face=3D"Arial" size=3D"2"> <hr size=3D"1">  <b>=
+<span style=3D"font-weight:bold;">From:</span></b> sunrise_1080 <sunrise=
+_1080@...><br> <b><span style=3D"font-weight: bold;">To:</span><=
+/b> vedic-wisdom@yahoogroups.com <br> <b><span style=3D"font-weight: bold;"=
+>Sent:</span></b> Monday, 20 August 2012 6:22 AM<br> <b><span style=3D"font=
+-weight: bold;">Subject:</span></b> [vedic-wisdom] Ben Adhem- "write me as =
+one that loves his fellow men"<br> </font> </div> <br><div id=3D"yiv1241302=
+759">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div>
+<span style=3D"display:none;"> </span>
+
+
+
+   =
+ <div id=3D"yiv1241302759ygrp-text">
+      
+      
+      <div>Abou Ben Adhe=
+m <br>
+<br>
+-by James Leigh Hunt<br>
+<br>
+Abou Ben Adhem (may his tribe inc=
+rease!)<br>
+Awoke one night from a deep dream of peace,<br>
+<br>
+And saw, w=
+ithin the moonlight in his room,<br>
+Making it rich, and like a lily in blo=
+om,<br>
+<br>
+An angel writing in a book of gold:=E2=80=94<br>
+Exceeding pea=
+ce had made Ben Adhem bold,<br>
+<br>
+And to the Presence in the room he sai=
+d<br>
+"What writest thou?"=E2=80=94The vision raised its head,<br>
+<br>
+And=
+ with a look made of all sweet accord,<br>
+Answered "The names of those who=
+ love the Lord."<br>
+<br>
+"And is mine one?" said Abou. "Nay, not so,"<br>
+=
+Replied the angel. Abou spoke more low,<br>
+<br>
+But cheerly still, and sai=
+d "I pray thee, then,<br>
+Write me as one that loves his fellow men."<br>
+<=
+br>
+The angel wrote, and vanished. The next night<br>
+It came again with a =
+great wakening light,<br>
+<br>
+And showed the names whom love of God had bl=
+essed,<br>
+And lo! Ben Adhem's name led all the rest.<br>
+<br>
+</div>
+
+    =
+</div>
+     
+
+
+
+</div>
+
+
+
+
+
+</div><br><br> </div> </div>  </div></body></ht=
+ml>
+---2020808392-962490640-1345529148=:45924--
+
+

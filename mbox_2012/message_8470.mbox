@@ -1,0 +1,332 @@
+From rajarshi14@...  Wed Feb 17 11:10:18 2016
+Return-Path: <rajarshi14@...>
+X-Sender: rajarshi14@...
+X-Apparently-To: vedic-wisdom@yahoogroups.com
+X-Received: (qmail 20869 invoked from network); 7 Jul 2012 20:08:44 -0000
+X-Received: from unknown (98.137.35.160)
+  by m9.grp.sp2.yahoo.com with QMQP; 7 Jul 2012 20:08:44 -0000
+X-Received: from unknown (HELO nm37-vm4.bullet.mail.sg3.yahoo.com) (106.10.151.111)
+  by mta4.grp.sp2.yahoo.com with SMTP; 7 Jul 2012 20:08:43 -0000
+X-Received: from [106.10.166.122] by nm37.bullet.mail.sg3.yahoo.com with NNFMP; 07 Jul 2012 20:08:42 -0000
+X-Received: from [106.10.150.29] by tm11.bullet.mail.sg3.yahoo.com with NNFMP; 07 Jul 2012 20:08:42 -0000
+X-Received: from [127.0.0.1] by omp1030.mail.sg3.yahoo.com with NNFMP; 07 Jul 2012 20:08:42 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 243312.35963.bm@...
+X-Received: (qmail 7158 invoked by uid 60001); 7 Jul 2012 20:08:42 -0000
+X-YMail-OSG: 88jnJVoVM1mYKTtI8MK0b7WvaA3NTP.sSIHvTVvrFyPXw2P
+ mBzrztUK3U3Mnwv0_P4PPkqoNb.8J_aAo5oqNBXa1ABjptC0Xhsmme0Feq.t
+ 6scln8QKkRhdVqP2hOn1_ROtXLyEEDcHbzS5U8qhkHBiS12YWW16fxPFMD.S
+ 70DOqlbv03LZgTu7SLgjEfHFyqzftstIO5bqgBQvHnGZRYKJkMwMzJNsvB4I
+ ZWV6_e6Wx46yg5UQD60LpVxx3uF9lhb5MB77jfMk2xnKNm710b8bVr4vD0Zw
+ NQM2HaSiaiTRCQUuNGNxHky_voJN60CUJepTR37TciU03mBBwoPLGQf8EuXu
+ 119T34HKZXXetLafUkkYXtkptSYOliBaEVL1mXWnoPJasSmrBZ4lyPp_56a7
+ oQVI5ZkShm7Fpb6EA8LDWJRCFifukYREPXrULSJq2vaTUBhsNGT6QzHfXsVt
+ Gkd7kqCprOWtratstuD7KG8lUjEnby9tNb6wH4NrY3VNNsl4gap8XiOcjkO5
+ y2rFZEAQXFN1XubeNz9rLD1XnW_ReB8YaM8iiRbYwZZd7VgFBV3dYrPYINeT
+ lwaFjeyig.3kW62CSidxXi7RsDLXzu7bhHkovmgCkRi8pE2vfTObzJTgUiE6
+ zN7GMRKFbVqWlM7yxSrMUAI033zEC.F6_OYLw1jITZmLspHo.TWD755nI4K8
+ TVLu65IqJyMSkICxyjxUFPu9.ZhWrXjQhgttj6nwimuiSdxbr_o21dRb8.K9
+ yjmaUUJn3MtIIXwX_7HFwpImeG6JEbqu2ELp_ygoKcujJsusYWcrWHxswaE7
+ Xj1XaSSEmBIr7bzlsjYz62.tXOjC3jKYGF.E6ONh4koI1FXUdIvPb.LeL6My
+ rska6rrXWNrYKLqKIEMGJQm6HUjztBmn3TUM3_YQdovxYD4759vMKEiCxa3f
+ 1xhdzcGL8mJMRUxeF5ZngBf3M2H1vd7oJO88UPAweU_jJGrO2OgbmgawbCzU
+ .aTmEV.u2L5GUhE_DOXJFGOOZm8CbhG7kUGIt4O9u.IzHpoLkMheqt8J7aAo
+ J..14ymWSXxgbe9_e6jmo75D8QlVypkIlWQGqrfgAoxzOAWXBw_qNpGp189G
+ JlNwpgjp6IJuZC2TfG8JwUjpaODeVKi6rfJdLqhzdbvxQksncOuC2qBwZ3nq
+ t.oGHKGojDeLWqk7HWleaA5u.pl6i9aiTkO_HtmpI.jYJKoaiLl4.SCbGdQ3
+ W0GS7e6oxkWFvtjsLQWaA9.MALEXVRQ2feREuiNqiTNUuWmXkU1OudZ8Cs9Z
+ w6QoSpuNehIEE3991ElBB58PpfFrCh6wnjOcGEz25JsVoieHQuCQcGSu_CvJ
+ ByqnMZsvLgLDXyNSUAe8WPROOSHyg7a3zLCAoJp8Io9Rlmab9xEHD6i4t93q
+ pD4EgjAjhVknrAlUe94LdZ4XngHqfjj3bnSKp9GcRRGeSHVgR2QXwBx6ej92
+ ZXaOMyrE1PfnISwL9tCMYjJQiY7BsEhhWx3e7e_UEb7D8jGvUn0jbrqNhRJx
+ o7SObc.WRI0TN87k6MrngiwM.L50Q4_iZvJpG7qvHcOicQi3sgx8PZBqQhPS
+ 3R5iIf2IhQ.ne97YitJYXd72tFQozi9.erUgXPC3TeUQ1e7KrEfkL0tgM3Xr
+ eYkAddL71MXcNvpcCIydduUcGyZMXDSHFsx.es.g1XR8J1Ueop.VkAdNK6KW
+ RJovblApLb1iLLgSv9DUgiaCFXD0.r1Qxng3KbacRe5tRUZG6doPbAQrf2R0
+ viXIEOhnqkOMoG9ww1kGkemr.YpJVd87sFBPFYhsrWKrZSOoXNAljhyMojTY
+ Xd53_DdmMVS9FIkd9ppx5GkX.aVugNhF6pCSXXFz7M3uzlMmHmDkoQc0daYo
+ GILcco_m9h1NVRWwRHj.kaPDsOt96yFc9WAVolgvo5BlLI0spHkxdc5.QRc.
+ 60z_4S5VPSR7.KO6VjYX0sh9hMwXMl0saS5AzmWFbtaCa1iLYGAkEZeemw.p
+ _Hx4tfJP8ULYrql8x
+X-Received: from [115.241.231.107] by web193102.mail.sg3.yahoo.com via HTTP; Sun, 08 Jul 2012 04:08:41 SGT
+X-Mailer: YahooMailWebService/0.8.120.356233
+References: <1341675539.20938.YahooMailNeo@...>
+Message-ID: <1341691721.80330.YahooMailNeo@...>
+Date: Sun, 8 Jul 2012 04:08:41 +0800 (SGT)
+To: "vedic-wisdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com>
+In-Reply-To: <1341675539.20938.YahooMailNeo@...>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="1355684428-875074353-1341691721=:80330"
+X-Originating-IP: 106.10.151.111
+X-eGroups-Msg-Info: 1:12:0:0:0
+From: rajarshi nandy <rajarshi14@...>
+Reply-To: rajarshi nandy <rajarshi14@...>
+Subject: Re: [vedic-wisdom] Re: So-called god particle
+X-Yahoo-Group-Post: member; u=216162964; y=VUi0Xx3AiibC-Gqv2-LqFLQ1cPZyLKU4HkE4LKcMjdLUnSITCg
+X-Yahoo-Profile: rajarshi14
+
+
+--1355684428-875074353-1341691721=:80330
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+One of the major misconceptions about the Higgs Boson is with respect to it=
+s name, 'God-particle', which has resulted in so much speculation about it =
+being some missing link to God. This is incorrect and grossly misleading. S=
+cientists do not look at it that way, neither should we. 
+
+
+Firstly, how di=
+d the name of the Higg's Boson become 'God Particle'? Because practical evi=
+dence of this elementary particle's existence was so difficult to come-by (=
+it already existed was a mathematical/theoritical reality for long; in mode=
+rn physics often mathematical models predict existence of such entities whi=
+ch are later proved or disproved through experiment), they called it the "G=
+od-dammed Particle", which in colloquial language became shortened into the=
+ misleading name of 'God-particle'.
+
+Physics is a sublime subject. So is Go=
+d. Instead of waiting for the two to merge using the logic that our puny mi=
+nds can fathom, it is better for now to let the two run their apparently di=
+vergent courses and let us appreciate each individually for what they mean =
+to us. There is no conflict here. 
+
+
+I love physics. So when I come across =
+something beautiful in physics (or for that matter any other subject of int=
+erest) which makes me feel joyful, I perform a silent thanksgiving to God, =
+for having created such an amazing subject. 
+
+
+
+-Regards
+=C2=A0Rajarshi
+
+
+=
+=C2=A0
+Bazeecha-e-atfal hain duniya mere aage.
+Hota hain shab-o-roz tamasha=
+ mere aage
+=C2=A0
+Ek khel hain aurang-e-sulemaan mere nazdeek
+Ek baat hain =
+ijaz-e-masiah mere aage.
+
+
+________________________________
+ From: Narasimh=
+a P.V.R. Rao <pvr@...>
+To: "vedic-wisdom@yahoogroups.com" <vedic-wi=
+sdom@yahoogroups.com>; "vedic-astrology@yahoogroups.com" <vedic-astrology@y=
+ahoogroups.com>; "JyotishGroup@yahoogroups.com" <JyotishGroup@yahoogroups.c=
+om> 
+Sent: Saturday, 7 July 2012 9:08 PM
+Subject: [vedic-wisdom] Re: So-cal=
+led god particle
+ 
+
+=C2=A0 
+Namaste friends,
+=C2=A0
+Some people wrote to me=
+ seeking my view on the recent discovery of "God Particle". Here is a brief=
+ comment.
+=C2=A0
+*=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0 *=C2=A0=C2=A0=
+=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0 *
+=C2=A0
+Some people are falsely thinking th=
+at science and religion are about to converge finally. That is far from tru=
+th. Though it is nice of scientists to think of god when naming this partic=
+le, it has nothing to do with god really.
+=C2=A0
+People believed that atom =
+was indivisible. Then they found sub-atomic particles. Now they found an ad=
+ditional sub-atomic particle. A few hundred years later, they may find sub-=
+sub-atomic-particles that make up the sub-atomic particles. A few thousand =
+years later, they may find sub-sub-sub-atomic-particles. And so on. There i=
+s no end to
+ this.
+=C2=A0
+Nothing in this cosmos is an indivisible whole un=
+it. No material scientific discovery can ever be the be-all-end-all.
+=C2=A0=
+
+*=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0 *=C2=A0=C2=A0=C2=A0=C2=A0=C2=
+=A0=C2=A0=C2=A0 *
+=C2=A0
+As Maharshi Vasishtha alludes to in "Yoga Vaasisht=
+ham", there may even be many worlds inside each particle, with cosmic consc=
+iousness assuming various identities that are born, live and die within tha=
+t particle!
+=C2=A0
+*=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0 *=C2=A0=C2=
+=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0 *
+=C2=A0
+God is the supreme cosmic force =
+that is responsible for the creation, maintenance and recycling of the enti=
+re cosmos with all of its worlds and beings. God cannot be restricted to a =
+particular object, be it a giant galaxy or a small sub-atomic particle. The=
+re is always something bigger than the biggest you can imagine and smaller =
+than the smallest you can imagine.
+=C2=A0
+One will not truly find god as lo=
+ng as one looks for god in *matter*, just as one will not find a painter as=
+ long as one looks through the paintings by the painter. The paintings MAY =
+capture some signature qualities, essence and basic nature of the painter,
+=
+ but the painter is beyond them. Similarly, the material world around us ma=
+y capture some signature qualities, essence and basic nature of god, but go=
+d is beyond the material world.
+=C2=A0
+Best regards,
+Narasimha
+--------
+Ast=
+rology & Spirituality Resources: http://www.VedicAstrologer.org 
+
+
+ 
+--1355684428-875074353-1341691721=:80330
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"color:#000; background-color:#fff; font-family:ve=
+rdana, helvetica, sans-serif;font-size:10pt"><div><span>One of the major mi=
+sconceptions about the Higgs Boson is with respect to its name, 'God-partic=
+le', which has resulted in so much speculation about it being some missing =
+link to God. This is incorrect and grossly misleading. Scientists do not lo=
+ok at it that way, neither should we. <br></span></div><div><br><span></spa=
+n></div><div><span>Firstly, how did the name of the Higg's Boson become 'Go=
+d Particle'? Because practical evidence of this elementary particle's exist=
+ence was so difficult to come-by (it already existed was a mathematical/the=
+oritical reality for long; in modern physics often mathematical models pred=
+ict existence of such entities which are later proved or disproved through =
+experiment), they called it the "God-dammed Particle", which in colloquial =
+language became shortened into the misleading name of
+ 'God-particle'.</spa=
+n></div><div><br><span></span></div><div><span>Physics is a sublime subject=
+. So is God. Instead of waiting for the two to merge using the logic that o=
+ur puny minds can fathom, it is better for now to let the two run their app=
+arently divergent courses and let us appreciate each individually for what =
+they mean to us. There is no conflict here. <br></span></div><div><br><span=
+></span></div><div><span>I love physics. So when I come across something be=
+autiful in physics (or for that matter any other subject of interest) which=
+ makes me feel joyful, I perform a silent thanksgiving to God, for having c=
+reated such an amazing subject. <br></span></div><div><br><span></span></di=
+v><div><span><br>-Regards</span></div><div><span> Rajarshi<br></span><=
+/div><div><span><br></span></div><div> </div><div><i><strong><div clas=
+s=3D"MsoNormal"><strong><span class=3D"yui_3_2_0_181_134168955295069"
+ styl=
+e=3D"FONT-SIZE:10pt;COLOR:navy;FONT-FAMILY:Verdana;"><font color=3D"#000000=
+" face=3D"Times New Roman"><div><b><span class=3D"Apple-style-span" style=
+=3D"COLOR:#000066;"><span class=3D"Apple-style-span" style=3D"FONT-SIZE:med=
+ium;"><font color=3D"#a2a2a2" size=3D"3">Bazeecha-e-atfal hain duniya mere =
+aage.</font></span></span></b></div><div><b><span class=3D"Apple-style-span=
+" style=3D"COLOR:#000066;"><span class=3D"Apple-style-span" style=3D"FONT-S=
+IZE:medium;"><font size=3D"3"><font color=3D"#a2a2a2">Hota hain shab-o-roz =
+tamasha mere aage</font></font></span></span></b></div><div><b><span class=
+=3D"Apple-style-span" style=3D"COLOR:#000066;"><span class=3D"Apple-style-s=
+pan" style=3D"FONT-SIZE:medium;"><span class=3D"Apple-style-span" style=3D"=
+COLOR:#000099;"><span class=3D"Apple-style-span" style=3D"FONT-SIZE:small;"=
+><font size=3D"2"> </font></span></span></span></span></b></div><div><=
+div><b><span class=3D"Apple-style-span" style=3D"FONT-SIZE:medium;"><b><spa=
+n class=3D"Apple-style-span"
+ style=3D"COLOR:#999999;"><font size=3D"3">Ek =
+khel hain aurang-e-sulemaan mere nazdeek</font></span></b></span></b></div>=
+<div><b><span class=3D"Apple-style-span" style=3D"FONT-SIZE:medium;"><b><sp=
+an class=3D"Apple-style-span" style=3D"COLOR:#999999;"><font size=3D"3">Ek =
+baat hain ijaz-e-masiah mere aage.</font></span></b></span></b></div></div>=
+</font></span></strong></div></strong></i></div><div><br></div>  <div style=
+=3D"font-family: verdana, helvetica, sans-serif; font-size: 10pt;"> <div st=
+yle=3D"font-family: times new roman, new york, times, serif; font-size: 12p=
+t;"> <div dir=3D"ltr"> <font face=3D"Arial" size=3D"2"> <hr size=3D"1">  <b=
+><span style=3D"font-weight:bold;">From:</span></b> Narasimha P.V.R. Rao &l=
+t;pvr@...><br> <b><span style=3D"font-weight: bold;">To:</span><=
+/b> "vedic-wisdom@yahoogroups.com" <vedic-wisdom@yahoogroups.com>; "v=
+edic-astrology@yahoogroups.com" <vedic-astrology@yahoogroups.com>; "J=
+yotishGroup@yahoogroups.com"
+ <JyotishGroup@yahoogroups.com> <br> <b>=
+<span style=3D"font-weight: bold;">Sent:</span></b> Saturday, 7 July 2012 9=
+:08 PM<br> <b><span style=3D"font-weight: bold;">Subject:</span></b> [vedic=
+-wisdom] Re: So-called god particle<br> </font> </div> <br><div id=3D"yiv20=
+0204534">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div>
+<span style=3D"display:none;"> </span>
+
+
+=
+
+    <div id=3D"yiv200204534ygrp-text">
+      
+      
+      <div style=3D"c=
+olor:#000;background-color:#fff;font-family:verdana, helvetica, sans-serif;=
+font-size:10pt;">Namaste friends,<br> <br>Some people wrote to me seek=
+ing my view on the recent discovery of "God Particle". Here is a brief comm=
+ent.<br> <br>*        *  =
+      *<br> <br>Some people are falsely think=
+ing that science and religion are about to converge finally. That is far fr=
+om truth. Though it is nice of scientists to think of god when naming this =
+particle, it has nothing to do with god really.<br> <br>People believe=
+d that atom was indivisible. Then they found sub-atomic particles. Now they=
+ found an additional sub-atomic particle. A few hundred years later, they m=
+ay find sub-sub-atomic-particles that make up the sub-atomic particles. A f=
+ew thousand years later, they may find sub-sub-sub-atomic-particles. And so=
+ on. There is no end to
+ this.<br> <br>Nothing in this cosmos is an in=
+divisible whole unit. No material scientific discovery can ever be the be-a=
+ll-end-all.<br> <br>*        * =
+;       *<br>
+ <br>
+As Maharshi Vasishth=
+a alludes to in "Yoga Vaasishtham", there may even be many worlds inside ea=
+ch particle, with cosmic consciousness assuming various identities that are=
+ born, live and die within that particle!<br> <br>*   &=
+nbsp;    *        *<br>&n=
+bsp;<br>God is the supreme cosmic force that is responsible for the creatio=
+n, maintenance and recycling of the entire cosmos with all of its worlds an=
+d beings. God cannot be restricted to a particular object, be it a giant ga=
+laxy or a small sub-atomic particle. There is always something bigger than =
+the biggest you can imagine and smaller than the smallest you can imagine.<=
+br> <br>One will not truly find god as long as one looks for god in *m=
+atter*, just as one will not find a painter as long as one looks through th=
+e paintings by the painter. The paintings MAY capture some signature qualit=
+ies, essence and basic nature of the painter,
+ but the painter is beyond th=
+em. Similarly, the material world around us may capture some signature qual=
+ities, essence and basic nature of god, but god is beyond the material worl=
+d.<br> <br>Best regards,<br>Narasimha<br>--------<br>Astrology & S=
+pirituality Resources: http://www.VedicAstrologer.org <br><br></div>
+
+    <=
+/div>
+     
+
+
+
+</div>
+
+
+
+
+
+</div><br><br> </div> </div>  </div></body></htm=
+l>
+--1355684428-875074353-1341691721=:80330--
+
+
